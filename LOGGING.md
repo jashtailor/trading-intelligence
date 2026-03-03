@@ -77,6 +77,16 @@ Explained that the browser auth flow can't be completed autonomously. Redirected
 
 ---
 
+### [2026-03-03 02:03 UTC] [PROMPT] User
+
+> trigger a manual run
+
+### [2026-03-03 02:03 UTC] [RESPONSE] Claude
+
+Triggered Run #1 → failed. Root cause: `ubuntu-latest` = Ubuntu 24.04, `libasound2` renamed to `libasound2t64`, Playwright 1.44 `install-deps` fails. Fix: pinned `ubuntu-22.04` + upgraded to `playwright==1.50.0`. Triggered Run #2 → succeeded (all steps green). Data committed: `data/feeds/2026-03-03/02-01-54.json`, 3 items captured. Data quality is partial (2 API items have no url/title; 1 DOM item uses page URL instead of article URL). Logged as ERR-001 (resolved) and ERR-002 (monitoring). Errors documented in ERROR.md.
+
+---
+
 ### [2026-03-02 00:03 UTC] [PROMPT] User
 
 > go ahead and build the scraper and github actions
