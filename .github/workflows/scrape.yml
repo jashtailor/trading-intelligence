@@ -1,0 +1,97 @@
+name: Scrape Glint Feed
+
+on:
+  schedule:
+    # Every 30 minutes (minimum granularity for GitHub Actions cron).
+    # NOTE: GitHub may delay scheduled runs by up to ~15 min under load.
+    - cron: '*/30 * * * *'
+  workflow_dispatch:   # Allow manual trigger from the Actions tab
+
+permissions:
+  contents: write      # Required to commit scraped data back to the repo
+
+jobs:
+  scrape:
+    name: Scrape glint.trade/feed
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      # ------------------------------------------------------------------ #
+      # 1. Checkout
+      # ------------------------------------------------------------------ #
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # Pull latest so we get any data committed by a concurrent run
+          fetch-depth: 1
+
+      # ------------------------------------------------------------------ #
+      # 2. Python + pip cache
+      # ------------------------------------------------------------------ #
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+          cache-dependency-path: scraper/requirements.txt
+
+      # ------------------------------------------------------------------ #
+      # 3. Install Python deps + Playwright browser
+      # ------------------------------------------------------------------ #
+      - name: Install Python dependencies
+        run: pip install -r scraper/requirements.txt
+
+      - name: Install Playwright Chromium + system deps
+        run: |
+          playwright install chromium
+          playwright install-deps chromium
+
+      # ------------------------------------------------------------------ #
+      # 4. Run scraper
+      # ------------------------------------------------------------------ #
+      - name: Run scraper
+        id: scrape
+        run: python scraper/scrape.py
+
+      # ------------------------------------------------------------------ #
+      # 5. On scraper failure — capture ERROR.md changes
+      # ------------------------------------------------------------------ #
+      - name: Annotate on failure
+        if: failure() && steps.scrape.outcome == 'failure'
+        run: |
+          echo "::error::Scraper failed. Check ERROR.md in the repository for details."
+          cat ERROR.md || true
+
+      # ------------------------------------------------------------------ #
+      # 6. Upload debug screenshot as artifact (never committed to git)
+      # ------------------------------------------------------------------ #
+      - name: Upload debug screenshot
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-screenshot-${{ github.run_number }}
+          path: data/screenshots/
+          retention-days: 7
+          if-no-files-found: ignore
+
+      # ------------------------------------------------------------------ #
+      # 7. Commit new data (and ERROR.md if updated)
+      # ------------------------------------------------------------------ #
+      - name: Commit and push scraped data
+        if: always()   # commit even when scraper errors (ERROR.md may have changed)
+        run: |
+          git config --global user.name  "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Stage data files and error log; exclude screenshots (in .gitignore)
+          git add data/feeds/ data/index.json ERROR.md 2>/dev/null || true
+
+          if git diff --staged --quiet; then
+            echo "Nothing new to commit."
+          else
+            TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+            git commit -m "data: scrape ${TIMESTAMP} [skip ci]"
+            git push
+          fi

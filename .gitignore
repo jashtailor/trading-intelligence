@@ -1,0 +1,13 @@
+# Debug screenshots (uploaded as GitHub Actions artifacts instead)
+data/screenshots/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
