@@ -13,7 +13,7 @@ permissions:
 jobs:
   scrape:
     name: Scrape glint.trade/feed
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     timeout-minutes: 15
 
     steps:
