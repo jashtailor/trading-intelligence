@@ -1,0 +1,731 @@
+{
+  "scraped_at": "2026-03-31T11:42:27.857084+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 2,
+  "items": [
+    {
+      "error": "missing authorization header",
+      "_scraped_at": "2026-03-31T11:42:27.857084+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/geolocations/events"
+    },
+    {
+      "countries": [
+        {
+          "count": 130,
+          "country": "US",
+          "recent": 31,
+          "volume": 1972358548.6522968
+        },
+        {
+          "count": 100,
+          "country": "IR",
+          "recent": 13,
+          "volume": 1262749450.1324663
+        },
+        {
+          "count": 66,
+          "country": "IL",
+          "recent": 14,
+          "volume": 271348614.0563375
+        },
+        {
+          "count": 32,
+          "country": "LB",
+          "recent": 6,
+          "volume": 113909566.9982867
+        },
+        {
+          "count": 26,
+          "country": "RU",
+          "recent": 8,
+          "volume": 197753218.1151995
+        },
+        {
+          "count": 19,
+          "country": "GB",
+          "recent": 13,
+          "volume": 2380906.704951791
+        },
+        {
+          "count": 18,
+          "country": "UA",
+          "recent": 1,
+          "volume": 270185080.3992054
+        },
+        {
+          "count": 11,
+          "country": "CN",
+          "recent": 2,
+          "volume": 3545632.643514085
+        },
+        {
+          "count": 8,
+          "country": "JP",
+          "recent": 0,
+          "volume": 2273831.784753944
+        },
+        {
+          "count": 7,
+          "country": "YE",
+          "recent": 1,
+          "volume": 1858773.9321091746
+        },
+        {
+          "count": 6,
+          "country": "PS",
+          "recent": 2,
+          "volume": 57830674.58020095
+        },
+        {
+          "count": 5,
+          "country": "PK",
+          "recent": 1,
+          "volume": 2346126.369135811
+        },
+        {
+          "count": 5,
+          "country": "KW",
+          "recent": 0,
+          "volume": 57224436.67295452
+        },
+        {
+          "count": 4,
+          "country": "SA",
+          "recent": 0,
+          "volume": 343318.2701950001
+        },
+        {
+          "count": 4,
+          "country": "ES",
+          "recent": 1,
+          "volume": 59538587.53704532
+        },
+        {
+          "count": 4,
+          "country": "QA",
+          "recent": 1,
+          "volume": 1848575.78202079
+        },
+        {
+          "count": 4,
+          "country": "FR",
+          "recent": 2,
+          "volume": 0
+        },
+        {
+          "count": 3,
+          "country": "AU",
+          "recent": 1,
+          "volume": 0
+        },
+        {
+          "count": 3,
+          "country": "TR",
+          "recent": 1,
+          "volume": 58204202.46512153
+        },
+        {
+          "count": 3,
+          "country": "HU",
+          "recent": 0,
+          "volume": 44352913.8882074
+        },
+        {
+          "count": 3,
+          "country": "IN",
+          "recent": 0,
+          "volume": 363683.952431838
+        },
+        {
+          "count": 3,
+          "country": "AE",
+          "recent": 0,
+          "volume": 114410043.80107637
+        },
+        {
+          "count": 3,
+          "country": "PL",
+          "recent": 1,
+          "volume": 0
+        },
+        {
+          "count": 2,
+          "country": "ZA",
+          "recent": 1,
+          "volume": 0
+        },
+        {
+          "count": 2,
+          "country": "IT",
+          "recent": 1,
+          "volume": 57194013.40294953
+        },
+        {
+          "count": 2,
+          "country": "DE",
+          "recent": 1,
+          "volume": 0
+        },
+        {
+          "count": 2,
+          "country": "SD",
+          "recent": 0,
+          "volume": 0
+        },
+        {
+          "count": 1,
+          "country": "CA",
+          "recent": 1,
+          "volume": 0
+        },
+        {
+          "count": 1,
+          "country": "CH",
+          "recent": 1,
+          "volume": 0
+        },
+        {
+          "count": 1,
+          "country": "SK",
+          "recent": 1,
+          "volume": 0
+        },
+        {
+          "count": 1,
+          "country": "EG",
+          "recent": 0,
+          "volume": 0
+        },
+        {
+          "count": 1,
+          "country": "TW",
+          "recent": 1,
+          "volume": 0
+        },
+        {
+          "count": 1,
+          "country": "SG",
+          "recent": 0,
+          "volume": 0
+        },
+        {
+          "count": 1,
+          "country": "BH",
+          "recent": 0,
+          "volume": 29694.169224999998
+        },
+        {
+          "count": 1,
+          "country": "MX",
+          "recent": 0,
+          "volume": 0
+        },
+        {
+          "count": 1,
+          "country": "VN",
+          "recent": 0,
+          "volume": 3975.447997
+        },
+        {
+          "count": 1,
+          "country": "ET",
+          "recent": 1,
+          "volume": 0
+        },
+        {
+          "count": 1,
+          "country": "OM",
+          "recent": 1,
+          "volume": 0
+        },
+        {
+          "count": 1,
+          "country": "FI",
+          "recent": 0,
+          "volume": 555772.1891430016
+        },
+        {
+          "count": 1,
+          "country": "NO",
+          "recent": 0,
+          "volume": 1201108.988335718
+        },
+        {
+          "count": 1,
+          "country": "TH",
+          "recent": 0,
+          "volume": 0
+        },
+        {
+          "count": 1,
+          "country": "PH",
+          "recent": 0,
+          "volume": 195605.95309599984
+        },
+        {
+          "count": 1,
+          "country": "KR",
+          "recent": 0,
+          "volume": 57149.721750829995
+        },
+        {
+          "count": 1,
+          "country": "PE",
+          "recent": 0,
+          "volume": 48475819.86148127
+        },
+        {
+          "count": 1,
+          "country": "MY",
+          "recent": 0,
+          "volume": 1662122.1181355026
+        }
+      ],
+      "diamonds": [
+        {
+          "a": 12395.592,
+          "s": "BUY",
+          "t": "62,000"
+        },
+        {
+          "a": 20153.2058,
+          "s": "BUY",
+          "t": ""
+        },
+        {
+          "a": 24796.59659,
+          "s": "SELL",
+          "t": "March 31"
+        },
+        {
+          "a": 22369.41819,
+          "s": "SELL",
+          "t": ""
+        },
+        {
+          "a": 14895,
+          "s": "SELL",
+          "t": "March 31"
+        },
+        {
+          "a": 22736.59065,
+          "s": "BUY",
+          "t": ""
+        },
+        {
+          "a": 13977.94806,
+          "s": "SELL",
+          "t": "March 31"
+        },
+        {
+          "a": 41500,
+          "s": "SELL",
+          "t": "December 31"
+        },
+        {
+          "a": 11200.499998,
+          "s": "BUY",
+          "t": "\u2191 80,000"
+        },
+        {
+          "a": 34058.878,
+          "s": "BUY",
+          "t": "March 31"
+        },
+        {
+          "a": 14657.091,
+          "s": "BUY",
+          "t": "Viktor Orb\u00e1n"
+        },
+        {
+          "a": 15532.9649,
+          "s": "BUY",
+          "t": "March 31"
+        },
+        {
+          "a": 13160.0268,
+          "s": "BUY",
+          "t": ""
+        },
+        {
+          "a": 19755.891,
+          "s": "SELL",
+          "t": "December 31"
+        },
+        {
+          "a": 43332.95905,
+          "s": "BUY",
+          "t": "$2B"
+        },
+        {
+          "a": 10583.85555,
+          "s": "BUY",
+          "t": ""
+        },
+        {
+          "a": 57950.33166,
+          "s": "SELL",
+          "t": "\u2191 $200"
+        },
+        {
+          "a": 34763.0292,
+          "s": "BUY",
+          "t": "April 15"
+        },
+        {
+          "a": 43310.42884,
+          "s": "SELL",
+          "t": "March 31"
+        },
+        {
+          "a": 46678.36491,
+          "s": "BUY",
+          "t": "200-219"
+        },
+        {
+          "a": 29970,
+          "s": "BUY",
+          "t": "200-219"
+        },
+        {
+          "a": 20315.2655,
+          "s": "SELL",
+          "t": "$1B"
+        },
+        {
+          "a": 13116.82586,
+          "s": "BUY",
+          "t": "March 31"
+        },
+        {
+          "a": 199800,
+          "s": "BUY",
+          "t": ""
+        },
+        {
+          "a": 19999.98,
+          "s": "BUY",
+          "t": "62,000"
+        },
+        {
+          "a": 19980,
+          "s": "BUY",
+          "t": ""
+        },
+        {
+          "a": 10989.7734,
+          "s": "BUY",
+          "t": "Los Angeles Lakers"
+        },
+        {
+          "a": 209444.5313,
+          "s": "BUY",
+          "t": "December 31"
+        },
+        {
+          "a": 10068.4675,
+          "s": "BUY",
+          "t": "April 30"
+        },
+        {
+          "a": 14983.127,
+          "s": "BUY",
+          "t": "April 30"
+        }
+      ],
+      "dots": [
+        {
+          "c": "LB",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "IL",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "IL",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "HU",
+          "l": "high"
+        },
+        {
+          "c": "IL",
+          "l": "high"
+        },
+        {
+          "c": "UA",
+          "l": "high"
+        },
+        {
+          "c": "LB",
+          "l": "high"
+        },
+        {
+          "c": "TR",
+          "l": "high"
+        },
+        {
+          "c": "IL",
+          "l": "high"
+        },
+        {
+          "c": "IL",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "IL",
+          "l": "high"
+        },
+        {
+          "c": "IL",
+          "l": "high"
+        },
+        {
+          "c": "RU",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "critical"
+        },
+        {
+          "c": "US",
+          "l": "critical"
+        },
+        {
+          "c": "US",
+          "l": "critical"
+        }
+      ],
+      "flights": [
+        {
+          "cat": "Heavy Cargo",
+          "cs": "BGA145H",
+          "lat": 53.4047,
+          "lng": -1.4521,
+          "ts": 1774956647077
+        },
+        {
+          "cat": "Presidential",
+          "cs": "TARTN27",
+          "lat": 51.7332,
+          "lng": -1.6727,
+          "ts": 1774955596432
+        },
+        {
+          "cat": "Presidential",
+          "cs": "RRR1312",
+          "lat": 50.9013,
+          "lng": 4.4387,
+          "ts": 1774955472173
+        },
+        {
+          "cat": "Heavy Cargo",
+          "cs": "BGA123Y",
+          "lat": 48.6123,
+          "lng": 0.5667,
+          "ts": 1774954907249
+        },
+        {
+          "cat": "Drone",
+          "cs": "MAGMA10",
+          "lat": 36.5979,
+          "lng": 15.4261,
+          "ts": 1774954805568
+        },
+        {
+          "cat": "Other",
+          "cs": "SAS909",
+          "lat": 55.834,
+          "lng": 11.6868,
+          "ts": 1774954769456
+        },
+        {
+          "cat": "Drone",
+          "cs": "MAGMA10",
+          "lat": 36.5522,
+          "lng": 15.5104,
+          "ts": 1774954738072
+        },
+        {
+          "cat": "Heavy Cargo",
+          "cs": "N/A",
+          "lat": 32.1212,
+          "lng": 29.5873,
+          "ts": 1774954431433
+        },
+        {
+          "cat": "Heavy Cargo",
+          "cs": "ADB785F",
+          "lat": 51.5981,
+          "lng": 11.3146,
+          "ts": 1774953285564
+        },
+        {
+          "cat": "AWACS",
+          "cs": "FAF9025",
+          "lat": 47.0566,
+          "lng": 1.6081,
+          "ts": 1774953128164
+        },
+        {
+          "cat": "Heavy Cargo",
+          "cs": "BGA134G",
+          "lat": 53.527,
+          "lng": 9.8186,
+          "ts": 1774952073063
+        },
+        {
+          "cat": "Presidential",
+          "cs": "FORGE78",
+          "lat": 38.6949,
+          "lng": -76.8777,
+          "ts": 1774949565355
+        },
+        {
+          "cat": "Presidential",
+          "cs": "RSD977",
+          "lat": 55.6068,
+          "lng": 37.3283,
+          "ts": 1774949443092
+        },
+        {
+          "cat": "Heavy Cargo",
+          "cs": "BGA183J",
+          "lat": 48.6465,
+          "lng": 0.6828,
+          "ts": 1774948537038
+        },
+        {
+          "cat": "Presidential",
+          "cs": "RRR1312",
+          "lat": 51.5512,
+          "lng": -0.4261,
+          "ts": 1774948197785
+        },
+        {
+          "cat": "Royal",
+          "cs": "DUB4",
+          "lat": 51.8446,
+          "lng": 0.1901,
+          "ts": 1774948074619
+        },
+        {
+          "cat": "Other",
+          "cs": "RCH525",
+          "lat": 55.2261,
+          "lng": -3.718,
+          "ts": 1774946363169
+        },
+        {
+          "cat": "Tanker",
+          "cs": "LION01",
+          "lat": 54.2035,
+          "lng": 8.0047,
+          "ts": 1774946116599
+        },
+        {
+          "cat": "Presidential",
+          "cs": "SAM620",
+          "lat": 27.8751,
+          "lng": -82.4874,
+          "ts": 1774944426226
+        },
+        {
+          "cat": "Tanker",
+          "cs": "LINCE03",
+          "lat": 40.5093,
+          "lng": -3.428,
+          "ts": 1774943934478
+        },
+        {
+          "cat": "AWACS",
+          "cs": "WGTL01",
+          "lat": -31.7009,
+          "lng": 116.0197,
+          "ts": 1774941478189
+        },
+        {
+          "cat": "Presidential",
+          "cs": "SAMB2",
+          "lat": -31.1039,
+          "lng": 116.1471,
+          "ts": 1774939738634
+        },
+        {
+          "cat": "AWACS",
+          "cs": "WGTL05",
+          "lat": -32.8236,
+          "lng": 151.8797,
+          "ts": 1774939372395
+        }
+      ],
+      "_scraped_at": "2026-03-31T11:42:27.857084+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe"
+    }
+  ]
+}
