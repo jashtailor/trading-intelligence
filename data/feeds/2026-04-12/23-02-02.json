@@ -1,0 +1,585 @@
+{
+  "scraped_at": "2026-04-12T23:01:53.775281+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 2,
+  "items": [
+    {
+      "error": "missing authorization header",
+      "_scraped_at": "2026-04-12T23:01:53.775281+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/geolocations/events"
+    },
+    {
+      "countries": [
+        {
+          "count": 42,
+          "country": "US",
+          "recent": 5,
+          "volume": 65524762.42841987
+        },
+        {
+          "count": 33,
+          "country": "IR",
+          "recent": 4,
+          "volume": 57325379.406436965
+        },
+        {
+          "count": 15,
+          "country": "PK",
+          "recent": 2,
+          "volume": 35702448.50396309
+        },
+        {
+          "count": 13,
+          "country": "HU",
+          "recent": 0,
+          "volume": 153541215.18338877
+        },
+        {
+          "count": 11,
+          "country": "IL",
+          "recent": 1,
+          "volume": 17539681.302107375
+        },
+        {
+          "count": 10,
+          "country": "LB",
+          "recent": 1,
+          "volume": 4130828.2358309315
+        },
+        {
+          "count": 10,
+          "country": "UA",
+          "recent": 1,
+          "volume": 74386298.02496415
+        },
+        {
+          "count": 4,
+          "country": "NL",
+          "recent": 0,
+          "volume": 0
+        },
+        {
+          "count": 3,
+          "country": "AU",
+          "recent": 3,
+          "volume": 0
+        },
+        {
+          "count": 3,
+          "country": "VE",
+          "recent": 1,
+          "volume": 3374771.548261529
+        },
+        {
+          "count": 3,
+          "country": "GB",
+          "recent": 2,
+          "volume": 0
+        },
+        {
+          "count": 2,
+          "country": "YE",
+          "recent": 1,
+          "volume": 462650.13310516963
+        },
+        {
+          "count": 2,
+          "country": "LV",
+          "recent": 0,
+          "volume": 5042.196454599998
+        },
+        {
+          "count": 2,
+          "country": "LU",
+          "recent": 0,
+          "volume": 2126016.9040504456
+        },
+        {
+          "count": 2,
+          "country": "CN",
+          "recent": 0,
+          "volume": 344269.74476800126
+        },
+        {
+          "count": 1,
+          "country": "JP",
+          "recent": 0,
+          "volume": 0
+        },
+        {
+          "count": 1,
+          "country": "RU",
+          "recent": 0,
+          "volume": 0
+        },
+        {
+          "count": 1,
+          "country": "PS",
+          "recent": 0,
+          "volume": 1473336.947858284
+        },
+        {
+          "count": 1,
+          "country": "TR",
+          "recent": 0,
+          "volume": 133501.58910572017
+        },
+        {
+          "count": 1,
+          "country": "BE",
+          "recent": 0,
+          "volume": 0
+        },
+        {
+          "count": 1,
+          "country": "CU",
+          "recent": 0,
+          "volume": 971663.2241130023
+        },
+        {
+          "count": 1,
+          "country": "NO",
+          "recent": 0,
+          "volume": 122107.26322287902
+        }
+      ],
+      "diamonds": [
+        {
+          "a": 10323.989,
+          "s": "BUY",
+          "t": ""
+        },
+        {
+          "a": 10368.64098,
+          "s": "SELL",
+          "t": "Rory McIlroy"
+        },
+        {
+          "a": 33009.28767,
+          "s": "SELL",
+          "t": "Rory McIlroy"
+        },
+        {
+          "a": 10874.23405,
+          "s": "BUY",
+          "t": "Scottie Scheffler"
+        },
+        {
+          "a": 24286.34731,
+          "s": "BUY",
+          "t": "Rory McIlroy"
+        },
+        {
+          "a": 29693.60856,
+          "s": "BUY",
+          "t": "Scottie Scheffler"
+        },
+        {
+          "a": 11988,
+          "s": "BUY",
+          "t": "78,000"
+        },
+        {
+          "a": 11348.73,
+          "s": "BUY",
+          "t": "Rory McIlroy"
+        },
+        {
+          "a": 10730.9132,
+          "s": "BUY",
+          "t": "Rory McIlroy"
+        },
+        {
+          "a": 140696.2072,
+          "s": "BUY",
+          "t": "Rory McIlroy"
+        },
+        {
+          "a": 11516.8918,
+          "s": "BUY",
+          "t": "Rory McIlroy"
+        },
+        {
+          "a": 25599.2157,
+          "s": "BUY",
+          "t": "Rory McIlroy"
+        },
+        {
+          "a": 12947.85,
+          "s": "BUY",
+          "t": "Rory McIlroy"
+        },
+        {
+          "a": 20645.5311,
+          "s": "BUY",
+          "t": "Rory McIlroy"
+        },
+        {
+          "a": 16596.4556,
+          "s": "BUY",
+          "t": "Rory McIlroy"
+        },
+        {
+          "a": 48840.8354,
+          "s": "BUY",
+          "t": "Rory McIlroy"
+        },
+        {
+          "a": 10054.42966,
+          "s": "BUY",
+          "t": "Roberto S\u00e1nchez Palomino"
+        },
+        {
+          "a": 25261.5895,
+          "s": "BUY",
+          "t": "Rory McIlroy"
+        },
+        {
+          "a": 19970.01,
+          "s": "BUY",
+          "t": "April 14"
+        },
+        {
+          "a": 12568.0421,
+          "s": "BUY",
+          "t": "Rory McIlroy"
+        },
+        {
+          "a": 10933.7678,
+          "s": "BUY",
+          "t": ""
+        },
+        {
+          "a": 14759.1996,
+          "s": "BUY",
+          "t": "\u2193 1,800"
+        },
+        {
+          "a": 14908.738,
+          "s": "BUY",
+          "t": "Rory McIlroy"
+        },
+        {
+          "a": 18675.0164,
+          "s": "BUY",
+          "t": "Rory McIlroy"
+        },
+        {
+          "a": 16269.093,
+          "s": "BUY",
+          "t": "Rory McIlroy"
+        },
+        {
+          "a": 10058.48145,
+          "s": "BUY",
+          "t": "April 22"
+        },
+        {
+          "a": 54945,
+          "s": "BUY",
+          "t": "Military action through April 30"
+        },
+        {
+          "a": 21159.0648,
+          "s": "BUY",
+          "t": "Rory McIlroy"
+        },
+        {
+          "a": 18607.485,
+          "s": "BUY",
+          "t": "Rory McIlroy"
+        },
+        {
+          "a": 16690.2525,
+          "s": "BUY",
+          "t": "Rory McIlroy"
+        }
+      ],
+      "dots": [
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "IL",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "LB",
+          "l": "high"
+        },
+        {
+          "c": "LB",
+          "l": "high"
+        },
+        {
+          "c": "IL",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "PS",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "HU",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "UA",
+          "l": "high"
+        },
+        {
+          "c": "PK",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "IL",
+          "l": "high"
+        },
+        {
+          "c": "LB",
+          "l": "high"
+        },
+        {
+          "c": "LB",
+          "l": "high"
+        },
+        {
+          "c": "HU",
+          "l": "high"
+        },
+        {
+          "c": "LB",
+          "l": "high"
+        },
+        {
+          "c": "PK",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "UA",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "PK",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "IL",
+          "l": "high"
+        },
+        {
+          "c": "IL",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "UA",
+          "l": "high"
+        },
+        {
+          "c": "HU",
+          "l": "high"
+        },
+        {
+          "c": "LB",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "PK",
+          "l": "high"
+        },
+        {
+          "c": "LU",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "PK",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "UA",
+          "l": "high"
+        },
+        {
+          "c": "IL",
+          "l": "high"
+        },
+        {
+          "c": "TR",
+          "l": "high"
+        },
+        {
+          "c": "PK",
+          "l": "high"
+        }
+      ],
+      "flights": [
+        {
+          "cat": "Royal",
+          "cs": "DUB4",
+          "lat": 38.1458,
+          "lng": -85.7171,
+          "ts": 1776034796281
+        },
+        {
+          "cat": "Presidential",
+          "cs": "N/A",
+          "lat": 25.8845,
+          "lng": -79.9068,
+          "ts": 1776034793740
+        },
+        {
+          "cat": "Presidential",
+          "cs": "SAM333",
+          "lat": 25.8342,
+          "lng": -80.5646,
+          "ts": 1776033573770
+        },
+        {
+          "cat": "Presidential",
+          "cs": "SAM318",
+          "lat": 37.9884,
+          "lng": -77.1034,
+          "ts": 1776031108347
+        },
+        {
+          "cat": "Royal",
+          "cs": "PHGOV",
+          "lat": 38.9391,
+          "lng": -77.466,
+          "ts": 1776025326683
+        },
+        {
+          "cat": "Presidential",
+          "cs": "SAM033",
+          "lat": 43.778,
+          "lng": -70.1397,
+          "ts": 1776024249788
+        },
+        {
+          "cat": "Other",
+          "cs": "JSX294",
+          "lat": 32.1022,
+          "lng": -96.841,
+          "ts": 1776023580295
+        },
+        {
+          "cat": "Presidential",
+          "cs": "SAM264",
+          "lat": 38.5511,
+          "lng": -78.5254,
+          "ts": 1776023168939
+        },
+        {
+          "cat": "Presidential",
+          "cs": "SAM095",
+          "lat": 44.4537,
+          "lng": -69.1176,
+          "ts": 1776022594001
+        },
+        {
+          "cat": "Presidential",
+          "cs": "SAM411",
+          "lat": 37.1589,
+          "lng": -77.374,
+          "ts": 1776022593656
+        },
+        {
+          "cat": "Presidential",
+          "cs": "SAM091",
+          "lat": 44.5151,
+          "lng": -69.0277,
+          "ts": 1776021057004
+        }
+      ],
+      "_scraped_at": "2026-04-12T23:01:53.775281+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe"
+    }
+  ]
+}
