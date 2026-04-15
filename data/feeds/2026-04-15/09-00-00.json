@@ -1,0 +1,146 @@
+{
+  "scraped_at": "2026-04-15T08:59:49.350837+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 2,
+  "items": [
+    {
+      "error": "missing authorization header",
+      "_scraped_at": "2026-04-15T08:59:49.350837+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/geolocations/events"
+    },
+    {
+      "countries": [
+        {
+          "count": 10,
+          "country": "US",
+          "recent": 10,
+          "volume": 0
+        },
+        {
+          "count": 8,
+          "country": "CN",
+          "recent": 8,
+          "volume": 0
+        },
+        {
+          "count": 6,
+          "country": "UA",
+          "recent": 6,
+          "volume": 434782.5611059998
+        },
+        {
+          "count": 3,
+          "country": "IR",
+          "recent": 3,
+          "volume": 479409.31299385166
+        },
+        {
+          "count": 3,
+          "country": "IL",
+          "recent": 3,
+          "volume": 91619.26282600002
+        },
+        {
+          "count": 2,
+          "country": "LB",
+          "recent": 2,
+          "volume": 0
+        },
+        {
+          "count": 2,
+          "country": "PL",
+          "recent": 2,
+          "volume": 0
+        },
+        {
+          "count": 1,
+          "country": "DZ",
+          "recent": 1,
+          "volume": 0
+        },
+        {
+          "count": 1,
+          "country": "FR",
+          "recent": 1,
+          "volume": 0
+        },
+        {
+          "count": 1,
+          "country": "HU",
+          "recent": 1,
+          "volume": 0
+        },
+        {
+          "count": 1,
+          "country": "KP",
+          "recent": 1,
+          "volume": 0
+        },
+        {
+          "count": 1,
+          "country": "ZA",
+          "recent": 1,
+          "volume": 0
+        },
+        {
+          "count": 1,
+          "country": "RU",
+          "recent": 1,
+          "volume": 0
+        },
+        {
+          "count": 1,
+          "country": "SD",
+          "recent": 1,
+          "volume": 0
+        },
+        {
+          "count": 1,
+          "country": "AU",
+          "recent": 1,
+          "volume": 0
+        }
+      ],
+      "diamonds": [
+        {
+          "a": 17419.21291,
+          "s": "SELL",
+          "t": "\u2191 $150"
+        },
+        {
+          "a": 19237.88,
+          "s": "SELL",
+          "t": "\u2191 $140"
+        },
+        {
+          "a": 13000.9897,
+          "s": "BUY",
+          "t": "\u2191 $100"
+        }
+      ],
+      "dots": [
+        {
+          "c": "IL",
+          "l": "high"
+        },
+        {
+          "c": "UA",
+          "l": "high"
+        },
+        {
+          "c": "UA",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        }
+      ],
+      "flights": null,
+      "_scraped_at": "2026-04-15T08:59:49.350837+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe"
+    }
+  ]
+}
