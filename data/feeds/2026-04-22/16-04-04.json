@@ -1,0 +1,608 @@
+{
+  "scraped_at": "2026-04-22T16:03:57.419104+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 2,
+  "items": [
+    {
+      "error": "missing authorization header",
+      "_scraped_at": "2026-04-22T16:03:57.419104+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/geolocations/events"
+    },
+    {
+      "countries": [
+        {
+          "count": 84,
+          "country": "US",
+          "recent": 9,
+          "volume": 1274453607.7661645
+        },
+        {
+          "count": 42,
+          "country": "IR",
+          "recent": 3,
+          "volume": 380793551.3679681
+        },
+        {
+          "count": 18,
+          "country": "UA",
+          "recent": 4,
+          "volume": 91322610.12564754
+        },
+        {
+          "count": 17,
+          "country": "LB",
+          "recent": 0,
+          "volume": 5299600.116796005
+        },
+        {
+          "count": 17,
+          "country": "PK",
+          "recent": 2,
+          "volume": 144896867.73110506
+        },
+        {
+          "count": 5,
+          "country": "FR",
+          "recent": 3,
+          "volume": 77608394.67663592
+        },
+        {
+          "count": 4,
+          "country": "IL",
+          "recent": 0,
+          "volume": 40767501.38067514
+        },
+        {
+          "count": 3,
+          "country": "GB",
+          "recent": 0,
+          "volume": 49580227.24075227
+        },
+        {
+          "count": 2,
+          "country": "RU",
+          "recent": 0,
+          "volume": 32249266.589817878
+        },
+        {
+          "count": 2,
+          "country": "CN",
+          "recent": 0,
+          "volume": 35863962.25692501
+        },
+        {
+          "count": 1,
+          "country": "BG",
+          "recent": 0,
+          "volume": 174532.340236
+        },
+        {
+          "count": 1,
+          "country": "IN",
+          "recent": 1,
+          "volume": 0
+        },
+        {
+          "count": 1,
+          "country": "MX",
+          "recent": 0,
+          "volume": 556740.9558529999
+        },
+        {
+          "count": 1,
+          "country": "CH",
+          "recent": 0,
+          "volume": 26036664.97582664
+        },
+        {
+          "count": 1,
+          "country": "TW",
+          "recent": 0,
+          "volume": 1667693.2149160039
+        },
+        {
+          "count": 1,
+          "country": "JP",
+          "recent": 0,
+          "volume": 4729.214213000008
+        },
+        {
+          "count": 1,
+          "country": "IT",
+          "recent": 1,
+          "volume": 0
+        },
+        {
+          "count": 1,
+          "country": "OM",
+          "recent": 0,
+          "volume": 1276175.9782850004
+        },
+        {
+          "count": 1,
+          "country": "HU",
+          "recent": 1,
+          "volume": 355518.6963240001
+        },
+        {
+          "count": 1,
+          "country": "PT",
+          "recent": 1,
+          "volume": 0
+        }
+      ],
+      "diamonds": [
+        {
+          "a": 18760.55067,
+          "s": "SELL",
+          "t": "80,000"
+        },
+        {
+          "a": 15341.5802,
+          "s": "SELL",
+          "t": "1T+"
+        },
+        {
+          "a": 37072.76704,
+          "s": "BUY",
+          "t": "April 22"
+        },
+        {
+          "a": 10743.2832,
+          "s": "BUY",
+          "t": "Up"
+        },
+        {
+          "a": 28534.9248,
+          "s": "SELL",
+          "t": "Keiko Fujimori"
+        },
+        {
+          "a": 10701.35793,
+          "s": "SELL",
+          "t": "Up"
+        },
+        {
+          "a": 19920,
+          "s": "BUY",
+          "t": "April 22"
+        },
+        {
+          "a": 110999.889,
+          "s": "BUY",
+          "t": "April 7"
+        },
+        {
+          "a": 13675.69062,
+          "s": "BUY",
+          "t": "$300M"
+        },
+        {
+          "a": 11449.83999,
+          "s": "BUY",
+          "t": ""
+        },
+        {
+          "a": 30868.50012,
+          "s": "BUY",
+          "t": "April 22"
+        },
+        {
+          "a": 41748.90753,
+          "s": "BUY",
+          "t": "April 30"
+        },
+        {
+          "a": 11072.05686,
+          "s": "BUY",
+          "t": ">82,000"
+        },
+        {
+          "a": 24900,
+          "s": "BUY",
+          "t": "Ivory Coast"
+        },
+        {
+          "a": 15540.9888,
+          "s": "BUY",
+          "t": "April 23"
+        },
+        {
+          "a": 15191.66823,
+          "s": "SELL",
+          "t": "April 22"
+        },
+        {
+          "a": 78568.8645,
+          "s": "BUY",
+          "t": "April 23"
+        },
+        {
+          "a": 10067.4,
+          "s": "SELL",
+          "t": "April 22"
+        },
+        {
+          "a": 21347.44126,
+          "s": "SELL",
+          "t": "April 22"
+        },
+        {
+          "a": 18719.4692,
+          "s": "BUY",
+          "t": "April 23"
+        },
+        {
+          "a": 10310.28,
+          "s": "BUY",
+          "t": "April 24"
+        },
+        {
+          "a": 14594.4372,
+          "s": "BUY",
+          "t": "Arsenal"
+        },
+        {
+          "a": 23551.39503,
+          "s": "BUY",
+          "t": "Up"
+        },
+        {
+          "a": 20543.6362,
+          "s": "SELL",
+          "t": "April 22"
+        },
+        {
+          "a": 17448.5186,
+          "s": "BUY",
+          "t": "April 23"
+        },
+        {
+          "a": 59834.2546,
+          "s": "BUY",
+          "t": "April 23"
+        },
+        {
+          "a": 100267.96656,
+          "s": "SELL",
+          "t": "April 22"
+        },
+        {
+          "a": 10561.1144,
+          "s": "BUY",
+          "t": "April 23"
+        },
+        {
+          "a": 15862.6215,
+          "s": "BUY",
+          "t": "Up"
+        },
+        {
+          "a": 14349.15288,
+          "s": "BUY",
+          "t": ""
+        }
+      ],
+      "dots": [
+        {
+          "c": "CN",
+          "l": "high"
+        },
+        {
+          "c": "UA",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "PK",
+          "l": "high"
+        },
+        {
+          "c": "PK",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "MX",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "GB",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "PK",
+          "l": "high"
+        },
+        {
+          "c": "UA",
+          "l": "high"
+        },
+        {
+          "c": "GB",
+          "l": "high"
+        },
+        {
+          "c": "UA",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "IL",
+          "l": "high"
+        },
+        {
+          "c": "FR",
+          "l": "high"
+        },
+        {
+          "c": "LB",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "PK",
+          "l": "high"
+        },
+        {
+          "c": "OM",
+          "l": "high"
+        },
+        {
+          "c": "UA",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "LB",
+          "l": "high"
+        },
+        {
+          "c": "LB",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "UA",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "PK",
+          "l": "high"
+        },
+        {
+          "c": "LB",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "LB",
+          "l": "high"
+        }
+      ],
+      "flights": [
+        {
+          "cat": "Doomsday",
+          "cs": "DAGGR17",
+          "lat": 40.1514,
+          "lng": -79.4878,
+          "ts": 1776872951804
+        },
+        {
+          "cat": "Presidential",
+          "cs": "FORGE78",
+          "lat": 37.5208,
+          "lng": -79.8268,
+          "ts": 1776872950545
+        },
+        {
+          "cat": "Presidential",
+          "cs": "VALOR76",
+          "lat": 45.3741,
+          "lng": -66.2149,
+          "ts": 1776872949672
+        },
+        {
+          "cat": "Presidential",
+          "cs": "RSD684",
+          "lat": 55.4805,
+          "lng": 37.4491,
+          "ts": 1776870021248
+        },
+        {
+          "cat": "Heavy Cargo",
+          "cs": "BGA231G",
+          "lat": 53.4757,
+          "lng": 9.6569,
+          "ts": 1776869981154
+        },
+        {
+          "cat": "NASA/Science",
+          "cs": "NASA806",
+          "lat": 38.8408,
+          "lng": -104.7324,
+          "ts": 1776869288599
+        },
+        {
+          "cat": "Heavy Cargo",
+          "cs": "BGA143R",
+          "lat": 53.3993,
+          "lng": -1.5364,
+          "ts": 1776868788886
+        },
+        {
+          "cat": "Royal",
+          "cs": "PHGOV",
+          "lat": 41.1768,
+          "lng": 28.9412,
+          "ts": 1776868096626
+        },
+        {
+          "cat": "Presidential",
+          "cs": "N/A",
+          "lat": 38.8489,
+          "lng": -76.9055,
+          "ts": 1776868095179
+        },
+        {
+          "cat": "Drone",
+          "cs": "T709",
+          "lat": 46.909,
+          "lng": -96.8123,
+          "ts": 1776865925413
+        },
+        {
+          "cat": "Tanker",
+          "cs": "CFC3316",
+          "lat": 27.9426,
+          "lng": -82.5501,
+          "ts": 1776865214567
+        },
+        {
+          "cat": "Presidential",
+          "cs": "SAM141",
+          "lat": 28.7254,
+          "lng": -82.7247,
+          "ts": 1776865132594
+        },
+        {
+          "cat": "Heavy Cargo",
+          "cs": "3CMAF",
+          "lat": 2.1171,
+          "lng": 10.7349,
+          "ts": 1776863676013
+        },
+        {
+          "cat": "Presidential",
+          "cs": "RRR1504",
+          "lat": 51.5775,
+          "lng": -0.3752,
+          "ts": 1776862481963
+        },
+        {
+          "cat": "AWACS",
+          "cs": "NATO01",
+          "lat": 49.2194,
+          "lng": 14.7038,
+          "ts": 1776860554501
+        },
+        {
+          "cat": "Presidential",
+          "cs": "SAM252",
+          "lat": 38.7571,
+          "lng": -76.8725,
+          "ts": 1776859390453
+        }
+      ],
+      "_scraped_at": "2026-04-22T16:03:57.419104+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe"
+    }
+  ]
+}
