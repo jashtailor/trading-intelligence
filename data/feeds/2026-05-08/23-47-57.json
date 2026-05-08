@@ -1,0 +1,593 @@
+{
+  "scraped_at": "2026-05-08T23:47:50.012884+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 2,
+  "items": [
+    {
+      "error": "missing authorization header",
+      "_scraped_at": "2026-05-08T23:47:50.012884+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/geolocations/events"
+    },
+    {
+      "countries": [
+        {
+          "count": 60,
+          "country": "US",
+          "recent": 12,
+          "volume": 299376872.5389387
+        },
+        {
+          "count": 55,
+          "country": "UA",
+          "recent": 3,
+          "volume": 1166456272.9542587
+        },
+        {
+          "count": 49,
+          "country": "IR",
+          "recent": 1,
+          "volume": 391164698.2892965
+        },
+        {
+          "count": 7,
+          "country": "GB",
+          "recent": 3,
+          "volume": 6649665.8356407415
+        },
+        {
+          "count": 6,
+          "country": "RU",
+          "recent": 0,
+          "volume": 64745110.2517381
+        },
+        {
+          "count": 4,
+          "country": "CN",
+          "recent": 1,
+          "volume": 174104901.06502405
+        },
+        {
+          "count": 3,
+          "country": "LB",
+          "recent": 0,
+          "volume": 604427.7897580034
+        },
+        {
+          "count": 3,
+          "country": "TW",
+          "recent": 0,
+          "volume": 97776753.28689915
+        },
+        {
+          "count": 3,
+          "country": "SA",
+          "recent": 0,
+          "volume": 10447318.68599285
+        },
+        {
+          "count": 2,
+          "country": "PL",
+          "recent": 0,
+          "volume": 5883648.095993978
+        },
+        {
+          "count": 2,
+          "country": "JP",
+          "recent": 2,
+          "volume": 0
+        },
+        {
+          "count": 1,
+          "country": "MX",
+          "recent": 1,
+          "volume": 0
+        },
+        {
+          "count": 1,
+          "country": "PK",
+          "recent": 0,
+          "volume": 664380.9379850009
+        },
+        {
+          "count": 1,
+          "country": "QA",
+          "recent": 0,
+          "volume": 779537.4978454618
+        },
+        {
+          "count": 1,
+          "country": "FR",
+          "recent": 0,
+          "volume": 487408.8178920005
+        },
+        {
+          "count": 1,
+          "country": "PH",
+          "recent": 1,
+          "volume": 0
+        },
+        {
+          "count": 1,
+          "country": "IL",
+          "recent": 0,
+          "volume": 27168260.63437429
+        },
+        {
+          "count": 1,
+          "country": "AR",
+          "recent": 1,
+          "volume": 0
+        },
+        {
+          "count": 1,
+          "country": "KR",
+          "recent": 0,
+          "volume": 7236929.411932877
+        },
+        {
+          "count": 1,
+          "country": "DE",
+          "recent": 0,
+          "volume": 31029350.420546036
+        },
+        {
+          "count": 1,
+          "country": "AE",
+          "recent": 0,
+          "volume": 526867.5512289982
+        }
+      ],
+      "diamonds": [
+        {
+          "a": 10050.999998,
+          "s": "SELL",
+          "t": "74,000"
+        },
+        {
+          "a": 28828.71243,
+          "s": "BUY",
+          "t": "74,000"
+        },
+        {
+          "a": 15081.261,
+          "s": "BUY",
+          "t": "\u2193 50,000"
+        },
+        {
+          "a": 19800,
+          "s": "BUY",
+          "t": "May 8"
+        },
+        {
+          "a": 19500,
+          "s": "BUY",
+          "t": ""
+        },
+        {
+          "a": 13350,
+          "s": "BUY",
+          "t": "May 13"
+        },
+        {
+          "a": 22055.64777,
+          "s": "SELL",
+          "t": "May 15"
+        },
+        {
+          "a": 25693.038,
+          "s": "SELL",
+          "t": "December 31"
+        },
+        {
+          "a": 36841.1032,
+          "s": "BUY",
+          "t": "December 31"
+        },
+        {
+          "a": 19689.50079,
+          "s": "BUY",
+          "t": "None before 2027"
+        },
+        {
+          "a": 26729.7314,
+          "s": "BUY",
+          "t": "May 31"
+        },
+        {
+          "a": 35682.247,
+          "s": "BUY",
+          "t": "June 30"
+        },
+        {
+          "a": 27710.7233,
+          "s": "BUY",
+          "t": "June 30"
+        },
+        {
+          "a": 10188.4352,
+          "s": "BUY",
+          "t": "May 8"
+        },
+        {
+          "a": 17600,
+          "s": "BUY",
+          "t": "Knicks"
+        },
+        {
+          "a": 32022.1743,
+          "s": "BUY",
+          "t": "May 15"
+        },
+        {
+          "a": 14999.999987,
+          "s": "BUY",
+          "t": "Up"
+        },
+        {
+          "a": 14096.18045,
+          "s": "BUY",
+          "t": ""
+        },
+        {
+          "a": 34353.49212,
+          "s": "BUY",
+          "t": "P\u00e9ter Magyar"
+        },
+        {
+          "a": 16800,
+          "s": "SELL",
+          "t": ""
+        },
+        {
+          "a": 12558.3648,
+          "s": "SELL",
+          "t": ""
+        },
+        {
+          "a": 11454.33627,
+          "s": "SELL",
+          "t": ""
+        },
+        {
+          "a": 11295.19434,
+          "s": "BUY",
+          "t": "P\u00e9ter Magyar"
+        },
+        {
+          "a": 14639.04,
+          "s": "BUY",
+          "t": "\u2191 95,000"
+        },
+        {
+          "a": 27274.5324,
+          "s": "BUY",
+          "t": ""
+        },
+        {
+          "a": 19999.999992,
+          "s": "BUY",
+          "t": "Los Angeles Lakers"
+        },
+        {
+          "a": 18849.999999,
+          "s": "BUY",
+          "t": "June 30"
+        },
+        {
+          "a": 13588.989999,
+          "s": "BUY",
+          "t": "Republican Party"
+        },
+        {
+          "a": 11999.999998,
+          "s": "BUY",
+          "t": "Democratic Party"
+        },
+        {
+          "a": 10622.87491,
+          "s": "BUY",
+          "t": "Lorenzo Musetti"
+        }
+      ],
+      "dots": [
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "IL",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "UA",
+          "l": "high"
+        },
+        {
+          "c": "UA",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "UA",
+          "l": "high"
+        },
+        {
+          "c": "PL",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "UA",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "GB",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "UA",
+          "l": "high"
+        },
+        {
+          "c": "UA",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "UA",
+          "l": "high"
+        },
+        {
+          "c": "UA",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "QA",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "UA",
+          "l": "high"
+        },
+        {
+          "c": "LB",
+          "l": "high"
+        },
+        {
+          "c": "UA",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "SA",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "UA",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "TW",
+          "l": "high"
+        },
+        {
+          "c": "UA",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "US",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        },
+        {
+          "c": "IR",
+          "l": "high"
+        }
+      ],
+      "flights": [
+        {
+          "cat": "Tanker",
+          "cs": "AME4515",
+          "lat": 15.908,
+          "lng": -77.4744,
+          "ts": 1778280050242
+        },
+        {
+          "cat": "Other",
+          "cs": "JIA5478",
+          "lat": 39.8694,
+          "lng": -75.5671,
+          "ts": 1778279871060
+        },
+        {
+          "cat": "AWACS",
+          "cs": "SHUCK81",
+          "lat": 54.7761,
+          "lng": -4.8795,
+          "ts": 1778279619484
+        },
+        {
+          "cat": "Presidential",
+          "cs": "SAM464",
+          "lat": 44.9032,
+          "lng": -93.239,
+          "ts": 1778279250554
+        },
+        {
+          "cat": "Presidential",
+          "cs": "SAM410",
+          "lat": 37.622,
+          "lng": -85.2053,
+          "ts": 1778278496519
+        },
+        {
+          "cat": "Presidential",
+          "cs": "NAF13",
+          "lat": 50.9588,
+          "lng": 4.4061,
+          "ts": 1778274563704
+        },
+        {
+          "cat": "NASA/Science",
+          "cs": "NASA806",
+          "lat": 38.82,
+          "lng": -104.6653,
+          "ts": 1778274438301
+        },
+        {
+          "cat": "Drone",
+          "cs": "TRITON02",
+          "lat": 58.922,
+          "lng": 5.7236,
+          "ts": 1778272580509
+        },
+        {
+          "cat": "Presidential",
+          "cs": "AF2",
+          "lat": 38.6605,
+          "lng": -76.9026,
+          "ts": 1778272320760
+        },
+        {
+          "cat": "",
+          "cs": "(redacted by FR24)",
+          "lat": 36.7663,
+          "lng": -125.1233,
+          "ts": 1778270866227
+        },
+        {
+          "cat": "Presidential",
+          "cs": "NAF13",
+          "lat": 50.1676,
+          "lng": 14.1155,
+          "ts": 1778269692133
+        },
+        {
+          "cat": "UAE Shadow Fleet",
+          "cs": "N/A",
+          "lat": 33.6915,
+          "lng": 14.1725,
+          "ts": 1778267306718
+        },
+        {
+          "cat": "Presidential",
+          "cs": "SAM464",
+          "lat": 38.6997,
+          "lng": -76.9018,
+          "ts": 1778266849861
+        }
+      ],
+      "_scraped_at": "2026-05-08T23:47:50.012884+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe"
+    }
+  ]
+}
