@@ -1,0 +1,1712 @@
+{
+  "scraped_at": "2026-05-12T10:57:38.016133+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 6,
+  "items": [
+    {
+      "valid": false,
+      "_scraped_at": "2026-05-12T10:57:38.016133+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "54a6ea84-fc37-4fc7-900b-8978256ac33d",
+        "timestamp": 1778578540453,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "54a6ea84-fc37-4fc7-900b-8978256ac33d",
+          "text": "On May 12, following the results of the May 11 referendums, the Donetsk People&#39;s Republic (DPR) and Luhansk People&#39;s Republic (LPR) declared independence and seceded from Ukraine. The majority of voters voted YES to Russia and NO to Ukraine. Donbas is still fighting for this choice.",
+          "channel": "Colonelcassad",
+          "timestamp": 1778578540453,
+          "link": "https://t.me/boris_rozhin"
+        },
+        "osint": false,
+        "country": "UA",
+        "countries": [
+          "UA",
+          "RU",
+          "GB"
+        ],
+        "related_markets": [
+          {
+            "id": "956449",
+            "slug": "ukraine-signs-peace-deal-with-russia-by-june-30",
+            "condition_id": "0xa57a027158ce73973cdd13eed901c6e767a1b9e2f88c665dab8757a65b60d203",
+            "title": "",
+            "question": "Ukraine signs peace deal with Russia by June 30?",
+            "description": "This market will resolve to \u201cYes\u201d  if, Ukraine signs any written instrument (e.g., treaty, ceasefire/armistice, framework/\u201croadmap,\u201d exchange of letters, or mediated agreement text) that: (i) includes both Ukraine and the Russian Federation as parties, and (ii) either ends hostilities/establishes a ceasefire or commits both sides to a defined process toward ending the war (i.e., stated objective of peace/normalization plus principles, steps, and/or a timetable) by June 30, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d. \n\nOnly Ukraine\u2019s signature is required; Russia\u2019s signature or ratification is not.\n\nLocalized, temporary, or issue-specific arrangements\u2014such as airstrike-limitation or deconfliction protocols, humanitarian pauses, evacuation corridors, prisoner-exchange or trade/export arrangements, border/DMZ adjustments, or ceasefires limited to a particular sector/front/municipality\u2014will not qualify.\n\nThe document must bear a wet-ink or officially issued electronic signature of an authorized Ukrainian representative. Unsigned agreements (e.g., the 2023 Ohrid arrangement) will not qualify regardless of if they are otherwise officially enacted. \n\nThe primary resolution source will be a consensus of credible reporting. ",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ukraine-signs-peace-deal-with-russia-in-2025-WeLU-mVDz9Ox.png",
+            "yes_token_id": "107965173802109212270506970508124160998805842633806802221888276406320354707806",
+            "yes_probability": 0.119,
+            "yes_best_bid": 0.107,
+            "yes_best_ask": 0.119,
+            "yes_spread": 0.011999999999999997,
+            "no_token_id": "50239914089802421403672716500419497657838572280262098500041913375192312204752",
+            "no_probability": 0.893,
+            "no_best_bid": 0.881,
+            "no_best_ask": 0.893,
+            "no_spread": 0.01200000000000001,
+            "volume": 302517.79179300775,
+            "liquidity": 310153.79,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Independence declarations directly support the market outcome (1 hop).",
+            "event_id": "107725",
+            "event_title": "Ukraine signs peace deal with Russia by June 30?",
+            "event_slug": "ukraine-signs-peace-deal-with-russia-by-june-30",
+            "detected_yes_price": 0.103,
+            "detected_no_price": 0.902,
+            "detected_at": 1778578569687,
+            "highest_price_change": 1.7087378640776705,
+            "highest_yes_price": 0.279,
+            "highest_no_price": 0.909,
+            "first_moved_at": 1778578579438,
+            "moved_side": "yes",
+            "peaked_at": 1778579171640
+          },
+          {
+            "id": "1090495",
+            "slug": "will-russia-capture-all-of-donetsk-oblast-by",
+            "condition_id": "0x60ecb823bb667a51ccf9ffcb1cab2c48899cd16410687874887dab9df9f4e1bf",
+            "title": "June 30",
+            "question": "Will Russia capture all of Donetsk Oblast by June 30, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia militarily captures the entirety of Donetsk Oblast by the specified date, 11:59 PM ET.\n\nDonetsk Oblast will be considered captured when the entirety of the below-specified municipalities is simultaneously shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If those areas are not simultaneously shaded red by the resolution date, this market will resolve to \u201cNo\u201d.\n\nThe relevant municipalities in Donetsk Oblast that must be simultaneously captured in their entirety are: Kramatorsk, Sloviansk, Kostiantynivka, Druzhkivka, Pokrovsk, Dobropillia, Oleksandrivka, Cherkaske, and Sviatohirsk.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nThe territory of a municipality is shaded in light grey and is distinguished from bordering municipalities with a darker grey line. If all area within a municipality is shaded in red, however, the shading does not precisely match up with the border such that there is a tiny amount of grey along the border of the city, this may still qualify.\n\nOnce Russia has captured the entirety of the above-specified municipalities simultaneously, any subsequent loss of control will not be considered towards the resolution of this market.\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap is rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will not qualify, regardless of whether it is shaded red in the ISW map. Similarly, an announcement of a negotiated settlement that gives Russia de jure control will not qualify. Control must be established through military conquest.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-donetsk-oblast-by-june-30-2026-atOWkXn1rrer.jpg",
+            "yes_token_id": "19998490588165385691634000405206222117826113177925708815328988090662305366225",
+            "yes_probability": 0.009,
+            "yes_best_bid": 0.007,
+            "yes_best_ask": 0.009,
+            "yes_spread": 0.001999999999999999,
+            "no_token_id": "6727724717965804812582437828646736972344757795103515098740782022977766715112",
+            "no_probability": 0.993,
+            "no_best_bid": 0.991,
+            "no_best_ask": 0.993,
+            "no_spread": 0.0020000000000000018,
+            "volume": 113235.35609578389,
+            "liquidity": 536183.5,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Independence declaration directly supports the market outcome (1 hop).",
+            "event_id": "139550",
+            "event_title": "Will Russia capture all of Donetsk Oblast by...?",
+            "event_slug": "will-russia-capture-all-of-donetsk-oblast-by",
+            "detected_yes_price": 0.01,
+            "detected_no_price": 0.992,
+            "detected_at": 1778578569687,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.01,
+            "highest_no_price": 0.992
+          },
+          {
+            "id": "2155170",
+            "slug": "russia-x-ukraine-diplomatic-meeting-by",
+            "condition_id": "0x2c9937efbf3f423350637cef0689a3f65c930738d1817c0bc7eadde76e45446c",
+            "title": "May 31",
+            "question": "Russia x Ukraine diplomatic meeting by May 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Russia and Ukraine by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Russia-Ukraine relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of Russia and Ukraine, and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-diplomatic-meeting-by-2anNp08yc15i.jpg",
+            "yes_token_id": "99751998047123446850542563631842676608936847441943349876560710652207116562949",
+            "yes_probability": 0.13,
+            "yes_best_bid": 0.12,
+            "yes_best_ask": 0.13,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "10221991238752860812088796047781174583711811412408172625862680588464387507137",
+            "no_probability": 0.88,
+            "no_best_bid": 0.87,
+            "no_best_ask": 0.88,
+            "no_spread": 0.010000000000000009,
+            "volume": 40295.86691363,
+            "liquidity": 73317.65,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Independence declarations directly support the market outcome (1 hop).",
+            "event_id": "448098",
+            "event_title": "Russia x Ukraine diplomatic meeting by...?",
+            "event_slug": "russia-x-ukraine-diplomatic-meeting-by",
+            "detected_yes_price": 0.13,
+            "detected_no_price": 0.88,
+            "detected_at": 1778578569687,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.13,
+            "highest_no_price": 0.88
+          },
+          {
+            "id": "2155172",
+            "slug": "russia-x-ukraine-diplomatic-meeting-by",
+            "condition_id": "0xeb092832271358be7f3c76f96fd176d89a29427121461a4058497e510adb03fe",
+            "title": "December 31",
+            "question": "Russia x Ukraine diplomatic meeting by December 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Russia and Ukraine by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Russia-Ukraine relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of Russia and Ukraine, and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-diplomatic-meeting-by-2anNp08yc15i.jpg",
+            "yes_token_id": "96804089939296874088756594095751021502319785474265538618936956918714302421167",
+            "yes_probability": 0.74,
+            "yes_best_bid": 0.73,
+            "yes_best_ask": 0.74,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "75493471968748618069837856003585861714866049696442917230675549859928418619868",
+            "no_probability": 0.27,
+            "no_best_bid": 0.26,
+            "no_best_ask": 0.27,
+            "no_spread": 0.010000000000000009,
+            "volume": 40354.909168000006,
+            "liquidity": 246316.22,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Independence declarations directly support the market outcome (1 hop).",
+            "event_id": "448098",
+            "event_title": "Russia x Ukraine diplomatic meeting by...?",
+            "event_slug": "russia-x-ukraine-diplomatic-meeting-by",
+            "detected_yes_price": 0.74,
+            "detected_no_price": 0.27,
+            "detected_at": 1778578569687,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.74,
+            "highest_no_price": 0.27
+          },
+          {
+            "id": "2155171",
+            "slug": "russia-x-ukraine-diplomatic-meeting-by",
+            "condition_id": "0xcb334e65ea89ee98ce533a4dde88d013737526c1ab3c9b123dd023e19aa07dd1",
+            "title": "June 30",
+            "question": "Russia x Ukraine diplomatic meeting by June 30, 2026?",
+            "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Russia and Ukraine by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Russia-Ukraine relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of Russia and Ukraine, and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-diplomatic-meeting-by-2anNp08yc15i.jpg",
+            "yes_token_id": "31749041009784258858802959960081321172685518233109700773944158618618770020357",
+            "yes_probability": 0.41,
+            "yes_best_bid": 0.39,
+            "yes_best_ask": 0.41,
+            "yes_spread": 0.019999999999999962,
+            "no_token_id": "83858129203180520679560464644241937177041855974011141370243478384889509338581",
+            "no_probability": 0.61,
+            "no_best_bid": 0.59,
+            "no_best_ask": 0.61,
+            "no_spread": 0.020000000000000018,
+            "volume": 19977.865699059996,
+            "liquidity": 89897.76,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Independence declarations directly support the market outcome (1 hop).",
+            "event_id": "448098",
+            "event_title": "Russia x Ukraine diplomatic meeting by...?",
+            "event_slug": "russia-x-ukraine-diplomatic-meeting-by",
+            "detected_yes_price": 0.42,
+            "detected_no_price": 0.61,
+            "detected_at": 1778578569687,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.42,
+            "highest_no_price": 0.61
+          }
+        ],
+        "topics": [
+          "ukraine-war",
+          "ai-tech"
+        ],
+        "categories": [
+          "culture",
+          "elections",
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "956449",
+        "slug": "ukraine-signs-peace-deal-with-russia-by-june-30",
+        "condition_id": "0xa57a027158ce73973cdd13eed901c6e767a1b9e2f88c665dab8757a65b60d203",
+        "title": "",
+        "question": "Ukraine signs peace deal with Russia by June 30?",
+        "description": "This market will resolve to \u201cYes\u201d  if, Ukraine signs any written instrument (e.g., treaty, ceasefire/armistice, framework/\u201croadmap,\u201d exchange of letters, or mediated agreement text) that: (i) includes both Ukraine and the Russian Federation as parties, and (ii) either ends hostilities/establishes a ceasefire or commits both sides to a defined process toward ending the war (i.e., stated objective of peace/normalization plus principles, steps, and/or a timetable) by June 30, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d. \n\nOnly Ukraine\u2019s signature is required; Russia\u2019s signature or ratification is not.\n\nLocalized, temporary, or issue-specific arrangements\u2014such as airstrike-limitation or deconfliction protocols, humanitarian pauses, evacuation corridors, prisoner-exchange or trade/export arrangements, border/DMZ adjustments, or ceasefires limited to a particular sector/front/municipality\u2014will not qualify.\n\nThe document must bear a wet-ink or officially issued electronic signature of an authorized Ukrainian representative. Unsigned agreements (e.g., the 2023 Ohrid arrangement) will not qualify regardless of if they are otherwise officially enacted. \n\nThe primary resolution source will be a consensus of credible reporting. ",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ukraine-signs-peace-deal-with-russia-in-2025-WeLU-mVDz9Ox.png",
+        "yes_token_id": "107965173802109212270506970508124160998805842633806802221888276406320354707806",
+        "yes_probability": 0.119,
+        "yes_best_bid": 0.107,
+        "yes_best_ask": 0.119,
+        "yes_spread": 0.011999999999999997,
+        "no_token_id": "50239914089802421403672716500419497657838572280262098500041913375192312204752",
+        "no_probability": 0.893,
+        "no_best_bid": 0.881,
+        "no_best_ask": 0.893,
+        "no_spread": 0.01200000000000001,
+        "volume": 302517.79179300775,
+        "liquidity": 310153.79,
+        "neg_risk": false,
+        "end_date": "2026-06-30T00:00:00Z",
+        "categories": [
+          "politics",
+          "geopolitics",
+          "world"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Independence declarations directly support the market outcome (1 hop).",
+        "event_id": "107725",
+        "event_title": "Ukraine signs peace deal with Russia by June 30?",
+        "event_slug": "ukraine-signs-peace-deal-with-russia-by-june-30",
+        "detected_yes_price": 0.103,
+        "detected_no_price": 0.902,
+        "detected_at": 1778578569687,
+        "highest_price_change": 1.7087378640776705,
+        "highest_yes_price": 0.279,
+        "highest_no_price": 0.909,
+        "first_moved_at": 1778578579438,
+        "moved_side": "yes",
+        "peaked_at": 1778579171640
+      },
+      "_scraped_at": "2026-05-12T10:57:38.016133+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 2,
+      "feed_item": {
+        "id": "9e3b7ce9-5808-4735-b3c5-16096febdff2",
+        "timestamp": 1778568222975,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "9e3b7ce9-5808-4735-b3c5-16096febdff2",
+          "text": "\ud83d\udcddReferendum Against Keir Starmer\ud83d\udcdd\nAnd he lost it\n\nLocal and regional elections took place in the United Kingdom. At stake were more than 5,000 seats in 136 councils, all London boroughs, six mayors in England plus the parliaments of Scotland and Wales.\n\n\ud83d\udd3bVoting results:\n\u25aa\ufe0fThe Reform Party achieved a breakthrough and won approximately 1,450 seats \u2014 a colossal gain compared to the previous cycle, when the faction had only a handful of deputies. Labour finished the elections with 1,068 seats, losing around 1,500 seats compared to the previous elections.\n\n\u25aa\ufe0fConservatives retained 801 seats but lost approximately 560 seats. Liberal Democrats won 834 seats and gained around 150 seats, Greens increased their representation by approximately 400 seats, and independents and local groups took around 212 seats, increasing their share by roughly thirty seats.\n\n\u25aa\ufe0fSeparately on the same day, parliamentary elections took place in Scotland. Following the vote, the Scottish National Party remains the largest force but without an absolute majority, while parties advocating a tougher agenda on autonomy and socio-economic policy are gaining strength.\n\n\u25aa\ufe0fSimilar elections were held for the Welsh parliament, where a regional legislative assembly is also being formed for a new term. The results there are less dramatic than in England and Scotland: local autonomist parties and the Labour camp as a whole maintain their positions, but the overall trend is the same \u2014 declining trust in traditional parties and growing support for more radical and protest movements.\n\nIn terms of a hypothetical national result, the Reform Party takes first place \u2014 approximately 27% of votes. Conservatives receive approximately 20%, Labour \u2014 15\u201316%, Liberal Democrats and Greens \u2014 roughly 14% each.\n\n\ud83d\udcccThe result for the first time elevates the Reform Party to the status of the largest force at the local level and simultaneously records Labour's largest decline in seats among all major parties.\n\nPrime Minister Keir Starmer acknowledged the results as \"tough\", took responsibility for the defeat, but refused to resign, saying he will not \"plunge the country into chaos\" and such days only \"strengthen his resolve\".\n\n\u2757\ufe0fFor British politics, this is a \"Farage moment\". His party is picking up protest voters both from disappointed Labour working-class areas and from traditionally conservative periphery.\n\nIf the trend consolidates, traditional parties will face an even harder time in the next general elections, although a decisive success for the Reform Party is unlikely given the peculiarities of the British electoral system, which limits the direct influence of minor parties.\n\n@rybar",
+          "channel": "DD Geopolitics",
+          "timestamp": 1778568222975,
+          "link": "https://t.me/DDGeopolitics"
+        },
+        "osint": false,
+        "country": "GB",
+        "countries": [
+          "GB"
+        ],
+        "related_markets": [
+          {
+            "id": "2037852",
+            "slug": "no-confidence-vote-against-starmer-by-june-30",
+            "condition_id": "0x6172c63f9c1653f3fb21fb6f51b94821111730fa9a46212b3150a82f1eb234f7",
+            "title": "",
+            "question": "No-Confidence Vote against Starmer by June 30?",
+            "description": "This market will resolve to \u201cYes\u201d if a motion of no-confidence against the sitting government is voted upon in the House of Commons of the United Kingdom by June 30, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve based on whether a motion of no confidence is voted upon in the specified timeframe. Whether the motion is passed will not affect this market\u2019s resolution.\n\nThe primary resolution sources for this market will be official information from the government of the United Kingdom and a consensus of credible reporting.\n",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/no-confidence-vote-against-starmer-by-june-30-xkXQahK_Vo93.jpg",
+            "yes_token_id": "60221219577843897706034367190334327177981574671957722012482084593256566422686",
+            "yes_probability": 0.25,
+            "yes_best_bid": 0.19,
+            "yes_best_ask": 0.25,
+            "yes_spread": 0.06,
+            "no_token_id": "68982002145668570633626660261351275478789010560926796741488568797890283190972",
+            "no_probability": 0.81,
+            "no_best_bid": 0.75,
+            "no_best_ask": 0.81,
+            "no_spread": 0.06000000000000005,
+            "volume": 5719.874197130007,
+            "liquidity": 56230.15000000002,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Labour's significant seat loss indicates potential for no-confidence vote (1 hop).",
+            "event_id": "400848",
+            "event_title": "No-Confidence Vote against Starmer by June 30?",
+            "event_slug": "no-confidence-vote-against-starmer-by-june-30",
+            "detected_yes_price": 0.29,
+            "detected_no_price": 0.8200000000000001,
+            "detected_at": 1778568264738,
+            "highest_price_change": 0.024390243902438907,
+            "highest_yes_price": 0.29,
+            "highest_no_price": 0.84,
+            "first_moved_at": 1778578097546,
+            "moved_side": "no",
+            "peaked_at": 1778578097546
+          },
+          {
+            "id": "2002685",
+            "slug": "starmer-out-in-2025",
+            "condition_id": "0x575e86314d77231f25c16834b4f501221f215399a79fa6f5760b0a1eb7f1e5d3",
+            "title": "May 15",
+            "question": "Starmer out by May 15, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if Keir Starmer ceases to be the Prime Minister of the United Kingdom for any period of time between market creation and May 15, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nAn announcement of Keir Starmer's resignation/removal before this market's end date will immediately resolve this market to \"Yes\", regardless of when the announced resignation/removal goes into effect.\n\nThe resolution source for this market will be the government of the UK, however a consensus of credible reporting will also suffice.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/starmer-out-in-2025-teE3zEaEEyuO.jpg",
+            "yes_token_id": "7317570394658929543950187060522864400071290481021499158014297549243573640501",
+            "yes_probability": 0.102,
+            "yes_best_bid": 0.101,
+            "yes_best_ask": 0.102,
+            "yes_spread": 0.000999999999999987,
+            "no_token_id": "47979415276102234612653681964571782104748282108436108552000129291113972469428",
+            "no_probability": 0.899,
+            "no_best_bid": 0.898,
+            "no_best_ask": 0.899,
+            "no_spread": 0.0010000000000000009,
+            "volume": 2779226.152651828,
+            "liquidity": 663769.7300000002,
+            "neg_risk": false,
+            "end_date": "2026-06-30T12:00:00Z",
+            "categories": [
+              "politics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Labour's decline in seats suggests increased risk of Starmer's removal (1 hop).",
+            "event_id": "17725",
+            "event_title": "Starmer out by...?",
+            "event_slug": "starmer-out-in-2025",
+            "detected_yes_price": 0.349,
+            "detected_no_price": 0.669,
+            "detected_at": 1778568264738,
+            "highest_price_change": 0.34379671150971597,
+            "highest_yes_price": 0.349,
+            "highest_no_price": 0.899,
+            "first_moved_at": 1778577882028,
+            "moved_side": "no",
+            "peaked_at": 1778583288224
+          },
+          {
+            "id": "597967",
+            "slug": "starmer-out-in-2025",
+            "condition_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+            "title": "June 30",
+            "question": "Starmer out by June 30, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if Keir Starmer ceases to be the Prime Minister of the United Kingdom for any period of time between September 14, 2025, and June 30, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nAn announcement of Keir Starmer's resignation/removal before this market's end date will immediately resolve this market to \"Yes\", regardless of when the announced resignation/removal goes into effect.\n\nThe resolution source for this market will be the government of the UK, however a consensus of credible reporting will also suffice.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/starmer-out-in-2025-teE3zEaEEyuO.jpg",
+            "yes_token_id": "34554555827438551101000555305203609600029621153428996114009350892614396532498",
+            "yes_probability": 0.47,
+            "yes_best_bid": 0.46,
+            "yes_best_ask": 0.47,
+            "yes_spread": 0.009999999999999953,
+            "no_token_id": "64622848174080349355505680625481066249195809702245025265549356236367119746958",
+            "no_probability": 0.54,
+            "no_best_bid": 0.53,
+            "no_best_ask": 0.54,
+            "no_spread": 0.010000000000000009,
+            "volume": 2806629.6441820227,
+            "liquidity": 827876.06,
+            "neg_risk": false,
+            "end_date": "2026-06-30T12:00:00Z",
+            "categories": [
+              "politics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Labour's decline in seats suggests increased risk of Starmer's removal (1 hop).",
+            "event_id": "17725",
+            "event_title": "Starmer out by...?",
+            "event_slug": "starmer-out-in-2025",
+            "detected_yes_price": 0.65,
+            "detected_no_price": 0.36,
+            "detected_at": 1778568264738,
+            "highest_price_change": 0.527777777777778,
+            "highest_yes_price": 0.65,
+            "highest_no_price": 0.55,
+            "first_moved_at": 1778568266087,
+            "moved_side": "no",
+            "peaked_at": 1778582582981
+          },
+          {
+            "id": "666655",
+            "slug": "starmer-out-in-2025",
+            "condition_id": "0x2bde6486e7067f48ee21344d8b5c1af458732536eb4d080932c88c3a7c2d2126",
+            "title": "December 31",
+            "question": "Starmer out by December 31, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if Keir Starmer ceases to be the Prime Minister of the United Kingdom for any period of time between November 5, 2025, and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nAn announcement of Keir Starmer's resignation/removal before this market's end date will immediately resolve this market to \"Yes\", regardless of when the announced resignation/removal goes into effect.\n\nThe resolution source for this market will be the government of the UK, however a consensus of credible reporting will also suffice.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/starmer-out-in-2025-teE3zEaEEyuO.jpg",
+            "yes_token_id": "42498579290170525937803365597001189493798686141769429176410526295573824619073",
+            "yes_probability": 0.78,
+            "yes_best_bid": 0.76,
+            "yes_best_ask": 0.78,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "88902058027062214140177978007942040532071439710160833384602336149457247354303",
+            "no_probability": 0.24,
+            "no_best_bid": 0.22,
+            "no_best_ask": 0.24,
+            "no_spread": 0.01999999999999999,
+            "volume": 1822236.8041177872,
+            "liquidity": 339038.34,
+            "neg_risk": false,
+            "end_date": "2026-12-31T12:00:00Z",
+            "categories": [
+              "politics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Labour's significant losses indicate a higher chance of Starmer's exit (1 hop).",
+            "event_id": "17725",
+            "event_title": "Starmer out by...?",
+            "event_slug": "starmer-out-in-2025",
+            "detected_yes_price": 0.86,
+            "detected_no_price": 0.16000000000000003,
+            "detected_at": 1778568264738,
+            "highest_price_change": 0.49999999999999967,
+            "highest_yes_price": 0.87,
+            "highest_no_price": 0.24,
+            "first_moved_at": 1778568346534,
+            "moved_side": "no",
+            "peaked_at": 1778578920248
+          },
+          {
+            "id": "2231205",
+            "slug": "starmer-out-in-2025",
+            "condition_id": "0xe0b6f4d40f33f456caba50434db5ea8c5ca93e84eb912054a80ca0c58ad70dd7",
+            "title": "May 31",
+            "question": "Starmer out by May 31, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if Keir Starmer ceases to be the Prime Minister of the United Kingdom for any period of time between market creation and May 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nAn announcement of Keir Starmer's resignation/removal before this market's end date will immediately resolve this market to \"Yes\", regardless of when the announced resignation/removal goes into effect.\n\nThe resolution source for this market will be the government of the UK, however a consensus of credible reporting will also suffice. ",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/starmer-out-in-2025-teE3zEaEEyuO.jpg",
+            "yes_token_id": "59804740893116830082655722678282357324530422193334657680222344987920273408829",
+            "yes_probability": 0.32,
+            "yes_best_bid": 0.31,
+            "yes_best_ask": 0.32,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "97166107287234497412734496054463228470063422608173149121206267858484467672978",
+            "no_probability": 0.69,
+            "no_best_bid": 0.68,
+            "no_best_ask": 0.69,
+            "no_spread": 0.009999999999999898,
+            "volume": 242428.22269522984,
+            "liquidity": 295873.06,
+            "neg_risk": false,
+            "end_date": "2026-06-30T12:00:00Z",
+            "categories": [
+              "politics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Labour's significant losses indicate a higher chance of Starmer's exit (1 hop).",
+            "event_id": "17725",
+            "event_title": "Starmer out by...?",
+            "event_slug": "starmer-out-in-2025",
+            "detected_yes_price": 0.54,
+            "detected_no_price": 0.48,
+            "detected_at": 1778568264738,
+            "highest_price_change": 0.6458333333333335,
+            "highest_yes_price": 0.55,
+            "highest_no_price": 0.79,
+            "first_moved_at": 1778568265205,
+            "moved_side": "no",
+            "peaked_at": 1778578965070
+          }
+        ],
+        "topics": [
+          "bitcoin",
+          "super-bowl",
+          "ai-tech",
+          "shutdown"
+        ],
+        "categories": [
+          "tech",
+          "culture",
+          "elections",
+          "crypto",
+          "earnings",
+          "climate",
+          "politics"
+        ]
+      },
+      "related_market": {
+        "id": "2231205",
+        "slug": "starmer-out-in-2025",
+        "condition_id": "0xe0b6f4d40f33f456caba50434db5ea8c5ca93e84eb912054a80ca0c58ad70dd7",
+        "title": "May 31",
+        "question": "Starmer out by May 31, 2026?",
+        "description": "This market will resolve to \u201cYes\u201d if Keir Starmer ceases to be the Prime Minister of the United Kingdom for any period of time between market creation and May 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nAn announcement of Keir Starmer's resignation/removal before this market's end date will immediately resolve this market to \"Yes\", regardless of when the announced resignation/removal goes into effect.\n\nThe resolution source for this market will be the government of the UK, however a consensus of credible reporting will also suffice. ",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/starmer-out-in-2025-teE3zEaEEyuO.jpg",
+        "yes_token_id": "59804740893116830082655722678282357324530422193334657680222344987920273408829",
+        "yes_probability": 0.32,
+        "yes_best_bid": 0.31,
+        "yes_best_ask": 0.32,
+        "yes_spread": 0.010000000000000009,
+        "no_token_id": "97166107287234497412734496054463228470063422608173149121206267858484467672978",
+        "no_probability": 0.69,
+        "no_best_bid": 0.68,
+        "no_best_ask": 0.69,
+        "no_spread": 0.009999999999999898,
+        "volume": 242428.22269522984,
+        "liquidity": 295873.06,
+        "neg_risk": false,
+        "end_date": "2026-06-30T12:00:00Z",
+        "categories": [
+          "politics",
+          "world"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Labour's significant losses indicate a higher chance of Starmer's exit (1 hop).",
+        "event_id": "17725",
+        "event_title": "Starmer out by...?",
+        "event_slug": "starmer-out-in-2025",
+        "detected_yes_price": 0.54,
+        "detected_no_price": 0.48,
+        "detected_at": 1778568264738,
+        "highest_price_change": 0.6458333333333335,
+        "highest_yes_price": 0.55,
+        "highest_no_price": 0.79,
+        "first_moved_at": 1778568265205,
+        "moved_side": "no",
+        "peaked_at": 1778578965070
+      },
+      "_scraped_at": "2026-05-12T10:57:38.016133+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 3,
+      "feed_item": {
+        "id": "66589268-3bba-48c6-b1c3-596dd46fca13",
+        "timestamp": 1778538047940,
+        "tweet": {
+          "feed_item_id": "66589268-3bba-48c6-b1c3-596dd46fca13",
+          "post_id": "2053963559084675147",
+          "post_type": "tweet",
+          "created_at": 1778538047940,
+          "user": {
+            "uid": "34713362",
+            "handle": "business",
+            "display_name": "Bloomberg",
+            "pfp": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "The US Strategic Petroleum Reserve awarded 53.3 million barrels to companies including oil trader Trafigura and US refiner Marathon, adding to a wave of oil released to help tame surging prices stemming from the Iran war https://www.bloomberg.com/news/articles/2026-05-11/us-unleashes-another-wave-of-emergency-oil-as-gas-prices-bite?taid=6a02563f32982f0001548592&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+          "link": "https://twitter.com/business/status/2053963559084675147"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "IR",
+        "countries": [
+          "IR"
+        ],
+        "related_markets": [
+          {
+            "id": "1931708",
+            "slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+            "condition_id": "0xd5cfe69869eee679f5b750e0da0518b9d66156e200efa9407ddf25b18fee641f",
+            "title": "375M",
+            "question": "Will US crude oil reserves fall to 375M by June 5?",
+            "description": "This market will resolve to \u201cYes\u201d if the U.S. Energy Information Administration publishes a weekly figure for U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve less than or equal to the specified value for any week ending on or before June 5, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve as soon as the listed value is reached, or once data has been released for the final week ending on or before June 5, 2026, and the listed value has not been reached.\n\nIf data has not been released for the final week ending on or before June 5 2026, by June 12, 2026, 11:59 PM ET, this market will resolve based on the data available at that time.\n\nThe primary resolution source for this market will be the U.S. Energy Information Administration, specifically the weekly data published for the U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve at https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCSSTUS1&f=W.\n\nNote: this market\u2019s resolution source publishes weekly values of U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve in thousands of barrels. Thus, this will be the level of specificity used to resolve this market.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-us-crude-oil-reserves-fall-to-by-may-1-asmCg2nXC0OP.jpg",
+            "yes_token_id": "32437575735333563263901202623595070063202783400741806763561537930423661833752",
+            "yes_probability": 0.95,
+            "yes_best_bid": 0.91,
+            "yes_best_ask": 0.95,
+            "yes_spread": 0.039999999999999925,
+            "no_token_id": "72786135462614162130786107484375663150356426734488725705428259810798076709189",
+            "no_probability": 0.09,
+            "no_best_bid": 0.05,
+            "no_best_ask": 0.09,
+            "no_spread": 0.039999999999999994,
+            "volume": 11890.829148,
+            "liquidity": 63056.04000000002,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "economy",
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Release of oil from reserves directly impacts total reserves.",
+            "event_id": "362137",
+            "event_title": "Will US crude oil reserves fall to __ by June 5?",
+            "event_slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+            "detected_yes_price": 0.95,
+            "detected_no_price": 0.08999999999999997,
+            "detected_at": 1778538075502,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.95,
+            "highest_no_price": 0.08999999999999997
+          },
+          {
+            "id": "1931710",
+            "slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+            "condition_id": "0x718135d518c397ffca20bc77405eca43e439b8958c286149992dafe4f82dfcf7",
+            "title": "325M",
+            "question": "Will US crude oil reserves fall to 325M by June 5?",
+            "description": "This market will resolve to \u201cYes\u201d if the U.S. Energy Information Administration publishes a weekly figure for U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve less than or equal to the specified value for any week ending on or before June 5, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve as soon as the listed value is reached, or once data has been released for the final week ending on or before June 5, 2026, and the listed value has not been reached.\n\nIf data has not been released for the final week ending on or before June 5 2026, by June 12, 2026, 11:59 PM ET, this market will resolve based on the data available at that time.\n\nThe primary resolution source for this market will be the U.S. Energy Information Administration, specifically the weekly data published for the U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve at https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCSSTUS1&f=W.\n\nNote: this market\u2019s resolution source publishes weekly values of U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve in thousands of barrels. Thus, this will be the level of specificity used to resolve this market.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-us-crude-oil-reserves-fall-to-by-may-1-asmCg2nXC0OP.jpg",
+            "yes_token_id": "1612008801227897840307762590717231145225049730152424975200515384151454134694",
+            "yes_probability": 0.045,
+            "yes_best_bid": 0.011,
+            "yes_best_ask": 0.045,
+            "yes_spread": 0.034,
+            "no_token_id": "17322369120997569112400075803774673595896165030027131438949949424563857690312",
+            "no_probability": 0.989,
+            "no_best_bid": 0.955,
+            "no_best_ask": 0.989,
+            "no_spread": 0.03400000000000003,
+            "volume": 12101.144779999997,
+            "liquidity": 170046.41999999998,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "economy",
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Release of oil from reserves directly impacts total reserves.",
+            "event_id": "362137",
+            "event_title": "Will US crude oil reserves fall to __ by June 5?",
+            "event_slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+            "detected_yes_price": 0.045,
+            "detected_no_price": 0.994,
+            "detected_at": 1778538075502,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.045,
+            "highest_no_price": 0.994
+          },
+          {
+            "id": "1931709",
+            "slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+            "condition_id": "0x351b328835e3ff4d574ae836c9842a7dd72bad929d990098ce0976fb794fab9e",
+            "title": "350M",
+            "question": "Will US crude oil reserves fall to 350M by June 5?",
+            "description": "This market will resolve to \u201cYes\u201d if the U.S. Energy Information Administration publishes a weekly figure for U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve less than or equal to the specified value for any week ending on or before June 5, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve as soon as the listed value is reached, or once data has been released for the final week ending on or before June 5, 2026, and the listed value has not been reached.\n\nIf data has not been released for the final week ending on or before June 5 2026, by June 12, 2026, 11:59 PM ET, this market will resolve based on the data available at that time.\n\nThe primary resolution source for this market will be the U.S. Energy Information Administration, specifically the weekly data published for the U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve at https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCSSTUS1&f=W.\n\nNote: this market\u2019s resolution source publishes weekly values of U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve in thousands of barrels. Thus, this will be the level of specificity used to resolve this market.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-us-crude-oil-reserves-fall-to-by-may-1-asmCg2nXC0OP.jpg",
+            "yes_token_id": "96387168265315643458809578585716885635310536108297246769705618825337335111480",
+            "yes_probability": 0.28,
+            "yes_best_bid": 0.21,
+            "yes_best_ask": 0.28,
+            "yes_spread": 0.07000000000000003,
+            "no_token_id": "113665762647266579005683558516199703909298974640865815911895476519934888195593",
+            "no_probability": 0.79,
+            "no_best_bid": 0.72,
+            "no_best_ask": 0.79,
+            "no_spread": 0.07000000000000006,
+            "volume": 17837.74459,
+            "liquidity": 62960.23999999999,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "economy",
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Release of oil from reserves directly impacts total reserves.",
+            "event_id": "362137",
+            "event_title": "Will US crude oil reserves fall to __ by June 5?",
+            "event_slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+            "detected_yes_price": 0.23,
+            "detected_no_price": 0.81,
+            "detected_at": 1778538075502,
+            "highest_price_change": 0.43478260869565216,
+            "highest_yes_price": 0.33,
+            "highest_no_price": 0.82,
+            "first_moved_at": 1778538154344,
+            "moved_side": "yes",
+            "peaked_at": 1778577971063
+          },
+          {
+            "id": "1931711",
+            "slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+            "condition_id": "0x3157cfa44e8a866095918d7c383503aeb5faaa42e0d626281e98b1c6991aeab4",
+            "title": "300M",
+            "question": "Will US crude oil reserves fall to 300M by June 5?",
+            "description": "This market will resolve to \u201cYes\u201d if the U.S. Energy Information Administration publishes a weekly figure for U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve less than or equal to the specified value for any week ending on or before June 5, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve as soon as the listed value is reached, or once data has been released for the final week ending on or before June 5, 2026, and the listed value has not been reached.\n\nIf data has not been released for the final week ending on or before June 5 2026, by June 12, 2026, 11:59 PM ET, this market will resolve based on the data available at that time.\n\nThe primary resolution source for this market will be the U.S. Energy Information Administration, specifically the weekly data published for the U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve at https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCSSTUS1&f=W.\n\nNote: this market\u2019s resolution source publishes weekly values of U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve in thousands of barrels. Thus, this will be the level of specificity used to resolve this market.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-us-crude-oil-reserves-fall-to-by-may-1-asmCg2nXC0OP.jpg",
+            "yes_token_id": "56027739991484347224671805321810797281618115328485291425994287614493660958582",
+            "yes_probability": 0.057,
+            "yes_best_bid": 0.006,
+            "yes_best_ask": 0.057,
+            "yes_spread": 0.051000000000000004,
+            "no_token_id": "90884114891487692211484427221900349820685318562708925670286984477629888847581",
+            "no_probability": 0.994,
+            "no_best_bid": 0.943,
+            "no_best_ask": 0.994,
+            "no_spread": 0.051000000000000045,
+            "volume": 499.72999999999996,
+            "liquidity": 53342.69000000002,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "economy",
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Release of oil from reserves directly impacts total reserves.",
+            "event_id": "362137",
+            "event_title": "Will US crude oil reserves fall to __ by June 5?",
+            "event_slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+            "detected_yes_price": 0.056,
+            "detected_no_price": 0.996,
+            "detected_at": 1778538075502,
+            "highest_price_change": 0.017857142857142873,
+            "highest_yes_price": 0.057,
+            "highest_no_price": 0.996,
+            "first_moved_at": 1778577882830,
+            "moved_side": "yes",
+            "peaked_at": 1778577882830
+          },
+          {
+            "id": "1931712",
+            "slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+            "condition_id": "0x2db76ff226e5eb35295c6b701ba939f911a8c69cab4b406dfb9ebe40da40844f",
+            "title": "275M",
+            "question": "Will US crude oil reserves fall to 275M by June 5?",
+            "description": "This market will resolve to \u201cYes\u201d if the U.S. Energy Information Administration publishes a weekly figure for U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve less than or equal to the specified value for any week ending on or before June 5, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve as soon as the listed value is reached, or once data has been released for the final week ending on or before June 5, 2026, and the listed value has not been reached.\n\nIf data has not been released for the final week ending on or before June 5 2026, by June 12, 2026, 11:59 PM ET, this market will resolve based on the data available at that time.\n\nThe primary resolution source for this market will be the U.S. Energy Information Administration, specifically the weekly data published for the U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve at https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCSSTUS1&f=W.\n\nNote: this market\u2019s resolution source publishes weekly values of U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve in thousands of barrels. Thus, this will be the level of specificity used to resolve this market.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-us-crude-oil-reserves-fall-to-by-may-1-asmCg2nXC0OP.jpg",
+            "yes_token_id": "103892248009194618207563121556370272500837951694881860054159199248030551087144",
+            "yes_probability": 0.036,
+            "yes_best_bid": 0.015,
+            "yes_best_ask": 0.036,
+            "yes_spread": 0.020999999999999998,
+            "no_token_id": "45531484892960265494279270519091781886723391223042662142615789653073009102124",
+            "no_probability": 0.985,
+            "no_best_bid": 0.964,
+            "no_best_ask": 0.985,
+            "no_spread": 0.02100000000000002,
+            "volume": 11078.200140999998,
+            "liquidity": 624299.3200000001,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "economy",
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Release of oil from reserves directly impacts total reserves.",
+            "event_id": "362137",
+            "event_title": "Will US crude oil reserves fall to __ by June 5?",
+            "event_slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+            "detected_yes_price": 0.022,
+            "detected_no_price": 0.987,
+            "detected_at": 1778538075502,
+            "highest_price_change": 0.7272727272727273,
+            "highest_yes_price": 0.038,
+            "highest_no_price": 0.987,
+            "first_moved_at": 1778538076593,
+            "moved_side": "yes",
+            "peaked_at": 1778538123230
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 10,
+            "price": 95.953
+          }
+        ],
+        "topics": [
+          "elon-musk",
+          "ai-tech",
+          "iran-regime"
+        ],
+        "categories": [
+          "tech",
+          "culture",
+          "world",
+          "climate",
+          "elections",
+          "geopolitics"
+        ]
+      },
+      "related_market": {
+        "id": "1931709",
+        "slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+        "condition_id": "0x351b328835e3ff4d574ae836c9842a7dd72bad929d990098ce0976fb794fab9e",
+        "title": "350M",
+        "question": "Will US crude oil reserves fall to 350M by June 5?",
+        "description": "This market will resolve to \u201cYes\u201d if the U.S. Energy Information Administration publishes a weekly figure for U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve less than or equal to the specified value for any week ending on or before June 5, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve as soon as the listed value is reached, or once data has been released for the final week ending on or before June 5, 2026, and the listed value has not been reached.\n\nIf data has not been released for the final week ending on or before June 5 2026, by June 12, 2026, 11:59 PM ET, this market will resolve based on the data available at that time.\n\nThe primary resolution source for this market will be the U.S. Energy Information Administration, specifically the weekly data published for the U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve at https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCSSTUS1&f=W.\n\nNote: this market\u2019s resolution source publishes weekly values of U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve in thousands of barrels. Thus, this will be the level of specificity used to resolve this market.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-us-crude-oil-reserves-fall-to-by-may-1-asmCg2nXC0OP.jpg",
+        "yes_token_id": "96387168265315643458809578585716885635310536108297246769705618825337335111480",
+        "yes_probability": 0.28,
+        "yes_best_bid": 0.21,
+        "yes_best_ask": 0.28,
+        "yes_spread": 0.07000000000000003,
+        "no_token_id": "113665762647266579005683558516199703909298974640865815911895476519934888195593",
+        "no_probability": 0.79,
+        "no_best_bid": 0.72,
+        "no_best_ask": 0.79,
+        "no_spread": 0.07000000000000006,
+        "volume": 17837.74459,
+        "liquidity": 62960.23999999999,
+        "neg_risk": false,
+        "end_date": "2026-06-30T00:00:00Z",
+        "categories": [
+          "economy",
+          "politics",
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Release of oil from reserves directly impacts total reserves.",
+        "event_id": "362137",
+        "event_title": "Will US crude oil reserves fall to __ by June 5?",
+        "event_slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+        "detected_yes_price": 0.23,
+        "detected_no_price": 0.81,
+        "detected_at": 1778538075502,
+        "highest_price_change": 0.43478260869565216,
+        "highest_yes_price": 0.33,
+        "highest_no_price": 0.82,
+        "first_moved_at": 1778538154344,
+        "moved_side": "yes",
+        "peaked_at": 1778577971063
+      },
+      "_scraped_at": "2026-05-12T10:57:38.016133+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 4,
+      "feed_item": {
+        "id": "c1dc718a-ff3d-4298-9497-f39208da4162",
+        "timestamp": 1778517306986,
+        "tweet": {
+          "feed_item_id": "c1dc718a-ff3d-4298-9497-f39208da4162",
+          "post_id": "2053876565218406825",
+          "post_type": "tweet",
+          "created_at": 1778517306986,
+          "user": {
+            "uid": "18856867",
+            "handle": "zerohedge",
+            "display_name": "zerohedge",
+            "pfp": "https://pbs.twimg.com/profile_images/72647502/tyler.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "Tyson Sinks, Walmart Falls After Trump Moves To Temporarily Lower Beef Import Tariffs https://www.zerohedge.com/commodities/tyson-sinks-walmart-falls-after-trump-moves-temporarily-lower-beef-import-tariffs",
+          "link": "https://twitter.com/zerohedge/status/2053876565218406825"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "US",
+        "countries": [
+          "US",
+          "IN"
+        ],
+        "related_markets": [
+          {
+            "id": "1436465",
+            "slug": "us-trade-deficit-in-2026",
+            "condition_id": "0x306b01a825a423668beec573456610843ad4c47f72d1fb70d880f55b10109d91",
+            "title": "1.1T+",
+            "question": "Will the 2026 trade deficit be 1.1T or more?",
+            "description": "This market will resolve according to the annual US Goods and Services Deficit for 2026, as reported by the US Bureau of Economic Analysis (BEA) and the US Census Bureau (USCB) in the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026, expected to be released in February 2027.\n\nUpon publication, the specified release will be made available at: https://www.bea.gov/news/current-releases\n\nThe relevant figure may be found in the annual summary under \u201cExports, Imports, and Balance (exhibit 1)\u201d. Changes in the BEA or USCB\u2019s reporting format will not disqualify a relevant published figure from counting.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe primary resolution source for this market will be the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 from the US Bureau of Economic Analysis and the US Census Bureau. If this release is not published by April 30, 2027 ET, another credible source on the annual US Goods and Services Deficit for 2026 will be chosen.\n\nNote: any revisions to the annual US Goods and Services Deficit for 2026 made after the publication of the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-trade-deficit-in-2026-Hn37ZN5inoET.jpg",
+            "yes_token_id": "5719638015015095021777253576720314166686827284908160443837910371323865840881",
+            "yes_probability": 0.09,
+            "yes_best_bid": 0.005,
+            "yes_best_ask": 0.09,
+            "yes_spread": 0.08499999999999999,
+            "no_token_id": "81041681824483581150311469351093877024153338807206649092878012100346498915016",
+            "no_probability": 0.995,
+            "no_best_bid": 0.91,
+            "no_best_ask": 0.995,
+            "no_spread": 0.08499999999999996,
+            "volume": 623.7955240000001,
+            "liquidity": 53560.29,
+            "neg_risk": true,
+            "end_date": "2027-02-28T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Tariff changes directly influence trade balance (1 hop).",
+            "event_id": "230330",
+            "event_title": "US Trade Deficit in 2026?",
+            "event_slug": "us-trade-deficit-in-2026",
+            "detected_yes_price": 0.09,
+            "detected_no_price": 0.997,
+            "detected_at": 1778517327203,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.09,
+            "highest_no_price": 0.997
+          },
+          {
+            "id": "1436458",
+            "slug": "us-trade-deficit-in-2026",
+            "condition_id": "0xaaf3bc4e63735b3bfcc7a008e00ce7466a699584a50e92d94cd256a0ced72a7c",
+            "title": "<500B",
+            "question": "Will the 2026 trade deficit be less than 500B?",
+            "description": "This market will resolve according to the annual US Goods and Services Deficit for 2026, as reported by the US Bureau of Economic Analysis (BEA) and the US Census Bureau (USCB) in the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026, expected to be released in February 2027.\n\nUpon publication, the specified release will be made available at: https://www.bea.gov/news/current-releases\n\nThe relevant figure may be found in the annual summary under \u201cExports, Imports, and Balance (exhibit 1)\u201d. Changes in the BEA or USCB\u2019s reporting format will not disqualify a relevant published figure from counting.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe primary resolution source for this market will be the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 from the US Bureau of Economic Analysis and the US Census Bureau. If this release is not published by April 30, 2027 ET, another credible source on the annual US Goods and Services Deficit for 2026 will be chosen.\n\nNote: any revisions to the annual US Goods and Services Deficit for 2026 made after the publication of the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-trade-deficit-in-2026-Hn37ZN5inoET.jpg",
+            "yes_token_id": "78849497444444188157350698961362879013549528532372718983538139639352715072954",
+            "yes_probability": 0.11,
+            "yes_best_bid": 0.04,
+            "yes_best_ask": 0.11,
+            "yes_spread": 0.07,
+            "no_token_id": "16702253457637369355512559909589950195972393433629954055252233038205090796405",
+            "no_probability": 0.96,
+            "no_best_bid": 0.89,
+            "no_best_ask": 0.96,
+            "no_spread": 0.06999999999999995,
+            "volume": 16636.445995,
+            "liquidity": 14492.289999999999,
+            "neg_risk": true,
+            "end_date": "2027-02-28T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Trump's tariff change directly affects trade balance (1 hop).",
+            "event_id": "230330",
+            "event_title": "US Trade Deficit in 2026?",
+            "event_slug": "us-trade-deficit-in-2026",
+            "detected_yes_price": 0.12,
+            "detected_no_price": 0.96,
+            "detected_at": 1778517327203,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.12,
+            "highest_no_price": 0.96
+          },
+          {
+            "id": "1436460",
+            "slug": "us-trade-deficit-in-2026",
+            "condition_id": "0xac9d6105090f5e372ceb14422889be27f4a07a8b10497786d2df5946d0d7e9c7",
+            "title": "600\u2013700B",
+            "question": "Will the 2026 trade deficit be between 600B and 700B?",
+            "description": "This market will resolve according to the annual US Goods and Services Deficit for 2026, as reported by the US Bureau of Economic Analysis (BEA) and the US Census Bureau (USCB) in the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026, expected to be released in February 2027.\n\nUpon publication, the specified release will be made available at: https://www.bea.gov/news/current-releases\n\nThe relevant figure may be found in the annual summary under \u201cExports, Imports, and Balance (exhibit 1)\u201d. Changes in the BEA or USCB\u2019s reporting format will not disqualify a relevant published figure from counting.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe primary resolution source for this market will be the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 from the US Bureau of Economic Analysis and the US Census Bureau. If this release is not published by April 30, 2027 ET, another credible source on the annual US Goods and Services Deficit for 2026 will be chosen.\n\nNote: any revisions to the annual US Goods and Services Deficit for 2026 made after the publication of the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-trade-deficit-in-2026-Hn37ZN5inoET.jpg",
+            "yes_token_id": "27973691964766109836544315595854712262337866225236386768284652101613679398793",
+            "yes_probability": 0.08,
+            "yes_best_bid": 0.04,
+            "yes_best_ask": 0.08,
+            "yes_spread": 0.04,
+            "no_token_id": "10172566073036860034393519395720286395513476290773008122020667669817961861000",
+            "no_probability": 0.96,
+            "no_best_bid": 0.92,
+            "no_best_ask": 0.96,
+            "no_spread": 0.039999999999999925,
+            "volume": 434.63353800000016,
+            "liquidity": 155791.68,
+            "neg_risk": true,
+            "end_date": "2027-02-28T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Tariff reduction impacts trade balance directly (1 hop).",
+            "event_id": "230330",
+            "event_title": "US Trade Deficit in 2026?",
+            "event_slug": "us-trade-deficit-in-2026",
+            "detected_yes_price": 0.08,
+            "detected_no_price": 0.96,
+            "detected_at": 1778517327203,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.08,
+            "highest_no_price": 0.96
+          },
+          {
+            "id": "1436462",
+            "slug": "us-trade-deficit-in-2026",
+            "condition_id": "0xd3c6552a51528c74c28471aa0a5e13fbafdf84f02a40d11bf173b94032b7e7ef",
+            "title": "800\u2013900B",
+            "question": "Will the 2026 trade deficit be between 800B and 900B?",
+            "description": "This market will resolve according to the annual US Goods and Services Deficit for 2026, as reported by the US Bureau of Economic Analysis (BEA) and the US Census Bureau (USCB) in the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026, expected to be released in February 2027.\n\nUpon publication, the specified release will be made available at: https://www.bea.gov/news/current-releases\n\nThe relevant figure may be found in the annual summary under \u201cExports, Imports, and Balance (exhibit 1)\u201d. Changes in the BEA or USCB\u2019s reporting format will not disqualify a relevant published figure from counting.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe primary resolution source for this market will be the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 from the US Bureau of Economic Analysis and the US Census Bureau. If this release is not published by April 30, 2027 ET, another credible source on the annual US Goods and Services Deficit for 2026 will be chosen.\n\nNote: any revisions to the annual US Goods and Services Deficit for 2026 made after the publication of the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-trade-deficit-in-2026-Hn37ZN5inoET.jpg",
+            "yes_token_id": "44017019315782922634457300618919482744803730196875933928315824275516729043334",
+            "yes_probability": 0.65,
+            "yes_best_bid": 0.09,
+            "yes_best_ask": 0.65,
+            "yes_spread": 0.56,
+            "no_token_id": "55867192153318522579011935519518933000287056983134864115793841072368253621603",
+            "no_probability": 0.91,
+            "no_best_bid": 0.35,
+            "no_best_ask": 0.91,
+            "no_spread": 0.56,
+            "volume": 1007.858232,
+            "liquidity": 154051.26,
+            "neg_risk": true,
+            "end_date": "2027-02-28T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Tariff changes directly affect trade balance (1 hop).",
+            "event_id": "230330",
+            "event_title": "US Trade Deficit in 2026?",
+            "event_slug": "us-trade-deficit-in-2026",
+            "detected_yes_price": 0.56,
+            "detected_no_price": 0.91,
+            "detected_at": 1778517327203,
+            "highest_price_change": 0.2678571428571427,
+            "highest_yes_price": 0.71,
+            "highest_no_price": 0.91,
+            "first_moved_at": 1778517348870,
+            "moved_side": "yes",
+            "peaked_at": 1778578324099
+          },
+          {
+            "id": "1436463",
+            "slug": "us-trade-deficit-in-2026",
+            "condition_id": "0x26b69058c1c2c53a8e439504a8755ce75d469ba3a1c82bca934ea7a46f26529e",
+            "title": "900B\u20131T",
+            "question": "Will the 2026 trade deficit be between 900B and 1T?",
+            "description": "This market will resolve according to the annual US Goods and Services Deficit for 2026, as reported by the US Bureau of Economic Analysis (BEA) and the US Census Bureau (USCB) in the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026, expected to be released in February 2027.\n\nUpon publication, the specified release will be made available at: https://www.bea.gov/news/current-releases\n\nThe relevant figure may be found in the annual summary under \u201cExports, Imports, and Balance (exhibit 1)\u201d. Changes in the BEA or USCB\u2019s reporting format will not disqualify a relevant published figure from counting.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe primary resolution source for this market will be the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 from the US Bureau of Economic Analysis and the US Census Bureau. If this release is not published by April 30, 2027 ET, another credible source on the annual US Goods and Services Deficit for 2026 will be chosen.\n\nNote: any revisions to the annual US Goods and Services Deficit for 2026 made after the publication of the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-trade-deficit-in-2026-Hn37ZN5inoET.jpg",
+            "yes_token_id": "106954541463172441153958311986648134847708254123222442997405232679090482865750",
+            "yes_probability": 0.54,
+            "yes_best_bid": 0.08,
+            "yes_best_ask": 0.54,
+            "yes_spread": 0.46,
+            "no_token_id": "61472080815013929868564565937575699345479156899354364969053537768689252061185",
+            "no_probability": 0.92,
+            "no_best_bid": 0.46,
+            "no_best_ask": 0.92,
+            "no_spread": 0.46,
+            "volume": 958.3163040000001,
+            "liquidity": 153681.10000000003,
+            "neg_risk": true,
+            "end_date": "2027-02-28T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Direct impact of tariff changes on trade balance (1 hop).",
+            "event_id": "230330",
+            "event_title": "US Trade Deficit in 2026?",
+            "event_slug": "us-trade-deficit-in-2026",
+            "detected_yes_price": 0.55,
+            "detected_no_price": 0.91,
+            "detected_at": 1778517327203,
+            "highest_price_change": 0.010989010989010999,
+            "highest_yes_price": 0.55,
+            "highest_no_price": 0.92,
+            "first_moved_at": 1778577967295,
+            "moved_side": "no",
+            "peaked_at": 1778577967295
+          }
+        ],
+        "topics": [
+          "trump-tariffs"
+        ],
+        "categories": [
+          "finance",
+          "economy"
+        ]
+      },
+      "related_market": {
+        "id": "1436462",
+        "slug": "us-trade-deficit-in-2026",
+        "condition_id": "0xd3c6552a51528c74c28471aa0a5e13fbafdf84f02a40d11bf173b94032b7e7ef",
+        "title": "800\u2013900B",
+        "question": "Will the 2026 trade deficit be between 800B and 900B?",
+        "description": "This market will resolve according to the annual US Goods and Services Deficit for 2026, as reported by the US Bureau of Economic Analysis (BEA) and the US Census Bureau (USCB) in the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026, expected to be released in February 2027.\n\nUpon publication, the specified release will be made available at: https://www.bea.gov/news/current-releases\n\nThe relevant figure may be found in the annual summary under \u201cExports, Imports, and Balance (exhibit 1)\u201d. Changes in the BEA or USCB\u2019s reporting format will not disqualify a relevant published figure from counting.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe primary resolution source for this market will be the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 from the US Bureau of Economic Analysis and the US Census Bureau. If this release is not published by April 30, 2027 ET, another credible source on the annual US Goods and Services Deficit for 2026 will be chosen.\n\nNote: any revisions to the annual US Goods and Services Deficit for 2026 made after the publication of the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 will not be considered.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-trade-deficit-in-2026-Hn37ZN5inoET.jpg",
+        "yes_token_id": "44017019315782922634457300618919482744803730196875933928315824275516729043334",
+        "yes_probability": 0.65,
+        "yes_best_bid": 0.09,
+        "yes_best_ask": 0.65,
+        "yes_spread": 0.56,
+        "no_token_id": "55867192153318522579011935519518933000287056983134864115793841072368253621603",
+        "no_probability": 0.91,
+        "no_best_bid": 0.35,
+        "no_best_ask": 0.91,
+        "no_spread": 0.56,
+        "volume": 1007.858232,
+        "liquidity": 154051.26,
+        "neg_risk": true,
+        "end_date": "2027-02-28T00:00:00Z",
+        "categories": [
+          "economy"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Tariff changes directly affect trade balance (1 hop).",
+        "event_id": "230330",
+        "event_title": "US Trade Deficit in 2026?",
+        "event_slug": "us-trade-deficit-in-2026",
+        "detected_yes_price": 0.56,
+        "detected_no_price": 0.91,
+        "detected_at": 1778517327203,
+        "highest_price_change": 0.2678571428571427,
+        "highest_yes_price": 0.71,
+        "highest_no_price": 0.91,
+        "first_moved_at": 1778517348870,
+        "moved_side": "yes",
+        "peaked_at": 1778578324099
+      },
+      "_scraped_at": "2026-05-12T10:57:38.016133+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "global_tension_score": 37,
+      "global_tension_level": "GUARDED",
+      "countries": [
+        {
+          "country": "IR",
+          "count": 8,
+          "recent": [
+            {
+              "id": "03b5e5dd-4c83-42e6-847c-470ab7cf447f",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1778572250280
+            },
+            {
+              "id": "c43ff0d1-ac24-4383-a5dd-d8cf36ccdcc7",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1778580106548
+            },
+            {
+              "id": "48bdb8c7-722d-41bd-86f1-8e96bb2c2c10",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778576645055
+            },
+            {
+              "id": "f4d4f728-593c-439f-9afa-39fe02ba9c39",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778573462748
+            },
+            {
+              "id": "b78b20b6-3db7-4cf5-be70-95bc711c0e1c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778578240331
+            },
+            {
+              "id": "2cb5a486-8861-4317-9082-4384bdedb2b4",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778573450238
+            },
+            {
+              "id": "3c8d10cc-6a46-4051-bba8-c6833fca1eee",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1778573220346
+            },
+            {
+              "id": "914ddbf3-67ca-40cc-839c-da330ae705ab",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778574120775
+            }
+          ],
+          "volume": 125923522.85165751,
+          "critical_signals": 0,
+          "high_signals": 8,
+          "low_signals": 0
+        },
+        {
+          "country": "US",
+          "count": 8,
+          "recent": [
+            {
+              "id": "4d88c615-89d4-4c63-a548-0fcc980ec71a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778572006000
+            },
+            {
+              "id": "c43ff0d1-ac24-4383-a5dd-d8cf36ccdcc7",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1778580106548
+            },
+            {
+              "id": "48bdb8c7-722d-41bd-86f1-8e96bb2c2c10",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778576645055
+            },
+            {
+              "id": "2b2a75a8-ccf3-47ec-9344-b0211a96e64c",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1778573794150
+            },
+            {
+              "id": "f4d4f728-593c-439f-9afa-39fe02ba9c39",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778573462748
+            },
+            {
+              "id": "bde5e816-65ac-4cb9-ac47-e4384a27a847",
+              "kind": "news",
+              "impact": "critical",
+              "timestamp": 1778578001117
+            },
+            {
+              "id": "3c8d10cc-6a46-4051-bba8-c6833fca1eee",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1778573220346
+            },
+            {
+              "id": "914ddbf3-67ca-40cc-839c-da330ae705ab",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778574120775
+            }
+          ],
+          "volume": 54191266.06478976,
+          "critical_signals": 2,
+          "high_signals": 6,
+          "low_signals": 0
+        },
+        {
+          "country": "GB",
+          "count": 7,
+          "recent": [
+            {
+              "id": "4d88c615-89d4-4c63-a548-0fcc980ec71a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778572006000
+            },
+            {
+              "id": "8ea6a038-2460-4406-85ba-d6dc7c71932b",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778574904707
+            },
+            {
+              "id": "54a6ea84-fc37-4fc7-900b-8978256ac33d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778578540453
+            },
+            {
+              "id": "7ae12863-d641-47b4-950d-45e1002ffaaa",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778576630411
+            },
+            {
+              "id": "9e3b7ce9-5808-4735-b3c5-16096febdff2",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778568222975
+            },
+            {
+              "id": "21395844-bd4d-43f8-a4fd-2dc1443515f5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778569399085
+            },
+            {
+              "id": "c3362b56-8ccd-4b4c-a572-a921b3b08864",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1778563063044
+            }
+          ],
+          "volume": 8221467.22159948,
+          "critical_signals": 0,
+          "high_signals": 6,
+          "low_signals": 1
+        },
+        {
+          "country": "IL",
+          "count": 6,
+          "recent": [
+            {
+              "id": "204480c6-7e95-441b-8f8c-afb35c48dac7",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778583240908
+            },
+            {
+              "id": "48bdb8c7-722d-41bd-86f1-8e96bb2c2c10",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778576645055
+            },
+            {
+              "id": "b60d4a52-ddee-4bf4-b982-3267d45f2af4",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778570078743
+            },
+            {
+              "id": "b78b20b6-3db7-4cf5-be70-95bc711c0e1c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778578240331
+            },
+            {
+              "id": "2cb5a486-8861-4317-9082-4384bdedb2b4",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778573450238
+            },
+            {
+              "id": "914ddbf3-67ca-40cc-839c-da330ae705ab",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778574120775
+            }
+          ],
+          "volume": 5167425.006401013,
+          "critical_signals": 0,
+          "high_signals": 6,
+          "low_signals": 0
+        },
+        {
+          "country": "UA",
+          "count": 5,
+          "recent": [
+            {
+              "id": "80ca4991-af68-4c87-9663-3e273412bdb9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778580040278
+            },
+            {
+              "id": "54a6ea84-fc37-4fc7-900b-8978256ac33d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778578540453
+            },
+            {
+              "id": "7ae12863-d641-47b4-950d-45e1002ffaaa",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778576630411
+            },
+            {
+              "id": "21395844-bd4d-43f8-a4fd-2dc1443515f5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778569399085
+            },
+            {
+              "id": "c3362b56-8ccd-4b4c-a572-a921b3b08864",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1778563063044
+            }
+          ],
+          "volume": 582001.1837414816,
+          "critical_signals": 0,
+          "high_signals": 4,
+          "low_signals": 1
+        },
+        {
+          "country": "RU",
+          "count": 4,
+          "recent": [
+            {
+              "id": "075ed3e6-7526-4135-b842-5b256e09bde0",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778573570087
+            },
+            {
+              "id": "4d88c615-89d4-4c63-a548-0fcc980ec71a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778572006000
+            },
+            {
+              "id": "54a6ea84-fc37-4fc7-900b-8978256ac33d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778578540453
+            },
+            {
+              "id": "c3362b56-8ccd-4b4c-a572-a921b3b08864",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1778563063044
+            }
+          ],
+          "volume": 693899.1564864817,
+          "critical_signals": 0,
+          "high_signals": 3,
+          "low_signals": 1
+        },
+        {
+          "country": "CN",
+          "count": 3,
+          "recent": [
+            {
+              "id": "4d88c615-89d4-4c63-a548-0fcc980ec71a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778572006000
+            },
+            {
+              "id": "2b2a75a8-ccf3-47ec-9344-b0211a96e64c",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1778573794150
+            },
+            {
+              "id": "bde5e816-65ac-4cb9-ac47-e4384a27a847",
+              "kind": "news",
+              "impact": "critical",
+              "timestamp": 1778578001117
+            }
+          ],
+          "volume": 34018.41008791,
+          "critical_signals": 2,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "LB",
+          "count": 3,
+          "recent": [
+            {
+              "id": "204480c6-7e95-441b-8f8c-afb35c48dac7",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778583240908
+            },
+            {
+              "id": "48bdb8c7-722d-41bd-86f1-8e96bb2c2c10",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778576645055
+            },
+            {
+              "id": "b60d4a52-ddee-4bf4-b982-3267d45f2af4",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778570078743
+            }
+          ],
+          "volume": 729198.7602913835,
+          "critical_signals": 0,
+          "high_signals": 3,
+          "low_signals": 0
+        },
+        {
+          "country": "TW",
+          "count": 2,
+          "recent": [
+            {
+              "id": "2b2a75a8-ccf3-47ec-9344-b0211a96e64c",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1778573794150
+            },
+            {
+              "id": "bde5e816-65ac-4cb9-ac47-e4384a27a847",
+              "kind": "news",
+              "impact": "critical",
+              "timestamp": 1778578001117
+            }
+          ],
+          "volume": 399.86946990999996,
+          "critical_signals": 2,
+          "high_signals": 0,
+          "low_signals": 0
+        },
+        {
+          "country": "CA",
+          "count": 1,
+          "recent": [
+            {
+              "id": "21b8cf58-dc25-44d5-b2d7-52dc8162218c",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1778576120682
+            }
+          ],
+          "volume": 109129.48697499995,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "SY",
+          "count": 1,
+          "recent": [
+            {
+              "id": "2cb5a486-8861-4317-9082-4384bdedb2b4",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778573450238
+            }
+          ],
+          "volume": 537159.0527929981,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "DK",
+          "count": 1,
+          "recent": [
+            {
+              "id": "4d88c615-89d4-4c63-a548-0fcc980ec71a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778572006000
+            }
+          ],
+          "volume": 33618.540618,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "PH",
+          "count": 1,
+          "recent": [
+            {
+              "id": "21b8cf58-dc25-44d5-b2d7-52dc8162218c",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1778576120682
+            }
+          ],
+          "volume": 109129.48697499995,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "GL",
+          "count": 1,
+          "recent": [
+            {
+              "id": "4d88c615-89d4-4c63-a548-0fcc980ec71a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778572006000
+            }
+          ],
+          "volume": 33618.540618,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "AE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "2cb5a486-8861-4317-9082-4384bdedb2b4",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778573450238
+            }
+          ],
+          "volume": 537159.0527929981,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "DE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "c43ff0d1-ac24-4383-a5dd-d8cf36ccdcc7",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1778580106548
+            }
+          ],
+          "volume": 544186.8547959992,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        }
+      ],
+      "_scraped_at": "2026-05-12T10:57:38.016133+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
