@@ -1,0 +1,2379 @@
+{
+  "scraped_at": "2026-05-14T09:13:06.430949+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 8,
+  "items": [
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "f040a3df-803d-4716-ad45-6514dae0592e",
+        "timestamp": 1778674693646,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "f040a3df-803d-4716-ad45-6514dae0592e",
+          "text": "Trump has arrived in China\u2014his first visit to Beijing since 2017. The day before, the US president stated that Washington does not need China&#39;s help on the Iran issue. According to Trump, the US &quot;will win one way or another, peacefully or otherwise.&quot; The American president is scheduled to meet with Xi Jinping tomorrow. The talks will likely focus on reducing tensions between the countries, as well as the trade standoff, which in recent years has escalated into a full-blown economic war. Trump is accompanied by Elon Musk and Tim Cook.",
+          "channel": "NEXTA Live",
+          "timestamp": 1778674693646,
+          "link": "https://t.me/nexta_live"
+        },
+        "osint": false,
+        "country": "CN",
+        "countries": [
+          "CN",
+          "US",
+          "IR"
+        ],
+        "related_markets": [
+          {
+            "id": "2169754",
+            "slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "condition_id": "0x48c7603bb331cb47e78951840fcc3b1ade6ae5dcf65dd86d75fe0a28476b9383",
+            "title": "New Sanctions",
+            "question": "Will Trump announce new sanctions on China?",
+            "description": "This market will resolve to \"Yes\" if Donald Trump or the Trump administration officially announces any new sanctions of any form against China between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nSanctions could include measures like new or increased tariffs, trade restrictions, financial penalties, diplomatic expulsions, travel bans, restrictions on specific individuals, or any other actions that are commonly recognized as sanctions.\n\nSanctions against Chinese citizens or entities which do not directly target the Chinese state or members of the Chinese government will not qualify.\n\nOnly definitive announcements will qualify. Suggestions, negotiations, expressions of openness, or other non-definitive statements will not qualify.\n\nAny qualifying announcement within this market\u2019s time frame will count, regardless of when or whether or when the announced sanctions go into effect.\n\nThe primary resolution source will be official information from Donald Trump and the Trump administration; however, a consensus of credible reporting may also be used.\n",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-trump-announce-by-may-22-dnHPwUKytUMR.jpg",
+            "yes_token_id": "61522526389624979367217469970880931098020438007692405466058187866328654994236",
+            "yes_probability": 0.039,
+            "yes_best_bid": 0.022,
+            "yes_best_ask": 0.039,
+            "yes_spread": 0.017,
+            "no_token_id": "46271690935673621482998570783523983954694025492513625692598181097529937418559",
+            "no_probability": 0.978,
+            "no_best_bid": 0.961,
+            "no_best_ask": 0.978,
+            "no_spread": 0.017000000000000015,
+            "volume": 2289.0726270000005,
+            "liquidity": 164768.18000000002,
+            "neg_risk": false,
+            "end_date": "2026-05-22T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "The ongoing trade war context suggests potential for new sanctions (1 hop).",
+            "event_id": "453131",
+            "event_title": "Trump-Xi Summit: What will Trump announce by May 22?",
+            "event_slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "detected_yes_price": 0.05,
+            "detected_no_price": 0.97,
+            "detected_at": 1778674712138,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.05,
+            "highest_no_price": 0.97
+          },
+          {
+            "id": "2169751",
+            "slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "condition_id": "0x0cfac875e3fa84e292a97256b74432c236904d1a3e46fe8b489978122bdc663b",
+            "title": "Tariff Reduction",
+            "question": "Will Trump announce a tariff reduction on China?",
+            "description": "This market will resolve to \u201cYes\u201d if Donald Trump or the Trump administration announces a reduction, removal, or suspension of any existing tariffs on China between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nOnly tariff reductions specifically announced in relation to China, goods from China, or a specific set of countries including China will qualify. For example, an announced reduction in global tariffs will not count toward this market\u2019s resolution.\n\nOnly definitive announcements qualify. Suggestions, negotiations, expressions of openness, or other non-definitive statements will not qualify.\n\nTariff reductions, removals, or suspensions announced as part of a mutual agreement or deal between the United States and China will qualify.\n\nAny qualifying action announced within this market\u2019s time frame will count, regardless of whether or when the tariff reduction, removal, or suspension goes into effect.\n\nThis market\u2019s primary resolution source will be official information from the Trump administration; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-trump-announce-by-may-22-dnHPwUKytUMR.jpg",
+            "yes_token_id": "67500088822425193611028555717491802967214637594198331061571697869465035016178",
+            "yes_probability": 0.63,
+            "yes_best_bid": 0.62,
+            "yes_best_ask": 0.63,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "39934818650392653302435843762090475578361428023990701131439493646151563643962",
+            "no_probability": 0.38,
+            "no_best_bid": 0.37,
+            "no_best_ask": 0.38,
+            "no_spread": 0.010000000000000009,
+            "volume": 9578.62119849001,
+            "liquidity": 338241.7600000001,
+            "neg_risk": false,
+            "end_date": "2026-05-22T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Trump's visit and talks with Xi indicate potential tariff announcements (1 hop).",
+            "event_id": "453131",
+            "event_title": "Trump-Xi Summit: What will Trump announce by May 22?",
+            "event_slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "detected_yes_price": 0.53,
+            "detected_no_price": 0.48,
+            "detected_at": 1778674712138,
+            "highest_price_change": 0.2641509433962264,
+            "highest_yes_price": 0.67,
+            "highest_no_price": 0.48,
+            "first_moved_at": 1778675342679,
+            "moved_side": "yes",
+            "peaked_at": 1778748569610
+          },
+          {
+            "id": "2169752",
+            "slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "condition_id": "0x99067da61a6adbd81a774a2171a692c2bc0b1d79339010892dd0122700d07c27",
+            "title": "Taiwan Arms Sales Halt",
+            "question": "Will Trump announce a Taiwan arms sales halt?",
+            "description": "This market will resolve to \u201cYes\u201d if Donald Trump or the Trump administration announces a halt, suspension, cancellation, or prohibition on any arms sales or military equipment transfers to Taiwan between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA qualifying announcement must specifically refer to the transfer of arms, weapons, munitions, military equipment, or substantially equivalent military goods from the United States to Taiwan. A qualifying announcement may apply to all such transfers to Taiwan or only to specified categories of arms, weapons or military equipment.\n\nOnly definitive announcements will qualify. Suggestions, negotiations, expressions of openness, or other non-definitive statements will not qualify.\n\nHalts, suspensions, cancellations, or prohibitions on arms sales or military equipment transfers announced as part of a mutual agreement or deal between the United States and China will qualify.\n\nAny qualifying announcement within this market\u2019s time frame will count, regardless of whether or when the announced action goes into effect.\n\nThe primary resolution source will be official information from Donald Trump and the Trump administration; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-trump-announce-by-may-22-dnHPwUKytUMR.jpg",
+            "yes_token_id": "12696183769670650585238277582760699135831921057660227739726388031486155955465",
+            "yes_probability": 0.05,
+            "yes_best_bid": 0.04,
+            "yes_best_ask": 0.05,
+            "yes_spread": 0.010000000000000002,
+            "no_token_id": "106403221719251808473953297553711993260828958956103654111905943616184896888632",
+            "no_probability": 0.96,
+            "no_best_bid": 0.95,
+            "no_best_ask": 0.96,
+            "no_spread": 0.010000000000000009,
+            "volume": 2236.3717220000003,
+            "liquidity": 110726.81,
+            "neg_risk": false,
+            "end_date": "2026-05-22T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 7,
+            "impact_level": "medium",
+            "impact_reason": "The summit's focus on reducing tensions suggests possible arms sales halt (1 hop).",
+            "event_id": "453131",
+            "event_title": "Trump-Xi Summit: What will Trump announce by May 22?",
+            "event_slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "detected_yes_price": 0.1,
+            "detected_no_price": 0.92,
+            "detected_at": 1778674712138,
+            "highest_price_change": 0.04347826086956513,
+            "highest_yes_price": 0.1,
+            "highest_no_price": 0.96,
+            "first_moved_at": 1778745332881,
+            "moved_side": "no",
+            "peaked_at": 1778745332881
+          },
+          {
+            "id": "2169753",
+            "slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "condition_id": "0x5ce3e24da24e081975a103ddaa0dc188f57dfed228108480bfb42e22b6e9d11d",
+            "title": "AI Export Restrictions Relief",
+            "question": "Will Trump announce AI export restrictions relief for China?",
+            "description": "This market will resolve to \u201cYes\u201d if Donald Trump or the Trump administration officially announces any reduction, suspension, exemption, or other relief from U.S. export restrictions on artificial intelligence chips, advanced computing chips, semiconductor manufacturing equipment, or other AI-related technology exports to China between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA qualifying announcement must explicitly indicate that US export restrictions on AI-related technologies will be suspended, reduced, exempted, or otherwise substantively relaxed.\n\nOnly definitive announcements will qualify. Suggestions, negotiations, expressions of openness, or other non-definitive statements will not qualify.\n\nReductions, suspensions, exemptions, or other relief from export restrictions announced as part of a mutual agreement or deal between the United States and China will qualify.\n\nAny qualifying announcement within this market\u2019s time frame will count, regardless of whether or when the announced relief goes into effect.\n\nThe primary resolution source will be official information from Donald Trump and the Trump administration; however, a consensus of credible reporting may also be used.\n",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-trump-announce-by-may-22-dnHPwUKytUMR.jpg",
+            "yes_token_id": "98449193408189623452787839425725033360729399962623376193481744101118434567662",
+            "yes_probability": 0.83,
+            "yes_best_bid": 0.78,
+            "yes_best_ask": 0.83,
+            "yes_spread": 0.04999999999999993,
+            "no_token_id": "21844880129793726181991388952938204162269164012853762646632439241973955936241",
+            "no_probability": 0.22,
+            "no_best_bid": 0.17,
+            "no_best_ask": 0.22,
+            "no_spread": 0.04999999999999999,
+            "volume": 5282.65961728,
+            "liquidity": 126362.44,
+            "neg_risk": false,
+            "end_date": "2026-05-22T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 7,
+            "impact_level": "medium",
+            "impact_reason": "The summit's agenda suggests discussions on trade and technology restrictions (1 hop).",
+            "event_id": "453131",
+            "event_title": "Trump-Xi Summit: What will Trump announce by May 22?",
+            "event_slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "detected_yes_price": 0.33,
+            "detected_no_price": 0.71,
+            "detected_at": 1778674712138,
+            "highest_price_change": 1.5454545454545454,
+            "highest_yes_price": 0.84,
+            "highest_no_price": 0.73,
+            "first_moved_at": 1778674716987,
+            "moved_side": "yes",
+            "peaked_at": 1778749572376
+          },
+          {
+            "id": "2235942",
+            "slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "condition_id": "0xc4bb233ab32b46bb4695f0a1b51f099960dec20e7cf9075f1f92728ebafabd40",
+            "title": "Detained Americans Release",
+            "question": "Will Trump announce the release of detained Americans?",
+            "description": "This market will resolve to \u201cYes\u201d if Donald Trump announces that one or more U.S. citizens detained in China will be released between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nOnly definitive announcements will qualify. Suggestions, negotiations, expressions of openness, or other non-definitive statements will not qualify.\n\nAny qualifying announcement within this market\u2019s time frame will count, regardless of whether or when the release actually occurs.\n\nThe primary resolution source will be official information from Donald Trump and the Trump administration; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-trump-announce-by-may-22-dnHPwUKytUMR.jpg",
+            "yes_token_id": "71664595129666784049701948998683193039459216848023299554364511051119148997101",
+            "yes_probability": 0.49,
+            "yes_best_bid": 0.23,
+            "yes_best_ask": 0.49,
+            "yes_spread": 0.26,
+            "no_token_id": "7485343656478995204065857548631357044885384832598858477660624275941557959177",
+            "no_probability": 0.77,
+            "no_best_bid": 0.51,
+            "no_best_ask": 0.77,
+            "no_spread": 0.26,
+            "volume": 913.065882,
+            "liquidity": 14444.070000000003,
+            "neg_risk": false,
+            "end_date": "2026-05-22T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 7,
+            "impact_level": "medium",
+            "impact_reason": "The summit's focus on reducing tensions may include humanitarian gestures (1 hop).",
+            "event_id": "453131",
+            "event_title": "Trump-Xi Summit: What will Trump announce by May 22?",
+            "event_slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "detected_yes_price": 0.33,
+            "detected_no_price": 0.7,
+            "detected_at": 1778674712138,
+            "highest_price_change": 0.515151515151515,
+            "highest_yes_price": 0.5,
+            "highest_no_price": 0.77,
+            "first_moved_at": 1778745308505,
+            "moved_side": "yes",
+            "peaked_at": 1778747528497
+          }
+        ],
+        "topics": [
+          "iran-regime",
+          "elon-musk"
+        ],
+        "categories": [
+          "politics",
+          "geopolitics"
+        ]
+      },
+      "related_market": {
+        "id": "2169753",
+        "slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+        "condition_id": "0x5ce3e24da24e081975a103ddaa0dc188f57dfed228108480bfb42e22b6e9d11d",
+        "title": "AI Export Restrictions Relief",
+        "question": "Will Trump announce AI export restrictions relief for China?",
+        "description": "This market will resolve to \u201cYes\u201d if Donald Trump or the Trump administration officially announces any reduction, suspension, exemption, or other relief from U.S. export restrictions on artificial intelligence chips, advanced computing chips, semiconductor manufacturing equipment, or other AI-related technology exports to China between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA qualifying announcement must explicitly indicate that US export restrictions on AI-related technologies will be suspended, reduced, exempted, or otherwise substantively relaxed.\n\nOnly definitive announcements will qualify. Suggestions, negotiations, expressions of openness, or other non-definitive statements will not qualify.\n\nReductions, suspensions, exemptions, or other relief from export restrictions announced as part of a mutual agreement or deal between the United States and China will qualify.\n\nAny qualifying announcement within this market\u2019s time frame will count, regardless of whether or when the announced relief goes into effect.\n\nThe primary resolution source will be official information from Donald Trump and the Trump administration; however, a consensus of credible reporting may also be used.\n",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-trump-announce-by-may-22-dnHPwUKytUMR.jpg",
+        "yes_token_id": "98449193408189623452787839425725033360729399962623376193481744101118434567662",
+        "yes_probability": 0.83,
+        "yes_best_bid": 0.78,
+        "yes_best_ask": 0.83,
+        "yes_spread": 0.04999999999999993,
+        "no_token_id": "21844880129793726181991388952938204162269164012853762646632439241973955936241",
+        "no_probability": 0.22,
+        "no_best_bid": 0.17,
+        "no_best_ask": 0.22,
+        "no_spread": 0.04999999999999999,
+        "volume": 5282.65961728,
+        "liquidity": 126362.44,
+        "neg_risk": false,
+        "end_date": "2026-05-22T00:00:00Z",
+        "categories": [
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 7,
+        "impact_level": "medium",
+        "impact_reason": "The summit's agenda suggests discussions on trade and technology restrictions (1 hop).",
+        "event_id": "453131",
+        "event_title": "Trump-Xi Summit: What will Trump announce by May 22?",
+        "event_slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+        "detected_yes_price": 0.33,
+        "detected_no_price": 0.71,
+        "detected_at": 1778674712138,
+        "highest_price_change": 1.5454545454545454,
+        "highest_yes_price": 0.84,
+        "highest_no_price": 0.73,
+        "first_moved_at": 1778674716987,
+        "moved_side": "yes",
+        "peaked_at": 1778749572376
+      },
+      "_scraped_at": "2026-05-14T09:13:06.430949+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 2,
+      "feed_item": {
+        "id": "2c6cb99c-8c9f-47d4-b249-f3c94f31e794",
+        "timestamp": 1778670791470,
+        "tweet": {
+          "feed_item_id": "2c6cb99c-8c9f-47d4-b249-f3c94f31e794",
+          "post_id": "2054520325803561233",
+          "post_type": "tweet",
+          "created_at": 1778670791470,
+          "user": {
+            "uid": "34713362",
+            "handle": "business",
+            "display_name": "Bloomberg",
+            "pfp": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "President Luiz Inacio Lula da Silva and Senator Flavio Bolsonaro are neck and neck ahead of Brazil\u2019s October election, with a new poll giving the incumbent a slight edge https://www.bloomberg.com/news/articles/2026-05-13/lula-retakes-slim-lead-over-flavio-bolsonaro-before-brazil-vote?taid=6a045cc72096e10001cce49d&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+          "link": "https://twitter.com/business/status/2054520325803561233"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "BR",
+        "countries": [
+          "BR"
+        ],
+        "related_markets": [
+          {
+            "id": "1366009",
+            "slug": "brazil-presidential-election-first-round-margin-of-victory",
+            "condition_id": "0xd99603add7350a5ff33c8dc609ab0eaae2d5d18162bb00eeb63c38c81ae038f8",
+            "title": "Lula da Silva 10-15%",
+            "question": "Will Luiz In\u00e1cio Lula da Silva win the first round of the 2026 Brazilian presidential election by 10\u201315%?",
+            "description": "A presidential election is scheduled to take place in Brazil on October 4, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the first round of the next Brazil Presidential Election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThis market will resolve based on the official vote count once the vote count has been made official.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.\n\nIf the result of this election isn't known definitively by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., https://dadosabertos.tse.jus.br/).",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election-reTil6nEVB1J.jpg",
+            "yes_token_id": "111501008889215248446738380766334499893429002495174888541812674365305743816241",
+            "yes_probability": 0.078,
+            "yes_best_bid": 0.02,
+            "yes_best_ask": 0.078,
+            "yes_spread": 0.057999999999999996,
+            "no_token_id": "68985689280964359721858876785601369759982303652640879035310084127715508408780",
+            "no_probability": 0.98,
+            "no_best_bid": 0.922,
+            "no_best_ask": 0.98,
+            "no_spread": 0.05799999999999994,
+            "volume": 2523.5614739999996,
+            "liquidity": 199363.38,
+            "neg_risk": true,
+            "end_date": "2026-10-04T00:00:00Z",
+            "categories": [
+              "world",
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Poll showing Lula's lead directly impacts his chances of winning by 10-15% (1 hop).",
+            "event_id": "205029",
+            "event_title": "Brazil Presidential Election First Round: Margin of Victory",
+            "event_slug": "brazil-presidential-election-first-round-margin-of-victory",
+            "detected_yes_price": 0.158,
+            "detected_no_price": 0.982,
+            "detected_at": 1778670860055,
+            "highest_price_change": 0.9873417721518988,
+            "highest_yes_price": 0.314,
+            "highest_no_price": 0.982,
+            "first_moved_at": 1778671150921,
+            "moved_side": "yes",
+            "peaked_at": 1778671150921
+          },
+          {
+            "id": "1365854",
+            "slug": "brazil-presidential-election-first-round-2nd-place",
+            "condition_id": "0x8ee27c276a1bee094293751285d8a6697674b023196cb21fdd14bf3ca12f6ec0",
+            "title": "Luiz In\u00e1cio Lula da Silva",
+            "question": "Will Luiz In\u00e1cio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?",
+            "description": "A presidential election is scheduled to take place in Brazil on October 4, 2026.\n\nThis market will resolve according to the listed candidate who receives the second-most valid votes in the first round of this election.\n\nThe named candidates will be primarily ranked by the number of valid votes received in the specified election. If two or more candidates are tied on valid votes, ties will be broken by alphabetical order of the candidates' last names. This market will resolve to the candidate that occupies the second-highest finishing position after applying this ranking.\n\nIf the result of this election isn't known definitively by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., https://dadosabertos.tse.jus.br/).",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election-reTil6nEVB1J.jpg",
+            "yes_token_id": "109856098174983029722649567789098297237073018943808237804563416414463140161494",
+            "yes_probability": 0.17,
+            "yes_best_bid": 0.15,
+            "yes_best_ask": 0.17,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "61962380735045871351352563947746037189767398069960776455040567750304235670037",
+            "no_probability": 0.85,
+            "no_best_bid": 0.83,
+            "no_best_ask": 0.85,
+            "no_spread": 0.020000000000000018,
+            "volume": 66377.08823400002,
+            "liquidity": 230055.42999999996,
+            "neg_risk": true,
+            "end_date": "2026-10-04T00:00:00Z",
+            "categories": [
+              "politics",
+              "world",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Poll showing Lula's lead directly impacts his chances of finishing second (1 hop).",
+            "event_id": "204972",
+            "event_title": "Brazil Presidential Election First Round: 2nd Place",
+            "event_slug": "brazil-presidential-election-first-round-2nd-place",
+            "detected_yes_price": 0.16,
+            "detected_no_price": 0.85,
+            "detected_at": 1778670860055,
+            "highest_price_change": 0.1875,
+            "highest_yes_price": 0.19,
+            "highest_no_price": 0.85,
+            "first_moved_at": 1778670938989,
+            "moved_side": "yes",
+            "peaked_at": 1778670938989
+          },
+          {
+            "id": "601819",
+            "slug": "brazil-presidential-election",
+            "condition_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+            "title": "Luiz In\u00e1cio Lula da Silva",
+            "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
+            "description": "A presidential election is scheduled to take place in Brazil on October 4, 2026.\n\nThis market will resolve according to the listed candidate that wins this election.\n\nThis market includes any potential second round. If the result of this election isn't known by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., https://dadosabertos.tse.jus.br/).",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election-reTil6nEVB1J.jpg",
+            "yes_token_id": "30630994248667897740988010928640156931882346081873066002335460180076741328029",
+            "yes_probability": 0.43,
+            "yes_best_bid": 0.42,
+            "yes_best_ask": 0.43,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "79191939610100241429039499950443680906623179487184628479206155805558220344190",
+            "no_probability": 0.58,
+            "no_best_bid": 0.57,
+            "no_best_ask": 0.58,
+            "no_spread": 0.010000000000000009,
+            "volume": 5351397.918664646,
+            "liquidity": 2099545.3500000006,
+            "neg_risk": true,
+            "end_date": "2026-10-04T00:00:00Z",
+            "categories": [
+              "world",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Poll showing Lula's lead directly impacts his election chances (1 hop).",
+            "event_id": "45915",
+            "event_title": "Brazil Presidential Election",
+            "event_slug": "brazil-presidential-election",
+            "detected_yes_price": 0.39,
+            "detected_no_price": 0.62,
+            "detected_at": 1778670860055,
+            "highest_price_change": 0.1025641025641025,
+            "highest_yes_price": 0.43,
+            "highest_no_price": 0.62,
+            "first_moved_at": 1778745309965,
+            "moved_side": "yes",
+            "peaked_at": 1778745309965
+          },
+          {
+            "id": "1366008",
+            "slug": "brazil-presidential-election-first-round-margin-of-victory",
+            "condition_id": "0x5377b12dd060efd8e3597620f120648f1bf99452a95eb70374b128d9ca133227",
+            "title": "Lula da Silva 5-10%",
+            "question": "Will Luiz In\u00e1cio Lula da Silva win the first round of the 2026 Brazilian presidential election by 5\u201310%?",
+            "description": "A presidential election is scheduled to take place in Brazil on October 4, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the first round of the next Brazil Presidential Election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThis market will resolve based on the official vote count once the vote count has been made official.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.\n\nIf the result of this election isn't known definitively by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., https://dadosabertos.tse.jus.br/).",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election-reTil6nEVB1J.jpg",
+            "yes_token_id": "48407765042087399444287625227087734986428382872828112503518998286869389847258",
+            "yes_probability": 0.23,
+            "yes_best_bid": 0.15,
+            "yes_best_ask": 0.23,
+            "yes_spread": 0.08000000000000002,
+            "no_token_id": "247047209822374154288211144964214527388236984575039338710647093931430457756",
+            "no_probability": 0.85,
+            "no_best_bid": 0.77,
+            "no_best_ask": 0.85,
+            "no_spread": 0.07999999999999996,
+            "volume": 6807.610564,
+            "liquidity": 125651.50999999998,
+            "neg_risk": true,
+            "end_date": "2026-10-04T00:00:00Z",
+            "categories": [
+              "world",
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Poll showing Lula's lead directly impacts his chances of winning by 5-10% (1 hop).",
+            "event_id": "205029",
+            "event_title": "Brazil Presidential Election First Round: Margin of Victory",
+            "event_slug": "brazil-presidential-election-first-round-margin-of-victory",
+            "detected_yes_price": 0.23,
+            "detected_no_price": 0.84,
+            "detected_at": 1778670860055,
+            "highest_price_change": 0.08695652173913039,
+            "highest_yes_price": 0.25,
+            "highest_no_price": 0.85,
+            "first_moved_at": 1778670901440,
+            "moved_side": "yes",
+            "peaked_at": 1778670901440
+          }
+        ],
+        "topics": [
+          "ukraine-war",
+          "elon-musk",
+          "ai-tech"
+        ],
+        "categories": [
+          "politics",
+          "geopolitics",
+          "elections",
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "1366009",
+        "slug": "brazil-presidential-election-first-round-margin-of-victory",
+        "condition_id": "0xd99603add7350a5ff33c8dc609ab0eaae2d5d18162bb00eeb63c38c81ae038f8",
+        "title": "Lula da Silva 10-15%",
+        "question": "Will Luiz In\u00e1cio Lula da Silva win the first round of the 2026 Brazilian presidential election by 10\u201315%?",
+        "description": "A presidential election is scheduled to take place in Brazil on October 4, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the first round of the next Brazil Presidential Election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThis market will resolve based on the official vote count once the vote count has been made official.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.\n\nIf the result of this election isn't known definitively by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., https://dadosabertos.tse.jus.br/).",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election-reTil6nEVB1J.jpg",
+        "yes_token_id": "111501008889215248446738380766334499893429002495174888541812674365305743816241",
+        "yes_probability": 0.078,
+        "yes_best_bid": 0.02,
+        "yes_best_ask": 0.078,
+        "yes_spread": 0.057999999999999996,
+        "no_token_id": "68985689280964359721858876785601369759982303652640879035310084127715508408780",
+        "no_probability": 0.98,
+        "no_best_bid": 0.922,
+        "no_best_ask": 0.98,
+        "no_spread": 0.05799999999999994,
+        "volume": 2523.5614739999996,
+        "liquidity": 199363.38,
+        "neg_risk": true,
+        "end_date": "2026-10-04T00:00:00Z",
+        "categories": [
+          "world",
+          "elections",
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Poll showing Lula's lead directly impacts his chances of winning by 10-15% (1 hop).",
+        "event_id": "205029",
+        "event_title": "Brazil Presidential Election First Round: Margin of Victory",
+        "event_slug": "brazil-presidential-election-first-round-margin-of-victory",
+        "detected_yes_price": 0.158,
+        "detected_no_price": 0.982,
+        "detected_at": 1778670860055,
+        "highest_price_change": 0.9873417721518988,
+        "highest_yes_price": 0.314,
+        "highest_no_price": 0.982,
+        "first_moved_at": 1778671150921,
+        "moved_side": "yes",
+        "peaked_at": 1778671150921
+      },
+      "_scraped_at": "2026-05-14T09:13:06.430949+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 3,
+      "feed_item": {
+        "id": "ee1b7f8c-464a-48a3-ba22-b47519dd2af0",
+        "timestamp": 1778686862803,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "ee1b7f8c-464a-48a3-ba22-b47519dd2af0",
+          "text": "\ud83c\uddfa\ud83c\uddf8 Trump arrives for a three-day state visit to China \ud83d\udc65 US President Donald Trump has arrived in Beijing, where he began a three-day state visit. The American leader was met at the airport by Chinese Vice President Han Zheng. \ud83d\uddd3 On Thursday, May 14, the US president is scheduled to meet with Chinese President Xi Jinping. The agenda includes trade relations between the two countries, energy and technological cooperation, the Taiwan issue, as well as key international processes: the war in Iran and Moscow&#39;s aggression against Ukraine.\u200b\u200b",
+          "channel": "\u2719DeepState\u2719\ud83c\uddfa\ud83c\udde6",
+          "timestamp": 1778686862803,
+          "link": "https://t.me/DeepStateUA"
+        },
+        "osint": false,
+        "country": "CN",
+        "countries": [
+          "CN",
+          "US",
+          "UA",
+          "RU",
+          "TW",
+          "IR",
+          "GB"
+        ],
+        "related_markets": [
+          {
+            "id": "2169751",
+            "slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "condition_id": "0x0cfac875e3fa84e292a97256b74432c236904d1a3e46fe8b489978122bdc663b",
+            "title": "Tariff Reduction",
+            "question": "Will Trump announce a tariff reduction on China?",
+            "description": "This market will resolve to \u201cYes\u201d if Donald Trump or the Trump administration announces a reduction, removal, or suspension of any existing tariffs on China between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nOnly tariff reductions specifically announced in relation to China, goods from China, or a specific set of countries including China will qualify. For example, an announced reduction in global tariffs will not count toward this market\u2019s resolution.\n\nOnly definitive announcements qualify. Suggestions, negotiations, expressions of openness, or other non-definitive statements will not qualify.\n\nTariff reductions, removals, or suspensions announced as part of a mutual agreement or deal between the United States and China will qualify.\n\nAny qualifying action announced within this market\u2019s time frame will count, regardless of whether or when the tariff reduction, removal, or suspension goes into effect.\n\nThis market\u2019s primary resolution source will be official information from the Trump administration; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-trump-announce-by-may-22-dnHPwUKytUMR.jpg",
+            "yes_token_id": "67500088822425193611028555717491802967214637594198331061571697869465035016178",
+            "yes_probability": 0.63,
+            "yes_best_bid": 0.62,
+            "yes_best_ask": 0.63,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "39934818650392653302435843762090475578361428023990701131439493646151563643962",
+            "no_probability": 0.38,
+            "no_best_bid": 0.37,
+            "no_best_ask": 0.38,
+            "no_spread": 0.010000000000000009,
+            "volume": 9578.62119849001,
+            "liquidity": 338241.7600000001,
+            "neg_risk": false,
+            "end_date": "2026-05-22T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Trump's visit focuses on trade relations, indicating potential tariff announcements.",
+            "event_id": "453131",
+            "event_title": "Trump-Xi Summit: What will Trump announce by May 22?",
+            "event_slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "detected_yes_price": 0.73,
+            "detected_no_price": 0.31999999999999995,
+            "detected_at": 1778686883181,
+            "highest_price_change": 0.1875000000000002,
+            "highest_yes_price": 0.74,
+            "highest_no_price": 0.38,
+            "first_moved_at": 1778687033854,
+            "moved_side": "no",
+            "peaked_at": 1778749120574
+          },
+          {
+            "id": "2169753",
+            "slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "condition_id": "0x5ce3e24da24e081975a103ddaa0dc188f57dfed228108480bfb42e22b6e9d11d",
+            "title": "AI Export Restrictions Relief",
+            "question": "Will Trump announce AI export restrictions relief for China?",
+            "description": "This market will resolve to \u201cYes\u201d if Donald Trump or the Trump administration officially announces any reduction, suspension, exemption, or other relief from U.S. export restrictions on artificial intelligence chips, advanced computing chips, semiconductor manufacturing equipment, or other AI-related technology exports to China between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA qualifying announcement must explicitly indicate that US export restrictions on AI-related technologies will be suspended, reduced, exempted, or otherwise substantively relaxed.\n\nOnly definitive announcements will qualify. Suggestions, negotiations, expressions of openness, or other non-definitive statements will not qualify.\n\nReductions, suspensions, exemptions, or other relief from export restrictions announced as part of a mutual agreement or deal between the United States and China will qualify.\n\nAny qualifying announcement within this market\u2019s time frame will count, regardless of whether or when the announced relief goes into effect.\n\nThe primary resolution source will be official information from Donald Trump and the Trump administration; however, a consensus of credible reporting may also be used.\n",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-trump-announce-by-may-22-dnHPwUKytUMR.jpg",
+            "yes_token_id": "98449193408189623452787839425725033360729399962623376193481744101118434567662",
+            "yes_probability": 0.83,
+            "yes_best_bid": 0.78,
+            "yes_best_ask": 0.83,
+            "yes_spread": 0.04999999999999993,
+            "no_token_id": "21844880129793726181991388952938204162269164012853762646632439241973955936241",
+            "no_probability": 0.22,
+            "no_best_bid": 0.17,
+            "no_best_ask": 0.22,
+            "no_spread": 0.04999999999999999,
+            "volume": 5282.65961728,
+            "liquidity": 126362.44,
+            "neg_risk": false,
+            "end_date": "2026-05-22T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Agenda includes technological cooperation, indicating potential relief on AI export restrictions.",
+            "event_id": "453131",
+            "event_title": "Trump-Xi Summit: What will Trump announce by May 22?",
+            "event_slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "detected_yes_price": 0.62,
+            "detected_no_price": 0.43999999999999995,
+            "detected_at": 1778686883181,
+            "highest_price_change": 0.3548387096774193,
+            "highest_yes_price": 0.84,
+            "highest_no_price": 0.43999999999999995,
+            "first_moved_at": 1778745335814,
+            "moved_side": "yes",
+            "peaked_at": 1778749572376
+          },
+          {
+            "id": "2169754",
+            "slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "condition_id": "0x48c7603bb331cb47e78951840fcc3b1ade6ae5dcf65dd86d75fe0a28476b9383",
+            "title": "New Sanctions",
+            "question": "Will Trump announce new sanctions on China?",
+            "description": "This market will resolve to \"Yes\" if Donald Trump or the Trump administration officially announces any new sanctions of any form against China between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nSanctions could include measures like new or increased tariffs, trade restrictions, financial penalties, diplomatic expulsions, travel bans, restrictions on specific individuals, or any other actions that are commonly recognized as sanctions.\n\nSanctions against Chinese citizens or entities which do not directly target the Chinese state or members of the Chinese government will not qualify.\n\nOnly definitive announcements will qualify. Suggestions, negotiations, expressions of openness, or other non-definitive statements will not qualify.\n\nAny qualifying announcement within this market\u2019s time frame will count, regardless of when or whether or when the announced sanctions go into effect.\n\nThe primary resolution source will be official information from Donald Trump and the Trump administration; however, a consensus of credible reporting may also be used.\n",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-trump-announce-by-may-22-dnHPwUKytUMR.jpg",
+            "yes_token_id": "61522526389624979367217469970880931098020438007692405466058187866328654994236",
+            "yes_probability": 0.039,
+            "yes_best_bid": 0.022,
+            "yes_best_ask": 0.039,
+            "yes_spread": 0.017,
+            "no_token_id": "46271690935673621482998570783523983954694025492513625692598181097529937418559",
+            "no_probability": 0.978,
+            "no_best_bid": 0.961,
+            "no_best_ask": 0.978,
+            "no_spread": 0.017000000000000015,
+            "volume": 2289.0726270000005,
+            "liquidity": 164768.18000000002,
+            "neg_risk": false,
+            "end_date": "2026-05-22T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Trump's agenda includes addressing international issues, which could involve sanctions.",
+            "event_id": "453131",
+            "event_title": "Trump-Xi Summit: What will Trump announce by May 22?",
+            "event_slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "detected_yes_price": 0.04,
+            "detected_no_price": 0.969,
+            "detected_at": 1778686883181,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.04,
+            "highest_no_price": 0.969
+          },
+          {
+            "id": "2235927",
+            "slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "condition_id": "0xea6d303ab39205e7c1d2c92461bc5053e7cf3494fead51d64097455ff0f3894d",
+            "title": "U.S.-China AI Safety Channel",
+            "question": "Will Trump announce a U.S.-China AI Safety Channel?",
+            "description": "This market will resolve to \u201cYes\u201d if Donald Trump or the Trump administration announces a U.S.-China AI safety channel between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA \"U.S.-China AI safety channel\" refers to the establishment of a communication channel, dialogue, or alternative formal communication mechanism between China and the United States concerning AI safety, AI risk, AI governance, or equivalent issues. \n\nOnly definitive announcements will qualify. Suggestions, negotiations, expressions of openness, or other non-definitive statements will not qualify.\n\nAny qualifying announcement within this market\u2019s time frame will count, regardless of whether or when the announced action goes into effect.\n\nThe primary resolution source will be official information from Donald Trump and the Trump administration; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-trump-announce-by-may-22-dnHPwUKytUMR.jpg",
+            "yes_token_id": "82104962384552512174715900494122822513333627917309285164419592403460283443927",
+            "yes_probability": 0.37,
+            "yes_best_bid": 0.33,
+            "yes_best_ask": 0.37,
+            "yes_spread": 0.03999999999999998,
+            "no_token_id": "90881428973080778682448777620910943704481184817123868312031565376707947767007",
+            "no_probability": 0.67,
+            "no_best_bid": 0.63,
+            "no_best_ask": 0.67,
+            "no_spread": 0.040000000000000036,
+            "volume": 645.1154570000001,
+            "liquidity": 40884.16,
+            "neg_risk": false,
+            "end_date": "2026-05-22T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "The agenda includes AI cooperation, indicating a potential announcement for an AI safety channel.",
+            "event_id": "453131",
+            "event_title": "Trump-Xi Summit: What will Trump announce by May 22?",
+            "event_slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "detected_yes_price": 0.68,
+            "detected_no_price": 0.38,
+            "detected_at": 1778686883181,
+            "highest_price_change": 0.7631578947368421,
+            "highest_yes_price": 0.69,
+            "highest_no_price": 0.67,
+            "first_moved_at": 1778687297828,
+            "moved_side": "no",
+            "peaked_at": 1778745310392
+          },
+          {
+            "id": "2169752",
+            "slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "condition_id": "0x99067da61a6adbd81a774a2171a692c2bc0b1d79339010892dd0122700d07c27",
+            "title": "Taiwan Arms Sales Halt",
+            "question": "Will Trump announce a Taiwan arms sales halt?",
+            "description": "This market will resolve to \u201cYes\u201d if Donald Trump or the Trump administration announces a halt, suspension, cancellation, or prohibition on any arms sales or military equipment transfers to Taiwan between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA qualifying announcement must specifically refer to the transfer of arms, weapons, munitions, military equipment, or substantially equivalent military goods from the United States to Taiwan. A qualifying announcement may apply to all such transfers to Taiwan or only to specified categories of arms, weapons or military equipment.\n\nOnly definitive announcements will qualify. Suggestions, negotiations, expressions of openness, or other non-definitive statements will not qualify.\n\nHalts, suspensions, cancellations, or prohibitions on arms sales or military equipment transfers announced as part of a mutual agreement or deal between the United States and China will qualify.\n\nAny qualifying announcement within this market\u2019s time frame will count, regardless of whether or when the announced action goes into effect.\n\nThe primary resolution source will be official information from Donald Trump and the Trump administration; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-trump-announce-by-may-22-dnHPwUKytUMR.jpg",
+            "yes_token_id": "12696183769670650585238277582760699135831921057660227739726388031486155955465",
+            "yes_probability": 0.05,
+            "yes_best_bid": 0.04,
+            "yes_best_ask": 0.05,
+            "yes_spread": 0.010000000000000002,
+            "no_token_id": "106403221719251808473953297553711993260828958956103654111905943616184896888632",
+            "no_probability": 0.96,
+            "no_best_bid": 0.95,
+            "no_best_ask": 0.96,
+            "no_spread": 0.010000000000000009,
+            "volume": 2236.3717220000003,
+            "liquidity": 110726.81,
+            "neg_risk": false,
+            "end_date": "2026-05-22T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Discussion of Taiwan during Trump's visit suggests potential arms sales announcements.",
+            "event_id": "453131",
+            "event_title": "Trump-Xi Summit: What will Trump announce by May 22?",
+            "event_slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "detected_yes_price": 0.1,
+            "detected_no_price": 0.92,
+            "detected_at": 1778686883181,
+            "highest_price_change": 0.04347826086956513,
+            "highest_yes_price": 0.1,
+            "highest_no_price": 0.96,
+            "first_moved_at": 1778745332881,
+            "moved_side": "no",
+            "peaked_at": 1778745332881
+          }
+        ],
+        "topics": [
+          "ukraine-war",
+          "iran-regime",
+          "ai-tech"
+        ],
+        "categories": [
+          "elections",
+          "politics",
+          "geopolitics",
+          "tech",
+          "world"
+        ]
+      },
+      "related_market": {
+        "id": "2235927",
+        "slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+        "condition_id": "0xea6d303ab39205e7c1d2c92461bc5053e7cf3494fead51d64097455ff0f3894d",
+        "title": "U.S.-China AI Safety Channel",
+        "question": "Will Trump announce a U.S.-China AI Safety Channel?",
+        "description": "This market will resolve to \u201cYes\u201d if Donald Trump or the Trump administration announces a U.S.-China AI safety channel between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA \"U.S.-China AI safety channel\" refers to the establishment of a communication channel, dialogue, or alternative formal communication mechanism between China and the United States concerning AI safety, AI risk, AI governance, or equivalent issues. \n\nOnly definitive announcements will qualify. Suggestions, negotiations, expressions of openness, or other non-definitive statements will not qualify.\n\nAny qualifying announcement within this market\u2019s time frame will count, regardless of whether or when the announced action goes into effect.\n\nThe primary resolution source will be official information from Donald Trump and the Trump administration; however, a consensus of credible reporting may also be used.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-trump-announce-by-may-22-dnHPwUKytUMR.jpg",
+        "yes_token_id": "82104962384552512174715900494122822513333627917309285164419592403460283443927",
+        "yes_probability": 0.37,
+        "yes_best_bid": 0.33,
+        "yes_best_ask": 0.37,
+        "yes_spread": 0.03999999999999998,
+        "no_token_id": "90881428973080778682448777620910943704481184817123868312031565376707947767007",
+        "no_probability": 0.67,
+        "no_best_bid": 0.63,
+        "no_best_ask": 0.67,
+        "no_spread": 0.040000000000000036,
+        "volume": 645.1154570000001,
+        "liquidity": 40884.16,
+        "neg_risk": false,
+        "end_date": "2026-05-22T00:00:00Z",
+        "categories": [
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "The agenda includes AI cooperation, indicating a potential announcement for an AI safety channel.",
+        "event_id": "453131",
+        "event_title": "Trump-Xi Summit: What will Trump announce by May 22?",
+        "event_slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+        "detected_yes_price": 0.68,
+        "detected_no_price": 0.38,
+        "detected_at": 1778686883181,
+        "highest_price_change": 0.7631578947368421,
+        "highest_yes_price": 0.69,
+        "highest_no_price": 0.67,
+        "first_moved_at": 1778687297828,
+        "moved_side": "no",
+        "peaked_at": 1778745310392
+      },
+      "_scraped_at": "2026-05-14T09:13:06.430949+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 4,
+      "feed_item": {
+        "id": "3b80c8aa-cf2d-45f9-9926-6cd6b88dec06",
+        "timestamp": 1778691837112,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "3b80c8aa-cf2d-45f9-9926-6cd6b88dec06",
+          "text": "Russia outproduces NATO by 3-5 x in shells, 5-10x+ in missiles, & 5-10x in armor (new+refurbs)\n\nMissile and shell stocks are growing, even as combat in Ukraine continues. \n\nHere, another batch of new armour rolls out to the troops.\n\n@Slavyangrad",
+          "channel": "Slavyangrad",
+          "timestamp": 1778691837112,
+          "link": "https://t.me/Slavyangrad"
+        },
+        "osint": false,
+        "country": "UA",
+        "countries": [
+          "UA",
+          "RU",
+          "GB"
+        ],
+        "related_markets": [
+          {
+            "id": "2047638",
+            "slug": "will-russia-capture-all-of-prymorske-by",
+            "condition_id": "0xadcbaba35d6a440db92ba0a30151fa000e4e13f3b0bbf78139e41db8497a7b55",
+            "title": "May 31",
+            "question": "Will Russia capture all of Prymorske by May 31, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the entirety of Prymorske, Zaporizhzhia Oblast, by May 31, 2026, 11:59 PM ET.\n\nPrymorske will be considered captured if the entirety of the municipality is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by May 31, 2026, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nThe territory of the municipality is shaded in light grey and is distinguished from bordering municipalities such as \"Stepnohirsk\" with a darker grey line. If all area within the municipality is shaded in red, however, the shading does not precisely match up with the border such that there is a tiny amount of grey along the border of the city, this will still qualify for a \"Yes\" resolution.\n\nOnce Russia captures the entirety of Prymorske, any subsequent loss of control will not be considered towards the resolution of this market.\n\nLocation on Google maps: https://maps.app.goo.gl/K7mS2YU7bZoVVHga9\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map which will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of if it is shaded red in the ISW map. An announcement of a negotiated settlement which gives Russia de jure control will not qualify. Actual control must be established.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-prymorske-by-april-30-2026-DpHD61x_Ap_N.jpg",
+            "yes_token_id": "113276754743780039208042367048512744062926279744974881084391204538119185716560",
+            "yes_probability": 0.029,
+            "yes_best_bid": 0.015,
+            "yes_best_ask": 0.029,
+            "yes_spread": 0.014000000000000002,
+            "no_token_id": "48884075222463387925977710668640098919220273930041874881314782603470013508637",
+            "no_probability": 0.985,
+            "no_best_bid": 0.971,
+            "no_best_ask": 0.985,
+            "no_spread": 0.014000000000000012,
+            "volume": 53432.07464799999,
+            "liquidity": 114147.87000000001,
+            "neg_risk": false,
+            "end_date": "2026-05-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Increased armor and missile stocks enhance Russia's offensive capabilities (1 hop).",
+            "event_id": "131623",
+            "event_title": "Will Russia capture all of Prymorske by...?",
+            "event_slug": "will-russia-capture-all-of-prymorske-by",
+            "detected_yes_price": 0.03,
+            "detected_no_price": 0.985,
+            "detected_at": 1778691881557,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.03,
+            "highest_no_price": 0.985
+          },
+          {
+            "id": "2125379",
+            "slug": "will-russia-capture-all-of-prymorske-by",
+            "condition_id": "0x27f3e18c14d722d384fdc20f7ed0f7038b19d56d191b36da72762ebbf17f3081",
+            "title": "September 30",
+            "question": "Will Russia capture all of Prymorske by September 30, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the entirety of Prymorske, Zaporizhzhia Oblast, by September 30, 2026, 11:59 PM ET.\n\nPrymorske will be considered captured if the entirety of the municipality is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by September 30, 2026, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nThe territory of the municipality is shaded in light grey and is distinguished from bordering municipalities such as \"Stepnohirsk\" with a darker grey line. If all area within the municipality is shaded in red, however, the shading does not precisely match up with the border such that there is a tiny amount of grey along the border of the city, this will still qualify for a \"Yes\" resolution.\n\nOnce Russia captures the entirety of Prymorske, any subsequent loss of control will not be considered towards the resolution of this market.\n\nLocation on Google maps: https://maps.app.goo.gl/K7mS2YU7bZoVVHga9\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map which will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of if it is shaded red in the ISW map. An announcement of a negotiated settlement which gives Russia de jure control will not qualify. Actual control must be established.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-prymorske-by-april-30-2026-DpHD61x_Ap_N.jpg",
+            "yes_token_id": "62144742210971208278696936141611556807905696657920695628150040740104692189206",
+            "yes_probability": 0.12,
+            "yes_best_bid": 0.09,
+            "yes_best_ask": 0.12,
+            "yes_spread": 0.03,
+            "no_token_id": "98944918857405606137810340449921239097996041419914154134190979719169266881957",
+            "no_probability": 0.91,
+            "no_best_bid": 0.88,
+            "no_best_ask": 0.91,
+            "no_spread": 0.030000000000000027,
+            "volume": 663.791248,
+            "liquidity": 20005.969999999998,
+            "neg_risk": false,
+            "end_date": "2026-09-30T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Growing military stocks indicate readiness for offensive operations (1 hop).",
+            "event_id": "131623",
+            "event_title": "Will Russia capture all of Prymorske by...?",
+            "event_slug": "will-russia-capture-all-of-prymorske-by",
+            "detected_yes_price": 0.12,
+            "detected_no_price": 0.91,
+            "detected_at": 1778691881557,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.12,
+            "highest_no_price": 0.91
+          },
+          {
+            "id": "2246417",
+            "slug": "will-russia-capture-all-of-donetsk-oblast-by",
+            "condition_id": "0xec4366aa6a191c8dc392e2b3bc874d5ce9a22637a60f33e72e869ce39c89ef4e",
+            "title": "December 31",
+            "question": "Will Russia capture all of Donetsk Oblast by December 31, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia militarily captures the entirety of Donetsk Oblast by the specified date, 11:59 PM ET.\n\nDonetsk Oblast will be considered captured when the entirety of the below-specified municipalities is simultaneously shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If those areas are not simultaneously shaded red by the resolution date, this market will resolve to \u201cNo\u201d.\n\nThe relevant municipalities in Donetsk Oblast that must be simultaneously captured in their entirety are: Kramatorsk, Sloviansk, Kostiantynivka, Druzhkivka, Pokrovsk, Dobropillia, Oleksandrivka, Cherkaske, and Sviatohirsk.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nThe territory of a municipality is shaded in light grey and is distinguished from bordering municipalities with a darker grey line. If all area within a municipality is shaded in red, however, the shading does not precisely match up with the border such that there is a tiny amount of grey along the border of the city, this may still qualify.\n\nOnce Russia has captured the entirety of the above-specified municipalities simultaneously, any subsequent loss of control will not be considered towards the resolution of this market.\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap is rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will not qualify, regardless of whether it is shaded red in the ISW map. Similarly, an announcement of a negotiated settlement that gives Russia de jure control will not qualify. Control must be established through military conquest.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-donetsk-oblast-by-june-30-2026-atOWkXn1rrer.jpg",
+            "yes_token_id": "10286739223877237963651252562288085155553554709402511784236867878518615784105",
+            "yes_probability": 0.1,
+            "yes_best_bid": 0.09,
+            "yes_best_ask": 0.1,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "12437301957681593661655850243500948043259775360852942759416335317104883454330",
+            "no_probability": 0.91,
+            "no_best_bid": 0.9,
+            "no_best_ask": 0.91,
+            "no_spread": 0.010000000000000009,
+            "volume": 117.79936599999999,
+            "liquidity": 18992.63,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Growing stocks of military equipment enhance offensive capabilities (1 hop).",
+            "event_id": "139550",
+            "event_title": "Will Russia capture all of Donetsk Oblast by...?",
+            "event_slug": "will-russia-capture-all-of-donetsk-oblast-by",
+            "detected_yes_price": 0.37,
+            "detected_no_price": 0.75,
+            "detected_at": 1778691881557,
+            "highest_price_change": 0.4054054054054055,
+            "highest_yes_price": 0.52,
+            "highest_no_price": 0.91,
+            "first_moved_at": 1778691885078,
+            "moved_side": "yes",
+            "peaked_at": 1778691885078
+          },
+          {
+            "id": "2107989",
+            "slug": "will-russia-capture-all-of-vovchansk-by",
+            "condition_id": "0x25e961b73889e80bb2e8e7e9611aa573cf5f7cae0d7db8a488256cf758f0f1ca",
+            "title": "December 31",
+            "question": "Will Russia capture all of Vovchansk by December 31?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the entirety of Vovchansk by December 31, 2026, 11:59 PM ET.\n\nVovchansk will be considered captured if the entirety of the municipality is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by December 31, 2026, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nThe territory of the municipality is shaded in light grey and is distinguished from bordering municipalities such as \"Vovchanski Khutory\" with a darker grey line.  If all area within the municipality is shaded in red, however the shading does not precisely match up with the border such that there is a tiny amount of grey along the border of the city, this will still qualify for a \"Yes\" resolution.\n\nOnce Russia captures Vovchansk, any subsequent loss of control will not be considered towards the resolution of this market.\n\nVovchansk Location: https://polymarket-upload.s3.us-east-2.amazonaws.com/Vovchansk.png \nLocation on Google Maps: https://maps.app.goo.gl/pEumzu6kdCPQ2sYt7\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap is rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of if it is shaded red in the ISW map. An announcement of a negotiated settlement that gives Russia de jure control will not qualify. Actual control must be established.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-vovchansk-by-april-30-zZYgOG-rxBt6.jpg",
+            "yes_token_id": "86710982358530854138101879929329828770268257114267139427607604466907126052552",
+            "yes_probability": 0.35,
+            "yes_best_bid": 0.34,
+            "yes_best_ask": 0.35,
+            "yes_spread": 0.009999999999999953,
+            "no_token_id": "113695697886500303472855280909164020785493554255284377719894094377665350821356",
+            "no_probability": 0.66,
+            "no_best_bid": 0.65,
+            "no_best_ask": 0.66,
+            "no_spread": 0.010000000000000009,
+            "volume": 1313.0513239999998,
+            "liquidity": 53715.45,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "New armor and missile stocks bolster offensive capabilities (1 hop).",
+            "event_id": "73058",
+            "event_title": "Will Russia capture all of Vovchansk by...?",
+            "event_slug": "will-russia-capture-all-of-vovchansk-by",
+            "detected_yes_price": 0.35,
+            "detected_no_price": 0.6599999999999999,
+            "detected_at": 1778691881557,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.35,
+            "highest_no_price": 0.6599999999999999
+          },
+          {
+            "id": "2053898",
+            "slug": "will-russia-capture-all-of-stepnohirsk-by",
+            "condition_id": "0xc5a2aa043b85c4c665dbb2360d844bc7b154d632e15f0f5beb1ec255a9149807",
+            "title": "May 31",
+            "question": "Will Russia capture all of Stepnohirsk by May 31, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the entirety of Stepnohirsk, Zaporizhzhia Oblast, by May 31, 2026, 11:59 PM ET.\n\nStepnohirsk will be considered captured if the entirety of the municipality is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by May 31, 2026, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nThe territory of the municipality is shaded in light grey and is distinguished from bordering municipalities such as \"Prymorske\" with a darker grey line. If all area within the municipality is shaded in red, however, the shading does not precisely match up with the border such that there is a tiny amount of grey along the border of the city, this will still qualify for a \"Yes\" resolution.\n\nOnce Russia captures the entirety of Stepnohirsk, any subsequent loss of control will not be considered towards the resolution of this market.\n\nLocation on Google maps: https://maps.app.goo.gl/CwF1b64Qo49PvUZw5\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map which will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of if it is shaded red in the ISW map. An announcement of a negotiated settlement which gives Russia de jure control will not qualify. Actual control must be established.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-stepnohirsk-by-april-30-2026-6aZsbyN9lT8G.jpg",
+            "yes_token_id": "24420546575397817534985302829628090518438182560818171252852379559130370022184",
+            "yes_probability": 0.046,
+            "yes_best_bid": 0.023,
+            "yes_best_ask": 0.046,
+            "yes_spread": 0.023,
+            "no_token_id": "108573715169007253383863754940523098997455894527605156214488821824218312790554",
+            "no_probability": 0.977,
+            "no_best_bid": 0.954,
+            "no_best_ask": 0.977,
+            "no_spread": 0.02300000000000002,
+            "volume": 1400.6321770170002,
+            "liquidity": 83114.25,
+            "neg_risk": false,
+            "end_date": "2026-05-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Increased armor and missile stocks enhance Russia's offensive capabilities (1 hop).",
+            "event_id": "131611",
+            "event_title": "Will Russia capture all of Stepnohirsk by...?",
+            "event_slug": "will-russia-capture-all-of-stepnohirsk-by",
+            "detected_yes_price": 0.047,
+            "detected_no_price": 0.979,
+            "detected_at": 1778691881557,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.047,
+            "highest_no_price": 0.979
+          }
+        ],
+        "topics": [
+          "ai-tech",
+          "ukraine-war"
+        ],
+        "categories": [
+          "tech",
+          "geopolitics",
+          "climate",
+          "finance"
+        ]
+      },
+      "related_market": {
+        "id": "2246417",
+        "slug": "will-russia-capture-all-of-donetsk-oblast-by",
+        "condition_id": "0xec4366aa6a191c8dc392e2b3bc874d5ce9a22637a60f33e72e869ce39c89ef4e",
+        "title": "December 31",
+        "question": "Will Russia capture all of Donetsk Oblast by December 31, 2026?",
+        "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia militarily captures the entirety of Donetsk Oblast by the specified date, 11:59 PM ET.\n\nDonetsk Oblast will be considered captured when the entirety of the below-specified municipalities is simultaneously shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If those areas are not simultaneously shaded red by the resolution date, this market will resolve to \u201cNo\u201d.\n\nThe relevant municipalities in Donetsk Oblast that must be simultaneously captured in their entirety are: Kramatorsk, Sloviansk, Kostiantynivka, Druzhkivka, Pokrovsk, Dobropillia, Oleksandrivka, Cherkaske, and Sviatohirsk.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nThe territory of a municipality is shaded in light grey and is distinguished from bordering municipalities with a darker grey line. If all area within a municipality is shaded in red, however, the shading does not precisely match up with the border such that there is a tiny amount of grey along the border of the city, this may still qualify.\n\nOnce Russia has captured the entirety of the above-specified municipalities simultaneously, any subsequent loss of control will not be considered towards the resolution of this market.\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap is rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will not qualify, regardless of whether it is shaded red in the ISW map. Similarly, an announcement of a negotiated settlement that gives Russia de jure control will not qualify. Control must be established through military conquest.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-donetsk-oblast-by-june-30-2026-atOWkXn1rrer.jpg",
+        "yes_token_id": "10286739223877237963651252562288085155553554709402511784236867878518615784105",
+        "yes_probability": 0.1,
+        "yes_best_bid": 0.09,
+        "yes_best_ask": 0.1,
+        "yes_spread": 0.010000000000000009,
+        "no_token_id": "12437301957681593661655850243500948043259775360852942759416335317104883454330",
+        "no_probability": 0.91,
+        "no_best_bid": 0.9,
+        "no_best_ask": 0.91,
+        "no_spread": 0.010000000000000009,
+        "volume": 117.79936599999999,
+        "liquidity": 18992.63,
+        "neg_risk": false,
+        "end_date": "2026-12-31T00:00:00Z",
+        "categories": [
+          "geopolitics",
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Growing stocks of military equipment enhance offensive capabilities (1 hop).",
+        "event_id": "139550",
+        "event_title": "Will Russia capture all of Donetsk Oblast by...?",
+        "event_slug": "will-russia-capture-all-of-donetsk-oblast-by",
+        "detected_yes_price": 0.37,
+        "detected_no_price": 0.75,
+        "detected_at": 1778691881557,
+        "highest_price_change": 0.4054054054054055,
+        "highest_yes_price": 0.52,
+        "highest_no_price": 0.91,
+        "first_moved_at": 1778691885078,
+        "moved_side": "yes",
+        "peaked_at": 1778691885078
+      },
+      "_scraped_at": "2026-05-14T09:13:06.430949+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 5,
+      "feed_item": {
+        "id": "19a8f29c-8f6e-4851-b7cf-89171780fe24",
+        "timestamp": 1778736300823,
+        "tweet": {
+          "feed_item_id": "19a8f29c-8f6e-4851-b7cf-89171780fe24",
+          "post_id": "2054795091944890678",
+          "post_type": "tweet",
+          "created_at": 1778736300823,
+          "user": {
+            "uid": "34713362",
+            "handle": "business",
+            "display_name": "Bloomberg",
+            "pfp": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "Angela Rayner, the UK\u2019s former deputy prime minister, has been cleared of deliberate wrongdoing in an investigation into her tax affairs, potentially paving the way for a leadership bid against Prime Minister Keir Starmer https://www.bloomberg.com/news/articles/2026-05-14/starmer-rival-angela-rayner-cleared-of-wrongdoing-in-tax-probe?taid=6a055cac32982f000154a12d&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+          "link": "https://twitter.com/business/status/2054795091944890678"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "GB",
+        "countries": [
+          "GB"
+        ],
+        "related_markets": [
+          {
+            "id": "2252170",
+            "slug": "candidates-in-next-labour-leadership-election",
+            "condition_id": "0x82f70f48cc8608aee1f9daf75f842cb9b5438b72cde0d120736cbd3c180255ce",
+            "title": "Angela Rayner",
+            "question": "Will Angela Rayner be a candidate in the next Labour Party leadership election?",
+            "description": "This market will resolve to \u201cYes\u201d if the listed individual is an official candidate in the next United Kingdom Labour Party leadership election by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\n\u201cOfficial candidate\u201d refers to the listed individual satisfying all applicable requirements and being officially confirmed by the Labour Party, or a consensus of credible reporting, as a candidate on the ballot for the next Labour Party leadership election. Seeking nominations, announcing an intention to run, or being reported as a potential candidate will not qualify unless the individual is officially confirmed as a candidate on the ballot.\n\nIf a Labour Party leadership election occurs, or the final candidates are confirmed, and the listed individual is not included as a candidate, this market will resolve to \u201cNo\u201d. If no such election is scheduled, or the listed individual is not officially confirmed as a candidate, by December 31, 2026, 11:59 PM ET, this market will resolve to \u201cNo\u201d.\n\nIf the listed individual becomes the next leader of the Labour Party without any competitive ballot election, that will suffice for a \u201cYes\u201d resolution.\n\nThe primary resolution source for this market will be official information from the United Kingdom Labour Party; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/candidates-in-next-labour-leadership-election-Z7PIZqj6ex0e.jpg",
+            "yes_token_id": "25972599652044540410473440940593804497579813412347392803340867843590259030339",
+            "yes_probability": 0.72,
+            "yes_best_bid": 0.13,
+            "yes_best_ask": 0.72,
+            "yes_spread": 0.59,
+            "no_token_id": "95006051306142158229929816503244015261920650360806228743112928396492396481068",
+            "no_probability": 0.87,
+            "no_best_bid": 0.28,
+            "no_best_ask": 0.87,
+            "no_spread": 0.59,
+            "volume": 0,
+            "liquidity": 8594.01,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Rayner's clearance directly supports her potential candidacy (1 hop).",
+            "event_id": "481681",
+            "event_title": "Candidates in next Labour leadership election?",
+            "event_slug": "candidates-in-next-labour-leadership-election",
+            "detected_yes_price": 0.72,
+            "detected_no_price": 0.72,
+            "detected_at": 1778736319942,
+            "highest_price_change": 0.263888888888889,
+            "highest_yes_price": 0.74,
+            "highest_no_price": 0.91,
+            "first_moved_at": 1778736335666,
+            "moved_side": "no",
+            "peaked_at": 1778745944423
+          }
+        ],
+        "topics": [
+          "elon-musk",
+          "ai-tech"
+        ],
+        "categories": [
+          "tech",
+          "elections"
+        ]
+      },
+      "related_market": {
+        "id": "2252170",
+        "slug": "candidates-in-next-labour-leadership-election",
+        "condition_id": "0x82f70f48cc8608aee1f9daf75f842cb9b5438b72cde0d120736cbd3c180255ce",
+        "title": "Angela Rayner",
+        "question": "Will Angela Rayner be a candidate in the next Labour Party leadership election?",
+        "description": "This market will resolve to \u201cYes\u201d if the listed individual is an official candidate in the next United Kingdom Labour Party leadership election by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\n\u201cOfficial candidate\u201d refers to the listed individual satisfying all applicable requirements and being officially confirmed by the Labour Party, or a consensus of credible reporting, as a candidate on the ballot for the next Labour Party leadership election. Seeking nominations, announcing an intention to run, or being reported as a potential candidate will not qualify unless the individual is officially confirmed as a candidate on the ballot.\n\nIf a Labour Party leadership election occurs, or the final candidates are confirmed, and the listed individual is not included as a candidate, this market will resolve to \u201cNo\u201d. If no such election is scheduled, or the listed individual is not officially confirmed as a candidate, by December 31, 2026, 11:59 PM ET, this market will resolve to \u201cNo\u201d.\n\nIf the listed individual becomes the next leader of the Labour Party without any competitive ballot election, that will suffice for a \u201cYes\u201d resolution.\n\nThe primary resolution source for this market will be official information from the United Kingdom Labour Party; however, a consensus of credible reporting may also be used.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/candidates-in-next-labour-leadership-election-Z7PIZqj6ex0e.jpg",
+        "yes_token_id": "25972599652044540410473440940593804497579813412347392803340867843590259030339",
+        "yes_probability": 0.72,
+        "yes_best_bid": 0.13,
+        "yes_best_ask": 0.72,
+        "yes_spread": 0.59,
+        "no_token_id": "95006051306142158229929816503244015261920650360806228743112928396492396481068",
+        "no_probability": 0.87,
+        "no_best_bid": 0.28,
+        "no_best_ask": 0.87,
+        "no_spread": 0.59,
+        "volume": 0,
+        "liquidity": 8594.01,
+        "neg_risk": false,
+        "end_date": "2026-12-31T00:00:00Z",
+        "categories": [
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 9,
+        "impact_level": "critical",
+        "impact_reason": "Rayner's clearance directly supports her potential candidacy (1 hop).",
+        "event_id": "481681",
+        "event_title": "Candidates in next Labour leadership election?",
+        "event_slug": "candidates-in-next-labour-leadership-election",
+        "detected_yes_price": 0.72,
+        "detected_no_price": 0.72,
+        "detected_at": 1778736319942,
+        "highest_price_change": 0.263888888888889,
+        "highest_yes_price": 0.74,
+        "highest_no_price": 0.91,
+        "first_moved_at": 1778736335666,
+        "moved_side": "no",
+        "peaked_at": 1778745944423
+      },
+      "_scraped_at": "2026-05-14T09:13:06.430949+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 6,
+      "feed_item": {
+        "id": "5e7af566-0e24-446e-9904-cc8c9f0449b1",
+        "timestamp": 1778688220279,
+        "tweet": {
+          "feed_item_id": "5e7af566-0e24-446e-9904-cc8c9f0449b1",
+          "post_id": "2054593427526799403",
+          "post_type": "tweet",
+          "created_at": 1778688220279,
+          "user": {
+            "uid": "34713362",
+            "handle": "business",
+            "display_name": "Bloomberg",
+            "pfp": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "Keir Starmer\u2019s hold on power is weakening as Health Secretary Wes Streeting readies a leadership challenge: Here\u2019s your Evening Briefing https://www.bloomberg.com/news/newsletters/2026-05-13/starmer-faces-uk-leadership-challenge-from-rival-wes-streeting?taid=6a04a0dc76997b0001c3e0d8&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+          "link": "https://twitter.com/business/status/2054593427526799403"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "GB",
+        "countries": [
+          "GB"
+        ],
+        "related_markets": [
+          {
+            "id": "2037852",
+            "slug": "no-confidence-vote-against-starmer-by-june-30",
+            "condition_id": "0x6172c63f9c1653f3fb21fb6f51b94821111730fa9a46212b3150a82f1eb234f7",
+            "title": "",
+            "question": "No-Confidence Vote against Starmer by June 30?",
+            "description": "This market will resolve to \u201cYes\u201d if a motion of no-confidence against the sitting government is voted upon in the House of Commons of the United Kingdom by June 30, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve based on whether a motion of no confidence is voted upon in the specified timeframe. Whether the motion is passed will not affect this market\u2019s resolution.\n\nThe primary resolution sources for this market will be official information from the government of the United Kingdom and a consensus of credible reporting.\n",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/no-confidence-vote-against-starmer-by-june-30-xkXQahK_Vo93.jpg",
+            "yes_token_id": "60221219577843897706034367190334327177981574671957722012482084593256566422686",
+            "yes_probability": 0.19,
+            "yes_best_bid": 0.16,
+            "yes_best_ask": 0.19,
+            "yes_spread": 0.03,
+            "no_token_id": "68982002145668570633626660261351275478789010560926796741488568797890283190972",
+            "no_probability": 0.84,
+            "no_best_bid": 0.81,
+            "no_best_ask": 0.84,
+            "no_spread": 0.029999999999999916,
+            "volume": 10878.821095000003,
+            "liquidity": 132835.25000000003,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Leadership challenge news directly relates to no-confidence vote (1 hop).",
+            "event_id": "400848",
+            "event_title": "No-Confidence Vote against Starmer by June 30?",
+            "event_slug": "no-confidence-vote-against-starmer-by-june-30",
+            "detected_yes_price": 0.24,
+            "detected_no_price": 0.77,
+            "detected_at": 1778688278117,
+            "highest_price_change": 0.10389610389610385,
+            "highest_yes_price": 0.24,
+            "highest_no_price": 0.85,
+            "first_moved_at": 1778745369031,
+            "moved_side": "no",
+            "peaked_at": 1778745416268
+          },
+          {
+            "id": "2002685",
+            "slug": "starmer-out-in-2025",
+            "condition_id": "0x575e86314d77231f25c16834b4f501221f215399a79fa6f5760b0a1eb7f1e5d3",
+            "title": "May 15",
+            "question": "Starmer out by May 15, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if Keir Starmer ceases to be the Prime Minister of the United Kingdom for any period of time between market creation and May 15, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nAn announcement of Keir Starmer's resignation/removal before this market's end date will immediately resolve this market to \"Yes\", regardless of when the announced resignation/removal goes into effect.\n\nThe resolution source for this market will be the government of the UK, however a consensus of credible reporting will also suffice.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/starmer-out-in-2025-teE3zEaEEyuO.jpg",
+            "yes_token_id": "7317570394658929543950187060522864400071290481021499158014297549243573640501",
+            "yes_probability": 0.037,
+            "yes_best_bid": 0.034,
+            "yes_best_ask": 0.037,
+            "yes_spread": 0.0029999999999999957,
+            "no_token_id": "47979415276102234612653681964571782104748282108436108552000129291113972469428",
+            "no_probability": 0.966,
+            "no_best_bid": 0.963,
+            "no_best_ask": 0.966,
+            "no_spread": 0.0030000000000000027,
+            "volume": 4737525.063835736,
+            "liquidity": 2200081.2800000003,
+            "neg_risk": false,
+            "end_date": "2026-06-30T12:00:00Z",
+            "categories": [
+              "politics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Direct link between leadership challenge and likelihood of Starmer's exit (1 hop).",
+            "event_id": "17725",
+            "event_title": "Starmer out by...?",
+            "event_slug": "starmer-out-in-2025",
+            "detected_yes_price": 0.047,
+            "detected_no_price": 0.954,
+            "detected_at": 1778688278117,
+            "highest_price_change": 0.04255319148936174,
+            "highest_yes_price": 0.049,
+            "highest_no_price": 0.968,
+            "first_moved_at": 1778688279145,
+            "moved_side": "yes",
+            "peaked_at": 1778688279145
+          },
+          {
+            "id": "597967",
+            "slug": "starmer-out-in-2025",
+            "condition_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+            "title": "June 30",
+            "question": "Starmer out by June 30, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if Keir Starmer ceases to be the Prime Minister of the United Kingdom for any period of time between September 14, 2025, and June 30, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nAn announcement of Keir Starmer's resignation/removal before this market's end date will immediately resolve this market to \"Yes\", regardless of when the announced resignation/removal goes into effect.\n\nThe resolution source for this market will be the government of the UK, however a consensus of credible reporting will also suffice.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/starmer-out-in-2025-teE3zEaEEyuO.jpg",
+            "yes_token_id": "34554555827438551101000555305203609600029621153428996114009350892614396532498",
+            "yes_probability": 0.38,
+            "yes_best_bid": 0.37,
+            "yes_best_ask": 0.38,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "64622848174080349355505680625481066249195809702245025265549356236367119746958",
+            "no_probability": 0.63,
+            "no_best_bid": 0.62,
+            "no_best_ask": 0.63,
+            "no_spread": 0.010000000000000009,
+            "volume": 3141369.3988995356,
+            "liquidity": 1194193.78,
+            "neg_risk": false,
+            "end_date": "2026-06-30T12:00:00Z",
+            "categories": [
+              "politics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Direct link between leadership challenge and likelihood of Starmer's exit (1 hop).",
+            "event_id": "17725",
+            "event_title": "Starmer out by...?",
+            "event_slug": "starmer-out-in-2025",
+            "detected_yes_price": 0.49,
+            "detected_no_price": 0.52,
+            "detected_at": 1778688278117,
+            "highest_price_change": 0.2115384615384615,
+            "highest_yes_price": 0.49,
+            "highest_no_price": 0.63,
+            "first_moved_at": 1778688279175,
+            "moved_side": "no",
+            "peaked_at": 1778745309019
+          },
+          {
+            "id": "666655",
+            "slug": "starmer-out-in-2025",
+            "condition_id": "0x2bde6486e7067f48ee21344d8b5c1af458732536eb4d080932c88c3a7c2d2126",
+            "title": "December 31",
+            "question": "Starmer out by December 31, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if Keir Starmer ceases to be the Prime Minister of the United Kingdom for any period of time between November 5, 2025, and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nAn announcement of Keir Starmer's resignation/removal before this market's end date will immediately resolve this market to \"Yes\", regardless of when the announced resignation/removal goes into effect.\n\nThe resolution source for this market will be the government of the UK, however a consensus of credible reporting will also suffice.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/starmer-out-in-2025-teE3zEaEEyuO.jpg",
+            "yes_token_id": "42498579290170525937803365597001189493798686141769429176410526295573824619073",
+            "yes_probability": 0.74,
+            "yes_best_bid": 0.73,
+            "yes_best_ask": 0.74,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "88902058027062214140177978007942040532071439710160833384602336149457247354303",
+            "no_probability": 0.27,
+            "no_best_bid": 0.26,
+            "no_best_ask": 0.27,
+            "no_spread": 0.010000000000000009,
+            "volume": 2131075.8732090597,
+            "liquidity": 499252.74000000005,
+            "neg_risk": false,
+            "end_date": "2026-12-31T12:00:00Z",
+            "categories": [
+              "politics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Leadership challenge news directly relates to Starmer's potential exit (1 hop).",
+            "event_id": "17725",
+            "event_title": "Starmer out by...?",
+            "event_slug": "starmer-out-in-2025",
+            "detected_yes_price": 0.81,
+            "detected_no_price": 0.19999999999999996,
+            "detected_at": 1778688278117,
+            "highest_price_change": 0.45000000000000023,
+            "highest_yes_price": 0.81,
+            "highest_no_price": 0.29,
+            "first_moved_at": 1778688349065,
+            "moved_side": "no",
+            "peaked_at": 1778745309016
+          },
+          {
+            "id": "2231205",
+            "slug": "starmer-out-in-2025",
+            "condition_id": "0xe0b6f4d40f33f456caba50434db5ea8c5ca93e84eb912054a80ca0c58ad70dd7",
+            "title": "May 31",
+            "question": "Starmer out by May 31, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if Keir Starmer ceases to be the Prime Minister of the United Kingdom for any period of time between market creation and May 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nAn announcement of Keir Starmer's resignation/removal before this market's end date will immediately resolve this market to \"Yes\", regardless of when the announced resignation/removal goes into effect.\n\nThe resolution source for this market will be the government of the UK, however a consensus of credible reporting will also suffice. ",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/starmer-out-in-2025-teE3zEaEEyuO.jpg",
+            "yes_token_id": "59804740893116830082655722678282357324530422193334657680222344987920273408829",
+            "yes_probability": 0.24,
+            "yes_best_bid": 0.23,
+            "yes_best_ask": 0.24,
+            "yes_spread": 0.009999999999999981,
+            "no_token_id": "97166107287234497412734496054463228470063422608173149121206267858484467672978",
+            "no_probability": 0.77,
+            "no_best_bid": 0.76,
+            "no_best_ask": 0.77,
+            "no_spread": 0.010000000000000009,
+            "volume": 638238.6830670153,
+            "liquidity": 651306.18,
+            "neg_risk": false,
+            "end_date": "2026-06-30T12:00:00Z",
+            "categories": [
+              "politics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Leadership challenge news directly relates to Starmer's potential exit (1 hop).",
+            "event_id": "17725",
+            "event_title": "Starmer out by...?",
+            "event_slug": "starmer-out-in-2025",
+            "detected_yes_price": 0.26,
+            "detected_no_price": 0.75,
+            "detected_at": 1778688278117,
+            "highest_price_change": 0.02666666666666669,
+            "highest_yes_price": 0.26,
+            "highest_no_price": 0.77,
+            "first_moved_at": 1778688750503,
+            "moved_side": "no",
+            "peaked_at": 1778745308374
+          }
+        ],
+        "topics": [
+          "ai-tech",
+          "super-bowl",
+          "elon-musk",
+          "shutdown"
+        ],
+        "categories": [
+          "climate",
+          "elections",
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "597967",
+        "slug": "starmer-out-in-2025",
+        "condition_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+        "title": "June 30",
+        "question": "Starmer out by June 30, 2026?",
+        "description": "This market will resolve to \u201cYes\u201d if Keir Starmer ceases to be the Prime Minister of the United Kingdom for any period of time between September 14, 2025, and June 30, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nAn announcement of Keir Starmer's resignation/removal before this market's end date will immediately resolve this market to \"Yes\", regardless of when the announced resignation/removal goes into effect.\n\nThe resolution source for this market will be the government of the UK, however a consensus of credible reporting will also suffice.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/starmer-out-in-2025-teE3zEaEEyuO.jpg",
+        "yes_token_id": "34554555827438551101000555305203609600029621153428996114009350892614396532498",
+        "yes_probability": 0.38,
+        "yes_best_bid": 0.37,
+        "yes_best_ask": 0.38,
+        "yes_spread": 0.010000000000000009,
+        "no_token_id": "64622848174080349355505680625481066249195809702245025265549356236367119746958",
+        "no_probability": 0.63,
+        "no_best_bid": 0.62,
+        "no_best_ask": 0.63,
+        "no_spread": 0.010000000000000009,
+        "volume": 3141369.3988995356,
+        "liquidity": 1194193.78,
+        "neg_risk": false,
+        "end_date": "2026-06-30T12:00:00Z",
+        "categories": [
+          "politics",
+          "world"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Direct link between leadership challenge and likelihood of Starmer's exit (1 hop).",
+        "event_id": "17725",
+        "event_title": "Starmer out by...?",
+        "event_slug": "starmer-out-in-2025",
+        "detected_yes_price": 0.49,
+        "detected_no_price": 0.52,
+        "detected_at": 1778688278117,
+        "highest_price_change": 0.2115384615384615,
+        "highest_yes_price": 0.49,
+        "highest_no_price": 0.63,
+        "first_moved_at": 1778688279175,
+        "moved_side": "no",
+        "peaked_at": 1778745309019
+      },
+      "_scraped_at": "2026-05-14T09:13:06.430949+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "valid": false,
+      "_scraped_at": "2026-05-14T09:13:06.430949+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "global_tension_score": 69,
+      "global_tension_level": "HIGH",
+      "countries": [
+        {
+          "country": "GB",
+          "count": 24,
+          "recent": [
+            {
+              "id": "27ee5104-0b87-4d30-a455-8578a2de4be4",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1778740694324
+            },
+            {
+              "id": "1a70edb4-23d0-4e59-a031-611620e2298b",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1778743855334
+            },
+            {
+              "id": "3b57e523-31cc-46fb-89b9-6a261786708d",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778749084166
+            },
+            {
+              "id": "43215046-cb03-4b7b-bcd2-fb6b99aed991",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778748305836
+            },
+            {
+              "id": "53326cbf-d203-450e-828e-510fe57c07a6",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778735810619
+            },
+            {
+              "id": "bbb81b75-1c72-4748-8398-310cef8f548d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778742316902
+            },
+            {
+              "id": "19a8f29c-8f6e-4851-b7cf-89171780fe24",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1778736300823
+            },
+            {
+              "id": "a7258aeb-46ee-466a-bda5-64f8790af01e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778733946509
+            },
+            {
+              "id": "b3645424-226c-498d-8651-c4756f44bdef",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778746122125
+            },
+            {
+              "id": "323aac5c-8e79-401c-a0c4-58ad81bffead",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778735746541
+            },
+            {
+              "id": "6e37727b-f90b-4f78-ab1c-cd004f219cb9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778746380935
+            },
+            {
+              "id": "529dc967-f529-4dd9-a61f-9eac6173a72b",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1778736826566
+            },
+            {
+              "id": "42778697-5df6-41ec-914c-71df6ee9c317",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778743307737
+            },
+            {
+              "id": "e60e9194-42ba-419f-8aff-b73179a3eec7",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778742520085
+            },
+            {
+              "id": "4f3a551c-d9f5-4ba9-a0c4-fd30ac851bec",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1778735581493
+            },
+            {
+              "id": "d126b00d-7c41-46f0-b473-853c8102de16",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778741008227
+            },
+            {
+              "id": "62db40de-f0be-4580-948f-7f19d0f8c134",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778737906774
+            },
+            {
+              "id": "7fa8e200-3479-4bb6-a7e4-c7dba8c47cbd",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778743244000
+            },
+            {
+              "id": "55aa407f-564a-4dcf-835b-622a758e3d09",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778738206597
+            },
+            {
+              "id": "8c4d3f9d-7477-4c16-b190-48fb59223519",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778741386665
+            },
+            {
+              "id": "75e8d856-ee77-4163-bf42-10cfb12377d5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778748125755
+            },
+            {
+              "id": "3b05a13d-a52c-4a3a-919c-c0f58dc0878a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778746789358
+            },
+            {
+              "id": "6de3bef3-2111-46ab-91d3-8fab049d6af1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778731878144
+            },
+            {
+              "id": "328b296f-55af-405c-ade5-b91e99260919",
+              "kind": "news",
+              "impact": "critical",
+              "timestamp": 1778740246784
+            }
+          ],
+          "volume": 6707148.825499904,
+          "critical_signals": 4,
+          "high_signals": 18,
+          "low_signals": 2
+        },
+        {
+          "country": "UA",
+          "count": 23,
+          "recent": [
+            {
+              "id": "27ee5104-0b87-4d30-a455-8578a2de4be4",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1778740694324
+            },
+            {
+              "id": "43215046-cb03-4b7b-bcd2-fb6b99aed991",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778748305836
+            },
+            {
+              "id": "53326cbf-d203-450e-828e-510fe57c07a6",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778735810619
+            },
+            {
+              "id": "bbb81b75-1c72-4748-8398-310cef8f548d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778742316902
+            },
+            {
+              "id": "a7258aeb-46ee-466a-bda5-64f8790af01e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778733946509
+            },
+            {
+              "id": "b3645424-226c-498d-8651-c4756f44bdef",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778746122125
+            },
+            {
+              "id": "323aac5c-8e79-401c-a0c4-58ad81bffead",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778735746541
+            },
+            {
+              "id": "6e37727b-f90b-4f78-ab1c-cd004f219cb9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778746380935
+            },
+            {
+              "id": "b1b95f14-a05a-4bc9-99c4-852aaf4be62d",
+              "kind": "news",
+              "impact": "critical",
+              "timestamp": 1778747706745
+            },
+            {
+              "id": "529dc967-f529-4dd9-a61f-9eac6173a72b",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1778736826566
+            },
+            {
+              "id": "42778697-5df6-41ec-914c-71df6ee9c317",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778743307737
+            },
+            {
+              "id": "05a60aae-fb2f-481e-8e7b-759e7d7dd48f",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778731945692
+            },
+            {
+              "id": "e60e9194-42ba-419f-8aff-b73179a3eec7",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778742520085
+            },
+            {
+              "id": "4f3a551c-d9f5-4ba9-a0c4-fd30ac851bec",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1778735581493
+            },
+            {
+              "id": "cacc667b-8e60-4bcf-9341-9487253f0896",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778728817857
+            },
+            {
+              "id": "d126b00d-7c41-46f0-b473-853c8102de16",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778741008227
+            },
+            {
+              "id": "62db40de-f0be-4580-948f-7f19d0f8c134",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778737906774
+            },
+            {
+              "id": "55aa407f-564a-4dcf-835b-622a758e3d09",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778738206597
+            },
+            {
+              "id": "8c4d3f9d-7477-4c16-b190-48fb59223519",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778741386665
+            },
+            {
+              "id": "75e8d856-ee77-4163-bf42-10cfb12377d5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778748125755
+            },
+            {
+              "id": "3b05a13d-a52c-4a3a-919c-c0f58dc0878a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778746789358
+            },
+            {
+              "id": "6de3bef3-2111-46ab-91d3-8fab049d6af1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778731878144
+            },
+            {
+              "id": "328b296f-55af-405c-ade5-b91e99260919",
+              "kind": "news",
+              "impact": "critical",
+              "timestamp": 1778740246784
+            }
+          ],
+          "volume": 5261439.081070208,
+          "critical_signals": 4,
+          "high_signals": 18,
+          "low_signals": 1
+        },
+        {
+          "country": "RU",
+          "count": 18,
+          "recent": [
+            {
+              "id": "27ee5104-0b87-4d30-a455-8578a2de4be4",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1778740694324
+            },
+            {
+              "id": "53326cbf-d203-450e-828e-510fe57c07a6",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778735810619
+            },
+            {
+              "id": "bbb81b75-1c72-4748-8398-310cef8f548d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778742316902
+            },
+            {
+              "id": "a7258aeb-46ee-466a-bda5-64f8790af01e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778733946509
+            },
+            {
+              "id": "b3645424-226c-498d-8651-c4756f44bdef",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778746122125
+            },
+            {
+              "id": "6e37727b-f90b-4f78-ab1c-cd004f219cb9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778746380935
+            },
+            {
+              "id": "b1b95f14-a05a-4bc9-99c4-852aaf4be62d",
+              "kind": "news",
+              "impact": "critical",
+              "timestamp": 1778747706745
+            },
+            {
+              "id": "529dc967-f529-4dd9-a61f-9eac6173a72b",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1778736826566
+            },
+            {
+              "id": "05a60aae-fb2f-481e-8e7b-759e7d7dd48f",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778731945692
+            },
+            {
+              "id": "e60e9194-42ba-419f-8aff-b73179a3eec7",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778742520085
+            },
+            {
+              "id": "4f3a551c-d9f5-4ba9-a0c4-fd30ac851bec",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1778735581493
+            },
+            {
+              "id": "d126b00d-7c41-46f0-b473-853c8102de16",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778741008227
+            },
+            {
+              "id": "62db40de-f0be-4580-948f-7f19d0f8c134",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778737906774
+            },
+            {
+              "id": "8c4d3f9d-7477-4c16-b190-48fb59223519",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778741386665
+            },
+            {
+              "id": "a40c2274-faf8-40ff-a151-66f606bd0c7e",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778737807777
+            },
+            {
+              "id": "3b05a13d-a52c-4a3a-919c-c0f58dc0878a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778746789358
+            },
+            {
+              "id": "6de3bef3-2111-46ab-91d3-8fab049d6af1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778731878144
+            },
+            {
+              "id": "328b296f-55af-405c-ade5-b91e99260919",
+              "kind": "news",
+              "impact": "critical",
+              "timestamp": 1778740246784
+            }
+          ],
+          "volume": 5195476.152261209,
+          "critical_signals": 4,
+          "high_signals": 13,
+          "low_signals": 1
+        },
+        {
+          "country": "US",
+          "count": 6,
+          "recent": [
+            {
+              "id": "c70ca109-3503-4342-8f84-c74b33b586ed",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778741683796
+            },
+            {
+              "id": "70b4def1-1318-42e4-bfb1-157142a7b23d",
+              "kind": "news",
+              "impact": "critical",
+              "timestamp": 1778747706745
+            },
+            {
+              "id": "02c93436-41dc-4c0f-8f63-6fe5cb307c6e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778740456646
+            },
+            {
+              "id": "529dc967-f529-4dd9-a61f-9eac6173a72b",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1778736826566
+            },
+            {
+              "id": "43f3fe1a-19cf-4a4d-8ffc-44aa478d90d2",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778745506037
+            },
+            {
+              "id": "6de3bef3-2111-46ab-91d3-8fab049d6af1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778731878144
+            }
+          ],
+          "volume": 11630360.164101807,
+          "critical_signals": 1,
+          "high_signals": 4,
+          "low_signals": 1
+        },
+        {
+          "country": "CN",
+          "count": 5,
+          "recent": [
+            {
+              "id": "70b4def1-1318-42e4-bfb1-157142a7b23d",
+              "kind": "news",
+              "impact": "critical",
+              "timestamp": 1778747706745
+            },
+            {
+              "id": "02c93436-41dc-4c0f-8f63-6fe5cb307c6e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778740456646
+            },
+            {
+              "id": "529dc967-f529-4dd9-a61f-9eac6173a72b",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1778736826566
+            },
+            {
+              "id": "43f3fe1a-19cf-4a4d-8ffc-44aa478d90d2",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778745506037
+            },
+            {
+              "id": "6de3bef3-2111-46ab-91d3-8fab049d6af1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778731878144
+            }
+          ],
+          "volume": 4151258.7615380418,
+          "critical_signals": 1,
+          "high_signals": 3,
+          "low_signals": 1
+        },
+        {
+          "country": "IR",
+          "count": 5,
+          "recent": [
+            {
+              "id": "3b57e523-31cc-46fb-89b9-6a261786708d",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778749084166
+            },
+            {
+              "id": "4a0e9a14-04ae-4c9e-8bb0-1da365db0258",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1778746625557
+            },
+            {
+              "id": "02c93436-41dc-4c0f-8f63-6fe5cb307c6e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778740456646
+            },
+            {
+              "id": "7fa8e200-3479-4bb6-a7e4-c7dba8c47cbd",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778743244000
+            },
+            {
+              "id": "aee95ac1-fc18-4857-9ce7-dac154d46cd4",
+              "kind": "news",
+              "impact": "low",
+              "timestamp": 1778748547226
+            }
+          ],
+          "volume": 1980779.5209489008,
+          "critical_signals": 0,
+          "high_signals": 3,
+          "low_signals": 2
+        },
+        {
+          "country": "LB",
+          "count": 3,
+          "recent": [
+            {
+              "id": "dadb8925-4041-459d-a1ee-7738c144bfbf",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778749505622
+            },
+            {
+              "id": "0c4e24cb-6d62-4339-8c4a-690014184903",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778739631760
+            },
+            {
+              "id": "26102587-c468-4f65-8361-0a406be34a50",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778740426644
+            }
+          ],
+          "volume": 1250831.1196722046,
+          "critical_signals": 0,
+          "high_signals": 3,
+          "low_signals": 0
+        },
+        {
+          "country": "IL",
+          "count": 3,
+          "recent": [
+            {
+              "id": "dadb8925-4041-459d-a1ee-7738c144bfbf",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778749505622
+            },
+            {
+              "id": "0c4e24cb-6d62-4339-8c4a-690014184903",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778739631760
+            },
+            {
+              "id": "26102587-c468-4f65-8361-0a406be34a50",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778740426644
+            }
+          ],
+          "volume": 1250831.1196722046,
+          "critical_signals": 0,
+          "high_signals": 3,
+          "low_signals": 0
+        },
+        {
+          "country": "OM",
+          "count": 3,
+          "recent": [
+            {
+              "id": "a7258aeb-46ee-466a-bda5-64f8790af01e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778733946509
+            },
+            {
+              "id": "4a0e9a14-04ae-4c9e-8bb0-1da365db0258",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1778746625557
+            },
+            {
+              "id": "529dc967-f529-4dd9-a61f-9eac6173a72b",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1778736826566
+            }
+          ],
+          "volume": 4232693.941105075,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 2
+        },
+        {
+          "country": "LV",
+          "count": 2,
+          "recent": [
+            {
+              "id": "43215046-cb03-4b7b-bcd2-fb6b99aed991",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778748305836
+            },
+            {
+              "id": "75e8d856-ee77-4163-bf42-10cfb12377d5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778748125755
+            }
+          ],
+          "volume": 70417.46383400001,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "TW",
+          "count": 2,
+          "recent": [
+            {
+              "id": "02c93436-41dc-4c0f-8f63-6fe5cb307c6e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778740456646
+            },
+            {
+              "id": "529dc967-f529-4dd9-a61f-9eac6173a72b",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1778736826566
+            }
+          ],
+          "volume": 3963309.573906832,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 1
+        },
+        {
+          "country": "AE",
+          "count": 2,
+          "recent": [
+            {
+              "id": "3b57e523-31cc-46fb-89b9-6a261786708d",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778749084166
+            },
+            {
+              "id": "7fa8e200-3479-4bb6-a7e4-c7dba8c47cbd",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778743244000
+            }
+          ],
+          "volume": 1427465.600314696,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "IN",
+          "count": 1,
+          "recent": [
+            {
+              "id": "aee95ac1-fc18-4857-9ce7-dac154d46cd4",
+              "kind": "news",
+              "impact": "low",
+              "timestamp": 1778748547226
+            }
+          ],
+          "volume": 35371.926790000005,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "RO",
+          "count": 1,
+          "recent": [
+            {
+              "id": "529dc967-f529-4dd9-a61f-9eac6173a72b",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1778736826566
+            }
+          ],
+          "volume": 3767427.085295343,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "HU",
+          "count": 1,
+          "recent": [
+            {
+              "id": "529dc967-f529-4dd9-a61f-9eac6173a72b",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1778736826566
+            }
+          ],
+          "volume": 3767427.085295343,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "SY",
+          "count": 1,
+          "recent": [
+            {
+              "id": "529dc967-f529-4dd9-a61f-9eac6173a72b",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1778736826566
+            }
+          ],
+          "volume": 3767427.085295343,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        }
+      ],
+      "_scraped_at": "2026-05-14T09:13:06.430949+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
