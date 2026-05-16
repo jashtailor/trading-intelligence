@@ -1,0 +1,2106 @@
+{
+  "scraped_at": "2026-05-16T15:33:17.594193+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 8,
+  "items": [
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "e42d3946-680a-445f-887e-4d3e0b1e299e",
+        "timestamp": 1778934131204,
+        "tweet": {
+          "feed_item_id": "e42d3946-680a-445f-887e-4d3e0b1e299e",
+          "post_id": "2055624852703178901",
+          "post_type": "tweet",
+          "created_at": 1778934131204,
+          "user": {
+            "uid": "18856867",
+            "handle": "zerohedge",
+            "display_name": "zerohedge",
+            "pfp": "https://pbs.twimg.com/profile_images/72647502/tyler.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "*CHINA, US AGREE TO REDUCE LEVIES ON A CERTAIN RANGE OF PRODUCTS",
+          "link": "https://twitter.com/zerohedge/status/2055624852703178901"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "CN",
+        "countries": [
+          "CN"
+        ],
+        "related_markets": [
+          {
+            "id": "2169751",
+            "slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "condition_id": "0x0cfac875e3fa84e292a97256b74432c236904d1a3e46fe8b489978122bdc663b",
+            "title": "Tariff Reduction",
+            "question": "Will Trump announce a tariff reduction on China?",
+            "description": "This market will resolve to \u201cYes\u201d if Donald Trump or the Trump administration announces a reduction, removal, or suspension of any existing tariffs on China between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nOnly tariff reductions specifically announced in relation to China, goods from China, or a specific set of countries including China will qualify. For example, an announced reduction in global tariffs will not count toward this market\u2019s resolution.\n\nOnly definitive announcements qualify. Suggestions, negotiations, expressions of openness, or other non-definitive statements will not qualify.\n\nTariff reductions, removals, or suspensions announced as part of a mutual agreement or deal between the United States and China will qualify.\n\nAny qualifying action announced within this market\u2019s time frame will count, regardless of whether or when the tariff reduction, removal, or suspension goes into effect.\n\nThis market\u2019s primary resolution source will be official information from the Trump administration; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-trump-announce-by-may-22-dnHPwUKytUMR.jpg",
+            "yes_token_id": "67500088822425193611028555717491802967214637594198331061571697869465035016178",
+            "yes_probability": 0.54,
+            "yes_best_bid": 0.45,
+            "yes_best_ask": 0.54,
+            "yes_spread": 0.09000000000000002,
+            "no_token_id": "39934818650392653302435843762090475578361428023990701131439493646151563643962",
+            "no_probability": 0.55,
+            "no_best_bid": 0.46,
+            "no_best_ask": 0.55,
+            "no_spread": 0.09000000000000002,
+            "volume": 35570.391093319966,
+            "liquidity": 77504.91,
+            "neg_risk": false,
+            "end_date": "2026-05-22T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Official agreement to reduce levies = direct signal for tariff reduction.",
+            "event_id": "453131",
+            "event_title": "Trump-Xi Summit: What will Trump announce by May 22?",
+            "event_slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "detected_yes_price": 0.21,
+            "detected_no_price": 0.85,
+            "detected_at": 1778934151302,
+            "highest_price_change": 1.6190476190476195,
+            "highest_yes_price": 0.55,
+            "highest_no_price": 0.85,
+            "first_moved_at": 1778934169791,
+            "moved_side": "yes",
+            "peaked_at": 1778944027818
+          }
+        ],
+        "topics": [
+          "ai-tech"
+        ],
+        "categories": [
+          "tech",
+          "climate"
+        ]
+      },
+      "related_market": {
+        "id": "2169751",
+        "slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+        "condition_id": "0x0cfac875e3fa84e292a97256b74432c236904d1a3e46fe8b489978122bdc663b",
+        "title": "Tariff Reduction",
+        "question": "Will Trump announce a tariff reduction on China?",
+        "description": "This market will resolve to \u201cYes\u201d if Donald Trump or the Trump administration announces a reduction, removal, or suspension of any existing tariffs on China between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nOnly tariff reductions specifically announced in relation to China, goods from China, or a specific set of countries including China will qualify. For example, an announced reduction in global tariffs will not count toward this market\u2019s resolution.\n\nOnly definitive announcements qualify. Suggestions, negotiations, expressions of openness, or other non-definitive statements will not qualify.\n\nTariff reductions, removals, or suspensions announced as part of a mutual agreement or deal between the United States and China will qualify.\n\nAny qualifying action announced within this market\u2019s time frame will count, regardless of whether or when the tariff reduction, removal, or suspension goes into effect.\n\nThis market\u2019s primary resolution source will be official information from the Trump administration; however, a consensus of credible reporting may also be used.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-trump-announce-by-may-22-dnHPwUKytUMR.jpg",
+        "yes_token_id": "67500088822425193611028555717491802967214637594198331061571697869465035016178",
+        "yes_probability": 0.54,
+        "yes_best_bid": 0.45,
+        "yes_best_ask": 0.54,
+        "yes_spread": 0.09000000000000002,
+        "no_token_id": "39934818650392653302435843762090475578361428023990701131439493646151563643962",
+        "no_probability": 0.55,
+        "no_best_bid": 0.46,
+        "no_best_ask": 0.55,
+        "no_spread": 0.09000000000000002,
+        "volume": 35570.391093319966,
+        "liquidity": 77504.91,
+        "neg_risk": false,
+        "end_date": "2026-05-22T00:00:00Z",
+        "categories": [
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 9,
+        "impact_level": "critical",
+        "impact_reason": "Official agreement to reduce levies = direct signal for tariff reduction.",
+        "event_id": "453131",
+        "event_title": "Trump-Xi Summit: What will Trump announce by May 22?",
+        "event_slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+        "detected_yes_price": 0.21,
+        "detected_no_price": 0.85,
+        "detected_at": 1778934151302,
+        "highest_price_change": 1.6190476190476195,
+        "highest_yes_price": 0.55,
+        "highest_no_price": 0.85,
+        "first_moved_at": 1778934169791,
+        "moved_side": "yes",
+        "peaked_at": 1778944027818
+      },
+      "_scraped_at": "2026-05-16T15:33:17.594193+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 2,
+      "feed_item": {
+        "id": "cf82b739-0560-4755-86be-560e0b2bdc88",
+        "timestamp": 1778878217000,
+        "tweet": {
+          "feed_item_id": "cf82b739-0560-4755-86be-560e0b2bdc88",
+          "post_id": "2055390332234440738",
+          "post_type": "tweet",
+          "created_at": 1778878217000,
+          "user": {
+            "uid": "3295423333",
+            "handle": "FirstSquawk",
+            "display_name": "First Squawk",
+            "pfp": "https://pbs.twimg.com/profile_images/1039778545738964992/6fl6RNN0_normal.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "UK'S STARMER PLANS TO APPROVE \u00a318 BILLION RISE IN DEFENSE SPENDING AMID POLITICAL STRUGGLE.",
+          "link": "https://twitter.com/FirstSquawk/status/2055390332234440738"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "GB",
+        "countries": [
+          "GB"
+        ],
+        "related_markets": [
+          {
+            "id": "2231205",
+            "slug": "starmer-out-in-2025",
+            "condition_id": "0xe0b6f4d40f33f456caba50434db5ea8c5ca93e84eb912054a80ca0c58ad70dd7",
+            "title": "May 31",
+            "question": "Starmer out by May 31, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if Keir Starmer ceases to be the Prime Minister of the United Kingdom for any period of time between market creation and May 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nAn announcement of Keir Starmer's resignation/removal before this market's end date will immediately resolve this market to \"Yes\", regardless of when the announced resignation/removal goes into effect.\n\nThe resolution source for this market will be the government of the UK, however a consensus of credible reporting will also suffice. ",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/starmer-out-in-2025-teE3zEaEEyuO.jpg",
+            "yes_token_id": "59804740893116830082655722678282357324530422193334657680222344987920273408829",
+            "yes_probability": 0.045,
+            "yes_best_bid": 0.04,
+            "yes_best_ask": 0.045,
+            "yes_spread": 0.0049999999999999975,
+            "no_token_id": "97166107287234497412734496054463228470063422608173149121206267858484467672978",
+            "no_probability": 0.96,
+            "no_best_bid": 0.955,
+            "no_best_ask": 0.96,
+            "no_spread": 0.0050000000000000044,
+            "volume": 1025393.2982459947,
+            "liquidity": 568467.0900000001,
+            "neg_risk": false,
+            "end_date": "2026-06-30T12:00:00Z",
+            "categories": [
+              "politics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Increased defense spending amid political struggle could impact Starmer's leadership.",
+            "event_id": "17725",
+            "event_title": "Starmer out by...?",
+            "event_slug": "starmer-out-in-2025",
+            "detected_yes_price": 0.1,
+            "detected_no_price": 0.91,
+            "detected_at": 1778878292261,
+            "highest_price_change": 0.05824175824175817,
+            "highest_yes_price": 0.1,
+            "highest_no_price": 0.963,
+            "first_moved_at": 1778943518317,
+            "moved_side": "no",
+            "peaked_at": 1778943518317
+          },
+          {
+            "id": "2251595",
+            "slug": "starmer-out-in-2025",
+            "condition_id": "0x69487ec66303113e2c9125f83de781ba9311656f5f79d811e1153aed5c427fab",
+            "title": "May 19",
+            "question": "Starmer out by May 19, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if Keir Starmer ceases to be the Prime Minister of the United Kingdom for any period of time between market creation and May 19, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nAn announcement of Keir Starmer's resignation/removal before this market's end date will immediately resolve this market to \"Yes\", regardless of when the announced resignation/removal goes into effect.\n\nThe resolution source for this market will be the government of the UK, however a consensus of credible reporting will also suffice.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/starmer-out-in-2025-teE3zEaEEyuO.jpg",
+            "yes_token_id": "86631791178102284835303627564230753701108406544829251476759909669813938704600",
+            "yes_probability": 0.017,
+            "yes_best_bid": 0.015,
+            "yes_best_ask": 0.017,
+            "yes_spread": 0.0020000000000000018,
+            "no_token_id": "29731719008725720105485359247048659691379546124434626072644821000536449968932",
+            "no_probability": 0.985,
+            "no_best_bid": 0.983,
+            "no_best_ask": 0.985,
+            "no_spread": 0.0020000000000000018,
+            "volume": 342080.81110997166,
+            "liquidity": 5720747.02,
+            "neg_risk": false,
+            "end_date": "2026-05-19T12:00:00Z",
+            "categories": [
+              "politics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Increased defense spending amid political struggle could impact Starmer's leadership.",
+            "event_id": "17725",
+            "event_title": "Starmer out by...?",
+            "event_slug": "starmer-out-in-2025",
+            "detected_yes_price": 0.024,
+            "detected_no_price": 0.979,
+            "detected_at": 1778878292261,
+            "highest_price_change": 0.08333333333333326,
+            "highest_yes_price": 0.026,
+            "highest_no_price": 0.979,
+            "first_moved_at": 1778878295488,
+            "moved_side": "yes",
+            "peaked_at": 1778878295488
+          },
+          {
+            "id": "2252167",
+            "slug": "candidates-in-next-labour-leadership-election",
+            "condition_id": "0xa9aebaf0db62416ddd70acd8eef6bf17902bc1d31746d9286a1b3c3e4fc612bb",
+            "title": "Keir Starmer",
+            "question": "Will Keir Starmer be a candidate in the next Labour Party leadership election?",
+            "description": "This market will resolve to \u201cYes\u201d if the listed individual is an official candidate in the next United Kingdom Labour Party leadership election by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\n\u201cOfficial candidate\u201d refers to the listed individual satisfying all applicable requirements and being officially confirmed by the Labour Party, or a consensus of credible reporting, as a candidate on the ballot for the next Labour Party leadership election. Seeking nominations, announcing an intention to run, or being reported as a potential candidate will not qualify unless the individual is officially confirmed as a candidate on the ballot.\n\nIf a Labour Party leadership election occurs, or the final candidates are confirmed, and the listed individual is not included as a candidate, this market will resolve to \u201cNo\u201d. If no such election is scheduled, or the listed individual is not officially confirmed as a candidate, by December 31, 2026, 11:59 PM ET, this market will resolve to \u201cNo\u201d.\n\nIf the listed individual becomes the next leader of the Labour Party without any competitive ballot election, that will suffice for a \u201cYes\u201d resolution.\n\nThe primary resolution source for this market will be official information from the United Kingdom Labour Party; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/candidates-in-next-labour-leadership-election-Z7PIZqj6ex0e.jpg",
+            "yes_token_id": "52344545510331142508599305858377875730087565469563318662174842777863688993751",
+            "yes_probability": 0.39,
+            "yes_best_bid": 0.37,
+            "yes_best_ask": 0.39,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "73156653856350642593489288420272506809499429442351120090316353142588872492630",
+            "no_probability": 0.63,
+            "no_best_bid": 0.61,
+            "no_best_ask": 0.63,
+            "no_spread": 0.020000000000000018,
+            "volume": 5407.1660489999995,
+            "liquidity": 73720.74,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Increased defense spending amid political struggle could affect Starmer's candidacy.",
+            "event_id": "481681",
+            "event_title": "Candidates in next Labour leadership election?",
+            "event_slug": "candidates-in-next-labour-leadership-election",
+            "detected_yes_price": 0.76,
+            "detected_no_price": 0.25,
+            "detected_at": 1778878292261,
+            "highest_price_change": 1.52,
+            "highest_yes_price": 0.76,
+            "highest_no_price": 0.63,
+            "first_moved_at": 1778879123768,
+            "moved_side": "no",
+            "peaked_at": 1778943543025
+          },
+          {
+            "id": "597967",
+            "slug": "starmer-out-in-2025",
+            "condition_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+            "title": "June 30",
+            "question": "Starmer out by June 30, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if Keir Starmer ceases to be the Prime Minister of the United Kingdom for any period of time between September 14, 2025, and June 30, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nAn announcement of Keir Starmer's resignation/removal before this market's end date will immediately resolve this market to \"Yes\", regardless of when the announced resignation/removal goes into effect.\n\nThe resolution source for this market will be the government of the UK, however a consensus of credible reporting will also suffice.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/starmer-out-in-2025-teE3zEaEEyuO.jpg",
+            "yes_token_id": "34554555827438551101000555305203609600029621153428996114009350892614396532498",
+            "yes_probability": 0.27,
+            "yes_best_bid": 0.26,
+            "yes_best_ask": 0.27,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "64622848174080349355505680625481066249195809702245025265549356236367119746958",
+            "no_probability": 0.74,
+            "no_best_bid": 0.73,
+            "no_best_ask": 0.74,
+            "no_spread": 0.010000000000000009,
+            "volume": 3619895.685527593,
+            "liquidity": 1321233.69,
+            "neg_risk": false,
+            "end_date": "2026-06-30T12:00:00Z",
+            "categories": [
+              "politics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Increased defense spending amid political struggle could impact Starmer's leadership.",
+            "event_id": "17725",
+            "event_title": "Starmer out by...?",
+            "event_slug": "starmer-out-in-2025",
+            "detected_yes_price": 0.26,
+            "detected_no_price": 0.75,
+            "detected_at": 1778878292261,
+            "highest_price_change": 0.03846153846153849,
+            "highest_yes_price": 0.27,
+            "highest_no_price": 0.75,
+            "first_moved_at": 1778878952352,
+            "moved_side": "yes",
+            "peaked_at": 1778878952352
+          },
+          {
+            "id": "2037852",
+            "slug": "no-confidence-vote-against-starmer-by-june-30",
+            "condition_id": "0x6172c63f9c1653f3fb21fb6f51b94821111730fa9a46212b3150a82f1eb234f7",
+            "title": "",
+            "question": "No-Confidence Vote against Starmer by June 30?",
+            "description": "This market will resolve to \u201cYes\u201d if a motion of no-confidence against the sitting government is voted upon in the House of Commons of the United Kingdom by June 30, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve based on whether a motion of no confidence is voted upon in the specified timeframe. Whether the motion is passed will not affect this market\u2019s resolution.\n\nThe primary resolution sources for this market will be official information from the government of the United Kingdom and a consensus of credible reporting.\n",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/no-confidence-vote-against-starmer-by-june-30-xkXQahK_Vo93.jpg",
+            "yes_token_id": "60221219577843897706034367190334327177981574671957722012482084593256566422686",
+            "yes_probability": 0.12,
+            "yes_best_bid": 0.11,
+            "yes_best_ask": 0.12,
+            "yes_spread": 0.009999999999999995,
+            "no_token_id": "68982002145668570633626660261351275478789010560926796741488568797890283190972",
+            "no_probability": 0.89,
+            "no_best_bid": 0.88,
+            "no_best_ask": 0.89,
+            "no_spread": 0.010000000000000009,
+            "volume": 18020.427593,
+            "liquidity": 118340.31000000001,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Increased defense spending amid political struggle could trigger a no-confidence vote.",
+            "event_id": "400848",
+            "event_title": "No-Confidence Vote against Starmer by June 30?",
+            "event_slug": "no-confidence-vote-against-starmer-by-june-30",
+            "detected_yes_price": 0.13,
+            "detected_no_price": 0.89,
+            "detected_at": 1778878292261,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.13,
+            "highest_no_price": 0.89
+          }
+        ],
+        "topics": null,
+        "categories": [
+          "politics"
+        ]
+      },
+      "related_market": {
+        "id": "2252167",
+        "slug": "candidates-in-next-labour-leadership-election",
+        "condition_id": "0xa9aebaf0db62416ddd70acd8eef6bf17902bc1d31746d9286a1b3c3e4fc612bb",
+        "title": "Keir Starmer",
+        "question": "Will Keir Starmer be a candidate in the next Labour Party leadership election?",
+        "description": "This market will resolve to \u201cYes\u201d if the listed individual is an official candidate in the next United Kingdom Labour Party leadership election by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\n\u201cOfficial candidate\u201d refers to the listed individual satisfying all applicable requirements and being officially confirmed by the Labour Party, or a consensus of credible reporting, as a candidate on the ballot for the next Labour Party leadership election. Seeking nominations, announcing an intention to run, or being reported as a potential candidate will not qualify unless the individual is officially confirmed as a candidate on the ballot.\n\nIf a Labour Party leadership election occurs, or the final candidates are confirmed, and the listed individual is not included as a candidate, this market will resolve to \u201cNo\u201d. If no such election is scheduled, or the listed individual is not officially confirmed as a candidate, by December 31, 2026, 11:59 PM ET, this market will resolve to \u201cNo\u201d.\n\nIf the listed individual becomes the next leader of the Labour Party without any competitive ballot election, that will suffice for a \u201cYes\u201d resolution.\n\nThe primary resolution source for this market will be official information from the United Kingdom Labour Party; however, a consensus of credible reporting may also be used.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/candidates-in-next-labour-leadership-election-Z7PIZqj6ex0e.jpg",
+        "yes_token_id": "52344545510331142508599305858377875730087565469563318662174842777863688993751",
+        "yes_probability": 0.39,
+        "yes_best_bid": 0.37,
+        "yes_best_ask": 0.39,
+        "yes_spread": 0.020000000000000018,
+        "no_token_id": "73156653856350642593489288420272506809499429442351120090316353142588872492630",
+        "no_probability": 0.63,
+        "no_best_bid": 0.61,
+        "no_best_ask": 0.63,
+        "no_spread": 0.020000000000000018,
+        "volume": 5407.1660489999995,
+        "liquidity": 73720.74,
+        "neg_risk": false,
+        "end_date": "2026-12-31T00:00:00Z",
+        "categories": [
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Increased defense spending amid political struggle could affect Starmer's candidacy.",
+        "event_id": "481681",
+        "event_title": "Candidates in next Labour leadership election?",
+        "event_slug": "candidates-in-next-labour-leadership-election",
+        "detected_yes_price": 0.76,
+        "detected_no_price": 0.25,
+        "detected_at": 1778878292261,
+        "highest_price_change": 1.52,
+        "highest_yes_price": 0.76,
+        "highest_no_price": 0.63,
+        "first_moved_at": 1778879123768,
+        "moved_side": "no",
+        "peaked_at": 1778943543025
+      },
+      "_scraped_at": "2026-05-16T15:33:17.594193+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 3,
+      "feed_item": {
+        "id": "2f802c3c-de48-4d21-a57c-83cf9a4df12f",
+        "timestamp": 1778872594292,
+        "tweet": {
+          "feed_item_id": "2f802c3c-de48-4d21-a57c-83cf9a4df12f",
+          "post_id": "2055366748187058490",
+          "post_type": "tweet",
+          "created_at": 1778872594292,
+          "user": {
+            "uid": "3108351",
+            "handle": "WSJ",
+            "display_name": "The Wall Street Journal",
+            "pfp": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "A former Sinaloa state security chief accused in the U.S. of taking bribes from drug-cartel kingpins was arrested in Arizona this week in a case that has rocked diplomatic relations between the U.S. and Mexico https://on.wsj.com/3RbzAi5",
+          "link": "https://twitter.com/WSJ/status/2055366748187058490",
+          "attachments": [
+            {
+              "kind": "photo",
+              "src": "https://pbs.twimg.com/card_img/2055366749445373953/58Xn_A3-?format=jpg&name=orig"
+            }
+          ]
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "MX",
+        "countries": [
+          "MX",
+          "US"
+        ],
+        "related_markets": [
+          {
+            "id": "1419324",
+            "slug": "which-cartel-leaders-will-be-arrested-in-2026",
+            "condition_id": "0xd2d3739630b201fd89af0cff05f679987d30064895e4793a22fb0861ccfdde64",
+            "title": "Ricardo Ruiz Velasco",
+            "question": "Will Ricardo Ruiz Velasco be arrested in 2026?",
+            "description": "This market will resolve to \"Yes\" if the listed Cartel Leader is arrested or detained by law enforcement by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nTemporary holding at a detention facility while awaiting a judge\u2019s decision on whether to grant a detention warrant qualifies, so long as they are held by law enforcement in an official capacity during that time.\n\nA qualifying arrest/detention includes:\n* Being taken into physical custody by law enforcement authorities (including federal, state, local, military, or international law enforcement)\n* Voluntarily surrendering to law enforcement authorities in response to an arrest warrant\n* Being formally booked or processed following detention\n* Being handcuffed by a state authority and taken to a police station\n* Surrendering at a police station or courthouse with their attorney\n* Being placed under house arrest or electronic monitoring\n\nThe following scenarios will NOT qualify as an arrest/detention\n* An arrest warrant being issued but not executed\n* Being questioned or interviewed without arrest\n* Being named in an indictment without arrest\n\nThe primary resolution source for this market will be official information from the arresting government and law enforcement; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/which-cartel-leaders-will-be-arrested-in-2026-JGalrbgqssug.jpg",
+            "yes_token_id": "66308564831690081656975437521823601885814005556957413511084968749762852082378",
+            "yes_probability": 0.97,
+            "yes_best_bid": 0.28,
+            "yes_best_ask": 0.97,
+            "yes_spread": 0.69,
+            "no_token_id": "19432376007169611867808273094388802357620676967768690289763422836439429014243",
+            "no_probability": 0.72,
+            "no_best_bid": 0.03,
+            "no_best_ask": 0.72,
+            "no_spread": 0.69,
+            "volume": 824.826346,
+            "liquidity": 1863.6499999999999,
+            "neg_risk": false,
+            "end_date": "2026-02-28T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Arrest of a former official could impact the arrest of other cartel leaders.",
+            "event_id": "225858",
+            "event_title": "Which cartel leaders will be arrested in 2026?",
+            "event_slug": "which-cartel-leaders-will-be-arrested-in-2026",
+            "detected_yes_price": 0.94,
+            "detected_no_price": 0.72,
+            "detected_at": 1778872626785,
+            "highest_price_change": 0.03191489361702131,
+            "highest_yes_price": 0.97,
+            "highest_no_price": 0.72,
+            "first_moved_at": 1778872902221,
+            "moved_side": "yes",
+            "peaked_at": 1778943541958
+          },
+          {
+            "id": "1419828",
+            "slug": "which-cartel-leaders-will-be-arrested-in-2026",
+            "condition_id": "0x705bfbfc8573b19f0cbaa8dd1e2c84e3f48a7db1d8e2af6adfd5485aa75dd541",
+            "title": "Juan Pablo Ledezma",
+            "question": "Will Juan Pablo Ledezma be arrested in 2026?",
+            "description": "This market will resolve to \"Yes\" if the listed Cartel Leader is arrested or detained by law enforcement by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nTemporary holding at a detention facility while awaiting a judge\u2019s decision on whether to grant a detention warrant qualifies, so long as they are held by law enforcement in an official capacity during that time.\n\nA qualifying arrest/detention includes:\n* Being taken into physical custody by law enforcement authorities (including federal, state, local, military, or international law enforcement)\n* Voluntarily surrendering to law enforcement authorities in response to an arrest warrant\n* Being formally booked or processed following detention\n* Being handcuffed by a state authority and taken to a police station\n* Surrendering at a police station or courthouse with their attorney\n* Being placed under house arrest or electronic monitoring\n\nThe following scenarios will NOT qualify as an arrest/detention\n* An arrest warrant being issued but not executed\n* Being questioned or interviewed without arrest\n* Being named in an indictment without arrest\n\nThe primary resolution source for this market will be official information from the arresting government and law enforcement; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/which-cartel-leaders-will-be-arrested-in-2026-JGalrbgqssug.jpg",
+            "yes_token_id": "43951735986118526975457614587964414463873642645712113075900137689707875362142",
+            "yes_probability": 0.91,
+            "yes_best_bid": 0.06,
+            "yes_best_ask": 0.91,
+            "yes_spread": 0.8500000000000001,
+            "no_token_id": "109372666921489821746727303152446084800085940195604844527968405512499548188107",
+            "no_probability": 0.94,
+            "no_best_bid": 0.09,
+            "no_best_ask": 0.94,
+            "no_spread": 0.85,
+            "volume": 657.5427279999997,
+            "liquidity": 1383.8999999999999,
+            "neg_risk": false,
+            "end_date": "2026-02-28T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "The arrest of a high-profile figure may influence the arrest of other cartel leaders.",
+            "event_id": "225858",
+            "event_title": "Which cartel leaders will be arrested in 2026?",
+            "event_slug": "which-cartel-leaders-will-be-arrested-in-2026",
+            "detected_yes_price": 0.94,
+            "detected_no_price": 0.97,
+            "detected_at": 1778872626785,
+            "highest_price_change": 0.010638297872340436,
+            "highest_yes_price": 0.95,
+            "highest_no_price": 0.98,
+            "first_moved_at": 1778872646579,
+            "moved_side": "yes",
+            "peaked_at": 1778872646579
+          },
+          {
+            "id": "2127392",
+            "slug": "sinaloa-gov-ruben-rocha-extradited-to-us-by",
+            "condition_id": "0xc7570cb6cfd6d61bb5fc02823ea795b508738424d7edd6c9f693b89f5e1fcc17",
+            "title": "May 15",
+            "question": "Sinaloa Gov. Ruben Rocha extradited to US by May 15?",
+            "description": "This market will resolve to \u201cYes\u201d if Rub\u00e9n Rocha Moya is extradited to the United States between market creation and May 15, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\n\u201cExtradited to the United States\u201d means Rocha Moya is physically transferred to U.S. government custody pursuant to an extradition process or equivalent custody transfer process. If Rocha Moya otherwise enters U.S. territory and is subsequently arrested or taken into U.S. government custody by the market\u2019s end date, this will also qualify.\n\nAn announcement that extradition has been requested, approved, ordered, or agreed to will not qualify unless Rocha Moya is physically transferred to, arrested by, or otherwise taken into U.S. government custody by the market\u2019s end date.\n\nThe resolution source for this market will be official information from Rub\u00e9n Rocha Moya, the governments of Mexico and Sinaloa, the United States government, and relevant courts; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/sinaloa-gov-ruben-rocha-extradited-to-us-by-june-30-fE_r6w0flj-p.jpg",
+            "yes_token_id": "68305585501832489115867115633615992981102661514358960156555326966604358189879",
+            "yes_probability": 0.001,
+            "yes_best_bid": 0,
+            "yes_best_ask": 0.001,
+            "yes_spread": 0.001,
+            "no_token_id": "13185045983765100147055181713140397840821599012296099546071455658488009413529",
+            "no_probability": 1,
+            "no_best_bid": 0.999,
+            "no_best_ask": 1,
+            "no_spread": 0.0010000000000000009,
+            "volume": 180938.9117019999,
+            "liquidity": 0,
+            "neg_risk": false,
+            "end_date": "2026-05-15T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "The arrest of a former security chief could impact the timeline for Rocha's extradition.",
+            "event_id": "435306",
+            "event_title": "Sinaloa Gov. Ruben Rocha extradited to US by...?",
+            "event_slug": "sinaloa-gov-ruben-rocha-extradited-to-us-by",
+            "detected_yes_price": 0.007,
+            "detected_no_price": 0.998,
+            "detected_at": 1778872626785,
+            "highest_price_change": 0.14285714285714285,
+            "highest_yes_price": 0.008,
+            "highest_no_price": 0.998,
+            "first_moved_at": 1778872760331,
+            "moved_side": "yes",
+            "peaked_at": 1778872760331
+          },
+          {
+            "id": "1419327",
+            "slug": "which-cartel-leaders-will-be-arrested-in-2026",
+            "condition_id": "0x4caf8733e896ec56a9ff3348b03c630f90df2f0ef0188d5d217ed3312840be12",
+            "title": "Juan Carlos Valencia Gonzalez",
+            "question": "Will Juan Carlos Valencia Gonzalez be arrested in 2026?",
+            "description": "This market will resolve to \"Yes\" if the listed Cartel Leader is arrested or detained by law enforcement by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nTemporary holding at a detention facility while awaiting a judge\u2019s decision on whether to grant a detention warrant qualifies, so long as they are held by law enforcement in an official capacity during that time.\n\nA qualifying arrest/detention includes:\n* Being taken into physical custody by law enforcement authorities (including federal, state, local, military, or international law enforcement)\n* Voluntarily surrendering to law enforcement authorities in response to an arrest warrant\n* Being formally booked or processed following detention\n* Being handcuffed by a state authority and taken to a police station\n* Surrendering at a police station or courthouse with their attorney\n* Being placed under house arrest or electronic monitoring\n\nThe following scenarios will NOT qualify as an arrest/detention\n* An arrest warrant being issued but not executed\n* Being questioned or interviewed without arrest\n* Being named in an indictment without arrest\n\nThe primary resolution source for this market will be official information from the arresting government and law enforcement; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/which-cartel-leaders-will-be-arrested-in-2026-JGalrbgqssug.jpg",
+            "yes_token_id": "102719214146038933665976968636951944465985590261624271142856652266400409204062",
+            "yes_probability": 0.74,
+            "yes_best_bid": 0.02,
+            "yes_best_ask": 0.74,
+            "yes_spread": 0.72,
+            "no_token_id": "66189236388086333563210834749623371863737276352211093648959542179505374695297",
+            "no_probability": 0.98,
+            "no_best_bid": 0.26,
+            "no_best_ask": 0.98,
+            "no_spread": 0.72,
+            "volume": 58617.68872699999,
+            "liquidity": 1756.48,
+            "neg_risk": false,
+            "end_date": "2026-02-28T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "The arrest of a former security chief could lead to further arrests in the cartel hierarchy.",
+            "event_id": "225858",
+            "event_title": "Which cartel leaders will be arrested in 2026?",
+            "event_slug": "which-cartel-leaders-will-be-arrested-in-2026",
+            "detected_yes_price": 0.94,
+            "detected_no_price": 0.97,
+            "detected_at": 1778872626785,
+            "highest_price_change": 0.03191489361702131,
+            "highest_yes_price": 0.97,
+            "highest_no_price": 0.98,
+            "first_moved_at": 1778872653388,
+            "moved_side": "yes",
+            "peaked_at": 1778943578281
+          },
+          {
+            "id": "2127064",
+            "slug": "sinaloa-gov-ruben-rocha-extradited-to-us-by",
+            "condition_id": "0x603b54737c0573fa3b0f9a808856f6147c0f122d0ddef59859287371312deb49",
+            "title": "June 30",
+            "question": "Sinaloa Gov. Ruben Rocha extradited to US by June 30?",
+            "description": "This market will resolve to \u201cYes\u201d if Rub\u00e9n Rocha Moya is extradited to the United States between market creation and June 30, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\n\u201cExtradited to the United States\u201d means Rocha Moya is physically transferred to U.S. government custody pursuant to an extradition process or equivalent custody transfer process. If Rocha Moya otherwise enters U.S. territory and is subsequently arrested or taken into U.S. government custody by the market\u2019s end date, this will also qualify.\n\nAn announcement that extradition has been requested, approved, ordered, or agreed to will not qualify unless Rocha Moya is physically transferred to, arrested by, or otherwise taken into U.S. government custody by the market\u2019s end date.\n\nThe resolution source for this market will be official information from Rub\u00e9n Rocha Moya, the governments of Mexico and Sinaloa, the United States government, and relevant courts; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/sinaloa-gov-ruben-rocha-extradited-to-us-by-june-30-fE_r6w0flj-p.jpg",
+            "yes_token_id": "908958131761564726040309525023368571233754704164809613526553513004978924088",
+            "yes_probability": 0.337,
+            "yes_best_bid": 0.29,
+            "yes_best_ask": 0.337,
+            "yes_spread": 0.04700000000000004,
+            "no_token_id": "35500008023139318176151191615677759835190732521622389983510106610219075341374",
+            "no_probability": 0.71,
+            "no_best_bid": 0.663,
+            "no_best_ask": 0.71,
+            "no_spread": 0.04699999999999993,
+            "volume": 41805.15369899999,
+            "liquidity": 355779.9599999999,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "The arrest may influence the extradition of other officials, including Ruben Rocha.",
+            "event_id": "435306",
+            "event_title": "Sinaloa Gov. Ruben Rocha extradited to US by...?",
+            "event_slug": "sinaloa-gov-ruben-rocha-extradited-to-us-by",
+            "detected_yes_price": 0.171,
+            "detected_no_price": 0.849,
+            "detected_at": 1778872626785,
+            "highest_price_change": 0.9883040935672515,
+            "highest_yes_price": 0.34,
+            "highest_no_price": 0.849,
+            "first_moved_at": 1778872640221,
+            "moved_side": "yes",
+            "peaked_at": 1778944596533
+          }
+        ],
+        "topics": [
+          "ai-tech"
+        ],
+        "categories": [
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "2127064",
+        "slug": "sinaloa-gov-ruben-rocha-extradited-to-us-by",
+        "condition_id": "0x603b54737c0573fa3b0f9a808856f6147c0f122d0ddef59859287371312deb49",
+        "title": "June 30",
+        "question": "Sinaloa Gov. Ruben Rocha extradited to US by June 30?",
+        "description": "This market will resolve to \u201cYes\u201d if Rub\u00e9n Rocha Moya is extradited to the United States between market creation and June 30, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\n\u201cExtradited to the United States\u201d means Rocha Moya is physically transferred to U.S. government custody pursuant to an extradition process or equivalent custody transfer process. If Rocha Moya otherwise enters U.S. territory and is subsequently arrested or taken into U.S. government custody by the market\u2019s end date, this will also qualify.\n\nAn announcement that extradition has been requested, approved, ordered, or agreed to will not qualify unless Rocha Moya is physically transferred to, arrested by, or otherwise taken into U.S. government custody by the market\u2019s end date.\n\nThe resolution source for this market will be official information from Rub\u00e9n Rocha Moya, the governments of Mexico and Sinaloa, the United States government, and relevant courts; however, a consensus of credible reporting may also be used.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/sinaloa-gov-ruben-rocha-extradited-to-us-by-june-30-fE_r6w0flj-p.jpg",
+        "yes_token_id": "908958131761564726040309525023368571233754704164809613526553513004978924088",
+        "yes_probability": 0.337,
+        "yes_best_bid": 0.29,
+        "yes_best_ask": 0.337,
+        "yes_spread": 0.04700000000000004,
+        "no_token_id": "35500008023139318176151191615677759835190732521622389983510106610219075341374",
+        "no_probability": 0.71,
+        "no_best_bid": 0.663,
+        "no_best_ask": 0.71,
+        "no_spread": 0.04699999999999993,
+        "volume": 41805.15369899999,
+        "liquidity": 355779.9599999999,
+        "neg_risk": false,
+        "end_date": "2026-06-30T00:00:00Z",
+        "categories": [
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 5,
+        "impact_level": "low",
+        "impact_reason": "The arrest may influence the extradition of other officials, including Ruben Rocha.",
+        "event_id": "435306",
+        "event_title": "Sinaloa Gov. Ruben Rocha extradited to US by...?",
+        "event_slug": "sinaloa-gov-ruben-rocha-extradited-to-us-by",
+        "detected_yes_price": 0.171,
+        "detected_no_price": 0.849,
+        "detected_at": 1778872626785,
+        "highest_price_change": 0.9883040935672515,
+        "highest_yes_price": 0.34,
+        "highest_no_price": 0.849,
+        "first_moved_at": 1778872640221,
+        "moved_side": "yes",
+        "peaked_at": 1778944596533
+      },
+      "_scraped_at": "2026-05-16T15:33:17.594193+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 4,
+      "feed_item": {
+        "id": "905badb6-6678-47a7-a550-5a9d2cdac148",
+        "timestamp": 1778865386453,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "905badb6-6678-47a7-a550-5a9d2cdac148",
+          "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf1/\ud83c\uddf5\ud83c\uddf8 BREAKING: The IDF carried out an assassination attempt on Izz Al-Din Al-Haddad, the commander of the Al-Qassam Brigades in Gaza\n\n@Middle_East_Spectator",
+          "channel": "Middle East Spectator \u2014 MES",
+          "timestamp": 1778865386453,
+          "link": "https://t.me/Middle_East_Spectator"
+        },
+        "osint": false,
+        "country": "PS",
+        "countries": [
+          "PS",
+          "LV",
+          "IL"
+        ],
+        "related_markets": [
+          {
+            "id": "1642010",
+            "slug": "will-israel-launch-a-major-ground-offensive-in-gaza-by-october-31",
+            "condition_id": "0x1c39f29a392495da86a9d1882bdb7ad82bd617990a6da16674e1ee3da105e9e6",
+            "title": "December 31",
+            "question": "Will Israel launch a major ground offensive in Gaza by December 31?",
+            "description": "This market will resolve to \"Yes\" if Israel initiates a major ground offensive in Gaza by December 31, 2026, 11:59PM ET. Otherwise, this market will resolve to \"No\".\n\nA \"major ground offensive\" is defined as a large-scale military operation that involves more than 1,000 Israeli ground forces entering Gazan territory that was not under Israeli control at the start of the offensive. This excludes smaller raids, special operations, or limited incursions directly bordering buffer zones already under Israeli control.\n\nThe resolution source will be a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-israel-launch-a-major-ground-offensive-in-gaza-by-october-31-hFPYVMlPMqeR.jpg",
+            "yes_token_id": "54321071530548266672166878707765766594100313888586165986698245613205332870724",
+            "yes_probability": 0.4,
+            "yes_best_bid": 0.33,
+            "yes_best_ask": 0.4,
+            "yes_spread": 0.07,
+            "no_token_id": "56333782793421950483875833119080130897195447801211249547040559909421499481715",
+            "no_probability": 0.67,
+            "no_best_bid": 0.6,
+            "no_best_ask": 0.67,
+            "no_spread": 0.07000000000000006,
+            "volume": 24047.315961000004,
+            "liquidity": 41787.19,
+            "neg_risk": false,
+            "end_date": "2025-10-31T00:00:00Z",
+            "categories": [
+              "world",
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Direct military action reported, likely leading to ground offensive.",
+            "event_id": "61890",
+            "event_title": "Will Israel launch a major ground offensive in Gaza by...?",
+            "event_slug": "will-israel-launch-a-major-ground-offensive-in-gaza-by-october-31",
+            "detected_yes_price": 0.59,
+            "detected_no_price": 0.44999999999999996,
+            "detected_at": 1778865409885,
+            "highest_price_change": 0.48888888888888915,
+            "highest_yes_price": 0.59,
+            "highest_no_price": 0.67,
+            "first_moved_at": 1778865898638,
+            "moved_side": "no",
+            "peaked_at": 1778943667943
+          },
+          {
+            "id": "1642009",
+            "slug": "will-israel-launch-a-major-ground-offensive-in-gaza-by-october-31",
+            "condition_id": "0xf15f4253eace2d74c88936cd63906abda4ff4bbf98e20cf799ba45cf6afc55e9",
+            "title": "June 30",
+            "question": "Will Israel launch a major ground offensive in Gaza by June 30?",
+            "description": "This market will resolve to \"Yes\" if Israel initiates a major ground offensive in Gaza by June 30, 2026, 11:59PM ET. Otherwise, this market will resolve to \"No\".\n\nA \"major ground offensive\" is defined as a large-scale military operation that involves more than 1,000 Israeli ground forces entering Gazan territory that was not under Israeli control at the start of the offensive. This excludes smaller raids, special operations, or limited incursions directly bordering buffer zones already under Israeli control.\n\nThe resolution source will be a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-israel-launch-a-major-ground-offensive-in-gaza-by-october-31-hFPYVMlPMqeR.jpg",
+            "yes_token_id": "75346936063969571190620358863735703777657300721118724660441519247622515981794",
+            "yes_probability": 0.2,
+            "yes_best_bid": 0.17,
+            "yes_best_ask": 0.2,
+            "yes_spread": 0.03,
+            "no_token_id": "102119753884173712975890715930153670065225317269011973013399631357327449722798",
+            "no_probability": 0.83,
+            "no_best_bid": 0.8,
+            "no_best_ask": 0.83,
+            "no_spread": 0.029999999999999916,
+            "volume": 53524.14642600013,
+            "liquidity": 101274.37,
+            "neg_risk": false,
+            "end_date": "2025-10-31T00:00:00Z",
+            "categories": [
+              "world",
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Direct military action reported, likely leading to ground offensive.",
+            "event_id": "61890",
+            "event_title": "Will Israel launch a major ground offensive in Gaza by...?",
+            "event_slug": "will-israel-launch-a-major-ground-offensive-in-gaza-by-october-31",
+            "detected_yes_price": 0.33,
+            "detected_no_price": 0.79,
+            "detected_at": 1778865409885,
+            "highest_price_change": 0.06329113924050624,
+            "highest_yes_price": 0.34,
+            "highest_no_price": 0.84,
+            "first_moved_at": 1778865737128,
+            "moved_side": "no",
+            "peaked_at": 1778943688269
+          },
+          {
+            "id": "1090489",
+            "slug": "israel-x-hamas-ceasefire-cancelled-by-october-31",
+            "condition_id": "0x26ebe9f65bd68ddedda46fd178b35f849aae4607e1265df3ef7243f99829f195",
+            "title": "June 30",
+            "question": "Israel x Hamas ceasefire cancelled by June 30?",
+            "description": "On October 9, 2025 Israel and Hamas signed a deal implementing a ceasefire: https://www.reuters.com/world/middle-east/israel-hamas-agree-gaza-ceasefire-return-hostages-2025-10-09/\n\nThis market will resolve to \"Yes\" if a either Israel or Hamas announce the cancellation of the ongoing ceasefire, or if a consensus of credible reporting confirms that the ceasefire is no longer in effect, by June 30, 2026, 11:59 PM ET. Otherwise this market will resolve to \"No\".\n\nAnnouncements that one side or another violated the ongoing ceasefire will not be enough to resolve this market to \"Yes\"; only a definitive announcement by Israel or Hamas, or otherwise a wide consensus of credible reporting that that the ceasefire has been ended, will qualify to resolve this market to \"Yes\".\n\nThe primary solution resolution source will be official information from Hamas or the government of Israel, however a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-hamas-ceasefire-cancelled-by-october-31-APMH1GLpv6ia.jpg",
+            "yes_token_id": "63808367585655921040786645798394416641162584754134130888507371817017552687973",
+            "yes_probability": 0.17,
+            "yes_best_bid": 0.15,
+            "yes_best_ask": 0.17,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "86353192546542495916641527487272540176875193724127522627725581591930228417624",
+            "no_probability": 0.85,
+            "no_best_bid": 0.83,
+            "no_best_ask": 0.85,
+            "no_spread": 0.020000000000000018,
+            "volume": 113737.9699810001,
+            "liquidity": 120269.99999999997,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 7,
+            "impact_level": "medium",
+            "impact_reason": "Direct military action reported, likely affecting ceasefire agreements.",
+            "event_id": "57057",
+            "event_title": "Israel x Hamas ceasefire cancelled by...?",
+            "event_slug": "israel-x-hamas-ceasefire-cancelled-by-october-31",
+            "detected_yes_price": 0.17,
+            "detected_no_price": 0.9,
+            "detected_at": 1778865409885,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.17,
+            "highest_no_price": 0.9
+          },
+          {
+            "id": "636921",
+            "slug": "will-israel-annex-gaza-territory-by-2026",
+            "condition_id": "0xe2c178a3c7c4b2dd170fcfc14289ef59b421c62a117161df537eb208b9531d75",
+            "title": "",
+            "question": "Will Israel annex Gaza territory by June 30 2026?",
+            "description": "This market will resolve to \"Yes\" if Israel officially annexes any territory in the Gaza Strip by June 30, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nAnnexation is defined as an official declaration or legal act by the Israeli government claiming sovereignty over territory in the Gaza Strip that they were not claiming at the time of this market's creation.\n\nQualifying examples of annexation include the 1980 Jerusalem Law, and the Golan Heights Law. Instances where Israeli settlers claim administrative control over land in the Gaza Strip without formal annexation will not qualify.\n\nThe primary resolution source for this market will be official information from the Israeli government. A consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-israel-annex-gaza-territory-by-2026-N6WCNld0dskK.jpg",
+            "yes_token_id": "70359681490276052691112887648329793451326841944052095594051773436187530963436",
+            "yes_probability": 0.046,
+            "yes_best_bid": 0.045,
+            "yes_best_ask": 0.046,
+            "yes_spread": 0.0010000000000000009,
+            "no_token_id": "102112144311637528008354064466399637295834519831544503736594271248546135202723",
+            "no_probability": 0.955,
+            "no_best_bid": 0.954,
+            "no_best_ask": 0.955,
+            "no_spread": 0.0010000000000000009,
+            "volume": 91322.23491499966,
+            "liquidity": 183391.44999999998,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "world",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Assassination attempt may escalate tensions, influencing annexation discussions.",
+            "event_id": "60171",
+            "event_title": "Will Israel annex Gaza territory by June 30 2026?",
+            "event_slug": "will-israel-annex-gaza-territory-by-2026",
+            "detected_yes_price": 0.047,
+            "detected_no_price": 0.955,
+            "detected_at": 1778865409885,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.047,
+            "highest_no_price": 0.955
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 8,
+            "price": 100.355
+          }
+        ],
+        "topics": null,
+        "categories": null
+      },
+      "related_market": {
+        "id": "1642010",
+        "slug": "will-israel-launch-a-major-ground-offensive-in-gaza-by-october-31",
+        "condition_id": "0x1c39f29a392495da86a9d1882bdb7ad82bd617990a6da16674e1ee3da105e9e6",
+        "title": "December 31",
+        "question": "Will Israel launch a major ground offensive in Gaza by December 31?",
+        "description": "This market will resolve to \"Yes\" if Israel initiates a major ground offensive in Gaza by December 31, 2026, 11:59PM ET. Otherwise, this market will resolve to \"No\".\n\nA \"major ground offensive\" is defined as a large-scale military operation that involves more than 1,000 Israeli ground forces entering Gazan territory that was not under Israeli control at the start of the offensive. This excludes smaller raids, special operations, or limited incursions directly bordering buffer zones already under Israeli control.\n\nThe resolution source will be a consensus of credible reporting.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-israel-launch-a-major-ground-offensive-in-gaza-by-october-31-hFPYVMlPMqeR.jpg",
+        "yes_token_id": "54321071530548266672166878707765766594100313888586165986698245613205332870724",
+        "yes_probability": 0.4,
+        "yes_best_bid": 0.33,
+        "yes_best_ask": 0.4,
+        "yes_spread": 0.07,
+        "no_token_id": "56333782793421950483875833119080130897195447801211249547040559909421499481715",
+        "no_probability": 0.67,
+        "no_best_bid": 0.6,
+        "no_best_ask": 0.67,
+        "no_spread": 0.07000000000000006,
+        "volume": 24047.315961000004,
+        "liquidity": 41787.19,
+        "neg_risk": false,
+        "end_date": "2025-10-31T00:00:00Z",
+        "categories": [
+          "world",
+          "politics",
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Direct military action reported, likely leading to ground offensive.",
+        "event_id": "61890",
+        "event_title": "Will Israel launch a major ground offensive in Gaza by...?",
+        "event_slug": "will-israel-launch-a-major-ground-offensive-in-gaza-by-october-31",
+        "detected_yes_price": 0.59,
+        "detected_no_price": 0.44999999999999996,
+        "detected_at": 1778865409885,
+        "highest_price_change": 0.48888888888888915,
+        "highest_yes_price": 0.59,
+        "highest_no_price": 0.67,
+        "first_moved_at": 1778865898638,
+        "moved_side": "no",
+        "peaked_at": 1778943667943
+      },
+      "_scraped_at": "2026-05-16T15:33:17.594193+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 5,
+      "feed_item": {
+        "id": "8c01dd63-342c-4c53-b4d4-ac680dbff5ba",
+        "timestamp": 1778936585875,
+        "tweet": {
+          "feed_item_id": "8c01dd63-342c-4c53-b4d4-ac680dbff5ba",
+          "post_id": "2055635148339577256",
+          "post_type": "tweet",
+          "created_at": 1778936585875,
+          "user": {
+            "uid": "18856867",
+            "handle": "zerohedge",
+            "display_name": "zerohedge",
+            "pfp": "https://pbs.twimg.com/profile_images/72647502/tyler.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "China Confirms Boeing Jet Deal, Agrees To Cut Select Levies & Expand Agri Trade https://www.zerohedge.com/political/us-and-china-agree-establish-trade-and-investment-boards-trump-xi-summit-delivers-modest",
+          "link": "https://twitter.com/zerohedge/status/2055635148339577256"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "CN",
+        "countries": [
+          "CN",
+          "US"
+        ],
+        "related_markets": [
+          {
+            "id": "2233159",
+            "slug": "trump-xi-summit-what-will-china-announce-by-may-22",
+            "condition_id": "0xecbc0d8411219bcbf1601cd2d5dc6923f4d3497e5f23f3a45f888cf2ce306591",
+            "title": "Boeing Aircraft Purchase",
+            "question": "Will China announce a Boeing aircraft purchase by May 22?",
+            "description": "This market will resolve to \u201cYes\u201d if Xi Jinping, the Chinese government, any authorized representative of the Chinese government announces the purchase of at least one Boeing aircraft by the Chinese state or any Chinese company between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA qualifying announcement must explicitly indicate that the Chinese government or a Chinese company will purchase or order, or has definitively agreed to purchase or order, at least one Boeing aircraft. \n\nOnly definitive announcements will qualify. Suggestions, negotiations, expressions of openness, general support for diplomacy, or other non-definitive statements will not qualify.\n\nAny qualifying purchase or order announced within this market\u2019s time frame will count, regardless of whether or when the purchase is actually completed or the aircraft is delivered.\n\nThis market's primary resolution source will be official information from the Chinese government; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-china-announce-by-may-22-1GJoUL7Z-MV9.jpg",
+            "yes_token_id": "103097787537831973289425413752947547615552436095438625380801563481015162640230",
+            "yes_probability": 0.47,
+            "yes_best_bid": 0.45,
+            "yes_best_ask": 0.47,
+            "yes_spread": 0.019999999999999962,
+            "no_token_id": "62579117549553115440242998793368412125335518937522276717107848411983105442777",
+            "no_probability": 0.55,
+            "no_best_bid": 0.53,
+            "no_best_ask": 0.55,
+            "no_spread": 0.020000000000000018,
+            "volume": 67883.91651823986,
+            "liquidity": 302003.88,
+            "neg_risk": false,
+            "end_date": "2026-05-22T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Direct confirmation of Boeing deal = 1 hop to market.",
+            "event_id": "474670",
+            "event_title": "Trump-Xi Summit: What will China announce by May 22?",
+            "event_slug": "trump-xi-summit-what-will-china-announce-by-may-22",
+            "detected_yes_price": 0.52,
+            "detected_no_price": 0.51,
+            "detected_at": 1778936628658,
+            "highest_price_change": 0.27450980392156865,
+            "highest_yes_price": 0.52,
+            "highest_no_price": 0.65,
+            "first_moved_at": 1778936759346,
+            "moved_side": "no",
+            "peaked_at": 1778944114989
+          },
+          {
+            "id": "2236044",
+            "slug": "trump-xi-summit-what-will-china-announce-by-may-22",
+            "condition_id": "0xb275aaf74777d2ed7af289a836b8cb73df52eb927ddbc1552eed4e8cc0fc8d56",
+            "title": "U.S. Soybean Purchase",
+            "question": "Will China announce a U.S. soybean purchase by May 22?",
+            "description": "This market will resolve to \u201cYes\u201d if Xi Jinping, the Chinese government, or any authorized representative of the Chinese government announces the purchase of U.S. soybeans by the Chinese state or any Chinese company between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA qualifying announcement must explicitly indicate that the Chinese government or a Chinese company will purchase, or has definitively agreed to purchase, U.S. soybeans.\n\nOnly definitive announcements will qualify. Suggestions, negotiations, expressions of openness, general support for trade cooperation, or other non-definitive statements will not qualify.\n\nAny qualifying purchase announced within this market\u2019s time frame will count, regardless of whether or when the purchase is actually completed or the soybeans are delivered.\n\nThis market\u2019s primary resolution source will be official information from the Chinese government; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-china-announce-by-may-22-1GJoUL7Z-MV9.jpg",
+            "yes_token_id": "13960413715058757025830989657671845850784062663277234472660288917447152227214",
+            "yes_probability": 0.34,
+            "yes_best_bid": 0.26,
+            "yes_best_ask": 0.34,
+            "yes_spread": 0.08000000000000002,
+            "no_token_id": "45981256070290603227632461826642422364510374654250938757255660293624504573714",
+            "no_probability": 0.74,
+            "no_best_bid": 0.66,
+            "no_best_ask": 0.74,
+            "no_spread": 0.07999999999999996,
+            "volume": 21436.591687999942,
+            "liquidity": 69756.69999999998,
+            "neg_risk": false,
+            "end_date": "2026-05-22T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Agreement to expand agricultural trade = 1 hop to soybean purchase.",
+            "event_id": "474670",
+            "event_title": "Trump-Xi Summit: What will China announce by May 22?",
+            "event_slug": "trump-xi-summit-what-will-china-announce-by-may-22",
+            "detected_yes_price": 0.39,
+            "detected_no_price": 0.6699999999999999,
+            "detected_at": 1778936628658,
+            "highest_price_change": 0.11940298507462699,
+            "highest_yes_price": 0.4,
+            "highest_no_price": 0.75,
+            "first_moved_at": 1778937415932,
+            "moved_side": "no",
+            "peaked_at": 1778944575583
+          }
+        ],
+        "topics": null,
+        "categories": [
+          "world",
+          "politics",
+          "climate"
+        ]
+      },
+      "related_market": {
+        "id": "2233159",
+        "slug": "trump-xi-summit-what-will-china-announce-by-may-22",
+        "condition_id": "0xecbc0d8411219bcbf1601cd2d5dc6923f4d3497e5f23f3a45f888cf2ce306591",
+        "title": "Boeing Aircraft Purchase",
+        "question": "Will China announce a Boeing aircraft purchase by May 22?",
+        "description": "This market will resolve to \u201cYes\u201d if Xi Jinping, the Chinese government, any authorized representative of the Chinese government announces the purchase of at least one Boeing aircraft by the Chinese state or any Chinese company between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA qualifying announcement must explicitly indicate that the Chinese government or a Chinese company will purchase or order, or has definitively agreed to purchase or order, at least one Boeing aircraft. \n\nOnly definitive announcements will qualify. Suggestions, negotiations, expressions of openness, general support for diplomacy, or other non-definitive statements will not qualify.\n\nAny qualifying purchase or order announced within this market\u2019s time frame will count, regardless of whether or when the purchase is actually completed or the aircraft is delivered.\n\nThis market's primary resolution source will be official information from the Chinese government; however, a consensus of credible reporting may also be used.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-china-announce-by-may-22-1GJoUL7Z-MV9.jpg",
+        "yes_token_id": "103097787537831973289425413752947547615552436095438625380801563481015162640230",
+        "yes_probability": 0.47,
+        "yes_best_bid": 0.45,
+        "yes_best_ask": 0.47,
+        "yes_spread": 0.019999999999999962,
+        "no_token_id": "62579117549553115440242998793368412125335518937522276717107848411983105442777",
+        "no_probability": 0.55,
+        "no_best_bid": 0.53,
+        "no_best_ask": 0.55,
+        "no_spread": 0.020000000000000018,
+        "volume": 67883.91651823986,
+        "liquidity": 302003.88,
+        "neg_risk": false,
+        "end_date": "2026-05-22T00:00:00Z",
+        "categories": [
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 9,
+        "impact_level": "critical",
+        "impact_reason": "Direct confirmation of Boeing deal = 1 hop to market.",
+        "event_id": "474670",
+        "event_title": "Trump-Xi Summit: What will China announce by May 22?",
+        "event_slug": "trump-xi-summit-what-will-china-announce-by-may-22",
+        "detected_yes_price": 0.52,
+        "detected_no_price": 0.51,
+        "detected_at": 1778936628658,
+        "highest_price_change": 0.27450980392156865,
+        "highest_yes_price": 0.52,
+        "highest_no_price": 0.65,
+        "first_moved_at": 1778936759346,
+        "moved_side": "no",
+        "peaked_at": 1778944114989
+      },
+      "_scraped_at": "2026-05-16T15:33:17.594193+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 6,
+      "feed_item": {
+        "id": "0d54ff20-50fd-43b3-b62d-6c3c7e949a20",
+        "timestamp": 1778869421297,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "0d54ff20-50fd-43b3-b62d-6c3c7e949a20",
+          "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f \u2014 NEW: The Israel-Lebanon \"ceasefire\" has been extended by 45 days to allow more negotiations, the State Department says.",
+          "channel": "Rerum Novarum // Intel, Breaking News, and Alerts \ud83c\uddfa\ud83c\uddf8",
+          "timestamp": 1778869421297,
+          "link": "https://t.me/rnintel"
+        },
+        "osint": false,
+        "country": "LB",
+        "countries": [
+          "LB",
+          "IL"
+        ],
+        "related_markets": [
+          {
+            "id": "2246400",
+            "slug": "israel-announces-ceasefire-extended-by",
+            "condition_id": "0x89f208bc78348a5fefe6e4deb8a5a4e625a1e2522b08d0642c40fc0faf5b4da8",
+            "title": "May 16",
+            "question": "Will Israel announce the ceasefire has been extended by May 16?",
+            "description": "This market will resolve to \u201cYes\u201d if Israel officially announces another extension of the ceasefire agreement between Israel and Hezbollah announced on April 16, 2026, defined as a publicly announced commitment to halt direct military engagement with Hezbollah, by the specified date, 11:59 PM Israel Daylight Time. Otherwise, this market will resolve to \"No\".\n\nBoth announcements of extensions of the April 16 ceasefire, as extended on April 23, 2026, and of new agreements will qualify.\n\nIf a qualifying announcement is officially made before the resolution date, this market will resolve to \u201cYes,\u201d regardless of whether the ceasefire extension ultimately takes effect.\n\nA qualifying announcement requires clear public confirmation from the Israeli government that Israel has extended its commitment to the ceasefire beyond its current scheduled end.\n\nAny form of informal understanding, backchannel communication, de-escalation, or unilateral pause in hostilities without a confirmed Israeli announcement of a qualifying extension will not qualify. Similarly, newly agreed-upon humanitarian pauses, limited operational pauses, or temporary tactical stand-downs will not qualify.\n\nA newly agreed-upon broader peace deal will qualify if it includes Israel's agreement to a ceasefire extension. Agreements that outline future negotiations or de-escalation measures, but do not explicitly extend the ceasefire, will not qualify.\n\nThis market\u2019s resolution will be based on official statements from the Israeli government and will not require confirmation from Hezbollah. However, an overwhelming consensus of credible media reporting that a ceasefire extension agreement has been reached will suffice.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-hezbollah-ceasefire-extended-by-2-En32lSfFPU.jpg",
+            "yes_token_id": "53171405653576161342639645106271659773606950384072545406248231642822602387939",
+            "yes_probability": 1,
+            "yes_best_bid": 0.999,
+            "yes_best_ask": 1,
+            "yes_spread": 0.0010000000000000009,
+            "no_token_id": "62799595701927049076920545857943420789715178157264555196259460656574463860600",
+            "no_probability": 0.0010000000000000009,
+            "no_best_bid": 0,
+            "no_best_ask": 0.0010000000000000009,
+            "no_spread": 0.0010000000000000009,
+            "volume": 240632.17602599997,
+            "liquidity": 0,
+            "neg_risk": false,
+            "end_date": "2026-05-17T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Official statement about ceasefire extension = 1 hop to announcement.",
+            "event_id": "479319",
+            "event_title": "Israel Announces Ceasefire Extended by...?",
+            "event_slug": "israel-announces-ceasefire-extended-by",
+            "detected_yes_price": 0.93,
+            "detected_no_price": 0.08999999999999997,
+            "detected_at": 1778869449430,
+            "highest_price_change": 0.05591397849462358,
+            "highest_yes_price": 0.982,
+            "highest_no_price": 0.08999999999999997,
+            "first_moved_at": 1778869453954,
+            "moved_side": "yes",
+            "peaked_at": 1778870188391
+          },
+          {
+            "id": "2246401",
+            "slug": "israel-announces-ceasefire-extended-by",
+            "condition_id": "0xd1c8ff7ea00ca64e0a74a12eb8bf932243cd60924a5e22128b2f993478aacd3b",
+            "title": "May 17",
+            "question": "Will Israel announce the ceasefire has been extended by May 17?",
+            "description": "This market will resolve to \u201cYes\u201d if Israel officially announces another extension of the ceasefire agreement between Israel and Hezbollah announced on April 16, 2026, defined as a publicly announced commitment to halt direct military engagement with Hezbollah, by the specified date, 11:59 PM Israel Daylight Time. Otherwise, this market will resolve to \"No\".\n\nBoth announcements of extensions of the April 16 ceasefire, as extended on April 23, 2026, and of new agreements will qualify.\n\nIf a qualifying announcement is officially made before the resolution date, this market will resolve to \u201cYes,\u201d regardless of whether the ceasefire extension ultimately takes effect.\n\nA qualifying announcement requires clear public confirmation from the Israeli government that Israel has extended its commitment to the ceasefire beyond its current scheduled end.\n\nAny form of informal understanding, backchannel communication, de-escalation, or unilateral pause in hostilities without a confirmed Israeli announcement of a qualifying extension will not qualify. Similarly, newly agreed-upon humanitarian pauses, limited operational pauses, or temporary tactical stand-downs will not qualify.\n\nA newly agreed-upon broader peace deal will qualify if it includes Israel's agreement to a ceasefire extension. Agreements that outline future negotiations or de-escalation measures, but do not explicitly extend the ceasefire, will not qualify.\n\nThis market\u2019s resolution will be based on official statements from the Israeli government and will not require confirmation from Hezbollah. However, an overwhelming consensus of credible media reporting that a ceasefire extension agreement has been reached will suffice.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-hezbollah-ceasefire-extended-by-2-En32lSfFPU.jpg",
+            "yes_token_id": "113188462323621302729836476758538515093644937401197394562987468341130066962379",
+            "yes_probability": 1,
+            "yes_best_bid": 0.999,
+            "yes_best_ask": 1,
+            "yes_spread": 0.0010000000000000009,
+            "no_token_id": "36784888415964994686740454513185062237507005579513013203411924113483438490050",
+            "no_probability": 0.0010000000000000009,
+            "no_best_bid": 0,
+            "no_best_ask": 0.0010000000000000009,
+            "no_spread": 0.0010000000000000009,
+            "volume": 160672.36404,
+            "liquidity": 0,
+            "neg_risk": false,
+            "end_date": "2026-05-17T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Official statement about ceasefire extension = 1 hop to announcement.",
+            "event_id": "479319",
+            "event_title": "Israel Announces Ceasefire Extended by...?",
+            "event_slug": "israel-announces-ceasefire-extended-by",
+            "detected_yes_price": 0.91,
+            "detected_no_price": 0.10999999999999999,
+            "detected_at": 1778869449430,
+            "highest_price_change": 0.09560439560439557,
+            "highest_yes_price": 0.997,
+            "highest_no_price": 0.10999999999999999,
+            "first_moved_at": 1778869456100,
+            "moved_side": "yes",
+            "peaked_at": 1778870189778
+          },
+          {
+            "id": "2246399",
+            "slug": "israel-announces-ceasefire-extended-by",
+            "condition_id": "0xbfe3760180616226c58d18c91bf8b9537331cb457515d274cd094520b9aec866",
+            "title": "May 15",
+            "question": "Will Israel announce the ceasefire has been extended by May 15?",
+            "description": "This market will resolve to \u201cYes\u201d if Israel officially announces another extension of the ceasefire agreement between Israel and Hezbollah announced on April 16, 2026, defined as a publicly announced commitment to halt direct military engagement with Hezbollah, by the specified date, 11:59 PM Israel Daylight Time. Otherwise, this market will resolve to \"No\".\n\nBoth announcements of extensions of the April 16 ceasefire, as extended on April 23, 2026, and of new agreements will qualify.\n\nIf a qualifying announcement is officially made before the resolution date, this market will resolve to \u201cYes,\u201d regardless of whether the ceasefire extension ultimately takes effect.\n\nA qualifying announcement requires clear public confirmation from the Israeli government that Israel has extended its commitment to the ceasefire beyond its current scheduled end.\n\nAny form of informal understanding, backchannel communication, de-escalation, or unilateral pause in hostilities without a confirmed Israeli announcement of a qualifying extension will not qualify. Similarly, newly agreed-upon humanitarian pauses, limited operational pauses, or temporary tactical stand-downs will not qualify.\n\nA newly agreed-upon broader peace deal will qualify if it includes Israel's agreement to a ceasefire extension. Agreements that outline future negotiations or de-escalation measures, but do not explicitly extend the ceasefire, will not qualify.\n\nThis market\u2019s resolution will be based on official statements from the Israeli government and will not require confirmation from Hezbollah. However, an overwhelming consensus of credible media reporting that a ceasefire extension agreement has been reached will suffice.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-hezbollah-ceasefire-extended-by-2-En32lSfFPU.jpg",
+            "yes_token_id": "80705692945118940761546445110905458931727777454358206024078110624335638735223",
+            "yes_probability": 1,
+            "yes_best_bid": 0.999,
+            "yes_best_ask": 1,
+            "yes_spread": 0.0010000000000000009,
+            "no_token_id": "94403688657434290333883771790840350380234470884570272410834773428002150868179",
+            "no_probability": 0.0010000000000000009,
+            "no_best_bid": 0,
+            "no_best_ask": 0.0010000000000000009,
+            "no_spread": 0.0010000000000000009,
+            "volume": 1808629.020151004,
+            "liquidity": 0,
+            "neg_risk": false,
+            "end_date": "2026-05-17T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Official statement about ceasefire extension = 1 hop to announcement.",
+            "event_id": "479319",
+            "event_title": "Israel Announces Ceasefire Extended by...?",
+            "event_slug": "israel-announces-ceasefire-extended-by",
+            "detected_yes_price": 0.85,
+            "detected_no_price": 0.16000000000000003,
+            "detected_at": 1778869449430,
+            "highest_price_change": 0.15294117647058825,
+            "highest_yes_price": 0.98,
+            "highest_no_price": 0.16000000000000003,
+            "first_moved_at": 1778869450371,
+            "moved_side": "yes",
+            "peaked_at": 1778870188863
+          },
+          {
+            "id": "2002609",
+            "slug": "israel-withdraws-from-lebanon-by",
+            "condition_id": "0x57165bc68af588cf16e499eecd6c040e458c939e0fb0dd4b193744a9d21aa5f2",
+            "title": "June 30",
+            "question": "Israel withdraws from Lebanon by June 30, 2026?",
+            "description": "This market will resolve to \"Yes\" if Israel announces it has withdrawn all ground forces from Lebanon by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nFor this market to resolve to \"Yes\" it is sufficient that Israel announces its ground forces have withdrawn from all Lebanese territory, regardless of if some Lebanese territory remains under their control or ground incursions by Israeli forces continue. However, an announcement of a planned or future withdrawal will not suffice.\n\nThe Shebaa Farms area is considered Israeli territory for the purposes of this market and will not be considered toward its resolution.\n\nThe primary resolution source for this market will be information from the Israeli government, however an overwhelming consensus of credible reporting confirming that Israel has withdrawn may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-withdraws-from-lebanon-by-iSLvDOMpOkAG.jpg",
+            "yes_token_id": "108868564305190361360490524671116008808546165773720209215376459867456221066859",
+            "yes_probability": 0.09,
+            "yes_best_bid": 0.07,
+            "yes_best_ask": 0.09,
+            "yes_spread": 0.01999999999999999,
+            "no_token_id": "30737817968734131414540694363665965667430443804675463953245001754203960203734",
+            "no_probability": 0.93,
+            "no_best_bid": 0.91,
+            "no_best_ask": 0.93,
+            "no_spread": 0.020000000000000018,
+            "volume": 215406.38653400016,
+            "liquidity": 167214.27,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 4,
+            "impact_level": "low",
+            "impact_reason": "Ceasefire extension is relevant context, but not direct evidence of withdrawal.",
+            "event_id": "386812",
+            "event_title": "Israel withdraws from Lebanon by...?",
+            "event_slug": "israel-withdraws-from-lebanon-by",
+            "detected_yes_price": 0.11,
+            "detected_no_price": 0.91,
+            "detected_at": 1778869449430,
+            "highest_price_change": 0.09090909090909087,
+            "highest_yes_price": 0.12,
+            "highest_no_price": 0.93,
+            "first_moved_at": 1778870206079,
+            "moved_side": "yes",
+            "peaked_at": 1778870206079
+          },
+          {
+            "id": "2002608",
+            "slug": "israel-withdraws-from-lebanon-by",
+            "condition_id": "0x8bb861046d70534248fe10aaef5ca28a91fe4c923db024005ea26b86946ca114",
+            "title": "May 31",
+            "question": "Israel withdraws from Lebanon by May 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if Israel announces it has withdrawn all ground forces from Lebanon by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nFor this market to resolve to \"Yes\" it is sufficient that Israel announces its ground forces have withdrawn from all Lebanese territory, regardless of if some Lebanese territory remains under their control or ground incursions by Israeli forces continue. However, an announcement of a planned or future withdrawal will not suffice.\n\nThe Shebaa Farms area is considered Israeli territory for the purposes of this market and will not be considered toward its resolution.\n\nThe primary resolution source for this market will be information from the Israeli government, however an overwhelming consensus of credible reporting confirming that Israel has withdrawn may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-withdraws-from-lebanon-by-iSLvDOMpOkAG.jpg",
+            "yes_token_id": "64306271961813065703804968520478430759397226168325766090636747856192336957941",
+            "yes_probability": 0.017,
+            "yes_best_bid": 0.014,
+            "yes_best_ask": 0.017,
+            "yes_spread": 0.003000000000000001,
+            "no_token_id": "72638240516733289490270090522790097230468696624096216694556170058909027876326",
+            "no_probability": 0.986,
+            "no_best_bid": 0.983,
+            "no_best_ask": 0.986,
+            "no_spread": 0.0030000000000000027,
+            "volume": 1228334.5401809984,
+            "liquidity": 399640.76,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 4,
+            "impact_level": "low",
+            "impact_reason": "Ceasefire extension is relevant context, but not direct evidence of withdrawal.",
+            "event_id": "386812",
+            "event_title": "Israel withdraws from Lebanon by...?",
+            "event_slug": "israel-withdraws-from-lebanon-by",
+            "detected_yes_price": 0.012,
+            "detected_no_price": 0.99,
+            "detected_at": 1778869449430,
+            "highest_price_change": 0.41666666666666674,
+            "highest_yes_price": 0.017,
+            "highest_no_price": 0.99,
+            "first_moved_at": 1778869576637,
+            "moved_side": "yes",
+            "peaked_at": 1778943555355
+          }
+        ],
+        "topics": [
+          "ukraine-war"
+        ],
+        "categories": [
+          "geopolitics",
+          "climate"
+        ]
+      },
+      "related_market": {
+        "id": "2246399",
+        "slug": "israel-announces-ceasefire-extended-by",
+        "condition_id": "0xbfe3760180616226c58d18c91bf8b9537331cb457515d274cd094520b9aec866",
+        "title": "May 15",
+        "question": "Will Israel announce the ceasefire has been extended by May 15?",
+        "description": "This market will resolve to \u201cYes\u201d if Israel officially announces another extension of the ceasefire agreement between Israel and Hezbollah announced on April 16, 2026, defined as a publicly announced commitment to halt direct military engagement with Hezbollah, by the specified date, 11:59 PM Israel Daylight Time. Otherwise, this market will resolve to \"No\".\n\nBoth announcements of extensions of the April 16 ceasefire, as extended on April 23, 2026, and of new agreements will qualify.\n\nIf a qualifying announcement is officially made before the resolution date, this market will resolve to \u201cYes,\u201d regardless of whether the ceasefire extension ultimately takes effect.\n\nA qualifying announcement requires clear public confirmation from the Israeli government that Israel has extended its commitment to the ceasefire beyond its current scheduled end.\n\nAny form of informal understanding, backchannel communication, de-escalation, or unilateral pause in hostilities without a confirmed Israeli announcement of a qualifying extension will not qualify. Similarly, newly agreed-upon humanitarian pauses, limited operational pauses, or temporary tactical stand-downs will not qualify.\n\nA newly agreed-upon broader peace deal will qualify if it includes Israel's agreement to a ceasefire extension. Agreements that outline future negotiations or de-escalation measures, but do not explicitly extend the ceasefire, will not qualify.\n\nThis market\u2019s resolution will be based on official statements from the Israeli government and will not require confirmation from Hezbollah. However, an overwhelming consensus of credible media reporting that a ceasefire extension agreement has been reached will suffice.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-hezbollah-ceasefire-extended-by-2-En32lSfFPU.jpg",
+        "yes_token_id": "80705692945118940761546445110905458931727777454358206024078110624335638735223",
+        "yes_probability": 1,
+        "yes_best_bid": 0.999,
+        "yes_best_ask": 1,
+        "yes_spread": 0.0010000000000000009,
+        "no_token_id": "94403688657434290333883771790840350380234470884570272410834773428002150868179",
+        "no_probability": 0.0010000000000000009,
+        "no_best_bid": 0,
+        "no_best_ask": 0.0010000000000000009,
+        "no_spread": 0.0010000000000000009,
+        "volume": 1808629.020151004,
+        "liquidity": 0,
+        "neg_risk": false,
+        "end_date": "2026-05-17T00:00:00Z",
+        "categories": [
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 9,
+        "impact_level": "critical",
+        "impact_reason": "Official statement about ceasefire extension = 1 hop to announcement.",
+        "event_id": "479319",
+        "event_title": "Israel Announces Ceasefire Extended by...?",
+        "event_slug": "israel-announces-ceasefire-extended-by",
+        "detected_yes_price": 0.85,
+        "detected_no_price": 0.16000000000000003,
+        "detected_at": 1778869449430,
+        "highest_price_change": 0.15294117647058825,
+        "highest_yes_price": 0.98,
+        "highest_no_price": 0.16000000000000003,
+        "first_moved_at": 1778869450371,
+        "moved_side": "yes",
+        "peaked_at": 1778870188863
+      },
+      "_scraped_at": "2026-05-16T15:33:17.594193+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "valid": false,
+      "_scraped_at": "2026-05-16T15:33:17.594193+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "global_tension_score": 38,
+      "global_tension_level": "GUARDED",
+      "countries": [
+        {
+          "country": "IL",
+          "count": 14,
+          "recent": [
+            {
+              "id": "61d58847-fa42-4524-9d7a-b7154cced00d",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778925596217
+            },
+            {
+              "id": "309d3a8b-1674-468d-90ff-c78ca8aa0782",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778933103801
+            },
+            {
+              "id": "b3a6cb20-a1df-4ef5-af84-686091541cc9",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778931900727
+            },
+            {
+              "id": "635c9bb0-be22-4865-83c5-0a7eb128c484",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1778927607027
+            },
+            {
+              "id": "293c61cf-5930-41e6-8abb-67d0623f46c5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778931205681
+            },
+            {
+              "id": "4f78a914-bf75-43ac-9d98-29fb44eaa447",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778926945656
+            },
+            {
+              "id": "7eaea1e8-96bc-4979-b188-1560d76e74a4",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778927005658
+            },
+            {
+              "id": "7a8c9698-3084-4c91-a298-cfe37a69a7cd",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778927560639
+            },
+            {
+              "id": "3400a497-9822-4d40-9572-065eba02544b",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778928612000
+            },
+            {
+              "id": "c0525aad-b53e-4cca-a869-3aa3d1a5cc04",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778929398778
+            },
+            {
+              "id": "c6c5afc9-8d77-4df8-b647-ddf5c5078f34",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778925638000
+            },
+            {
+              "id": "fc78ac6b-9646-4ba8-b3ba-8032c35558c7",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1778926228661
+            },
+            {
+              "id": "d9120730-fe84-424c-81b1-775c8beacc06",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778928921221
+            },
+            {
+              "id": "439c3099-2552-4c1f-80b4-80bb979400d4",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778925555654
+            }
+          ],
+          "volume": 3295577.9782709973,
+          "critical_signals": 0,
+          "high_signals": 13,
+          "low_signals": 1
+        },
+        {
+          "country": "PS",
+          "count": 11,
+          "recent": [
+            {
+              "id": "61d58847-fa42-4524-9d7a-b7154cced00d",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778925596217
+            },
+            {
+              "id": "309d3a8b-1674-468d-90ff-c78ca8aa0782",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778933103801
+            },
+            {
+              "id": "635c9bb0-be22-4865-83c5-0a7eb128c484",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1778927607027
+            },
+            {
+              "id": "4f78a914-bf75-43ac-9d98-29fb44eaa447",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778926945656
+            },
+            {
+              "id": "7eaea1e8-96bc-4979-b188-1560d76e74a4",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778927005658
+            },
+            {
+              "id": "3400a497-9822-4d40-9572-065eba02544b",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778928612000
+            },
+            {
+              "id": "c0525aad-b53e-4cca-a869-3aa3d1a5cc04",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778929398778
+            },
+            {
+              "id": "c6c5afc9-8d77-4df8-b647-ddf5c5078f34",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778925638000
+            },
+            {
+              "id": "fc78ac6b-9646-4ba8-b3ba-8032c35558c7",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1778926228661
+            },
+            {
+              "id": "d9120730-fe84-424c-81b1-775c8beacc06",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778928921221
+            },
+            {
+              "id": "439c3099-2552-4c1f-80b4-80bb979400d4",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778925555654
+            }
+          ],
+          "volume": 885482.0331839997,
+          "critical_signals": 0,
+          "high_signals": 10,
+          "low_signals": 1
+        },
+        {
+          "country": "US",
+          "count": 8,
+          "recent": [
+            {
+              "id": "8c01dd63-342c-4c53-b4d4-ac680dbff5ba",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1778936585875
+            },
+            {
+              "id": "91ceb550-35e8-44c5-b8ea-16f490c96011",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1778925751272
+            },
+            {
+              "id": "b3a6cb20-a1df-4ef5-af84-686091541cc9",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778931900727
+            },
+            {
+              "id": "add92095-b8aa-4c03-b365-e1a2e584d550",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1778932054749
+            },
+            {
+              "id": "6ebfb466-4c95-4c5b-b42f-ca8285bdf085",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778941876846
+            },
+            {
+              "id": "7a8c9698-3084-4c91-a298-cfe37a69a7cd",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778927560639
+            },
+            {
+              "id": "d1e4ab6d-6b93-4921-8447-d9e48b042737",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778931325488
+            },
+            {
+              "id": "4e93d36f-7d94-447c-a633-0d1d5ab057b2",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1778935506578
+            }
+          ],
+          "volume": 14261807.693579521,
+          "critical_signals": 1,
+          "high_signals": 6,
+          "low_signals": 1
+        },
+        {
+          "country": "UA",
+          "count": 8,
+          "recent": [
+            {
+              "id": "ebe24e33-0320-4711-aa82-5ddb6e8c3254",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778928786163
+            },
+            {
+              "id": "c0d675fa-b155-468d-82b2-d0b42144324d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778928445744
+            },
+            {
+              "id": "8f943dc7-acfe-4ad9-991a-d6710704106c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778938529598
+            },
+            {
+              "id": "1adf6604-88b0-4b58-85ba-a090d2f8846a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778936512000
+            },
+            {
+              "id": "127daebc-73a8-4968-bc4d-c3c0ad4edbad",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778940197190
+            },
+            {
+              "id": "8811726b-8f87-43b6-be0c-a45da45477dc",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1778941009000
+            },
+            {
+              "id": "499264d2-0e92-47ea-bd23-708197939940",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778935709666
+            },
+            {
+              "id": "5b210cb6-533c-4424-94ff-ac2812f8394b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778940284295
+            }
+          ],
+          "volume": 2880374.5591738685,
+          "critical_signals": 1,
+          "high_signals": 7,
+          "low_signals": 0
+        },
+        {
+          "country": "GB",
+          "count": 7,
+          "recent": [
+            {
+              "id": "ebe24e33-0320-4711-aa82-5ddb6e8c3254",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778928786163
+            },
+            {
+              "id": "8f943dc7-acfe-4ad9-991a-d6710704106c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778938529598
+            },
+            {
+              "id": "1adf6604-88b0-4b58-85ba-a090d2f8846a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778936512000
+            },
+            {
+              "id": "127daebc-73a8-4968-bc4d-c3c0ad4edbad",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778940197190
+            },
+            {
+              "id": "8811726b-8f87-43b6-be0c-a45da45477dc",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1778941009000
+            },
+            {
+              "id": "499264d2-0e92-47ea-bd23-708197939940",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778935709666
+            },
+            {
+              "id": "5b210cb6-533c-4424-94ff-ac2812f8394b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778940284295
+            }
+          ],
+          "volume": 2790505.861867869,
+          "critical_signals": 1,
+          "high_signals": 6,
+          "low_signals": 0
+        },
+        {
+          "country": "RU",
+          "count": 7,
+          "recent": [
+            {
+              "id": "c0d675fa-b155-468d-82b2-d0b42144324d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778928445744
+            },
+            {
+              "id": "8f943dc7-acfe-4ad9-991a-d6710704106c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778938529598
+            },
+            {
+              "id": "1adf6604-88b0-4b58-85ba-a090d2f8846a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778936512000
+            },
+            {
+              "id": "b4541b31-09a1-4abd-b399-580bc43dac7e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778936594620
+            },
+            {
+              "id": "8811726b-8f87-43b6-be0c-a45da45477dc",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1778941009000
+            },
+            {
+              "id": "2acb9ddb-4624-4585-b9fa-beaed831f0a5",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1778942849391
+            },
+            {
+              "id": "5b210cb6-533c-4424-94ff-ac2812f8394b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778940284295
+            }
+          ],
+          "volume": 2014213.1861902163,
+          "critical_signals": 1,
+          "high_signals": 5,
+          "low_signals": 1
+        },
+        {
+          "country": "IR",
+          "count": 5,
+          "recent": [
+            {
+              "id": "293c61cf-5930-41e6-8abb-67d0623f46c5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778931205681
+            },
+            {
+              "id": "7a8c9698-3084-4c91-a298-cfe37a69a7cd",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778927560639
+            },
+            {
+              "id": "2acb9ddb-4624-4585-b9fa-beaed831f0a5",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1778942849391
+            },
+            {
+              "id": "d1e4ab6d-6b93-4921-8447-d9e48b042737",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778931325488
+            },
+            {
+              "id": "3163448e-08c0-401e-98af-0117111ec6e8",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778939402337
+            }
+          ],
+          "volume": 39586544.96330497,
+          "critical_signals": 0,
+          "high_signals": 4,
+          "low_signals": 1
+        },
+        {
+          "country": "AE",
+          "count": 4,
+          "recent": [
+            {
+              "id": "293c61cf-5930-41e6-8abb-67d0623f46c5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778931205681
+            },
+            {
+              "id": "99da99a5-2379-4624-bd6c-9becede908a3",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778924140765
+            },
+            {
+              "id": "8811726b-8f87-43b6-be0c-a45da45477dc",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1778941009000
+            },
+            {
+              "id": "7a8c9698-3084-4c91-a298-cfe37a69a7cd",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778927560639
+            }
+          ],
+          "volume": 1246049.917672,
+          "critical_signals": 1,
+          "high_signals": 3,
+          "low_signals": 0
+        },
+        {
+          "country": "LV",
+          "count": 3,
+          "recent": [
+            {
+              "id": "127daebc-73a8-4968-bc4d-c3c0ad4edbad",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778940197190
+            },
+            {
+              "id": "4f78a914-bf75-43ac-9d98-29fb44eaa447",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778926945656
+            },
+            {
+              "id": "7eaea1e8-96bc-4979-b188-1560d76e74a4",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778927005658
+            }
+          ],
+          "volume": 985658.9537579998,
+          "critical_signals": 0,
+          "high_signals": 3,
+          "low_signals": 0
+        },
+        {
+          "country": "CN",
+          "count": 2,
+          "recent": [
+            {
+              "id": "8c01dd63-342c-4c53-b4d4-ac680dbff5ba",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1778936585875
+            },
+            {
+              "id": "e42d3946-680a-445f-887e-4d3e0b1e299e",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1778934131204
+            }
+          ],
+          "volume": 124890.89929955977,
+          "critical_signals": 2,
+          "high_signals": 0,
+          "low_signals": 0
+        },
+        {
+          "country": "TR",
+          "count": 1,
+          "recent": [
+            {
+              "id": "499264d2-0e92-47ea-bd23-708197939940",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778935709666
+            }
+          ],
+          "volume": 1132436.0432760024,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "LB",
+          "count": 1,
+          "recent": [
+            {
+              "id": "b3a6cb20-a1df-4ef5-af84-686091541cc9",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778931900727
+            }
+          ],
+          "volume": 1443740.9267149987,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "PL",
+          "count": 1,
+          "recent": [
+            {
+              "id": "4e93d36f-7d94-447c-a633-0d1d5ab057b2",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1778935506578
+            }
+          ],
+          "volume": 3087355.0491333823,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "KZ",
+          "count": 1,
+          "recent": [
+            {
+              "id": "499264d2-0e92-47ea-bd23-708197939940",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778935709666
+            }
+          ],
+          "volume": 1132436.0432760024,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "DE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "adceb807-933f-4429-b954-2a9459ca6462",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1778938057066
+            }
+          ],
+          "volume": 499147.03918200015,
+          "critical_signals": 1,
+          "high_signals": 0,
+          "low_signals": 0
+        },
+        {
+          "country": "RO",
+          "count": 1,
+          "recent": [
+            {
+              "id": "499264d2-0e92-47ea-bd23-708197939940",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778935709666
+            }
+          ],
+          "volume": 1132436.0432760024,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "IN",
+          "count": 1,
+          "recent": [
+            {
+              "id": "0f7ddc6f-6512-4ea2-9603-bd59c34c58d5",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778943862962
+            }
+          ],
+          "volume": 58748.007142,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        }
+      ],
+      "_scraped_at": "2026-05-16T15:33:17.594193+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
