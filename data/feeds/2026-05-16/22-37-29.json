@@ -1,0 +1,1568 @@
+{
+  "scraped_at": "2026-05-16T22:37:22.282124+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 7,
+  "items": [
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "e42d3946-680a-445f-887e-4d3e0b1e299e",
+        "timestamp": 1778934131204,
+        "tweet": {
+          "feed_item_id": "e42d3946-680a-445f-887e-4d3e0b1e299e",
+          "post_id": "2055624852703178901",
+          "post_type": "tweet",
+          "created_at": 1778934131204,
+          "user": {
+            "uid": "18856867",
+            "handle": "zerohedge",
+            "display_name": "zerohedge",
+            "pfp": "https://pbs.twimg.com/profile_images/72647502/tyler.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "*CHINA, US AGREE TO REDUCE LEVIES ON A CERTAIN RANGE OF PRODUCTS",
+          "link": "https://twitter.com/zerohedge/status/2055624852703178901"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "CN",
+        "countries": [
+          "CN"
+        ],
+        "related_markets": [
+          {
+            "id": "2169751",
+            "slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "condition_id": "0x0cfac875e3fa84e292a97256b74432c236904d1a3e46fe8b489978122bdc663b",
+            "title": "Tariff Reduction",
+            "question": "Will Trump announce a tariff reduction on China?",
+            "description": "This market will resolve to \u201cYes\u201d if Donald Trump or the Trump administration announces a reduction, removal, or suspension of any existing tariffs on China between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nOnly tariff reductions specifically announced in relation to China, goods from China, or a specific set of countries including China will qualify. For example, an announced reduction in global tariffs will not count toward this market\u2019s resolution.\n\nOnly definitive announcements qualify. Suggestions, negotiations, expressions of openness, or other non-definitive statements will not qualify.\n\nTariff reductions, removals, or suspensions announced as part of a mutual agreement or deal between the United States and China will qualify.\n\nAny qualifying action announced within this market\u2019s time frame will count, regardless of whether or when the tariff reduction, removal, or suspension goes into effect.\n\nThis market\u2019s primary resolution source will be official information from the Trump administration; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-trump-announce-by-may-22-dnHPwUKytUMR.jpg",
+            "yes_token_id": "67500088822425193611028555717491802967214637594198331061571697869465035016178",
+            "yes_probability": 0.41,
+            "yes_best_bid": 0.34,
+            "yes_best_ask": 0.41,
+            "yes_spread": 0.06999999999999995,
+            "no_token_id": "39934818650392653302435843762090475578361428023990701131439493646151563643962",
+            "no_probability": 0.66,
+            "no_best_bid": 0.59,
+            "no_best_ask": 0.66,
+            "no_spread": 0.07000000000000006,
+            "volume": 39366.000172129985,
+            "liquidity": 76571.76000000001,
+            "neg_risk": false,
+            "end_date": "2026-05-22T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Official agreement to reduce levies = direct signal for tariff reduction.",
+            "event_id": "453131",
+            "event_title": "Trump-Xi Summit: What will Trump announce by May 22?",
+            "event_slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "detected_yes_price": 0.21,
+            "detected_no_price": 0.85,
+            "detected_at": 1778934151302,
+            "highest_price_change": 0.9523809523809523,
+            "highest_yes_price": 0.41,
+            "highest_no_price": 0.85,
+            "first_moved_at": 1778934169791,
+            "moved_side": "yes",
+            "peaked_at": 1778966979335
+          }
+        ],
+        "topics": [
+          "ai-tech"
+        ],
+        "categories": [
+          "tech",
+          "climate"
+        ]
+      },
+      "related_market": {
+        "id": "2169751",
+        "slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+        "condition_id": "0x0cfac875e3fa84e292a97256b74432c236904d1a3e46fe8b489978122bdc663b",
+        "title": "Tariff Reduction",
+        "question": "Will Trump announce a tariff reduction on China?",
+        "description": "This market will resolve to \u201cYes\u201d if Donald Trump or the Trump administration announces a reduction, removal, or suspension of any existing tariffs on China between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nOnly tariff reductions specifically announced in relation to China, goods from China, or a specific set of countries including China will qualify. For example, an announced reduction in global tariffs will not count toward this market\u2019s resolution.\n\nOnly definitive announcements qualify. Suggestions, negotiations, expressions of openness, or other non-definitive statements will not qualify.\n\nTariff reductions, removals, or suspensions announced as part of a mutual agreement or deal between the United States and China will qualify.\n\nAny qualifying action announced within this market\u2019s time frame will count, regardless of whether or when the tariff reduction, removal, or suspension goes into effect.\n\nThis market\u2019s primary resolution source will be official information from the Trump administration; however, a consensus of credible reporting may also be used.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-trump-announce-by-may-22-dnHPwUKytUMR.jpg",
+        "yes_token_id": "67500088822425193611028555717491802967214637594198331061571697869465035016178",
+        "yes_probability": 0.41,
+        "yes_best_bid": 0.34,
+        "yes_best_ask": 0.41,
+        "yes_spread": 0.06999999999999995,
+        "no_token_id": "39934818650392653302435843762090475578361428023990701131439493646151563643962",
+        "no_probability": 0.66,
+        "no_best_bid": 0.59,
+        "no_best_ask": 0.66,
+        "no_spread": 0.07000000000000006,
+        "volume": 39366.000172129985,
+        "liquidity": 76571.76000000001,
+        "neg_risk": false,
+        "end_date": "2026-05-22T00:00:00Z",
+        "categories": [
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 9,
+        "impact_level": "critical",
+        "impact_reason": "Official agreement to reduce levies = direct signal for tariff reduction.",
+        "event_id": "453131",
+        "event_title": "Trump-Xi Summit: What will Trump announce by May 22?",
+        "event_slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+        "detected_yes_price": 0.21,
+        "detected_no_price": 0.85,
+        "detected_at": 1778934151302,
+        "highest_price_change": 0.9523809523809523,
+        "highest_yes_price": 0.41,
+        "highest_no_price": 0.85,
+        "first_moved_at": 1778934169791,
+        "moved_side": "yes",
+        "peaked_at": 1778966979335
+      },
+      "_scraped_at": "2026-05-16T22:37:22.282124+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 2,
+      "feed_item": {
+        "id": "6bcbab4a-d27a-4569-958d-1964fce28466",
+        "timestamp": 1778947920000,
+        "tweet": {
+          "feed_item_id": "6bcbab4a-d27a-4569-958d-1964fce28466",
+          "post_id": "2055682688225534413",
+          "post_type": "tweet",
+          "created_at": 1778947920000,
+          "user": {
+            "uid": "1891490382",
+            "handle": "nexta_tv",
+            "display_name": "NEXTA",
+            "pfp": "https://pbs.twimg.com/profile_images/1514923008707768321/hL4PN7Hf_normal.jpg"
+          },
+          "tags": [
+            "politics"
+          ],
+          "body": "\ud83c\udde8\ud83c\uddf3\ud83c\uddfa\ud83c\uddf8 China and the United States have agreed to mutually reduce tariffs According to Bloomberg, after talks between Trump and Xi Jinping, the two sides agreed on measures to expand trade, including in the agricultural sector. They are also discussing lowering tariffs on certain\u2026",
+          "link": "https://twitter.com/nexta_tv/status/2055682688225534413",
+          "attachments": [
+            {
+              "kind": "photo",
+              "src": "https://pbs.twimg.com/media/HIc-3PIWIAAqEYM.jpg"
+            }
+          ]
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "US",
+        "countries": [
+          "US",
+          "CN"
+        ],
+        "related_markets": [
+          {
+            "id": "2169751",
+            "slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "condition_id": "0x0cfac875e3fa84e292a97256b74432c236904d1a3e46fe8b489978122bdc663b",
+            "title": "Tariff Reduction",
+            "question": "Will Trump announce a tariff reduction on China?",
+            "description": "This market will resolve to \u201cYes\u201d if Donald Trump or the Trump administration announces a reduction, removal, or suspension of any existing tariffs on China between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nOnly tariff reductions specifically announced in relation to China, goods from China, or a specific set of countries including China will qualify. For example, an announced reduction in global tariffs will not count toward this market\u2019s resolution.\n\nOnly definitive announcements qualify. Suggestions, negotiations, expressions of openness, or other non-definitive statements will not qualify.\n\nTariff reductions, removals, or suspensions announced as part of a mutual agreement or deal between the United States and China will qualify.\n\nAny qualifying action announced within this market\u2019s time frame will count, regardless of whether or when the tariff reduction, removal, or suspension goes into effect.\n\nThis market\u2019s primary resolution source will be official information from the Trump administration; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-trump-announce-by-may-22-dnHPwUKytUMR.jpg",
+            "yes_token_id": "67500088822425193611028555717491802967214637594198331061571697869465035016178",
+            "yes_probability": 0.41,
+            "yes_best_bid": 0.34,
+            "yes_best_ask": 0.41,
+            "yes_spread": 0.06999999999999995,
+            "no_token_id": "39934818650392653302435843762090475578361428023990701131439493646151563643962",
+            "no_probability": 0.66,
+            "no_best_bid": 0.59,
+            "no_best_ask": 0.66,
+            "no_spread": 0.07000000000000006,
+            "volume": 39366.000172129985,
+            "liquidity": 76571.76000000001,
+            "neg_risk": false,
+            "end_date": "2026-05-22T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Agreement to reduce tariffs directly supports the market outcome (1 hop)",
+            "event_id": "453131",
+            "event_title": "Trump-Xi Summit: What will Trump announce by May 22?",
+            "event_slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "detected_yes_price": 0.54,
+            "detected_no_price": 0.5700000000000001,
+            "detected_at": 1778947944807,
+            "highest_price_change": 0.22807017543859628,
+            "highest_yes_price": 0.54,
+            "highest_no_price": 0.7,
+            "first_moved_at": 1778964957733,
+            "moved_side": "no",
+            "peaked_at": 1778965371213
+          },
+          {
+            "id": "2169752",
+            "slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "condition_id": "0x99067da61a6adbd81a774a2171a692c2bc0b1d79339010892dd0122700d07c27",
+            "title": "Taiwan Arms Sales Halt",
+            "question": "Will Trump announce a Taiwan arms sales halt?",
+            "description": "This market will resolve to \u201cYes\u201d if Donald Trump or the Trump administration announces a halt, suspension, cancellation, or prohibition on any arms sales or military equipment transfers to Taiwan between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA qualifying announcement must specifically refer to the transfer of arms, weapons, munitions, military equipment, or substantially equivalent military goods from the United States to Taiwan. A qualifying announcement may apply to all such transfers to Taiwan or only to specified categories of arms, weapons or military equipment.\n\nOnly definitive announcements will qualify. Suggestions, negotiations, expressions of openness, or other non-definitive statements will not qualify.\n\nHalts, suspensions, cancellations, or prohibitions on arms sales or military equipment transfers announced as part of a mutual agreement or deal between the United States and China will qualify.\n\nAny qualifying announcement within this market\u2019s time frame will count, regardless of whether or when the announced action goes into effect.\n\nThe primary resolution source will be official information from Donald Trump and the Trump administration; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-trump-announce-by-may-22-dnHPwUKytUMR.jpg",
+            "yes_token_id": "12696183769670650585238277582760699135831921057660227739726388031486155955465",
+            "yes_probability": 0.033,
+            "yes_best_bid": 0.031,
+            "yes_best_ask": 0.033,
+            "yes_spread": 0.0020000000000000018,
+            "no_token_id": "106403221719251808473953297553711993260828958956103654111905943616184896888632",
+            "no_probability": 0.969,
+            "no_best_bid": 0.967,
+            "no_best_ask": 0.969,
+            "no_spread": 0.0020000000000000018,
+            "volume": 15704.177659000004,
+            "liquidity": 219820.34999999992,
+            "neg_risk": false,
+            "end_date": "2026-05-22T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 4,
+            "impact_level": "low",
+            "impact_reason": "No direct evidence of arms sales halt; context is indirect (2 hops)",
+            "event_id": "453131",
+            "event_title": "Trump-Xi Summit: What will Trump announce by May 22?",
+            "event_slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "detected_yes_price": 0.042,
+            "detected_no_price": 0.964,
+            "detected_at": 1778947944807,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.042,
+            "highest_no_price": 0.964
+          },
+          {
+            "id": "2169753",
+            "slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "condition_id": "0x5ce3e24da24e081975a103ddaa0dc188f57dfed228108480bfb42e22b6e9d11d",
+            "title": "AI Export Restrictions Relief",
+            "question": "Will Trump announce AI export restrictions relief for China?",
+            "description": "This market will resolve to \u201cYes\u201d if Donald Trump or the Trump administration officially announces any reduction, suspension, exemption, or other relief from U.S. export restrictions on artificial intelligence chips, advanced computing chips, semiconductor manufacturing equipment, or other AI-related technology exports to China between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA qualifying announcement must explicitly indicate that US export restrictions on AI-related technologies will be suspended, reduced, exempted, or otherwise substantively relaxed.\n\nOnly definitive announcements will qualify. Suggestions, negotiations, expressions of openness, or other non-definitive statements will not qualify.\n\nReductions, suspensions, exemptions, or other relief from export restrictions announced as part of a mutual agreement or deal between the United States and China will qualify.\n\nAny qualifying announcement within this market\u2019s time frame will count, regardless of whether or when the announced relief goes into effect.\n\nThe primary resolution source will be official information from Donald Trump and the Trump administration; however, a consensus of credible reporting may also be used.\n",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-trump-announce-by-may-22-dnHPwUKytUMR.jpg",
+            "yes_token_id": "98449193408189623452787839425725033360729399962623376193481744101118434567662",
+            "yes_probability": 0.31,
+            "yes_best_bid": 0.26,
+            "yes_best_ask": 0.31,
+            "yes_spread": 0.04999999999999999,
+            "no_token_id": "21844880129793726181991388952938204162269164012853762646632439241973955936241",
+            "no_probability": 0.74,
+            "no_best_bid": 0.69,
+            "no_best_ask": 0.74,
+            "no_spread": 0.050000000000000044,
+            "volume": 16382.80577100002,
+            "liquidity": 43916.01000000001,
+            "neg_risk": false,
+            "end_date": "2026-05-22T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 4,
+            "impact_level": "low",
+            "impact_reason": "No direct evidence of AI export restrictions relief; context is indirect (2 hops)",
+            "event_id": "453131",
+            "event_title": "Trump-Xi Summit: What will Trump announce by May 22?",
+            "event_slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "detected_yes_price": 0.24,
+            "detected_no_price": 0.85,
+            "detected_at": 1778947944807,
+            "highest_price_change": 0.6666666666666669,
+            "highest_yes_price": 0.4,
+            "highest_no_price": 0.85,
+            "first_moved_at": 1778948011765,
+            "moved_side": "yes",
+            "peaked_at": 1778965161832
+          },
+          {
+            "id": "2169754",
+            "slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "condition_id": "0x48c7603bb331cb47e78951840fcc3b1ade6ae5dcf65dd86d75fe0a28476b9383",
+            "title": "New Sanctions",
+            "question": "Will Trump announce new sanctions on China?",
+            "description": "This market will resolve to \"Yes\" if Donald Trump or the Trump administration officially announces any new sanctions of any form against China between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nSanctions could include measures like new or increased tariffs, trade restrictions, financial penalties, diplomatic expulsions, travel bans, restrictions on specific individuals, or any other actions that are commonly recognized as sanctions.\n\nSanctions against Chinese citizens or entities which do not directly target the Chinese state or members of the Chinese government will not qualify.\n\nOnly definitive announcements will qualify. Suggestions, negotiations, expressions of openness, or other non-definitive statements will not qualify.\n\nAny qualifying announcement within this market\u2019s time frame will count, regardless of when or whether or when the announced sanctions go into effect.\n\nThe primary resolution source will be official information from Donald Trump and the Trump administration; however, a consensus of credible reporting may also be used.\n",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-trump-announce-by-may-22-dnHPwUKytUMR.jpg",
+            "yes_token_id": "61522526389624979367217469970880931098020438007692405466058187866328654994236",
+            "yes_probability": 0.009,
+            "yes_best_bid": 0.005,
+            "yes_best_ask": 0.009,
+            "yes_spread": 0.003999999999999999,
+            "no_token_id": "46271690935673621482998570783523983954694025492513625692598181097529937418559",
+            "no_probability": 0.995,
+            "no_best_bid": 0.991,
+            "no_best_ask": 0.995,
+            "no_spread": 0.0040000000000000036,
+            "volume": 26734.360633999997,
+            "liquidity": 213731.48999999993,
+            "neg_risk": false,
+            "end_date": "2026-05-22T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 4,
+            "impact_level": "low",
+            "impact_reason": "No direct evidence of new sanctions; context is indirect (2 hops)",
+            "event_id": "453131",
+            "event_title": "Trump-Xi Summit: What will Trump announce by May 22?",
+            "event_slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "detected_yes_price": 0.009,
+            "detected_no_price": 0.995,
+            "detected_at": 1778947944807,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.009,
+            "highest_no_price": 0.995
+          }
+        ],
+        "topics": [
+          "ai-tech",
+          "trump-tariffs"
+        ],
+        "categories": [
+          "tech",
+          "economy"
+        ]
+      },
+      "related_market": {
+        "id": "2169753",
+        "slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+        "condition_id": "0x5ce3e24da24e081975a103ddaa0dc188f57dfed228108480bfb42e22b6e9d11d",
+        "title": "AI Export Restrictions Relief",
+        "question": "Will Trump announce AI export restrictions relief for China?",
+        "description": "This market will resolve to \u201cYes\u201d if Donald Trump or the Trump administration officially announces any reduction, suspension, exemption, or other relief from U.S. export restrictions on artificial intelligence chips, advanced computing chips, semiconductor manufacturing equipment, or other AI-related technology exports to China between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA qualifying announcement must explicitly indicate that US export restrictions on AI-related technologies will be suspended, reduced, exempted, or otherwise substantively relaxed.\n\nOnly definitive announcements will qualify. Suggestions, negotiations, expressions of openness, or other non-definitive statements will not qualify.\n\nReductions, suspensions, exemptions, or other relief from export restrictions announced as part of a mutual agreement or deal between the United States and China will qualify.\n\nAny qualifying announcement within this market\u2019s time frame will count, regardless of whether or when the announced relief goes into effect.\n\nThe primary resolution source will be official information from Donald Trump and the Trump administration; however, a consensus of credible reporting may also be used.\n",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-trump-announce-by-may-22-dnHPwUKytUMR.jpg",
+        "yes_token_id": "98449193408189623452787839425725033360729399962623376193481744101118434567662",
+        "yes_probability": 0.31,
+        "yes_best_bid": 0.26,
+        "yes_best_ask": 0.31,
+        "yes_spread": 0.04999999999999999,
+        "no_token_id": "21844880129793726181991388952938204162269164012853762646632439241973955936241",
+        "no_probability": 0.74,
+        "no_best_bid": 0.69,
+        "no_best_ask": 0.74,
+        "no_spread": 0.050000000000000044,
+        "volume": 16382.80577100002,
+        "liquidity": 43916.01000000001,
+        "neg_risk": false,
+        "end_date": "2026-05-22T00:00:00Z",
+        "categories": [
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 4,
+        "impact_level": "low",
+        "impact_reason": "No direct evidence of AI export restrictions relief; context is indirect (2 hops)",
+        "event_id": "453131",
+        "event_title": "Trump-Xi Summit: What will Trump announce by May 22?",
+        "event_slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+        "detected_yes_price": 0.24,
+        "detected_no_price": 0.85,
+        "detected_at": 1778947944807,
+        "highest_price_change": 0.6666666666666669,
+        "highest_yes_price": 0.4,
+        "highest_no_price": 0.85,
+        "first_moved_at": 1778948011765,
+        "moved_side": "yes",
+        "peaked_at": 1778965161832
+      },
+      "_scraped_at": "2026-05-16T22:37:22.282124+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 3,
+      "feed_item": {
+        "id": "7d558b6c-4ff9-4927-8018-23546fa05869",
+        "timestamp": 1778943285000,
+        "tweet": {
+          "feed_item_id": "7d558b6c-4ff9-4927-8018-23546fa05869",
+          "post_id": "2055663248536391783",
+          "post_type": "tweet",
+          "created_at": 1778943285000,
+          "user": {
+            "uid": "16973333",
+            "handle": "Independent",
+            "display_name": "The Independent",
+            "pfp": "https://pbs.twimg.com/profile_images/1500085652309917697/C6VhBAcV_normal.jpg"
+          },
+          "tags": [
+            "world"
+          ],
+          "body": "BREAKING | Wes Streeting launches Labour leadership bid with call to rejoin EU https://trib.al/cG8rlD0",
+          "link": "https://twitter.com/Independent/status/2055663248536391783"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "related_markets": [
+          {
+            "id": "2252168",
+            "slug": "candidates-in-next-labour-leadership-election",
+            "condition_id": "0x7aa20656cfaabda288e3d94c1db790f1a6e4ad0f7b277403df976f0d44cd1c94",
+            "title": "Wes Streeting",
+            "question": "Will Wes Streeting be a candidate in the next Labour Party leadership election?",
+            "description": "This market will resolve to \u201cYes\u201d if the listed individual is an official candidate in the next United Kingdom Labour Party leadership election by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\n\u201cOfficial candidate\u201d refers to the listed individual satisfying all applicable requirements and being officially confirmed by the Labour Party, or a consensus of credible reporting, as a candidate on the ballot for the next Labour Party leadership election. Seeking nominations, announcing an intention to run, or being reported as a potential candidate will not qualify unless the individual is officially confirmed as a candidate on the ballot.\n\nIf a Labour Party leadership election occurs, or the final candidates are confirmed, and the listed individual is not included as a candidate, this market will resolve to \u201cNo\u201d. If no such election is scheduled, or the listed individual is not officially confirmed as a candidate, by December 31, 2026, 11:59 PM ET, this market will resolve to \u201cNo\u201d.\n\nIf the listed individual becomes the next leader of the Labour Party without any competitive ballot election, that will suffice for a \u201cYes\u201d resolution.\n\nThe primary resolution source for this market will be official information from the United Kingdom Labour Party; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/candidates-in-next-labour-leadership-election-Z7PIZqj6ex0e.jpg",
+            "yes_token_id": "79200448588320533261504011771997158370560109271758598699327865855191388144506",
+            "yes_probability": 0.75,
+            "yes_best_bid": 0.68,
+            "yes_best_ask": 0.75,
+            "yes_spread": 0.06999999999999995,
+            "no_token_id": "46191686458509944298331497664426460686463608567119819924920949813852655075942",
+            "no_probability": 0.32,
+            "no_best_bid": 0.25,
+            "no_best_ask": 0.32,
+            "no_spread": 0.07,
+            "volume": 3375.3151058800004,
+            "liquidity": 61938.279999999984,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Streeting's announcement directly indicates he will be a candidate.",
+            "event_id": "481681",
+            "event_title": "Candidates in next Labour leadership election?",
+            "event_slug": "candidates-in-next-labour-leadership-election",
+            "detected_yes_price": 0.69,
+            "detected_no_price": 0.37,
+            "detected_at": 1778943309693,
+            "highest_price_change": 0.4324324324324325,
+            "highest_yes_price": 0.75,
+            "highest_no_price": 0.53,
+            "first_moved_at": 1778943316388,
+            "moved_side": "no",
+            "peaked_at": 1778966645664
+          }
+        ],
+        "topics": null,
+        "categories": [
+          "world"
+        ]
+      },
+      "related_market": {
+        "id": "2252168",
+        "slug": "candidates-in-next-labour-leadership-election",
+        "condition_id": "0x7aa20656cfaabda288e3d94c1db790f1a6e4ad0f7b277403df976f0d44cd1c94",
+        "title": "Wes Streeting",
+        "question": "Will Wes Streeting be a candidate in the next Labour Party leadership election?",
+        "description": "This market will resolve to \u201cYes\u201d if the listed individual is an official candidate in the next United Kingdom Labour Party leadership election by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\n\u201cOfficial candidate\u201d refers to the listed individual satisfying all applicable requirements and being officially confirmed by the Labour Party, or a consensus of credible reporting, as a candidate on the ballot for the next Labour Party leadership election. Seeking nominations, announcing an intention to run, or being reported as a potential candidate will not qualify unless the individual is officially confirmed as a candidate on the ballot.\n\nIf a Labour Party leadership election occurs, or the final candidates are confirmed, and the listed individual is not included as a candidate, this market will resolve to \u201cNo\u201d. If no such election is scheduled, or the listed individual is not officially confirmed as a candidate, by December 31, 2026, 11:59 PM ET, this market will resolve to \u201cNo\u201d.\n\nIf the listed individual becomes the next leader of the Labour Party without any competitive ballot election, that will suffice for a \u201cYes\u201d resolution.\n\nThe primary resolution source for this market will be official information from the United Kingdom Labour Party; however, a consensus of credible reporting may also be used.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/candidates-in-next-labour-leadership-election-Z7PIZqj6ex0e.jpg",
+        "yes_token_id": "79200448588320533261504011771997158370560109271758598699327865855191388144506",
+        "yes_probability": 0.75,
+        "yes_best_bid": 0.68,
+        "yes_best_ask": 0.75,
+        "yes_spread": 0.06999999999999995,
+        "no_token_id": "46191686458509944298331497664426460686463608567119819924920949813852655075942",
+        "no_probability": 0.32,
+        "no_best_bid": 0.25,
+        "no_best_ask": 0.32,
+        "no_spread": 0.07,
+        "volume": 3375.3151058800004,
+        "liquidity": 61938.279999999984,
+        "neg_risk": false,
+        "end_date": "2026-12-31T00:00:00Z",
+        "categories": [
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Streeting's announcement directly indicates he will be a candidate.",
+        "event_id": "481681",
+        "event_title": "Candidates in next Labour leadership election?",
+        "event_slug": "candidates-in-next-labour-leadership-election",
+        "detected_yes_price": 0.69,
+        "detected_no_price": 0.37,
+        "detected_at": 1778943309693,
+        "highest_price_change": 0.4324324324324325,
+        "highest_yes_price": 0.75,
+        "highest_no_price": 0.53,
+        "first_moved_at": 1778943316388,
+        "moved_side": "no",
+        "peaked_at": 1778966645664
+      },
+      "_scraped_at": "2026-05-16T22:37:22.282124+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 4,
+      "feed_item": {
+        "id": "20f6a129-d3e8-46c6-8a16-e36e57669279",
+        "timestamp": 1778960101000,
+        "tweet": {
+          "feed_item_id": "20f6a129-d3e8-46c6-8a16-e36e57669279",
+          "post_id": "2055733779860222029",
+          "post_type": "tweet",
+          "created_at": 1778960101000,
+          "user": {
+            "uid": "34713362",
+            "handle": "business",
+            "display_name": "Bloomberg",
+            "pfp": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "Brazilian President Luiz Inacio Lula da Silva and right-wing Senator Flavio Bolsonaro were tied in a hypothetical runoff, according to a Datafolha poll of voter preferences for the country\u2019s election in October. https://www.bloomberg.com/news/articles/2026-05-16/bolsonaro-tied-with-lula-in-largely-pre-vorcaro-datafolha-poll?taid=6a08c6e532982f000154c4b2&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+          "link": "https://twitter.com/business/status/2055733779860222029"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "BR",
+        "countries": [
+          "BR"
+        ],
+        "related_markets": [
+          {
+            "id": "1366007",
+            "slug": "brazil-presidential-election-first-round-margin-of-victory",
+            "condition_id": "0x5d5b8feb963ddcc0f4688f7ac0c0d375f99945b7a07155d60cd1a306c6b3054b",
+            "title": "Lula da Silva <5%",
+            "question": "Will Luiz In\u00e1cio Lula da Silva win the first round of the 2026 Brazilian presidential election by less than 5%?",
+            "description": "A presidential election is scheduled to take place in Brazil on October 4, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the first round of the next Brazil Presidential Election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThis market will resolve based on the official vote count once the vote count has been made official.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.\n\nIf the result of this election isn't known definitively by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., https://dadosabertos.tse.jus.br/).",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election-reTil6nEVB1J.jpg",
+            "yes_token_id": "111141743875022425014082366328706246366536998743881258465740846069926282242834",
+            "yes_probability": 0.47,
+            "yes_best_bid": 0.28,
+            "yes_best_ask": 0.47,
+            "yes_spread": 0.18999999999999995,
+            "no_token_id": "73197386422190855683808847899890112720383354193439504968265722423178479955299",
+            "no_probability": 0.72,
+            "no_best_bid": 0.53,
+            "no_best_ask": 0.72,
+            "no_spread": 0.18999999999999995,
+            "volume": 2923.4047139999993,
+            "liquidity": 106237.61000000003,
+            "neg_risk": true,
+            "end_date": "2026-10-04T00:00:00Z",
+            "categories": [
+              "world",
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Poll indicates Lula's competitive position for a close win.",
+            "event_id": "205029",
+            "event_title": "Brazil Presidential Election First Round: Margin of Victory",
+            "event_slug": "brazil-presidential-election-first-round-margin-of-victory",
+            "detected_yes_price": 0.4,
+            "detected_no_price": 0.76,
+            "detected_at": 1778960154567,
+            "highest_price_change": 0.4249999999999998,
+            "highest_yes_price": 0.57,
+            "highest_no_price": 0.77,
+            "first_moved_at": 1778960157037,
+            "moved_side": "yes",
+            "peaked_at": 1778970938500
+          },
+          {
+            "id": "1366011",
+            "slug": "brazil-presidential-election-first-round-margin-of-victory",
+            "condition_id": "0x25966b196ffc1682fc77df0298784831a60aea8abe03b9aa4fc219d1422feb9f",
+            "title": "Fl\u00e1vio Bolsonaro <5%",
+            "question": "Will Fl\u00e1vio Bolsonaro win the first round of the 2026 Brazilian presidential election by less than 5%?",
+            "description": "A presidential election is scheduled to take place in Brazil on October 4, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the first round of the next Brazil Presidential Election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThis market will resolve based on the official vote count once the vote count has been made official.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.\n\nIf the result of this election isn't known definitively by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., https://dadosabertos.tse.jus.br/).",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election-LUNiqIvy01pf.jpg",
+            "yes_token_id": "94495166556994695319220591877877326867271103412306477867919432683718476975192",
+            "yes_probability": 0.19,
+            "yes_best_bid": 0.15,
+            "yes_best_ask": 0.19,
+            "yes_spread": 0.04000000000000001,
+            "no_token_id": "113360269013551492694108876383291795836420539790876926045774589578082333933690",
+            "no_probability": 0.85,
+            "no_best_bid": 0.81,
+            "no_best_ask": 0.85,
+            "no_spread": 0.039999999999999925,
+            "volume": 4026.048191,
+            "liquidity": 180516.86000000002,
+            "neg_risk": true,
+            "end_date": "2026-10-04T00:00:00Z",
+            "categories": [
+              "world",
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Poll indicates Fl\u00e1vio Bolsonaro's competitive position for a close win.",
+            "event_id": "205029",
+            "event_title": "Brazil Presidential Election First Round: Margin of Victory",
+            "event_slug": "brazil-presidential-election-first-round-margin-of-victory",
+            "detected_yes_price": 0.19,
+            "detected_no_price": 0.85,
+            "detected_at": 1778960154567,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.19,
+            "highest_no_price": 0.85
+          },
+          {
+            "id": "1366009",
+            "slug": "brazil-presidential-election-first-round-margin-of-victory",
+            "condition_id": "0xd99603add7350a5ff33c8dc609ab0eaae2d5d18162bb00eeb63c38c81ae038f8",
+            "title": "Lula da Silva 10-15%",
+            "question": "Will Luiz In\u00e1cio Lula da Silva win the first round of the 2026 Brazilian presidential election by 10\u201315%?",
+            "description": "A presidential election is scheduled to take place in Brazil on October 4, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the first round of the next Brazil Presidential Election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThis market will resolve based on the official vote count once the vote count has been made official.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.\n\nIf the result of this election isn't known definitively by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., https://dadosabertos.tse.jus.br/).",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election-reTil6nEVB1J.jpg",
+            "yes_token_id": "111501008889215248446738380766334499893429002495174888541812674365305743816241",
+            "yes_probability": 0.116,
+            "yes_best_bid": 0.069,
+            "yes_best_ask": 0.116,
+            "yes_spread": 0.047,
+            "no_token_id": "68985689280964359721858876785601369759982303652640879035310084127715508408780",
+            "no_probability": 0.931,
+            "no_best_bid": 0.884,
+            "no_best_ask": 0.931,
+            "no_spread": 0.04700000000000004,
+            "volume": 2547.7332739999997,
+            "liquidity": 159962.05,
+            "neg_risk": true,
+            "end_date": "2026-10-04T00:00:00Z",
+            "categories": [
+              "world",
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Poll indicates Lula's competitive position for a close win.",
+            "event_id": "205029",
+            "event_title": "Brazil Presidential Election First Round: Margin of Victory",
+            "event_slug": "brazil-presidential-election-first-round-margin-of-victory",
+            "detected_yes_price": 0.073,
+            "detected_no_price": 0.931,
+            "detected_at": 1778960154567,
+            "highest_price_change": 1.0136986301369864,
+            "highest_yes_price": 0.147,
+            "highest_no_price": 0.931,
+            "first_moved_at": 1778968164722,
+            "moved_side": "yes",
+            "peaked_at": 1778969003245
+          },
+          {
+            "id": "1365854",
+            "slug": "brazil-presidential-election-first-round-2nd-place",
+            "condition_id": "0x8ee27c276a1bee094293751285d8a6697674b023196cb21fdd14bf3ca12f6ec0",
+            "title": "Luiz In\u00e1cio Lula da Silva",
+            "question": "Will Luiz In\u00e1cio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?",
+            "description": "A presidential election is scheduled to take place in Brazil on October 4, 2026.\n\nThis market will resolve according to the listed candidate who receives the second-most valid votes in the first round of this election.\n\nThe named candidates will be primarily ranked by the number of valid votes received in the specified election. If two or more candidates are tied on valid votes, ties will be broken by alphabetical order of the candidates' last names. This market will resolve to the candidate that occupies the second-highest finishing position after applying this ranking.\n\nIf the result of this election isn't known definitively by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., https://dadosabertos.tse.jus.br/).",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election-reTil6nEVB1J.jpg",
+            "yes_token_id": "109856098174983029722649567789098297237073018943808237804563416414463140161494",
+            "yes_probability": 0.16,
+            "yes_best_bid": 0.14,
+            "yes_best_ask": 0.16,
+            "yes_spread": 0.01999999999999999,
+            "no_token_id": "61962380735045871351352563947746037189767398069960776455040567750304235670037",
+            "no_probability": 0.86,
+            "no_best_bid": 0.84,
+            "no_best_ask": 0.86,
+            "no_spread": 0.020000000000000018,
+            "volume": 67127.06874700003,
+            "liquidity": 190408.52,
+            "neg_risk": true,
+            "end_date": "2026-10-04T00:00:00Z",
+            "categories": [
+              "politics",
+              "world",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Poll indicates Lula's competitive position for second place.",
+            "event_id": "204972",
+            "event_title": "Brazil Presidential Election First Round: 2nd Place",
+            "event_slug": "brazil-presidential-election-first-round-2nd-place",
+            "detected_yes_price": 0.16,
+            "detected_no_price": 0.86,
+            "detected_at": 1778960154567,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.16,
+            "highest_no_price": 0.86
+          },
+          {
+            "id": "1366008",
+            "slug": "brazil-presidential-election-first-round-margin-of-victory",
+            "condition_id": "0x5377b12dd060efd8e3597620f120648f1bf99452a95eb70374b128d9ca133227",
+            "title": "Lula da Silva 5-10%",
+            "question": "Will Luiz In\u00e1cio Lula da Silva win the first round of the 2026 Brazilian presidential election by 5\u201310%?",
+            "description": "A presidential election is scheduled to take place in Brazil on October 4, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the first round of the next Brazil Presidential Election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThis market will resolve based on the official vote count once the vote count has been made official.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.\n\nIf the result of this election isn't known definitively by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., https://dadosabertos.tse.jus.br/).",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election-reTil6nEVB1J.jpg",
+            "yes_token_id": "48407765042087399444287625227087734986428382872828112503518998286869389847258",
+            "yes_probability": 0.21,
+            "yes_best_bid": 0.15,
+            "yes_best_ask": 0.21,
+            "yes_spread": 0.06,
+            "no_token_id": "247047209822374154288211144964214527388236984575039338710647093931430457756",
+            "no_probability": 0.85,
+            "no_best_bid": 0.79,
+            "no_best_ask": 0.85,
+            "no_spread": 0.05999999999999994,
+            "volume": 6807.610564,
+            "liquidity": 180423.21999999997,
+            "neg_risk": true,
+            "end_date": "2026-10-04T00:00:00Z",
+            "categories": [
+              "world",
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Poll indicates Lula's competitive position for a close win.",
+            "event_id": "205029",
+            "event_title": "Brazil Presidential Election First Round: Margin of Victory",
+            "event_slug": "brazil-presidential-election-first-round-margin-of-victory",
+            "detected_yes_price": 0.21,
+            "detected_no_price": 0.85,
+            "detected_at": 1778960154567,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.21,
+            "highest_no_price": 0.85
+          }
+        ],
+        "topics": [
+          "ai-tech",
+          "ukraine-war",
+          "elon-musk"
+        ],
+        "categories": [
+          "geopolitics",
+          "tech",
+          "elections",
+          "politics"
+        ]
+      },
+      "related_market": {
+        "id": "1366007",
+        "slug": "brazil-presidential-election-first-round-margin-of-victory",
+        "condition_id": "0x5d5b8feb963ddcc0f4688f7ac0c0d375f99945b7a07155d60cd1a306c6b3054b",
+        "title": "Lula da Silva <5%",
+        "question": "Will Luiz In\u00e1cio Lula da Silva win the first round of the 2026 Brazilian presidential election by less than 5%?",
+        "description": "A presidential election is scheduled to take place in Brazil on October 4, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the first round of the next Brazil Presidential Election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThis market will resolve based on the official vote count once the vote count has been made official.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.\n\nIf the result of this election isn't known definitively by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., https://dadosabertos.tse.jus.br/).",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election-reTil6nEVB1J.jpg",
+        "yes_token_id": "111141743875022425014082366328706246366536998743881258465740846069926282242834",
+        "yes_probability": 0.47,
+        "yes_best_bid": 0.28,
+        "yes_best_ask": 0.47,
+        "yes_spread": 0.18999999999999995,
+        "no_token_id": "73197386422190855683808847899890112720383354193439504968265722423178479955299",
+        "no_probability": 0.72,
+        "no_best_bid": 0.53,
+        "no_best_ask": 0.72,
+        "no_spread": 0.18999999999999995,
+        "volume": 2923.4047139999993,
+        "liquidity": 106237.61000000003,
+        "neg_risk": true,
+        "end_date": "2026-10-04T00:00:00Z",
+        "categories": [
+          "world",
+          "elections",
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 9,
+        "impact_level": "critical",
+        "impact_reason": "Poll indicates Lula's competitive position for a close win.",
+        "event_id": "205029",
+        "event_title": "Brazil Presidential Election First Round: Margin of Victory",
+        "event_slug": "brazil-presidential-election-first-round-margin-of-victory",
+        "detected_yes_price": 0.4,
+        "detected_no_price": 0.76,
+        "detected_at": 1778960154567,
+        "highest_price_change": 0.4249999999999998,
+        "highest_yes_price": 0.57,
+        "highest_no_price": 0.77,
+        "first_moved_at": 1778960157037,
+        "moved_side": "yes",
+        "peaked_at": 1778970938500
+      },
+      "_scraped_at": "2026-05-16T22:37:22.282124+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 5,
+      "feed_item": {
+        "id": "8c01dd63-342c-4c53-b4d4-ac680dbff5ba",
+        "timestamp": 1778936585875,
+        "tweet": {
+          "feed_item_id": "8c01dd63-342c-4c53-b4d4-ac680dbff5ba",
+          "post_id": "2055635148339577256",
+          "post_type": "tweet",
+          "created_at": 1778936585875,
+          "user": {
+            "uid": "18856867",
+            "handle": "zerohedge",
+            "display_name": "zerohedge",
+            "pfp": "https://pbs.twimg.com/profile_images/72647502/tyler.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "China Confirms Boeing Jet Deal, Agrees To Cut Select Levies & Expand Agri Trade https://www.zerohedge.com/political/us-and-china-agree-establish-trade-and-investment-boards-trump-xi-summit-delivers-modest",
+          "link": "https://twitter.com/zerohedge/status/2055635148339577256"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "CN",
+        "countries": [
+          "CN",
+          "US"
+        ],
+        "related_markets": [
+          {
+            "id": "2233159",
+            "slug": "trump-xi-summit-what-will-china-announce-by-may-22",
+            "condition_id": "0xecbc0d8411219bcbf1601cd2d5dc6923f4d3497e5f23f3a45f888cf2ce306591",
+            "title": "Boeing Aircraft Purchase",
+            "question": "Will China announce a Boeing aircraft purchase by May 22?",
+            "description": "This market will resolve to \u201cYes\u201d if Xi Jinping, the Chinese government, any authorized representative of the Chinese government announces the purchase of at least one Boeing aircraft by the Chinese state or any Chinese company between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA qualifying announcement must explicitly indicate that the Chinese government or a Chinese company will purchase or order, or has definitively agreed to purchase or order, at least one Boeing aircraft. \n\nOnly definitive announcements will qualify. Suggestions, negotiations, expressions of openness, general support for diplomacy, or other non-definitive statements will not qualify.\n\nAny qualifying purchase or order announced within this market\u2019s time frame will count, regardless of whether or when the purchase is actually completed or the aircraft is delivered.\n\nThis market's primary resolution source will be official information from the Chinese government; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-china-announce-by-may-22-1GJoUL7Z-MV9.jpg",
+            "yes_token_id": "103097787537831973289425413752947547615552436095438625380801563481015162640230",
+            "yes_probability": 0.4,
+            "yes_best_bid": 0.37,
+            "yes_best_ask": 0.4,
+            "yes_spread": 0.030000000000000027,
+            "no_token_id": "62579117549553115440242998793368412125335518937522276717107848411983105442777",
+            "no_probability": 0.63,
+            "no_best_bid": 0.6,
+            "no_best_ask": 0.63,
+            "no_spread": 0.030000000000000027,
+            "volume": 72194.28289456984,
+            "liquidity": 302530.26,
+            "neg_risk": false,
+            "end_date": "2026-05-22T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Direct confirmation of Boeing deal = 1 hop to market.",
+            "event_id": "474670",
+            "event_title": "Trump-Xi Summit: What will China announce by May 22?",
+            "event_slug": "trump-xi-summit-what-will-china-announce-by-may-22",
+            "detected_yes_price": 0.52,
+            "detected_no_price": 0.51,
+            "detected_at": 1778936628658,
+            "highest_price_change": 0.2549019607843137,
+            "highest_yes_price": 0.52,
+            "highest_no_price": 0.64,
+            "first_moved_at": 1778936759346,
+            "moved_side": "no",
+            "peaked_at": 1778969228550
+          },
+          {
+            "id": "2236044",
+            "slug": "trump-xi-summit-what-will-china-announce-by-may-22",
+            "condition_id": "0xb275aaf74777d2ed7af289a836b8cb73df52eb927ddbc1552eed4e8cc0fc8d56",
+            "title": "U.S. Soybean Purchase",
+            "question": "Will China announce a U.S. soybean purchase by May 22?",
+            "description": "This market will resolve to \u201cYes\u201d if Xi Jinping, the Chinese government, or any authorized representative of the Chinese government announces the purchase of U.S. soybeans by the Chinese state or any Chinese company between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA qualifying announcement must explicitly indicate that the Chinese government or a Chinese company will purchase, or has definitively agreed to purchase, U.S. soybeans.\n\nOnly definitive announcements will qualify. Suggestions, negotiations, expressions of openness, general support for trade cooperation, or other non-definitive statements will not qualify.\n\nAny qualifying purchase announced within this market\u2019s time frame will count, regardless of whether or when the purchase is actually completed or the soybeans are delivered.\n\nThis market\u2019s primary resolution source will be official information from the Chinese government; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-china-announce-by-may-22-1GJoUL7Z-MV9.jpg",
+            "yes_token_id": "13960413715058757025830989657671845850784062663277234472660288917447152227214",
+            "yes_probability": 0.29,
+            "yes_best_bid": 0.23,
+            "yes_best_ask": 0.29,
+            "yes_spread": 0.05999999999999997,
+            "no_token_id": "45981256070290603227632461826642422364510374654250938757255660293624504573714",
+            "no_probability": 0.77,
+            "no_best_bid": 0.71,
+            "no_best_ask": 0.77,
+            "no_spread": 0.06000000000000005,
+            "volume": 22186.396838999943,
+            "liquidity": 64532.80000000001,
+            "neg_risk": false,
+            "end_date": "2026-05-22T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Agreement to expand agricultural trade = 1 hop to soybean purchase.",
+            "event_id": "474670",
+            "event_title": "Trump-Xi Summit: What will China announce by May 22?",
+            "event_slug": "trump-xi-summit-what-will-china-announce-by-may-22",
+            "detected_yes_price": 0.39,
+            "detected_no_price": 0.6699999999999999,
+            "detected_at": 1778936628658,
+            "highest_price_change": 0.14925373134328374,
+            "highest_yes_price": 0.39,
+            "highest_no_price": 0.77,
+            "first_moved_at": 1778937415932,
+            "moved_side": "no",
+            "peaked_at": 1778965051630
+          }
+        ],
+        "topics": null,
+        "categories": [
+          "world",
+          "politics",
+          "climate"
+        ]
+      },
+      "related_market": {
+        "id": "2233159",
+        "slug": "trump-xi-summit-what-will-china-announce-by-may-22",
+        "condition_id": "0xecbc0d8411219bcbf1601cd2d5dc6923f4d3497e5f23f3a45f888cf2ce306591",
+        "title": "Boeing Aircraft Purchase",
+        "question": "Will China announce a Boeing aircraft purchase by May 22?",
+        "description": "This market will resolve to \u201cYes\u201d if Xi Jinping, the Chinese government, any authorized representative of the Chinese government announces the purchase of at least one Boeing aircraft by the Chinese state or any Chinese company between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA qualifying announcement must explicitly indicate that the Chinese government or a Chinese company will purchase or order, or has definitively agreed to purchase or order, at least one Boeing aircraft. \n\nOnly definitive announcements will qualify. Suggestions, negotiations, expressions of openness, general support for diplomacy, or other non-definitive statements will not qualify.\n\nAny qualifying purchase or order announced within this market\u2019s time frame will count, regardless of whether or when the purchase is actually completed or the aircraft is delivered.\n\nThis market's primary resolution source will be official information from the Chinese government; however, a consensus of credible reporting may also be used.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-china-announce-by-may-22-1GJoUL7Z-MV9.jpg",
+        "yes_token_id": "103097787537831973289425413752947547615552436095438625380801563481015162640230",
+        "yes_probability": 0.4,
+        "yes_best_bid": 0.37,
+        "yes_best_ask": 0.4,
+        "yes_spread": 0.030000000000000027,
+        "no_token_id": "62579117549553115440242998793368412125335518937522276717107848411983105442777",
+        "no_probability": 0.63,
+        "no_best_bid": 0.6,
+        "no_best_ask": 0.63,
+        "no_spread": 0.030000000000000027,
+        "volume": 72194.28289456984,
+        "liquidity": 302530.26,
+        "neg_risk": false,
+        "end_date": "2026-05-22T00:00:00Z",
+        "categories": [
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 9,
+        "impact_level": "critical",
+        "impact_reason": "Direct confirmation of Boeing deal = 1 hop to market.",
+        "event_id": "474670",
+        "event_title": "Trump-Xi Summit: What will China announce by May 22?",
+        "event_slug": "trump-xi-summit-what-will-china-announce-by-may-22",
+        "detected_yes_price": 0.52,
+        "detected_no_price": 0.51,
+        "detected_at": 1778936628658,
+        "highest_price_change": 0.2549019607843137,
+        "highest_yes_price": 0.52,
+        "highest_no_price": 0.64,
+        "first_moved_at": 1778936759346,
+        "moved_side": "no",
+        "peaked_at": 1778969228550
+      },
+      "_scraped_at": "2026-05-16T22:37:22.282124+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "valid": false,
+      "_scraped_at": "2026-05-16T22:37:22.282124+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "global_tension_score": 38,
+      "global_tension_level": "GUARDED",
+      "countries": [
+        {
+          "country": "GB",
+          "count": 13,
+          "recent": [
+            {
+              "id": "ff19012d-07b7-4c59-a77c-e481cd79e628",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778958242286
+            },
+            {
+              "id": "cd21896a-18ca-4116-aca1-7368257a8721",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778961061987
+            },
+            {
+              "id": "ee4e5e9a-e7e1-43a4-b4e2-0258c2295769",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778968961302
+            },
+            {
+              "id": "6392d522-7d38-41c3-b17c-e3a58a8769a1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778954130675
+            },
+            {
+              "id": "00ce4087-878b-46cd-bc1f-44f3e5c137b4",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778950050667
+            },
+            {
+              "id": "564987d2-98a3-48c5-be42-9f599c689c2e",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1778968991518
+            },
+            {
+              "id": "5d9e2418-9331-4287-b412-11b71278aa21",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1778951790615
+            },
+            {
+              "id": "a3601253-8589-4818-92cd-899df046974a",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778955962356
+            },
+            {
+              "id": "f5cddbbe-cd2c-4a66-84e1-5560f60c247c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778968976298
+            },
+            {
+              "id": "e4c56590-ee36-4b38-a924-972d8dd7b947",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778965481225
+            },
+            {
+              "id": "b3798cf4-15fb-4de8-ba59-6e3785d6169a",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778951070479
+            },
+            {
+              "id": "442076fa-1586-43eb-b5c9-2feded041ceb",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778963401897
+            },
+            {
+              "id": "7b348caf-f1e2-486d-8dc8-57afda0e63ad",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778949901000
+            }
+          ],
+          "volume": 3292072.1482892344,
+          "critical_signals": 0,
+          "high_signals": 11,
+          "low_signals": 2
+        },
+        {
+          "country": "UA",
+          "count": 13,
+          "recent": [
+            {
+              "id": "ff19012d-07b7-4c59-a77c-e481cd79e628",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778958242286
+            },
+            {
+              "id": "cd21896a-18ca-4116-aca1-7368257a8721",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778961061987
+            },
+            {
+              "id": "ee4e5e9a-e7e1-43a4-b4e2-0258c2295769",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778968961302
+            },
+            {
+              "id": "6392d522-7d38-41c3-b17c-e3a58a8769a1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778954130675
+            },
+            {
+              "id": "00ce4087-878b-46cd-bc1f-44f3e5c137b4",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778950050667
+            },
+            {
+              "id": "564987d2-98a3-48c5-be42-9f599c689c2e",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1778968991518
+            },
+            {
+              "id": "5d9e2418-9331-4287-b412-11b71278aa21",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1778951790615
+            },
+            {
+              "id": "a3601253-8589-4818-92cd-899df046974a",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778955962356
+            },
+            {
+              "id": "f5cddbbe-cd2c-4a66-84e1-5560f60c247c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778968976298
+            },
+            {
+              "id": "e4c56590-ee36-4b38-a924-972d8dd7b947",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778965481225
+            },
+            {
+              "id": "b3798cf4-15fb-4de8-ba59-6e3785d6169a",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778951070479
+            },
+            {
+              "id": "442076fa-1586-43eb-b5c9-2feded041ceb",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778963401897
+            },
+            {
+              "id": "6717e67f-1f37-4a7d-ad08-862594750151",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778958122099
+            }
+          ],
+          "volume": 3486348.432555354,
+          "critical_signals": 0,
+          "high_signals": 11,
+          "low_signals": 2
+        },
+        {
+          "country": "RU",
+          "count": 8,
+          "recent": [
+            {
+              "id": "ff19012d-07b7-4c59-a77c-e481cd79e628",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778958242286
+            },
+            {
+              "id": "6392d522-7d38-41c3-b17c-e3a58a8769a1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778954130675
+            },
+            {
+              "id": "00ce4087-878b-46cd-bc1f-44f3e5c137b4",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778950050667
+            },
+            {
+              "id": "564987d2-98a3-48c5-be42-9f599c689c2e",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1778968991518
+            },
+            {
+              "id": "a3601253-8589-4818-92cd-899df046974a",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778955962356
+            },
+            {
+              "id": "f5cddbbe-cd2c-4a66-84e1-5560f60c247c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778968976298
+            },
+            {
+              "id": "b3798cf4-15fb-4de8-ba59-6e3785d6169a",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778951070479
+            },
+            {
+              "id": "6717e67f-1f37-4a7d-ad08-862594750151",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778958122099
+            }
+          ],
+          "volume": 999301.40591035,
+          "critical_signals": 0,
+          "high_signals": 7,
+          "low_signals": 1
+        },
+        {
+          "country": "IL",
+          "count": 8,
+          "recent": [
+            {
+              "id": "a4e0591e-6814-4a6a-a470-4531016945de",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778956204646
+            },
+            {
+              "id": "f0fafa94-a7bd-46ac-a34e-57077b9885c6",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778953961000
+            },
+            {
+              "id": "e6e8fd16-628d-4e91-ab5f-79f9670249a0",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778964061871
+            },
+            {
+              "id": "9609a463-0906-4af6-8fc6-67576205018d",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778952145173
+            },
+            {
+              "id": "f9cc4683-5a79-4c26-bc12-e1c36cf42f6b",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778953976238
+            },
+            {
+              "id": "bf5ff545-58f1-4326-a09b-7ea16d8b7970",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778952228751
+            },
+            {
+              "id": "780263af-8629-40c9-8e94-708997a8c68d",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778952221267
+            },
+            {
+              "id": "b10372e1-4c81-4dfc-afe8-95cea155559c",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1778953953995
+            }
+          ],
+          "volume": 2694333.2411450176,
+          "critical_signals": 1,
+          "high_signals": 7,
+          "low_signals": 0
+        },
+        {
+          "country": "IR",
+          "count": 5,
+          "recent": [
+            {
+              "id": "f0fafa94-a7bd-46ac-a34e-57077b9885c6",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778953961000
+            },
+            {
+              "id": "8eafd618-f608-4f6a-9df7-6c81779476b0",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778960102027
+            },
+            {
+              "id": "f9cc4683-5a79-4c26-bc12-e1c36cf42f6b",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778953976238
+            },
+            {
+              "id": "9dcfbfd3-5455-4fac-ae9b-846e8c85dc43",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778960812407
+            },
+            {
+              "id": "ea7a3222-5a47-45bc-8a66-964e425f440a",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1778960012026
+            }
+          ],
+          "volume": 31333927.1933455,
+          "critical_signals": 0,
+          "high_signals": 4,
+          "low_signals": 1
+        },
+        {
+          "country": "PS",
+          "count": 5,
+          "recent": [
+            {
+              "id": "a4e0591e-6814-4a6a-a470-4531016945de",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778956204646
+            },
+            {
+              "id": "9609a463-0906-4af6-8fc6-67576205018d",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778952145173
+            },
+            {
+              "id": "bf5ff545-58f1-4326-a09b-7ea16d8b7970",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778952228751
+            },
+            {
+              "id": "780263af-8629-40c9-8e94-708997a8c68d",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778952221267
+            },
+            {
+              "id": "b10372e1-4c81-4dfc-afe8-95cea155559c",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1778953953995
+            }
+          ],
+          "volume": 685102.3184260001,
+          "critical_signals": 1,
+          "high_signals": 4,
+          "low_signals": 0
+        },
+        {
+          "country": "US",
+          "count": 2,
+          "recent": [
+            {
+              "id": "9dcfbfd3-5455-4fac-ae9b-846e8c85dc43",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778960812407
+            },
+            {
+              "id": "29c346b6-2fbb-4515-a576-d30408766301",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1778953272285
+            }
+          ],
+          "volume": 28700120.46651661,
+          "critical_signals": 1,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "MD",
+          "count": 2,
+          "recent": [
+            {
+              "id": "6392d522-7d38-41c3-b17c-e3a58a8769a1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778954130675
+            },
+            {
+              "id": "6717e67f-1f37-4a7d-ad08-862594750151",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778958122099
+            }
+          ],
+          "volume": 527608.6778693502,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "CN",
+          "count": 2,
+          "recent": [
+            {
+              "id": "9dcfbfd3-5455-4fac-ae9b-846e8c85dc43",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778960812407
+            },
+            {
+              "id": "29c346b6-2fbb-4515-a576-d30408766301",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1778953272285
+            }
+          ],
+          "volume": 28700120.46651661,
+          "critical_signals": 1,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "SA",
+          "count": 1,
+          "recent": [
+            {
+              "id": "b3798cf4-15fb-4de8-ba59-6e3785d6169a",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778951070479
+            }
+          ],
+          "volume": 318185.2220089999,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "BR",
+          "count": 1,
+          "recent": [
+            {
+              "id": "20f6a129-d3e8-46c6-8a16-e36e57669279",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1778960101000
+            }
+          ],
+          "volume": 83431.86549000003,
+          "critical_signals": 1,
+          "high_signals": 0,
+          "low_signals": 0
+        },
+        {
+          "country": "LB",
+          "count": 1,
+          "recent": [
+            {
+              "id": "e6e8fd16-628d-4e91-ab5f-79f9670249a0",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778964061871
+            }
+          ],
+          "volume": 96856.79649699978,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "CU",
+          "count": 1,
+          "recent": [
+            {
+              "id": "34516219-603f-4f1e-98d5-320e6f3cbea9",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1778967961473
+            }
+          ],
+          "volume": 2148530.0305800037,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "DE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "564987d2-98a3-48c5-be42-9f599c689c2e",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1778968991518
+            }
+          ],
+          "volume": 64467.94791799996,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "LV",
+          "count": 1,
+          "recent": [
+            {
+              "id": "e4c56590-ee36-4b38-a924-972d8dd7b947",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778965481225
+            }
+          ],
+          "volume": 533870.5299100004,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "BE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "564987d2-98a3-48c5-be42-9f599c689c2e",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1778968991518
+            }
+          ],
+          "volume": 64467.94791799996,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        }
+      ],
+      "_scraped_at": "2026-05-16T22:37:22.282124+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
