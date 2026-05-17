@@ -1,0 +1,1568 @@
+{
+  "scraped_at": "2026-05-17T05:59:35.364204+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 7,
+  "items": [
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "de5031c4-d178-49ea-907c-32e148dd5300",
+        "timestamp": 1778990057396,
+        "tweet": {
+          "feed_item_id": "de5031c4-d178-49ea-907c-32e148dd5300",
+          "post_id": "2055859424154263922",
+          "post_type": "tweet",
+          "created_at": 1778990057396,
+          "user": {
+            "uid": "3295423333",
+            "handle": "FirstSquawk",
+            "display_name": "First Squawk",
+            "pfp": "https://pbs.twimg.com/profile_images/1039778545738964992/6fl6RNN0.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "Trump-backed challenger defeats two-term Republican senator in primary-FT",
+          "link": "https://twitter.com/FirstSquawk/status/2055859424154263922"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "US",
+        "countries": [
+          "US"
+        ],
+        "related_markets": [
+          {
+            "id": "1068746",
+            "slug": "how-many-republican-house-incumbents-will-not-win-their-primary",
+            "condition_id": "0xc20bd18955fdcaea6f4f20c37d84d5388e91fc4638490ca4facf8be523dc6c13",
+            "title": "7-9",
+            "question": "Will Republican House incumbents not win in between seven and nine nominating elections in the 2026 cycle?",
+            "description": "The 2026 midterm elections are scheduled to be held on November 3, 2026, with congressional primaries running from March through September.\n\nThis market will resolve according to the number of Republican House incumbents who do not win their nominating election to move on to the general election as a result of the 2026 midterm primary elections.\n\nAn incumbent will be considered not to have won their election if they are not declared the winner of the election they sought, including if they withdraw, suspend, or otherwise leave the race at any point after officially registering as a candidate, regardless of the reason. Incumbents who do not officially register as candidates for reelection will not be considered.\n\nThis market will resolve based on the results of all House nominating elections, including party primaries, top-two or jungle primaries, and primaries for special elections, that are scheduled to occur between March 1 and September 30, 2026. If a required runoff for any such election or a subsequent qualifying round in a non-partisan primary system could change the market\u2019s outcome, the market will remain open until that contest is conclusively called by this market\u2019s resolution sources.\n\nA candidate's party will be determined by their ballot-listed or otherwise identifiable affiliation with that party at the time of their nominating election.\n\nMembers of the House of Representatives who are \"delegates\u201d or \u201cresident commissioners\u201d not chosen by the people of a state are not included for purposes of resolving this market.\n\nThe resolution source for this market will be the Associated Press, Fox News, and NBC. This market will resolve once all three sources have conclusively called all relevant nominating elections. If all three sources do not achieve consensus in calling the relevant races for this market, it will resolve based on official state certification of the nominating election results.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/republican-house-seats-after-the-2026-midterm-elections-_8A1652Vzmn2.png",
+            "yes_token_id": "89373461182969289579845172492872922158629123151223268658038449652837405119276",
+            "yes_probability": 0.607,
+            "yes_best_bid": 0.151,
+            "yes_best_ask": 0.607,
+            "yes_spread": 0.45599999999999996,
+            "no_token_id": "40380829381795973958306409949439163717944979125745463341977071152902853169349",
+            "no_probability": 0.849,
+            "no_best_bid": 0.393,
+            "no_best_ask": 0.849,
+            "no_spread": 0.45599999999999996,
+            "volume": 2829.703301,
+            "liquidity": 45543.27000000005,
+            "neg_risk": true,
+            "end_date": "",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 6,
+            "impact_level": "medium",
+            "impact_reason": "Incumbent defeat suggests increased risk for multiple Republican losses.",
+            "event_id": "133793",
+            "event_title": "How many Republican House Incumbents will not win their Primary? ",
+            "event_slug": "how-many-republican-house-incumbents-will-not-win-their-primary",
+            "detected_yes_price": 0.725,
+            "detected_no_price": 0.863,
+            "detected_at": 1778990082069,
+            "highest_price_change": 0.07586206896551731,
+            "highest_yes_price": 0.78,
+            "highest_no_price": 0.863,
+            "first_moved_at": 1778995294495,
+            "moved_side": "yes",
+            "peaked_at": 1778996141254
+          },
+          {
+            "id": "1068749",
+            "slug": "how-many-republican-house-incumbents-will-not-win-their-primary",
+            "condition_id": "0x9a0de7353469fc7af319897a8a494334b8a286d5cd8ec4b4edb6b3445a4b1597",
+            "title": ">15",
+            "question": "Will Republican House incumbents not win in more than fifteen nominating elections in the 2026 cycle?",
+            "description": "The 2026 midterm elections are scheduled to be held on November 3, 2026, with congressional primaries running from March through September.\n\nThis market will resolve according to the number of Republican House incumbents who do not win their nominating election to move on to the general election as a result of the 2026 midterm primary elections.\n\nAn incumbent will be considered not to have won their election if they are not declared the winner of the election they sought, including if they withdraw, suspend, or otherwise leave the race at any point after officially registering as a candidate, regardless of the reason. Incumbents who do not officially register as candidates for reelection will not be considered.\n\nThis market will resolve based on the results of all House nominating elections, including party primaries, top-two or jungle primaries, and primaries for special elections, that are scheduled to occur between March 1 and September 30, 2026. If a required runoff for any such election or a subsequent qualifying round in a non-partisan primary system could change the market\u2019s outcome, the market will remain open until that contest is conclusively called by this market\u2019s resolution sources.\n\nA candidate's party will be determined by their ballot-listed or otherwise identifiable affiliation with that party at the time of their nominating election.\n\nMembers of the House of Representatives who are \"delegates\u201d or \u201cresident commissioners\u201d not chosen by the people of a state are not included for purposes of resolving this market.\n\nThe resolution source for this market will be the Associated Press, Fox News, and NBC. This market will resolve once all three sources have conclusively called all relevant nominating elections. If all three sources do not achieve consensus in calling the relevant races for this market, it will resolve based on official state certification of the nominating election results.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/republican-house-seats-after-the-2026-midterm-elections-_8A1652Vzmn2.png",
+            "yes_token_id": "43697661106139132419773585187886106203320732906584708348798041358649329039252",
+            "yes_probability": 0.499,
+            "yes_best_bid": 0.234,
+            "yes_best_ask": 0.499,
+            "yes_spread": 0.265,
+            "no_token_id": "82448464534710566057881902879012276545801914494658997880647276477323315813986",
+            "no_probability": 0.766,
+            "no_best_bid": 0.501,
+            "no_best_ask": 0.766,
+            "no_spread": 0.265,
+            "volume": 1003.626418,
+            "liquidity": 42076.88999999999,
+            "neg_risk": true,
+            "end_date": "",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 6,
+            "impact_level": "medium",
+            "impact_reason": "Challenger victory suggests a trend that could lead to multiple losses.",
+            "event_id": "133793",
+            "event_title": "How many Republican House Incumbents will not win their Primary? ",
+            "event_slug": "how-many-republican-house-incumbents-will-not-win-their-primary",
+            "detected_yes_price": 0.225,
+            "detected_no_price": 0.9,
+            "detected_at": 1778990082069,
+            "highest_price_change": 1.2222222222222223,
+            "highest_yes_price": 0.5,
+            "highest_no_price": 0.9,
+            "first_moved_at": 1778990082171,
+            "moved_side": "yes",
+            "peaked_at": 1778990082171
+          },
+          {
+            "id": "1068744",
+            "slug": "how-many-republican-house-incumbents-will-not-win-their-primary",
+            "condition_id": "0x97d9efae9a1242a8a03dbcc185a8b86bd305d6d46b3f24ca1a4aca3fa9a6212e",
+            "title": "<3",
+            "question": "Will Republican House incumbents not win in fewer than three nominating elections in the 2026 cycle?",
+            "description": "The 2026 midterm elections are scheduled to be held on November 3, 2026, with congressional primaries running from March through September.\n\nThis market will resolve according to the number of Republican House incumbents who do not win their nominating election to move on to the general election as a result of the 2026 midterm primary elections.\n\nAn incumbent will be considered not to have won their election if they are not declared the winner of the election they sought, including if they withdraw, suspend, or otherwise leave the race at any point after officially registering as a candidate, regardless of the reason. Incumbents who do not officially register as candidates for reelection will not be considered.\n\nThis market will resolve based on the results of all House nominating elections, including party primaries, top-two or jungle primaries, and primaries for special elections, that are scheduled to occur between March 1 and September 30, 2026. If a required runoff for any such election or a subsequent qualifying round in a non-partisan primary system could change the market\u2019s outcome, the market will remain open until that contest is conclusively called by this market\u2019s resolution sources.\n\nA candidate's party will be determined by their ballot-listed or otherwise identifiable affiliation with that party at the time of their nominating election.\n\nMembers of the House of Representatives who are \"delegates\u201d or \u201cresident commissioners\u201d not chosen by the people of a state are not included for purposes of resolving this market.\n\nThe resolution source for this market will be the Associated Press, Fox News, and NBC. This market will resolve once all three sources have conclusively called all relevant nominating elections. If all three sources do not achieve consensus in calling the relevant races for this market, it will resolve based on official state certification of the nominating election results.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/republican-house-seats-after-the-2026-midterm-elections-_8A1652Vzmn2.png",
+            "yes_token_id": "104261134120343853622280944278231007806923775273920625091535282621751091388993",
+            "yes_probability": 0.003,
+            "yes_best_bid": 0.002,
+            "yes_best_ask": 0.003,
+            "yes_spread": 0.001,
+            "no_token_id": "108294337269786211232053551884711256636202429160499226202163015019758017901843",
+            "no_probability": 0.998,
+            "no_best_bid": 0.997,
+            "no_best_ask": 0.998,
+            "no_spread": 0.0010000000000000009,
+            "volume": 33965.111096,
+            "liquidity": 61325.079999999994,
+            "neg_risk": true,
+            "end_date": "",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Challenger defeating incumbent indicates potential for broader primary losses.",
+            "event_id": "133793",
+            "event_title": "How many Republican House Incumbents will not win their Primary? ",
+            "event_slug": "how-many-republican-house-incumbents-will-not-win-their-primary",
+            "detected_yes_price": 0.003,
+            "detected_no_price": 0.998,
+            "detected_at": 1778990082069,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.003,
+            "highest_no_price": 0.998
+          },
+          {
+            "id": "1068745",
+            "slug": "how-many-republican-house-incumbents-will-not-win-their-primary",
+            "condition_id": "0xfe9d1a32b46991e6895baece1bf6bb1467b814a28aefd6f33f13c6ba91b8d3c9",
+            "title": "4-6",
+            "question": "Will Republican House incumbents not win in between four and six nominating elections in the 2026 cycle?",
+            "description": "The 2026 midterm elections are scheduled to be held on November 3, 2026, with congressional primaries running from March through September.\n\nThis market will resolve according to the number of Republican House incumbents who do not win their nominating election to move on to the general election as a result of the 2026 midterm primary elections.\n\nAn incumbent will be considered not to have won their election if they are not declared the winner of the election they sought, including if they withdraw, suspend, or otherwise leave the race at any point after officially registering as a candidate, regardless of the reason. Incumbents who do not officially register as candidates for reelection will not be considered.\n\nThis market will resolve based on the results of all House nominating elections, including party primaries, top-two or jungle primaries, and primaries for special elections, that are scheduled to occur between March 1 and September 30, 2026. If a required runoff for any such election or a subsequent qualifying round in a non-partisan primary system could change the market\u2019s outcome, the market will remain open until that contest is conclusively called by this market\u2019s resolution sources.\n\nA candidate's party will be determined by their ballot-listed or otherwise identifiable affiliation with that party at the time of their nominating election.\n\nMembers of the House of Representatives who are \"delegates\u201d or \u201cresident commissioners\u201d not chosen by the people of a state are not included for purposes of resolving this market.\n\nThe resolution source for this market will be the Associated Press, Fox News, and NBC. This market will resolve once all three sources have conclusively called all relevant nominating elections. If all three sources do not achieve consensus in calling the relevant races for this market, it will resolve based on official state certification of the nominating election results.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/republican-house-seats-after-the-2026-midterm-elections-_8A1652Vzmn2.png",
+            "yes_token_id": "71990823545476172057397539228999083435242402644332688321711165550800328090716",
+            "yes_probability": 0.71,
+            "yes_best_bid": 0.204,
+            "yes_best_ask": 0.71,
+            "yes_spread": 0.506,
+            "no_token_id": "57979481369976477405471459370425139763472501428373244029900741691432131403521",
+            "no_probability": 0.796,
+            "no_best_bid": 0.29,
+            "no_best_ask": 0.796,
+            "no_spread": 0.506,
+            "volume": 9978.031577,
+            "liquidity": 50689.449999999975,
+            "neg_risk": true,
+            "end_date": "",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Incumbent defeat may indicate vulnerability across several primaries.",
+            "event_id": "133793",
+            "event_title": "How many Republican House Incumbents will not win their Primary? ",
+            "event_slug": "how-many-republican-house-incumbents-will-not-win-their-primary",
+            "detected_yes_price": 0.758,
+            "detected_no_price": 0.765,
+            "detected_at": 1778990082069,
+            "highest_price_change": 0.09542483660130713,
+            "highest_yes_price": 0.758,
+            "highest_no_price": 0.838,
+            "first_moved_at": 1778996379962,
+            "moved_side": "no",
+            "peaked_at": 1778996379962
+          },
+          {
+            "id": "1068718",
+            "slug": "how-many-republican-senate-incumbents-will-not-win-their-primary",
+            "condition_id": "0x645207afaa613a667bf1a7f1d4feff15fbe74a54642e897a8b07b6d9ee3ac07a",
+            "title": "2",
+            "question": "Will Republican Senate incumbents not win in exactly two nominating elections in the 2026 cycle?",
+            "description": "The 2026 midterm elections are scheduled to be held on November 3, 2026, with congressional primaries running from March through September.\n\nThis market will resolve according to the number of Republican Senate incumbents who do not win their nominating election to move on to the general election as a result of the 2026 midterm primary elections.\n\nAn incumbent will be considered not to have won their election if they are not declared the winner of the election they sought, including if they withdraw, suspend, or otherwise leave the race at any point after officially registering as a candidate, regardless of the reason. Incumbents who do not officially register as candidates for reelection will not be considered.\n\nThis market will resolve based on the results of all Senate nominating elections, including party primaries, top-two or jungle primaries, and primaries for special elections, that are scheduled to occur between March 1 and September 30, 2026. If a required runoff for any such election or a subsequent qualifying round in a non-partisan primary system could change the market\u2019s outcome, the market will remain open until that contest is conclusively called by this market\u2019s resolution sources.\n\nA candidate's party will be determined by their ballot-listed or otherwise identifiable affiliation with that party at the time of their nominating election. A candidate without a ballot-listed affiliation to either the Democratic or Republican parties will be considered a member of one of these parties based on the party with which they most recently expressed their intent to caucus prior to the conclusion of the relevant nominating election.\n\nThe resolution source for this market will be the Associated Press, Fox News, and NBC. This market will resolve once all three sources have conclusively called all relevant nominating elections. If all three sources do not achieve consensus in calling the relevant races for this market, it will resolve based on official state certification of the nominating election results.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-republicans-lose-a-seat-in-the-us-senate-for-any-state-trump-won-in-2024-36T8qr8R2Va9.jpg",
+            "yes_token_id": "89706489272014519830482495343003902174114523098287660733837384909852080898452",
+            "yes_probability": 0.44,
+            "yes_best_bid": 0.11,
+            "yes_best_ask": 0.44,
+            "yes_spread": 0.33,
+            "no_token_id": "37759118010832272182075273998299383689504209579695244279398547048050420123363",
+            "no_probability": 0.89,
+            "no_best_bid": 0.56,
+            "no_best_ask": 0.89,
+            "no_spread": 0.32999999999999996,
+            "volume": 323.782654,
+            "liquidity": 7422.759999999998,
+            "neg_risk": true,
+            "end_date": "",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Challenger victory could signal broader challenges for Senate incumbents.",
+            "event_id": "133781",
+            "event_title": "How many Republican Senate Incumbents will not win their Primary?",
+            "event_slug": "how-many-republican-senate-incumbents-will-not-win-their-primary",
+            "detected_yes_price": 0.44,
+            "detected_no_price": 0.982,
+            "detected_at": 1778990082069,
+            "highest_price_change": 0.010183299389002046,
+            "highest_yes_price": 0.441,
+            "highest_no_price": 0.992,
+            "first_moved_at": 1778990088454,
+            "moved_side": "no",
+            "peaked_at": 1778990088454
+          }
+        ],
+        "topics": [
+          "ukraine-war",
+          "super-bowl",
+          "election-2028"
+        ],
+        "categories": [
+          "geopolitics",
+          "elections",
+          "politics"
+        ]
+      },
+      "related_market": {
+        "id": "1068749",
+        "slug": "how-many-republican-house-incumbents-will-not-win-their-primary",
+        "condition_id": "0x9a0de7353469fc7af319897a8a494334b8a286d5cd8ec4b4edb6b3445a4b1597",
+        "title": ">15",
+        "question": "Will Republican House incumbents not win in more than fifteen nominating elections in the 2026 cycle?",
+        "description": "The 2026 midterm elections are scheduled to be held on November 3, 2026, with congressional primaries running from March through September.\n\nThis market will resolve according to the number of Republican House incumbents who do not win their nominating election to move on to the general election as a result of the 2026 midterm primary elections.\n\nAn incumbent will be considered not to have won their election if they are not declared the winner of the election they sought, including if they withdraw, suspend, or otherwise leave the race at any point after officially registering as a candidate, regardless of the reason. Incumbents who do not officially register as candidates for reelection will not be considered.\n\nThis market will resolve based on the results of all House nominating elections, including party primaries, top-two or jungle primaries, and primaries for special elections, that are scheduled to occur between March 1 and September 30, 2026. If a required runoff for any such election or a subsequent qualifying round in a non-partisan primary system could change the market\u2019s outcome, the market will remain open until that contest is conclusively called by this market\u2019s resolution sources.\n\nA candidate's party will be determined by their ballot-listed or otherwise identifiable affiliation with that party at the time of their nominating election.\n\nMembers of the House of Representatives who are \"delegates\u201d or \u201cresident commissioners\u201d not chosen by the people of a state are not included for purposes of resolving this market.\n\nThe resolution source for this market will be the Associated Press, Fox News, and NBC. This market will resolve once all three sources have conclusively called all relevant nominating elections. If all three sources do not achieve consensus in calling the relevant races for this market, it will resolve based on official state certification of the nominating election results.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/republican-house-seats-after-the-2026-midterm-elections-_8A1652Vzmn2.png",
+        "yes_token_id": "43697661106139132419773585187886106203320732906584708348798041358649329039252",
+        "yes_probability": 0.499,
+        "yes_best_bid": 0.234,
+        "yes_best_ask": 0.499,
+        "yes_spread": 0.265,
+        "no_token_id": "82448464534710566057881902879012276545801914494658997880647276477323315813986",
+        "no_probability": 0.766,
+        "no_best_bid": 0.501,
+        "no_best_ask": 0.766,
+        "no_spread": 0.265,
+        "volume": 1003.626418,
+        "liquidity": 42076.88999999999,
+        "neg_risk": true,
+        "end_date": "",
+        "categories": [
+          "politics",
+          "elections"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 6,
+        "impact_level": "medium",
+        "impact_reason": "Challenger victory suggests a trend that could lead to multiple losses.",
+        "event_id": "133793",
+        "event_title": "How many Republican House Incumbents will not win their Primary? ",
+        "event_slug": "how-many-republican-house-incumbents-will-not-win-their-primary",
+        "detected_yes_price": 0.225,
+        "detected_no_price": 0.9,
+        "detected_at": 1778990082069,
+        "highest_price_change": 1.2222222222222223,
+        "highest_yes_price": 0.5,
+        "highest_no_price": 0.9,
+        "first_moved_at": 1778990082171,
+        "moved_side": "yes",
+        "peaked_at": 1778990082171
+      },
+      "_scraped_at": "2026-05-17T05:59:35.364204+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 2,
+      "feed_item": {
+        "id": "8c01dd63-342c-4c53-b4d4-ac680dbff5ba",
+        "timestamp": 1778936585875,
+        "tweet": {
+          "feed_item_id": "8c01dd63-342c-4c53-b4d4-ac680dbff5ba",
+          "post_id": "2055635148339577256",
+          "post_type": "tweet",
+          "created_at": 1778936585875,
+          "user": {
+            "uid": "18856867",
+            "handle": "zerohedge",
+            "display_name": "zerohedge",
+            "pfp": "https://pbs.twimg.com/profile_images/72647502/tyler.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "China Confirms Boeing Jet Deal, Agrees To Cut Select Levies & Expand Agri Trade https://www.zerohedge.com/political/us-and-china-agree-establish-trade-and-investment-boards-trump-xi-summit-delivers-modest",
+          "link": "https://twitter.com/zerohedge/status/2055635148339577256"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "CN",
+        "countries": [
+          "CN",
+          "US"
+        ],
+        "related_markets": [
+          {
+            "id": "2233159",
+            "slug": "trump-xi-summit-what-will-china-announce-by-may-22",
+            "condition_id": "0xecbc0d8411219bcbf1601cd2d5dc6923f4d3497e5f23f3a45f888cf2ce306591",
+            "title": "Boeing Aircraft Purchase",
+            "question": "Will China announce a Boeing aircraft purchase by May 22?",
+            "description": "This market will resolve to \u201cYes\u201d if Xi Jinping, the Chinese government, any authorized representative of the Chinese government announces the purchase of at least one Boeing aircraft by the Chinese state or any Chinese company between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA qualifying announcement must explicitly indicate that the Chinese government or a Chinese company will purchase or order, or has definitively agreed to purchase or order, at least one Boeing aircraft. \n\nOnly definitive announcements will qualify. Suggestions, negotiations, expressions of openness, general support for diplomacy, or other non-definitive statements will not qualify.\n\nAny qualifying purchase or order announced within this market\u2019s time frame will count, regardless of whether or when the purchase is actually completed or the aircraft is delivered.\n\nThis market's primary resolution source will be official information from the Chinese government; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-china-announce-by-may-22-1GJoUL7Z-MV9.jpg",
+            "yes_token_id": "103097787537831973289425413752947547615552436095438625380801563481015162640230",
+            "yes_probability": 0.29,
+            "yes_best_bid": 0.25,
+            "yes_best_ask": 0.29,
+            "yes_spread": 0.03999999999999998,
+            "no_token_id": "62579117549553115440242998793368412125335518937522276717107848411983105442777",
+            "no_probability": 0.75,
+            "no_best_bid": 0.71,
+            "no_best_ask": 0.75,
+            "no_spread": 0.040000000000000036,
+            "volume": 78648.73683789982,
+            "liquidity": 147352.60999999996,
+            "neg_risk": false,
+            "end_date": "2026-05-22T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Direct confirmation of Boeing deal = 1 hop to market.",
+            "event_id": "474670",
+            "event_title": "Trump-Xi Summit: What will China announce by May 22?",
+            "event_slug": "trump-xi-summit-what-will-china-announce-by-may-22",
+            "detected_yes_price": 0.52,
+            "detected_no_price": 0.51,
+            "detected_at": 1778936628658,
+            "highest_price_change": 0.47058823529411764,
+            "highest_yes_price": 0.52,
+            "highest_no_price": 0.75,
+            "first_moved_at": 1778936759346,
+            "moved_side": "no",
+            "peaked_at": 1778997250349
+          },
+          {
+            "id": "2236044",
+            "slug": "trump-xi-summit-what-will-china-announce-by-may-22",
+            "condition_id": "0xb275aaf74777d2ed7af289a836b8cb73df52eb927ddbc1552eed4e8cc0fc8d56",
+            "title": "U.S. Soybean Purchase",
+            "question": "Will China announce a U.S. soybean purchase by May 22?",
+            "description": "This market will resolve to \u201cYes\u201d if Xi Jinping, the Chinese government, or any authorized representative of the Chinese government announces the purchase of U.S. soybeans by the Chinese state or any Chinese company between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA qualifying announcement must explicitly indicate that the Chinese government or a Chinese company will purchase, or has definitively agreed to purchase, U.S. soybeans.\n\nOnly definitive announcements will qualify. Suggestions, negotiations, expressions of openness, general support for trade cooperation, or other non-definitive statements will not qualify.\n\nAny qualifying purchase announced within this market\u2019s time frame will count, regardless of whether or when the purchase is actually completed or the soybeans are delivered.\n\nThis market\u2019s primary resolution source will be official information from the Chinese government; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-china-announce-by-may-22-1GJoUL7Z-MV9.jpg",
+            "yes_token_id": "13960413715058757025830989657671845850784062663277234472660288917447152227214",
+            "yes_probability": 0.19,
+            "yes_best_bid": 0.11,
+            "yes_best_ask": 0.19,
+            "yes_spread": 0.08,
+            "no_token_id": "45981256070290603227632461826642422364510374654250938757255660293624504573714",
+            "no_probability": 0.89,
+            "no_best_bid": 0.81,
+            "no_best_ask": 0.89,
+            "no_spread": 0.07999999999999996,
+            "volume": 23280.559816059947,
+            "liquidity": 55347.34000000002,
+            "neg_risk": false,
+            "end_date": "2026-05-22T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Agreement to expand agricultural trade = 1 hop to soybean purchase.",
+            "event_id": "474670",
+            "event_title": "Trump-Xi Summit: What will China announce by May 22?",
+            "event_slug": "trump-xi-summit-what-will-china-announce-by-may-22",
+            "detected_yes_price": 0.39,
+            "detected_no_price": 0.6699999999999999,
+            "detected_at": 1778936628658,
+            "highest_price_change": 0.3582089552238808,
+            "highest_yes_price": 0.39,
+            "highest_no_price": 0.91,
+            "first_moved_at": 1778937415932,
+            "moved_side": "no",
+            "peaked_at": 1778995294443
+          }
+        ],
+        "topics": null,
+        "categories": [
+          "world",
+          "politics",
+          "climate"
+        ]
+      },
+      "related_market": {
+        "id": "2233159",
+        "slug": "trump-xi-summit-what-will-china-announce-by-may-22",
+        "condition_id": "0xecbc0d8411219bcbf1601cd2d5dc6923f4d3497e5f23f3a45f888cf2ce306591",
+        "title": "Boeing Aircraft Purchase",
+        "question": "Will China announce a Boeing aircraft purchase by May 22?",
+        "description": "This market will resolve to \u201cYes\u201d if Xi Jinping, the Chinese government, any authorized representative of the Chinese government announces the purchase of at least one Boeing aircraft by the Chinese state or any Chinese company between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA qualifying announcement must explicitly indicate that the Chinese government or a Chinese company will purchase or order, or has definitively agreed to purchase or order, at least one Boeing aircraft. \n\nOnly definitive announcements will qualify. Suggestions, negotiations, expressions of openness, general support for diplomacy, or other non-definitive statements will not qualify.\n\nAny qualifying purchase or order announced within this market\u2019s time frame will count, regardless of whether or when the purchase is actually completed or the aircraft is delivered.\n\nThis market's primary resolution source will be official information from the Chinese government; however, a consensus of credible reporting may also be used.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-china-announce-by-may-22-1GJoUL7Z-MV9.jpg",
+        "yes_token_id": "103097787537831973289425413752947547615552436095438625380801563481015162640230",
+        "yes_probability": 0.29,
+        "yes_best_bid": 0.25,
+        "yes_best_ask": 0.29,
+        "yes_spread": 0.03999999999999998,
+        "no_token_id": "62579117549553115440242998793368412125335518937522276717107848411983105442777",
+        "no_probability": 0.75,
+        "no_best_bid": 0.71,
+        "no_best_ask": 0.75,
+        "no_spread": 0.040000000000000036,
+        "volume": 78648.73683789982,
+        "liquidity": 147352.60999999996,
+        "neg_risk": false,
+        "end_date": "2026-05-22T00:00:00Z",
+        "categories": [
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 9,
+        "impact_level": "critical",
+        "impact_reason": "Direct confirmation of Boeing deal = 1 hop to market.",
+        "event_id": "474670",
+        "event_title": "Trump-Xi Summit: What will China announce by May 22?",
+        "event_slug": "trump-xi-summit-what-will-china-announce-by-may-22",
+        "detected_yes_price": 0.52,
+        "detected_no_price": 0.51,
+        "detected_at": 1778936628658,
+        "highest_price_change": 0.47058823529411764,
+        "highest_yes_price": 0.52,
+        "highest_no_price": 0.75,
+        "first_moved_at": 1778936759346,
+        "moved_side": "no",
+        "peaked_at": 1778997250349
+      },
+      "_scraped_at": "2026-05-17T05:59:35.364204+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 3,
+      "feed_item": {
+        "id": "7d558b6c-4ff9-4927-8018-23546fa05869",
+        "timestamp": 1778943285000,
+        "tweet": {
+          "feed_item_id": "7d558b6c-4ff9-4927-8018-23546fa05869",
+          "post_id": "2055663248536391783",
+          "post_type": "tweet",
+          "created_at": 1778943285000,
+          "user": {
+            "uid": "16973333",
+            "handle": "Independent",
+            "display_name": "The Independent",
+            "pfp": "https://pbs.twimg.com/profile_images/1500085652309917697/C6VhBAcV_normal.jpg"
+          },
+          "tags": [
+            "world"
+          ],
+          "body": "BREAKING | Wes Streeting launches Labour leadership bid with call to rejoin EU https://trib.al/cG8rlD0",
+          "link": "https://twitter.com/Independent/status/2055663248536391783"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "related_markets": [
+          {
+            "id": "2252168",
+            "slug": "candidates-in-next-labour-leadership-election",
+            "condition_id": "0x7aa20656cfaabda288e3d94c1db790f1a6e4ad0f7b277403df976f0d44cd1c94",
+            "title": "Wes Streeting",
+            "question": "Will Wes Streeting be a candidate in the next Labour Party leadership election?",
+            "description": "This market will resolve to \u201cYes\u201d if the listed individual is an official candidate in the next United Kingdom Labour Party leadership election by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\n\u201cOfficial candidate\u201d refers to the listed individual satisfying all applicable requirements and being officially confirmed by the Labour Party, or a consensus of credible reporting, as a candidate on the ballot for the next Labour Party leadership election. Seeking nominations, announcing an intention to run, or being reported as a potential candidate will not qualify unless the individual is officially confirmed as a candidate on the ballot.\n\nIf a Labour Party leadership election occurs, or the final candidates are confirmed, and the listed individual is not included as a candidate, this market will resolve to \u201cNo\u201d. If no such election is scheduled, or the listed individual is not officially confirmed as a candidate, by December 31, 2026, 11:59 PM ET, this market will resolve to \u201cNo\u201d.\n\nIf the listed individual becomes the next leader of the Labour Party without any competitive ballot election, that will suffice for a \u201cYes\u201d resolution.\n\nThe primary resolution source for this market will be official information from the United Kingdom Labour Party; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/candidates-in-next-labour-leadership-election-Z7PIZqj6ex0e.jpg",
+            "yes_token_id": "79200448588320533261504011771997158370560109271758598699327865855191388144506",
+            "yes_probability": 0.76,
+            "yes_best_bid": 0.6,
+            "yes_best_ask": 0.76,
+            "yes_spread": 0.16000000000000003,
+            "no_token_id": "46191686458509944298331497664426460686463608567119819924920949813852655075942",
+            "no_probability": 0.4,
+            "no_best_bid": 0.24,
+            "no_best_ask": 0.4,
+            "no_spread": 0.16000000000000003,
+            "volume": 3384.4586190000005,
+            "liquidity": 47209.14999999997,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Streeting's announcement directly indicates he will be a candidate.",
+            "event_id": "481681",
+            "event_title": "Candidates in next Labour leadership election?",
+            "event_slug": "candidates-in-next-labour-leadership-election",
+            "detected_yes_price": 0.69,
+            "detected_no_price": 0.37,
+            "detected_at": 1778943309693,
+            "highest_price_change": 0.4594594594594596,
+            "highest_yes_price": 0.76,
+            "highest_no_price": 0.54,
+            "first_moved_at": 1778943316388,
+            "moved_side": "no",
+            "peaked_at": 1778996370072
+          }
+        ],
+        "topics": null,
+        "categories": [
+          "world"
+        ]
+      },
+      "related_market": {
+        "id": "2252168",
+        "slug": "candidates-in-next-labour-leadership-election",
+        "condition_id": "0x7aa20656cfaabda288e3d94c1db790f1a6e4ad0f7b277403df976f0d44cd1c94",
+        "title": "Wes Streeting",
+        "question": "Will Wes Streeting be a candidate in the next Labour Party leadership election?",
+        "description": "This market will resolve to \u201cYes\u201d if the listed individual is an official candidate in the next United Kingdom Labour Party leadership election by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\n\u201cOfficial candidate\u201d refers to the listed individual satisfying all applicable requirements and being officially confirmed by the Labour Party, or a consensus of credible reporting, as a candidate on the ballot for the next Labour Party leadership election. Seeking nominations, announcing an intention to run, or being reported as a potential candidate will not qualify unless the individual is officially confirmed as a candidate on the ballot.\n\nIf a Labour Party leadership election occurs, or the final candidates are confirmed, and the listed individual is not included as a candidate, this market will resolve to \u201cNo\u201d. If no such election is scheduled, or the listed individual is not officially confirmed as a candidate, by December 31, 2026, 11:59 PM ET, this market will resolve to \u201cNo\u201d.\n\nIf the listed individual becomes the next leader of the Labour Party without any competitive ballot election, that will suffice for a \u201cYes\u201d resolution.\n\nThe primary resolution source for this market will be official information from the United Kingdom Labour Party; however, a consensus of credible reporting may also be used.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/candidates-in-next-labour-leadership-election-Z7PIZqj6ex0e.jpg",
+        "yes_token_id": "79200448588320533261504011771997158370560109271758598699327865855191388144506",
+        "yes_probability": 0.76,
+        "yes_best_bid": 0.6,
+        "yes_best_ask": 0.76,
+        "yes_spread": 0.16000000000000003,
+        "no_token_id": "46191686458509944298331497664426460686463608567119819924920949813852655075942",
+        "no_probability": 0.4,
+        "no_best_bid": 0.24,
+        "no_best_ask": 0.4,
+        "no_spread": 0.16000000000000003,
+        "volume": 3384.4586190000005,
+        "liquidity": 47209.14999999997,
+        "neg_risk": false,
+        "end_date": "2026-12-31T00:00:00Z",
+        "categories": [
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Streeting's announcement directly indicates he will be a candidate.",
+        "event_id": "481681",
+        "event_title": "Candidates in next Labour leadership election?",
+        "event_slug": "candidates-in-next-labour-leadership-election",
+        "detected_yes_price": 0.69,
+        "detected_no_price": 0.37,
+        "detected_at": 1778943309693,
+        "highest_price_change": 0.4594594594594596,
+        "highest_yes_price": 0.76,
+        "highest_no_price": 0.54,
+        "first_moved_at": 1778943316388,
+        "moved_side": "no",
+        "peaked_at": 1778996370072
+      },
+      "_scraped_at": "2026-05-17T05:59:35.364204+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 4,
+      "feed_item": {
+        "id": "20f6a129-d3e8-46c6-8a16-e36e57669279",
+        "timestamp": 1778960101000,
+        "tweet": {
+          "feed_item_id": "20f6a129-d3e8-46c6-8a16-e36e57669279",
+          "post_id": "2055733779860222029",
+          "post_type": "tweet",
+          "created_at": 1778960101000,
+          "user": {
+            "uid": "34713362",
+            "handle": "business",
+            "display_name": "Bloomberg",
+            "pfp": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "Brazilian President Luiz Inacio Lula da Silva and right-wing Senator Flavio Bolsonaro were tied in a hypothetical runoff, according to a Datafolha poll of voter preferences for the country\u2019s election in October. https://www.bloomberg.com/news/articles/2026-05-16/bolsonaro-tied-with-lula-in-largely-pre-vorcaro-datafolha-poll?taid=6a08c6e532982f000154c4b2&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+          "link": "https://twitter.com/business/status/2055733779860222029"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "BR",
+        "countries": [
+          "BR"
+        ],
+        "related_markets": [
+          {
+            "id": "1366007",
+            "slug": "brazil-presidential-election-first-round-margin-of-victory",
+            "condition_id": "0x5d5b8feb963ddcc0f4688f7ac0c0d375f99945b7a07155d60cd1a306c6b3054b",
+            "title": "Lula da Silva <5%",
+            "question": "Will Luiz In\u00e1cio Lula da Silva win the first round of the 2026 Brazilian presidential election by less than 5%?",
+            "description": "A presidential election is scheduled to take place in Brazil on October 4, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the first round of the next Brazil Presidential Election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThis market will resolve based on the official vote count once the vote count has been made official.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.\n\nIf the result of this election isn't known definitively by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., https://dadosabertos.tse.jus.br/).",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election-reTil6nEVB1J.jpg",
+            "yes_token_id": "111141743875022425014082366328706246366536998743881258465740846069926282242834",
+            "yes_probability": 0.54,
+            "yes_best_bid": 0.28,
+            "yes_best_ask": 0.54,
+            "yes_spread": 0.26,
+            "no_token_id": "73197386422190855683808847899890112720383354193439504968265722423178479955299",
+            "no_probability": 0.72,
+            "no_best_bid": 0.46,
+            "no_best_ask": 0.72,
+            "no_spread": 0.25999999999999995,
+            "volume": 2923.4047139999993,
+            "liquidity": 111884.84999999998,
+            "neg_risk": true,
+            "end_date": "2026-10-04T00:00:00Z",
+            "categories": [
+              "world",
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Poll indicates Lula's competitive position for a close win.",
+            "event_id": "205029",
+            "event_title": "Brazil Presidential Election First Round: Margin of Victory",
+            "event_slug": "brazil-presidential-election-first-round-margin-of-victory",
+            "detected_yes_price": 0.4,
+            "detected_no_price": 0.76,
+            "detected_at": 1778960154567,
+            "highest_price_change": 0.4000000000000001,
+            "highest_yes_price": 0.56,
+            "highest_no_price": 0.77,
+            "first_moved_at": 1778960157037,
+            "moved_side": "yes",
+            "peaked_at": 1778997365192
+          },
+          {
+            "id": "1366011",
+            "slug": "brazil-presidential-election-first-round-margin-of-victory",
+            "condition_id": "0x25966b196ffc1682fc77df0298784831a60aea8abe03b9aa4fc219d1422feb9f",
+            "title": "Fl\u00e1vio Bolsonaro <5%",
+            "question": "Will Fl\u00e1vio Bolsonaro win the first round of the 2026 Brazilian presidential election by less than 5%?",
+            "description": "A presidential election is scheduled to take place in Brazil on October 4, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the first round of the next Brazil Presidential Election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThis market will resolve based on the official vote count once the vote count has been made official.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.\n\nIf the result of this election isn't known definitively by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., https://dadosabertos.tse.jus.br/).",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election-LUNiqIvy01pf.jpg",
+            "yes_token_id": "94495166556994695319220591877877326867271103412306477867919432683718476975192",
+            "yes_probability": 0.18,
+            "yes_best_bid": 0.15,
+            "yes_best_ask": 0.18,
+            "yes_spread": 0.03,
+            "no_token_id": "113360269013551492694108876383291795836420539790876926045774589578082333933690",
+            "no_probability": 0.85,
+            "no_best_bid": 0.82,
+            "no_best_ask": 0.85,
+            "no_spread": 0.030000000000000027,
+            "volume": 4026.048191,
+            "liquidity": 116154.26,
+            "neg_risk": true,
+            "end_date": "2026-10-04T00:00:00Z",
+            "categories": [
+              "world",
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Poll indicates Fl\u00e1vio Bolsonaro's competitive position for a close win.",
+            "event_id": "205029",
+            "event_title": "Brazil Presidential Election First Round: Margin of Victory",
+            "event_slug": "brazil-presidential-election-first-round-margin-of-victory",
+            "detected_yes_price": 0.19,
+            "detected_no_price": 0.85,
+            "detected_at": 1778960154567,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.19,
+            "highest_no_price": 0.85
+          },
+          {
+            "id": "1366009",
+            "slug": "brazil-presidential-election-first-round-margin-of-victory",
+            "condition_id": "0xd99603add7350a5ff33c8dc609ab0eaae2d5d18162bb00eeb63c38c81ae038f8",
+            "title": "Lula da Silva 10-15%",
+            "question": "Will Luiz In\u00e1cio Lula da Silva win the first round of the 2026 Brazilian presidential election by 10\u201315%?",
+            "description": "A presidential election is scheduled to take place in Brazil on October 4, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the first round of the next Brazil Presidential Election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThis market will resolve based on the official vote count once the vote count has been made official.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.\n\nIf the result of this election isn't known definitively by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., https://dadosabertos.tse.jus.br/).",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election-reTil6nEVB1J.jpg",
+            "yes_token_id": "111501008889215248446738380766334499893429002495174888541812674365305743816241",
+            "yes_probability": 0.087,
+            "yes_best_bid": 0.069,
+            "yes_best_ask": 0.087,
+            "yes_spread": 0.017999999999999988,
+            "no_token_id": "68985689280964359721858876785601369759982303652640879035310084127715508408780",
+            "no_probability": 0.931,
+            "no_best_bid": 0.913,
+            "no_best_ask": 0.931,
+            "no_spread": 0.018000000000000016,
+            "volume": 2627.0914739999994,
+            "liquidity": 154304.30000000002,
+            "neg_risk": true,
+            "end_date": "2026-10-04T00:00:00Z",
+            "categories": [
+              "world",
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Poll indicates Lula's competitive position for a close win.",
+            "event_id": "205029",
+            "event_title": "Brazil Presidential Election First Round: Margin of Victory",
+            "event_slug": "brazil-presidential-election-first-round-margin-of-victory",
+            "detected_yes_price": 0.073,
+            "detected_no_price": 0.931,
+            "detected_at": 1778960154567,
+            "highest_price_change": 0.1917808219178082,
+            "highest_yes_price": 0.087,
+            "highest_no_price": 0.931,
+            "first_moved_at": 1778995296661,
+            "moved_side": "yes",
+            "peaked_at": 1778995296661
+          },
+          {
+            "id": "1365854",
+            "slug": "brazil-presidential-election-first-round-2nd-place",
+            "condition_id": "0x8ee27c276a1bee094293751285d8a6697674b023196cb21fdd14bf3ca12f6ec0",
+            "title": "Luiz In\u00e1cio Lula da Silva",
+            "question": "Will Luiz In\u00e1cio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?",
+            "description": "A presidential election is scheduled to take place in Brazil on October 4, 2026.\n\nThis market will resolve according to the listed candidate who receives the second-most valid votes in the first round of this election.\n\nThe named candidates will be primarily ranked by the number of valid votes received in the specified election. If two or more candidates are tied on valid votes, ties will be broken by alphabetical order of the candidates' last names. This market will resolve to the candidate that occupies the second-highest finishing position after applying this ranking.\n\nIf the result of this election isn't known definitively by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., https://dadosabertos.tse.jus.br/).",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election-reTil6nEVB1J.jpg",
+            "yes_token_id": "109856098174983029722649567789098297237073018943808237804563416414463140161494",
+            "yes_probability": 0.16,
+            "yes_best_bid": 0.14,
+            "yes_best_ask": 0.16,
+            "yes_spread": 0.01999999999999999,
+            "no_token_id": "61962380735045871351352563947746037189767398069960776455040567750304235670037",
+            "no_probability": 0.86,
+            "no_best_bid": 0.84,
+            "no_best_ask": 0.86,
+            "no_spread": 0.020000000000000018,
+            "volume": 67153.31874700003,
+            "liquidity": 188987.5499999999,
+            "neg_risk": true,
+            "end_date": "2026-10-04T00:00:00Z",
+            "categories": [
+              "politics",
+              "world",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Poll indicates Lula's competitive position for second place.",
+            "event_id": "204972",
+            "event_title": "Brazil Presidential Election First Round: 2nd Place",
+            "event_slug": "brazil-presidential-election-first-round-2nd-place",
+            "detected_yes_price": 0.16,
+            "detected_no_price": 0.86,
+            "detected_at": 1778960154567,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.16,
+            "highest_no_price": 0.86
+          },
+          {
+            "id": "1366008",
+            "slug": "brazil-presidential-election-first-round-margin-of-victory",
+            "condition_id": "0x5377b12dd060efd8e3597620f120648f1bf99452a95eb70374b128d9ca133227",
+            "title": "Lula da Silva 5-10%",
+            "question": "Will Luiz In\u00e1cio Lula da Silva win the first round of the 2026 Brazilian presidential election by 5\u201310%?",
+            "description": "A presidential election is scheduled to take place in Brazil on October 4, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the first round of the next Brazil Presidential Election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThis market will resolve based on the official vote count once the vote count has been made official.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.\n\nIf the result of this election isn't known definitively by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., https://dadosabertos.tse.jus.br/).",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election-reTil6nEVB1J.jpg",
+            "yes_token_id": "48407765042087399444287625227087734986428382872828112503518998286869389847258",
+            "yes_probability": 0.21,
+            "yes_best_bid": 0.15,
+            "yes_best_ask": 0.21,
+            "yes_spread": 0.06,
+            "no_token_id": "247047209822374154288211144964214527388236984575039338710647093931430457756",
+            "no_probability": 0.85,
+            "no_best_bid": 0.79,
+            "no_best_ask": 0.85,
+            "no_spread": 0.05999999999999994,
+            "volume": 6807.610564,
+            "liquidity": 179805.52000000002,
+            "neg_risk": true,
+            "end_date": "2026-10-04T00:00:00Z",
+            "categories": [
+              "world",
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Poll indicates Lula's competitive position for a close win.",
+            "event_id": "205029",
+            "event_title": "Brazil Presidential Election First Round: Margin of Victory",
+            "event_slug": "brazil-presidential-election-first-round-margin-of-victory",
+            "detected_yes_price": 0.21,
+            "detected_no_price": 0.85,
+            "detected_at": 1778960154567,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.21,
+            "highest_no_price": 0.85
+          }
+        ],
+        "topics": [
+          "ai-tech",
+          "ukraine-war",
+          "elon-musk"
+        ],
+        "categories": [
+          "geopolitics",
+          "tech",
+          "elections",
+          "politics"
+        ]
+      },
+      "related_market": {
+        "id": "1366007",
+        "slug": "brazil-presidential-election-first-round-margin-of-victory",
+        "condition_id": "0x5d5b8feb963ddcc0f4688f7ac0c0d375f99945b7a07155d60cd1a306c6b3054b",
+        "title": "Lula da Silva <5%",
+        "question": "Will Luiz In\u00e1cio Lula da Silva win the first round of the 2026 Brazilian presidential election by less than 5%?",
+        "description": "A presidential election is scheduled to take place in Brazil on October 4, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the first round of the next Brazil Presidential Election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThis market will resolve based on the official vote count once the vote count has been made official.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.\n\nIf the result of this election isn't known definitively by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., https://dadosabertos.tse.jus.br/).",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election-reTil6nEVB1J.jpg",
+        "yes_token_id": "111141743875022425014082366328706246366536998743881258465740846069926282242834",
+        "yes_probability": 0.54,
+        "yes_best_bid": 0.28,
+        "yes_best_ask": 0.54,
+        "yes_spread": 0.26,
+        "no_token_id": "73197386422190855683808847899890112720383354193439504968265722423178479955299",
+        "no_probability": 0.72,
+        "no_best_bid": 0.46,
+        "no_best_ask": 0.72,
+        "no_spread": 0.25999999999999995,
+        "volume": 2923.4047139999993,
+        "liquidity": 111884.84999999998,
+        "neg_risk": true,
+        "end_date": "2026-10-04T00:00:00Z",
+        "categories": [
+          "world",
+          "elections",
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 9,
+        "impact_level": "critical",
+        "impact_reason": "Poll indicates Lula's competitive position for a close win.",
+        "event_id": "205029",
+        "event_title": "Brazil Presidential Election First Round: Margin of Victory",
+        "event_slug": "brazil-presidential-election-first-round-margin-of-victory",
+        "detected_yes_price": 0.4,
+        "detected_no_price": 0.76,
+        "detected_at": 1778960154567,
+        "highest_price_change": 0.4000000000000001,
+        "highest_yes_price": 0.56,
+        "highest_no_price": 0.77,
+        "first_moved_at": 1778960157037,
+        "moved_side": "yes",
+        "peaked_at": 1778997365192
+      },
+      "_scraped_at": "2026-05-17T05:59:35.364204+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 5,
+      "feed_item": {
+        "id": "29c346b6-2fbb-4515-a576-d30408766301",
+        "timestamp": 1778953272285,
+        "tweet": {
+          "feed_item_id": "29c346b6-2fbb-4515-a576-d30408766301",
+          "post_id": "2055705136216105122",
+          "post_type": "tweet",
+          "created_at": 1778953272285,
+          "user": {
+            "uid": "1200616796295847936",
+            "handle": "unusual_whales",
+            "display_name": "unusual_whales",
+            "pfp": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7.png"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "BREAKING: China said it reached a tentative agreement with the United States on tariff reductions and trade cooperation after the Trump-Xi summit in Beijing.",
+          "link": "https://twitter.com/unusual_whales/status/2055705136216105122"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "US",
+        "countries": [
+          "US",
+          "CN"
+        ],
+        "related_markets": [
+          {
+            "id": "2169751",
+            "slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "condition_id": "0x0cfac875e3fa84e292a97256b74432c236904d1a3e46fe8b489978122bdc663b",
+            "title": "Tariff Reduction",
+            "question": "Will Trump announce a tariff reduction on China?",
+            "description": "This market will resolve to \u201cYes\u201d if Donald Trump or the Trump administration announces a reduction, removal, or suspension of any existing tariffs on China between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nOnly tariff reductions specifically announced in relation to China, goods from China, or a specific set of countries including China will qualify. For example, an announced reduction in global tariffs will not count toward this market\u2019s resolution.\n\nOnly definitive announcements qualify. Suggestions, negotiations, expressions of openness, or other non-definitive statements will not qualify.\n\nTariff reductions, removals, or suspensions announced as part of a mutual agreement or deal between the United States and China will qualify.\n\nAny qualifying action announced within this market\u2019s time frame will count, regardless of whether or when the tariff reduction, removal, or suspension goes into effect.\n\nThis market\u2019s primary resolution source will be official information from the Trump administration; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-trump-announce-by-may-22-dnHPwUKytUMR.jpg",
+            "yes_token_id": "67500088822425193611028555717491802967214637594198331061571697869465035016178",
+            "yes_probability": 0.18,
+            "yes_best_bid": 0.15,
+            "yes_best_ask": 0.18,
+            "yes_spread": 0.03,
+            "no_token_id": "39934818650392653302435843762090475578361428023990701131439493646151563643962",
+            "no_probability": 0.85,
+            "no_best_bid": 0.82,
+            "no_best_ask": 0.85,
+            "no_spread": 0.030000000000000027,
+            "volume": 43588.86257055996,
+            "liquidity": 129806.42999999995,
+            "neg_risk": false,
+            "end_date": "2026-05-22T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Tentative agreement on tariff reductions directly linked to Trump's announcement.",
+            "event_id": "453131",
+            "event_title": "Trump-Xi Summit: What will Trump announce by May 22?",
+            "event_slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "detected_yes_price": 0.38,
+            "detected_no_price": 0.6599999999999999,
+            "detected_at": 1778953308139,
+            "highest_price_change": 0.287878787878788,
+            "highest_yes_price": 0.38,
+            "highest_no_price": 0.85,
+            "first_moved_at": 1778953308545,
+            "moved_side": "no",
+            "peaked_at": 1778997364937
+          }
+        ],
+        "topics": [
+          "trump-tariffs",
+          "ai-tech"
+        ],
+        "categories": [
+          "world",
+          "economy",
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "2169751",
+        "slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+        "condition_id": "0x0cfac875e3fa84e292a97256b74432c236904d1a3e46fe8b489978122bdc663b",
+        "title": "Tariff Reduction",
+        "question": "Will Trump announce a tariff reduction on China?",
+        "description": "This market will resolve to \u201cYes\u201d if Donald Trump or the Trump administration announces a reduction, removal, or suspension of any existing tariffs on China between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nOnly tariff reductions specifically announced in relation to China, goods from China, or a specific set of countries including China will qualify. For example, an announced reduction in global tariffs will not count toward this market\u2019s resolution.\n\nOnly definitive announcements qualify. Suggestions, negotiations, expressions of openness, or other non-definitive statements will not qualify.\n\nTariff reductions, removals, or suspensions announced as part of a mutual agreement or deal between the United States and China will qualify.\n\nAny qualifying action announced within this market\u2019s time frame will count, regardless of whether or when the tariff reduction, removal, or suspension goes into effect.\n\nThis market\u2019s primary resolution source will be official information from the Trump administration; however, a consensus of credible reporting may also be used.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-trump-announce-by-may-22-dnHPwUKytUMR.jpg",
+        "yes_token_id": "67500088822425193611028555717491802967214637594198331061571697869465035016178",
+        "yes_probability": 0.18,
+        "yes_best_bid": 0.15,
+        "yes_best_ask": 0.18,
+        "yes_spread": 0.03,
+        "no_token_id": "39934818650392653302435843762090475578361428023990701131439493646151563643962",
+        "no_probability": 0.85,
+        "no_best_bid": 0.82,
+        "no_best_ask": 0.85,
+        "no_spread": 0.030000000000000027,
+        "volume": 43588.86257055996,
+        "liquidity": 129806.42999999995,
+        "neg_risk": false,
+        "end_date": "2026-05-22T00:00:00Z",
+        "categories": [
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 9,
+        "impact_level": "critical",
+        "impact_reason": "Tentative agreement on tariff reductions directly linked to Trump's announcement.",
+        "event_id": "453131",
+        "event_title": "Trump-Xi Summit: What will Trump announce by May 22?",
+        "event_slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+        "detected_yes_price": 0.38,
+        "detected_no_price": 0.6599999999999999,
+        "detected_at": 1778953308139,
+        "highest_price_change": 0.287878787878788,
+        "highest_yes_price": 0.38,
+        "highest_no_price": 0.85,
+        "first_moved_at": 1778953308545,
+        "moved_side": "no",
+        "peaked_at": 1778997364937
+      },
+      "_scraped_at": "2026-05-17T05:59:35.364204+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "valid": false,
+      "_scraped_at": "2026-05-17T05:59:35.364204+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "global_tension_score": 33,
+      "global_tension_level": "GUARDED",
+      "countries": [
+        {
+          "country": "US",
+          "count": 12,
+          "recent": [
+            {
+              "id": "73445a9e-4300-4dd5-b65d-63f9bb473210",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1778989030948
+            },
+            {
+              "id": "17f08035-ea5c-4f98-96aa-c1e1617e819f",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778983501000
+            },
+            {
+              "id": "9969901f-41a2-445d-a452-ad12df4563d6",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778986858524
+            },
+            {
+              "id": "94c2ee54-871a-4fb8-a56e-88920d5b7a1c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778988782829
+            },
+            {
+              "id": "a62f206c-19a3-49a6-aa08-082ba8c601fb",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778985302753
+            },
+            {
+              "id": "21e823c4-a75b-4102-9dd4-c0ebe8b59740",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778986797000
+            },
+            {
+              "id": "993ea8f8-1194-4ec4-8d53-a81d323a0652",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778990598132
+            },
+            {
+              "id": "2de554d5-faaf-463a-89b1-473321dc90dc",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1778991303994
+            },
+            {
+              "id": "de5031c4-d178-49ea-907c-32e148dd5300",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1778990057396
+            },
+            {
+              "id": "aa3551f0-d858-4d41-a27d-8505a1ce6574",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778990266000
+            },
+            {
+              "id": "6651f8e1-3cad-407a-bdf7-e9d0579ebe12",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778988601618
+            },
+            {
+              "id": "338fdcb9-1653-404f-8404-25e7ee29d054",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778987599000
+            }
+          ],
+          "volume": 3134937.8990409984,
+          "critical_signals": 0,
+          "high_signals": 11,
+          "low_signals": 1
+        },
+        {
+          "country": "GB",
+          "count": 9,
+          "recent": [
+            {
+              "id": "8c63eee1-237c-4018-9061-8d3296ac81d2",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778994302994
+            },
+            {
+              "id": "1124cd60-5f3c-4a9a-8d8c-5549362c51a5",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778992963390
+            },
+            {
+              "id": "1ef01e0e-fd7a-45a2-a5e0-2f67bad59e52",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778979641658
+            },
+            {
+              "id": "993ea8f8-1194-4ec4-8d53-a81d323a0652",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778990598132
+            },
+            {
+              "id": "d09f4ad2-1cf7-4ef7-afaf-9facfc7dd370",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778986998021
+            },
+            {
+              "id": "e8fdbbc8-2f5b-4016-a7e8-fe5abb49a2a5",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778977613000
+            },
+            {
+              "id": "28097327-f510-4c69-b2da-c23cae0c99c4",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778987544630
+            },
+            {
+              "id": "e0513ff5-7b09-4f21-bafb-0ca57abacd89",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1778989404715
+            },
+            {
+              "id": "c759f272-176d-4f47-9194-e598f1a2ffd5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778989862853
+            }
+          ],
+          "volume": 3883985.9056680016,
+          "critical_signals": 0,
+          "high_signals": 8,
+          "low_signals": 1
+        },
+        {
+          "country": "RU",
+          "count": 8,
+          "recent": [
+            {
+              "id": "8c63eee1-237c-4018-9061-8d3296ac81d2",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778994302994
+            },
+            {
+              "id": "1124cd60-5f3c-4a9a-8d8c-5549362c51a5",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778992963390
+            },
+            {
+              "id": "1ef01e0e-fd7a-45a2-a5e0-2f67bad59e52",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778979641658
+            },
+            {
+              "id": "993ea8f8-1194-4ec4-8d53-a81d323a0652",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778990598132
+            },
+            {
+              "id": "e8fdbbc8-2f5b-4016-a7e8-fe5abb49a2a5",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778977613000
+            },
+            {
+              "id": "28097327-f510-4c69-b2da-c23cae0c99c4",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778987544630
+            },
+            {
+              "id": "e0513ff5-7b09-4f21-bafb-0ca57abacd89",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1778989404715
+            },
+            {
+              "id": "c759f272-176d-4f47-9194-e598f1a2ffd5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778989862853
+            }
+          ],
+          "volume": 3883985.9056680016,
+          "critical_signals": 0,
+          "high_signals": 7,
+          "low_signals": 1
+        },
+        {
+          "country": "UA",
+          "count": 8,
+          "recent": [
+            {
+              "id": "8c63eee1-237c-4018-9061-8d3296ac81d2",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778994302994
+            },
+            {
+              "id": "1124cd60-5f3c-4a9a-8d8c-5549362c51a5",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778992963390
+            },
+            {
+              "id": "1ef01e0e-fd7a-45a2-a5e0-2f67bad59e52",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778979641658
+            },
+            {
+              "id": "993ea8f8-1194-4ec4-8d53-a81d323a0652",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778990598132
+            },
+            {
+              "id": "d09f4ad2-1cf7-4ef7-afaf-9facfc7dd370",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778986998021
+            },
+            {
+              "id": "e8fdbbc8-2f5b-4016-a7e8-fe5abb49a2a5",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778977613000
+            },
+            {
+              "id": "28097327-f510-4c69-b2da-c23cae0c99c4",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778987544630
+            },
+            {
+              "id": "e0513ff5-7b09-4f21-bafb-0ca57abacd89",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1778989404715
+            }
+          ],
+          "volume": 3736474.0438180016,
+          "critical_signals": 0,
+          "high_signals": 7,
+          "low_signals": 1
+        },
+        {
+          "country": "IL",
+          "count": 4,
+          "recent": [
+            {
+              "id": "a30f270a-d2e7-4ddc-a4d6-62d3556a8e55",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778982001233
+            },
+            {
+              "id": "a62f206c-19a3-49a6-aa08-082ba8c601fb",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778985302753
+            },
+            {
+              "id": "e129e846-7616-4b3d-a1f3-86dc2534fb5b",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1778981251577
+            },
+            {
+              "id": "2e8ec785-622b-4623-90c2-05ef48bfd96c",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1778988600000
+            }
+          ],
+          "volume": 2110960.650256997,
+          "critical_signals": 1,
+          "high_signals": 2,
+          "low_signals": 1
+        },
+        {
+          "country": "LB",
+          "count": 2,
+          "recent": [
+            {
+              "id": "e129e846-7616-4b3d-a1f3-86dc2534fb5b",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1778981251577
+            },
+            {
+              "id": "2e8ec785-622b-4623-90c2-05ef48bfd96c",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1778988600000
+            }
+          ],
+          "volume": 1444686.1691969985,
+          "critical_signals": 1,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "CN",
+          "count": 2,
+          "recent": [
+            {
+              "id": "a62f206c-19a3-49a6-aa08-082ba8c601fb",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778985302753
+            },
+            {
+              "id": "993ea8f8-1194-4ec4-8d53-a81d323a0652",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778990598132
+            }
+          ],
+          "volume": 2813992.8398069986,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "PK",
+          "count": 1,
+          "recent": [
+            {
+              "id": "993ea8f8-1194-4ec4-8d53-a81d323a0652",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778990598132
+            }
+          ],
+          "volume": 2263172.41915,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "IR",
+          "count": 1,
+          "recent": [
+            {
+              "id": "a62f206c-19a3-49a6-aa08-082ba8c601fb",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778985302753
+            }
+          ],
+          "volume": 550820.4206569986,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "PH",
+          "count": 1,
+          "recent": [
+            {
+              "id": "993ea8f8-1194-4ec4-8d53-a81d323a0652",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778990598132
+            }
+          ],
+          "volume": 2263172.41915,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "TH",
+          "count": 1,
+          "recent": [
+            {
+              "id": "993ea8f8-1194-4ec4-8d53-a81d323a0652",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778990598132
+            }
+          ],
+          "volume": 2263172.41915,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "VE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "6bc52f5b-46c4-44bd-bb95-2d1faadcf5f2",
+              "kind": "news",
+              "impact": "low",
+              "timestamp": 1778983923883
+            }
+          ],
+          "volume": 1182223.0407209997,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "SE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "d09f4ad2-1cf7-4ef7-afaf-9facfc7dd370",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778986998021
+            }
+          ],
+          "volume": 419016.6293349998,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "OM",
+          "count": 1,
+          "recent": [
+            {
+              "id": "94c2ee54-871a-4fb8-a56e-88920d5b7a1c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778988782829
+            }
+          ],
+          "volume": 97118.101312,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "TW",
+          "count": 1,
+          "recent": [
+            {
+              "id": "993ea8f8-1194-4ec4-8d53-a81d323a0652",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778990598132
+            }
+          ],
+          "volume": 2263172.41915,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "YE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "993ea8f8-1194-4ec4-8d53-a81d323a0652",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1778990598132
+            }
+          ],
+          "volume": 2263172.41915,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "PS",
+          "count": 1,
+          "recent": [
+            {
+              "id": "a30f270a-d2e7-4ddc-a4d6-62d3556a8e55",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1778982001233
+            }
+          ],
+          "volume": 115454.0604030001,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        }
+      ],
+      "_scraped_at": "2026-05-17T05:59:35.364204+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
