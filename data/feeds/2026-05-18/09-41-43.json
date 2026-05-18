@@ -1,0 +1,1577 @@
+{
+  "scraped_at": "2026-05-18T09:41:35.848548+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 7,
+  "items": [
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "37ccd7fc-38f5-48a3-b928-5548c005b254",
+        "timestamp": 1779091547567,
+        "tweet": null,
+        "news": {
+          "feed_item_id": "37ccd7fc-38f5-48a3-b928-5548c005b254",
+          "headline": "Israeli troops begin intercepting vessels from a flotilla trying to breach the Gaza blockade",
+          "description": "",
+          "image": "https://dims.apnews.com/dims4/default/1374861/2147483647/strip/true/crop/5189x3459+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff4%2Fc0%2Fa6184e17821d2b1581cb4b183811%2Fd78680493973435c9a0d446182f2cc42",
+          "url": "https://apnews.com/article/israel-gaza-flotilla-c0574562f3b5b53a6708b498b9143246",
+          "timestamp": 1779091547567,
+          "source": "apnews"
+        },
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "IL",
+        "countries": [
+          "IL",
+          "PS"
+        ],
+        "related_markets": [
+          {
+            "id": "1642010",
+            "slug": "will-israel-launch-a-major-ground-offensive-in-gaza-by-october-31",
+            "condition_id": "0x1c39f29a392495da86a9d1882bdb7ad82bd617990a6da16674e1ee3da105e9e6",
+            "title": "December 31",
+            "question": "Will Israel launch a major ground offensive in Gaza by December 31?",
+            "description": "This market will resolve to \"Yes\" if Israel initiates a major ground offensive in Gaza by December 31, 2026, 11:59PM ET. Otherwise, this market will resolve to \"No\".\n\nA \"major ground offensive\" is defined as a large-scale military operation that involves more than 1,000 Israeli ground forces entering Gazan territory that was not under Israeli control at the start of the offensive. This excludes smaller raids, special operations, or limited incursions directly bordering buffer zones already under Israeli control.\n\nThe resolution source will be a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-israel-launch-a-major-ground-offensive-in-gaza-by-october-31-hFPYVMlPMqeR.jpg",
+            "yes_token_id": "54321071530548266672166878707765766594100313888586165986698245613205332870724",
+            "yes_probability": 0.58,
+            "yes_best_bid": 0.36,
+            "yes_best_ask": 0.58,
+            "yes_spread": 0.21999999999999997,
+            "no_token_id": "56333782793421950483875833119080130897195447801211249547040559909421499481715",
+            "no_probability": 0.64,
+            "no_best_bid": 0.42,
+            "no_best_ask": 0.64,
+            "no_spread": 0.22000000000000003,
+            "volume": 24301.785961000005,
+            "liquidity": 31512.46000000001,
+            "neg_risk": false,
+            "end_date": "2025-10-31T00:00:00Z",
+            "categories": [
+              "world",
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Troop actions against flotilla suggest increased military engagement (1 hop).",
+            "event_id": "61890",
+            "event_title": "Will Israel launch a major ground offensive in Gaza by...?",
+            "event_slug": "will-israel-launch-a-major-ground-offensive-in-gaza-by-october-31",
+            "detected_yes_price": 0.58,
+            "detected_no_price": 0.64,
+            "detected_at": 1779091578414,
+            "highest_price_change": 0.017241379310344845,
+            "highest_yes_price": 0.59,
+            "highest_no_price": 0.65,
+            "first_moved_at": 1779091581345,
+            "moved_side": "yes",
+            "peaked_at": 1779091581661
+          },
+          {
+            "id": "1642009",
+            "slug": "will-israel-launch-a-major-ground-offensive-in-gaza-by-october-31",
+            "condition_id": "0xf15f4253eace2d74c88936cd63906abda4ff4bbf98e20cf799ba45cf6afc55e9",
+            "title": "June 30",
+            "question": "Will Israel launch a major ground offensive in Gaza by June 30?",
+            "description": "This market will resolve to \"Yes\" if Israel initiates a major ground offensive in Gaza by June 30, 2026, 11:59PM ET. Otherwise, this market will resolve to \"No\".\n\nA \"major ground offensive\" is defined as a large-scale military operation that involves more than 1,000 Israeli ground forces entering Gazan territory that was not under Israeli control at the start of the offensive. This excludes smaller raids, special operations, or limited incursions directly bordering buffer zones already under Israeli control.\n\nThe resolution source will be a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-israel-launch-a-major-ground-offensive-in-gaza-by-october-31-hFPYVMlPMqeR.jpg",
+            "yes_token_id": "75346936063969571190620358863735703777657300721118724660441519247622515981794",
+            "yes_probability": 0.17,
+            "yes_best_bid": 0.15,
+            "yes_best_ask": 0.17,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "102119753884173712975890715930153670065225317269011973013399631357327449722798",
+            "no_probability": 0.85,
+            "no_best_bid": 0.83,
+            "no_best_ask": 0.85,
+            "no_spread": 0.020000000000000018,
+            "volume": 54005.82499400013,
+            "liquidity": 103722.32,
+            "neg_risk": false,
+            "end_date": "2025-10-31T00:00:00Z",
+            "categories": [
+              "world",
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Troop actions against flotilla suggest increased military engagement (1 hop).",
+            "event_id": "61890",
+            "event_title": "Will Israel launch a major ground offensive in Gaza by...?",
+            "event_slug": "will-israel-launch-a-major-ground-offensive-in-gaza-by-october-31",
+            "detected_yes_price": 0.17,
+            "detected_no_price": 0.85,
+            "detected_at": 1779091578414,
+            "highest_price_change": 0.058823529411764594,
+            "highest_yes_price": 0.18,
+            "highest_no_price": 0.85,
+            "first_moved_at": 1779092629581,
+            "moved_side": "yes",
+            "peaked_at": 1779092629581
+          },
+          {
+            "id": "2036170",
+            "slug": "gaza-flotilla-enters-israeli-waters-by-31",
+            "condition_id": "0x0ceab60f9942ddccac459fb4a5ac5505e4757874e974e9fbf513ec782c587c5d",
+            "title": "",
+            "question": "Gaza flotilla enters Israeli waters by May 31?",
+            "description": "A flotilla organized by the Global Sumud Flotilla, among others, set sail from Spain on April 15, 2026 to deliver aid to Gaza (see: https://apnews.com/article/global-sumud-flotilla-gaza-aid-spain-israel-94b09412fdcb1a0fd6a6e0c981479539). \n\nThis market will resolve to \u201cYes\u201d if any vessel which is part of this flotilla enters Israel\u2019s territorial sea by May 31, 2026 (ET). Otherwise, this market will resolve to \u201cNo\u201d.\n\nFor the purposes of this market, Israel\u2019s territorial sea includes the territorial waters off the coast of Gaza that are controlled by Israel.\n\nThe primary resolution source will be a consensus of credible reporting.\n",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/gaza-flotilla-enters-israeli-waters-by-31-MxC9agWuY3Jr.jpg",
+            "yes_token_id": "68420615732869571322196691898010287912689328489139159285431162350194608464652",
+            "yes_probability": 0.26,
+            "yes_best_bid": 0.25,
+            "yes_best_ask": 0.26,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "40203232286098997828303623332446526965712119921880705531366744903399347717928",
+            "no_probability": 0.75,
+            "no_best_bid": 0.74,
+            "no_best_ask": 0.75,
+            "no_spread": 0.010000000000000009,
+            "volume": 160127.91920551014,
+            "liquidity": 172540.69000000003,
+            "neg_risk": false,
+            "end_date": "2026-05-31T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Interception indicates flotilla's approach to Gaza (1 hop).",
+            "event_id": "400310",
+            "event_title": "Gaza flotilla enters Israeli waters by May 31?",
+            "event_slug": "gaza-flotilla-enters-israeli-waters-by-31",
+            "detected_yes_price": 0.12,
+            "detected_no_price": 0.9,
+            "detected_at": 1779091578414,
+            "highest_price_change": 3,
+            "highest_yes_price": 0.48,
+            "highest_no_price": 0.91,
+            "first_moved_at": 1779092033402,
+            "moved_side": "yes",
+            "peaked_at": 1779096133403
+          },
+          {
+            "id": "2036323",
+            "slug": "will-the-flotilla-reach-gaza-by-may-31",
+            "condition_id": "0x77c7b32edbe925e2a5cd677e1118e74f3db005bfe1b99ff467d70a2462ed1bea",
+            "title": "",
+            "question": "Will the flotilla reach Gaza by May 31?",
+            "description": "A flotilla organized by the Global Sumud Flotilla, among others, set sail from Spain on April 15, 2026 to deliver aid to Gaza (see: https://apnews.com/article/global-sumud-flotilla-gaza-aid-spain-israel-94b09412fdcb1a0fd6a6e0c981479539). \n\nThis market will resolve to \u201cYes\u201d if any members of this flotilla arrive in Gaza by May 31, 2026 (ET). Otherwise, this market will resolve to \u201cNo\u201d. \n\n\u201cArriving in Gaza\u201d refers to disembarking from a vessel that is part of the flotilla into Gaza\u2019s land territory.\n\nThe primary resolution source will be a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-the-flotilla-reach-gaza-by-may-31-KvgNEZaDSI9M.png",
+            "yes_token_id": "43217008777038850695607777422375807980634162648126724953186144591757278136114",
+            "yes_probability": 0.025,
+            "yes_best_bid": 0.007,
+            "yes_best_ask": 0.025,
+            "yes_spread": 0.018000000000000002,
+            "no_token_id": "74435170459908911237698036777583025273776777980121587730390870190669781026334",
+            "no_probability": 0.993,
+            "no_best_bid": 0.975,
+            "no_best_ask": 0.993,
+            "no_spread": 0.018000000000000016,
+            "volume": 6051.945146000004,
+            "liquidity": 254414.56,
+            "neg_risk": false,
+            "end_date": "2026-05-31T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Interception suggests flotilla's approach to Gaza (1 hop).",
+            "event_id": "400363",
+            "event_title": "Will the flotilla reach Gaza by May 31?",
+            "event_slug": "will-the-flotilla-reach-gaza-by-may-31",
+            "detected_yes_price": 0.02,
+            "detected_no_price": 0.991,
+            "detected_at": 1779091578414,
+            "highest_price_change": 0.25000000000000006,
+            "highest_yes_price": 0.025,
+            "highest_no_price": 0.994,
+            "first_moved_at": 1779095987345,
+            "moved_side": "yes",
+            "peaked_at": 1779095987345
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 8,
+            "price": 101.785
+          }
+        ],
+        "topics": null,
+        "categories": [
+          "geopolitics"
+        ]
+      },
+      "related_market": {
+        "id": "2036170",
+        "slug": "gaza-flotilla-enters-israeli-waters-by-31",
+        "condition_id": "0x0ceab60f9942ddccac459fb4a5ac5505e4757874e974e9fbf513ec782c587c5d",
+        "title": "",
+        "question": "Gaza flotilla enters Israeli waters by May 31?",
+        "description": "A flotilla organized by the Global Sumud Flotilla, among others, set sail from Spain on April 15, 2026 to deliver aid to Gaza (see: https://apnews.com/article/global-sumud-flotilla-gaza-aid-spain-israel-94b09412fdcb1a0fd6a6e0c981479539). \n\nThis market will resolve to \u201cYes\u201d if any vessel which is part of this flotilla enters Israel\u2019s territorial sea by May 31, 2026 (ET). Otherwise, this market will resolve to \u201cNo\u201d.\n\nFor the purposes of this market, Israel\u2019s territorial sea includes the territorial waters off the coast of Gaza that are controlled by Israel.\n\nThe primary resolution source will be a consensus of credible reporting.\n",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/gaza-flotilla-enters-israeli-waters-by-31-MxC9agWuY3Jr.jpg",
+        "yes_token_id": "68420615732869571322196691898010287912689328489139159285431162350194608464652",
+        "yes_probability": 0.26,
+        "yes_best_bid": 0.25,
+        "yes_best_ask": 0.26,
+        "yes_spread": 0.010000000000000009,
+        "no_token_id": "40203232286098997828303623332446526965712119921880705531366744903399347717928",
+        "no_probability": 0.75,
+        "no_best_bid": 0.74,
+        "no_best_ask": 0.75,
+        "no_spread": 0.010000000000000009,
+        "volume": 160127.91920551014,
+        "liquidity": 172540.69000000003,
+        "neg_risk": false,
+        "end_date": "2026-05-31T00:00:00Z",
+        "categories": [
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Interception indicates flotilla's approach to Gaza (1 hop).",
+        "event_id": "400310",
+        "event_title": "Gaza flotilla enters Israeli waters by May 31?",
+        "event_slug": "gaza-flotilla-enters-israeli-waters-by-31",
+        "detected_yes_price": 0.12,
+        "detected_no_price": 0.9,
+        "detected_at": 1779091578414,
+        "highest_price_change": 3,
+        "highest_yes_price": 0.48,
+        "highest_no_price": 0.91,
+        "first_moved_at": 1779092033402,
+        "moved_side": "yes",
+        "peaked_at": 1779096133403
+      },
+      "_scraped_at": "2026-05-18T09:41:35.848548+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 2,
+      "feed_item": {
+        "id": "c65e19a9-a327-455f-8e25-db8ee3e7913e",
+        "timestamp": 1779014018870,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "c65e19a9-a327-455f-8e25-db8ee3e7913e",
+          "text": "\"Nato to press Europe's arms makers to boost investment and production\": Rutte plans to pressure EU defense companies to please Trump.\n\n\"NATO Secretary General Mark Rutte will hold a meeting with leading European defense companies next week to demand that they increase investments and production. The aim is to strengthen the continent's military potential and please Trump, who criticizes Europe for insufficient spending. Particular emphasis is placed on air defense and long-range missiles - areas where Europe is critically dependent on the USA.\n\nRutte wants companies to invest now, without waiting for government orders, and to remove barriers to production growth. This is part of the preparation for the July summit in Ankara, where NATO intends to demonstrate progress in meeting Trump's demand to increase defense spending to 5% of GDP.\"\n\n@Slavyangrad",
+          "channel": "Slavyangrad",
+          "timestamp": 1779014018870,
+          "link": "https://t.me/Slavyangrad"
+        },
+        "osint": false,
+        "country": "TR",
+        "countries": [
+          "TR",
+          "US"
+        ],
+        "related_markets": [
+          {
+            "id": "1911805",
+            "slug": "will-trump-attend-nato-summit-279",
+            "condition_id": "0x71ee9c148f0e2b386ba959aca5954c5e6c428695bf1a5fca0af9194f40487758",
+            "title": "",
+            "question": "Will Trump attend NATO Summit?",
+            "description": "This market will resolve to \"Yes\" if Donald Trump attends the NATO Summit event scheduled for July 7, 2026 \u2013 July 8, 2026\n in Ankara, T\u00fcrkiye. Otherwise, this market will resolve to \"No\".\n\nIf the event is canceled or postponed beyond August 30, 2026, 11:59 PM ET, this market will resolve to \"No\".\n\nAttending the NATO Summit is defined as being in physical attendance in the event at any point between the start and end of the Summit.\n\nThe resolution source will be a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-attend-nato-summit-unvbLOEMlmPe.jpg",
+            "yes_token_id": "67042310885450861505858685071403206381860073931428002996580735846555260861922",
+            "yes_probability": 0.71,
+            "yes_best_bid": 0.59,
+            "yes_best_ask": 0.71,
+            "yes_spread": 0.12,
+            "no_token_id": "87965406190444435272170809622140945691391816988039603983609241847568810131207",
+            "no_probability": 0.41,
+            "no_best_bid": 0.29,
+            "no_best_ask": 0.41,
+            "no_spread": 0.12,
+            "volume": 10046.089700000022,
+            "liquidity": 443654.91999999987,
+            "neg_risk": false,
+            "end_date": "2026-07-08T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Rutte's meeting with defense companies is directly related to Trump's attendance.",
+            "event_id": "354937",
+            "event_title": "Will Trump attend NATO Summit?",
+            "event_slug": "will-trump-attend-nato-summit-279",
+            "detected_yes_price": 0.78,
+            "detected_no_price": 0.22999999999999998,
+            "detected_at": 1779014038394,
+            "highest_price_change": 0.782608695652174,
+            "highest_yes_price": 0.78,
+            "highest_no_price": 0.41,
+            "first_moved_at": 1779014292208,
+            "moved_side": "no",
+            "peaked_at": 1779092584818
+          }
+        ],
+        "topics": [
+          "ukraine-war",
+          "ai-tech",
+          "shutdown"
+        ],
+        "categories": [
+          "geopolitics",
+          "tech",
+          "world",
+          "economy",
+          "climate"
+        ]
+      },
+      "related_market": {
+        "id": "1911805",
+        "slug": "will-trump-attend-nato-summit-279",
+        "condition_id": "0x71ee9c148f0e2b386ba959aca5954c5e6c428695bf1a5fca0af9194f40487758",
+        "title": "",
+        "question": "Will Trump attend NATO Summit?",
+        "description": "This market will resolve to \"Yes\" if Donald Trump attends the NATO Summit event scheduled for July 7, 2026 \u2013 July 8, 2026\n in Ankara, T\u00fcrkiye. Otherwise, this market will resolve to \"No\".\n\nIf the event is canceled or postponed beyond August 30, 2026, 11:59 PM ET, this market will resolve to \"No\".\n\nAttending the NATO Summit is defined as being in physical attendance in the event at any point between the start and end of the Summit.\n\nThe resolution source will be a consensus of credible reporting.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-attend-nato-summit-unvbLOEMlmPe.jpg",
+        "yes_token_id": "67042310885450861505858685071403206381860073931428002996580735846555260861922",
+        "yes_probability": 0.71,
+        "yes_best_bid": 0.59,
+        "yes_best_ask": 0.71,
+        "yes_spread": 0.12,
+        "no_token_id": "87965406190444435272170809622140945691391816988039603983609241847568810131207",
+        "no_probability": 0.41,
+        "no_best_bid": 0.29,
+        "no_best_ask": 0.41,
+        "no_spread": 0.12,
+        "volume": 10046.089700000022,
+        "liquidity": 443654.91999999987,
+        "neg_risk": false,
+        "end_date": "2026-07-08T00:00:00Z",
+        "categories": [
+          "politics",
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 9,
+        "impact_level": "critical",
+        "impact_reason": "Rutte's meeting with defense companies is directly related to Trump's attendance.",
+        "event_id": "354937",
+        "event_title": "Will Trump attend NATO Summit?",
+        "event_slug": "will-trump-attend-nato-summit-279",
+        "detected_yes_price": 0.78,
+        "detected_no_price": 0.22999999999999998,
+        "detected_at": 1779014038394,
+        "highest_price_change": 0.782608695652174,
+        "highest_yes_price": 0.78,
+        "highest_no_price": 0.41,
+        "first_moved_at": 1779014292208,
+        "moved_side": "no",
+        "peaked_at": 1779092584818
+      },
+      "_scraped_at": "2026-05-18T09:41:35.848548+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 3,
+      "feed_item": {
+        "id": "67f58f83-6010-43f6-bb09-90bb35612ca9",
+        "timestamp": 1779019238985,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "67f58f83-6010-43f6-bb09-90bb35612ca9",
+          "text": "\ud83c\uddec\ud83c\udde7British Prime Minister Starmer told his friends that he would resign himself \u2014 Daily Mail\n\n - A political crisis has erupted in Britain \u2014 officials are massively resigning due to their unwillingness to work with the current prime minister.\n\n - Five people have already left their posts, including ministers and their deputies.\n\n - The situation seriously complicates Starmer's stay in office, especially against the backdrop of the Labour Party's failure in local elections, where the party lost 399 council seats.\n\n - Yesterday, tens of thousands of people took to the streets of London for two large-scale protests \u2014 participants chanted slogans against the prime minister's government.\n\n - It's still unclear exactly when Starmer will make his announcement.\n\n - Previously, Bloomberg reported that Labour plans to replace Starmer with Andy Burnham, the mayor of Greater Manchester.\n\n@Slavyangrad",
+          "channel": "Slavyangrad",
+          "timestamp": 1779019238985,
+          "link": "https://t.me/Slavyangrad"
+        },
+        "osint": false,
+        "country": "GB",
+        "countries": [
+          "GB"
+        ],
+        "related_markets": [
+          {
+            "id": "1343456",
+            "slug": "next-uk-prime-minister-in-2026-122",
+            "condition_id": "0xe955eda79ad9ac1e9c055edc23fb5134eb2ace68508645d261c4de8db921f8fa",
+            "title": "Angela Rayner",
+            "question": "Will Angela Rayner be the next Prime Minister of the United Kingdom in 2026?",
+            "description": "This market will resolve to the next individual who is officially appointed as Prime Minister of the United Kingdom by December 31, 2026, 11:59 PM ET.\n\nTo count for resolution, the individual must be officially appointed by the United Kingdom Monarch. Any interim or caretaker Prime Minister will not count toward the resolution of this market.\n\nIf no such Prime Minister is appointed by December 31, 2026, 11:59 PM ET, this market will resolve to \u201cNo Next PM in 2026\u201d.\n\nThe primary resolution source for this market will be official information from the Government of the United Kingdom; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-angela-rayner-be-the-next-prime-minister-of-the-united-kingdom-in-2026-4LW1eO3q3IBY.jpg",
+            "yes_token_id": "54066963382974859240347310461020134785981724636635890298517360968400982528991",
+            "yes_probability": 0.09,
+            "yes_best_bid": 0.08,
+            "yes_best_ask": 0.09,
+            "yes_spread": 0.009999999999999995,
+            "no_token_id": "341760906399923559682824982870791179504347648524865319277821837070071218382",
+            "no_probability": 0.92,
+            "no_best_bid": 0.91,
+            "no_best_ask": 0.92,
+            "no_spread": 0.010000000000000009,
+            "volume": 474868.9658010812,
+            "liquidity": 184517.16000000003,
+            "neg_risk": true,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Starmer's potential resignation directly impacts leadership election candidates (1 hop).",
+            "event_id": "199763",
+            "event_title": "Next UK Prime Minister in 2026?",
+            "event_slug": "next-uk-prime-minister-in-2026-122",
+            "detected_yes_price": 0.11,
+            "detected_no_price": 0.9,
+            "detected_at": 1779019292939,
+            "highest_price_change": 0.02222222222222224,
+            "highest_yes_price": 0.11,
+            "highest_no_price": 0.92,
+            "first_moved_at": 1779090656016,
+            "moved_side": "no",
+            "peaked_at": 1779096289454
+          },
+          {
+            "id": "2252171",
+            "slug": "candidates-in-next-labour-leadership-election",
+            "condition_id": "0xb0d456314cbe5014da46ff5d3e98782e127b51c6486a39dc15d5e03cb6cbbab6",
+            "title": "Al Carns",
+            "question": "Will Al Carns be a candidate in the next Labour Party leadership election?",
+            "description": "This market will resolve to \u201cYes\u201d if the listed individual is an official candidate in the next United Kingdom Labour Party leadership election by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\n\u201cOfficial candidate\u201d refers to the listed individual satisfying all applicable requirements and being officially confirmed by the Labour Party, or a consensus of credible reporting, as a candidate on the ballot for the next Labour Party leadership election. Seeking nominations, announcing an intention to run, or being reported as a potential candidate will not qualify unless the individual is officially confirmed as a candidate on the ballot.\n\nIf a Labour Party leadership election occurs, or the final candidates are confirmed, and the listed individual is not included as a candidate, this market will resolve to \u201cNo\u201d. If no such election is scheduled, or the listed individual is not officially confirmed as a candidate, by December 31, 2026, 11:59 PM ET, this market will resolve to \u201cNo\u201d.\n\nIf the listed individual becomes the next leader of the Labour Party without any competitive ballot election, that will suffice for a \u201cYes\u201d resolution.\n\nThe primary resolution source for this market will be official information from the United Kingdom Labour Party; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/candidates-in-next-labour-leadership-election-Z7PIZqj6ex0e.jpg",
+            "yes_token_id": "114567759902647622587766587357386041430666610230978328744558644011936647310827",
+            "yes_probability": 0.48,
+            "yes_best_bid": 0.26,
+            "yes_best_ask": 0.48,
+            "yes_spread": 0.21999999999999997,
+            "no_token_id": "104315046631309497957576681191911640589845187596611231571067184961748366264952",
+            "no_probability": 0.74,
+            "no_best_bid": 0.52,
+            "no_best_ask": 0.74,
+            "no_spread": 0.21999999999999997,
+            "volume": 1357.563441,
+            "liquidity": 56010.21000000001,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Starmer's potential resignation directly impacts leadership election candidates (1 hop).",
+            "event_id": "481681",
+            "event_title": "Candidates in next Labour leadership election?",
+            "event_slug": "candidates-in-next-labour-leadership-election",
+            "detected_yes_price": 0.47,
+            "detected_no_price": 0.88,
+            "detected_at": 1779019292939,
+            "highest_price_change": 0.02127659574468087,
+            "highest_yes_price": 0.48,
+            "highest_no_price": 0.88,
+            "first_moved_at": 1779090658550,
+            "moved_side": "yes",
+            "peaked_at": 1779090658550
+          },
+          {
+            "id": "2252169",
+            "slug": "candidates-in-next-labour-leadership-election",
+            "condition_id": "0xa802710a0ed100d04a9a7ac3c4431199efd5b2e61fd90cba0a34c6aa4d37a033",
+            "title": "Ed Miliband",
+            "question": "Will Ed Miliband be a candidate in the next Labour Party leadership election?",
+            "description": "This market will resolve to \u201cYes\u201d if the listed individual is an official candidate in the next United Kingdom Labour Party leadership election by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\n\u201cOfficial candidate\u201d refers to the listed individual satisfying all applicable requirements and being officially confirmed by the Labour Party, or a consensus of credible reporting, as a candidate on the ballot for the next Labour Party leadership election. Seeking nominations, announcing an intention to run, or being reported as a potential candidate will not qualify unless the individual is officially confirmed as a candidate on the ballot.\n\nIf a Labour Party leadership election occurs, or the final candidates are confirmed, and the listed individual is not included as a candidate, this market will resolve to \u201cNo\u201d. If no such election is scheduled, or the listed individual is not officially confirmed as a candidate, by December 31, 2026, 11:59 PM ET, this market will resolve to \u201cNo\u201d.\n\nIf the listed individual becomes the next leader of the Labour Party without any competitive ballot election, that will suffice for a \u201cYes\u201d resolution.\n\nThe primary resolution source for this market will be official information from the United Kingdom Labour Party; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/candidates-in-next-labour-leadership-election-Z7PIZqj6ex0e.jpg",
+            "yes_token_id": "115606300804021595662218443593608512214913990359596695588752561319653408830212",
+            "yes_probability": 0.72,
+            "yes_best_bid": 0.23,
+            "yes_best_ask": 0.72,
+            "yes_spread": 0.49,
+            "no_token_id": "22772867987669042406666191697138763287442159775995843427184541191983426264277",
+            "no_probability": 0.77,
+            "no_best_bid": 0.28,
+            "no_best_ask": 0.77,
+            "no_spread": 0.49,
+            "volume": 207.159106,
+            "liquidity": 18895.93,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Starmer's potential resignation directly impacts leadership election candidates (1 hop).",
+            "event_id": "481681",
+            "event_title": "Candidates in next Labour leadership election?",
+            "event_slug": "candidates-in-next-labour-leadership-election",
+            "detected_yes_price": 0.89,
+            "detected_no_price": 0.74,
+            "detected_at": 1779019292939,
+            "highest_price_change": 0.08108108108108115,
+            "highest_yes_price": 0.89,
+            "highest_no_price": 0.8,
+            "first_moved_at": 1779019462107,
+            "moved_side": "no",
+            "peaked_at": 1779019462107
+          },
+          {
+            "id": "2252167",
+            "slug": "candidates-in-next-labour-leadership-election",
+            "condition_id": "0xa9aebaf0db62416ddd70acd8eef6bf17902bc1d31746d9286a1b3c3e4fc612bb",
+            "title": "Keir Starmer",
+            "question": "Will Keir Starmer be a candidate in the next Labour Party leadership election?",
+            "description": "This market will resolve to \u201cYes\u201d if the listed individual is an official candidate in the next United Kingdom Labour Party leadership election by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\n\u201cOfficial candidate\u201d refers to the listed individual satisfying all applicable requirements and being officially confirmed by the Labour Party, or a consensus of credible reporting, as a candidate on the ballot for the next Labour Party leadership election. Seeking nominations, announcing an intention to run, or being reported as a potential candidate will not qualify unless the individual is officially confirmed as a candidate on the ballot.\n\nIf a Labour Party leadership election occurs, or the final candidates are confirmed, and the listed individual is not included as a candidate, this market will resolve to \u201cNo\u201d. If no such election is scheduled, or the listed individual is not officially confirmed as a candidate, by December 31, 2026, 11:59 PM ET, this market will resolve to \u201cNo\u201d.\n\nIf the listed individual becomes the next leader of the Labour Party without any competitive ballot election, that will suffice for a \u201cYes\u201d resolution.\n\nThe primary resolution source for this market will be official information from the United Kingdom Labour Party; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/candidates-in-next-labour-leadership-election-Z7PIZqj6ex0e.jpg",
+            "yes_token_id": "52344545510331142508599305858377875730087565469563318662174842777863688993751",
+            "yes_probability": 0.21,
+            "yes_best_bid": 0.17,
+            "yes_best_ask": 0.21,
+            "yes_spread": 0.03999999999999998,
+            "no_token_id": "73156653856350642593489288420272506809499429442351120090316353142588872492630",
+            "no_probability": 0.83,
+            "no_best_bid": 0.79,
+            "no_best_ask": 0.83,
+            "no_spread": 0.039999999999999925,
+            "volume": 7031.350310999999,
+            "liquidity": 142388.9,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Starmer's potential resignation directly impacts leadership election candidates (1 hop).",
+            "event_id": "481681",
+            "event_title": "Candidates in next Labour leadership election?",
+            "event_slug": "candidates-in-next-labour-leadership-election",
+            "detected_yes_price": 0.3,
+            "detected_no_price": 0.78,
+            "detected_at": 1779019292939,
+            "highest_price_change": 0.46666666666666673,
+            "highest_yes_price": 0.44,
+            "highest_no_price": 0.84,
+            "first_moved_at": 1779019292998,
+            "moved_side": "yes",
+            "peaked_at": 1779019292998
+          },
+          {
+            "id": "2252170",
+            "slug": "candidates-in-next-labour-leadership-election",
+            "condition_id": "0x82f70f48cc8608aee1f9daf75f842cb9b5438b72cde0d120736cbd3c180255ce",
+            "title": "Angela Rayner",
+            "question": "Will Angela Rayner be a candidate in the next Labour Party leadership election?",
+            "description": "This market will resolve to \u201cYes\u201d if the listed individual is an official candidate in the next United Kingdom Labour Party leadership election by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\n\u201cOfficial candidate\u201d refers to the listed individual satisfying all applicable requirements and being officially confirmed by the Labour Party, or a consensus of credible reporting, as a candidate on the ballot for the next Labour Party leadership election. Seeking nominations, announcing an intention to run, or being reported as a potential candidate will not qualify unless the individual is officially confirmed as a candidate on the ballot.\n\nIf a Labour Party leadership election occurs, or the final candidates are confirmed, and the listed individual is not included as a candidate, this market will resolve to \u201cNo\u201d. If no such election is scheduled, or the listed individual is not officially confirmed as a candidate, by December 31, 2026, 11:59 PM ET, this market will resolve to \u201cNo\u201d.\n\nIf the listed individual becomes the next leader of the Labour Party without any competitive ballot election, that will suffice for a \u201cYes\u201d resolution.\n\nThe primary resolution source for this market will be official information from the United Kingdom Labour Party; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/candidates-in-next-labour-leadership-election-Z7PIZqj6ex0e.jpg",
+            "yes_token_id": "25972599652044540410473440940593804497579813412347392803340867843590259030339",
+            "yes_probability": 0.59,
+            "yes_best_bid": 0.46,
+            "yes_best_ask": 0.59,
+            "yes_spread": 0.12999999999999995,
+            "no_token_id": "95006051306142158229929816503244015261920650360806228743112928396492396481068",
+            "no_probability": 0.54,
+            "no_best_bid": 0.41,
+            "no_best_ask": 0.54,
+            "no_spread": 0.13000000000000006,
+            "volume": 583.789043,
+            "liquidity": 108098.96,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Starmer's potential resignation directly impacts leadership election candidates (1 hop).",
+            "event_id": "481681",
+            "event_title": "Candidates in next Labour leadership election?",
+            "event_slug": "candidates-in-next-labour-leadership-election",
+            "detected_yes_price": 0.59,
+            "detected_no_price": 0.48,
+            "detected_at": 1779019292939,
+            "highest_price_change": 0.43749999999999994,
+            "highest_yes_price": 0.6,
+            "highest_no_price": 0.69,
+            "first_moved_at": 1779090653046,
+            "moved_side": "no",
+            "peaked_at": 1779090786782
+          }
+        ],
+        "topics": [
+          "shutdown",
+          "ai-tech"
+        ],
+        "categories": [
+          "politics",
+          "tech",
+          "world",
+          "climate",
+          "elections"
+        ]
+      },
+      "related_market": {
+        "id": "2252167",
+        "slug": "candidates-in-next-labour-leadership-election",
+        "condition_id": "0xa9aebaf0db62416ddd70acd8eef6bf17902bc1d31746d9286a1b3c3e4fc612bb",
+        "title": "Keir Starmer",
+        "question": "Will Keir Starmer be a candidate in the next Labour Party leadership election?",
+        "description": "This market will resolve to \u201cYes\u201d if the listed individual is an official candidate in the next United Kingdom Labour Party leadership election by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\n\u201cOfficial candidate\u201d refers to the listed individual satisfying all applicable requirements and being officially confirmed by the Labour Party, or a consensus of credible reporting, as a candidate on the ballot for the next Labour Party leadership election. Seeking nominations, announcing an intention to run, or being reported as a potential candidate will not qualify unless the individual is officially confirmed as a candidate on the ballot.\n\nIf a Labour Party leadership election occurs, or the final candidates are confirmed, and the listed individual is not included as a candidate, this market will resolve to \u201cNo\u201d. If no such election is scheduled, or the listed individual is not officially confirmed as a candidate, by December 31, 2026, 11:59 PM ET, this market will resolve to \u201cNo\u201d.\n\nIf the listed individual becomes the next leader of the Labour Party without any competitive ballot election, that will suffice for a \u201cYes\u201d resolution.\n\nThe primary resolution source for this market will be official information from the United Kingdom Labour Party; however, a consensus of credible reporting may also be used.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/candidates-in-next-labour-leadership-election-Z7PIZqj6ex0e.jpg",
+        "yes_token_id": "52344545510331142508599305858377875730087565469563318662174842777863688993751",
+        "yes_probability": 0.21,
+        "yes_best_bid": 0.17,
+        "yes_best_ask": 0.21,
+        "yes_spread": 0.03999999999999998,
+        "no_token_id": "73156653856350642593489288420272506809499429442351120090316353142588872492630",
+        "no_probability": 0.83,
+        "no_best_bid": 0.79,
+        "no_best_ask": 0.83,
+        "no_spread": 0.039999999999999925,
+        "volume": 7031.350310999999,
+        "liquidity": 142388.9,
+        "neg_risk": false,
+        "end_date": "2026-12-31T00:00:00Z",
+        "categories": [
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Starmer's potential resignation directly impacts leadership election candidates (1 hop).",
+        "event_id": "481681",
+        "event_title": "Candidates in next Labour leadership election?",
+        "event_slug": "candidates-in-next-labour-leadership-election",
+        "detected_yes_price": 0.3,
+        "detected_no_price": 0.78,
+        "detected_at": 1779019292939,
+        "highest_price_change": 0.46666666666666673,
+        "highest_yes_price": 0.44,
+        "highest_no_price": 0.84,
+        "first_moved_at": 1779019292998,
+        "moved_side": "yes",
+        "peaked_at": 1779019292998
+      },
+      "_scraped_at": "2026-05-18T09:41:35.848548+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 4,
+      "feed_item": {
+        "id": "87ef077f-cc36-4003-9c59-385edd0b4741",
+        "timestamp": 1779055390883,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "87ef077f-cc36-4003-9c59-385edd0b4741",
+          "text": "\ud83c\uddec\ud83c\udde7BOROVAYA \u2013 completely liberated by troops of the West Guard Forces. We send greetings to everyone who doubted the Chief of the General Staff of the Russian Armed Forces&#39; statement regarding the liberation of the village of Borovaya in the Boguslavsky direction by units of the 1st Tank Army of the West Guard Forces. The 4th Tank Division of the 1st Tank Army took control of Borovaya in fierce fighting back in April, and subsequently cleared scattered enemy groups and demined the village. During the clearing of Borovaya, which stretched 8 kilometers along the Oskol River, basements, forest plantations, and houses were checked. Abandoned &quot;elite&quot; fighters from the 77th Airborne Brigade and the 115th Separate Mechanized Brigade of the Ukrainian Armed Forces were found everywhere, and they had to be eliminated like cornered animals in the most unpredictable places. Moreover, much of the village was mined. \u2b50\ufe0fThe village, founded in 1790 in the Russian Empire, has once again returned to the Russian state. We present to you a short film demonstrating the coordinated work of assault teams to liberate and clear Borovaya by soldiers of the 4th Tank Division of the 1st Tank Army of the Guards &quot;West.&quot; The video about the liberation of Borovaya will be continued. \u270c\ufe0fVictory will be ours! Operational space \ud83d\udc7bWe are at MAX!",
+          "channel": "Colonelcassad",
+          "timestamp": 1779055390883,
+          "link": "https://t.me/boris_rozhin"
+        },
+        "osint": false,
+        "country": "UA",
+        "countries": [
+          "UA",
+          "RU",
+          "LV",
+          "GB"
+        ],
+        "related_markets": [
+          {
+            "id": "2053875",
+            "slug": "will-russia-enter-borova-by-december-31",
+            "condition_id": "0xec843b00542f8aae316ade26229c9f88846f3af47c59d783deb7854a9594de04",
+            "title": "May 31",
+            "question": "Will Russia enter Borova by May 31?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures any territory of Borova (49.37457173620971, 37.62233412539868) by May 31, 2026, at 11:59 PM ET.\n\nTerritory will be considered captured if any part of Borova is shaded under a below specified layer on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. Otherwise, the market will resolve to \u201cNo\u201d.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \"Assessed Russian Infiltration Areas in Ukraine\", \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \n\nOnce a qualifying condition is met, any subsequent loss of control will not be considered towards the resolution of this market.\n\nIf Russia comes into control of the specified territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of whether it is shaded red in the ISW map. However, an announcement of a negotiated settlement that gives Russia de jure control will not qualify. Actual control must be established.\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-enter-borova-by-april-30--btcWqGP9ejQ.jpg",
+            "yes_token_id": "14134689807343772837729238190847521999641947937040037008053701415818800840644",
+            "yes_probability": 0.28,
+            "yes_best_bid": 0.25,
+            "yes_best_ask": 0.28,
+            "yes_spread": 0.030000000000000027,
+            "no_token_id": "75851829924555627482507497804924077893689059785511421146747501156784226496633",
+            "no_probability": 0.75,
+            "no_best_bid": 0.72,
+            "no_best_ask": 0.75,
+            "no_spread": 0.030000000000000027,
+            "volume": 14125.764833060002,
+            "liquidity": 87399.63999999998,
+            "neg_risk": false,
+            "end_date": "2026-05-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Factual report of liberation indicates Russia's control of Borovaya (1 hop).",
+            "event_id": "91164",
+            "event_title": "Will Russia enter Borova by...?",
+            "event_slug": "will-russia-enter-borova-by-december-31",
+            "detected_yes_price": 0.45,
+            "detected_no_price": 0.63,
+            "detected_at": 1779055396453,
+            "highest_price_change": 0.2857142857142858,
+            "highest_yes_price": 0.45,
+            "highest_no_price": 0.81,
+            "first_moved_at": 1779055396463,
+            "moved_side": "no",
+            "peaked_at": 1779091521581
+          }
+        ],
+        "topics": [
+          "ukraine-war",
+          "bitcoin",
+          "ai-tech"
+        ],
+        "categories": [
+          "crypto",
+          "climate",
+          "geopolitics",
+          "tech",
+          "culture"
+        ]
+      },
+      "related_market": {
+        "id": "2053875",
+        "slug": "will-russia-enter-borova-by-december-31",
+        "condition_id": "0xec843b00542f8aae316ade26229c9f88846f3af47c59d783deb7854a9594de04",
+        "title": "May 31",
+        "question": "Will Russia enter Borova by May 31?",
+        "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures any territory of Borova (49.37457173620971, 37.62233412539868) by May 31, 2026, at 11:59 PM ET.\n\nTerritory will be considered captured if any part of Borova is shaded under a below specified layer on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. Otherwise, the market will resolve to \u201cNo\u201d.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \"Assessed Russian Infiltration Areas in Ukraine\", \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \n\nOnce a qualifying condition is met, any subsequent loss of control will not be considered towards the resolution of this market.\n\nIf Russia comes into control of the specified territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of whether it is shaded red in the ISW map. However, an announcement of a negotiated settlement that gives Russia de jure control will not qualify. Actual control must be established.\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map will not be considered.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-enter-borova-by-april-30--btcWqGP9ejQ.jpg",
+        "yes_token_id": "14134689807343772837729238190847521999641947937040037008053701415818800840644",
+        "yes_probability": 0.28,
+        "yes_best_bid": 0.25,
+        "yes_best_ask": 0.28,
+        "yes_spread": 0.030000000000000027,
+        "no_token_id": "75851829924555627482507497804924077893689059785511421146747501156784226496633",
+        "no_probability": 0.75,
+        "no_best_bid": 0.72,
+        "no_best_ask": 0.75,
+        "no_spread": 0.030000000000000027,
+        "volume": 14125.764833060002,
+        "liquidity": 87399.63999999998,
+        "neg_risk": false,
+        "end_date": "2026-05-31T00:00:00Z",
+        "categories": [
+          "politics",
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 9,
+        "impact_level": "critical",
+        "impact_reason": "Factual report of liberation indicates Russia's control of Borovaya (1 hop).",
+        "event_id": "91164",
+        "event_title": "Will Russia enter Borova by...?",
+        "event_slug": "will-russia-enter-borova-by-december-31",
+        "detected_yes_price": 0.45,
+        "detected_no_price": 0.63,
+        "detected_at": 1779055396453,
+        "highest_price_change": 0.2857142857142858,
+        "highest_yes_price": 0.45,
+        "highest_no_price": 0.81,
+        "first_moved_at": 1779055396463,
+        "moved_side": "no",
+        "peaked_at": 1779091521581
+      },
+      "_scraped_at": "2026-05-18T09:41:35.848548+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 5,
+      "feed_item": {
+        "id": "d620ff7a-c9fa-460f-affc-23c1507f939c",
+        "timestamp": 1779043057000,
+        "tweet": {
+          "feed_item_id": "d620ff7a-c9fa-460f-affc-23c1507f939c",
+          "post_id": "2056081721100325363",
+          "post_type": "tweet",
+          "created_at": 1779043057000,
+          "user": {
+            "uid": "3295423333",
+            "handle": "FirstSquawk",
+            "display_name": "First Squawk",
+            "pfp": "https://pbs.twimg.com/profile_images/1039778545738964992/6fl6RNN0_normal.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "CHINA AGREES TO BUY AT LEAST USD 17 BLN OF US AGRICULTURAL PRODUCTS ANNUALLY THROUGH 2028 - WHITE HOUSE FACT SHEET ON TRUMP'S TWO-DAY CHINA SUMMIT",
+          "link": "https://twitter.com/FirstSquawk/status/2056081721100325363"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "US",
+        "countries": [
+          "US",
+          "CN"
+        ],
+        "related_markets": [
+          {
+            "id": "2169833",
+            "slug": "us-x-china-tariff-agreement-by-may-31",
+            "condition_id": "0x2e17fe4fd80ffaa342b1ce15d59e56c0347a90422d90e6345048be78e1963b17",
+            "title": "",
+            "question": "US x China tariff agreement by May 31?",
+            "description": "This market will resolve to \"Yes\" if an official agreement over tariffs, defined as a publicly announced mutual agreement, is reached between the United States and China between market creation and May 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nIf such an agreement is officially reached before the resolution date, this market will resolve to \"Yes\", regardless of if/when the agreement goes into effect.\n\nInformal and unilateral announcements which do not constitute a finalized agreement will not count.\n\nThe publicly announced lowering of tariffs by both China and the U.S. will qualify as a mutual agreement over trade and/or tariffs if confirmed as part of a mutual agreement by an overwhelming consensus of credible reporting, even if a formal agreement isn\u2019t mutually announced.\n\nAgreements that include the United States and China as parties, even if they also involve other countries will qualify for resolution.\n\nThe primary resolution source for this market will be an official announcement by the United States and the People's Republic of China, however an overwhelming consensus of credible reporting confirming an agreement has been reached will also qualify.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-china-tariff-agreement-by-may-31-f4LqeJiDFWkV.jpg",
+            "yes_token_id": "61143284014795478090510269387822789388432375295777071415106932848883796236195",
+            "yes_probability": 0.17,
+            "yes_best_bid": 0.15,
+            "yes_best_ask": 0.17,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "2793916119341063852182618203342919908068594586222007593232398465218737159069",
+            "no_probability": 0.85,
+            "no_best_bid": 0.83,
+            "no_best_ask": 0.85,
+            "no_spread": 0.020000000000000018,
+            "volume": 78984.819189,
+            "liquidity": 146654.33000000002,
+            "neg_risk": false,
+            "end_date": "2026-05-31T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "China's agreement to buy US agricultural products directly supports tariff negotiations.",
+            "event_id": "453170",
+            "event_title": "US x China tariff agreement by May 31?",
+            "event_slug": "us-x-china-tariff-agreement-by-may-31",
+            "detected_yes_price": 0.3,
+            "detected_no_price": 0.73,
+            "detected_at": 1779043091171,
+            "highest_price_change": 0.1643835616438356,
+            "highest_yes_price": 0.3,
+            "highest_no_price": 0.85,
+            "first_moved_at": 1779043097670,
+            "moved_side": "no",
+            "peaked_at": 1779091663194
+          },
+          {
+            "id": "2169751",
+            "slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "condition_id": "0x0cfac875e3fa84e292a97256b74432c236904d1a3e46fe8b489978122bdc663b",
+            "title": "Tariff Reduction",
+            "question": "Will Trump announce a tariff reduction on China?",
+            "description": "This market will resolve to \u201cYes\u201d if Donald Trump or the Trump administration announces a reduction, removal, or suspension of any existing tariffs on China between market creation and May 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nOnly tariff reductions specifically announced in relation to China, goods from China, or a specific set of countries including China will qualify. For example, an announced reduction in global tariffs will not count toward this market\u2019s resolution.\n\nOnly definitive announcements qualify. Suggestions, negotiations, expressions of openness, or other non-definitive statements will not qualify.\n\nTariff reductions, removals, or suspensions announced as part of a mutual agreement or deal between the United States and China will qualify.\n\nAny qualifying action announced within this market\u2019s time frame will count, regardless of whether or when the tariff reduction, removal, or suspension goes into effect.\n\nThis market\u2019s primary resolution source will be official information from the Trump administration; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-xi-summit-what-will-trump-announce-by-may-22-dnHPwUKytUMR.jpg",
+            "yes_token_id": "67500088822425193611028555717491802967214637594198331061571697869465035016178",
+            "yes_probability": 0.15,
+            "yes_best_bid": 0.12,
+            "yes_best_ask": 0.15,
+            "yes_spread": 0.03,
+            "no_token_id": "39934818650392653302435843762090475578361428023990701131439493646151563643962",
+            "no_probability": 0.88,
+            "no_best_bid": 0.85,
+            "no_best_ask": 0.88,
+            "no_spread": 0.030000000000000027,
+            "volume": 56121.03781981996,
+            "liquidity": 138279.98999999996,
+            "neg_risk": false,
+            "end_date": "2026-05-22T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "The commitment to buy US products suggests potential tariff reductions.",
+            "event_id": "453131",
+            "event_title": "Trump-Xi Summit: What will Trump announce by May 22?",
+            "event_slug": "trump-xi-summit-what-will-trump-announce-by-may-22",
+            "detected_yes_price": 0.21,
+            "detected_no_price": 0.8200000000000001,
+            "detected_at": 1779043091171,
+            "highest_price_change": 0.19047619047619052,
+            "highest_yes_price": 0.25,
+            "highest_no_price": 0.9,
+            "first_moved_at": 1779090648715,
+            "moved_side": "yes",
+            "peaked_at": 1779090701433
+          }
+        ],
+        "topics": null,
+        "categories": [
+          "world",
+          "politics"
+        ]
+      },
+      "related_market": {
+        "id": "2169833",
+        "slug": "us-x-china-tariff-agreement-by-may-31",
+        "condition_id": "0x2e17fe4fd80ffaa342b1ce15d59e56c0347a90422d90e6345048be78e1963b17",
+        "title": "",
+        "question": "US x China tariff agreement by May 31?",
+        "description": "This market will resolve to \"Yes\" if an official agreement over tariffs, defined as a publicly announced mutual agreement, is reached between the United States and China between market creation and May 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nIf such an agreement is officially reached before the resolution date, this market will resolve to \"Yes\", regardless of if/when the agreement goes into effect.\n\nInformal and unilateral announcements which do not constitute a finalized agreement will not count.\n\nThe publicly announced lowering of tariffs by both China and the U.S. will qualify as a mutual agreement over trade and/or tariffs if confirmed as part of a mutual agreement by an overwhelming consensus of credible reporting, even if a formal agreement isn\u2019t mutually announced.\n\nAgreements that include the United States and China as parties, even if they also involve other countries will qualify for resolution.\n\nThe primary resolution source for this market will be an official announcement by the United States and the People's Republic of China, however an overwhelming consensus of credible reporting confirming an agreement has been reached will also qualify.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-china-tariff-agreement-by-may-31-f4LqeJiDFWkV.jpg",
+        "yes_token_id": "61143284014795478090510269387822789388432375295777071415106932848883796236195",
+        "yes_probability": 0.17,
+        "yes_best_bid": 0.15,
+        "yes_best_ask": 0.17,
+        "yes_spread": 0.020000000000000018,
+        "no_token_id": "2793916119341063852182618203342919908068594586222007593232398465218737159069",
+        "no_probability": 0.85,
+        "no_best_bid": 0.83,
+        "no_best_ask": 0.85,
+        "no_spread": 0.020000000000000018,
+        "volume": 78984.819189,
+        "liquidity": 146654.33000000002,
+        "neg_risk": false,
+        "end_date": "2026-05-31T00:00:00Z",
+        "categories": [
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 9,
+        "impact_level": "critical",
+        "impact_reason": "China's agreement to buy US agricultural products directly supports tariff negotiations.",
+        "event_id": "453170",
+        "event_title": "US x China tariff agreement by May 31?",
+        "event_slug": "us-x-china-tariff-agreement-by-may-31",
+        "detected_yes_price": 0.3,
+        "detected_no_price": 0.73,
+        "detected_at": 1779043091171,
+        "highest_price_change": 0.1643835616438356,
+        "highest_yes_price": 0.3,
+        "highest_no_price": 0.85,
+        "first_moved_at": 1779043097670,
+        "moved_side": "no",
+        "peaked_at": 1779091663194
+      },
+      "_scraped_at": "2026-05-18T09:41:35.848548+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "valid": false,
+      "_scraped_at": "2026-05-18T09:41:35.848548+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "global_tension_score": 50,
+      "global_tension_level": "ELEVATED",
+      "countries": [
+        {
+          "country": "UA",
+          "count": 9,
+          "recent": [
+            {
+              "id": "a02d420a-b32c-4746-88a7-1e25be9dbe74",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779094071986
+            },
+            {
+              "id": "3d3308aa-3e93-4391-98da-ccbdde85c872",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779083403988
+            },
+            {
+              "id": "34a0dd23-84d1-4f12-b9c2-e109f9c6e9ea",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779093407727
+            },
+            {
+              "id": "453afe74-7654-4e99-9c6a-bea35f4d67d7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779086472337
+            },
+            {
+              "id": "cc96f0d1-e6a9-46f8-a5b5-a66aaeed6e8d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779096181061
+            },
+            {
+              "id": "b32744a9-dda2-4e33-ad4b-8c03e17c0de8",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779075911677
+            },
+            {
+              "id": "09f4ab68-c38a-45ef-b567-22c299a0a827",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779077772074
+            },
+            {
+              "id": "3576742e-51cc-4c9b-8206-fb6ca2aa398e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779092505840
+            },
+            {
+              "id": "838f3e2d-df66-42e8-8cab-00e328561f17",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779085211881
+            }
+          ],
+          "volume": 4669948.919046578,
+          "critical_signals": 0,
+          "high_signals": 9,
+          "low_signals": 0
+        },
+        {
+          "country": "GB",
+          "count": 9,
+          "recent": [
+            {
+              "id": "a02d420a-b32c-4746-88a7-1e25be9dbe74",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779094071986
+            },
+            {
+              "id": "3d3308aa-3e93-4391-98da-ccbdde85c872",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779083403988
+            },
+            {
+              "id": "34a0dd23-84d1-4f12-b9c2-e109f9c6e9ea",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779093407727
+            },
+            {
+              "id": "453afe74-7654-4e99-9c6a-bea35f4d67d7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779086472337
+            },
+            {
+              "id": "cc96f0d1-e6a9-46f8-a5b5-a66aaeed6e8d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779096181061
+            },
+            {
+              "id": "09f4ab68-c38a-45ef-b567-22c299a0a827",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779077772074
+            },
+            {
+              "id": "3576742e-51cc-4c9b-8206-fb6ca2aa398e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779092505840
+            },
+            {
+              "id": "838f3e2d-df66-42e8-8cab-00e328561f17",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779085211881
+            },
+            {
+              "id": "abec5437-6574-43cb-a1f4-d9d3a4702452",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779077171704
+            }
+          ],
+          "volume": 7629398.13936756,
+          "critical_signals": 0,
+          "high_signals": 9,
+          "low_signals": 0
+        },
+        {
+          "country": "RU",
+          "count": 8,
+          "recent": [
+            {
+              "id": "a02d420a-b32c-4746-88a7-1e25be9dbe74",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779094071986
+            },
+            {
+              "id": "3d3308aa-3e93-4391-98da-ccbdde85c872",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779083403988
+            },
+            {
+              "id": "34a0dd23-84d1-4f12-b9c2-e109f9c6e9ea",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779093407727
+            },
+            {
+              "id": "910ee0bb-aa99-4ed4-8c2a-14a7aa28cfe3",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1779090945994
+            },
+            {
+              "id": "cc96f0d1-e6a9-46f8-a5b5-a66aaeed6e8d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779096181061
+            },
+            {
+              "id": "09f4ab68-c38a-45ef-b567-22c299a0a827",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779077772074
+            },
+            {
+              "id": "3576742e-51cc-4c9b-8206-fb6ca2aa398e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779092505840
+            },
+            {
+              "id": "838f3e2d-df66-42e8-8cab-00e328561f17",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779085211881
+            }
+          ],
+          "volume": 4618810.806399577,
+          "critical_signals": 1,
+          "high_signals": 7,
+          "low_signals": 0
+        },
+        {
+          "country": "IR",
+          "count": 7,
+          "recent": [
+            {
+              "id": "9b37acab-c3b5-4381-9fae-138a69099404",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1779091903196
+            },
+            {
+              "id": "8adb045e-6a1e-48d0-9260-93c502c0571c",
+              "kind": "news",
+              "impact": "critical",
+              "timestamp": 1779091612933
+            },
+            {
+              "id": "68049fc5-80c6-4052-a0df-162caeb0995f",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779080776153
+            },
+            {
+              "id": "3db6e027-4c4a-4b51-a41c-a028b2aebded",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779089472343
+            },
+            {
+              "id": "c75411c1-96dc-4f4a-9414-92d885127a75",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779096895790
+            },
+            {
+              "id": "1c8299a3-becc-43cb-8912-cde54634ceb1",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1779092745961
+            },
+            {
+              "id": "bcd1d901-8cc2-4a7b-b56d-b150b6d2bf45",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779086850540
+            }
+          ],
+          "volume": 41419093.28062249,
+          "critical_signals": 2,
+          "high_signals": 4,
+          "low_signals": 1
+        },
+        {
+          "country": "US",
+          "count": 5,
+          "recent": [
+            {
+              "id": "8adb045e-6a1e-48d0-9260-93c502c0571c",
+              "kind": "news",
+              "impact": "critical",
+              "timestamp": 1779091612933
+            },
+            {
+              "id": "68049fc5-80c6-4052-a0df-162caeb0995f",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779080776153
+            },
+            {
+              "id": "3db6e027-4c4a-4b51-a41c-a028b2aebded",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779089472343
+            },
+            {
+              "id": "c75411c1-96dc-4f4a-9414-92d885127a75",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779096895790
+            },
+            {
+              "id": "09f4ab68-c38a-45ef-b567-22c299a0a827",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779077772074
+            }
+          ],
+          "volume": 40023991.21677387,
+          "critical_signals": 1,
+          "high_signals": 4,
+          "low_signals": 0
+        },
+        {
+          "country": "CN",
+          "count": 4,
+          "recent": [
+            {
+              "id": "3d3308aa-3e93-4391-98da-ccbdde85c872",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779083403988
+            },
+            {
+              "id": "8c557df4-120e-470f-9af6-846d0186e2a5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779095925915
+            },
+            {
+              "id": "3576742e-51cc-4c9b-8206-fb6ca2aa398e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779092505840
+            },
+            {
+              "id": "2614e642-b0a2-4b39-96fb-6a20b1a26103",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779096019798
+            }
+          ],
+          "volume": 3525985.658777054,
+          "critical_signals": 0,
+          "high_signals": 4,
+          "low_signals": 0
+        },
+        {
+          "country": "IL",
+          "count": 4,
+          "recent": [
+            {
+              "id": "03ec1e76-4831-4187-8a2a-9afbc600963c",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779095308401
+            },
+            {
+              "id": "37ccd7fc-38f5-48a3-b928-5548c005b254",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779091547567
+            },
+            {
+              "id": "839bcfbe-34e0-4bc1-9b7e-5f30ddce4836",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779091268346
+            },
+            {
+              "id": "8ac4472a-8972-4802-afb2-55784386dab2",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779093945909
+            }
+          ],
+          "volume": 244487.4753065103,
+          "critical_signals": 0,
+          "high_signals": 4,
+          "low_signals": 0
+        },
+        {
+          "country": "PK",
+          "count": 4,
+          "recent": [
+            {
+              "id": "9b37acab-c3b5-4381-9fae-138a69099404",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1779091903196
+            },
+            {
+              "id": "c75411c1-96dc-4f4a-9414-92d885127a75",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779096895790
+            },
+            {
+              "id": "1c8299a3-becc-43cb-8912-cde54634ceb1",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1779092745961
+            },
+            {
+              "id": "838f3e2d-df66-42e8-8cab-00e328561f17",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779085211881
+            }
+          ],
+          "volume": 41205732.57569288,
+          "critical_signals": 1,
+          "high_signals": 2,
+          "low_signals": 1
+        },
+        {
+          "country": "PS",
+          "count": 3,
+          "recent": [
+            {
+              "id": "03ec1e76-4831-4187-8a2a-9afbc600963c",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779095308401
+            },
+            {
+              "id": "37ccd7fc-38f5-48a3-b928-5548c005b254",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779091547567
+            },
+            {
+              "id": "8ac4472a-8972-4802-afb2-55784386dab2",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779093945909
+            }
+          ],
+          "volume": 244487.4753065103,
+          "critical_signals": 0,
+          "high_signals": 3,
+          "low_signals": 0
+        },
+        {
+          "country": "IQ",
+          "count": 1,
+          "recent": [
+            {
+              "id": "09f4ab68-c38a-45ef-b567-22c299a0a827",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779077772074
+            }
+          ],
+          "volume": 753760.0819200715,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "PE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "453afe74-7654-4e99-9c6a-bea35f4d67d7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779086472337
+            }
+          ],
+          "volume": 339831.74510699994,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "SA",
+          "count": 1,
+          "recent": [
+            {
+              "id": "09f4ab68-c38a-45ef-b567-22c299a0a827",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779077772074
+            }
+          ],
+          "volume": 753760.0819200715,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "TR",
+          "count": 1,
+          "recent": [
+            {
+              "id": "03ec1e76-4831-4187-8a2a-9afbc600963c",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779095308401
+            }
+          ],
+          "volume": 166179.86435151016,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "LV",
+          "count": 1,
+          "recent": [
+            {
+              "id": "838f3e2d-df66-42e8-8cab-00e328561f17",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779085211881
+            }
+          ],
+          "volume": 433873.2744659999,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "JP",
+          "count": 1,
+          "recent": [
+            {
+              "id": "2614e642-b0a2-4b39-96fb-6a20b1a26103",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779096019798
+            }
+          ],
+          "volume": 708848.3634139983,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "PA",
+          "count": 1,
+          "recent": [
+            {
+              "id": "cc96f0d1-e6a9-46f8-a5b5-a66aaeed6e8d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779096181061
+            }
+          ],
+          "volume": 847259.223057902,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "PH",
+          "count": 1,
+          "recent": [
+            {
+              "id": "8c557df4-120e-470f-9af6-846d0186e2a5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779095925915
+            }
+          ],
+          "volume": 358289.35093400005,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "GE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "abec5437-6574-43cb-a1f4-d9d3a4702452",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779077171704
+            }
+          ],
+          "volume": 3756512.427767054,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "CH",
+          "count": 1,
+          "recent": [
+            {
+              "id": "abec5437-6574-43cb-a1f4-d9d3a4702452",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779077171704
+            }
+          ],
+          "volume": 3756512.427767054,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        }
+      ],
+      "_scraped_at": "2026-05-18T09:41:35.848548+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
