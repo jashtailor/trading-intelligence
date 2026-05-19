@@ -1,0 +1,1783 @@
+{
+  "scraped_at": "2026-05-19T10:33:36.031375+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 5,
+  "items": [
+    {
+      "valid": false,
+      "_scraped_at": "2026-05-19T10:33:36.031375+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "0edffe33-b1d3-4283-9c73-69892534d70d",
+        "timestamp": 1779108667071,
+        "tweet": {
+          "feed_item_id": "0edffe33-b1d3-4283-9c73-69892534d70d",
+          "post_id": "2056356909188293095",
+          "post_type": "tweet",
+          "created_at": 1779108667071,
+          "user": {
+            "uid": "18856867",
+            "handle": "zerohedge",
+            "display_name": "zerohedge",
+            "pfp": "https://pbs.twimg.com/profile_images/72647502/tyler.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "Oil Slides After Iran Says US Agreed To Lift Oil Sanctions During Talks, Long-Term 'Nuclear Freeze' On Table https://www.zerohedge.com/energy/oil-slides-iran-says-us-agreed-lift-oil-sanctions-during-negotiation-period",
+          "link": "https://twitter.com/zerohedge/status/2056356909188293095",
+          "attachments": [
+            {
+              "kind": "photo",
+              "src": "https://pbs.twimg.com/card_img/2056346854535708672/VwVusr8T?format=jpg&name=orig"
+            }
+          ]
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "IR",
+        "countries": [
+          "IR"
+        ],
+        "related_markets": [
+          {
+            "id": "1931712",
+            "slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+            "condition_id": "0x2db76ff226e5eb35295c6b701ba939f911a8c69cab4b406dfb9ebe40da40844f",
+            "title": "275M",
+            "question": "Will US crude oil reserves fall to 275M by June 5?",
+            "description": "This market will resolve to \u201cYes\u201d if the U.S. Energy Information Administration publishes a weekly figure for U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve less than or equal to the specified value for any week ending on or before June 5, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve as soon as the listed value is reached, or once data has been released for the final week ending on or before June 5, 2026, and the listed value has not been reached.\n\nIf data has not been released for the final week ending on or before June 5 2026, by June 12, 2026, 11:59 PM ET, this market will resolve based on the data available at that time.\n\nThe primary resolution source for this market will be the U.S. Energy Information Administration, specifically the weekly data published for the U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve at https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCSSTUS1&f=W.\n\nNote: this market\u2019s resolution source publishes weekly values of U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve in thousands of barrels. Thus, this will be the level of specificity used to resolve this market.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-us-crude-oil-reserves-fall-to-by-may-1-asmCg2nXC0OP.jpg",
+            "yes_token_id": "103892248009194618207563121556370272500837951694881860054159199248030551087144",
+            "yes_probability": 0.028,
+            "yes_best_bid": 0.014,
+            "yes_best_ask": 0.028,
+            "yes_spread": 0.014,
+            "no_token_id": "45531484892960265494279270519091781886723391223042662142615789653073009102124",
+            "no_probability": 0.986,
+            "no_best_bid": 0.972,
+            "no_best_ask": 0.986,
+            "no_spread": 0.014000000000000012,
+            "volume": 11169.574282999998,
+            "liquidity": 200036.01000000007,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "economy",
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Lifting sanctions on Iranian oil could lead to increased supply, affecting US reserves.",
+            "event_id": "362137",
+            "event_title": "Will US crude oil reserves fall to __ by June 5?",
+            "event_slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+            "detected_yes_price": 0.036,
+            "detected_no_price": 0.985,
+            "detected_at": 1779108693262,
+            "highest_price_change": 0.027777777777777804,
+            "highest_yes_price": 0.037,
+            "highest_no_price": 0.985,
+            "first_moved_at": 1779108696741,
+            "moved_side": "yes",
+            "peaked_at": 1779108696741
+          },
+          {
+            "id": "1931708",
+            "slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+            "condition_id": "0xd5cfe69869eee679f5b750e0da0518b9d66156e200efa9407ddf25b18fee641f",
+            "title": "375M",
+            "question": "Will US crude oil reserves fall to 375M by June 5?",
+            "description": "This market will resolve to \u201cYes\u201d if the U.S. Energy Information Administration publishes a weekly figure for U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve less than or equal to the specified value for any week ending on or before June 5, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve as soon as the listed value is reached, or once data has been released for the final week ending on or before June 5, 2026, and the listed value has not been reached.\n\nIf data has not been released for the final week ending on or before June 5 2026, by June 12, 2026, 11:59 PM ET, this market will resolve based on the data available at that time.\n\nThe primary resolution source for this market will be the U.S. Energy Information Administration, specifically the weekly data published for the U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve at https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCSSTUS1&f=W.\n\nNote: this market\u2019s resolution source publishes weekly values of U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve in thousands of barrels. Thus, this will be the level of specificity used to resolve this market.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-us-crude-oil-reserves-fall-to-by-may-1-asmCg2nXC0OP.jpg",
+            "yes_token_id": "32437575735333563263901202623595070063202783400741806763561537930423661833752",
+            "yes_probability": 0.995,
+            "yes_best_bid": 0.973,
+            "yes_best_ask": 0.995,
+            "yes_spread": 0.02200000000000002,
+            "no_token_id": "72786135462614162130786107484375663150356426734488725705428259810798076709189",
+            "no_probability": 0.027,
+            "no_best_bid": 0.005,
+            "no_best_ask": 0.027,
+            "no_spread": 0.022,
+            "volume": 15163.074104,
+            "liquidity": 190032.89000000004,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "economy",
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Increased oil supply from Iran could lower US crude reserves.",
+            "event_id": "362137",
+            "event_title": "Will US crude oil reserves fall to __ by June 5?",
+            "event_slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+            "detected_yes_price": 0.979,
+            "detected_no_price": 0.038000000000000034,
+            "detected_at": 1779108693262,
+            "highest_price_change": 0.026315789473683297,
+            "highest_yes_price": 0.997,
+            "highest_no_price": 0.039,
+            "first_moved_at": 1779108795410,
+            "moved_side": "no",
+            "peaked_at": 1779108795410
+          },
+          {
+            "id": "1931710",
+            "slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+            "condition_id": "0x718135d518c397ffca20bc77405eca43e439b8958c286149992dafe4f82dfcf7",
+            "title": "325M",
+            "question": "Will US crude oil reserves fall to 325M by June 5?",
+            "description": "This market will resolve to \u201cYes\u201d if the U.S. Energy Information Administration publishes a weekly figure for U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve less than or equal to the specified value for any week ending on or before June 5, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve as soon as the listed value is reached, or once data has been released for the final week ending on or before June 5, 2026, and the listed value has not been reached.\n\nIf data has not been released for the final week ending on or before June 5 2026, by June 12, 2026, 11:59 PM ET, this market will resolve based on the data available at that time.\n\nThe primary resolution source for this market will be the U.S. Energy Information Administration, specifically the weekly data published for the U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve at https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCSSTUS1&f=W.\n\nNote: this market\u2019s resolution source publishes weekly values of U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve in thousands of barrels. Thus, this will be the level of specificity used to resolve this market.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-us-crude-oil-reserves-fall-to-by-may-1-asmCg2nXC0OP.jpg",
+            "yes_token_id": "1612008801227897840307762590717231145225049730152424975200515384151454134694",
+            "yes_probability": 0.039,
+            "yes_best_bid": 0.013,
+            "yes_best_ask": 0.039,
+            "yes_spread": 0.026000000000000002,
+            "no_token_id": "17322369120997569112400075803774673595896165030027131438949949424563857690312",
+            "no_probability": 0.987,
+            "no_best_bid": 0.961,
+            "no_best_ask": 0.987,
+            "no_spread": 0.026000000000000023,
+            "volume": 13368.106513999997,
+            "liquidity": 178326.77999999997,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "economy",
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "The increase in oil supply from Iran may lead to a decrease in US reserves.",
+            "event_id": "362137",
+            "event_title": "Will US crude oil reserves fall to __ by June 5?",
+            "event_slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+            "detected_yes_price": 0.021,
+            "detected_no_price": 0.991,
+            "detected_at": 1779108693262,
+            "highest_price_change": 1,
+            "highest_yes_price": 0.042,
+            "highest_no_price": 0.991,
+            "first_moved_at": 1779108696841,
+            "moved_side": "yes",
+            "peaked_at": 1779185429560
+          },
+          {
+            "id": "1931709",
+            "slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+            "condition_id": "0x351b328835e3ff4d574ae836c9842a7dd72bad929d990098ce0976fb794fab9e",
+            "title": "350M",
+            "question": "Will US crude oil reserves fall to 350M by June 5?",
+            "description": "This market will resolve to \u201cYes\u201d if the U.S. Energy Information Administration publishes a weekly figure for U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve less than or equal to the specified value for any week ending on or before June 5, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve as soon as the listed value is reached, or once data has been released for the final week ending on or before June 5, 2026, and the listed value has not been reached.\n\nIf data has not been released for the final week ending on or before June 5 2026, by June 12, 2026, 11:59 PM ET, this market will resolve based on the data available at that time.\n\nThe primary resolution source for this market will be the U.S. Energy Information Administration, specifically the weekly data published for the U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve at https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCSSTUS1&f=W.\n\nNote: this market\u2019s resolution source publishes weekly values of U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve in thousands of barrels. Thus, this will be the level of specificity used to resolve this market.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-us-crude-oil-reserves-fall-to-by-may-1-asmCg2nXC0OP.jpg",
+            "yes_token_id": "96387168265315643458809578585716885635310536108297246769705618825337335111480",
+            "yes_probability": 0.5,
+            "yes_best_bid": 0.4,
+            "yes_best_ask": 0.5,
+            "yes_spread": 0.09999999999999998,
+            "no_token_id": "113665762647266579005683558516199703909298974640865815911895476519934888195593",
+            "no_probability": 0.6,
+            "no_best_bid": 0.5,
+            "no_best_ask": 0.6,
+            "no_spread": 0.09999999999999998,
+            "volume": 23038.030205000003,
+            "liquidity": 105143.91,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "economy",
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Increased Iranian oil supply could reduce US crude oil reserves.",
+            "event_id": "362137",
+            "event_title": "Will US crude oil reserves fall to __ by June 5?",
+            "event_slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+            "detected_yes_price": 0.3,
+            "detected_no_price": 0.76,
+            "detected_at": 1779108693262,
+            "highest_price_change": 0.6666666666666667,
+            "highest_yes_price": 0.5,
+            "highest_no_price": 0.76,
+            "first_moved_at": 1779108845046,
+            "moved_side": "yes",
+            "peaked_at": 1779184310621
+          },
+          {
+            "id": "1931711",
+            "slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+            "condition_id": "0x3157cfa44e8a866095918d7c383503aeb5faaa42e0d626281e98b1c6991aeab4",
+            "title": "300M",
+            "question": "Will US crude oil reserves fall to 300M by June 5?",
+            "description": "This market will resolve to \u201cYes\u201d if the U.S. Energy Information Administration publishes a weekly figure for U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve less than or equal to the specified value for any week ending on or before June 5, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve as soon as the listed value is reached, or once data has been released for the final week ending on or before June 5, 2026, and the listed value has not been reached.\n\nIf data has not been released for the final week ending on or before June 5 2026, by June 12, 2026, 11:59 PM ET, this market will resolve based on the data available at that time.\n\nThe primary resolution source for this market will be the U.S. Energy Information Administration, specifically the weekly data published for the U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve at https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCSSTUS1&f=W.\n\nNote: this market\u2019s resolution source publishes weekly values of U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve in thousands of barrels. Thus, this will be the level of specificity used to resolve this market.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-us-crude-oil-reserves-fall-to-by-may-1-asmCg2nXC0OP.jpg",
+            "yes_token_id": "56027739991484347224671805321810797281618115328485291425994287614493660958582",
+            "yes_probability": 0.046,
+            "yes_best_bid": 0.012,
+            "yes_best_ask": 0.046,
+            "yes_spread": 0.034,
+            "no_token_id": "90884114891487692211484427221900349820685318562708925670286984477629888847581",
+            "no_probability": 0.988,
+            "no_best_bid": 0.954,
+            "no_best_ask": 0.988,
+            "no_spread": 0.03400000000000003,
+            "volume": 512.8003,
+            "liquidity": 66302.95999999999,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "economy",
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Increased supply from Iran may lead to a decrease in US crude oil reserves.",
+            "event_id": "362137",
+            "event_title": "Will US crude oil reserves fall to __ by June 5?",
+            "event_slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+            "detected_yes_price": 0.036,
+            "detected_no_price": 0.99,
+            "detected_at": 1779108693262,
+            "highest_price_change": 0.5555555555555557,
+            "highest_yes_price": 0.056,
+            "highest_no_price": 0.997,
+            "first_moved_at": 1779108717276,
+            "moved_side": "yes",
+            "peaked_at": 1779184303670
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 10,
+            "price": 99.1
+          }
+        ],
+        "topics": [
+          "iran-regime",
+          "venezuela"
+        ],
+        "categories": [
+          "geopolitics",
+          "climate"
+        ]
+      },
+      "related_market": {
+        "id": "1931709",
+        "slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+        "condition_id": "0x351b328835e3ff4d574ae836c9842a7dd72bad929d990098ce0976fb794fab9e",
+        "title": "350M",
+        "question": "Will US crude oil reserves fall to 350M by June 5?",
+        "description": "This market will resolve to \u201cYes\u201d if the U.S. Energy Information Administration publishes a weekly figure for U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve less than or equal to the specified value for any week ending on or before June 5, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve as soon as the listed value is reached, or once data has been released for the final week ending on or before June 5, 2026, and the listed value has not been reached.\n\nIf data has not been released for the final week ending on or before June 5 2026, by June 12, 2026, 11:59 PM ET, this market will resolve based on the data available at that time.\n\nThe primary resolution source for this market will be the U.S. Energy Information Administration, specifically the weekly data published for the U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve at https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCSSTUS1&f=W.\n\nNote: this market\u2019s resolution source publishes weekly values of U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve in thousands of barrels. Thus, this will be the level of specificity used to resolve this market.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-us-crude-oil-reserves-fall-to-by-may-1-asmCg2nXC0OP.jpg",
+        "yes_token_id": "96387168265315643458809578585716885635310536108297246769705618825337335111480",
+        "yes_probability": 0.5,
+        "yes_best_bid": 0.4,
+        "yes_best_ask": 0.5,
+        "yes_spread": 0.09999999999999998,
+        "no_token_id": "113665762647266579005683558516199703909298974640865815911895476519934888195593",
+        "no_probability": 0.6,
+        "no_best_bid": 0.5,
+        "no_best_ask": 0.6,
+        "no_spread": 0.09999999999999998,
+        "volume": 23038.030205000003,
+        "liquidity": 105143.91,
+        "neg_risk": false,
+        "end_date": "2026-06-30T00:00:00Z",
+        "categories": [
+          "economy",
+          "politics",
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Increased Iranian oil supply could reduce US crude oil reserves.",
+        "event_id": "362137",
+        "event_title": "Will US crude oil reserves fall to __ by June 5?",
+        "event_slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+        "detected_yes_price": 0.3,
+        "detected_no_price": 0.76,
+        "detected_at": 1779108693262,
+        "highest_price_change": 0.6666666666666667,
+        "highest_yes_price": 0.5,
+        "highest_no_price": 0.76,
+        "first_moved_at": 1779108845046,
+        "moved_side": "yes",
+        "peaked_at": 1779184310621
+      },
+      "_scraped_at": "2026-05-19T10:33:36.031375+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 2,
+      "feed_item": {
+        "id": "30dbffcc-6eef-4f39-9764-a4e3bb3d71fe",
+        "timestamp": 1779101319856,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "30dbffcc-6eef-4f39-9764-a4e3bb3d71fe",
+          "text": "EU plans tougher trade measures to rebuff Chinese export surge|FJ",
+          "channel": "FinancialJuice",
+          "timestamp": 1779101319856,
+          "link": "https://t.me/FinancialJuice"
+        },
+        "osint": false,
+        "country": "CN",
+        "countries": [
+          "CN"
+        ],
+        "related_markets": [
+          {
+            "id": "1124265",
+            "slug": "eurozone-2026-annual-inflation",
+            "condition_id": "0x5fd7fba49eb48a18b624005225680f0aa42f0b5c6cb42e993328be1a70e991c5",
+            "title": "3.1%+",
+            "question": "Will the Eurozone's 2026 Annual Inflation be at least 3.1%?",
+            "description": "This is a market about the variation of consumer prices in the Eurozone over the 12-month period ending December 2026 as reported by Eurostat.\n\nThis market will resolve according to the percentage change in the Harmonised Index of Consumer Prices (HICP) over the 12-month period ending December 2026, according to the monthly Eurostat report.\n\nThe resolution source for this market will be the Eurostat Harmonised Index of Consumer Prices monthly report released for December 2026, currently scheduled to be released on January 19, 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.\n\nYou can find this report on the Eurostat website (https://ec.europa.eu/eurostat/en/) by selecting the \"Database\" option from the \"Data\" dropdown, opening the \"Data navigation tree\" folder, then the \"Economy and finance\" folder, then the \"Prices (prc)\" folder, then the \"Harmonised index of consumer prices (HICP) (prc_hicp)\" folder, and opening the file named \"HICP - monthly data (annual rate of change) (prc_hicp_manr)\". The relevant figure can be found in the column for the relevant month in the row marked \"Euro area - 20 countries (from 2023)\".\n\nNote: the resolution source for this market will be the official monthly Eurostat HICP news release which reports inflation change over 12-month periods to only one decimal point (e.g. 1.9%). Thus, this is the level of precision that will be used when resolving the market. For the full release schedule, see: https://ec.europa.eu/eurostat/web/main/news/release-calendar or https://www.ecb.europa.eu/press/calendars/statscal/ges/html/sthicp.en.html",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/november-inflation-eu-monthly-zliDSBBeyriL.jpg",
+            "yes_token_id": "88978376584963855258252615681831634358372137790743707919827538111953603497319",
+            "yes_probability": 0.705,
+            "yes_best_bid": 0.553,
+            "yes_best_ask": 0.705,
+            "yes_spread": 0.1519999999999999,
+            "no_token_id": "44465976881697390749366490200863639637286829489656129732567130513381613518868",
+            "no_probability": 0.447,
+            "no_best_bid": 0.295,
+            "no_best_ask": 0.447,
+            "no_spread": 0.15200000000000002,
+            "volume": 2195.990406000001,
+            "liquidity": 65469.10999999999,
+            "neg_risk": true,
+            "end_date": "2027-01-19T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Tougher trade measures could directly affect inflation, 1 hop.",
+            "event_id": "147795",
+            "event_title": "Eurozone Annual Inflation 2026",
+            "event_slug": "eurozone-2026-annual-inflation",
+            "detected_yes_price": 0.717,
+            "detected_no_price": 0.45599999999999996,
+            "detected_at": 1779101374931,
+            "highest_price_change": 0.052631578947368474,
+            "highest_yes_price": 0.717,
+            "highest_no_price": 0.48,
+            "first_moved_at": 1779101378787,
+            "moved_side": "no",
+            "peaked_at": 1779101422226
+          },
+          {
+            "id": "1124255",
+            "slug": "eurozone-2026-annual-inflation",
+            "condition_id": "0xc97f915b033f2176eb9f62dc9d184899e51f4803bc2bb23b20e4fb85e6c41912",
+            "title": "1.0\u20131.2%",
+            "question": "Will the Eurozone's 2026 Annual Inflation be between 1.0% and 1.2%?",
+            "description": "This is a market about the variation of consumer prices in the Eurozone over the 12-month period ending December 2026 as reported by Eurostat.\n\nThis market will resolve according to the percentage change in the Harmonised Index of Consumer Prices (HICP) over the 12-month period ending December 2026, according to the monthly Eurostat report.\n\nThe resolution source for this market will be the Eurostat Harmonised Index of Consumer Prices monthly report released for December 2026, currently scheduled to be released on January 19, 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.\n\nYou can find this report on the Eurostat website (https://ec.europa.eu/eurostat/en/) by selecting the \"Database\" option from the \"Data\" dropdown, opening the \"Data navigation tree\" folder, then the \"Economy and finance\" folder, then the \"Prices (prc)\" folder, then the \"Harmonised index of consumer prices (HICP) (prc_hicp)\" folder, and opening the file named \"HICP - monthly data (annual rate of change) (prc_hicp_manr)\". The relevant figure can be found in the column for the relevant month in the row marked \"Euro area - 20 countries (from 2023)\".\n\nNote: the resolution source for this market will be the official monthly Eurostat HICP news release which reports inflation change over 12-month periods to only one decimal point (e.g. 1.9%). Thus, this is the level of precision that will be used when resolving the market. For the full release schedule, see: https://ec.europa.eu/eurostat/web/main/news/release-calendar or https://www.ecb.europa.eu/press/calendars/statscal/ges/html/sthicp.en.html",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/november-inflation-eu-monthly-zliDSBBeyriL.jpg",
+            "yes_token_id": "8719012220068962210130233884086704157996054029369785876088585541936043361084",
+            "yes_probability": 0.067,
+            "yes_best_bid": 0.009,
+            "yes_best_ask": 0.067,
+            "yes_spread": 0.058,
+            "no_token_id": "55152275662371614827112357032195664648710333341444911183230058635699786866747",
+            "no_probability": 0.991,
+            "no_best_bid": 0.933,
+            "no_best_ask": 0.991,
+            "no_spread": 0.05799999999999994,
+            "volume": 768.971173,
+            "liquidity": 70588.06999999999,
+            "neg_risk": true,
+            "end_date": "2027-01-19T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "EU's tougher trade measures could impact inflation, 1 hop.",
+            "event_id": "147795",
+            "event_title": "Eurozone Annual Inflation 2026",
+            "event_slug": "eurozone-2026-annual-inflation",
+            "detected_yes_price": 0.067,
+            "detected_no_price": 0.987,
+            "detected_at": 1779101374931,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.067,
+            "highest_no_price": 0.987
+          },
+          {
+            "id": "1124260",
+            "slug": "eurozone-2026-annual-inflation",
+            "condition_id": "0x7cddc2578e74d176486689addf13091311ff6d08756e2661d5b4a1c17248a384",
+            "title": "1.6\u20131.8%",
+            "question": "Will the Eurozone's 2026 Annual Inflation be between 1.6% and 1.8%?",
+            "description": "This is a market about the variation of consumer prices in the Eurozone over the 12-month period ending December 2026 as reported by Eurostat.\n\nThis market will resolve according to the percentage change in the Harmonised Index of Consumer Prices (HICP) over the 12-month period ending December 2026, according to the monthly Eurostat report.\n\nThe resolution source for this market will be the Eurostat Harmonised Index of Consumer Prices monthly report released for December 2026, currently scheduled to be released on January 19, 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.\n\nYou can find this report on the Eurostat website (https://ec.europa.eu/eurostat/en/) by selecting the \"Database\" option from the \"Data\" dropdown, opening the \"Data navigation tree\" folder, then the \"Economy and finance\" folder, then the \"Prices (prc)\" folder, then the \"Harmonised index of consumer prices (HICP) (prc_hicp)\" folder, and opening the file named \"HICP - monthly data (annual rate of change) (prc_hicp_manr)\". The relevant figure can be found in the column for the relevant month in the row marked \"Euro area - 20 countries (from 2023)\".\n\nNote: the resolution source for this market will be the official monthly Eurostat HICP news release which reports inflation change over 12-month periods to only one decimal point (e.g. 1.9%). Thus, this is the level of precision that will be used when resolving the market. For the full release schedule, see: https://ec.europa.eu/eurostat/web/main/news/release-calendar or https://www.ecb.europa.eu/press/calendars/statscal/ges/html/sthicp.en.html",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/november-inflation-eu-monthly-zliDSBBeyriL.jpg",
+            "yes_token_id": "13553104868522289891706617978108934659595621559257124193405544577733275980690",
+            "yes_probability": 0.321,
+            "yes_best_bid": 0.023,
+            "yes_best_ask": 0.321,
+            "yes_spread": 0.298,
+            "no_token_id": "2801625824406672677628101033156221800975421768058051508997372638987017094156",
+            "no_probability": 0.977,
+            "no_best_bid": 0.679,
+            "no_best_ask": 0.977,
+            "no_spread": 0.29799999999999993,
+            "volume": 1184.6110860000001,
+            "liquidity": 79529.32,
+            "neg_risk": true,
+            "end_date": "2027-01-19T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Tougher trade measures could directly affect inflation, 1 hop.",
+            "event_id": "147795",
+            "event_title": "Eurozone Annual Inflation 2026",
+            "event_slug": "eurozone-2026-annual-inflation",
+            "detected_yes_price": 0.333,
+            "detected_no_price": 0.978,
+            "detected_at": 1779101374931,
+            "highest_price_change": 0.47147147147147134,
+            "highest_yes_price": 0.49,
+            "highest_no_price": 0.978,
+            "first_moved_at": 1779101630556,
+            "moved_side": "yes",
+            "peaked_at": 1779101630556
+          },
+          {
+            "id": "999095",
+            "slug": "ecb-rate-hike-in-2026",
+            "condition_id": "0x26e6aa82c5fa62e9a146521aa5bfd7b5f4c5b47b92e66507defe992bd09a173f",
+            "title": "",
+            "question": "ECB rate hike in 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if the upper bound of the European Central Bank\u2019s (ECB) deposit facility rate is increased at any point between January 1, 2026 and the conclusion of the ECB's December 2026 meeting, currently scheduled for December 16-17, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market may not resolve to \"No\" until the ECB has released its rate change decision following its December meeting. If, however, the ECB\u2019s December meeting is cancelled, postponed after December 31, 2026, or the rate change decision for that meeting is otherwise unknown by December 31, 2026, 11:59 PM ET, and no qualifying rate increase has occurred, this market will resolve immediately to \u201cNo\u201d.\n\nThe primary resolution source for this market will be the European Central Bank (https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html); however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ecb-interest-rates-april-2025-DJ5nB6uaqtx5.png",
+            "yes_token_id": "69710703968759674163085748484324424722146627292095952335925127894769358540306",
+            "yes_probability": 0.94,
+            "yes_best_bid": 0.93,
+            "yes_best_ask": 0.94,
+            "yes_spread": 0.009999999999999898,
+            "no_token_id": "3597343464032266041739128609433149999116532636381615208433676359704848009032",
+            "no_probability": 0.07,
+            "no_best_bid": 0.06,
+            "no_best_ask": 0.07,
+            "no_spread": 0.010000000000000009,
+            "volume": 115006.76716400009,
+            "liquidity": 96496.93999999999,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Tougher trade measures could directly influence ECB's decisions, 1 hop.",
+            "event_id": "118455",
+            "event_title": "ECB rate hike in 2026?",
+            "event_slug": "ecb-rate-hike-in-2026",
+            "detected_yes_price": 0.93,
+            "detected_no_price": 0.07999999999999996,
+            "detected_at": 1779101374931,
+            "highest_price_change": 0.0107526881720429,
+            "highest_yes_price": 0.94,
+            "highest_no_price": 0.07999999999999996,
+            "first_moved_at": 1779185034216,
+            "moved_side": "yes",
+            "peaked_at": 1779185034216
+          },
+          {
+            "id": "1124262",
+            "slug": "eurozone-2026-annual-inflation",
+            "condition_id": "0xbeb692033effc758cea5b40a5b50a1f0cbb00c260afd1d3ed676bdb9e16c3c82",
+            "title": "2.2\u20132.4%",
+            "question": "Will the Eurozone's 2026 Annual Inflation be between 2.2% and 2.4%?",
+            "description": "This is a market about the variation of consumer prices in the Eurozone over the 12-month period ending December 2026 as reported by Eurostat.\n\nThis market will resolve according to the percentage change in the Harmonised Index of Consumer Prices (HICP) over the 12-month period ending December 2026, according to the monthly Eurostat report.\n\nThe resolution source for this market will be the Eurostat Harmonised Index of Consumer Prices monthly report released for December 2026, currently scheduled to be released on January 19, 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.\n\nYou can find this report on the Eurostat website (https://ec.europa.eu/eurostat/en/) by selecting the \"Database\" option from the \"Data\" dropdown, opening the \"Data navigation tree\" folder, then the \"Economy and finance\" folder, then the \"Prices (prc)\" folder, then the \"Harmonised index of consumer prices (HICP) (prc_hicp)\" folder, and opening the file named \"HICP - monthly data (annual rate of change) (prc_hicp_manr)\". The relevant figure can be found in the column for the relevant month in the row marked \"Euro area - 20 countries (from 2023)\".\n\nNote: the resolution source for this market will be the official monthly Eurostat HICP news release which reports inflation change over 12-month periods to only one decimal point (e.g. 1.9%). Thus, this is the level of precision that will be used when resolving the market. For the full release schedule, see: https://ec.europa.eu/eurostat/web/main/news/release-calendar or https://www.ecb.europa.eu/press/calendars/statscal/ges/html/sthicp.en.html",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/november-inflation-eu-monthly-zliDSBBeyriL.jpg",
+            "yes_token_id": "58155526801687139897110735197238473729941397636807683121985050669073731823865",
+            "yes_probability": 0.2,
+            "yes_best_bid": 0.032,
+            "yes_best_ask": 0.2,
+            "yes_spread": 0.168,
+            "no_token_id": "45061769366459385596807127798700809713937466759258960328291644703573116862430",
+            "no_probability": 0.968,
+            "no_best_bid": 0.8,
+            "no_best_ask": 0.968,
+            "no_spread": 0.16799999999999993,
+            "volume": 1021.3593410000001,
+            "liquidity": 68392.33,
+            "neg_risk": true,
+            "end_date": "2027-01-19T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Tougher trade measures could directly affect inflation, 1 hop.",
+            "event_id": "147795",
+            "event_title": "Eurozone Annual Inflation 2026",
+            "event_slug": "eurozone-2026-annual-inflation",
+            "detected_yes_price": 0.2,
+            "detected_no_price": 0.981,
+            "detected_at": 1779101374931,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.2,
+            "highest_no_price": 0.981
+          }
+        ],
+        "topics": null,
+        "categories": [
+          "world"
+        ]
+      },
+      "related_market": {
+        "id": "1124260",
+        "slug": "eurozone-2026-annual-inflation",
+        "condition_id": "0x7cddc2578e74d176486689addf13091311ff6d08756e2661d5b4a1c17248a384",
+        "title": "1.6\u20131.8%",
+        "question": "Will the Eurozone's 2026 Annual Inflation be between 1.6% and 1.8%?",
+        "description": "This is a market about the variation of consumer prices in the Eurozone over the 12-month period ending December 2026 as reported by Eurostat.\n\nThis market will resolve according to the percentage change in the Harmonised Index of Consumer Prices (HICP) over the 12-month period ending December 2026, according to the monthly Eurostat report.\n\nThe resolution source for this market will be the Eurostat Harmonised Index of Consumer Prices monthly report released for December 2026, currently scheduled to be released on January 19, 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.\n\nYou can find this report on the Eurostat website (https://ec.europa.eu/eurostat/en/) by selecting the \"Database\" option from the \"Data\" dropdown, opening the \"Data navigation tree\" folder, then the \"Economy and finance\" folder, then the \"Prices (prc)\" folder, then the \"Harmonised index of consumer prices (HICP) (prc_hicp)\" folder, and opening the file named \"HICP - monthly data (annual rate of change) (prc_hicp_manr)\". The relevant figure can be found in the column for the relevant month in the row marked \"Euro area - 20 countries (from 2023)\".\n\nNote: the resolution source for this market will be the official monthly Eurostat HICP news release which reports inflation change over 12-month periods to only one decimal point (e.g. 1.9%). Thus, this is the level of precision that will be used when resolving the market. For the full release schedule, see: https://ec.europa.eu/eurostat/web/main/news/release-calendar or https://www.ecb.europa.eu/press/calendars/statscal/ges/html/sthicp.en.html",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/november-inflation-eu-monthly-zliDSBBeyriL.jpg",
+        "yes_token_id": "13553104868522289891706617978108934659595621559257124193405544577733275980690",
+        "yes_probability": 0.321,
+        "yes_best_bid": 0.023,
+        "yes_best_ask": 0.321,
+        "yes_spread": 0.298,
+        "no_token_id": "2801625824406672677628101033156221800975421768058051508997372638987017094156",
+        "no_probability": 0.977,
+        "no_best_bid": 0.679,
+        "no_best_ask": 0.977,
+        "no_spread": 0.29799999999999993,
+        "volume": 1184.6110860000001,
+        "liquidity": 79529.32,
+        "neg_risk": true,
+        "end_date": "2027-01-19T00:00:00Z",
+        "categories": [
+          "economy"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Tougher trade measures could directly affect inflation, 1 hop.",
+        "event_id": "147795",
+        "event_title": "Eurozone Annual Inflation 2026",
+        "event_slug": "eurozone-2026-annual-inflation",
+        "detected_yes_price": 0.333,
+        "detected_no_price": 0.978,
+        "detected_at": 1779101374931,
+        "highest_price_change": 0.47147147147147134,
+        "highest_yes_price": 0.49,
+        "highest_no_price": 0.978,
+        "first_moved_at": 1779101630556,
+        "moved_side": "yes",
+        "peaked_at": 1779101630556
+      },
+      "_scraped_at": "2026-05-19T10:33:36.031375+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 3,
+      "feed_item": {
+        "id": "649616ed-a34a-4ebb-b16d-974f62db0716",
+        "timestamp": 1779159843000,
+        "tweet": {
+          "feed_item_id": "649616ed-a34a-4ebb-b16d-974f62db0716",
+          "post_id": "2056571559771251062",
+          "post_type": "tweet",
+          "created_at": 1779159843000,
+          "user": {
+            "uid": "34713362",
+            "handle": "business",
+            "display_name": "Bloomberg",
+            "pfp": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "India\u2019s state-run refiners raised fuel prices for the second time in less than a week, as they grapple with economic losses after the Middle East conflict drove the cost of crude significantly higher https://www.bloomberg.com/news/articles/2026-05-19/india-raises-fuel-prices-again-as-iran-war-squeezes-refiners?taid=6a0bd3232bdfad0001a8581a&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+          "link": "https://twitter.com/business/status/2056571559771251062"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "IN",
+        "countries": [
+          "IN",
+          "IR"
+        ],
+        "related_markets": [
+          {
+            "id": "1353091",
+            "slug": "india-annual-inflation-2026",
+            "condition_id": "0x4c3eb9cc59964dbf8afc1b778c3178c5af15c5dd4686b1ea8da979a52d0a932b",
+            "title": "4.50%+",
+            "question": "Will India\u2019s 2026 Annual Inflation be at least 4.50%?",
+            "description": "This is a market about the variation of consumer prices in India over the 12-month period ending December 2026, as reported by the Indian Ministry of Statistics and Programme Implementation (MoSPI).\n\nThis market will resolve according to the percentage change in India\u2019s Consumer Price Index (CPI) over the 12-month period ending December 2026 (Year-on-Year inflation, over the same month of the previous year), according to the monthly MoSPI Consumer Price Index report for the specified month.\n\nThe resolution source for this market will be the MoSPI Consumer Price Index report released for December 2026, currently scheduled to be released on January 12, 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.\n\nThe relevant report will be made available upon release at: https://mospi.gov.in/latest-releases\n\nNote: This market\u2019s resolution source reports percentage change in the Indian Consumer Price Index to two decimal points (e.g. 2.01%). Thus this is the level of precision that will be used when resolving this market. For the full release schedule, see: https://www.mospi.gov.in/uploads/documents/releaseCalender/1770293210621-ADVANCE%20RELEASE%20CALENDAR%202026-27%20FINAL%2005.02.2026.pdf",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/november-inflation-india-monthly-OwmLewdCB_yG.jpg",
+            "yes_token_id": "72615506282586148745738175908634505551936585768671015055159580643179888631319",
+            "yes_probability": 0.89,
+            "yes_best_bid": 0.75,
+            "yes_best_ask": 0.89,
+            "yes_spread": 0.14,
+            "no_token_id": "90835614316574438354197984546445067617633349463331906436992004196073946791848",
+            "no_probability": 0.25,
+            "no_best_bid": 0.11,
+            "no_best_ask": 0.25,
+            "no_spread": 0.14,
+            "volume": 11255.428105000003,
+            "liquidity": 26775.88,
+            "neg_risk": true,
+            "end_date": "2027-01-12T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Rising fuel costs are a direct driver of inflation.",
+            "event_id": "201560",
+            "event_title": "India Annual Inflation 2026",
+            "event_slug": "india-annual-inflation-2026",
+            "detected_yes_price": 0.89,
+            "detected_no_price": 0.25,
+            "detected_at": 1779159959180,
+            "highest_price_change": 0.43999999999999995,
+            "highest_yes_price": 0.89,
+            "highest_no_price": 0.36,
+            "first_moved_at": 1779159978722,
+            "moved_side": "no",
+            "peaked_at": 1779186675535
+          },
+          {
+            "id": "1353087",
+            "slug": "india-annual-inflation-2026",
+            "condition_id": "0x5c4b3811fd26a0352c710dfd45f0855c44eac0f48490d61d1f0e47c8845a7e01",
+            "title": "1.50% to 2.24%",
+            "question": "Will India\u2019s 2026 Annual Inflation be between 1.50% and 2.24%?",
+            "description": "This is a market about the variation of consumer prices in India over the 12-month period ending December 2026, as reported by the Indian Ministry of Statistics and Programme Implementation (MoSPI).\n\nThis market will resolve according to the percentage change in India\u2019s Consumer Price Index (CPI) over the 12-month period ending December 2026 (Year-on-Year inflation, over the same month of the previous year), according to the monthly MoSPI Consumer Price Index report for the specified month.\n\nThe resolution source for this market will be the MoSPI Consumer Price Index report released for December 2026, currently scheduled to be released on January 12, 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.\n\nThe relevant report will be made available upon release at: https://mospi.gov.in/latest-releases\n\nNote: This market\u2019s resolution source reports percentage change in the Indian Consumer Price Index to two decimal points (e.g. 2.01%). Thus this is the level of precision that will be used when resolving this market. For the full release schedule, see: https://www.mospi.gov.in/uploads/documents/releaseCalender/1770293210621-ADVANCE%20RELEASE%20CALENDAR%202026-27%20FINAL%2005.02.2026.pdf",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/november-inflation-india-monthly-OwmLewdCB_yG.jpg",
+            "yes_token_id": "19918272897997734048549995417639125290789670348051059558672929291440356716988",
+            "yes_probability": 0.199,
+            "yes_best_bid": 0.005,
+            "yes_best_ask": 0.199,
+            "yes_spread": 0.194,
+            "no_token_id": "60867220887533279772718117046523761545023094550489399660388267849911974497182",
+            "no_probability": 0.995,
+            "no_best_bid": 0.801,
+            "no_best_ask": 0.995,
+            "no_spread": 0.19399999999999995,
+            "volume": 414.96251000000007,
+            "liquidity": 56140.770000000004,
+            "neg_risk": true,
+            "end_date": "2027-01-12T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Fuel price increase due to conflict leads to inflation expectations.",
+            "event_id": "201560",
+            "event_title": "India Annual Inflation 2026",
+            "event_slug": "india-annual-inflation-2026",
+            "detected_yes_price": 0.199,
+            "detected_no_price": 0.992,
+            "detected_at": 1779159959180,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.199,
+            "highest_no_price": 0.992
+          },
+          {
+            "id": "1353090",
+            "slug": "india-annual-inflation-2026",
+            "condition_id": "0x99f9b93f2a1722242f785513441a6b53329b974016cee38cc18ab7a6d9580734",
+            "title": "3.75% to 4.49%",
+            "question": "Will India\u2019s 2026 Annual Inflation be between 3.75% and 4.49%?",
+            "description": "This is a market about the variation of consumer prices in India over the 12-month period ending December 2026, as reported by the Indian Ministry of Statistics and Programme Implementation (MoSPI).\n\nThis market will resolve according to the percentage change in India\u2019s Consumer Price Index (CPI) over the 12-month period ending December 2026 (Year-on-Year inflation, over the same month of the previous year), according to the monthly MoSPI Consumer Price Index report for the specified month.\n\nThe resolution source for this market will be the MoSPI Consumer Price Index report released for December 2026, currently scheduled to be released on January 12, 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.\n\nThe relevant report will be made available upon release at: https://mospi.gov.in/latest-releases\n\nNote: This market\u2019s resolution source reports percentage change in the Indian Consumer Price Index to two decimal points (e.g. 2.01%). Thus this is the level of precision that will be used when resolving this market. For the full release schedule, see: https://www.mospi.gov.in/uploads/documents/releaseCalender/1770293210621-ADVANCE%20RELEASE%20CALENDAR%202026-27%20FINAL%2005.02.2026.pdf",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/november-inflation-india-monthly-OwmLewdCB_yG.jpg",
+            "yes_token_id": "102843189532968658484124724384169145431096843522820249214951840934115898522013",
+            "yes_probability": 0.183,
+            "yes_best_bid": 0.028,
+            "yes_best_ask": 0.183,
+            "yes_spread": 0.155,
+            "no_token_id": "50970027099830493460350815989298225051386405883675476958048961690789050538452",
+            "no_probability": 0.972,
+            "no_best_bid": 0.817,
+            "no_best_ask": 0.972,
+            "no_spread": 0.15500000000000003,
+            "volume": 23339.986903999998,
+            "liquidity": 108223.05,
+            "neg_risk": true,
+            "end_date": "2027-01-12T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Increased fuel costs directly impact inflation rates.",
+            "event_id": "201560",
+            "event_title": "India Annual Inflation 2026",
+            "event_slug": "india-annual-inflation-2026",
+            "detected_yes_price": 0.183,
+            "detected_no_price": 0.971,
+            "detected_at": 1779159959180,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.183,
+            "highest_no_price": 0.971
+          },
+          {
+            "id": "1353088",
+            "slug": "india-annual-inflation-2026",
+            "condition_id": "0x8aee74b7b847e182a4e80090d76c278ada71bfd9144d8cc0868c51a339524738",
+            "title": "2.25% to 2.99%",
+            "question": "Will India\u2019s 2026 Annual Inflation be between 2.25% and 2.99%?",
+            "description": "This is a market about the variation of consumer prices in India over the 12-month period ending December 2026, as reported by the Indian Ministry of Statistics and Programme Implementation (MoSPI).\n\nThis market will resolve according to the percentage change in India\u2019s Consumer Price Index (CPI) over the 12-month period ending December 2026 (Year-on-Year inflation, over the same month of the previous year), according to the monthly MoSPI Consumer Price Index report for the specified month.\n\nThe resolution source for this market will be the MoSPI Consumer Price Index report released for December 2026, currently scheduled to be released on January 12, 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.\n\nThe relevant report will be made available upon release at: https://mospi.gov.in/latest-releases\n\nNote: This market\u2019s resolution source reports percentage change in the Indian Consumer Price Index to two decimal points (e.g. 2.01%). Thus this is the level of precision that will be used when resolving this market. For the full release schedule, see: https://www.mospi.gov.in/uploads/documents/releaseCalender/1770293210621-ADVANCE%20RELEASE%20CALENDAR%202026-27%20FINAL%2005.02.2026.pdf",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/november-inflation-india-monthly-OwmLewdCB_yG.jpg",
+            "yes_token_id": "44443235501735027665735122741942606159764719806642789029088650118077813428653",
+            "yes_probability": 0.121,
+            "yes_best_bid": 0.009,
+            "yes_best_ask": 0.121,
+            "yes_spread": 0.112,
+            "no_token_id": "70946296485342437224256572603370703629407698193813436985718337513649322839237",
+            "no_probability": 0.991,
+            "no_best_bid": 0.879,
+            "no_best_ask": 0.991,
+            "no_spread": 0.11199999999999999,
+            "volume": 23764.349623000002,
+            "liquidity": 80012.16,
+            "neg_risk": true,
+            "end_date": "2027-01-12T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Increased fuel costs are a direct driver of inflation.",
+            "event_id": "201560",
+            "event_title": "India Annual Inflation 2026",
+            "event_slug": "india-annual-inflation-2026",
+            "detected_yes_price": 0.121,
+            "detected_no_price": 0.991,
+            "detected_at": 1779159959180,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.121,
+            "highest_no_price": 0.991
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 9,
+            "price": 102.935
+          }
+        ],
+        "topics": [
+          "super-bowl",
+          "ai-tech",
+          "shutdown",
+          "iran-regime",
+          "elon-musk"
+        ],
+        "categories": [
+          "earnings",
+          "world",
+          "elections",
+          "tech",
+          "culture",
+          "geopolitics"
+        ]
+      },
+      "related_market": {
+        "id": "1353091",
+        "slug": "india-annual-inflation-2026",
+        "condition_id": "0x4c3eb9cc59964dbf8afc1b778c3178c5af15c5dd4686b1ea8da979a52d0a932b",
+        "title": "4.50%+",
+        "question": "Will India\u2019s 2026 Annual Inflation be at least 4.50%?",
+        "description": "This is a market about the variation of consumer prices in India over the 12-month period ending December 2026, as reported by the Indian Ministry of Statistics and Programme Implementation (MoSPI).\n\nThis market will resolve according to the percentage change in India\u2019s Consumer Price Index (CPI) over the 12-month period ending December 2026 (Year-on-Year inflation, over the same month of the previous year), according to the monthly MoSPI Consumer Price Index report for the specified month.\n\nThe resolution source for this market will be the MoSPI Consumer Price Index report released for December 2026, currently scheduled to be released on January 12, 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.\n\nThe relevant report will be made available upon release at: https://mospi.gov.in/latest-releases\n\nNote: This market\u2019s resolution source reports percentage change in the Indian Consumer Price Index to two decimal points (e.g. 2.01%). Thus this is the level of precision that will be used when resolving this market. For the full release schedule, see: https://www.mospi.gov.in/uploads/documents/releaseCalender/1770293210621-ADVANCE%20RELEASE%20CALENDAR%202026-27%20FINAL%2005.02.2026.pdf",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/november-inflation-india-monthly-OwmLewdCB_yG.jpg",
+        "yes_token_id": "72615506282586148745738175908634505551936585768671015055159580643179888631319",
+        "yes_probability": 0.89,
+        "yes_best_bid": 0.75,
+        "yes_best_ask": 0.89,
+        "yes_spread": 0.14,
+        "no_token_id": "90835614316574438354197984546445067617633349463331906436992004196073946791848",
+        "no_probability": 0.25,
+        "no_best_bid": 0.11,
+        "no_best_ask": 0.25,
+        "no_spread": 0.14,
+        "volume": 11255.428105000003,
+        "liquidity": 26775.88,
+        "neg_risk": true,
+        "end_date": "2027-01-12T00:00:00Z",
+        "categories": [
+          "economy"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Rising fuel costs are a direct driver of inflation.",
+        "event_id": "201560",
+        "event_title": "India Annual Inflation 2026",
+        "event_slug": "india-annual-inflation-2026",
+        "detected_yes_price": 0.89,
+        "detected_no_price": 0.25,
+        "detected_at": 1779159959180,
+        "highest_price_change": 0.43999999999999995,
+        "highest_yes_price": 0.89,
+        "highest_no_price": 0.36,
+        "first_moved_at": 1779159978722,
+        "moved_side": "no",
+        "peaked_at": 1779186675535
+      },
+      "_scraped_at": "2026-05-19T10:33:36.031375+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "global_tension_score": 60,
+      "global_tension_level": "HIGH",
+      "countries": [
+        {
+          "country": "RU",
+          "count": 19,
+          "recent": [
+            {
+              "id": "ef28f0f5-02d8-4395-92e9-d81870699201",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1779181543336
+            },
+            {
+              "id": "5a3886c6-d3fb-4a98-9503-323791411acc",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779171403597
+            },
+            {
+              "id": "8e564534-eea2-41f2-93bd-7071ebb8a81c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779182743342
+            },
+            {
+              "id": "31e461b2-ec0a-4e32-9158-f615b820f3e6",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779184004544
+            },
+            {
+              "id": "4e62e301-2d63-4eb1-8e1a-65cb26c28839",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1779181966454
+            },
+            {
+              "id": "6a32e896-e0b7-4417-9455-b325cba84081",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1779175256000
+            },
+            {
+              "id": "34e32645-622e-4e32-a4f1-f0e9447c48fa",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779173803254
+            },
+            {
+              "id": "7cddb6e5-5988-4b54-92e8-7497d0a822d2",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1779181560156
+            },
+            {
+              "id": "3b85774d-5cb7-44c6-9e75-ae0433220b88",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779173961000
+            },
+            {
+              "id": "a03bbe59-97c9-44e1-893e-98a4bd114cc0",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779185020517
+            },
+            {
+              "id": "ac2eafcf-a0c0-4010-90bb-29b81e36b289",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779183763056
+            },
+            {
+              "id": "4b905d72-7639-4d59-b327-aed9987616e4",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779171510459
+            },
+            {
+              "id": "2efd6b02-e391-43d5-8f82-d9f920ddaa9f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779180103409
+            },
+            {
+              "id": "9942a7f5-41b9-4284-8965-0e5dbd856c6f",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779171510459
+            },
+            {
+              "id": "c08a2ca0-fd86-4855-aff8-c5723b191517",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779177703430
+            },
+            {
+              "id": "282a1a16-3610-4865-8bfb-f438b2ff98a4",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779170438959
+            },
+            {
+              "id": "2ede7daf-5520-460c-830b-672545dd9380",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779172332572
+            },
+            {
+              "id": "6f669fd9-1d3e-4b3f-ac8d-09c4d9b666f9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779183883054
+            },
+            {
+              "id": "8342482b-d10b-45cf-ad81-575b0ac6cd4d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779178003170
+            }
+          ],
+          "volume": 6457192.265979319,
+          "critical_signals": 4,
+          "high_signals": 15,
+          "low_signals": 0
+        },
+        {
+          "country": "GB",
+          "count": 18,
+          "recent": [
+            {
+              "id": "ef28f0f5-02d8-4395-92e9-d81870699201",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1779181543336
+            },
+            {
+              "id": "8e564534-eea2-41f2-93bd-7071ebb8a81c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779182743342
+            },
+            {
+              "id": "31e461b2-ec0a-4e32-9158-f615b820f3e6",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779184004544
+            },
+            {
+              "id": "4e62e301-2d63-4eb1-8e1a-65cb26c28839",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1779181966454
+            },
+            {
+              "id": "7cddb6e5-5988-4b54-92e8-7497d0a822d2",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1779181560156
+            },
+            {
+              "id": "3b85774d-5cb7-44c6-9e75-ae0433220b88",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779173961000
+            },
+            {
+              "id": "a03bbe59-97c9-44e1-893e-98a4bd114cc0",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779185020517
+            },
+            {
+              "id": "ac2eafcf-a0c0-4010-90bb-29b81e36b289",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779183763056
+            },
+            {
+              "id": "f1bbd915-491e-4abc-9cb7-71c191535040",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779181303500
+            },
+            {
+              "id": "f8097134-c061-42ec-b932-c55f8ba95ff1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779186008805
+            },
+            {
+              "id": "ec0e69b4-f855-4eed-8ff9-21757f56e96b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779177763175
+            },
+            {
+              "id": "2efd6b02-e391-43d5-8f82-d9f920ddaa9f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779180103409
+            },
+            {
+              "id": "282a1a16-3610-4865-8bfb-f438b2ff98a4",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779170438959
+            },
+            {
+              "id": "6f306722-e0a7-431b-9495-c696b64b3fec",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1779181303104
+            },
+            {
+              "id": "2ede7daf-5520-460c-830b-672545dd9380",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779172332572
+            },
+            {
+              "id": "6f669fd9-1d3e-4b3f-ac8d-09c4d9b666f9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779183883054
+            },
+            {
+              "id": "8342482b-d10b-45cf-ad81-575b0ac6cd4d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779178003170
+            },
+            {
+              "id": "c7783706-8df9-4d48-86f9-d41a45093d89",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779186100769
+            }
+          ],
+          "volume": 37513407.066757545,
+          "critical_signals": 3,
+          "high_signals": 14,
+          "low_signals": 1
+        },
+        {
+          "country": "UA",
+          "count": 17,
+          "recent": [
+            {
+              "id": "ef28f0f5-02d8-4395-92e9-d81870699201",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1779181543336
+            },
+            {
+              "id": "31e461b2-ec0a-4e32-9158-f615b820f3e6",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779184004544
+            },
+            {
+              "id": "4e62e301-2d63-4eb1-8e1a-65cb26c28839",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1779181966454
+            },
+            {
+              "id": "7cddb6e5-5988-4b54-92e8-7497d0a822d2",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1779181560156
+            },
+            {
+              "id": "3b85774d-5cb7-44c6-9e75-ae0433220b88",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779173961000
+            },
+            {
+              "id": "a03bbe59-97c9-44e1-893e-98a4bd114cc0",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779185020517
+            },
+            {
+              "id": "ac2eafcf-a0c0-4010-90bb-29b81e36b289",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779183763056
+            },
+            {
+              "id": "f1bbd915-491e-4abc-9cb7-71c191535040",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779181303500
+            },
+            {
+              "id": "f8097134-c061-42ec-b932-c55f8ba95ff1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779186008805
+            },
+            {
+              "id": "ec0e69b4-f855-4eed-8ff9-21757f56e96b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779177763175
+            },
+            {
+              "id": "2efd6b02-e391-43d5-8f82-d9f920ddaa9f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779180103409
+            },
+            {
+              "id": "4812a26b-2020-407d-8268-cfe5788af7ac",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779171716964
+            },
+            {
+              "id": "282a1a16-3610-4865-8bfb-f438b2ff98a4",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779170438959
+            },
+            {
+              "id": "2ede7daf-5520-460c-830b-672545dd9380",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779172332572
+            },
+            {
+              "id": "6f669fd9-1d3e-4b3f-ac8d-09c4d9b666f9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779183883054
+            },
+            {
+              "id": "8342482b-d10b-45cf-ad81-575b0ac6cd4d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779178003170
+            },
+            {
+              "id": "c7783706-8df9-4d48-86f9-d41a45093d89",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779186100769
+            }
+          ],
+          "volume": 5873952.166159443,
+          "critical_signals": 3,
+          "high_signals": 14,
+          "low_signals": 0
+        },
+        {
+          "country": "US",
+          "count": 10,
+          "recent": [
+            {
+              "id": "3cc83630-4edd-4c29-93da-627416c588c3",
+              "kind": "news",
+              "impact": "critical",
+              "timestamp": 1779179810102
+            },
+            {
+              "id": "3596bc52-8a64-4c93-ae06-b9a3fe224ec4",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779185607772
+            },
+            {
+              "id": "bf02624b-14e0-497c-8ef0-fbd029784430",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1779183643059
+            },
+            {
+              "id": "ee6378d4-a9db-4ab6-84da-7b02970e3263",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779185707490
+            },
+            {
+              "id": "6732419e-5861-4d00-baf9-07a42fb7f198",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1779174283243
+            },
+            {
+              "id": "319c96c4-04e9-4f3a-9e3c-0169d997b358",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779185564603
+            },
+            {
+              "id": "175f0b42-5c47-4303-88b2-099ad08ebaeb",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1779172526376
+            },
+            {
+              "id": "edd73bb9-4e83-4e65-8486-dfa1c3fdbac1",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779175664029
+            },
+            {
+              "id": "98753e32-45b6-49ef-a2e8-1afe476f7261",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779179455299
+            },
+            {
+              "id": "3d8e76a0-c825-416a-93a9-1c58402f21fb",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779185740581
+            }
+          ],
+          "volume": 44860952.74628169,
+          "critical_signals": 4,
+          "high_signals": 6,
+          "low_signals": 0
+        },
+        {
+          "country": "IL",
+          "count": 7,
+          "recent": [
+            {
+              "id": "4d6684d2-faa8-4c82-be15-9b8f047319ef",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779186060334
+            },
+            {
+              "id": "61c87ff4-f528-404f-b970-a3a3c95720d5",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779182957488
+            },
+            {
+              "id": "e6d13d28-274c-4931-a509-d38b2b04bc9d",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779170434057
+            },
+            {
+              "id": "edd73bb9-4e83-4e65-8486-dfa1c3fdbac1",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779175664029
+            },
+            {
+              "id": "fb37aff0-834a-41e5-9dc1-39b06d922868",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779185820519
+            },
+            {
+              "id": "6f306722-e0a7-431b-9495-c696b64b3fec",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1779181303104
+            },
+            {
+              "id": "98753e32-45b6-49ef-a2e8-1afe476f7261",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779179455299
+            }
+          ],
+          "volume": 60960819.07891728,
+          "critical_signals": 0,
+          "high_signals": 6,
+          "low_signals": 1
+        },
+        {
+          "country": "LV",
+          "count": 6,
+          "recent": [
+            {
+              "id": "ef28f0f5-02d8-4395-92e9-d81870699201",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1779181543336
+            },
+            {
+              "id": "31e461b2-ec0a-4e32-9158-f615b820f3e6",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779184004544
+            },
+            {
+              "id": "7cddb6e5-5988-4b54-92e8-7497d0a822d2",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1779181560156
+            },
+            {
+              "id": "2efd6b02-e391-43d5-8f82-d9f920ddaa9f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779180103409
+            },
+            {
+              "id": "6f669fd9-1d3e-4b3f-ac8d-09c4d9b666f9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779183883054
+            },
+            {
+              "id": "8342482b-d10b-45cf-ad81-575b0ac6cd4d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779178003170
+            }
+          ],
+          "volume": 4072614.7416679855,
+          "critical_signals": 2,
+          "high_signals": 4,
+          "low_signals": 0
+        },
+        {
+          "country": "IR",
+          "count": 5,
+          "recent": [
+            {
+              "id": "3cc83630-4edd-4c29-93da-627416c588c3",
+              "kind": "news",
+              "impact": "critical",
+              "timestamp": 1779179810102
+            },
+            {
+              "id": "bf02624b-14e0-497c-8ef0-fbd029784430",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1779183643059
+            },
+            {
+              "id": "edd73bb9-4e83-4e65-8486-dfa1c3fdbac1",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779175664029
+            },
+            {
+              "id": "6f306722-e0a7-431b-9495-c696b64b3fec",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1779181303104
+            },
+            {
+              "id": "98753e32-45b6-49ef-a2e8-1afe476f7261",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779179455299
+            }
+          ],
+          "volume": 73958279.34409085,
+          "critical_signals": 2,
+          "high_signals": 2,
+          "low_signals": 1
+        },
+        {
+          "country": "BY",
+          "count": 4,
+          "recent": [
+            {
+              "id": "5a3886c6-d3fb-4a98-9503-323791411acc",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779171403597
+            },
+            {
+              "id": "34e32645-622e-4e32-a4f1-f0e9447c48fa",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779173803254
+            },
+            {
+              "id": "9942a7f5-41b9-4284-8965-0e5dbd856c6f",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779171510459
+            },
+            {
+              "id": "c08a2ca0-fd86-4855-aff8-c5723b191517",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779177703430
+            }
+          ],
+          "volume": 36666.191538,
+          "critical_signals": 0,
+          "high_signals": 4,
+          "low_signals": 0
+        },
+        {
+          "country": "CU",
+          "count": 4,
+          "recent": [
+            {
+              "id": "038d304a-7a86-44c0-b6c5-291d2c0f3b43",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779176503200
+            },
+            {
+              "id": "bf02624b-14e0-497c-8ef0-fbd029784430",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1779183643059
+            },
+            {
+              "id": "6732419e-5861-4d00-baf9-07a42fb7f198",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1779174283243
+            },
+            {
+              "id": "175f0b42-5c47-4303-88b2-099ad08ebaeb",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1779172526376
+            }
+          ],
+          "volume": 2211150.420008539,
+          "critical_signals": 3,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "CN",
+          "count": 2,
+          "recent": [
+            {
+              "id": "6a32e896-e0b7-4417-9455-b325cba84081",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1779175256000
+            },
+            {
+              "id": "3d8e76a0-c825-416a-93a9-1c58402f21fb",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779185740581
+            }
+          ],
+          "volume": 888361.1320239975,
+          "critical_signals": 1,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "PE",
+          "count": 2,
+          "recent": [
+            {
+              "id": "ac2eafcf-a0c0-4010-90bb-29b81e36b289",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779183763056
+            },
+            {
+              "id": "f1bbd915-491e-4abc-9cb7-71c191535040",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779181303500
+            }
+          ],
+          "volume": 360801.2226539999,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "PS",
+          "count": 2,
+          "recent": [
+            {
+              "id": "e6d13d28-274c-4931-a509-d38b2b04bc9d",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779170434057
+            },
+            {
+              "id": "fb37aff0-834a-41e5-9dc1-39b06d922868",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779185820519
+            }
+          ],
+          "volume": 134551.54551500012,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "TW",
+          "count": 2,
+          "recent": [
+            {
+              "id": "037c7052-8df9-414a-afeb-b0ece3417f0b",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779170566838
+            },
+            {
+              "id": "3d8e76a0-c825-416a-93a9-1c58402f21fb",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779185740581
+            }
+          ],
+          "volume": 392820.02962800005,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "LB",
+          "count": 2,
+          "recent": [
+            {
+              "id": "4d6684d2-faa8-4c82-be15-9b8f047319ef",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779186060334
+            },
+            {
+              "id": "61c87ff4-f528-404f-b970-a3a3c95720d5",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779182957488
+            }
+          ],
+          "volume": 2103097.089351001,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "CZ",
+          "count": 1,
+          "recent": [
+            {
+              "id": "f8097134-c061-42ec-b932-c55f8ba95ff1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779186008805
+            }
+          ],
+          "volume": 337204.48604444036,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "PH",
+          "count": 1,
+          "recent": [
+            {
+              "id": "037c7052-8df9-414a-afeb-b0ece3417f0b",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779170566838
+            }
+          ],
+          "volume": 359500.52377,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "AE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "6f306722-e0a7-431b-9495-c696b64b3fec",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1779181303104
+            }
+          ],
+          "volume": 31639454.900598098,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "BR",
+          "count": 1,
+          "recent": [
+            {
+              "id": "0396ba1e-63c5-410b-8c62-d6f08e7471e8",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779185936866
+            }
+          ],
+          "volume": 5645887.007662971,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "BG",
+          "count": 1,
+          "recent": [
+            {
+              "id": "f8097134-c061-42ec-b932-c55f8ba95ff1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779186008805
+            }
+          ],
+          "volume": 337204.48604444036,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "RS",
+          "count": 1,
+          "recent": [
+            {
+              "id": "f8097134-c061-42ec-b932-c55f8ba95ff1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779186008805
+            }
+          ],
+          "volume": 337204.48604444036,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "PL",
+          "count": 1,
+          "recent": [
+            {
+              "id": "f8097134-c061-42ec-b932-c55f8ba95ff1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779186008805
+            }
+          ],
+          "volume": 337204.48604444036,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "SA",
+          "count": 1,
+          "recent": [
+            {
+              "id": "4812a26b-2020-407d-8268-cfe5788af7ac",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779171716964
+            }
+          ],
+          "volume": 149421.24235599994,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "OM",
+          "count": 1,
+          "recent": [
+            {
+              "id": "ac2eafcf-a0c0-4010-90bb-29b81e36b289",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779183763056
+            }
+          ],
+          "volume": 15078.992829,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        }
+      ],
+      "_scraped_at": "2026-05-19T10:33:36.031375+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
