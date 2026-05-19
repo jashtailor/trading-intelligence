@@ -1,0 +1,2061 @@
+{
+  "scraped_at": "2026-05-19T06:41:54.964118+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 7,
+  "items": [
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "37ccd7fc-38f5-48a3-b928-5548c005b254",
+        "timestamp": 1779091547567,
+        "tweet": null,
+        "news": {
+          "feed_item_id": "37ccd7fc-38f5-48a3-b928-5548c005b254",
+          "headline": "Israeli troops begin intercepting vessels from a flotilla trying to breach the Gaza blockade",
+          "description": "",
+          "image": "https://dims.apnews.com/dims4/default/1374861/2147483647/strip/true/crop/5189x3459+0+0/resize/240x160!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff4%2Fc0%2Fa6184e17821d2b1581cb4b183811%2Fd78680493973435c9a0d446182f2cc42",
+          "url": "https://apnews.com/article/israel-gaza-flotilla-c0574562f3b5b53a6708b498b9143246",
+          "timestamp": 1779091547567,
+          "source": "apnews"
+        },
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "IL",
+        "countries": [
+          "IL",
+          "PS"
+        ],
+        "related_markets": [
+          {
+            "id": "1642010",
+            "slug": "will-israel-launch-a-major-ground-offensive-in-gaza-by-october-31",
+            "condition_id": "0x1c39f29a392495da86a9d1882bdb7ad82bd617990a6da16674e1ee3da105e9e6",
+            "title": "December 31",
+            "question": "Will Israel launch a major ground offensive in Gaza by December 31?",
+            "description": "This market will resolve to \"Yes\" if Israel initiates a major ground offensive in Gaza by December 31, 2026, 11:59PM ET. Otherwise, this market will resolve to \"No\".\n\nA \"major ground offensive\" is defined as a large-scale military operation that involves more than 1,000 Israeli ground forces entering Gazan territory that was not under Israeli control at the start of the offensive. This excludes smaller raids, special operations, or limited incursions directly bordering buffer zones already under Israeli control.\n\nThe resolution source will be a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-israel-launch-a-major-ground-offensive-in-gaza-by-october-31-hFPYVMlPMqeR.jpg",
+            "yes_token_id": "54321071530548266672166878707765766594100313888586165986698245613205332870724",
+            "yes_probability": 0.45,
+            "yes_best_bid": 0.42,
+            "yes_best_ask": 0.45,
+            "yes_spread": 0.030000000000000027,
+            "no_token_id": "56333782793421950483875833119080130897195447801211249547040559909421499481715",
+            "no_probability": 0.58,
+            "no_best_bid": 0.55,
+            "no_best_ask": 0.58,
+            "no_spread": 0.029999999999999916,
+            "volume": 24301.785961000005,
+            "liquidity": 48096.3,
+            "neg_risk": false,
+            "end_date": "2025-10-31T00:00:00Z",
+            "categories": [
+              "world",
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Troop actions against flotilla suggest increased military engagement (1 hop).",
+            "event_id": "61890",
+            "event_title": "Will Israel launch a major ground offensive in Gaza by...?",
+            "event_slug": "will-israel-launch-a-major-ground-offensive-in-gaza-by-october-31",
+            "detected_yes_price": 0.58,
+            "detected_no_price": 0.64,
+            "detected_at": 1779091578414,
+            "highest_price_change": 0.017241379310344845,
+            "highest_yes_price": 0.59,
+            "highest_no_price": 0.65,
+            "first_moved_at": 1779091581345,
+            "moved_side": "yes",
+            "peaked_at": 1779091581661
+          },
+          {
+            "id": "1642009",
+            "slug": "will-israel-launch-a-major-ground-offensive-in-gaza-by-october-31",
+            "condition_id": "0xf15f4253eace2d74c88936cd63906abda4ff4bbf98e20cf799ba45cf6afc55e9",
+            "title": "June 30",
+            "question": "Will Israel launch a major ground offensive in Gaza by June 30?",
+            "description": "This market will resolve to \"Yes\" if Israel initiates a major ground offensive in Gaza by June 30, 2026, 11:59PM ET. Otherwise, this market will resolve to \"No\".\n\nA \"major ground offensive\" is defined as a large-scale military operation that involves more than 1,000 Israeli ground forces entering Gazan territory that was not under Israeli control at the start of the offensive. This excludes smaller raids, special operations, or limited incursions directly bordering buffer zones already under Israeli control.\n\nThe resolution source will be a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-israel-launch-a-major-ground-offensive-in-gaza-by-october-31-hFPYVMlPMqeR.jpg",
+            "yes_token_id": "75346936063969571190620358863735703777657300721118724660441519247622515981794",
+            "yes_probability": 0.17,
+            "yes_best_bid": 0.15,
+            "yes_best_ask": 0.17,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "102119753884173712975890715930153670065225317269011973013399631357327449722798",
+            "no_probability": 0.85,
+            "no_best_bid": 0.83,
+            "no_best_ask": 0.85,
+            "no_spread": 0.020000000000000018,
+            "volume": 54012.00146000013,
+            "liquidity": 98987.38000000003,
+            "neg_risk": false,
+            "end_date": "2025-10-31T00:00:00Z",
+            "categories": [
+              "world",
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Troop actions against flotilla suggest increased military engagement (1 hop).",
+            "event_id": "61890",
+            "event_title": "Will Israel launch a major ground offensive in Gaza by...?",
+            "event_slug": "will-israel-launch-a-major-ground-offensive-in-gaza-by-october-31",
+            "detected_yes_price": 0.17,
+            "detected_no_price": 0.85,
+            "detected_at": 1779091578414,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.17,
+            "highest_no_price": 0.85
+          },
+          {
+            "id": "2036170",
+            "slug": "gaza-flotilla-enters-israeli-waters-by-31",
+            "condition_id": "0x0ceab60f9942ddccac459fb4a5ac5505e4757874e974e9fbf513ec782c587c5d",
+            "title": "",
+            "question": "Gaza flotilla enters Israeli waters by May 31?",
+            "description": "A flotilla organized by the Global Sumud Flotilla, among others, set sail from Spain on April 15, 2026 to deliver aid to Gaza (see: https://apnews.com/article/global-sumud-flotilla-gaza-aid-spain-israel-94b09412fdcb1a0fd6a6e0c981479539). \n\nThis market will resolve to \u201cYes\u201d if any vessel which is part of this flotilla enters Israel\u2019s territorial sea by May 31, 2026 (ET). Otherwise, this market will resolve to \u201cNo\u201d.\n\nFor the purposes of this market, Israel\u2019s territorial sea includes the territorial waters off the coast of Gaza that are controlled by Israel.\n\nThe primary resolution source will be a consensus of credible reporting.\n",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/gaza-flotilla-enters-israeli-waters-by-31-MxC9agWuY3Jr.jpg",
+            "yes_token_id": "68420615732869571322196691898010287912689328489139159285431162350194608464652",
+            "yes_probability": 0.3,
+            "yes_best_bid": 0.29,
+            "yes_best_ask": 0.3,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "40203232286098997828303623332446526965712119921880705531366744903399347717928",
+            "no_probability": 0.71,
+            "no_best_bid": 0.7,
+            "no_best_ask": 0.71,
+            "no_spread": 0.010000000000000009,
+            "volume": 187791.27663616018,
+            "liquidity": 332308.99,
+            "neg_risk": false,
+            "end_date": "2026-05-31T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Interception indicates flotilla's approach to Gaza (1 hop).",
+            "event_id": "400310",
+            "event_title": "Gaza flotilla enters Israeli waters by May 31?",
+            "event_slug": "gaza-flotilla-enters-israeli-waters-by-31",
+            "detected_yes_price": 0.12,
+            "detected_no_price": 0.9,
+            "detected_at": 1779091578414,
+            "highest_price_change": 1.6666666666666667,
+            "highest_yes_price": 0.32,
+            "highest_no_price": 0.91,
+            "first_moved_at": 1779092033402,
+            "moved_side": "yes",
+            "peaked_at": 1779170894472
+          },
+          {
+            "id": "2036323",
+            "slug": "will-the-flotilla-reach-gaza-by-may-31",
+            "condition_id": "0x77c7b32edbe925e2a5cd677e1118e74f3db005bfe1b99ff467d70a2462ed1bea",
+            "title": "",
+            "question": "Will the flotilla reach Gaza by May 31?",
+            "description": "A flotilla organized by the Global Sumud Flotilla, among others, set sail from Spain on April 15, 2026 to deliver aid to Gaza (see: https://apnews.com/article/global-sumud-flotilla-gaza-aid-spain-israel-94b09412fdcb1a0fd6a6e0c981479539). \n\nThis market will resolve to \u201cYes\u201d if any members of this flotilla arrive in Gaza by May 31, 2026 (ET). Otherwise, this market will resolve to \u201cNo\u201d. \n\n\u201cArriving in Gaza\u201d refers to disembarking from a vessel that is part of the flotilla into Gaza\u2019s land territory.\n\nThe primary resolution source will be a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-the-flotilla-reach-gaza-by-may-31-KvgNEZaDSI9M.png",
+            "yes_token_id": "43217008777038850695607777422375807980634162648126724953186144591757278136114",
+            "yes_probability": 0.025,
+            "yes_best_bid": 0.011,
+            "yes_best_ask": 0.025,
+            "yes_spread": 0.014000000000000002,
+            "no_token_id": "74435170459908911237698036777583025273776777980121587730390870190669781026334",
+            "no_probability": 0.989,
+            "no_best_bid": 0.975,
+            "no_best_ask": 0.989,
+            "no_spread": 0.014000000000000012,
+            "volume": 6053.947146000004,
+            "liquidity": 242975.35000000003,
+            "neg_risk": false,
+            "end_date": "2026-05-31T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Interception suggests flotilla's approach to Gaza (1 hop).",
+            "event_id": "400363",
+            "event_title": "Will the flotilla reach Gaza by May 31?",
+            "event_slug": "will-the-flotilla-reach-gaza-by-may-31",
+            "detected_yes_price": 0.02,
+            "detected_no_price": 0.991,
+            "detected_at": 1779091578414,
+            "highest_price_change": 0.25000000000000006,
+            "highest_yes_price": 0.025,
+            "highest_no_price": 0.993,
+            "first_moved_at": 1779169968547,
+            "moved_side": "yes",
+            "peaked_at": 1779169968547
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 8,
+            "price": 101.785
+          }
+        ],
+        "topics": null,
+        "categories": [
+          "geopolitics"
+        ]
+      },
+      "related_market": {
+        "id": "2036170",
+        "slug": "gaza-flotilla-enters-israeli-waters-by-31",
+        "condition_id": "0x0ceab60f9942ddccac459fb4a5ac5505e4757874e974e9fbf513ec782c587c5d",
+        "title": "",
+        "question": "Gaza flotilla enters Israeli waters by May 31?",
+        "description": "A flotilla organized by the Global Sumud Flotilla, among others, set sail from Spain on April 15, 2026 to deliver aid to Gaza (see: https://apnews.com/article/global-sumud-flotilla-gaza-aid-spain-israel-94b09412fdcb1a0fd6a6e0c981479539). \n\nThis market will resolve to \u201cYes\u201d if any vessel which is part of this flotilla enters Israel\u2019s territorial sea by May 31, 2026 (ET). Otherwise, this market will resolve to \u201cNo\u201d.\n\nFor the purposes of this market, Israel\u2019s territorial sea includes the territorial waters off the coast of Gaza that are controlled by Israel.\n\nThe primary resolution source will be a consensus of credible reporting.\n",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/gaza-flotilla-enters-israeli-waters-by-31-MxC9agWuY3Jr.jpg",
+        "yes_token_id": "68420615732869571322196691898010287912689328489139159285431162350194608464652",
+        "yes_probability": 0.3,
+        "yes_best_bid": 0.29,
+        "yes_best_ask": 0.3,
+        "yes_spread": 0.010000000000000009,
+        "no_token_id": "40203232286098997828303623332446526965712119921880705531366744903399347717928",
+        "no_probability": 0.71,
+        "no_best_bid": 0.7,
+        "no_best_ask": 0.71,
+        "no_spread": 0.010000000000000009,
+        "volume": 187791.27663616018,
+        "liquidity": 332308.99,
+        "neg_risk": false,
+        "end_date": "2026-05-31T00:00:00Z",
+        "categories": [
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Interception indicates flotilla's approach to Gaza (1 hop).",
+        "event_id": "400310",
+        "event_title": "Gaza flotilla enters Israeli waters by May 31?",
+        "event_slug": "gaza-flotilla-enters-israeli-waters-by-31",
+        "detected_yes_price": 0.12,
+        "detected_no_price": 0.9,
+        "detected_at": 1779091578414,
+        "highest_price_change": 1.6666666666666667,
+        "highest_yes_price": 0.32,
+        "highest_no_price": 0.91,
+        "first_moved_at": 1779092033402,
+        "moved_side": "yes",
+        "peaked_at": 1779170894472
+      },
+      "_scraped_at": "2026-05-19T06:41:54.964118+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 2,
+      "feed_item": {
+        "id": "194cec42-b603-4159-8249-07bf37d16f4e",
+        "timestamp": 1779108561011,
+        "tweet": {
+          "feed_item_id": "194cec42-b603-4159-8249-07bf37d16f4e",
+          "post_id": "2056356464340389899",
+          "post_type": "tweet",
+          "created_at": 1779108561011,
+          "user": {
+            "uid": "18856867",
+            "handle": "zerohedge",
+            "display_name": "zerohedge",
+            "pfp": "https://pbs.twimg.com/profile_images/72647502/tyler.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "Rabobank on the latest \"newsflow\": \"Iran has established a new protocol for allowing ships to pass the strait. Araghchi says the strait is \u201copen to all commercial ships\u201d, the IRGC says that Chinese ships are being allowed to pass, Iranian state TV said that \u201cmore than 30 ships\u201d had been allowed to pass between Wednesday and Thursday, and that that number is set to accelerate. Nobody seems to know how many of the 30 ships were not Chinese.\"",
+          "link": "https://twitter.com/zerohedge/status/2056356464340389899"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "CN",
+        "countries": [
+          "CN",
+          "IR"
+        ],
+        "related_markets": [
+          {
+            "id": "1809560",
+            "slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-may",
+            "condition_id": "0x518a5b030b205706b8ffe6bbad9bd3de59548348e5c0471827f5de21e513333c",
+            "title": "",
+            "question": "Strait of Hormuz traffic returns to normal by end of May?",
+            "description": "This market will resolve to \u201cYes\u201d if IMF Portwatch publishes a 7-day moving average of transit calls (\u201cArrivals of Ships\u201d) for the Strait of Hormuz equal to or above 60 for any date between market creation and May 31, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nDaily transit calls include container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nThis market will resolve as soon as IMF Portwatch publishes a 7-day moving average of transit calls equal to or above the specified level, or once data has been published for the final date in the specified period and no such value has been published. If no data has been published for the final date of the specified period within 14 calendar days (ET) after the end of that period, this market will resolve based on data published up to that point.\n\nRevisions to previously published data points made within this market\u2019s timeframe will be considered. However, they will not disqualify a previously published data point from qualifying. Revisions to previously published data points after data is published for May 31, 2026, however, will not be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+            "yes_token_id": "75845920741796858670183364159540464375486880005358999101126589340494255300090",
+            "yes_probability": 0.055,
+            "yes_best_bid": 0.054,
+            "yes_best_ask": 0.055,
+            "yes_spread": 0.0010000000000000009,
+            "no_token_id": "100297578629699403208665948730031291871216767534595550828919035864255991611215",
+            "no_probability": 0.946,
+            "no_best_bid": 0.945,
+            "no_best_ask": 0.946,
+            "no_spread": 0.0010000000000000009,
+            "volume": 15971639.250789074,
+            "liquidity": 2244320.7499999986,
+            "neg_risk": false,
+            "end_date": "2026-05-31T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Iran's announcement suggests significant increase in ship transits.",
+            "event_id": "329821",
+            "event_title": "Strait of Hormuz traffic returns to normal by end of May?",
+            "event_slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-may",
+            "detected_yes_price": 0.053,
+            "detected_no_price": 0.951,
+            "detected_at": 1779108676721,
+            "highest_price_change": 0.05660377358490571,
+            "highest_yes_price": 0.056,
+            "highest_no_price": 0.951,
+            "first_moved_at": 1779169968953,
+            "moved_side": "yes",
+            "peaked_at": 1779169968953
+          },
+          {
+            "id": "2119127",
+            "slug": "avg-of-ships-transiting-strait-of-hormuz-end-of-may",
+            "condition_id": "0xaa9e7883499172e6585601542570e05965039265604c8d256c9ff7f149a811d7",
+            "title": "10-20",
+            "question": "Will there be between 10 and 20 average daily transits of the Strait of Hormuz on May 31?",
+            "description": "This market will resolve according to the 7-day moving average of transit calls (\u201cArrivals of Ships\u201d) for the Strait of Hormuz that IMF Portwatch reports for May 31, 2026.\n\nIf the reported value falls exactly between two brackets, this market will resolve to the higher range bracket.\n\nTransit calls include container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nThis market will resolve as soon as data for the specified date has been published. If no data for the specified date has been published by June 14, 2026, 11:59 PM ET, this market will resolve based on data for the most recent date prior to May 31, 2026, for which data is available.\n\nThis market will resolve based on the first publication of data for May 31, 2026. Any subsequent revisions will not be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+            "yes_token_id": "1765766244453539780851444383398288000184294065085661948877275991079960503224",
+            "yes_probability": 0.08,
+            "yes_best_bid": 0.06,
+            "yes_best_ask": 0.08,
+            "yes_spread": 0.020000000000000004,
+            "no_token_id": "53811032954485299927906722772919588802421839875307746571601530467117238597858",
+            "no_probability": 0.94,
+            "no_best_bid": 0.92,
+            "no_best_ask": 0.94,
+            "no_spread": 0.019999999999999907,
+            "volume": 45563.540829,
+            "liquidity": 214107.29000000007,
+            "neg_risk": true,
+            "end_date": "2026-05-31T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "New protocol allows more ships to pass, directly affecting transit numbers.",
+            "event_id": "432225",
+            "event_title": "Avg. # of ships transiting Strait of Hormuz end of May?",
+            "event_slug": "avg-of-ships-transiting-strait-of-hormuz-end-of-may",
+            "detected_yes_price": 0.07,
+            "detected_no_price": 0.94,
+            "detected_at": 1779108676721,
+            "highest_price_change": 0.28571428571428553,
+            "highest_yes_price": 0.09,
+            "highest_no_price": 0.94,
+            "first_moved_at": 1779169972861,
+            "moved_side": "yes",
+            "peaked_at": 1779170152035
+          },
+          {
+            "id": "2119070",
+            "slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+            "condition_id": "0x9bdb4d01b7797953c92c03e98cf7d36e62543b37972435e6b4a1c74f4200b108",
+            "title": "20+",
+            "question": "Will 20 ships transit the Strait of Hormuz on any day by May 31?",
+            "description": "This market will resolve to \u201cYes\u201d if IMF Portwatch publishes a daily number of transit calls (\u201cArrivals of Ships\u201d) for the Strait of Hormuz equal to or above the listed value for any date between market creation and May 31, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThe number of daily transit calls/arrivals includes container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nThis market will resolve as soon as IMF Portwatch publishes a daily number of transit calls equal to or above the specified level, or once data has been published for the final date in the specified period and no such value has been published. If no data has been published for the final date of the specified period within 14 calendar days (ET) after the end of that period, this market will resolve based on data published up to that point.\n\nRevisions to previously published data points, made within this market\u2019s timeframe, will be considered. However, they will not disqualify a previously published data point from qualifying. Revisions to previously published data points after data is published for May 31, 2026, however, will not be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+            "yes_token_id": "89954522737599344676262331612340594227984975540462602712137571853195021943786",
+            "yes_probability": 0.41,
+            "yes_best_bid": 0.39,
+            "yes_best_ask": 0.41,
+            "yes_spread": 0.019999999999999962,
+            "no_token_id": "111808638949210947676629510478905750291957121738127218778875333149287089239220",
+            "no_probability": 0.61,
+            "no_best_bid": 0.59,
+            "no_best_ask": 0.61,
+            "no_spread": 0.020000000000000018,
+            "volume": 123087.33795799996,
+            "liquidity": 100512.40000000004,
+            "neg_risk": false,
+            "end_date": "2026-05-31T00:00:00Z",
+            "categories": [
+              "economy",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "New protocol indicates higher expected transit numbers.",
+            "event_id": "432180",
+            "event_title": "Will __ ships transit the Strait of Hormuz on any day by May 31?",
+            "event_slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+            "detected_yes_price": 0.43,
+            "detected_no_price": 0.5800000000000001,
+            "detected_at": 1779108676721,
+            "highest_price_change": 0.05172413793103433,
+            "highest_yes_price": 0.44,
+            "highest_no_price": 0.61,
+            "first_moved_at": 1779109519506,
+            "moved_side": "no",
+            "peaked_at": 1779169994896
+          },
+          {
+            "id": "2190090",
+            "slug": "how-many-ships-transit-the-strait-of-hormuz-week-of-may-11",
+            "condition_id": "0x42e1d3ca50f2e4123832f2180468e8a95f37ecfc594ba20dfd8960bd4231b165",
+            "title": "20-39",
+            "question": "Will 20-39 ships transit the Strait of Hormuz between May 11-May 17?",
+            "description": "This market will resolve according to the total number of transit calls that IMF Portwatch reports for the Strait of Hormuz for all days from May 11, 2026, through May 17, 2026, inclusive.\n\nTransit calls include container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nThis market will resolve as soon as data has been published for the final date in the specified period. If no data has been published for the final date of the specified period within 14 calendar days (ET) after the end of that period, this market will resolve based on data published up to that point.\n\nRevisions to previously published data points made within this market\u2019s timeframe will be considered. Revisions to previously published data points after data is published for the final date of the specified period, however, will not be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+            "yes_token_id": "15871374359544285545643922705361310304528633420739073780978064777235877289946",
+            "yes_probability": 0.5,
+            "yes_best_bid": 0.49,
+            "yes_best_ask": 0.5,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "41033879542786102994188718565550728010490016371611245684657632612506214834516",
+            "no_probability": 0.51,
+            "no_best_bid": 0.5,
+            "no_best_ask": 0.51,
+            "no_spread": 0.010000000000000009,
+            "volume": 21230.01730199999,
+            "liquidity": 83284.54,
+            "neg_risk": true,
+            "end_date": "2026-05-17T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "More ships allowed to pass indicates higher transit numbers.",
+            "event_id": "462449",
+            "event_title": "How many ships transit the Strait of Hormuz week of May 11?",
+            "event_slug": "how-many-ships-transit-the-strait-of-hormuz-week-of-may-11",
+            "detected_yes_price": 0.71,
+            "detected_no_price": 0.31000000000000005,
+            "detected_at": 1779108676721,
+            "highest_price_change": 0.6774193548387094,
+            "highest_yes_price": 0.71,
+            "highest_no_price": 0.52,
+            "first_moved_at": 1779109325660,
+            "moved_side": "no",
+            "peaked_at": 1779171569129
+          },
+          {
+            "id": "2119071",
+            "slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+            "condition_id": "0xe02033cef06e942fbe1fdc9cc259abe9682265d349642598ab27ad677083d054",
+            "title": "40+",
+            "question": "Will 40 ships transit the Strait of Hormuz on any day by May 31?",
+            "description": "This market will resolve to \u201cYes\u201d if IMF Portwatch publishes a daily number of transit calls (\u201cArrivals of Ships\u201d) for the Strait of Hormuz equal to or above the listed value for any date between market creation and May 31, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThe number of daily transit calls/arrivals includes container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nThis market will resolve as soon as IMF Portwatch publishes a daily number of transit calls equal to or above the specified level, or once data has been published for the final date in the specified period and no such value has been published. If no data has been published for the final date of the specified period within 14 calendar days (ET) after the end of that period, this market will resolve based on data published up to that point.\n\nRevisions to previously published data points, made within this market\u2019s timeframe, will be considered. However, they will not disqualify a previously published data point from qualifying. Revisions to previously published data points after data is published for May 31, 2026, however, will not be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+            "yes_token_id": "20475881424533391430853797970383992051213626413038421315207754773244453518891",
+            "yes_probability": 0.14,
+            "yes_best_bid": 0.13,
+            "yes_best_ask": 0.14,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "112408646064529615659309914032192074963563513456785806832436889442762194296683",
+            "no_probability": 0.87,
+            "no_best_bid": 0.86,
+            "no_best_ask": 0.87,
+            "no_spread": 0.010000000000000009,
+            "volume": 130852.903347,
+            "liquidity": 83844.31999999998,
+            "neg_risk": false,
+            "end_date": "2026-05-31T00:00:00Z",
+            "categories": [
+              "economy",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "New protocol indicates higher expected transit numbers.",
+            "event_id": "432180",
+            "event_title": "Will __ ships transit the Strait of Hormuz on any day by May 31?",
+            "event_slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+            "detected_yes_price": 0.11,
+            "detected_no_price": 0.9,
+            "detected_at": 1779108676721,
+            "highest_price_change": 0.3636363636363636,
+            "highest_yes_price": 0.15,
+            "highest_no_price": 0.9,
+            "first_moved_at": 1779169963465,
+            "moved_side": "yes",
+            "peaked_at": 1779169963465
+          }
+        ],
+        "topics": [
+          "iran-regime",
+          "ai-tech"
+        ],
+        "categories": [
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "2190090",
+        "slug": "how-many-ships-transit-the-strait-of-hormuz-week-of-may-11",
+        "condition_id": "0x42e1d3ca50f2e4123832f2180468e8a95f37ecfc594ba20dfd8960bd4231b165",
+        "title": "20-39",
+        "question": "Will 20-39 ships transit the Strait of Hormuz between May 11-May 17?",
+        "description": "This market will resolve according to the total number of transit calls that IMF Portwatch reports for the Strait of Hormuz for all days from May 11, 2026, through May 17, 2026, inclusive.\n\nTransit calls include container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nThis market will resolve as soon as data has been published for the final date in the specified period. If no data has been published for the final date of the specified period within 14 calendar days (ET) after the end of that period, this market will resolve based on data published up to that point.\n\nRevisions to previously published data points made within this market\u2019s timeframe will be considered. Revisions to previously published data points after data is published for the final date of the specified period, however, will not be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+        "yes_token_id": "15871374359544285545643922705361310304528633420739073780978064777235877289946",
+        "yes_probability": 0.5,
+        "yes_best_bid": 0.49,
+        "yes_best_ask": 0.5,
+        "yes_spread": 0.010000000000000009,
+        "no_token_id": "41033879542786102994188718565550728010490016371611245684657632612506214834516",
+        "no_probability": 0.51,
+        "no_best_bid": 0.5,
+        "no_best_ask": 0.51,
+        "no_spread": 0.010000000000000009,
+        "volume": 21230.01730199999,
+        "liquidity": 83284.54,
+        "neg_risk": true,
+        "end_date": "2026-05-17T00:00:00Z",
+        "categories": [
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "More ships allowed to pass indicates higher transit numbers.",
+        "event_id": "462449",
+        "event_title": "How many ships transit the Strait of Hormuz week of May 11?",
+        "event_slug": "how-many-ships-transit-the-strait-of-hormuz-week-of-may-11",
+        "detected_yes_price": 0.71,
+        "detected_no_price": 0.31000000000000005,
+        "detected_at": 1779108676721,
+        "highest_price_change": 0.6774193548387094,
+        "highest_yes_price": 0.71,
+        "highest_no_price": 0.52,
+        "first_moved_at": 1779109325660,
+        "moved_side": "no",
+        "peaked_at": 1779171569129
+      },
+      "_scraped_at": "2026-05-19T06:41:54.964118+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 3,
+      "feed_item": {
+        "id": "0edffe33-b1d3-4283-9c73-69892534d70d",
+        "timestamp": 1779108667071,
+        "tweet": {
+          "feed_item_id": "0edffe33-b1d3-4283-9c73-69892534d70d",
+          "post_id": "2056356909188293095",
+          "post_type": "tweet",
+          "created_at": 1779108667071,
+          "user": {
+            "uid": "18856867",
+            "handle": "zerohedge",
+            "display_name": "zerohedge",
+            "pfp": "https://pbs.twimg.com/profile_images/72647502/tyler.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "Oil Slides After Iran Says US Agreed To Lift Oil Sanctions During Talks, Long-Term 'Nuclear Freeze' On Table https://www.zerohedge.com/energy/oil-slides-iran-says-us-agreed-lift-oil-sanctions-during-negotiation-period",
+          "link": "https://twitter.com/zerohedge/status/2056356909188293095",
+          "attachments": [
+            {
+              "kind": "photo",
+              "src": "https://pbs.twimg.com/card_img/2056346854535708672/VwVusr8T?format=jpg&name=orig"
+            }
+          ]
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "IR",
+        "countries": [
+          "IR"
+        ],
+        "related_markets": [
+          {
+            "id": "1931712",
+            "slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+            "condition_id": "0x2db76ff226e5eb35295c6b701ba939f911a8c69cab4b406dfb9ebe40da40844f",
+            "title": "275M",
+            "question": "Will US crude oil reserves fall to 275M by June 5?",
+            "description": "This market will resolve to \u201cYes\u201d if the U.S. Energy Information Administration publishes a weekly figure for U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve less than or equal to the specified value for any week ending on or before June 5, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve as soon as the listed value is reached, or once data has been released for the final week ending on or before June 5, 2026, and the listed value has not been reached.\n\nIf data has not been released for the final week ending on or before June 5 2026, by June 12, 2026, 11:59 PM ET, this market will resolve based on the data available at that time.\n\nThe primary resolution source for this market will be the U.S. Energy Information Administration, specifically the weekly data published for the U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve at https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCSSTUS1&f=W.\n\nNote: this market\u2019s resolution source publishes weekly values of U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve in thousands of barrels. Thus, this will be the level of specificity used to resolve this market.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-us-crude-oil-reserves-fall-to-by-may-1-asmCg2nXC0OP.jpg",
+            "yes_token_id": "103892248009194618207563121556370272500837951694881860054159199248030551087144",
+            "yes_probability": 0.028,
+            "yes_best_bid": 0.015,
+            "yes_best_ask": 0.028,
+            "yes_spread": 0.013000000000000001,
+            "no_token_id": "45531484892960265494279270519091781886723391223042662142615789653073009102124",
+            "no_probability": 0.985,
+            "no_best_bid": 0.972,
+            "no_best_ask": 0.985,
+            "no_spread": 0.013000000000000012,
+            "volume": 11169.574282999998,
+            "liquidity": 198621.13000000006,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "economy",
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Lifting sanctions on Iranian oil could lead to increased supply, affecting US reserves.",
+            "event_id": "362137",
+            "event_title": "Will US crude oil reserves fall to __ by June 5?",
+            "event_slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+            "detected_yes_price": 0.036,
+            "detected_no_price": 0.985,
+            "detected_at": 1779108693262,
+            "highest_price_change": 0.027777777777777804,
+            "highest_yes_price": 0.037,
+            "highest_no_price": 0.985,
+            "first_moved_at": 1779108696741,
+            "moved_side": "yes",
+            "peaked_at": 1779108696741
+          },
+          {
+            "id": "1931708",
+            "slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+            "condition_id": "0xd5cfe69869eee679f5b750e0da0518b9d66156e200efa9407ddf25b18fee641f",
+            "title": "375M",
+            "question": "Will US crude oil reserves fall to 375M by June 5?",
+            "description": "This market will resolve to \u201cYes\u201d if the U.S. Energy Information Administration publishes a weekly figure for U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve less than or equal to the specified value for any week ending on or before June 5, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve as soon as the listed value is reached, or once data has been released for the final week ending on or before June 5, 2026, and the listed value has not been reached.\n\nIf data has not been released for the final week ending on or before June 5 2026, by June 12, 2026, 11:59 PM ET, this market will resolve based on the data available at that time.\n\nThe primary resolution source for this market will be the U.S. Energy Information Administration, specifically the weekly data published for the U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve at https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCSSTUS1&f=W.\n\nNote: this market\u2019s resolution source publishes weekly values of U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve in thousands of barrels. Thus, this will be the level of specificity used to resolve this market.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-us-crude-oil-reserves-fall-to-by-may-1-asmCg2nXC0OP.jpg",
+            "yes_token_id": "32437575735333563263901202623595070063202783400741806763561537930423661833752",
+            "yes_probability": 0.993,
+            "yes_best_bid": 0.973,
+            "yes_best_ask": 0.993,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "72786135462614162130786107484375663150356426734488725705428259810798076709189",
+            "no_probability": 0.027,
+            "no_best_bid": 0.007,
+            "no_best_ask": 0.027,
+            "no_spread": 0.02,
+            "volume": 15163.074104,
+            "liquidity": 192308.12999999995,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "economy",
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Increased oil supply from Iran could lower US crude reserves.",
+            "event_id": "362137",
+            "event_title": "Will US crude oil reserves fall to __ by June 5?",
+            "event_slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+            "detected_yes_price": 0.979,
+            "detected_no_price": 0.038000000000000034,
+            "detected_at": 1779108693262,
+            "highest_price_change": 0.026315789473683297,
+            "highest_yes_price": 0.997,
+            "highest_no_price": 0.039,
+            "first_moved_at": 1779108795410,
+            "moved_side": "no",
+            "peaked_at": 1779108795410
+          },
+          {
+            "id": "1931710",
+            "slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+            "condition_id": "0x718135d518c397ffca20bc77405eca43e439b8958c286149992dafe4f82dfcf7",
+            "title": "325M",
+            "question": "Will US crude oil reserves fall to 325M by June 5?",
+            "description": "This market will resolve to \u201cYes\u201d if the U.S. Energy Information Administration publishes a weekly figure for U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve less than or equal to the specified value for any week ending on or before June 5, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve as soon as the listed value is reached, or once data has been released for the final week ending on or before June 5, 2026, and the listed value has not been reached.\n\nIf data has not been released for the final week ending on or before June 5 2026, by June 12, 2026, 11:59 PM ET, this market will resolve based on the data available at that time.\n\nThe primary resolution source for this market will be the U.S. Energy Information Administration, specifically the weekly data published for the U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve at https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCSSTUS1&f=W.\n\nNote: this market\u2019s resolution source publishes weekly values of U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve in thousands of barrels. Thus, this will be the level of specificity used to resolve this market.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-us-crude-oil-reserves-fall-to-by-may-1-asmCg2nXC0OP.jpg",
+            "yes_token_id": "1612008801227897840307762590717231145225049730152424975200515384151454134694",
+            "yes_probability": 0.037,
+            "yes_best_bid": 0.013,
+            "yes_best_ask": 0.037,
+            "yes_spread": 0.024,
+            "no_token_id": "17322369120997569112400075803774673595896165030027131438949949424563857690312",
+            "no_probability": 0.987,
+            "no_best_bid": 0.963,
+            "no_best_ask": 0.987,
+            "no_spread": 0.02400000000000002,
+            "volume": 13368.106513999997,
+            "liquidity": 179421.99999999994,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "economy",
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "The increase in oil supply from Iran may lead to a decrease in US reserves.",
+            "event_id": "362137",
+            "event_title": "Will US crude oil reserves fall to __ by June 5?",
+            "event_slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+            "detected_yes_price": 0.021,
+            "detected_no_price": 0.991,
+            "detected_at": 1779108693262,
+            "highest_price_change": 0.9523809523809523,
+            "highest_yes_price": 0.041,
+            "highest_no_price": 0.995,
+            "first_moved_at": 1779108696841,
+            "moved_side": "yes",
+            "peaked_at": 1779171402993
+          },
+          {
+            "id": "1931709",
+            "slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+            "condition_id": "0x351b328835e3ff4d574ae836c9842a7dd72bad929d990098ce0976fb794fab9e",
+            "title": "350M",
+            "question": "Will US crude oil reserves fall to 350M by June 5?",
+            "description": "This market will resolve to \u201cYes\u201d if the U.S. Energy Information Administration publishes a weekly figure for U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve less than or equal to the specified value for any week ending on or before June 5, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve as soon as the listed value is reached, or once data has been released for the final week ending on or before June 5, 2026, and the listed value has not been reached.\n\nIf data has not been released for the final week ending on or before June 5 2026, by June 12, 2026, 11:59 PM ET, this market will resolve based on the data available at that time.\n\nThe primary resolution source for this market will be the U.S. Energy Information Administration, specifically the weekly data published for the U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve at https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCSSTUS1&f=W.\n\nNote: this market\u2019s resolution source publishes weekly values of U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve in thousands of barrels. Thus, this will be the level of specificity used to resolve this market.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-us-crude-oil-reserves-fall-to-by-may-1-asmCg2nXC0OP.jpg",
+            "yes_token_id": "96387168265315643458809578585716885635310536108297246769705618825337335111480",
+            "yes_probability": 0.48,
+            "yes_best_bid": 0.4,
+            "yes_best_ask": 0.48,
+            "yes_spread": 0.07999999999999996,
+            "no_token_id": "113665762647266579005683558516199703909298974640865815911895476519934888195593",
+            "no_probability": 0.6,
+            "no_best_bid": 0.52,
+            "no_best_ask": 0.6,
+            "no_spread": 0.07999999999999996,
+            "volume": 23038.030205000003,
+            "liquidity": 100975.30000000002,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "economy",
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Increased Iranian oil supply could reduce US crude oil reserves.",
+            "event_id": "362137",
+            "event_title": "Will US crude oil reserves fall to __ by June 5?",
+            "event_slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+            "detected_yes_price": 0.3,
+            "detected_no_price": 0.76,
+            "detected_at": 1779108693262,
+            "highest_price_change": 0.6333333333333334,
+            "highest_yes_price": 0.49,
+            "highest_no_price": 0.76,
+            "first_moved_at": 1779108845046,
+            "moved_side": "yes",
+            "peaked_at": 1779170009197
+          },
+          {
+            "id": "1931711",
+            "slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+            "condition_id": "0x3157cfa44e8a866095918d7c383503aeb5faaa42e0d626281e98b1c6991aeab4",
+            "title": "300M",
+            "question": "Will US crude oil reserves fall to 300M by June 5?",
+            "description": "This market will resolve to \u201cYes\u201d if the U.S. Energy Information Administration publishes a weekly figure for U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve less than or equal to the specified value for any week ending on or before June 5, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve as soon as the listed value is reached, or once data has been released for the final week ending on or before June 5, 2026, and the listed value has not been reached.\n\nIf data has not been released for the final week ending on or before June 5 2026, by June 12, 2026, 11:59 PM ET, this market will resolve based on the data available at that time.\n\nThe primary resolution source for this market will be the U.S. Energy Information Administration, specifically the weekly data published for the U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve at https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCSSTUS1&f=W.\n\nNote: this market\u2019s resolution source publishes weekly values of U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve in thousands of barrels. Thus, this will be the level of specificity used to resolve this market.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-us-crude-oil-reserves-fall-to-by-may-1-asmCg2nXC0OP.jpg",
+            "yes_token_id": "56027739991484347224671805321810797281618115328485291425994287614493660958582",
+            "yes_probability": 0.041,
+            "yes_best_bid": 0.014,
+            "yes_best_ask": 0.041,
+            "yes_spread": 0.027000000000000003,
+            "no_token_id": "90884114891487692211484427221900349820685318562708925670286984477629888847581",
+            "no_probability": 0.986,
+            "no_best_bid": 0.959,
+            "no_best_ask": 0.986,
+            "no_spread": 0.027000000000000024,
+            "volume": 512.8003,
+            "liquidity": 66040.47,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "economy",
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Increased supply from Iran may lead to a decrease in US crude oil reserves.",
+            "event_id": "362137",
+            "event_title": "Will US crude oil reserves fall to __ by June 5?",
+            "event_slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+            "detected_yes_price": 0.036,
+            "detected_no_price": 0.99,
+            "detected_at": 1779108693262,
+            "highest_price_change": 0.5555555555555557,
+            "highest_yes_price": 0.056,
+            "highest_no_price": 0.99,
+            "first_moved_at": 1779108717276,
+            "moved_side": "yes",
+            "peaked_at": 1779170037096
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 10,
+            "price": 99.1
+          }
+        ],
+        "topics": [
+          "iran-regime",
+          "venezuela"
+        ],
+        "categories": [
+          "geopolitics",
+          "climate"
+        ]
+      },
+      "related_market": {
+        "id": "1931709",
+        "slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+        "condition_id": "0x351b328835e3ff4d574ae836c9842a7dd72bad929d990098ce0976fb794fab9e",
+        "title": "350M",
+        "question": "Will US crude oil reserves fall to 350M by June 5?",
+        "description": "This market will resolve to \u201cYes\u201d if the U.S. Energy Information Administration publishes a weekly figure for U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve less than or equal to the specified value for any week ending on or before June 5, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve as soon as the listed value is reached, or once data has been released for the final week ending on or before June 5, 2026, and the listed value has not been reached.\n\nIf data has not been released for the final week ending on or before June 5 2026, by June 12, 2026, 11:59 PM ET, this market will resolve based on the data available at that time.\n\nThe primary resolution source for this market will be the U.S. Energy Information Administration, specifically the weekly data published for the U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve at https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCSSTUS1&f=W.\n\nNote: this market\u2019s resolution source publishes weekly values of U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve in thousands of barrels. Thus, this will be the level of specificity used to resolve this market.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-us-crude-oil-reserves-fall-to-by-may-1-asmCg2nXC0OP.jpg",
+        "yes_token_id": "96387168265315643458809578585716885635310536108297246769705618825337335111480",
+        "yes_probability": 0.48,
+        "yes_best_bid": 0.4,
+        "yes_best_ask": 0.48,
+        "yes_spread": 0.07999999999999996,
+        "no_token_id": "113665762647266579005683558516199703909298974640865815911895476519934888195593",
+        "no_probability": 0.6,
+        "no_best_bid": 0.52,
+        "no_best_ask": 0.6,
+        "no_spread": 0.07999999999999996,
+        "volume": 23038.030205000003,
+        "liquidity": 100975.30000000002,
+        "neg_risk": false,
+        "end_date": "2026-06-30T00:00:00Z",
+        "categories": [
+          "economy",
+          "politics",
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Increased Iranian oil supply could reduce US crude oil reserves.",
+        "event_id": "362137",
+        "event_title": "Will US crude oil reserves fall to __ by June 5?",
+        "event_slug": "will-us-crude-oil-reserves-fall-to-by-june-5",
+        "detected_yes_price": 0.3,
+        "detected_no_price": 0.76,
+        "detected_at": 1779108693262,
+        "highest_price_change": 0.6333333333333334,
+        "highest_yes_price": 0.49,
+        "highest_no_price": 0.76,
+        "first_moved_at": 1779108845046,
+        "moved_side": "yes",
+        "peaked_at": 1779170009197
+      },
+      "_scraped_at": "2026-05-19T06:41:54.964118+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 4,
+      "feed_item": {
+        "id": "30dbffcc-6eef-4f39-9764-a4e3bb3d71fe",
+        "timestamp": 1779101319856,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "30dbffcc-6eef-4f39-9764-a4e3bb3d71fe",
+          "text": "EU plans tougher trade measures to rebuff Chinese export surge|FJ",
+          "channel": "FinancialJuice",
+          "timestamp": 1779101319856,
+          "link": "https://t.me/FinancialJuice"
+        },
+        "osint": false,
+        "country": "CN",
+        "countries": [
+          "CN"
+        ],
+        "related_markets": [
+          {
+            "id": "1124265",
+            "slug": "eurozone-2026-annual-inflation",
+            "condition_id": "0x5fd7fba49eb48a18b624005225680f0aa42f0b5c6cb42e993328be1a70e991c5",
+            "title": "3.1%+",
+            "question": "Will the Eurozone's 2026 Annual Inflation be at least 3.1%?",
+            "description": "This is a market about the variation of consumer prices in the Eurozone over the 12-month period ending December 2026 as reported by Eurostat.\n\nThis market will resolve according to the percentage change in the Harmonised Index of Consumer Prices (HICP) over the 12-month period ending December 2026, according to the monthly Eurostat report.\n\nThe resolution source for this market will be the Eurostat Harmonised Index of Consumer Prices monthly report released for December 2026, currently scheduled to be released on January 19, 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.\n\nYou can find this report on the Eurostat website (https://ec.europa.eu/eurostat/en/) by selecting the \"Database\" option from the \"Data\" dropdown, opening the \"Data navigation tree\" folder, then the \"Economy and finance\" folder, then the \"Prices (prc)\" folder, then the \"Harmonised index of consumer prices (HICP) (prc_hicp)\" folder, and opening the file named \"HICP - monthly data (annual rate of change) (prc_hicp_manr)\". The relevant figure can be found in the column for the relevant month in the row marked \"Euro area - 20 countries (from 2023)\".\n\nNote: the resolution source for this market will be the official monthly Eurostat HICP news release which reports inflation change over 12-month periods to only one decimal point (e.g. 1.9%). Thus, this is the level of precision that will be used when resolving the market. For the full release schedule, see: https://ec.europa.eu/eurostat/web/main/news/release-calendar or https://www.ecb.europa.eu/press/calendars/statscal/ges/html/sthicp.en.html",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/november-inflation-eu-monthly-zliDSBBeyriL.jpg",
+            "yes_token_id": "88978376584963855258252615681831634358372137790743707919827538111953603497319",
+            "yes_probability": 0.702,
+            "yes_best_bid": 0.534,
+            "yes_best_ask": 0.702,
+            "yes_spread": 0.16799999999999993,
+            "no_token_id": "44465976881697390749366490200863639637286829489656129732567130513381613518868",
+            "no_probability": 0.466,
+            "no_best_bid": 0.298,
+            "no_best_ask": 0.466,
+            "no_spread": 0.16800000000000004,
+            "volume": 2195.990406000001,
+            "liquidity": 55942.590000000026,
+            "neg_risk": true,
+            "end_date": "2027-01-19T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Tougher trade measures could directly affect inflation, 1 hop.",
+            "event_id": "147795",
+            "event_title": "Eurozone Annual Inflation 2026",
+            "event_slug": "eurozone-2026-annual-inflation",
+            "detected_yes_price": 0.717,
+            "detected_no_price": 0.45599999999999996,
+            "detected_at": 1779101374931,
+            "highest_price_change": 0.052631578947368474,
+            "highest_yes_price": 0.717,
+            "highest_no_price": 0.48,
+            "first_moved_at": 1779101378787,
+            "moved_side": "no",
+            "peaked_at": 1779101422226
+          },
+          {
+            "id": "1124255",
+            "slug": "eurozone-2026-annual-inflation",
+            "condition_id": "0xc97f915b033f2176eb9f62dc9d184899e51f4803bc2bb23b20e4fb85e6c41912",
+            "title": "1.0\u20131.2%",
+            "question": "Will the Eurozone's 2026 Annual Inflation be between 1.0% and 1.2%?",
+            "description": "This is a market about the variation of consumer prices in the Eurozone over the 12-month period ending December 2026 as reported by Eurostat.\n\nThis market will resolve according to the percentage change in the Harmonised Index of Consumer Prices (HICP) over the 12-month period ending December 2026, according to the monthly Eurostat report.\n\nThe resolution source for this market will be the Eurostat Harmonised Index of Consumer Prices monthly report released for December 2026, currently scheduled to be released on January 19, 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.\n\nYou can find this report on the Eurostat website (https://ec.europa.eu/eurostat/en/) by selecting the \"Database\" option from the \"Data\" dropdown, opening the \"Data navigation tree\" folder, then the \"Economy and finance\" folder, then the \"Prices (prc)\" folder, then the \"Harmonised index of consumer prices (HICP) (prc_hicp)\" folder, and opening the file named \"HICP - monthly data (annual rate of change) (prc_hicp_manr)\". The relevant figure can be found in the column for the relevant month in the row marked \"Euro area - 20 countries (from 2023)\".\n\nNote: the resolution source for this market will be the official monthly Eurostat HICP news release which reports inflation change over 12-month periods to only one decimal point (e.g. 1.9%). Thus, this is the level of precision that will be used when resolving the market. For the full release schedule, see: https://ec.europa.eu/eurostat/web/main/news/release-calendar or https://www.ecb.europa.eu/press/calendars/statscal/ges/html/sthicp.en.html",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/november-inflation-eu-monthly-zliDSBBeyriL.jpg",
+            "yes_token_id": "8719012220068962210130233884086704157996054029369785876088585541936043361084",
+            "yes_probability": 0.067,
+            "yes_best_bid": 0.008,
+            "yes_best_ask": 0.067,
+            "yes_spread": 0.059000000000000004,
+            "no_token_id": "55152275662371614827112357032195664648710333341444911183230058635699786866747",
+            "no_probability": 0.992,
+            "no_best_bid": 0.933,
+            "no_best_ask": 0.992,
+            "no_spread": 0.05899999999999994,
+            "volume": 768.971173,
+            "liquidity": 71227.29999999999,
+            "neg_risk": true,
+            "end_date": "2027-01-19T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "EU's tougher trade measures could impact inflation, 1 hop.",
+            "event_id": "147795",
+            "event_title": "Eurozone Annual Inflation 2026",
+            "event_slug": "eurozone-2026-annual-inflation",
+            "detected_yes_price": 0.067,
+            "detected_no_price": 0.987,
+            "detected_at": 1779101374931,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.067,
+            "highest_no_price": 0.987
+          },
+          {
+            "id": "1124260",
+            "slug": "eurozone-2026-annual-inflation",
+            "condition_id": "0x7cddc2578e74d176486689addf13091311ff6d08756e2661d5b4a1c17248a384",
+            "title": "1.6\u20131.8%",
+            "question": "Will the Eurozone's 2026 Annual Inflation be between 1.6% and 1.8%?",
+            "description": "This is a market about the variation of consumer prices in the Eurozone over the 12-month period ending December 2026 as reported by Eurostat.\n\nThis market will resolve according to the percentage change in the Harmonised Index of Consumer Prices (HICP) over the 12-month period ending December 2026, according to the monthly Eurostat report.\n\nThe resolution source for this market will be the Eurostat Harmonised Index of Consumer Prices monthly report released for December 2026, currently scheduled to be released on January 19, 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.\n\nYou can find this report on the Eurostat website (https://ec.europa.eu/eurostat/en/) by selecting the \"Database\" option from the \"Data\" dropdown, opening the \"Data navigation tree\" folder, then the \"Economy and finance\" folder, then the \"Prices (prc)\" folder, then the \"Harmonised index of consumer prices (HICP) (prc_hicp)\" folder, and opening the file named \"HICP - monthly data (annual rate of change) (prc_hicp_manr)\". The relevant figure can be found in the column for the relevant month in the row marked \"Euro area - 20 countries (from 2023)\".\n\nNote: the resolution source for this market will be the official monthly Eurostat HICP news release which reports inflation change over 12-month periods to only one decimal point (e.g. 1.9%). Thus, this is the level of precision that will be used when resolving the market. For the full release schedule, see: https://ec.europa.eu/eurostat/web/main/news/release-calendar or https://www.ecb.europa.eu/press/calendars/statscal/ges/html/sthicp.en.html",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/november-inflation-eu-monthly-zliDSBBeyriL.jpg",
+            "yes_token_id": "13553104868522289891706617978108934659595621559257124193405544577733275980690",
+            "yes_probability": 0.308,
+            "yes_best_bid": 0.023,
+            "yes_best_ask": 0.308,
+            "yes_spread": 0.285,
+            "no_token_id": "2801625824406672677628101033156221800975421768058051508997372638987017094156",
+            "no_probability": 0.977,
+            "no_best_bid": 0.692,
+            "no_best_ask": 0.977,
+            "no_spread": 0.28500000000000003,
+            "volume": 1184.6110860000001,
+            "liquidity": 72208.85999999999,
+            "neg_risk": true,
+            "end_date": "2027-01-19T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Tougher trade measures could directly affect inflation, 1 hop.",
+            "event_id": "147795",
+            "event_title": "Eurozone Annual Inflation 2026",
+            "event_slug": "eurozone-2026-annual-inflation",
+            "detected_yes_price": 0.333,
+            "detected_no_price": 0.978,
+            "detected_at": 1779101374931,
+            "highest_price_change": 0.47147147147147134,
+            "highest_yes_price": 0.49,
+            "highest_no_price": 0.979,
+            "first_moved_at": 1779101630556,
+            "moved_side": "yes",
+            "peaked_at": 1779101630556
+          },
+          {
+            "id": "999095",
+            "slug": "ecb-rate-hike-in-2026",
+            "condition_id": "0x26e6aa82c5fa62e9a146521aa5bfd7b5f4c5b47b92e66507defe992bd09a173f",
+            "title": "",
+            "question": "ECB rate hike in 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if the upper bound of the European Central Bank\u2019s (ECB) deposit facility rate is increased at any point between January 1, 2026 and the conclusion of the ECB's December 2026 meeting, currently scheduled for December 16-17, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market may not resolve to \"No\" until the ECB has released its rate change decision following its December meeting. If, however, the ECB\u2019s December meeting is cancelled, postponed after December 31, 2026, or the rate change decision for that meeting is otherwise unknown by December 31, 2026, 11:59 PM ET, and no qualifying rate increase has occurred, this market will resolve immediately to \u201cNo\u201d.\n\nThe primary resolution source for this market will be the European Central Bank (https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html); however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ecb-interest-rates-april-2025-DJ5nB6uaqtx5.png",
+            "yes_token_id": "69710703968759674163085748484324424722146627292095952335925127894769358540306",
+            "yes_probability": 0.94,
+            "yes_best_bid": 0.93,
+            "yes_best_ask": 0.94,
+            "yes_spread": 0.009999999999999898,
+            "no_token_id": "3597343464032266041739128609433149999116532636381615208433676359704848009032",
+            "no_probability": 0.07,
+            "no_best_bid": 0.06,
+            "no_best_ask": 0.07,
+            "no_spread": 0.010000000000000009,
+            "volume": 115006.76716400009,
+            "liquidity": 95964.15999999999,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Tougher trade measures could directly influence ECB's decisions, 1 hop.",
+            "event_id": "118455",
+            "event_title": "ECB rate hike in 2026?",
+            "event_slug": "ecb-rate-hike-in-2026",
+            "detected_yes_price": 0.93,
+            "detected_no_price": 0.07999999999999996,
+            "detected_at": 1779101374931,
+            "highest_price_change": 0.0107526881720429,
+            "highest_yes_price": 0.94,
+            "highest_no_price": 0.07999999999999996,
+            "first_moved_at": 1779170255696,
+            "moved_side": "yes",
+            "peaked_at": 1779170255696
+          },
+          {
+            "id": "1124262",
+            "slug": "eurozone-2026-annual-inflation",
+            "condition_id": "0xbeb692033effc758cea5b40a5b50a1f0cbb00c260afd1d3ed676bdb9e16c3c82",
+            "title": "2.2\u20132.4%",
+            "question": "Will the Eurozone's 2026 Annual Inflation be between 2.2% and 2.4%?",
+            "description": "This is a market about the variation of consumer prices in the Eurozone over the 12-month period ending December 2026 as reported by Eurostat.\n\nThis market will resolve according to the percentage change in the Harmonised Index of Consumer Prices (HICP) over the 12-month period ending December 2026, according to the monthly Eurostat report.\n\nThe resolution source for this market will be the Eurostat Harmonised Index of Consumer Prices monthly report released for December 2026, currently scheduled to be released on January 19, 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.\n\nYou can find this report on the Eurostat website (https://ec.europa.eu/eurostat/en/) by selecting the \"Database\" option from the \"Data\" dropdown, opening the \"Data navigation tree\" folder, then the \"Economy and finance\" folder, then the \"Prices (prc)\" folder, then the \"Harmonised index of consumer prices (HICP) (prc_hicp)\" folder, and opening the file named \"HICP - monthly data (annual rate of change) (prc_hicp_manr)\". The relevant figure can be found in the column for the relevant month in the row marked \"Euro area - 20 countries (from 2023)\".\n\nNote: the resolution source for this market will be the official monthly Eurostat HICP news release which reports inflation change over 12-month periods to only one decimal point (e.g. 1.9%). Thus, this is the level of precision that will be used when resolving the market. For the full release schedule, see: https://ec.europa.eu/eurostat/web/main/news/release-calendar or https://www.ecb.europa.eu/press/calendars/statscal/ges/html/sthicp.en.html",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/november-inflation-eu-monthly-zliDSBBeyriL.jpg",
+            "yes_token_id": "58155526801687139897110735197238473729941397636807683121985050669073731823865",
+            "yes_probability": 0.199,
+            "yes_best_bid": 0.029,
+            "yes_best_ask": 0.199,
+            "yes_spread": 0.17,
+            "no_token_id": "45061769366459385596807127798700809713937466759258960328291644703573116862430",
+            "no_probability": 0.971,
+            "no_best_bid": 0.801,
+            "no_best_ask": 0.971,
+            "no_spread": 0.16999999999999993,
+            "volume": 1021.3593410000001,
+            "liquidity": 69484.61000000003,
+            "neg_risk": true,
+            "end_date": "2027-01-19T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Tougher trade measures could directly affect inflation, 1 hop.",
+            "event_id": "147795",
+            "event_title": "Eurozone Annual Inflation 2026",
+            "event_slug": "eurozone-2026-annual-inflation",
+            "detected_yes_price": 0.2,
+            "detected_no_price": 0.981,
+            "detected_at": 1779101374931,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.2,
+            "highest_no_price": 0.981
+          }
+        ],
+        "topics": null,
+        "categories": [
+          "world"
+        ]
+      },
+      "related_market": {
+        "id": "1124260",
+        "slug": "eurozone-2026-annual-inflation",
+        "condition_id": "0x7cddc2578e74d176486689addf13091311ff6d08756e2661d5b4a1c17248a384",
+        "title": "1.6\u20131.8%",
+        "question": "Will the Eurozone's 2026 Annual Inflation be between 1.6% and 1.8%?",
+        "description": "This is a market about the variation of consumer prices in the Eurozone over the 12-month period ending December 2026 as reported by Eurostat.\n\nThis market will resolve according to the percentage change in the Harmonised Index of Consumer Prices (HICP) over the 12-month period ending December 2026, according to the monthly Eurostat report.\n\nThe resolution source for this market will be the Eurostat Harmonised Index of Consumer Prices monthly report released for December 2026, currently scheduled to be released on January 19, 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.\n\nYou can find this report on the Eurostat website (https://ec.europa.eu/eurostat/en/) by selecting the \"Database\" option from the \"Data\" dropdown, opening the \"Data navigation tree\" folder, then the \"Economy and finance\" folder, then the \"Prices (prc)\" folder, then the \"Harmonised index of consumer prices (HICP) (prc_hicp)\" folder, and opening the file named \"HICP - monthly data (annual rate of change) (prc_hicp_manr)\". The relevant figure can be found in the column for the relevant month in the row marked \"Euro area - 20 countries (from 2023)\".\n\nNote: the resolution source for this market will be the official monthly Eurostat HICP news release which reports inflation change over 12-month periods to only one decimal point (e.g. 1.9%). Thus, this is the level of precision that will be used when resolving the market. For the full release schedule, see: https://ec.europa.eu/eurostat/web/main/news/release-calendar or https://www.ecb.europa.eu/press/calendars/statscal/ges/html/sthicp.en.html",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/november-inflation-eu-monthly-zliDSBBeyriL.jpg",
+        "yes_token_id": "13553104868522289891706617978108934659595621559257124193405544577733275980690",
+        "yes_probability": 0.308,
+        "yes_best_bid": 0.023,
+        "yes_best_ask": 0.308,
+        "yes_spread": 0.285,
+        "no_token_id": "2801625824406672677628101033156221800975421768058051508997372638987017094156",
+        "no_probability": 0.977,
+        "no_best_bid": 0.692,
+        "no_best_ask": 0.977,
+        "no_spread": 0.28500000000000003,
+        "volume": 1184.6110860000001,
+        "liquidity": 72208.85999999999,
+        "neg_risk": true,
+        "end_date": "2027-01-19T00:00:00Z",
+        "categories": [
+          "economy"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Tougher trade measures could directly affect inflation, 1 hop.",
+        "event_id": "147795",
+        "event_title": "Eurozone Annual Inflation 2026",
+        "event_slug": "eurozone-2026-annual-inflation",
+        "detected_yes_price": 0.333,
+        "detected_no_price": 0.978,
+        "detected_at": 1779101374931,
+        "highest_price_change": 0.47147147147147134,
+        "highest_yes_price": 0.49,
+        "highest_no_price": 0.979,
+        "first_moved_at": 1779101630556,
+        "moved_side": "yes",
+        "peaked_at": 1779101630556
+      },
+      "_scraped_at": "2026-05-19T06:41:54.964118+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 5,
+      "feed_item": {
+        "id": "8adb045e-6a1e-48d0-9260-93c502c0571c",
+        "timestamp": 1779091612933,
+        "tweet": null,
+        "news": {
+          "feed_item_id": "8adb045e-6a1e-48d0-9260-93c502c0571c",
+          "headline": "Middle East crisis live: Trump warns \u2018clock is ticking\u2019 for Iran to reach peace deal",
+          "description": "US president says there \u2018won\u2019t be anything left\u2019 of country if it doesn\u2019t come to an agreement",
+          "image": "https://i.guim.co.uk/img/media/7fd55803ddea3e722fb27b8671e91314522e1711/118_0_5845_4676/master/5845.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=de907c2ff7fa9c76e01a9de967e00a28",
+          "url": "https://www.theguardian.com/world/live/2026/may/18/us-israel-iran-lebanon-donald-trump-hormuz-oil-latest-news-updates",
+          "timestamp": 1779091612933,
+          "source": "guardian"
+        },
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "US",
+        "countries": [
+          "US",
+          "IR"
+        ],
+        "related_markets": [
+          {
+            "id": "2270330",
+            "slug": "us-x-iran-permanent-peace-deal-by",
+            "condition_id": "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423",
+            "title": "June 15",
+            "question": "US x Iran permanent peace deal by June 15, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if Iran and the United states agree to a permanent peace deal by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d. \n\nA permanent peace deal refers to any agreement which explicitly indicates that military hostilities between the United States and Iran have ended or will permanently cease, or uses equivalent language clearly signaling a lasting end to military hostilities between the United States and Iran. Agreements that are explicitly temporary or which do not include a definitive agreement to end military hostilities between the US and Iran on a lasting basis (e.g. a temporary extension of the two-week ceasefire agreement announced on April 7, 2026), will not qualify.\n\nA qualifying agreement will be considered to have been established if either of the following conditions are met:\n\n- The United States and Iran each sign or formally adopt a written agreement (e.g. a treaty or multi-point agreement) which meets the above criteria.\n\n- Both the governments of the United States and Iran provide clear public confirmation that a qualifying agreement has been definitively established. Negotiations, statements of progress, or other statements which do not constitute a definitive announcement that a qualifying agreement has been reached will not count.\n\nThe primary resolution source for this market will be official information from the governments of the United States and Iran; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-permanent-peace-deal-by-yYlzv70Hi7j9.jpg",
+            "yes_token_id": "5904694069529905826680225678119990013628860098514322777023141327768111791078",
+            "yes_probability": 0.23,
+            "yes_best_bid": 0.22,
+            "yes_best_ask": 0.23,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "59855952379545476461266875939089074481171378466995213858930892770855011813551",
+            "no_probability": 0.78,
+            "no_best_bid": 0.77,
+            "no_best_ask": 0.78,
+            "no_spread": 0.010000000000000009,
+            "volume": 270744.64889856015,
+            "liquidity": 1684328.0699999998,
+            "neg_risk": false,
+            "end_date": "2026-06-15T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Trump's statement creates urgency for a peace deal (1 hop)",
+            "event_id": "357807",
+            "event_title": "US x Iran permanent peace deal by...?",
+            "event_slug": "us-x-iran-permanent-peace-deal-by",
+            "detected_yes_price": 0.14,
+            "detected_no_price": 0.87,
+            "detected_at": 1779091655813,
+            "highest_price_change": 0.6428571428571428,
+            "highest_yes_price": 0.23,
+            "highest_no_price": 0.87,
+            "first_moved_at": 1779091910241,
+            "moved_side": "yes",
+            "peaked_at": 1779169967154
+          },
+          {
+            "id": "1919425",
+            "slug": "us-x-iran-permanent-peace-deal-by",
+            "condition_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+            "title": "May 31",
+            "question": "US x Iran permanent peace deal by May 31, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if Iran and the United states agree to a permanent peace deal by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d. \n\nA permanent peace deal refers to any agreement which explicitly indicates that military hostilities between the United States and Iran have ended or will permanently cease, or uses equivalent language clearly signaling a lasting end to military hostilities between the United States and Iran. Agreements that are explicitly temporary or which do not include a definitive agreement to end military hostilities between the US and Iran on a lasting basis (e.g. a temporary extension of the two-week ceasefire agreement announced on April 7, 2026), will not qualify.\n\nA qualifying agreement will be considered to have been established if either of the following conditions are met:\n\n- The United States and Iran each sign or formally adopt a written agreement (e.g. a treaty or multi-point agreement) which meets the above criteria.\n\n- Both the governments of the United States and Iran provide clear public confirmation that a qualifying agreement has been definitively established. Negotiations, statements of progress, or other statements which do not constitute a definitive announcement that a qualifying agreement has been reached will not count.\n\nThe primary resolution source for this market will be official information from the governments of the United States and Iran; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-permanent-peace-deal-by-yYlzv70Hi7j9.jpg",
+            "yes_token_id": "72094069823942324362885404801938332659316240217382754851102758232469673300092",
+            "yes_probability": 0.14,
+            "yes_best_bid": 0.13,
+            "yes_best_ask": 0.14,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "42918220085288219341491829385501246298233444593663440094436147850542032590016",
+            "no_probability": 0.87,
+            "no_best_bid": 0.86,
+            "no_best_ask": 0.87,
+            "no_spread": 0.010000000000000009,
+            "volume": 26801440.976535402,
+            "liquidity": 4607775.299999999,
+            "neg_risk": false,
+            "end_date": "2026-05-31T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Trump's warning about Iran needing a peace deal creates urgency (1 hop)",
+            "event_id": "357807",
+            "event_title": "US x Iran permanent peace deal by...?",
+            "event_slug": "us-x-iran-permanent-peace-deal-by",
+            "detected_yes_price": 0.08,
+            "detected_no_price": 0.9299999999999999,
+            "detected_at": 1779091655813,
+            "highest_price_change": 0.8749999999999999,
+            "highest_yes_price": 0.15,
+            "highest_no_price": 0.9299999999999999,
+            "first_moved_at": 1779169967020,
+            "moved_side": "yes",
+            "peaked_at": 1779169967020
+          },
+          {
+            "id": "1962237",
+            "slug": "us-x-iran-permanent-peace-deal-by",
+            "condition_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+            "title": "June 30",
+            "question": "US x Iran permanent peace deal by June 30, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if Iran and the United states agree to a permanent peace deal by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d. \n\nA permanent peace deal refers to any agreement which explicitly indicates that military hostilities between the United States and Iran have ended or will permanently cease, or uses equivalent language clearly signaling a lasting end to military hostilities between the United States and Iran. Agreements that are explicitly temporary or which do not include a definitive agreement to end military hostilities between the US and Iran on a lasting basis (e.g. a temporary extension of the two-week ceasefire agreement announced on April 7, 2026), will not qualify.\n\nA qualifying agreement will be considered to have been established if either of the following conditions are met:\n\n- The United States and Iran each sign or formally adopt a written agreement (e.g. a treaty or multi-point agreement) which meets the above criteria.\n\n- Both the governments of the United States and Iran provide clear public confirmation that a qualifying agreement has been definitively established. Negotiations, statements of progress, or other statements which do not constitute a definitive announcement that a qualifying agreement has been reached will not count.\n\nThe primary resolution source for this market will be official information from the governments of the United States and Iran; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-permanent-peace-deal-by-yYlzv70Hi7j9.jpg",
+            "yes_token_id": "31867385211987925701696042012772036156561382644688734856312468506547392739862",
+            "yes_probability": 0.34,
+            "yes_best_bid": 0.33,
+            "yes_best_ask": 0.34,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "34730098823282204056880725250863591694415190633560416900548276632326632294207",
+            "no_probability": 0.67,
+            "no_best_bid": 0.66,
+            "no_best_ask": 0.67,
+            "no_spread": 0.010000000000000009,
+            "volume": 10287329.53618237,
+            "liquidity": 3961640.419999999,
+            "neg_risk": false,
+            "end_date": "2026-05-31T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Trump's statement creates urgency for a peace deal (1 hop)",
+            "event_id": "357807",
+            "event_title": "US x Iran permanent peace deal by...?",
+            "event_slug": "us-x-iran-permanent-peace-deal-by",
+            "detected_yes_price": 0.25,
+            "detected_no_price": 0.76,
+            "detected_at": 1779091655813,
+            "highest_price_change": 0.3600000000000001,
+            "highest_yes_price": 0.34,
+            "highest_no_price": 0.76,
+            "first_moved_at": 1779169966848,
+            "moved_side": "yes",
+            "peaked_at": 1779169966848
+          },
+          {
+            "id": "2155052",
+            "slug": "us-x-iran-permanent-peace-deal-by",
+            "condition_id": "0x9769f78cbc95a5ed11895e6064bac471d8fd8f930b260cf581b68d3f58630d27",
+            "title": "December 31",
+            "question": "US x Iran permanent peace deal by December 31, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if Iran and the United states agree to a permanent peace deal by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d. \n\nA permanent peace deal refers to any agreement which explicitly indicates that military hostilities between the United States and Iran have ended or will permanently cease, or uses equivalent language clearly signaling a lasting end to military hostilities between the United States and Iran. Agreements that are explicitly temporary or which do not include a definitive agreement to end military hostilities between the US and Iran on a lasting basis (e.g. a temporary extension of the two-week ceasefire agreement announced on April 7, 2026), will not qualify.\n\nA qualifying agreement will be considered to have been established if either of the following conditions are met:\n\n- The United States and Iran each sign or formally adopt a written agreement (e.g. a treaty or multi-point agreement) which meets the above criteria.\n\n- Both the governments of the United States and Iran provide clear public confirmation that a qualifying agreement has been definitively established. Negotiations, statements of progress, or other statements which do not constitute a definitive announcement that a qualifying agreement has been reached will not count.\n\nThe primary resolution source for this market will be official information from the governments of the United States and Iran; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-permanent-peace-deal-by-yYlzv70Hi7j9.jpg",
+            "yes_token_id": "104718292808309433767402444061650910790437726449955521731268760928480423099204",
+            "yes_probability": 0.7,
+            "yes_best_bid": 0.69,
+            "yes_best_ask": 0.7,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "109077864409172129917789250820055245630238807727951185347513063342440711098153",
+            "no_probability": 0.31,
+            "no_best_bid": 0.3,
+            "no_best_ask": 0.31,
+            "no_spread": 0.010000000000000009,
+            "volume": 2225956.3654779834,
+            "liquidity": 4232532.759999999,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Trump's statement creates urgency for a peace deal (1 hop)",
+            "event_id": "357807",
+            "event_title": "US x Iran permanent peace deal by...?",
+            "event_slug": "us-x-iran-permanent-peace-deal-by",
+            "detected_yes_price": 0.62,
+            "detected_no_price": 0.39,
+            "detected_at": 1779091655813,
+            "highest_price_change": 0.12903225806451607,
+            "highest_yes_price": 0.7,
+            "highest_no_price": 0.39,
+            "first_moved_at": 1779169966914,
+            "moved_side": "yes",
+            "peaked_at": 1779170424876
+          },
+          {
+            "id": "2270338",
+            "slug": "us-x-iran-permanent-peace-deal-by",
+            "condition_id": "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122",
+            "title": "July 31",
+            "question": "US x Iran permanent peace deal by July 31, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if Iran and the United states agree to a permanent peace deal by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d. \n\nA permanent peace deal refers to any agreement which explicitly indicates that military hostilities between the United States and Iran have ended or will permanently cease, or uses equivalent language clearly signaling a lasting end to military hostilities between the United States and Iran. Agreements that are explicitly temporary or which do not include a definitive agreement to end military hostilities between the US and Iran on a lasting basis (e.g. a temporary extension of the two-week ceasefire agreement announced on April 7, 2026), will not qualify.\n\nA qualifying agreement will be considered to have been established if either of the following conditions are met:\n\n- The United States and Iran each sign or formally adopt a written agreement (e.g. a treaty or multi-point agreement) which meets the above criteria.\n\n- Both the governments of the United States and Iran provide clear public confirmation that a qualifying agreement has been definitively established. Negotiations, statements of progress, or other statements which do not constitute a definitive announcement that a qualifying agreement has been reached will not count.\n\nThe primary resolution source for this market will be official information from the governments of the United States and Iran; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-permanent-peace-deal-by-yYlzv70Hi7j9.jpg",
+            "yes_token_id": "99566541619640652317512639709808184120400767516277184685355777020179304540844",
+            "yes_probability": 0.47,
+            "yes_best_bid": 0.46,
+            "yes_best_ask": 0.47,
+            "yes_spread": 0.009999999999999953,
+            "no_token_id": "28291496839879254326626786894419520677254800246510983988977971845743573275150",
+            "no_probability": 0.54,
+            "no_best_bid": 0.53,
+            "no_best_ask": 0.54,
+            "no_spread": 0.010000000000000009,
+            "volume": 271632.82043538004,
+            "liquidity": 2147256.3500000006,
+            "neg_risk": false,
+            "end_date": "2026-07-31T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Trump's statement creates urgency for a peace deal (1 hop)",
+            "event_id": "357807",
+            "event_title": "US x Iran permanent peace deal by...?",
+            "event_slug": "us-x-iran-permanent-peace-deal-by",
+            "detected_yes_price": 0.34,
+            "detected_no_price": 0.6699999999999999,
+            "detected_at": 1779091655813,
+            "highest_price_change": 0.4117647058823528,
+            "highest_yes_price": 0.48,
+            "highest_no_price": 0.68,
+            "first_moved_at": 1779091905098,
+            "moved_side": "yes",
+            "peaked_at": 1779169967342
+          }
+        ],
+        "topics": [
+          "iran-regime",
+          "shutdown"
+        ],
+        "categories": [
+          "geopolitics",
+          "world",
+          "politics"
+        ]
+      },
+      "related_market": {
+        "id": "2270338",
+        "slug": "us-x-iran-permanent-peace-deal-by",
+        "condition_id": "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122",
+        "title": "July 31",
+        "question": "US x Iran permanent peace deal by July 31, 2026?",
+        "description": "This market will resolve to \u201cYes\u201d if Iran and the United states agree to a permanent peace deal by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d. \n\nA permanent peace deal refers to any agreement which explicitly indicates that military hostilities between the United States and Iran have ended or will permanently cease, or uses equivalent language clearly signaling a lasting end to military hostilities between the United States and Iran. Agreements that are explicitly temporary or which do not include a definitive agreement to end military hostilities between the US and Iran on a lasting basis (e.g. a temporary extension of the two-week ceasefire agreement announced on April 7, 2026), will not qualify.\n\nA qualifying agreement will be considered to have been established if either of the following conditions are met:\n\n- The United States and Iran each sign or formally adopt a written agreement (e.g. a treaty or multi-point agreement) which meets the above criteria.\n\n- Both the governments of the United States and Iran provide clear public confirmation that a qualifying agreement has been definitively established. Negotiations, statements of progress, or other statements which do not constitute a definitive announcement that a qualifying agreement has been reached will not count.\n\nThe primary resolution source for this market will be official information from the governments of the United States and Iran; however, a consensus of credible reporting may also be used.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-permanent-peace-deal-by-yYlzv70Hi7j9.jpg",
+        "yes_token_id": "99566541619640652317512639709808184120400767516277184685355777020179304540844",
+        "yes_probability": 0.47,
+        "yes_best_bid": 0.46,
+        "yes_best_ask": 0.47,
+        "yes_spread": 0.009999999999999953,
+        "no_token_id": "28291496839879254326626786894419520677254800246510983988977971845743573275150",
+        "no_probability": 0.54,
+        "no_best_bid": 0.53,
+        "no_best_ask": 0.54,
+        "no_spread": 0.010000000000000009,
+        "volume": 271632.82043538004,
+        "liquidity": 2147256.3500000006,
+        "neg_risk": false,
+        "end_date": "2026-07-31T00:00:00Z",
+        "categories": [
+          "geopolitics",
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 9,
+        "impact_level": "critical",
+        "impact_reason": "Trump's statement creates urgency for a peace deal (1 hop)",
+        "event_id": "357807",
+        "event_title": "US x Iran permanent peace deal by...?",
+        "event_slug": "us-x-iran-permanent-peace-deal-by",
+        "detected_yes_price": 0.34,
+        "detected_no_price": 0.6699999999999999,
+        "detected_at": 1779091655813,
+        "highest_price_change": 0.4117647058823528,
+        "highest_yes_price": 0.48,
+        "highest_no_price": 0.68,
+        "first_moved_at": 1779091905098,
+        "moved_side": "yes",
+        "peaked_at": 1779169967342
+      },
+      "_scraped_at": "2026-05-19T06:41:54.964118+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "valid": false,
+      "_scraped_at": "2026-05-19T06:41:54.964118+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "global_tension_score": 61,
+      "global_tension_level": "HIGH",
+      "countries": [
+        {
+          "country": "US",
+          "count": 14,
+          "recent": [
+            {
+              "id": "f2893adc-d683-4c0e-8634-fc6af6c13375",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1779164071659
+            },
+            {
+              "id": "fac32789-60eb-4104-bf67-e8fc17e8556d",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779161130380
+            },
+            {
+              "id": "6853e7f1-91c4-4409-952c-3659555cd395",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1779151582190
+            },
+            {
+              "id": "4e133d59-fc9c-4505-bc79-ac1c19b5aabd",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1779152465973
+            },
+            {
+              "id": "5f9035cb-71cf-42ad-a12c-a950d67d1418",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1779156901190
+            },
+            {
+              "id": "966516c3-35d2-4cc5-b8d6-8b0efeada339",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1779165126947
+            },
+            {
+              "id": "b700ec07-507c-4538-80a6-2ac9bdd2de16",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1779156065790
+            },
+            {
+              "id": "27b573b8-8757-4bd7-92eb-06157ea40e9d",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779151481482
+            },
+            {
+              "id": "e9d1e6cc-f963-46b2-aa33-99612f587956",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1779153538974
+            },
+            {
+              "id": "175f0b42-5c47-4303-88b2-099ad08ebaeb",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1779172526376
+            },
+            {
+              "id": "ddd7be84-a8a3-453a-bf1e-b0fb0fc0fc68",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779151481481
+            },
+            {
+              "id": "a41575fa-f0ea-4183-947a-4713695f2fa0",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779155949535
+            },
+            {
+              "id": "64a021b5-c08f-4f40-ada7-8222ca11e45d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779157506751
+            },
+            {
+              "id": "54355b80-16a7-44ea-83ff-83e1251fb64b",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779156213606
+            }
+          ],
+          "volume": 75940711.20153321,
+          "critical_signals": 4,
+          "high_signals": 6,
+          "low_signals": 4
+        },
+        {
+          "country": "IR",
+          "count": 12,
+          "recent": [
+            {
+              "id": "f2893adc-d683-4c0e-8634-fc6af6c13375",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1779164071659
+            },
+            {
+              "id": "fac32789-60eb-4104-bf67-e8fc17e8556d",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779161130380
+            },
+            {
+              "id": "6853e7f1-91c4-4409-952c-3659555cd395",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1779151582190
+            },
+            {
+              "id": "4e133d59-fc9c-4505-bc79-ac1c19b5aabd",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1779152465973
+            },
+            {
+              "id": "649616ed-a34a-4ebb-b16d-974f62db0716",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779159843000
+            },
+            {
+              "id": "5f9035cb-71cf-42ad-a12c-a950d67d1418",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1779156901190
+            },
+            {
+              "id": "27b573b8-8757-4bd7-92eb-06157ea40e9d",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779151481482
+            },
+            {
+              "id": "e9d1e6cc-f963-46b2-aa33-99612f587956",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1779153538974
+            },
+            {
+              "id": "ddd7be84-a8a3-453a-bf1e-b0fb0fc0fc68",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779151481481
+            },
+            {
+              "id": "aa672b09-d987-45ed-bb93-c6cb2086ab81",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779163461636
+            },
+            {
+              "id": "a41575fa-f0ea-4183-947a-4713695f2fa0",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779155949535
+            },
+            {
+              "id": "54355b80-16a7-44ea-83ff-83e1251fb64b",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779156213606
+            }
+          ],
+          "volume": 73163271.28503042,
+          "critical_signals": 2,
+          "high_signals": 7,
+          "low_signals": 3
+        },
+        {
+          "country": "RU",
+          "count": 7,
+          "recent": [
+            {
+              "id": "282a1a16-3610-4865-8bfb-f438b2ff98a4",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779170438959
+            },
+            {
+              "id": "2ede7daf-5520-460c-830b-672545dd9380",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779172332572
+            },
+            {
+              "id": "5a3886c6-d3fb-4a98-9503-323791411acc",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779171403597
+            },
+            {
+              "id": "64985e2c-0d5c-45bc-8e60-a6704d220e82",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779159890000
+            },
+            {
+              "id": "13437991-147a-4c32-8d2e-8562f02be401",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779161773591
+            },
+            {
+              "id": "4b905d72-7639-4d59-b327-aed9987616e4",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779171510459
+            },
+            {
+              "id": "54355b80-16a7-44ea-83ff-83e1251fb64b",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779156213606
+            }
+          ],
+          "volume": 34260380.36498354,
+          "critical_signals": 0,
+          "high_signals": 7,
+          "low_signals": 0
+        },
+        {
+          "country": "UA",
+          "count": 5,
+          "recent": [
+            {
+              "id": "282a1a16-3610-4865-8bfb-f438b2ff98a4",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779170438959
+            },
+            {
+              "id": "4812a26b-2020-407d-8268-cfe5788af7ac",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779171716964
+            },
+            {
+              "id": "2ede7daf-5520-460c-830b-672545dd9380",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779172332572
+            },
+            {
+              "id": "64985e2c-0d5c-45bc-8e60-a6704d220e82",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779159890000
+            },
+            {
+              "id": "13437991-147a-4c32-8d2e-8562f02be401",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779161773591
+            }
+          ],
+          "volume": 4945114.159084986,
+          "critical_signals": 0,
+          "high_signals": 5,
+          "low_signals": 0
+        },
+        {
+          "country": "GB",
+          "count": 4,
+          "recent": [
+            {
+              "id": "282a1a16-3610-4865-8bfb-f438b2ff98a4",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779170438959
+            },
+            {
+              "id": "2ede7daf-5520-460c-830b-672545dd9380",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779172332572
+            },
+            {
+              "id": "64985e2c-0d5c-45bc-8e60-a6704d220e82",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779159890000
+            },
+            {
+              "id": "13437991-147a-4c32-8d2e-8562f02be401",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779161773591
+            }
+          ],
+          "volume": 4801202.7124689855,
+          "critical_signals": 0,
+          "high_signals": 4,
+          "low_signals": 0
+        },
+        {
+          "country": "TW",
+          "count": 4,
+          "recent": [
+            {
+              "id": "037c7052-8df9-414a-afeb-b0ece3417f0b",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779170566838
+            },
+            {
+              "id": "c705b130-bbac-4ae5-b50b-d7dc6765323c",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779157010327
+            },
+            {
+              "id": "f5042d5a-dfdf-4d6b-a19d-4c846c75ae3b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779159786702
+            },
+            {
+              "id": "7730ebd5-723e-4f1b-b155-b81b5a3fd157",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779163748429
+            }
+          ],
+          "volume": 358294.35093400005,
+          "critical_signals": 0,
+          "high_signals": 4,
+          "low_signals": 0
+        },
+        {
+          "country": "PH",
+          "count": 4,
+          "recent": [
+            {
+              "id": "037c7052-8df9-414a-afeb-b0ece3417f0b",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779170566838
+            },
+            {
+              "id": "c705b130-bbac-4ae5-b50b-d7dc6765323c",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779157010327
+            },
+            {
+              "id": "f5042d5a-dfdf-4d6b-a19d-4c846c75ae3b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779159786702
+            },
+            {
+              "id": "7730ebd5-723e-4f1b-b155-b81b5a3fd157",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779163748429
+            }
+          ],
+          "volume": 358294.35093400005,
+          "critical_signals": 0,
+          "high_signals": 4,
+          "low_signals": 0
+        },
+        {
+          "country": "SA",
+          "count": 3,
+          "recent": [
+            {
+              "id": "f2893adc-d683-4c0e-8634-fc6af6c13375",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1779164071659
+            },
+            {
+              "id": "4812a26b-2020-407d-8268-cfe5788af7ac",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779171716964
+            },
+            {
+              "id": "4e133d59-fc9c-4505-bc79-ac1c19b5aabd",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1779152465973
+            }
+          ],
+          "volume": 30891650.804185055,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 2
+        },
+        {
+          "country": "CN",
+          "count": 3,
+          "recent": [
+            {
+              "id": "e97e2dd6-1c99-4bbf-99b3-539890c9b06f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779161041919
+            },
+            {
+              "id": "c705b130-bbac-4ae5-b50b-d7dc6765323c",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779157010327
+            },
+            {
+              "id": "13437991-147a-4c32-8d2e-8562f02be401",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779161773591
+            }
+          ],
+          "volume": 6058490.422590983,
+          "critical_signals": 0,
+          "high_signals": 3,
+          "low_signals": 0
+        },
+        {
+          "country": "QA",
+          "count": 2,
+          "recent": [
+            {
+              "id": "f2893adc-d683-4c0e-8634-fc6af6c13375",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1779164071659
+            },
+            {
+              "id": "4e133d59-fc9c-4505-bc79-ac1c19b5aabd",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1779152465973
+            }
+          ],
+          "volume": 30742229.56182906,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 2
+        },
+        {
+          "country": "AE",
+          "count": 2,
+          "recent": [
+            {
+              "id": "f2893adc-d683-4c0e-8634-fc6af6c13375",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1779164071659
+            },
+            {
+              "id": "4e133d59-fc9c-4505-bc79-ac1c19b5aabd",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1779152465973
+            }
+          ],
+          "volume": 30742229.56182906,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 2
+        },
+        {
+          "country": "IL",
+          "count": 2,
+          "recent": [
+            {
+              "id": "f2e5f7b6-e207-45a8-b843-c6cc1a16565a",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1779164287991
+            },
+            {
+              "id": "e6d13d28-274c-4931-a509-d38b2b04bc9d",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779170434057
+            }
+          ],
+          "volume": 860316.9537210044,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 1
+        },
+        {
+          "country": "BY",
+          "count": 2,
+          "recent": [
+            {
+              "id": "5a3886c6-d3fb-4a98-9503-323791411acc",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779171403597
+            },
+            {
+              "id": "13437991-147a-4c32-8d2e-8562f02be401",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779161773591
+            }
+          ],
+          "volume": 3937306.4641929837,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "CU",
+          "count": 1,
+          "recent": [
+            {
+              "id": "175f0b42-5c47-4303-88b2-099ad08ebaeb",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1779172526376
+            }
+          ],
+          "volume": 2091892.0872987602,
+          "critical_signals": 1,
+          "high_signals": 0,
+          "low_signals": 0
+        },
+        {
+          "country": "IN",
+          "count": 1,
+          "recent": [
+            {
+              "id": "649616ed-a34a-4ebb-b16d-974f62db0716",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779159843000
+            }
+          ],
+          "volume": 58774.727142,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "PS",
+          "count": 1,
+          "recent": [
+            {
+              "id": "e6d13d28-274c-4931-a509-d38b2b04bc9d",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779170434057
+            }
+          ],
+          "volume": 84367.73456700014,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        }
+      ],
+      "_scraped_at": "2026-05-19T06:41:54.964118+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
