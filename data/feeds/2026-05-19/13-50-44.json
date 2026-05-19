@@ -1,0 +1,1533 @@
+{
+  "scraped_at": "2026-05-19T13:50:36.826962+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 4,
+  "items": [
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "649616ed-a34a-4ebb-b16d-974f62db0716",
+        "timestamp": 1779159843000,
+        "tweet": {
+          "feed_item_id": "649616ed-a34a-4ebb-b16d-974f62db0716",
+          "post_id": "2056571559771251062",
+          "post_type": "tweet",
+          "created_at": 1779159843000,
+          "user": {
+            "uid": "34713362",
+            "handle": "business",
+            "display_name": "Bloomberg",
+            "pfp": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "India\u2019s state-run refiners raised fuel prices for the second time in less than a week, as they grapple with economic losses after the Middle East conflict drove the cost of crude significantly higher https://www.bloomberg.com/news/articles/2026-05-19/india-raises-fuel-prices-again-as-iran-war-squeezes-refiners?taid=6a0bd3232bdfad0001a8581a&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+          "link": "https://twitter.com/business/status/2056571559771251062"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "IN",
+        "countries": [
+          "IN",
+          "IR"
+        ],
+        "related_markets": [
+          {
+            "id": "1353091",
+            "slug": "india-annual-inflation-2026",
+            "condition_id": "0x4c3eb9cc59964dbf8afc1b778c3178c5af15c5dd4686b1ea8da979a52d0a932b",
+            "title": "4.50%+",
+            "question": "Will India\u2019s 2026 Annual Inflation be at least 4.50%?",
+            "description": "This is a market about the variation of consumer prices in India over the 12-month period ending December 2026, as reported by the Indian Ministry of Statistics and Programme Implementation (MoSPI).\n\nThis market will resolve according to the percentage change in India\u2019s Consumer Price Index (CPI) over the 12-month period ending December 2026 (Year-on-Year inflation, over the same month of the previous year), according to the monthly MoSPI Consumer Price Index report for the specified month.\n\nThe resolution source for this market will be the MoSPI Consumer Price Index report released for December 2026, currently scheduled to be released on January 12, 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.\n\nThe relevant report will be made available upon release at: https://mospi.gov.in/latest-releases\n\nNote: This market\u2019s resolution source reports percentage change in the Indian Consumer Price Index to two decimal points (e.g. 2.01%). Thus this is the level of precision that will be used when resolving this market. For the full release schedule, see: https://www.mospi.gov.in/uploads/documents/releaseCalender/1770293210621-ADVANCE%20RELEASE%20CALENDAR%202026-27%20FINAL%2005.02.2026.pdf",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/november-inflation-india-monthly-OwmLewdCB_yG.jpg",
+            "yes_token_id": "72615506282586148745738175908634505551936585768671015055159580643179888631319",
+            "yes_probability": 0.89,
+            "yes_best_bid": 0.74,
+            "yes_best_ask": 0.89,
+            "yes_spread": 0.15000000000000002,
+            "no_token_id": "90835614316574438354197984546445067617633349463331906436992004196073946791848",
+            "no_probability": 0.26,
+            "no_best_bid": 0.11,
+            "no_best_ask": 0.26,
+            "no_spread": 0.15000000000000002,
+            "volume": 11255.428105000003,
+            "liquidity": 32714.400000000005,
+            "neg_risk": true,
+            "end_date": "2027-01-12T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Rising fuel costs are a direct driver of inflation.",
+            "event_id": "201560",
+            "event_title": "India Annual Inflation 2026",
+            "event_slug": "india-annual-inflation-2026",
+            "detected_yes_price": 0.89,
+            "detected_no_price": 0.25,
+            "detected_at": 1779159959180,
+            "highest_price_change": 0.43999999999999995,
+            "highest_yes_price": 0.89,
+            "highest_no_price": 0.36,
+            "first_moved_at": 1779159978722,
+            "moved_side": "no",
+            "peaked_at": 1779186675535
+          },
+          {
+            "id": "1353087",
+            "slug": "india-annual-inflation-2026",
+            "condition_id": "0x5c4b3811fd26a0352c710dfd45f0855c44eac0f48490d61d1f0e47c8845a7e01",
+            "title": "1.50% to 2.24%",
+            "question": "Will India\u2019s 2026 Annual Inflation be between 1.50% and 2.24%?",
+            "description": "This is a market about the variation of consumer prices in India over the 12-month period ending December 2026, as reported by the Indian Ministry of Statistics and Programme Implementation (MoSPI).\n\nThis market will resolve according to the percentage change in India\u2019s Consumer Price Index (CPI) over the 12-month period ending December 2026 (Year-on-Year inflation, over the same month of the previous year), according to the monthly MoSPI Consumer Price Index report for the specified month.\n\nThe resolution source for this market will be the MoSPI Consumer Price Index report released for December 2026, currently scheduled to be released on January 12, 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.\n\nThe relevant report will be made available upon release at: https://mospi.gov.in/latest-releases\n\nNote: This market\u2019s resolution source reports percentage change in the Indian Consumer Price Index to two decimal points (e.g. 2.01%). Thus this is the level of precision that will be used when resolving this market. For the full release schedule, see: https://www.mospi.gov.in/uploads/documents/releaseCalender/1770293210621-ADVANCE%20RELEASE%20CALENDAR%202026-27%20FINAL%2005.02.2026.pdf",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/november-inflation-india-monthly-OwmLewdCB_yG.jpg",
+            "yes_token_id": "19918272897997734048549995417639125290789670348051059558672929291440356716988",
+            "yes_probability": 0.199,
+            "yes_best_bid": 0.005,
+            "yes_best_ask": 0.199,
+            "yes_spread": 0.194,
+            "no_token_id": "60867220887533279772718117046523761545023094550489399660388267849911974497182",
+            "no_probability": 0.995,
+            "no_best_bid": 0.801,
+            "no_best_ask": 0.995,
+            "no_spread": 0.19399999999999995,
+            "volume": 414.96251000000007,
+            "liquidity": 62832.10000000002,
+            "neg_risk": true,
+            "end_date": "2027-01-12T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Fuel price increase due to conflict leads to inflation expectations.",
+            "event_id": "201560",
+            "event_title": "India Annual Inflation 2026",
+            "event_slug": "india-annual-inflation-2026",
+            "detected_yes_price": 0.199,
+            "detected_no_price": 0.992,
+            "detected_at": 1779159959180,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.199,
+            "highest_no_price": 0.992
+          },
+          {
+            "id": "1353090",
+            "slug": "india-annual-inflation-2026",
+            "condition_id": "0x99f9b93f2a1722242f785513441a6b53329b974016cee38cc18ab7a6d9580734",
+            "title": "3.75% to 4.49%",
+            "question": "Will India\u2019s 2026 Annual Inflation be between 3.75% and 4.49%?",
+            "description": "This is a market about the variation of consumer prices in India over the 12-month period ending December 2026, as reported by the Indian Ministry of Statistics and Programme Implementation (MoSPI).\n\nThis market will resolve according to the percentage change in India\u2019s Consumer Price Index (CPI) over the 12-month period ending December 2026 (Year-on-Year inflation, over the same month of the previous year), according to the monthly MoSPI Consumer Price Index report for the specified month.\n\nThe resolution source for this market will be the MoSPI Consumer Price Index report released for December 2026, currently scheduled to be released on January 12, 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.\n\nThe relevant report will be made available upon release at: https://mospi.gov.in/latest-releases\n\nNote: This market\u2019s resolution source reports percentage change in the Indian Consumer Price Index to two decimal points (e.g. 2.01%). Thus this is the level of precision that will be used when resolving this market. For the full release schedule, see: https://www.mospi.gov.in/uploads/documents/releaseCalender/1770293210621-ADVANCE%20RELEASE%20CALENDAR%202026-27%20FINAL%2005.02.2026.pdf",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/november-inflation-india-monthly-OwmLewdCB_yG.jpg",
+            "yes_token_id": "102843189532968658484124724384169145431096843522820249214951840934115898522013",
+            "yes_probability": 0.183,
+            "yes_best_bid": 0.028,
+            "yes_best_ask": 0.183,
+            "yes_spread": 0.155,
+            "no_token_id": "50970027099830493460350815989298225051386405883675476958048961690789050538452",
+            "no_probability": 0.972,
+            "no_best_bid": 0.817,
+            "no_best_ask": 0.972,
+            "no_spread": 0.15500000000000003,
+            "volume": 23339.986903999998,
+            "liquidity": 118628.6,
+            "neg_risk": true,
+            "end_date": "2027-01-12T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Increased fuel costs directly impact inflation rates.",
+            "event_id": "201560",
+            "event_title": "India Annual Inflation 2026",
+            "event_slug": "india-annual-inflation-2026",
+            "detected_yes_price": 0.183,
+            "detected_no_price": 0.971,
+            "detected_at": 1779159959180,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.183,
+            "highest_no_price": 0.971
+          },
+          {
+            "id": "1353088",
+            "slug": "india-annual-inflation-2026",
+            "condition_id": "0x8aee74b7b847e182a4e80090d76c278ada71bfd9144d8cc0868c51a339524738",
+            "title": "2.25% to 2.99%",
+            "question": "Will India\u2019s 2026 Annual Inflation be between 2.25% and 2.99%?",
+            "description": "This is a market about the variation of consumer prices in India over the 12-month period ending December 2026, as reported by the Indian Ministry of Statistics and Programme Implementation (MoSPI).\n\nThis market will resolve according to the percentage change in India\u2019s Consumer Price Index (CPI) over the 12-month period ending December 2026 (Year-on-Year inflation, over the same month of the previous year), according to the monthly MoSPI Consumer Price Index report for the specified month.\n\nThe resolution source for this market will be the MoSPI Consumer Price Index report released for December 2026, currently scheduled to be released on January 12, 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.\n\nThe relevant report will be made available upon release at: https://mospi.gov.in/latest-releases\n\nNote: This market\u2019s resolution source reports percentage change in the Indian Consumer Price Index to two decimal points (e.g. 2.01%). Thus this is the level of precision that will be used when resolving this market. For the full release schedule, see: https://www.mospi.gov.in/uploads/documents/releaseCalender/1770293210621-ADVANCE%20RELEASE%20CALENDAR%202026-27%20FINAL%2005.02.2026.pdf",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/november-inflation-india-monthly-OwmLewdCB_yG.jpg",
+            "yes_token_id": "44443235501735027665735122741942606159764719806642789029088650118077813428653",
+            "yes_probability": 0.078,
+            "yes_best_bid": 0.009,
+            "yes_best_ask": 0.078,
+            "yes_spread": 0.069,
+            "no_token_id": "70946296485342437224256572603370703629407698193813436985718337513649322839237",
+            "no_probability": 0.991,
+            "no_best_bid": 0.922,
+            "no_best_ask": 0.991,
+            "no_spread": 0.06899999999999995,
+            "volume": 23764.349623000002,
+            "liquidity": 89812.12000000004,
+            "neg_risk": true,
+            "end_date": "2027-01-12T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Increased fuel costs are a direct driver of inflation.",
+            "event_id": "201560",
+            "event_title": "India Annual Inflation 2026",
+            "event_slug": "india-annual-inflation-2026",
+            "detected_yes_price": 0.121,
+            "detected_no_price": 0.991,
+            "detected_at": 1779159959180,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.121,
+            "highest_no_price": 0.991
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 9,
+            "price": 102.935
+          }
+        ],
+        "topics": [
+          "super-bowl",
+          "ai-tech",
+          "shutdown",
+          "iran-regime",
+          "elon-musk"
+        ],
+        "categories": [
+          "earnings",
+          "world",
+          "elections",
+          "tech",
+          "culture",
+          "geopolitics"
+        ]
+      },
+      "related_market": {
+        "id": "1353091",
+        "slug": "india-annual-inflation-2026",
+        "condition_id": "0x4c3eb9cc59964dbf8afc1b778c3178c5af15c5dd4686b1ea8da979a52d0a932b",
+        "title": "4.50%+",
+        "question": "Will India\u2019s 2026 Annual Inflation be at least 4.50%?",
+        "description": "This is a market about the variation of consumer prices in India over the 12-month period ending December 2026, as reported by the Indian Ministry of Statistics and Programme Implementation (MoSPI).\n\nThis market will resolve according to the percentage change in India\u2019s Consumer Price Index (CPI) over the 12-month period ending December 2026 (Year-on-Year inflation, over the same month of the previous year), according to the monthly MoSPI Consumer Price Index report for the specified month.\n\nThe resolution source for this market will be the MoSPI Consumer Price Index report released for December 2026, currently scheduled to be released on January 12, 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.\n\nThe relevant report will be made available upon release at: https://mospi.gov.in/latest-releases\n\nNote: This market\u2019s resolution source reports percentage change in the Indian Consumer Price Index to two decimal points (e.g. 2.01%). Thus this is the level of precision that will be used when resolving this market. For the full release schedule, see: https://www.mospi.gov.in/uploads/documents/releaseCalender/1770293210621-ADVANCE%20RELEASE%20CALENDAR%202026-27%20FINAL%2005.02.2026.pdf",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/november-inflation-india-monthly-OwmLewdCB_yG.jpg",
+        "yes_token_id": "72615506282586148745738175908634505551936585768671015055159580643179888631319",
+        "yes_probability": 0.89,
+        "yes_best_bid": 0.74,
+        "yes_best_ask": 0.89,
+        "yes_spread": 0.15000000000000002,
+        "no_token_id": "90835614316574438354197984546445067617633349463331906436992004196073946791848",
+        "no_probability": 0.26,
+        "no_best_bid": 0.11,
+        "no_best_ask": 0.26,
+        "no_spread": 0.15000000000000002,
+        "volume": 11255.428105000003,
+        "liquidity": 32714.400000000005,
+        "neg_risk": true,
+        "end_date": "2027-01-12T00:00:00Z",
+        "categories": [
+          "economy"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Rising fuel costs are a direct driver of inflation.",
+        "event_id": "201560",
+        "event_title": "India Annual Inflation 2026",
+        "event_slug": "india-annual-inflation-2026",
+        "detected_yes_price": 0.89,
+        "detected_no_price": 0.25,
+        "detected_at": 1779159959180,
+        "highest_price_change": 0.43999999999999995,
+        "highest_yes_price": 0.89,
+        "highest_no_price": 0.36,
+        "first_moved_at": 1779159978722,
+        "moved_side": "no",
+        "peaked_at": 1779186675535
+      },
+      "_scraped_at": "2026-05-19T13:50:36.826962+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 2,
+      "feed_item": {
+        "id": "814978b5-d45e-42dd-8770-c9c25c57066d",
+        "timestamp": 1779185921752,
+        "tweet": null,
+        "news": {
+          "feed_item_id": "814978b5-d45e-42dd-8770-c9c25c57066d",
+          "headline": "Last-Minute Donation Could Upend G.O.P. Primary for Texas Attorney General",
+          "description": "A single donor\u2019s contribution of $2.75 million could help propel Representative Chip Roy in his clash with a self-funded state senator, Mayes Middleton.",
+          "image": "",
+          "url": "https://www.nytimes.com/2026/05/19/us/chip-roy-donation-texas-attorney-general.html",
+          "timestamp": 1779185921752,
+          "source": "nytimes"
+        },
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "related_markets": [
+          {
+            "id": "1500564",
+            "slug": "texas-attorney-general-republican-primary-runoff-winner",
+            "condition_id": "0x458a287cd1b7fcb75a442b19f5db44c174321d40e73f9dc3c384c234d8d01469",
+            "title": "Chip Roy",
+            "question": "Will Chip Roy win the Texas Republican primary runoff for Attorney General?",
+            "description": "This market will resolve according to the winner of the Texas Republican Primary runoff election for state Attorney General, scheduled for May 26, 2026.\n\nIf the results of this election are not definitively known by December 31, 2026, 11:59 PM ET, this market will resolve to \"Other\".\n\nThe resolution source for this market will be the first announcement of the results from the Texas Republican party, however an overwhelming consensus of credible reporting may suffice.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/texas-flag-map-market-a5dc3bc9de.png",
+            "yes_token_id": "55594695513156945238022406419421152891528714483680739718689509711451962140816",
+            "yes_probability": 0.43,
+            "yes_best_bid": 0.18,
+            "yes_best_ask": 0.43,
+            "yes_spread": 0.25,
+            "no_token_id": "53766002194304126609653596356582917949671825732241854263558663615176648212299",
+            "no_probability": 0.82,
+            "no_best_bid": 0.57,
+            "no_best_ask": 0.82,
+            "no_spread": 0.25,
+            "volume": 4200.665912000001,
+            "liquidity": 42898.850000000006,
+            "neg_risk": true,
+            "end_date": "2026-05-26T00:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Donation directly impacts Chip Roy's campaign viability (1 hop)",
+            "event_id": "246184",
+            "event_title": "Texas Attorney General Republican Primary Runoff Winner",
+            "event_slug": "texas-attorney-general-republican-primary-runoff-winner",
+            "detected_yes_price": 0.42,
+            "detected_no_price": 0.8200000000000001,
+            "detected_at": 1779185932863,
+            "highest_price_change": 0.8333333333333335,
+            "highest_yes_price": 0.77,
+            "highest_no_price": 0.8200000000000001,
+            "first_moved_at": 1779187115377,
+            "moved_side": "yes",
+            "peaked_at": 1779187300059
+          },
+          {
+            "id": "1500563",
+            "slug": "texas-attorney-general-republican-primary-runoff-winner",
+            "condition_id": "0x84c1792ac53b1434dac13fab7baf36b812d0cbb2cf30630badb50b21b3310da9",
+            "title": "Mayes Middleton",
+            "question": "Will Mayes Middleton win the Texas Republican primary runoff for Attorney General?",
+            "description": "This market will resolve according to the winner of the Texas Republican Primary runoff election for state Attorney General, scheduled for May 26, 2026.\n\nIf the results of this election are not definitively known by December 31, 2026, 11:59 PM ET, this market will resolve to \"Other\".\n\nThe resolution source for this market will be the first announcement of the results from the Texas Republican party, however an overwhelming consensus of credible reporting may suffice.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/texas-flag-map-market-a5dc3bc9de.png",
+            "yes_token_id": "68440053744689172661207243117545267991791323719640162116366835759326129723623",
+            "yes_probability": 0.85,
+            "yes_best_bid": 0.32,
+            "yes_best_ask": 0.85,
+            "yes_spread": 0.53,
+            "no_token_id": "15919788288054768628641424193447432371310991126047078682785338467453246220537",
+            "no_probability": 0.68,
+            "no_best_bid": 0.15,
+            "no_best_ask": 0.68,
+            "no_spread": 0.53,
+            "volume": 948.3579119999998,
+            "liquidity": 3536.3699999999994,
+            "neg_risk": true,
+            "end_date": "2026-05-26T00:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "The large donation shifts the competitive landscape for Middleton (1 hop)",
+            "event_id": "246184",
+            "event_title": "Texas Attorney General Republican Primary Runoff Winner",
+            "event_slug": "texas-attorney-general-republican-primary-runoff-winner",
+            "detected_yes_price": 0.86,
+            "detected_no_price": 0.78,
+            "detected_at": 1779185932863,
+            "highest_price_change": 0.2435897435897435,
+            "highest_yes_price": 0.92,
+            "highest_no_price": 0.97,
+            "first_moved_at": 1779185960364,
+            "moved_side": "no",
+            "peaked_at": 1779197040828
+          }
+        ],
+        "topics": [
+          "election-2028",
+          "ukraine-war"
+        ],
+        "categories": [
+          "elections",
+          "geopolitics",
+          "tech",
+          "politics"
+        ]
+      },
+      "related_market": {
+        "id": "1500563",
+        "slug": "texas-attorney-general-republican-primary-runoff-winner",
+        "condition_id": "0x84c1792ac53b1434dac13fab7baf36b812d0cbb2cf30630badb50b21b3310da9",
+        "title": "Mayes Middleton",
+        "question": "Will Mayes Middleton win the Texas Republican primary runoff for Attorney General?",
+        "description": "This market will resolve according to the winner of the Texas Republican Primary runoff election for state Attorney General, scheduled for May 26, 2026.\n\nIf the results of this election are not definitively known by December 31, 2026, 11:59 PM ET, this market will resolve to \"Other\".\n\nThe resolution source for this market will be the first announcement of the results from the Texas Republican party, however an overwhelming consensus of credible reporting may suffice.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/texas-flag-map-market-a5dc3bc9de.png",
+        "yes_token_id": "68440053744689172661207243117545267991791323719640162116366835759326129723623",
+        "yes_probability": 0.85,
+        "yes_best_bid": 0.32,
+        "yes_best_ask": 0.85,
+        "yes_spread": 0.53,
+        "no_token_id": "15919788288054768628641424193447432371310991126047078682785338467453246220537",
+        "no_probability": 0.68,
+        "no_best_bid": 0.15,
+        "no_best_ask": 0.68,
+        "no_spread": 0.53,
+        "volume": 948.3579119999998,
+        "liquidity": 3536.3699999999994,
+        "neg_risk": true,
+        "end_date": "2026-05-26T00:00:00Z",
+        "categories": [
+          "politics",
+          "elections"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "The large donation shifts the competitive landscape for Middleton (1 hop)",
+        "event_id": "246184",
+        "event_title": "Texas Attorney General Republican Primary Runoff Winner",
+        "event_slug": "texas-attorney-general-republican-primary-runoff-winner",
+        "detected_yes_price": 0.86,
+        "detected_no_price": 0.78,
+        "detected_at": 1779185932863,
+        "highest_price_change": 0.2435897435897435,
+        "highest_yes_price": 0.92,
+        "highest_no_price": 0.97,
+        "first_moved_at": 1779185960364,
+        "moved_side": "no",
+        "peaked_at": 1779197040828
+      },
+      "_scraped_at": "2026-05-19T13:50:36.826962+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "valid": false,
+      "_scraped_at": "2026-05-19T13:50:36.826962+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "global_tension_score": 63,
+      "global_tension_level": "HIGH",
+      "countries": [
+        {
+          "country": "GB",
+          "count": 21,
+          "recent": [
+            {
+              "id": "8e564534-eea2-41f2-93bd-7071ebb8a81c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779182743342
+            },
+            {
+              "id": "c7783706-8df9-4d48-86f9-d41a45093d89",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779186100769
+            },
+            {
+              "id": "31e461b2-ec0a-4e32-9158-f615b820f3e6",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779184004544
+            },
+            {
+              "id": "7403adc3-cc6a-4d99-b120-be54b83e6473",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779192752789
+            },
+            {
+              "id": "a03bbe59-97c9-44e1-893e-98a4bd114cc0",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779185020517
+            },
+            {
+              "id": "ac2eafcf-a0c0-4010-90bb-29b81e36b289",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779183763056
+            },
+            {
+              "id": "8243406c-e1a6-4677-ad52-5599d6b3c5c7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779191590388
+            },
+            {
+              "id": "8342482b-d10b-45cf-ad81-575b0ac6cd4d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779178003170
+            },
+            {
+              "id": "2a6cd19f-e091-4d3d-91fc-42e77fcdfd13",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779194500739
+            },
+            {
+              "id": "ef28f0f5-02d8-4395-92e9-d81870699201",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1779181543336
+            },
+            {
+              "id": "4e62e301-2d63-4eb1-8e1a-65cb26c28839",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1779181966454
+            },
+            {
+              "id": "7cddb6e5-5988-4b54-92e8-7497d0a822d2",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1779181560156
+            },
+            {
+              "id": "f8097134-c061-42ec-b932-c55f8ba95ff1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779186008805
+            },
+            {
+              "id": "ec0e69b4-f855-4eed-8ff9-21757f56e96b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779177763175
+            },
+            {
+              "id": "6f669fd9-1d3e-4b3f-ac8d-09c4d9b666f9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779183883054
+            },
+            {
+              "id": "dc6d4a35-9018-4cd3-bf32-1264dd01c6bc",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779188680444
+            },
+            {
+              "id": "bc7c99c3-a8a0-4db1-9d6c-4b10232df5a8",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779194080339
+            },
+            {
+              "id": "f1bbd915-491e-4abc-9cb7-71c191535040",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779181303500
+            },
+            {
+              "id": "a713bba6-eaf2-4395-99e1-d8f1883cf917",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779193121538
+            },
+            {
+              "id": "2efd6b02-e391-43d5-8f82-d9f920ddaa9f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779180103409
+            },
+            {
+              "id": "6f306722-e0a7-431b-9495-c696b64b3fec",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1779181303104
+            }
+          ],
+          "volume": 37842423.426391795,
+          "critical_signals": 3,
+          "high_signals": 17,
+          "low_signals": 1
+        },
+        {
+          "country": "UA",
+          "count": 20,
+          "recent": [
+            {
+              "id": "c7783706-8df9-4d48-86f9-d41a45093d89",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779186100769
+            },
+            {
+              "id": "31e461b2-ec0a-4e32-9158-f615b820f3e6",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779184004544
+            },
+            {
+              "id": "7403adc3-cc6a-4d99-b120-be54b83e6473",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779192752789
+            },
+            {
+              "id": "a03bbe59-97c9-44e1-893e-98a4bd114cc0",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779185020517
+            },
+            {
+              "id": "ac2eafcf-a0c0-4010-90bb-29b81e36b289",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779183763056
+            },
+            {
+              "id": "29926f28-7e12-4855-9685-3905a3922ffc",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779192000771
+            },
+            {
+              "id": "8243406c-e1a6-4677-ad52-5599d6b3c5c7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779191590388
+            },
+            {
+              "id": "8342482b-d10b-45cf-ad81-575b0ac6cd4d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779178003170
+            },
+            {
+              "id": "2a6cd19f-e091-4d3d-91fc-42e77fcdfd13",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779194500739
+            },
+            {
+              "id": "ef28f0f5-02d8-4395-92e9-d81870699201",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1779181543336
+            },
+            {
+              "id": "4e62e301-2d63-4eb1-8e1a-65cb26c28839",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1779181966454
+            },
+            {
+              "id": "7cddb6e5-5988-4b54-92e8-7497d0a822d2",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1779181560156
+            },
+            {
+              "id": "f8097134-c061-42ec-b932-c55f8ba95ff1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779186008805
+            },
+            {
+              "id": "ec0e69b4-f855-4eed-8ff9-21757f56e96b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779177763175
+            },
+            {
+              "id": "6f669fd9-1d3e-4b3f-ac8d-09c4d9b666f9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779183883054
+            },
+            {
+              "id": "dc6d4a35-9018-4cd3-bf32-1264dd01c6bc",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779188680444
+            },
+            {
+              "id": "bc7c99c3-a8a0-4db1-9d6c-4b10232df5a8",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779194080339
+            },
+            {
+              "id": "f1bbd915-491e-4abc-9cb7-71c191535040",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779181303500
+            },
+            {
+              "id": "a713bba6-eaf2-4395-99e1-d8f1883cf917",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779193121538
+            },
+            {
+              "id": "2efd6b02-e391-43d5-8f82-d9f920ddaa9f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779180103409
+            }
+          ],
+          "volume": 6233331.243463893,
+          "critical_signals": 3,
+          "high_signals": 17,
+          "low_signals": 0
+        },
+        {
+          "country": "RU",
+          "count": 19,
+          "recent": [
+            {
+              "id": "8e564534-eea2-41f2-93bd-7071ebb8a81c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779182743342
+            },
+            {
+              "id": "288fd648-8144-4a7c-923e-9db4f6c4e0e3",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779187536190
+            },
+            {
+              "id": "3bb0215b-a245-47f7-a072-2e2d4d308ce8",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779189700700
+            },
+            {
+              "id": "31e461b2-ec0a-4e32-9158-f615b820f3e6",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779184004544
+            },
+            {
+              "id": "7403adc3-cc6a-4d99-b120-be54b83e6473",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779192752789
+            },
+            {
+              "id": "c22f4474-a95e-4d25-b068-30c389685cdc",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779188560666
+            },
+            {
+              "id": "a03bbe59-97c9-44e1-893e-98a4bd114cc0",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779185020517
+            },
+            {
+              "id": "ac2eafcf-a0c0-4010-90bb-29b81e36b289",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779183763056
+            },
+            {
+              "id": "29926f28-7e12-4855-9685-3905a3922ffc",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779192000771
+            },
+            {
+              "id": "8342482b-d10b-45cf-ad81-575b0ac6cd4d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779178003170
+            },
+            {
+              "id": "ef28f0f5-02d8-4395-92e9-d81870699201",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1779181543336
+            },
+            {
+              "id": "4e62e301-2d63-4eb1-8e1a-65cb26c28839",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1779181966454
+            },
+            {
+              "id": "7cddb6e5-5988-4b54-92e8-7497d0a822d2",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1779181560156
+            },
+            {
+              "id": "c08a2ca0-fd86-4855-aff8-c5723b191517",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779177703430
+            },
+            {
+              "id": "6f669fd9-1d3e-4b3f-ac8d-09c4d9b666f9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779183883054
+            },
+            {
+              "id": "dc6d4a35-9018-4cd3-bf32-1264dd01c6bc",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779188680444
+            },
+            {
+              "id": "bc7c99c3-a8a0-4db1-9d6c-4b10232df5a8",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779194080339
+            },
+            {
+              "id": "a713bba6-eaf2-4395-99e1-d8f1883cf917",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779193121538
+            },
+            {
+              "id": "2efd6b02-e391-43d5-8f82-d9f920ddaa9f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779180103409
+            }
+          ],
+          "volume": 5683999.567618156,
+          "critical_signals": 3,
+          "high_signals": 16,
+          "low_signals": 0
+        },
+        {
+          "country": "US",
+          "count": 13,
+          "recent": [
+            {
+              "id": "d2c4ec77-5d41-4d5d-936c-b30682a86f1c",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1779196878000
+            },
+            {
+              "id": "3bb0215b-a245-47f7-a072-2e2d4d308ce8",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779189700700
+            },
+            {
+              "id": "6950941a-ff0f-4346-b472-5709b73a62f9",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1779196153752
+            },
+            {
+              "id": "98753e32-45b6-49ef-a2e8-1afe476f7261",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779179455299
+            },
+            {
+              "id": "3cc83630-4edd-4c29-93da-627416c588c3",
+              "kind": "news",
+              "impact": "critical",
+              "timestamp": 1779179810102
+            },
+            {
+              "id": "ee6378d4-a9db-4ab6-84da-7b02970e3263",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779185707490
+            },
+            {
+              "id": "3596bc52-8a64-4c93-ae06-b9a3fe224ec4",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779185607772
+            },
+            {
+              "id": "bf02624b-14e0-497c-8ef0-fbd029784430",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1779183643059
+            },
+            {
+              "id": "bc7c99c3-a8a0-4db1-9d6c-4b10232df5a8",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779194080339
+            },
+            {
+              "id": "d408dffc-7816-428e-a98d-78530c3d6a87",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1779190800814
+            },
+            {
+              "id": "319c96c4-04e9-4f3a-9e3c-0169d997b358",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779185564603
+            },
+            {
+              "id": "0b5708f0-69de-4431-a27c-b5ec93870493",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779194849267
+            },
+            {
+              "id": "3d8e76a0-c825-416a-93a9-1c58402f21fb",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779185740581
+            }
+          ],
+          "volume": 78245089.46903323,
+          "critical_signals": 3,
+          "high_signals": 8,
+          "low_signals": 2
+        },
+        {
+          "country": "IR",
+          "count": 12,
+          "recent": [
+            {
+              "id": "7029a353-c47b-4a3e-9352-a9c20ee48413",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1779190915400
+            },
+            {
+              "id": "d2c4ec77-5d41-4d5d-936c-b30682a86f1c",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1779196878000
+            },
+            {
+              "id": "3bb0215b-a245-47f7-a072-2e2d4d308ce8",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779189700700
+            },
+            {
+              "id": "c988ac46-3a45-401c-a7eb-a19c5ddf8bcf",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779195070319
+            },
+            {
+              "id": "6950941a-ff0f-4346-b472-5709b73a62f9",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1779196153752
+            },
+            {
+              "id": "98753e32-45b6-49ef-a2e8-1afe476f7261",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779179455299
+            },
+            {
+              "id": "124a3baa-ee0c-496d-82a8-1806b90277ae",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1779196886000
+            },
+            {
+              "id": "3cc83630-4edd-4c29-93da-627416c588c3",
+              "kind": "news",
+              "impact": "critical",
+              "timestamp": 1779179810102
+            },
+            {
+              "id": "bf02624b-14e0-497c-8ef0-fbd029784430",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1779183643059
+            },
+            {
+              "id": "d408dffc-7816-428e-a98d-78530c3d6a87",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1779190800814
+            },
+            {
+              "id": "6f306722-e0a7-431b-9495-c696b64b3fec",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1779181303104
+            },
+            {
+              "id": "0b5708f0-69de-4431-a27c-b5ec93870493",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779194849267
+            }
+          ],
+          "volume": 77627618.52415182,
+          "critical_signals": 4,
+          "high_signals": 4,
+          "low_signals": 4
+        },
+        {
+          "country": "LV",
+          "count": 8,
+          "recent": [
+            {
+              "id": "31e461b2-ec0a-4e32-9158-f615b820f3e6",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779184004544
+            },
+            {
+              "id": "7403adc3-cc6a-4d99-b120-be54b83e6473",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779192752789
+            },
+            {
+              "id": "8342482b-d10b-45cf-ad81-575b0ac6cd4d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779178003170
+            },
+            {
+              "id": "2a6cd19f-e091-4d3d-91fc-42e77fcdfd13",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779194500739
+            },
+            {
+              "id": "ef28f0f5-02d8-4395-92e9-d81870699201",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1779181543336
+            },
+            {
+              "id": "7cddb6e5-5988-4b54-92e8-7497d0a822d2",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1779181560156
+            },
+            {
+              "id": "6f669fd9-1d3e-4b3f-ac8d-09c4d9b666f9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779183883054
+            },
+            {
+              "id": "2efd6b02-e391-43d5-8f82-d9f920ddaa9f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779180103409
+            }
+          ],
+          "volume": 4237710.238013387,
+          "critical_signals": 2,
+          "high_signals": 6,
+          "low_signals": 0
+        },
+        {
+          "country": "IL",
+          "count": 7,
+          "recent": [
+            {
+              "id": "4d6684d2-faa8-4c82-be15-9b8f047319ef",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779186060334
+            },
+            {
+              "id": "61c87ff4-f528-404f-b970-a3a3c95720d5",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779182957488
+            },
+            {
+              "id": "6950941a-ff0f-4346-b472-5709b73a62f9",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1779196153752
+            },
+            {
+              "id": "98753e32-45b6-49ef-a2e8-1afe476f7261",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779179455299
+            },
+            {
+              "id": "fb37aff0-834a-41e5-9dc1-39b06d922868",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779185820519
+            },
+            {
+              "id": "40802fe9-4a09-445c-afcc-021dac69268e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779196780288
+            },
+            {
+              "id": "6f306722-e0a7-431b-9495-c696b64b3fec",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1779181303104
+            }
+          ],
+          "volume": 61548252.20573896,
+          "critical_signals": 0,
+          "high_signals": 5,
+          "low_signals": 2
+        },
+        {
+          "country": "LB",
+          "count": 4,
+          "recent": [
+            {
+              "id": "4d6684d2-faa8-4c82-be15-9b8f047319ef",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779186060334
+            },
+            {
+              "id": "61c87ff4-f528-404f-b970-a3a3c95720d5",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779182957488
+            },
+            {
+              "id": "7029a353-c47b-4a3e-9352-a9c20ee48413",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1779190915400
+            },
+            {
+              "id": "40802fe9-4a09-445c-afcc-021dac69268e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779196780288
+            }
+          ],
+          "volume": 42480981.20299916,
+          "critical_signals": 1,
+          "high_signals": 3,
+          "low_signals": 0
+        },
+        {
+          "country": "CN",
+          "count": 3,
+          "recent": [
+            {
+              "id": "06f5d2cc-07c0-414b-938d-704281c66cf1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779195940436
+            },
+            {
+              "id": "29926f28-7e12-4855-9685-3905a3922ffc",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779192000771
+            },
+            {
+              "id": "3d8e76a0-c825-416a-93a9-1c58402f21fb",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779185740581
+            }
+          ],
+          "volume": 754331.3154519656,
+          "critical_signals": 0,
+          "high_signals": 3,
+          "low_signals": 0
+        },
+        {
+          "country": "EE",
+          "count": 3,
+          "recent": [
+            {
+              "id": "7403adc3-cc6a-4d99-b120-be54b83e6473",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779192752789
+            },
+            {
+              "id": "c22f4474-a95e-4d25-b068-30c389685cdc",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779188560666
+            },
+            {
+              "id": "8243406c-e1a6-4677-ad52-5599d6b3c5c7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779191590388
+            }
+          ],
+          "volume": 5510935.822229389,
+          "critical_signals": 0,
+          "high_signals": 3,
+          "low_signals": 0
+        },
+        {
+          "country": "PS",
+          "count": 2,
+          "recent": [
+            {
+              "id": "fb37aff0-834a-41e5-9dc1-39b06d922868",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779185820519
+            },
+            {
+              "id": "40802fe9-4a09-445c-afcc-021dac69268e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779196780288
+            }
+          ],
+          "volume": 118042.91049499996,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "OM",
+          "count": 2,
+          "recent": [
+            {
+              "id": "ac2eafcf-a0c0-4010-90bb-29b81e36b289",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779183763056
+            },
+            {
+              "id": "8243406c-e1a6-4677-ad52-5599d6b3c5c7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779191590388
+            }
+          ],
+          "volume": 1148135.5707740022,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "PE",
+          "count": 2,
+          "recent": [
+            {
+              "id": "ac2eafcf-a0c0-4010-90bb-29b81e36b289",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779183763056
+            },
+            {
+              "id": "f1bbd915-491e-4abc-9cb7-71c191535040",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779181303500
+            }
+          ],
+          "volume": 360843.8226539999,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "LT",
+          "count": 2,
+          "recent": [
+            {
+              "id": "7403adc3-cc6a-4d99-b120-be54b83e6473",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779192752789
+            },
+            {
+              "id": "c22f4474-a95e-4d25-b068-30c389685cdc",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779188560666
+            }
+          ],
+          "volume": 4377915.244284387,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "SY",
+          "count": 2,
+          "recent": [
+            {
+              "id": "c22f4474-a95e-4d25-b068-30c389685cdc",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779188560666
+            },
+            {
+              "id": "40802fe9-4a09-445c-afcc-021dac69268e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779196780288
+            }
+          ],
+          "volume": 4445776.563831387,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "RS",
+          "count": 1,
+          "recent": [
+            {
+              "id": "f8097134-c061-42ec-b932-c55f8ba95ff1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779186008805
+            }
+          ],
+          "volume": 337771.21014428034,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "PL",
+          "count": 1,
+          "recent": [
+            {
+              "id": "f8097134-c061-42ec-b932-c55f8ba95ff1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779186008805
+            }
+          ],
+          "volume": 337771.21014428034,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "AE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "6f306722-e0a7-431b-9495-c696b64b3fec",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1779181303104
+            }
+          ],
+          "volume": 31645825.60744512,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "RO",
+          "count": 1,
+          "recent": [
+            {
+              "id": "8243406c-e1a6-4677-ad52-5599d6b3c5c7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779191590388
+            }
+          ],
+          "volume": 1133020.5779450021,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "SE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "c22f4474-a95e-4d25-b068-30c389685cdc",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779188560666
+            }
+          ],
+          "volume": 4377915.244284387,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "BG",
+          "count": 1,
+          "recent": [
+            {
+              "id": "f8097134-c061-42ec-b932-c55f8ba95ff1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779186008805
+            }
+          ],
+          "volume": 337771.21014428034,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "BR",
+          "count": 1,
+          "recent": [
+            {
+              "id": "0396ba1e-63c5-410b-8c62-d6f08e7471e8",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779185936866
+            }
+          ],
+          "volume": 5655508.567349852,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "IQ",
+          "count": 1,
+          "recent": [
+            {
+              "id": "c988ac46-3a45-401c-a7eb-a19c5ddf8bcf",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779195070319
+            }
+          ],
+          "volume": 29440014.254673686,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "CZ",
+          "count": 1,
+          "recent": [
+            {
+              "id": "f8097134-c061-42ec-b932-c55f8ba95ff1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779186008805
+            }
+          ],
+          "volume": 337771.21014428034,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "BY",
+          "count": 1,
+          "recent": [
+            {
+              "id": "c08a2ca0-fd86-4855-aff8-c5723b191517",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779177703430
+            }
+          ],
+          "volume": 36733.424517224004,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "CU",
+          "count": 1,
+          "recent": [
+            {
+              "id": "bf02624b-14e0-497c-8ef0-fbd029784430",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1779183643059
+            }
+          ],
+          "volume": 2101889.4850125397,
+          "critical_signals": 1,
+          "high_signals": 0,
+          "low_signals": 0
+        },
+        {
+          "country": "TW",
+          "count": 1,
+          "recent": [
+            {
+              "id": "3d8e76a0-c825-416a-93a9-1c58402f21fb",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779185740581
+            }
+          ],
+          "volume": 33319.50585800004,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "KW",
+          "count": 1,
+          "recent": [
+            {
+              "id": "6950941a-ff0f-4346-b472-5709b73a62f9",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1779196153752
+            }
+          ],
+          "volume": 551424.8703099985,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        }
+      ],
+      "_scraped_at": "2026-05-19T13:50:36.826962+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
