@@ -1,0 +1,2582 @@
+{
+  "scraped_at": "2026-05-22T12:37:17.035247+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 8,
+  "items": [
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "ca4e9e9f-d7e9-4b2d-b6aa-92b9a91c7ba2",
+        "timestamp": 1779380089927,
+        "tweet": {
+          "feed_item_id": "ca4e9e9f-d7e9-4b2d-b6aa-92b9a91c7ba2",
+          "post_id": "2057495339159245153",
+          "post_type": "tweet",
+          "created_at": 1779380089927,
+          "user": {
+            "uid": "3295423333",
+            "handle": "FirstSquawk",
+            "display_name": "First Squawk",
+            "pfp": "https://pbs.twimg.com/profile_images/1039778545738964992/6fl6RNN0.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "TRUMP INDICATES POSSIBLE ACTION TO ELIMINATE IRAN'S URANIUM.",
+          "link": "https://twitter.com/FirstSquawk/status/2057495339159245153"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "US",
+        "countries": [
+          "US",
+          "IR"
+        ],
+        "related_markets": [
+          {
+            "id": "2111564",
+            "slug": "what-iranian-demands-will-trump-agree-to-by-may-31",
+            "condition_id": "0x8374c773aa911e00a8d5c02e0130d57d18a9b5035b26e50f0e48ef1b74dd5c75",
+            "title": "Unfreeze Iranian Assets",
+            "question": "Will Trump agree to unfreeze Iranian assets by May 31?",
+            "description": "This market will resolve to \u201cYes\u201d if the United States agrees to unfreeze any Iranian assets by May 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo.\u201d\n\nUnfreezing Iranian assets refers to the release, transfer, or restoration of Iranian access to any assets that are frozen, blocked, or otherwise inaccessible due to U.S. sanctions or restrictions. This includes both assets held in the United States and assets held in foreign jurisdictions where access is restricted due to U.S. sanctions. The removal of sanctions which freeze these assets will also be considered to be unfreezing Iranian assets.\n\nThe United States will be considered to have agreed to unfreeze Iranian assets if:\n- Donald Trump or another authorized representative of the Government of the United States publicly announces that the United States has agreed to unfreeze any Iranian assets.\n- The unfreezing of any Iranian assets is included as part of a treaty or deal that is formally established between the United States and Iran, either through signing or other formal means.\n\nAgreement refers to an explicit acceptance, authorization or consent to the specified action. Only announcements of definitive agreement will qualify. Suggestions, negotiations, expressions of openness, or other non-definitive statements will not qualify.\n\nAny definitive agreement or commitment made before the resolution date will be considered, regardless of when or whether the specified action is begun.\n\nThe primary resolution source for this market will be official statements from Donald Trump, the U.S. government, and their official representatives; however, a consensus of credible reporting may also be used to verify the details of an announcement or formal agreement.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-agree-to-unfreeze-iranian-assets-in-april-WKx3XcJKn1AN.jpg",
+            "yes_token_id": "101925823434448810063777591529269305607728896028846969891254029999406909814043",
+            "yes_probability": 0.28,
+            "yes_best_bid": 0.26,
+            "yes_best_ask": 0.28,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "109426667516915176606037932747045126716714742777639607958053033118962693273625",
+            "no_probability": 0.74,
+            "no_best_bid": 0.72,
+            "no_best_ask": 0.74,
+            "no_spread": 0.020000000000000018,
+            "volume": 312907.22204509133,
+            "liquidity": 131691.44999999998,
+            "neg_risk": false,
+            "end_date": "2026-05-31T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Trump's statement could influence negotiations on asset relief (1 hop).",
+            "event_id": "429426",
+            "event_title": "What Iranian demands will Trump agree to by May 31?",
+            "event_slug": "what-iranian-demands-will-trump-agree-to-by-may-31",
+            "detected_yes_price": 0.13,
+            "detected_no_price": 0.88,
+            "detected_at": 1779380138486,
+            "highest_price_change": 1.3076923076923075,
+            "highest_yes_price": 0.3,
+            "highest_no_price": 0.88,
+            "first_moved_at": 1779380138897,
+            "moved_side": "yes",
+            "peaked_at": 1779453050785
+          },
+          {
+            "id": "1731346",
+            "slug": "iran-agrees-to-surrender-enriched-uranium-stockpile-by",
+            "condition_id": "0xe846dd72f8a654ef137a3e23a88226400b42cc0ca817ab4390a615860e08cafa",
+            "title": "December 31",
+            "question": "Iran agrees to surrender enriched uranium stockpile by December 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if Iran publicly agrees to surrender its enriched uranium stockpile by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nAn official pledge by Iran to surrender its enriched uranium stockpile will qualify for a \u201cYes\u201d resolution whether as a unilateral announcement or part of an agreement with the U.S. or Israel.\n\nAn agreement by Iran to surrender any amount of its enriched uranium stockpile will count.\n\nTo qualify, Iran must publicly agree that its enriched uranium stockpile, or any portion thereof, will be transferred, shipped, or placed under the custody or control of any entity outside of Iran and its influence, excluding non-state armed groups or Iranian-aligned organizations (such as Hezbollah, the Houthis, or similar actors).\n\nAny agreement or pledge made before the resolution date of this market will qualify, regardless of if/when the agreement goes into effect.\n\nAn agreement by Iran to surrender its enriched uranium stockpile as a precondition of a more comprehensive peace process or deal will qualify, even if the agreement is not finalized or part of a formalized peace deal.\n\nAgreements to merely limit or cap the level or quality of enrichment\u2014such as reducing enrichment to below weapons-grade thresholds\u2014will not qualify.\n\nThe primary resolution source for this market will be a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/iran-agrees-to-end-enrichment-of-uranium-before-july-G-riWTpXuKoj.jpg",
+            "yes_token_id": "70530382817944476125648239982318905983026944956853105853882601665630375614463",
+            "yes_probability": 0.46,
+            "yes_best_bid": 0.44,
+            "yes_best_ask": 0.46,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "18702020867581976905619984893323736143098724607754292117438927457109238679413",
+            "no_probability": 0.56,
+            "no_best_bid": 0.54,
+            "no_best_ask": 0.56,
+            "no_spread": 0.020000000000000018,
+            "volume": 896577.5264650702,
+            "liquidity": 400910.63,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Trump's statement directly relates to Iran's potential agreement (1 hop).",
+            "event_id": "310530",
+            "event_title": "Iran agrees to surrender enriched uranium stockpile by...?",
+            "event_slug": "iran-agrees-to-surrender-enriched-uranium-stockpile-by",
+            "detected_yes_price": 0.41,
+            "detected_no_price": 0.6,
+            "detected_at": 1779380138486,
+            "highest_price_change": 0.12195121951219524,
+            "highest_yes_price": 0.46,
+            "highest_no_price": 0.6,
+            "first_moved_at": 1779441752031,
+            "moved_side": "yes",
+            "peaked_at": 1779453237941
+          },
+          {
+            "id": "1731345",
+            "slug": "iran-agrees-to-surrender-enriched-uranium-stockpile-by",
+            "condition_id": "0x6cb3ec9e0fb1c258898f648f8b33422f59ba3e8a71aee551449d7cb147bb8ead",
+            "title": "June 30",
+            "question": "Iran agrees to surrender enriched uranium stockpile by June 30, 2026?",
+            "description": "This market will resolve to \"Yes\" if Iran publicly agrees to surrender its enriched uranium stockpile by June 30, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nAn official pledge by Iran to surrender its enriched uranium stockpile will qualify for a \u201cYes\u201d resolution whether as a unilateral announcement or part of an agreement with the U.S. or Israel.\n\nAn agreement by Iran to surrender any amount of its enriched uranium stockpile will count.\n\nTo qualify, Iran must publicly agree that its enriched uranium stockpile, or any portion thereof, will be transferred, shipped, or placed under the custody or control of any entity outside of Iran and its influence, excluding non-state armed groups or Iranian-aligned organizations (such as Hezbollah, the Houthis, or similar actors).\n\nAny agreement or pledge made before the resolution date of this market will qualify, regardless of if/when the agreement goes into effect.\n\nAn agreement by Iran to surrender its enriched uranium stockpile as a precondition of a more comprehensive peace process or deal will qualify, even if the agreement is not finalized or part of a formalized peace deal.\n\nAgreements to merely limit or cap the level or quality of enrichment\u2014such as reducing enrichment to below weapons-grade thresholds\u2014will not qualify.\n\nThe primary resolution source for this market will be a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/iran-agrees-to-end-enrichment-of-uranium-before-july-G-riWTpXuKoj.jpg",
+            "yes_token_id": "71072033942543358092746595783705192338853499264598489041523740805922382816481",
+            "yes_probability": 0.2,
+            "yes_best_bid": 0.19,
+            "yes_best_ask": 0.2,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "17269153522875922708691197534079323882577887490263556443563241786372279871546",
+            "no_probability": 0.81,
+            "no_best_bid": 0.8,
+            "no_best_ask": 0.81,
+            "no_spread": 0.010000000000000009,
+            "volume": 1971415.5679165574,
+            "liquidity": 200176.83000000002,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Trump's statement directly relates to Iran's potential agreement (1 hop).",
+            "event_id": "310530",
+            "event_title": "Iran agrees to surrender enriched uranium stockpile by...?",
+            "event_slug": "iran-agrees-to-surrender-enriched-uranium-stockpile-by",
+            "detected_yes_price": 0.21,
+            "detected_no_price": 0.81,
+            "detected_at": 1779380138486,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.21,
+            "highest_no_price": 0.81
+          },
+          {
+            "id": "1370652",
+            "slug": "iran-agrees-to-end-enrichment-of-uranium-by-june-30",
+            "condition_id": "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7",
+            "title": "",
+            "question": " Iran agrees to end enrichment of uranium by June 30?",
+            "description": "This market will resolve to \"Yes\" if Iran publicly agrees to end all enrichment of uranium by June 30, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nAn official pledge by Iran to end all enrichment of Uranium will qualify for a \u201cYes\u201d resolution, whether as a unilateral announcement or part of an agreement with the U.S. or Israel.\n\nAny agreement or pledge made before the resolution date of this market will qualify, regardless of if/when the agreement goes into effect.\n\nAn agreement by Iran to end all enrichment of uranium for any amount of time will count.\n\nAn agreement by Iran to end all enrichment of uranium as a precondition of a more comprehensive peace process or deal will qualify, even if the agreement is not finalized or part of a formalized peace deal. \n\nAgreements to merely limit or cap the level or quality of enrichment\u2014such as reducing enrichment to below weapons-grade thresholds\u2014will not qualify.\n\nThe primary resolution source for this market will be a consensus of credible reporting. ",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/iran-agrees-to-end-enrichment-of-uranium-before-july-G-riWTpXuKoj.jpg",
+            "yes_token_id": "25525886838936661349801315808447476243176190100445157889430252006398510133975",
+            "yes_probability": 0.28,
+            "yes_best_bid": 0.27,
+            "yes_best_ask": 0.28,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "56765604206329295201800708509102770552215845482784718397590899836102045975284",
+            "no_probability": 0.73,
+            "no_best_bid": 0.72,
+            "no_best_ask": 0.73,
+            "no_spread": 0.010000000000000009,
+            "volume": 1424691.777715734,
+            "liquidity": 243126.38,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Trump's statement directly relates to Iran's potential agreement (1 hop).",
+            "event_id": "206793",
+            "event_title": " Iran agrees to end enrichment of uranium by June 30?",
+            "event_slug": "iran-agrees-to-end-enrichment-of-uranium-by-june-30",
+            "detected_yes_price": 0.23,
+            "detected_no_price": 0.79,
+            "detected_at": 1779380138486,
+            "highest_price_change": 0.21739130434782614,
+            "highest_yes_price": 0.28,
+            "highest_no_price": 0.79,
+            "first_moved_at": 1779441793999,
+            "moved_side": "yes",
+            "peaked_at": 1779441793999
+          },
+          {
+            "id": "2126542",
+            "slug": "iran-agrees-to-surrender-enriched-uranium-stockpile-by",
+            "condition_id": "0xd39905267d79b715f078279ef41f311b791c6e2c7361fea38011492b632212ef",
+            "title": "May 31",
+            "question": "Iran agrees to surrender enriched uranium stockpile by May 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if Iran publicly agrees to surrender its enriched uranium stockpile by May 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nAn official pledge by Iran to surrender its enriched uranium stockpile will qualify for a \u201cYes\u201d resolution whether as a unilateral announcement or part of an agreement with the U.S. or Israel.\n\nAn agreement by Iran to surrender any amount of its enriched uranium stockpile will count.\n\nTo qualify, Iran must publicly agree that its enriched uranium stockpile, or any portion thereof, will be transferred, shipped, or placed under the custody or control of any entity outside of Iran and its influence, excluding non-state armed groups or Iranian-aligned organizations (such as Hezbollah, the Houthis, or similar actors).\n\nAny agreement or pledge made before the resolution date of this market will qualify, regardless of if/when the agreement goes into effect.\n\nAn agreement by Iran to surrender its enriched uranium stockpile as a precondition of a more comprehensive peace process or deal will qualify, even if the agreement is not finalized or part of a formalized peace deal.\n\nAgreements to merely limit or cap the level or quality of enrichment\u2014such as reducing enrichment to below weapons-grade thresholds\u2014will not qualify.\n\nThe primary resolution source for this market will be a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/iran-agrees-to-end-enrichment-of-uranium-before-july-G-riWTpXuKoj.jpg",
+            "yes_token_id": "2524866258201703875345714303520627683687425586066606325407691453627204155882",
+            "yes_probability": 0.116,
+            "yes_best_bid": 0.107,
+            "yes_best_ask": 0.116,
+            "yes_spread": 0.009000000000000008,
+            "no_token_id": "63756054444750273032342900213736494135377239401337354989820981541092393466748",
+            "no_probability": 0.893,
+            "no_best_bid": 0.884,
+            "no_best_ask": 0.893,
+            "no_spread": 0.009000000000000008,
+            "volume": 1656706.390481601,
+            "liquidity": 432367.92999999993,
+            "neg_risk": false,
+            "end_date": "2026-05-31T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Trump's statement directly relates to Iran's potential agreement (1 hop).",
+            "event_id": "310530",
+            "event_title": "Iran agrees to surrender enriched uranium stockpile by...?",
+            "event_slug": "iran-agrees-to-surrender-enriched-uranium-stockpile-by",
+            "detected_yes_price": 0.094,
+            "detected_no_price": 0.907,
+            "detected_at": 1779380138486,
+            "highest_price_change": 0.28723404255319146,
+            "highest_yes_price": 0.121,
+            "highest_no_price": 0.923,
+            "first_moved_at": 1779380149883,
+            "moved_side": "yes",
+            "peaked_at": 1779453198360
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 8,
+            "price": 100.51
+          }
+        ],
+        "topics": [
+          "iran-regime"
+        ],
+        "categories": null
+      },
+      "related_market": {
+        "id": "2111564",
+        "slug": "what-iranian-demands-will-trump-agree-to-by-may-31",
+        "condition_id": "0x8374c773aa911e00a8d5c02e0130d57d18a9b5035b26e50f0e48ef1b74dd5c75",
+        "title": "Unfreeze Iranian Assets",
+        "question": "Will Trump agree to unfreeze Iranian assets by May 31?",
+        "description": "This market will resolve to \u201cYes\u201d if the United States agrees to unfreeze any Iranian assets by May 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo.\u201d\n\nUnfreezing Iranian assets refers to the release, transfer, or restoration of Iranian access to any assets that are frozen, blocked, or otherwise inaccessible due to U.S. sanctions or restrictions. This includes both assets held in the United States and assets held in foreign jurisdictions where access is restricted due to U.S. sanctions. The removal of sanctions which freeze these assets will also be considered to be unfreezing Iranian assets.\n\nThe United States will be considered to have agreed to unfreeze Iranian assets if:\n- Donald Trump or another authorized representative of the Government of the United States publicly announces that the United States has agreed to unfreeze any Iranian assets.\n- The unfreezing of any Iranian assets is included as part of a treaty or deal that is formally established between the United States and Iran, either through signing or other formal means.\n\nAgreement refers to an explicit acceptance, authorization or consent to the specified action. Only announcements of definitive agreement will qualify. Suggestions, negotiations, expressions of openness, or other non-definitive statements will not qualify.\n\nAny definitive agreement or commitment made before the resolution date will be considered, regardless of when or whether the specified action is begun.\n\nThe primary resolution source for this market will be official statements from Donald Trump, the U.S. government, and their official representatives; however, a consensus of credible reporting may also be used to verify the details of an announcement or formal agreement.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-agree-to-unfreeze-iranian-assets-in-april-WKx3XcJKn1AN.jpg",
+        "yes_token_id": "101925823434448810063777591529269305607728896028846969891254029999406909814043",
+        "yes_probability": 0.28,
+        "yes_best_bid": 0.26,
+        "yes_best_ask": 0.28,
+        "yes_spread": 0.020000000000000018,
+        "no_token_id": "109426667516915176606037932747045126716714742777639607958053033118962693273625",
+        "no_probability": 0.74,
+        "no_best_bid": 0.72,
+        "no_best_ask": 0.74,
+        "no_spread": 0.020000000000000018,
+        "volume": 312907.22204509133,
+        "liquidity": 131691.44999999998,
+        "neg_risk": false,
+        "end_date": "2026-05-31T00:00:00Z",
+        "categories": [
+          "geopolitics",
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 9,
+        "impact_level": "critical",
+        "impact_reason": "Trump's statement could influence negotiations on asset relief (1 hop).",
+        "event_id": "429426",
+        "event_title": "What Iranian demands will Trump agree to by May 31?",
+        "event_slug": "what-iranian-demands-will-trump-agree-to-by-may-31",
+        "detected_yes_price": 0.13,
+        "detected_no_price": 0.88,
+        "detected_at": 1779380138486,
+        "highest_price_change": 1.3076923076923075,
+        "highest_yes_price": 0.3,
+        "highest_no_price": 0.88,
+        "first_moved_at": 1779380138897,
+        "moved_side": "yes",
+        "peaked_at": 1779453050785
+      },
+      "_scraped_at": "2026-05-22T12:37:17.035247+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 2,
+      "feed_item": {
+        "id": "4fd0ac7d-7880-4ba9-8591-6e8ff2bd55b3",
+        "timestamp": 1779442418946,
+        "tweet": {
+          "feed_item_id": "4fd0ac7d-7880-4ba9-8591-6e8ff2bd55b3",
+          "post_id": "2057756766012940434",
+          "post_type": "tweet",
+          "created_at": 1779442418946,
+          "user": {
+            "uid": "3295423333",
+            "handle": "FirstSquawk",
+            "display_name": "First Squawk",
+            "pfp": "https://pbs.twimg.com/profile_images/1039778545738964992/6fl6RNN0.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "IRAN'S IRGC NAVY REPORTS 35 SHIPS, INCLUDING OIL TANKERS AND CONTAINER SHIPS, HAVE TRANSITED THE STRAIT OF HORMUZ WITH IRAN'S APPROVAL IN THE LAST 24 HOURS - STATE MEDIA.",
+          "link": "https://twitter.com/FirstSquawk/status/2057756766012940434"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "IR",
+        "countries": [
+          "IR"
+        ],
+        "related_markets": [
+          {
+            "id": "2119072",
+            "slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+            "condition_id": "0x4dec0ddb49e5b4c025ee04135a4e1c99c47cb47e12113056f84f41979fc4e4de",
+            "title": "60+",
+            "question": "Will 60 ships transit the Strait of Hormuz on any day by May 31?",
+            "description": "This market will resolve to \u201cYes\u201d if IMF Portwatch publishes a daily number of transit calls (\u201cArrivals of Ships\u201d) for the Strait of Hormuz equal to or above the listed value for any date between market creation and May 31, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThe number of daily transit calls/arrivals includes container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nThis market will resolve as soon as IMF Portwatch publishes a daily number of transit calls equal to or above the specified level, or once data has been published for the final date in the specified period and no such value has been published. If no data has been published for the final date of the specified period within 14 calendar days (ET) after the end of that period, this market will resolve based on data published up to that point.\n\nRevisions to previously published data points, made within this market\u2019s timeframe, will be considered. However, they will not disqualify a previously published data point from qualifying. Revisions to previously published data points after data is published for May 31, 2026, however, will not be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+            "yes_token_id": "7791417626413370207341872468344620539151724168956853265604053679466576268405",
+            "yes_probability": 0.16,
+            "yes_best_bid": 0.13,
+            "yes_best_ask": 0.16,
+            "yes_spread": 0.03,
+            "no_token_id": "89631155005293985971995000075597330688615362223716579295442806630123321192336",
+            "no_probability": 0.87,
+            "no_best_bid": 0.84,
+            "no_best_ask": 0.87,
+            "no_spread": 0.030000000000000027,
+            "volume": 101328.85007100007,
+            "liquidity": 61385.619999999995,
+            "neg_risk": false,
+            "end_date": "2026-05-31T00:00:00Z",
+            "categories": [
+              "economy",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "35 ships transiting with approval suggests traffic normalization (1 hop).",
+            "event_id": "432180",
+            "event_title": "Will __ ships transit the Strait of Hormuz on any day by May 31?",
+            "event_slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+            "detected_yes_price": 0.09,
+            "detected_no_price": 0.92,
+            "detected_at": 1779442460277,
+            "highest_price_change": 1.2222222222222223,
+            "highest_yes_price": 0.2,
+            "highest_no_price": 0.94,
+            "first_moved_at": 1779443212218,
+            "moved_side": "yes",
+            "peaked_at": 1779453246721
+          },
+          {
+            "id": "2119071",
+            "slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+            "condition_id": "0xe02033cef06e942fbe1fdc9cc259abe9682265d349642598ab27ad677083d054",
+            "title": "40+",
+            "question": "Will 40 ships transit the Strait of Hormuz on any day by May 31?",
+            "description": "This market will resolve to \u201cYes\u201d if IMF Portwatch publishes a daily number of transit calls (\u201cArrivals of Ships\u201d) for the Strait of Hormuz equal to or above the listed value for any date between market creation and May 31, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThe number of daily transit calls/arrivals includes container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nThis market will resolve as soon as IMF Portwatch publishes a daily number of transit calls equal to or above the specified level, or once data has been published for the final date in the specified period and no such value has been published. If no data has been published for the final date of the specified period within 14 calendar days (ET) after the end of that period, this market will resolve based on data published up to that point.\n\nRevisions to previously published data points, made within this market\u2019s timeframe, will be considered. However, they will not disqualify a previously published data point from qualifying. Revisions to previously published data points after data is published for May 31, 2026, however, will not be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+            "yes_token_id": "20475881424533391430853797970383992051213626413038421315207754773244453518891",
+            "yes_probability": 0.21,
+            "yes_best_bid": 0.18,
+            "yes_best_ask": 0.21,
+            "yes_spread": 0.03,
+            "no_token_id": "112408646064529615659309914032192074963563513456785806832436889442762194296683",
+            "no_probability": 0.82,
+            "no_best_bid": 0.79,
+            "no_best_ask": 0.82,
+            "no_spread": 0.029999999999999916,
+            "volume": 159962.75140572013,
+            "liquidity": 53830.219999999994,
+            "neg_risk": false,
+            "end_date": "2026-05-31T00:00:00Z",
+            "categories": [
+              "economy",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "35 ships transiting with approval suggests traffic normalization (1 hop).",
+            "event_id": "432180",
+            "event_title": "Will __ ships transit the Strait of Hormuz on any day by May 31?",
+            "event_slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+            "detected_yes_price": 0.19,
+            "detected_no_price": 0.83,
+            "detected_at": 1779442460277,
+            "highest_price_change": 0.15789473684210525,
+            "highest_yes_price": 0.22,
+            "highest_no_price": 0.84,
+            "first_moved_at": 1779442907659,
+            "moved_side": "yes",
+            "peaked_at": 1779453231034
+          },
+          {
+            "id": "2176262",
+            "slug": "strait-of-hormuz-traffic-returns-to-normal-by-july-31",
+            "condition_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+            "title": "",
+            "question": "Strait of Hormuz traffic returns to normal by July 31?",
+            "description": "This market will resolve to \u201cYes\u201d if IMF Portwatch publishes a 7-day moving average of transit calls (\u201cArrivals of Ships\u201d) for the Strait of Hormuz equal to or above 60 for any date between market creation and July 31, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nDaily transit calls include container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nThis market will resolve as soon as IMF Portwatch publishes a 7-day moving average of transit calls equal to or above the specified level, or once data has been published for the final date in the specified period and no such value has been published. If no data has been published for the final date of the specified period within 14 calendar days (ET) after the end of that period, this market will resolve based on data published up to that point.\n\nRevisions to previously published data points made within this market\u2019s timeframe will be considered. However, they will not disqualify a previously published data point from qualifying. Revisions to previously published data points after data is published for July 31, 2026, however, will not be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+            "yes_token_id": "106929013576622300718402895513457875547556389240247806666273814836599548721421",
+            "yes_probability": 0.5,
+            "yes_best_bid": 0.48,
+            "yes_best_ask": 0.5,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "35600405023007026690792769618276046675588493623969149550929635257490271313011",
+            "no_probability": 0.52,
+            "no_best_bid": 0.5,
+            "no_best_ask": 0.52,
+            "no_spread": 0.020000000000000018,
+            "volume": 718187.1329495125,
+            "liquidity": 1299663.4999999993,
+            "neg_risk": false,
+            "end_date": "2026-07-31T00:00:00Z",
+            "categories": [
+              "economy",
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "35 ships transiting with approval suggests traffic normalization (1 hop).",
+            "event_id": "455867",
+            "event_title": "Strait of Hormuz traffic returns to normal by July 31?",
+            "event_slug": "strait-of-hormuz-traffic-returns-to-normal-by-july-31",
+            "detected_yes_price": 0.45,
+            "detected_no_price": 0.56,
+            "detected_at": 1779442460277,
+            "highest_price_change": 0.11111111111111108,
+            "highest_yes_price": 0.5,
+            "highest_no_price": 0.56,
+            "first_moved_at": 1779447549151,
+            "moved_side": "yes",
+            "peaked_at": 1779452672534
+          },
+          {
+            "id": "2119070",
+            "slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+            "condition_id": "0x9bdb4d01b7797953c92c03e98cf7d36e62543b37972435e6b4a1c74f4200b108",
+            "title": "20+",
+            "question": "Will 20 ships transit the Strait of Hormuz on any day by May 31?",
+            "description": "This market will resolve to \u201cYes\u201d if IMF Portwatch publishes a daily number of transit calls (\u201cArrivals of Ships\u201d) for the Strait of Hormuz equal to or above the listed value for any date between market creation and May 31, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThe number of daily transit calls/arrivals includes container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nThis market will resolve as soon as IMF Portwatch publishes a daily number of transit calls equal to or above the specified level, or once data has been published for the final date in the specified period and no such value has been published. If no data has been published for the final date of the specified period within 14 calendar days (ET) after the end of that period, this market will resolve based on data published up to that point.\n\nRevisions to previously published data points, made within this market\u2019s timeframe, will be considered. However, they will not disqualify a previously published data point from qualifying. Revisions to previously published data points after data is published for May 31, 2026, however, will not be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+            "yes_token_id": "89954522737599344676262331612340594227984975540462602712137571853195021943786",
+            "yes_probability": 0.57,
+            "yes_best_bid": 0.55,
+            "yes_best_ask": 0.57,
+            "yes_spread": 0.019999999999999907,
+            "no_token_id": "111808638949210947676629510478905750291957121738127218778875333149287089239220",
+            "no_probability": 0.45,
+            "no_best_bid": 0.43,
+            "no_best_ask": 0.45,
+            "no_spread": 0.020000000000000018,
+            "volume": 151942.23011020996,
+            "liquidity": 95737.93000000002,
+            "neg_risk": false,
+            "end_date": "2026-05-31T00:00:00Z",
+            "categories": [
+              "economy",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "35 ships transiting with approval suggests traffic normalization (1 hop).",
+            "event_id": "432180",
+            "event_title": "Will __ ships transit the Strait of Hormuz on any day by May 31?",
+            "event_slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+            "detected_yes_price": 0.45,
+            "detected_no_price": 0.56,
+            "detected_at": 1779442460277,
+            "highest_price_change": 0.26666666666666655,
+            "highest_yes_price": 0.57,
+            "highest_no_price": 0.56,
+            "first_moved_at": 1779442460789,
+            "moved_side": "yes",
+            "peaked_at": 1779446383536
+          },
+          {
+            "id": "1809560",
+            "slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-may",
+            "condition_id": "0x518a5b030b205706b8ffe6bbad9bd3de59548348e5c0471827f5de21e513333c",
+            "title": "",
+            "question": "Strait of Hormuz traffic returns to normal by end of May?",
+            "description": "This market will resolve to \u201cYes\u201d if IMF Portwatch publishes a 7-day moving average of transit calls (\u201cArrivals of Ships\u201d) for the Strait of Hormuz equal to or above 60 for any date between market creation and May 31, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nDaily transit calls include container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nThis market will resolve as soon as IMF Portwatch publishes a 7-day moving average of transit calls equal to or above the specified level, or once data has been published for the final date in the specified period and no such value has been published. If no data has been published for the final date of the specified period within 14 calendar days (ET) after the end of that period, this market will resolve based on data published up to that point.\n\nRevisions to previously published data points made within this market\u2019s timeframe will be considered. However, they will not disqualify a previously published data point from qualifying. Revisions to previously published data points after data is published for May 31, 2026, however, will not be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+            "yes_token_id": "75845920741796858670183364159540464375486880005358999101126589340494255300090",
+            "yes_probability": 0.074,
+            "yes_best_bid": 0.069,
+            "yes_best_ask": 0.074,
+            "yes_spread": 0.0049999999999999906,
+            "no_token_id": "100297578629699403208665948730031291871216767534595550828919035864255991611215",
+            "no_probability": 0.931,
+            "no_best_bid": 0.926,
+            "no_best_ask": 0.931,
+            "no_spread": 0.0050000000000000044,
+            "volume": 19207599.36297684,
+            "liquidity": 2323570.7000000007,
+            "neg_risk": false,
+            "end_date": "2026-05-31T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "35 ships transiting with approval suggests traffic normalization (1 hop).",
+            "event_id": "329821",
+            "event_title": "Strait of Hormuz traffic returns to normal by end of May?",
+            "event_slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-may",
+            "detected_yes_price": 0.038,
+            "detected_no_price": 0.966,
+            "detected_at": 1779442460277,
+            "highest_price_change": 1.2368421052631582,
+            "highest_yes_price": 0.085,
+            "highest_no_price": 0.968,
+            "first_moved_at": 1779442460483,
+            "moved_side": "yes",
+            "peaked_at": 1779452832139
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 8,
+            "price": 98.587
+          }
+        ],
+        "topics": [
+          "ai-tech",
+          "iran-regime"
+        ],
+        "categories": [
+          "tech",
+          "climate"
+        ]
+      },
+      "related_market": {
+        "id": "2119072",
+        "slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+        "condition_id": "0x4dec0ddb49e5b4c025ee04135a4e1c99c47cb47e12113056f84f41979fc4e4de",
+        "title": "60+",
+        "question": "Will 60 ships transit the Strait of Hormuz on any day by May 31?",
+        "description": "This market will resolve to \u201cYes\u201d if IMF Portwatch publishes a daily number of transit calls (\u201cArrivals of Ships\u201d) for the Strait of Hormuz equal to or above the listed value for any date between market creation and May 31, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThe number of daily transit calls/arrivals includes container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nThis market will resolve as soon as IMF Portwatch publishes a daily number of transit calls equal to or above the specified level, or once data has been published for the final date in the specified period and no such value has been published. If no data has been published for the final date of the specified period within 14 calendar days (ET) after the end of that period, this market will resolve based on data published up to that point.\n\nRevisions to previously published data points, made within this market\u2019s timeframe, will be considered. However, they will not disqualify a previously published data point from qualifying. Revisions to previously published data points after data is published for May 31, 2026, however, will not be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+        "yes_token_id": "7791417626413370207341872468344620539151724168956853265604053679466576268405",
+        "yes_probability": 0.16,
+        "yes_best_bid": 0.13,
+        "yes_best_ask": 0.16,
+        "yes_spread": 0.03,
+        "no_token_id": "89631155005293985971995000075597330688615362223716579295442806630123321192336",
+        "no_probability": 0.87,
+        "no_best_bid": 0.84,
+        "no_best_ask": 0.87,
+        "no_spread": 0.030000000000000027,
+        "volume": 101328.85007100007,
+        "liquidity": 61385.619999999995,
+        "neg_risk": false,
+        "end_date": "2026-05-31T00:00:00Z",
+        "categories": [
+          "economy",
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "35 ships transiting with approval suggests traffic normalization (1 hop).",
+        "event_id": "432180",
+        "event_title": "Will __ ships transit the Strait of Hormuz on any day by May 31?",
+        "event_slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+        "detected_yes_price": 0.09,
+        "detected_no_price": 0.92,
+        "detected_at": 1779442460277,
+        "highest_price_change": 1.2222222222222223,
+        "highest_yes_price": 0.2,
+        "highest_no_price": 0.94,
+        "first_moved_at": 1779443212218,
+        "moved_side": "yes",
+        "peaked_at": 1779453246721
+      },
+      "_scraped_at": "2026-05-22T12:37:17.035247+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 3,
+      "feed_item": {
+        "id": "61a04080-668c-4da6-9965-f1848beb3a9a",
+        "timestamp": 1779449212307,
+        "tweet": {
+          "feed_item_id": "61a04080-668c-4da6-9965-f1848beb3a9a",
+          "post_id": "2057785259433881983",
+          "post_type": "tweet",
+          "created_at": 1779449212307,
+          "user": {
+            "uid": "34713362",
+            "handle": "business",
+            "display_name": "Bloomberg",
+            "pfp": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "US Secretary of State Marco Rubio said there was \u201cslight progress\u201d in mediated negotiations with Iran, as the prospect of a deal to turn a fragile ceasefire into a lasting peace agreement remains uncertain https://www.bloomberg.com/news/articles/2026-05-22/us-touts-slight-progress-as-deal-with-iran-remains-in-limbo?taid=6a103d7c2da3fe0001e0b95d&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+          "link": "https://twitter.com/business/status/2057785259433881983"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "IR",
+        "countries": [
+          "IR"
+        ],
+        "related_markets": [
+          {
+            "id": "1919425",
+            "slug": "us-x-iran-permanent-peace-deal-by",
+            "condition_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+            "title": "May 31",
+            "question": "US x Iran permanent peace deal by May 31, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if Iran and the United states agree to a permanent peace deal by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d. \n\nA permanent peace deal refers to any agreement which explicitly indicates that military hostilities between the United States and Iran have ended or will permanently cease, or uses equivalent language clearly signaling a lasting end to military hostilities between the United States and Iran. Agreements that are explicitly temporary or which do not include a definitive agreement to end military hostilities between the US and Iran on a lasting basis (e.g. a temporary extension of the two-week ceasefire agreement announced on April 7, 2026), will not qualify.\n\nA qualifying agreement will be considered to have been established if either of the following conditions are met:\n\n- The United States and Iran each sign or formally adopt a written agreement (e.g. a treaty or multi-point agreement) which meets the above criteria.\n\n- Both the governments of the United States and Iran provide clear public confirmation that a qualifying agreement has been definitively established. Negotiations, statements of progress, or other statements which do not constitute a definitive announcement that a qualifying agreement has been reached will not count.\n\nThe primary resolution source for this market will be official information from the governments of the United States and Iran; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-permanent-peace-deal-by-yYlzv70Hi7j9.jpg",
+            "yes_token_id": "72094069823942324362885404801938332659316240217382754851102758232469673300092",
+            "yes_probability": 0.28,
+            "yes_best_bid": 0.27,
+            "yes_best_ask": 0.28,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "42918220085288219341491829385501246298233444593663440094436147850542032590016",
+            "no_probability": 0.73,
+            "no_best_bid": 0.72,
+            "no_best_ask": 0.73,
+            "no_spread": 0.010000000000000009,
+            "volume": 34990144.41033878,
+            "liquidity": 4610900.54,
+            "neg_risk": false,
+            "end_date": "2026-05-31T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Negotiation progress reported by Secretary of State = 1 hop to peace deal odds.",
+            "event_id": "357807",
+            "event_title": "US x Iran permanent peace deal by...?",
+            "event_slug": "us-x-iran-permanent-peace-deal-by",
+            "detected_yes_price": 0.19,
+            "detected_no_price": 0.8200000000000001,
+            "detected_at": 1779449230373,
+            "highest_price_change": 1.2105263157894737,
+            "highest_yes_price": 0.42,
+            "highest_no_price": 0.8200000000000001,
+            "first_moved_at": 1779450035568,
+            "moved_side": "yes",
+            "peaked_at": 1779452394999
+          },
+          {
+            "id": "1962237",
+            "slug": "us-x-iran-permanent-peace-deal-by",
+            "condition_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+            "title": "June 30",
+            "question": "US x Iran permanent peace deal by June 30, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if Iran and the United states agree to a permanent peace deal by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d. \n\nA permanent peace deal refers to any agreement which explicitly indicates that military hostilities between the United States and Iran have ended or will permanently cease, or uses equivalent language clearly signaling a lasting end to military hostilities between the United States and Iran. Agreements that are explicitly temporary or which do not include a definitive agreement to end military hostilities between the US and Iran on a lasting basis (e.g. a temporary extension of the two-week ceasefire agreement announced on April 7, 2026), will not qualify.\n\nA qualifying agreement will be considered to have been established if either of the following conditions are met:\n\n- The United States and Iran each sign or formally adopt a written agreement (e.g. a treaty or multi-point agreement) which meets the above criteria.\n\n- Both the governments of the United States and Iran provide clear public confirmation that a qualifying agreement has been definitively established. Negotiations, statements of progress, or other statements which do not constitute a definitive announcement that a qualifying agreement has been reached will not count.\n\nThe primary resolution source for this market will be official information from the governments of the United States and Iran; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-permanent-peace-deal-by-yYlzv70Hi7j9.jpg",
+            "yes_token_id": "31867385211987925701696042012772036156561382644688734856312468506547392739862",
+            "yes_probability": 0.47,
+            "yes_best_bid": 0.46,
+            "yes_best_ask": 0.47,
+            "yes_spread": 0.009999999999999953,
+            "no_token_id": "34730098823282204056880725250863591694415190633560416900548276632326632294207",
+            "no_probability": 0.54,
+            "no_best_bid": 0.53,
+            "no_best_ask": 0.54,
+            "no_spread": 0.010000000000000009,
+            "volume": 11690597.373677088,
+            "liquidity": 3529471.5000000005,
+            "neg_risk": false,
+            "end_date": "2026-05-31T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Negotiation progress reported by Secretary of State = 1 hop to peace deal odds.",
+            "event_id": "357807",
+            "event_title": "US x Iran permanent peace deal by...?",
+            "event_slug": "us-x-iran-permanent-peace-deal-by",
+            "detected_yes_price": 0.42,
+            "detected_no_price": 0.5900000000000001,
+            "detected_at": 1779449230373,
+            "highest_price_change": 0.16666666666666669,
+            "highest_yes_price": 0.49,
+            "highest_no_price": 0.5900000000000001,
+            "first_moved_at": 1779452356444,
+            "moved_side": "yes",
+            "peaked_at": 1779452525991
+          },
+          {
+            "id": "2155052",
+            "slug": "us-x-iran-permanent-peace-deal-by",
+            "condition_id": "0x9769f78cbc95a5ed11895e6064bac471d8fd8f930b260cf581b68d3f58630d27",
+            "title": "December 31",
+            "question": "US x Iran permanent peace deal by December 31, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if Iran and the United states agree to a permanent peace deal by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d. \n\nA permanent peace deal refers to any agreement which explicitly indicates that military hostilities between the United States and Iran have ended or will permanently cease, or uses equivalent language clearly signaling a lasting end to military hostilities between the United States and Iran. Agreements that are explicitly temporary or which do not include a definitive agreement to end military hostilities between the US and Iran on a lasting basis (e.g. a temporary extension of the two-week ceasefire agreement announced on April 7, 2026), will not qualify.\n\nA qualifying agreement will be considered to have been established if either of the following conditions are met:\n\n- The United States and Iran each sign or formally adopt a written agreement (e.g. a treaty or multi-point agreement) which meets the above criteria.\n\n- Both the governments of the United States and Iran provide clear public confirmation that a qualifying agreement has been definitively established. Negotiations, statements of progress, or other statements which do not constitute a definitive announcement that a qualifying agreement has been reached will not count.\n\nThe primary resolution source for this market will be official information from the governments of the United States and Iran; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-permanent-peace-deal-by-yYlzv70Hi7j9.jpg",
+            "yes_token_id": "104718292808309433767402444061650910790437726449955521731268760928480423099204",
+            "yes_probability": 0.74,
+            "yes_best_bid": 0.73,
+            "yes_best_ask": 0.74,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "109077864409172129917789250820055245630238807727951185347513063342440711098153",
+            "no_probability": 0.27,
+            "no_best_bid": 0.26,
+            "no_best_ask": 0.27,
+            "no_spread": 0.010000000000000009,
+            "volume": 2978319.466139172,
+            "liquidity": 3629910.879999999,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Negotiation progress reported by Secretary of State = 1 hop to peace deal odds.",
+            "event_id": "357807",
+            "event_title": "US x Iran permanent peace deal by...?",
+            "event_slug": "us-x-iran-permanent-peace-deal-by",
+            "detected_yes_price": 0.71,
+            "detected_no_price": 0.30000000000000004,
+            "detected_at": 1779449230373,
+            "highest_price_change": 0.042253521126760604,
+            "highest_yes_price": 0.74,
+            "highest_no_price": 0.31,
+            "first_moved_at": 1779449544002,
+            "moved_side": "yes",
+            "peaked_at": 1779453226167
+          },
+          {
+            "id": "2270338",
+            "slug": "us-x-iran-permanent-peace-deal-by",
+            "condition_id": "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122",
+            "title": "July 31",
+            "question": "US x Iran permanent peace deal by July 31, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if Iran and the United states agree to a permanent peace deal by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d. \n\nA permanent peace deal refers to any agreement which explicitly indicates that military hostilities between the United States and Iran have ended or will permanently cease, or uses equivalent language clearly signaling a lasting end to military hostilities between the United States and Iran. Agreements that are explicitly temporary or which do not include a definitive agreement to end military hostilities between the US and Iran on a lasting basis (e.g. a temporary extension of the two-week ceasefire agreement announced on April 7, 2026), will not qualify.\n\nA qualifying agreement will be considered to have been established if either of the following conditions are met:\n\n- The United States and Iran each sign or formally adopt a written agreement (e.g. a treaty or multi-point agreement) which meets the above criteria.\n\n- Both the governments of the United States and Iran provide clear public confirmation that a qualifying agreement has been definitively established. Negotiations, statements of progress, or other statements which do not constitute a definitive announcement that a qualifying agreement has been reached will not count.\n\nThe primary resolution source for this market will be official information from the governments of the United States and Iran; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-permanent-peace-deal-by-yYlzv70Hi7j9.jpg",
+            "yes_token_id": "99566541619640652317512639709808184120400767516277184685355777020179304540844",
+            "yes_probability": 0.59,
+            "yes_best_bid": 0.58,
+            "yes_best_ask": 0.59,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "28291496839879254326626786894419520677254800246510983988977971845743573275150",
+            "no_probability": 0.42,
+            "no_best_bid": 0.41,
+            "no_best_ask": 0.42,
+            "no_spread": 0.010000000000000009,
+            "volume": 833104.6649720197,
+            "liquidity": 2114163.09,
+            "neg_risk": false,
+            "end_date": "2026-07-31T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Negotiation progress reported by Secretary of State = 1 hop to peace deal odds.",
+            "event_id": "357807",
+            "event_title": "US x Iran permanent peace deal by...?",
+            "event_slug": "us-x-iran-permanent-peace-deal-by",
+            "detected_yes_price": 0.55,
+            "detected_no_price": 0.45999999999999996,
+            "detected_at": 1779449230373,
+            "highest_price_change": 0.09090909090909079,
+            "highest_yes_price": 0.6,
+            "highest_no_price": 0.47,
+            "first_moved_at": 1779450618463,
+            "moved_side": "yes",
+            "peaked_at": 1779452475453
+          },
+          {
+            "id": "2270330",
+            "slug": "us-x-iran-permanent-peace-deal-by",
+            "condition_id": "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423",
+            "title": "June 15",
+            "question": "US x Iran permanent peace deal by June 15, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if Iran and the United states agree to a permanent peace deal by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d. \n\nA permanent peace deal refers to any agreement which explicitly indicates that military hostilities between the United States and Iran have ended or will permanently cease, or uses equivalent language clearly signaling a lasting end to military hostilities between the United States and Iran. Agreements that are explicitly temporary or which do not include a definitive agreement to end military hostilities between the US and Iran on a lasting basis (e.g. a temporary extension of the two-week ceasefire agreement announced on April 7, 2026), will not qualify.\n\nA qualifying agreement will be considered to have been established if either of the following conditions are met:\n\n- The United States and Iran each sign or formally adopt a written agreement (e.g. a treaty or multi-point agreement) which meets the above criteria.\n\n- Both the governments of the United States and Iran provide clear public confirmation that a qualifying agreement has been definitively established. Negotiations, statements of progress, or other statements which do not constitute a definitive announcement that a qualifying agreement has been reached will not count.\n\nThe primary resolution source for this market will be official information from the governments of the United States and Iran; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-permanent-peace-deal-by-yYlzv70Hi7j9.jpg",
+            "yes_token_id": "5904694069529905826680225678119990013628860098514322777023141327768111791078",
+            "yes_probability": 0.36,
+            "yes_best_bid": 0.35,
+            "yes_best_ask": 0.36,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "59855952379545476461266875939089074481171378466995213858930892770855011813551",
+            "no_probability": 0.65,
+            "no_best_bid": 0.64,
+            "no_best_ask": 0.65,
+            "no_spread": 0.010000000000000009,
+            "volume": 1246854.0219127266,
+            "liquidity": 2047878.2399999998,
+            "neg_risk": false,
+            "end_date": "2026-06-15T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Negotiation progress reported by Secretary of State = 1 hop to peace deal odds.",
+            "event_id": "357807",
+            "event_title": "US x Iran permanent peace deal by...?",
+            "event_slug": "us-x-iran-permanent-peace-deal-by",
+            "detected_yes_price": 0.31,
+            "detected_no_price": 0.7,
+            "detected_at": 1779449230373,
+            "highest_price_change": 0.2580645161290323,
+            "highest_yes_price": 0.39,
+            "highest_no_price": 0.7,
+            "first_moved_at": 1779452360754,
+            "moved_side": "yes",
+            "peaked_at": 1779452543920
+          }
+        ],
+        "topics": [
+          "ai-tech",
+          "shutdown",
+          "iran-regime",
+          "ukraine-war",
+          "elon-musk"
+        ],
+        "categories": [
+          "elections",
+          "geopolitics",
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "1919425",
+        "slug": "us-x-iran-permanent-peace-deal-by",
+        "condition_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+        "title": "May 31",
+        "question": "US x Iran permanent peace deal by May 31, 2026?",
+        "description": "This market will resolve to \u201cYes\u201d if Iran and the United states agree to a permanent peace deal by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d. \n\nA permanent peace deal refers to any agreement which explicitly indicates that military hostilities between the United States and Iran have ended or will permanently cease, or uses equivalent language clearly signaling a lasting end to military hostilities between the United States and Iran. Agreements that are explicitly temporary or which do not include a definitive agreement to end military hostilities between the US and Iran on a lasting basis (e.g. a temporary extension of the two-week ceasefire agreement announced on April 7, 2026), will not qualify.\n\nA qualifying agreement will be considered to have been established if either of the following conditions are met:\n\n- The United States and Iran each sign or formally adopt a written agreement (e.g. a treaty or multi-point agreement) which meets the above criteria.\n\n- Both the governments of the United States and Iran provide clear public confirmation that a qualifying agreement has been definitively established. Negotiations, statements of progress, or other statements which do not constitute a definitive announcement that a qualifying agreement has been reached will not count.\n\nThe primary resolution source for this market will be official information from the governments of the United States and Iran; however, a consensus of credible reporting may also be used.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-permanent-peace-deal-by-yYlzv70Hi7j9.jpg",
+        "yes_token_id": "72094069823942324362885404801938332659316240217382754851102758232469673300092",
+        "yes_probability": 0.28,
+        "yes_best_bid": 0.27,
+        "yes_best_ask": 0.28,
+        "yes_spread": 0.010000000000000009,
+        "no_token_id": "42918220085288219341491829385501246298233444593663440094436147850542032590016",
+        "no_probability": 0.73,
+        "no_best_bid": 0.72,
+        "no_best_ask": 0.73,
+        "no_spread": 0.010000000000000009,
+        "volume": 34990144.41033878,
+        "liquidity": 4610900.54,
+        "neg_risk": false,
+        "end_date": "2026-05-31T00:00:00Z",
+        "categories": [
+          "geopolitics",
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 9,
+        "impact_level": "critical",
+        "impact_reason": "Negotiation progress reported by Secretary of State = 1 hop to peace deal odds.",
+        "event_id": "357807",
+        "event_title": "US x Iran permanent peace deal by...?",
+        "event_slug": "us-x-iran-permanent-peace-deal-by",
+        "detected_yes_price": 0.19,
+        "detected_no_price": 0.8200000000000001,
+        "detected_at": 1779449230373,
+        "highest_price_change": 1.2105263157894737,
+        "highest_yes_price": 0.42,
+        "highest_no_price": 0.8200000000000001,
+        "first_moved_at": 1779450035568,
+        "moved_side": "yes",
+        "peaked_at": 1779452394999
+      },
+      "_scraped_at": "2026-05-22T12:37:17.035247+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 4,
+      "feed_item": {
+        "id": "2a935066-c879-4482-a548-2bd5a947682d",
+        "timestamp": 1779380016605,
+        "tweet": {
+          "feed_item_id": "2a935066-c879-4482-a548-2bd5a947682d",
+          "post_id": "2057495031624458519",
+          "post_type": "tweet",
+          "created_at": 1779380016605,
+          "user": {
+            "uid": "3295423333",
+            "handle": "FirstSquawk",
+            "display_name": "First Squawk",
+            "pfp": "https://pbs.twimg.com/profile_images/1039778545738964992/6fl6RNN0.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "TRUMP STATES U.S. HAS EXCELLENT DRONE TECH TO HANDLE IRAN AND WANTS HORMUZ OPEN WITHOUT FEES.",
+          "link": "https://twitter.com/FirstSquawk/status/2057495031624458519"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "US",
+        "countries": [
+          "US",
+          "IR"
+        ],
+        "related_markets": [
+          {
+            "id": "1972137",
+            "slug": "trump-announces-us-blockade-of-hormuz-lifted-by",
+            "condition_id": "0x8b369e10358094a99ffe7f85a81a8e8ca68c611eee0fe63a2efa790ad045bcd6",
+            "title": "May 31",
+            "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?",
+            "description": "On April 12, 2026, President Donald Trump announced that the United States will blockade the Strait of Hormuz. You can read more about that here: https://www.nbcnews.com/world/iran/live-blog/live-updates-us-iran-fail-reach-deal-peace-talks-day-negotiations-rcna315918.\n\nThis market will resolve to \"Yes\" if President Trump, the US government, or the US military publicly and officially announces the end of the United States blockade of the Strait of Hormuz by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \"No.\"\n\nQualifying statements must clearly and explicitly indicate that the United States has lifted, ended, or will lift or end its blockade of the Strait of Hormuz on a specified date or use equivalently definitive language unambiguously signaling that such blockade has ceased or is set to cease on a specified date (e.g., statements unambiguously indicating that US naval activity in the relevant area has ceased will qualify). \n\nStatements that merely describe actions inconsistent with the blockade (e.g., \"Iran resumed shipping through the Strait of Hormuz\") without explicitly indicating the blockade as lifted will not alone suffice.\n\nInformal announcements, statements from unnamed sources, or leaks do not qualify.\n\nWritten public statements from Donald Trump (e.g., posts from his personal Truth Social account) will qualify. Videos posted on his social media accounts will also qualify for a \"Yes\" resolution.\n\nThe primary resolution source for this market will be official statements from the US government and/or its official representatives; however, a consensus of credible reporting may also be used.\n\nNote: this market will resolve solely based on whether a qualifying announcement is made within the specified timeframe. Whether the blockade is effectively enforced or whether maritime traffic resumes absent a qualifying announcement will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-announces-us-x-iran-ceasefire-broken-by-X3wf-2Pi8W96.jpg",
+            "yes_token_id": "926377706175971731068420551849041218012736398250875962020506643091812084572",
+            "yes_probability": 0.32,
+            "yes_best_bid": 0.31,
+            "yes_best_ask": 0.32,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "94315794193549059581335413697128981885401517477409406376098346536800437431936",
+            "no_probability": 0.69,
+            "no_best_bid": 0.68,
+            "no_best_ask": 0.69,
+            "no_spread": 0.009999999999999898,
+            "volume": 3903444.0178764425,
+            "liquidity": 308991.00999999995,
+            "neg_risk": false,
+            "end_date": "2026-05-31T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Trump's statement about lifting blockade directly affects market odds.",
+            "event_id": "372242",
+            "event_title": "Trump announces US blockade of Hormuz lifted by...?",
+            "event_slug": "trump-announces-us-blockade-of-hormuz-lifted-by",
+            "detected_yes_price": 0.27,
+            "detected_no_price": 0.75,
+            "detected_at": 1779380076702,
+            "highest_price_change": 0.25925925925925924,
+            "highest_yes_price": 0.34,
+            "highest_no_price": 0.78,
+            "first_moved_at": 1779380084562,
+            "moved_side": "yes",
+            "peaked_at": 1779452511570
+          },
+          {
+            "id": "2119227",
+            "slug": "trump-announces-us-blockade-of-hormuz-lifted-by",
+            "condition_id": "0x22014d44b787385b7baddb2b9d56cdcf5904fd7783b83c28403962dd71e51a51",
+            "title": "May 22",
+            "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 22, 2026?",
+            "description": "On April 12, 2026, President Donald Trump announced that the United States will blockade the Strait of Hormuz. You can read more about that here: https://www.nbcnews.com/world/iran/live-blog/live-updates-us-iran-fail-reach-deal-peace-talks-day-negotiations-rcna315918.\n\nThis market will resolve to \"Yes\" if President Trump, the US government, or the US military publicly and officially announces the end of the United States blockade of the Strait of Hormuz by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \"No.\"\n\nQualifying statements must clearly and explicitly indicate that the United States has lifted, ended, or will lift or end its blockade of the Strait of Hormuz on a specified date or use equivalently definitive language unambiguously signaling that such blockade has ceased or is set to cease on a specified date (e.g., statements unambiguously indicating that US naval activity in the relevant area has ceased will qualify). \n\nStatements that merely describe actions inconsistent with the blockade (e.g., \"Iran resumed shipping through the Strait of Hormuz\") without explicitly indicating the blockade as lifted will not alone suffice.\n\nInformal announcements, statements from unnamed sources, or leaks do not qualify.\n\nWritten public statements from Donald Trump (e.g., posts from his personal Truth Social account) will qualify. Videos posted on his social media accounts will also qualify for a \"Yes\" resolution.\n\nThe primary resolution source for this market will be official statements from the US government and/or its official representatives; however, a consensus of credible reporting may also be used.\n\nNote: this market will resolve solely based on whether a qualifying announcement is made within the specified timeframe. Whether the blockade is effectively enforced or whether maritime traffic resumes absent a qualifying announcement will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-announces-us-x-iran-ceasefire-broken-by-X3wf-2Pi8W96.jpg",
+            "yes_token_id": "101601160023365694377180631128742943570723834391947167345933011378101496310511",
+            "yes_probability": 0.085,
+            "yes_best_bid": 0.083,
+            "yes_best_ask": 0.085,
+            "yes_spread": 0.0020000000000000018,
+            "no_token_id": "93422608812619133616840569370951006566682170717732677819604144937985500528858",
+            "no_probability": 0.917,
+            "no_best_bid": 0.915,
+            "no_best_ask": 0.917,
+            "no_spread": 0.0020000000000000018,
+            "volume": 1911109.040073323,
+            "liquidity": 289507.94999999995,
+            "neg_risk": false,
+            "end_date": "2026-05-22T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Trump's statement about lifting blockade directly affects market odds.",
+            "event_id": "372242",
+            "event_title": "Trump announces US blockade of Hormuz lifted by...?",
+            "event_slug": "trump-announces-us-blockade-of-hormuz-lifted-by",
+            "detected_yes_price": 0.068,
+            "detected_no_price": 0.943,
+            "detected_at": 1779380076702,
+            "highest_price_change": 0.6176470588235293,
+            "highest_yes_price": 0.11,
+            "highest_no_price": 0.977,
+            "first_moved_at": 1779441709830,
+            "moved_side": "yes",
+            "peaked_at": 1779452367048
+          },
+          {
+            "id": "2155023",
+            "slug": "trump-announces-us-blockade-of-hormuz-lifted-by",
+            "condition_id": "0x4d0c4865bdecc5f7971dbab47bb6c069d93909dec75bdff52fb766ae6094a6d6",
+            "title": "June 30",
+            "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by June 30, 2026?",
+            "description": "On April 12, 2026, President Donald Trump announced that the United States will blockade the Strait of Hormuz. You can read more about that here: https://www.nbcnews.com/world/iran/live-blog/live-updates-us-iran-fail-reach-deal-peace-talks-day-negotiations-rcna315918.\n\nThis market will resolve to \"Yes\" if President Trump, the US government, or the US military publicly and officially announces the end of the United States blockade of the Strait of Hormuz by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \"No.\"\n\nQualifying statements must clearly and explicitly indicate that the United States has lifted, ended, or will lift or end its blockade of the Strait of Hormuz on a specified date or use equivalently definitive language unambiguously signaling that such blockade has ceased or is set to cease on a specified date (e.g., statements unambiguously indicating that US naval activity in the relevant area has ceased will qualify). \n\nStatements that merely describe actions inconsistent with the blockade (e.g., \"Iran resumed shipping through the Strait of Hormuz\") without explicitly indicating the blockade as lifted will not alone suffice.\n\nInformal announcements, statements from unnamed sources, or leaks do not qualify.\n\nWritten public statements from Donald Trump (e.g., posts from his personal Truth Social account) will qualify. Videos posted on his social media accounts will also qualify for a \"Yes\" resolution.\n\nThe primary resolution source for this market will be official statements from the US government and/or its official representatives; however, a consensus of credible reporting may also be used.\n\nNote: this market will resolve solely based on whether a qualifying announcement is made within the specified timeframe. Whether the blockade is effectively enforced or whether maritime traffic resumes absent a qualifying announcement will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-announces-us-x-iran-ceasefire-broken-by-X3wf-2Pi8W96.jpg",
+            "yes_token_id": "3083404519678343650655471605176293351429031165021004407551950188691137583301",
+            "yes_probability": 0.7,
+            "yes_best_bid": 0.69,
+            "yes_best_ask": 0.7,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "91327963816071149848778866069116092720624787010415966850482851584645804352773",
+            "no_probability": 0.31,
+            "no_best_bid": 0.3,
+            "no_best_ask": 0.31,
+            "no_spread": 0.010000000000000009,
+            "volume": 848958.3467198762,
+            "liquidity": 1310745.3699999996,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Trump's statement about lifting blockade directly affects market odds.",
+            "event_id": "372242",
+            "event_title": "Trump announces US blockade of Hormuz lifted by...?",
+            "event_slug": "trump-announces-us-blockade-of-hormuz-lifted-by",
+            "detected_yes_price": 0.6,
+            "detected_no_price": 0.43000000000000005,
+            "detected_at": 1779380076702,
+            "highest_price_change": 0.2,
+            "highest_yes_price": 0.72,
+            "highest_no_price": 0.43000000000000005,
+            "first_moved_at": 1779442636306,
+            "moved_side": "yes",
+            "peaked_at": 1779446965170
+          },
+          {
+            "id": "2111562",
+            "slug": "what-iranian-demands-will-trump-agree-to-by-may-31",
+            "condition_id": "0xa37173a88dc5622e1c42e9f8f5a9d20d70b9b99e52cb76e64fb0ad95503fcaef",
+            "title": "Oil Sanction Relief",
+            "question": "Will Trump agree to Iranian oil sanction relief by May 31?",
+            "description": "This market will resolve to \u201cYes\u201d if the United States agrees to remove, suspend, waive, or otherwise reduce any sanctions restricting Iranian oil exports by May 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nSanctions restricting Iranian oil exports refers to U.S. restrictions that prohibit or limit the production, sale, transport, purchase, or export of crude oil, petroleum, or petrochemical products from Iran, including associated shipping, insurance, and financial transactions necessary for such exports. This includes both primary sanctions, which apply to U.S. persons, and secondary sanctions, which apply to non-U.S. persons or entities engaging in such activities.\n\nThe United States will be considered to have agreed to remove, suspend, waive, or reduce such sanctions if:\n- Donald Trump or another authorized representative of the Government of the United States publicly announces that the United States has definitively agreed to remove, suspend, waive, or otherwise reduce any sanctions restricting Iranian oil\n- The removal, suspension, waiver, or reduction of any such sanctions is included as part of a treaty or deal formally established between the United States and Iran, including through signing or other formal means.\n\nAgreement refers to an explicit acceptance, authorization, or consent to the specified action. Only announcements of definitive agreement will qualify. Suggestions, negotiations, expressions of openness, or other non-definitive statements will not qualify.\n\nAny definitive agreement or commitment made before the resolution date will qualify, regardless of when or whether the specified action is implemented.\n\nThe primary resolution source for this market will be official statements from Donald Trump, the U.S. government, and their official representatives; however, a consensus of credible reporting may also be used to verify the details of an announcement or formal agreement.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-the-trump-agree-to-iranian-oil-sanction-relief-kpgx1I3poF0q.jpg",
+            "yes_token_id": "15684586893414105046651954168699318899411795932713212340182179726370102895016",
+            "yes_probability": 0.34,
+            "yes_best_bid": 0.3,
+            "yes_best_ask": 0.34,
+            "yes_spread": 0.040000000000000036,
+            "no_token_id": "72945183032866220113486438724920771567185650105937361693473698968804403645613",
+            "no_probability": 0.7,
+            "no_best_bid": 0.66,
+            "no_best_ask": 0.7,
+            "no_spread": 0.039999999999999925,
+            "volume": 271697.2148683295,
+            "liquidity": 83688.49,
+            "neg_risk": false,
+            "end_date": "2026-05-31T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Trump's willingness to negotiate directly affects sanction relief odds.",
+            "event_id": "429426",
+            "event_title": "What Iranian demands will Trump agree to by May 31?",
+            "event_slug": "what-iranian-demands-will-trump-agree-to-by-may-31",
+            "detected_yes_price": 0.16,
+            "detected_no_price": 0.85,
+            "detected_at": 1779380076702,
+            "highest_price_change": 1.1874999999999998,
+            "highest_yes_price": 0.35,
+            "highest_no_price": 0.85,
+            "first_moved_at": 1779380091945,
+            "moved_side": "yes",
+            "peaked_at": 1779452786246
+          },
+          {
+            "id": "2111561",
+            "slug": "what-iranian-demands-will-trump-agree-to-by-may-31",
+            "condition_id": "0x3f0743b88ef23a678e1d07fd2fb92badcbbb17aeca7110f188533b081afbd6af",
+            "title": "Enrichment of Uranium",
+            "question": "Will Trump agree to Iranian enrichment of uranium by May 31?",
+            "description": "This market will resolve to \"Yes\" if the United States agrees to the continued enrichment of uranium by Iran by May 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No.\"\n\nContinued enrichment of uranium by Iran refers to US acceptance of the enrichment of, or the right to enrich, any quantity of uranium by Iran for any future amount of time. Agreements that include limitations, restrictions, or specified terms (e.g., caps on enrichment level, monitoring requirements) will qualify, provided the United States accepts continued enrichment.\n\nThe United States will be considered to have agreed to the continued enrichment of uranium by Iran if:\n\n- Donald Trump or another authorized representative of the Government of the United States publicly announces that they have definitively agreed to accept the continued enrichment of uranium by Iran.\n- Continued enrichment of uranium by Iran is included as part of a treaty or deal that is formally established between the United States and Iran, either through signing or other formal means.\n\nAgreement refers to an explicit acceptance, authorization or consent to the specified action. Only announcements of definitive agreement will qualify. Suggestions, negotiations, expressions of openness, or other non-definitive statements will not qualify.\n\nAny definitive agreement or commitment made before the resolution date will be considered, regardless of when or whether the specified action is begun.\n\nThe primary resolution source for this market will be official statements from Donald Trump and the US government and their official representatives; however a consensus of credible reporting may also be used to verify the details of an announcement or formal agreement.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-the-us-agree-to-iranian-enrichment-of-uranium-vOIWD-3n4HdU.jpg",
+            "yes_token_id": "47581242576233831747274285853656933189233893963158067360773642391873753654951",
+            "yes_probability": 0.066,
+            "yes_best_bid": 0.059,
+            "yes_best_ask": 0.066,
+            "yes_spread": 0.007000000000000006,
+            "no_token_id": "81775104486492958447787898893469756027471619209999774676888733580861145165382",
+            "no_probability": 0.941,
+            "no_best_bid": 0.934,
+            "no_best_ask": 0.941,
+            "no_spread": 0.006999999999999895,
+            "volume": 2091899.0252591379,
+            "liquidity": 4939450.460000002,
+            "neg_risk": false,
+            "end_date": "2026-05-31T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Trump's willingness to negotiate directly affects enrichment odds.",
+            "event_id": "429426",
+            "event_title": "What Iranian demands will Trump agree to by May 31?",
+            "event_slug": "what-iranian-demands-will-trump-agree-to-by-may-31",
+            "detected_yes_price": 0.084,
+            "detected_no_price": 0.918,
+            "detected_at": 1779380076702,
+            "highest_price_change": 0.04248366013071887,
+            "highest_yes_price": 0.084,
+            "highest_no_price": 0.957,
+            "first_moved_at": 1779441749233,
+            "moved_side": "no",
+            "peaked_at": 1779441981550
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 9,
+            "price": 100.315
+          }
+        ],
+        "topics": [
+          "iran-regime"
+        ],
+        "categories": null
+      },
+      "related_market": {
+        "id": "2111562",
+        "slug": "what-iranian-demands-will-trump-agree-to-by-may-31",
+        "condition_id": "0xa37173a88dc5622e1c42e9f8f5a9d20d70b9b99e52cb76e64fb0ad95503fcaef",
+        "title": "Oil Sanction Relief",
+        "question": "Will Trump agree to Iranian oil sanction relief by May 31?",
+        "description": "This market will resolve to \u201cYes\u201d if the United States agrees to remove, suspend, waive, or otherwise reduce any sanctions restricting Iranian oil exports by May 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nSanctions restricting Iranian oil exports refers to U.S. restrictions that prohibit or limit the production, sale, transport, purchase, or export of crude oil, petroleum, or petrochemical products from Iran, including associated shipping, insurance, and financial transactions necessary for such exports. This includes both primary sanctions, which apply to U.S. persons, and secondary sanctions, which apply to non-U.S. persons or entities engaging in such activities.\n\nThe United States will be considered to have agreed to remove, suspend, waive, or reduce such sanctions if:\n- Donald Trump or another authorized representative of the Government of the United States publicly announces that the United States has definitively agreed to remove, suspend, waive, or otherwise reduce any sanctions restricting Iranian oil\n- The removal, suspension, waiver, or reduction of any such sanctions is included as part of a treaty or deal formally established between the United States and Iran, including through signing or other formal means.\n\nAgreement refers to an explicit acceptance, authorization, or consent to the specified action. Only announcements of definitive agreement will qualify. Suggestions, negotiations, expressions of openness, or other non-definitive statements will not qualify.\n\nAny definitive agreement or commitment made before the resolution date will qualify, regardless of when or whether the specified action is implemented.\n\nThe primary resolution source for this market will be official statements from Donald Trump, the U.S. government, and their official representatives; however, a consensus of credible reporting may also be used to verify the details of an announcement or formal agreement.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-the-trump-agree-to-iranian-oil-sanction-relief-kpgx1I3poF0q.jpg",
+        "yes_token_id": "15684586893414105046651954168699318899411795932713212340182179726370102895016",
+        "yes_probability": 0.34,
+        "yes_best_bid": 0.3,
+        "yes_best_ask": 0.34,
+        "yes_spread": 0.040000000000000036,
+        "no_token_id": "72945183032866220113486438724920771567185650105937361693473698968804403645613",
+        "no_probability": 0.7,
+        "no_best_bid": 0.66,
+        "no_best_ask": 0.7,
+        "no_spread": 0.039999999999999925,
+        "volume": 271697.2148683295,
+        "liquidity": 83688.49,
+        "neg_risk": false,
+        "end_date": "2026-05-31T00:00:00Z",
+        "categories": [
+          "geopolitics",
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 9,
+        "impact_level": "critical",
+        "impact_reason": "Trump's willingness to negotiate directly affects sanction relief odds.",
+        "event_id": "429426",
+        "event_title": "What Iranian demands will Trump agree to by May 31?",
+        "event_slug": "what-iranian-demands-will-trump-agree-to-by-may-31",
+        "detected_yes_price": 0.16,
+        "detected_no_price": 0.85,
+        "detected_at": 1779380076702,
+        "highest_price_change": 1.1874999999999998,
+        "highest_yes_price": 0.35,
+        "highest_no_price": 0.85,
+        "first_moved_at": 1779380091945,
+        "moved_side": "yes",
+        "peaked_at": 1779452786246
+      },
+      "_scraped_at": "2026-05-22T12:37:17.035247+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 5,
+      "feed_item": {
+        "id": "bbdf9961-577d-422b-ac6c-f6388bfe939f",
+        "timestamp": 1779374844005,
+        "tweet": {
+          "feed_item_id": "bbdf9961-577d-422b-ac6c-f6388bfe939f",
+          "post_id": "2057473336167555503",
+          "post_type": "tweet",
+          "created_at": 1779374844005,
+          "user": {
+            "uid": "3295423333",
+            "handle": "FirstSquawk",
+            "display_name": "First Squawk",
+            "pfp": "https://pbs.twimg.com/profile_images/1039778545738964992/6fl6RNN0.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "31 SHIPS CROSSED THROUGH HORMUZ WITH IRGC'S HELP, REPORTS IRAN TV.",
+          "link": "https://twitter.com/FirstSquawk/status/2057473336167555503"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "IR",
+        "countries": [
+          "IR"
+        ],
+        "related_markets": [
+          {
+            "id": "2261443",
+            "slug": "how-many-ships-transit-the-strait-of-hormuz-week-of-may-18",
+            "condition_id": "0x448067cbd40d6a20f39b6ca24737bfe711059b251f8f7f1663ac8734cc6b9972",
+            "title": "20-39",
+            "question": "Will 20-39 ships transit the Strait of Hormuz between May 18-May 24?",
+            "description": "This market will resolve according to the total number of transit calls that IMF Portwatch reports for the Strait of Hormuz for all days from May 18, 2026, through May 24, 2026, inclusive.\n\nTransit calls include container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nThis market will resolve as soon as data has been published for the final date in the specified period. If no data has been published for the final date of the specified period within 14 calendar days (ET) after the end of that period, this market will resolve based on data published up to that point.\n\nRevisions to previously published data points made within this market\u2019s timeframe will be considered. Revisions to previously published data points after data is published for the final date of the specified period, however, will not be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+            "yes_token_id": "62843870259719871045447818424023783897819521348801531663809932421369773119461",
+            "yes_probability": 0.4,
+            "yes_best_bid": 0.3,
+            "yes_best_ask": 0.4,
+            "yes_spread": 0.10000000000000003,
+            "no_token_id": "17748530809852439511240429403333191584137660674593069393351019649017579229436",
+            "no_probability": 0.7,
+            "no_best_bid": 0.6,
+            "no_best_ask": 0.7,
+            "no_spread": 0.09999999999999998,
+            "volume": 3316.7255040000014,
+            "liquidity": 66140.14000000001,
+            "neg_risk": true,
+            "end_date": "2026-05-24T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Direct report of ship transits = 1 hop to daily transits.",
+            "event_id": "485282",
+            "event_title": "How many ships transit the Strait of Hormuz week of May 18?",
+            "event_slug": "how-many-ships-transit-the-strait-of-hormuz-week-of-may-18",
+            "detected_yes_price": 0.47,
+            "detected_no_price": 0.54,
+            "detected_at": 1779374923226,
+            "highest_price_change": 0.31481481481481466,
+            "highest_yes_price": 0.47,
+            "highest_no_price": 0.71,
+            "first_moved_at": 1779441707778,
+            "moved_side": "no",
+            "peaked_at": 1779442060656
+          },
+          {
+            "id": "2119070",
+            "slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+            "condition_id": "0x9bdb4d01b7797953c92c03e98cf7d36e62543b37972435e6b4a1c74f4200b108",
+            "title": "20+",
+            "question": "Will 20 ships transit the Strait of Hormuz on any day by May 31?",
+            "description": "This market will resolve to \u201cYes\u201d if IMF Portwatch publishes a daily number of transit calls (\u201cArrivals of Ships\u201d) for the Strait of Hormuz equal to or above the listed value for any date between market creation and May 31, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThe number of daily transit calls/arrivals includes container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nThis market will resolve as soon as IMF Portwatch publishes a daily number of transit calls equal to or above the specified level, or once data has been published for the final date in the specified period and no such value has been published. If no data has been published for the final date of the specified period within 14 calendar days (ET) after the end of that period, this market will resolve based on data published up to that point.\n\nRevisions to previously published data points, made within this market\u2019s timeframe, will be considered. However, they will not disqualify a previously published data point from qualifying. Revisions to previously published data points after data is published for May 31, 2026, however, will not be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+            "yes_token_id": "89954522737599344676262331612340594227984975540462602712137571853195021943786",
+            "yes_probability": 0.57,
+            "yes_best_bid": 0.55,
+            "yes_best_ask": 0.57,
+            "yes_spread": 0.019999999999999907,
+            "no_token_id": "111808638949210947676629510478905750291957121738127218778875333149287089239220",
+            "no_probability": 0.45,
+            "no_best_bid": 0.43,
+            "no_best_ask": 0.45,
+            "no_spread": 0.020000000000000018,
+            "volume": 151942.23011020996,
+            "liquidity": 95737.93000000002,
+            "neg_risk": false,
+            "end_date": "2026-05-31T00:00:00Z",
+            "categories": [
+              "economy",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Direct report of ship transits = 1 hop to daily transits.",
+            "event_id": "432180",
+            "event_title": "Will __ ships transit the Strait of Hormuz on any day by May 31?",
+            "event_slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+            "detected_yes_price": 0.45,
+            "detected_no_price": 0.5800000000000001,
+            "detected_at": 1779374923226,
+            "highest_price_change": 0.26666666666666655,
+            "highest_yes_price": 0.57,
+            "highest_no_price": 0.5800000000000001,
+            "first_moved_at": 1779375171467,
+            "moved_side": "yes",
+            "peaked_at": 1779446383536
+          },
+          {
+            "id": "2261444",
+            "slug": "how-many-ships-transit-the-strait-of-hormuz-week-of-may-18",
+            "condition_id": "0xcf8ac11b1ad18e56052a6f3288696735671e9cb3acaed0760d67943c9897c43f",
+            "title": "40-59",
+            "question": "Will 40-59 ships transit the Strait of Hormuz between May 18-May 24?",
+            "description": "This market will resolve according to the total number of transit calls that IMF Portwatch reports for the Strait of Hormuz for all days from May 18, 2026, through May 24, 2026, inclusive.\n\nTransit calls include container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nThis market will resolve as soon as data has been published for the final date in the specified period. If no data has been published for the final date of the specified period within 14 calendar days (ET) after the end of that period, this market will resolve based on data published up to that point.\n\nRevisions to previously published data points made within this market\u2019s timeframe will be considered. Revisions to previously published data points after data is published for the final date of the specified period, however, will not be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+            "yes_token_id": "53421880118719977649965048283981811192886089616655006693298140161448787360675",
+            "yes_probability": 0.37,
+            "yes_best_bid": 0.33,
+            "yes_best_ask": 0.37,
+            "yes_spread": 0.03999999999999998,
+            "no_token_id": "24089768477177679628359183428719263162935137204421561508635202933411305936143",
+            "no_probability": 0.67,
+            "no_best_bid": 0.63,
+            "no_best_ask": 0.67,
+            "no_spread": 0.040000000000000036,
+            "volume": 6241.667764999998,
+            "liquidity": 63328.12999999999,
+            "neg_risk": true,
+            "end_date": "2026-05-24T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Direct report of ship transits = 1 hop to daily transits.",
+            "event_id": "485282",
+            "event_title": "How many ships transit the Strait of Hormuz week of May 18?",
+            "event_slug": "how-many-ships-transit-the-strait-of-hormuz-week-of-may-18",
+            "detected_yes_price": 0.27,
+            "detected_no_price": 0.75,
+            "detected_at": 1779374923226,
+            "highest_price_change": 0.6666666666666666,
+            "highest_yes_price": 0.45,
+            "highest_no_price": 0.75,
+            "first_moved_at": 1779374929222,
+            "moved_side": "yes",
+            "peaked_at": 1779441722628
+          },
+          {
+            "id": "1971905",
+            "slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
+            "condition_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+            "title": "",
+            "question": "Strait of Hormuz traffic returns to normal by end of June?",
+            "description": "This market will resolve to \u201cYes\u201d if IMF Portwatch publishes a 7-day moving average of transit calls (\u201cArrivals of Ships\u201d) for the Strait of Hormuz equal to or above 60 for any date between market creation and June 30, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nDaily transit calls include container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nThis market will resolve as soon as IMF Portwatch publishes a 7-day moving average of transit calls equal to or above the specified level, or once data has been published for the final date in the specified period and no such value has been published. If no data has been published for the final date of the specified period within 14 calendar days (ET) after the end of that period, this market will resolve based on data published up to that point.\n\nRevisions to previously published data points made within this market\u2019s timeframe will be considered. However, they will not disqualify a previously published data point from qualifying. Revisions to previously published data points after data is published for June 30, 2026, however, will not be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+            "yes_token_id": "46130022848920611732202507184264902690726361824951579816156441452797397798181",
+            "yes_probability": 0.36,
+            "yes_best_bid": 0.35,
+            "yes_best_ask": 0.36,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "77669758102929718590160851391714019116736856202333459817343190730743895177270",
+            "no_probability": 0.65,
+            "no_best_bid": 0.64,
+            "no_best_ask": 0.65,
+            "no_spread": 0.010000000000000009,
+            "volume": 7830096.116414068,
+            "liquidity": 2721106.3999999985,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "economy",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Direct report of ship transits = 1 hop to traffic normalization.",
+            "event_id": "375597",
+            "event_title": "Strait of Hormuz traffic returns to normal by end of June?",
+            "event_slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
+            "detected_yes_price": 0.34,
+            "detected_no_price": 0.6699999999999999,
+            "detected_at": 1779374923226,
+            "highest_price_change": 0.058823529411764594,
+            "highest_yes_price": 0.36,
+            "highest_no_price": 0.7,
+            "first_moved_at": 1779441712707,
+            "moved_side": "yes",
+            "peaked_at": 1779452659668
+          },
+          {
+            "id": "2119127",
+            "slug": "avg-of-ships-transiting-strait-of-hormuz-end-of-may",
+            "condition_id": "0xaa9e7883499172e6585601542570e05965039265604c8d256c9ff7f149a811d7",
+            "title": "10-20",
+            "question": "Will there be between 10 and 20 average daily transits of the Strait of Hormuz on May 31?",
+            "description": "This market will resolve according to the 7-day moving average of transit calls (\u201cArrivals of Ships\u201d) for the Strait of Hormuz that IMF Portwatch reports for May 31, 2026.\n\nIf the reported value falls exactly between two brackets, this market will resolve to the higher range bracket.\n\nTransit calls include container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nThis market will resolve as soon as data for the specified date has been published. If no data for the specified date has been published by June 14, 2026, 11:59 PM ET, this market will resolve based on data for the most recent date prior to May 31, 2026, for which data is available.\n\nThis market will resolve based on the first publication of data for May 31, 2026. Any subsequent revisions will not be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+            "yes_token_id": "1765766244453539780851444383398288000184294065085661948877275991079960503224",
+            "yes_probability": 0.12,
+            "yes_best_bid": 0.11,
+            "yes_best_ask": 0.12,
+            "yes_spread": 0.009999999999999995,
+            "no_token_id": "53811032954485299927906722772919588802421839875307746571601530467117238597858",
+            "no_probability": 0.89,
+            "no_best_bid": 0.88,
+            "no_best_ask": 0.89,
+            "no_spread": 0.010000000000000009,
+            "volume": 63435.90094691,
+            "liquidity": 165614.76,
+            "neg_risk": true,
+            "end_date": "2026-05-31T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Direct report of ship transits = 1 hop to average daily transits.",
+            "event_id": "432225",
+            "event_title": "Avg. # of ships transiting Strait of Hormuz end of May?",
+            "event_slug": "avg-of-ships-transiting-strait-of-hormuz-end-of-may",
+            "detected_yes_price": 0.09,
+            "detected_no_price": 0.92,
+            "detected_at": 1779374923226,
+            "highest_price_change": 0.3333333333333333,
+            "highest_yes_price": 0.12,
+            "highest_no_price": 0.93,
+            "first_moved_at": 1779441726124,
+            "moved_side": "yes",
+            "peaked_at": 1779453355815
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 8,
+            "price": 101.28
+          }
+        ],
+        "topics": [
+          "shutdown",
+          "iran-regime"
+        ],
+        "categories": null
+      },
+      "related_market": {
+        "id": "2261444",
+        "slug": "how-many-ships-transit-the-strait-of-hormuz-week-of-may-18",
+        "condition_id": "0xcf8ac11b1ad18e56052a6f3288696735671e9cb3acaed0760d67943c9897c43f",
+        "title": "40-59",
+        "question": "Will 40-59 ships transit the Strait of Hormuz between May 18-May 24?",
+        "description": "This market will resolve according to the total number of transit calls that IMF Portwatch reports for the Strait of Hormuz for all days from May 18, 2026, through May 24, 2026, inclusive.\n\nTransit calls include container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nThis market will resolve as soon as data has been published for the final date in the specified period. If no data has been published for the final date of the specified period within 14 calendar days (ET) after the end of that period, this market will resolve based on data published up to that point.\n\nRevisions to previously published data points made within this market\u2019s timeframe will be considered. Revisions to previously published data points after data is published for the final date of the specified period, however, will not be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+        "yes_token_id": "53421880118719977649965048283981811192886089616655006693298140161448787360675",
+        "yes_probability": 0.37,
+        "yes_best_bid": 0.33,
+        "yes_best_ask": 0.37,
+        "yes_spread": 0.03999999999999998,
+        "no_token_id": "24089768477177679628359183428719263162935137204421561508635202933411305936143",
+        "no_probability": 0.67,
+        "no_best_bid": 0.63,
+        "no_best_ask": 0.67,
+        "no_spread": 0.040000000000000036,
+        "volume": 6241.667764999998,
+        "liquidity": 63328.12999999999,
+        "neg_risk": true,
+        "end_date": "2026-05-24T00:00:00Z",
+        "categories": [
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Direct report of ship transits = 1 hop to daily transits.",
+        "event_id": "485282",
+        "event_title": "How many ships transit the Strait of Hormuz week of May 18?",
+        "event_slug": "how-many-ships-transit-the-strait-of-hormuz-week-of-may-18",
+        "detected_yes_price": 0.27,
+        "detected_no_price": 0.75,
+        "detected_at": 1779374923226,
+        "highest_price_change": 0.6666666666666666,
+        "highest_yes_price": 0.45,
+        "highest_no_price": 0.75,
+        "first_moved_at": 1779374929222,
+        "moved_side": "yes",
+        "peaked_at": 1779441722628
+      },
+      "_scraped_at": "2026-05-22T12:37:17.035247+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 6,
+      "feed_item": {
+        "id": "f83cc699-54aa-476a-a06c-59ceb7741118",
+        "timestamp": 1779374789974,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "f83cc699-54aa-476a-a06c-59ceb7741118",
+          "text": "31 ships passed through the Strait of Hormuz with IRGC coordination - Iran TV.|FJ",
+          "channel": "FinancialJuice",
+          "timestamp": 1779374789974,
+          "link": "https://t.me/FinancialJuice"
+        },
+        "osint": false,
+        "country": "IR",
+        "countries": [
+          "IR"
+        ],
+        "related_markets": [
+          {
+            "id": "2119073",
+            "slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+            "condition_id": "0xd302682785cc2541dc5f4cc4af51fa881667b603d4ee27f432ca57772ce5e8b2",
+            "title": "80+",
+            "question": "Will 80 ships transit the Strait of Hormuz on any day by May 31?",
+            "description": "This market will resolve to \u201cYes\u201d if IMF Portwatch publishes a daily number of transit calls (\u201cArrivals of Ships\u201d) for the Strait of Hormuz equal to or above the listed value for any date between market creation and May 31, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThe number of daily transit calls/arrivals includes container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nThis market will resolve as soon as IMF Portwatch publishes a daily number of transit calls equal to or above the specified level, or once data has been published for the final date in the specified period and no such value has been published. If no data has been published for the final date of the specified period within 14 calendar days (ET) after the end of that period, this market will resolve based on data published up to that point.\n\nRevisions to previously published data points, made within this market\u2019s timeframe, will be considered. However, they will not disqualify a previously published data point from qualifying. Revisions to previously published data points after data is published for May 31, 2026, however, will not be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+            "yes_token_id": "12070319521667400578652491501933455403232857092497459668233500597445492400282",
+            "yes_probability": 0.084,
+            "yes_best_bid": 0.065,
+            "yes_best_ask": 0.084,
+            "yes_spread": 0.019000000000000003,
+            "no_token_id": "68719608529234827670281932668739110531215451268825901710551392132494360529098",
+            "no_probability": 0.935,
+            "no_best_bid": 0.916,
+            "no_best_ask": 0.935,
+            "no_spread": 0.019000000000000017,
+            "volume": 255483.4009412363,
+            "liquidity": 702767.9700000002,
+            "neg_risk": false,
+            "end_date": "2026-05-31T00:00:00Z",
+            "categories": [
+              "economy",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "31 ships passing suggests traffic normalization is likely (1 hop).",
+            "event_id": "432180",
+            "event_title": "Will __ ships transit the Strait of Hormuz on any day by May 31?",
+            "event_slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+            "detected_yes_price": 0.04,
+            "detected_no_price": 0.962,
+            "detected_at": 1779374845788,
+            "highest_price_change": 1.2999999999999998,
+            "highest_yes_price": 0.092,
+            "highest_no_price": 0.962,
+            "first_moved_at": 1779374997732,
+            "moved_side": "yes",
+            "peaked_at": 1779441836184
+          },
+          {
+            "id": "1809560",
+            "slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-may",
+            "condition_id": "0x518a5b030b205706b8ffe6bbad9bd3de59548348e5c0471827f5de21e513333c",
+            "title": "",
+            "question": "Strait of Hormuz traffic returns to normal by end of May?",
+            "description": "This market will resolve to \u201cYes\u201d if IMF Portwatch publishes a 7-day moving average of transit calls (\u201cArrivals of Ships\u201d) for the Strait of Hormuz equal to or above 60 for any date between market creation and May 31, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nDaily transit calls include container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nThis market will resolve as soon as IMF Portwatch publishes a 7-day moving average of transit calls equal to or above the specified level, or once data has been published for the final date in the specified period and no such value has been published. If no data has been published for the final date of the specified period within 14 calendar days (ET) after the end of that period, this market will resolve based on data published up to that point.\n\nRevisions to previously published data points made within this market\u2019s timeframe will be considered. However, they will not disqualify a previously published data point from qualifying. Revisions to previously published data points after data is published for May 31, 2026, however, will not be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+            "yes_token_id": "75845920741796858670183364159540464375486880005358999101126589340494255300090",
+            "yes_probability": 0.074,
+            "yes_best_bid": 0.069,
+            "yes_best_ask": 0.074,
+            "yes_spread": 0.0049999999999999906,
+            "no_token_id": "100297578629699403208665948730031291871216767534595550828919035864255991611215",
+            "no_probability": 0.931,
+            "no_best_bid": 0.926,
+            "no_best_ask": 0.931,
+            "no_spread": 0.0050000000000000044,
+            "volume": 19207599.36297684,
+            "liquidity": 2323570.7000000007,
+            "neg_risk": false,
+            "end_date": "2026-05-31T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "31 ships passing indicates traffic normalization is likely (1 hop).",
+            "event_id": "329821",
+            "event_title": "Strait of Hormuz traffic returns to normal by end of May?",
+            "event_slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-may",
+            "detected_yes_price": 0.047,
+            "detected_no_price": 0.954,
+            "detected_at": 1779374845788,
+            "highest_price_change": 0.8085106382978725,
+            "highest_yes_price": 0.085,
+            "highest_no_price": 0.968,
+            "first_moved_at": 1779374854061,
+            "moved_side": "yes",
+            "peaked_at": 1779452832139
+          },
+          {
+            "id": "1971905",
+            "slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
+            "condition_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+            "title": "",
+            "question": "Strait of Hormuz traffic returns to normal by end of June?",
+            "description": "This market will resolve to \u201cYes\u201d if IMF Portwatch publishes a 7-day moving average of transit calls (\u201cArrivals of Ships\u201d) for the Strait of Hormuz equal to or above 60 for any date between market creation and June 30, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nDaily transit calls include container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nThis market will resolve as soon as IMF Portwatch publishes a 7-day moving average of transit calls equal to or above the specified level, or once data has been published for the final date in the specified period and no such value has been published. If no data has been published for the final date of the specified period within 14 calendar days (ET) after the end of that period, this market will resolve based on data published up to that point.\n\nRevisions to previously published data points made within this market\u2019s timeframe will be considered. However, they will not disqualify a previously published data point from qualifying. Revisions to previously published data points after data is published for June 30, 2026, however, will not be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+            "yes_token_id": "46130022848920611732202507184264902690726361824951579816156441452797397798181",
+            "yes_probability": 0.36,
+            "yes_best_bid": 0.35,
+            "yes_best_ask": 0.36,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "77669758102929718590160851391714019116736856202333459817343190730743895177270",
+            "no_probability": 0.65,
+            "no_best_bid": 0.64,
+            "no_best_ask": 0.65,
+            "no_spread": 0.010000000000000009,
+            "volume": 7830096.116414068,
+            "liquidity": 2721106.3999999985,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "economy",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "31 ships passing suggests traffic normalization is likely (1 hop).",
+            "event_id": "375597",
+            "event_title": "Strait of Hormuz traffic returns to normal by end of June?",
+            "event_slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
+            "detected_yes_price": 0.34,
+            "detected_no_price": 0.6699999999999999,
+            "detected_at": 1779374845788,
+            "highest_price_change": 0.058823529411764594,
+            "highest_yes_price": 0.36,
+            "highest_no_price": 0.7,
+            "first_moved_at": 1779441712707,
+            "moved_side": "yes",
+            "peaked_at": 1779452659668
+          },
+          {
+            "id": "2119070",
+            "slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+            "condition_id": "0x9bdb4d01b7797953c92c03e98cf7d36e62543b37972435e6b4a1c74f4200b108",
+            "title": "20+",
+            "question": "Will 20 ships transit the Strait of Hormuz on any day by May 31?",
+            "description": "This market will resolve to \u201cYes\u201d if IMF Portwatch publishes a daily number of transit calls (\u201cArrivals of Ships\u201d) for the Strait of Hormuz equal to or above the listed value for any date between market creation and May 31, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThe number of daily transit calls/arrivals includes container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nThis market will resolve as soon as IMF Portwatch publishes a daily number of transit calls equal to or above the specified level, or once data has been published for the final date in the specified period and no such value has been published. If no data has been published for the final date of the specified period within 14 calendar days (ET) after the end of that period, this market will resolve based on data published up to that point.\n\nRevisions to previously published data points, made within this market\u2019s timeframe, will be considered. However, they will not disqualify a previously published data point from qualifying. Revisions to previously published data points after data is published for May 31, 2026, however, will not be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+            "yes_token_id": "89954522737599344676262331612340594227984975540462602712137571853195021943786",
+            "yes_probability": 0.57,
+            "yes_best_bid": 0.55,
+            "yes_best_ask": 0.57,
+            "yes_spread": 0.019999999999999907,
+            "no_token_id": "111808638949210947676629510478905750291957121738127218778875333149287089239220",
+            "no_probability": 0.45,
+            "no_best_bid": 0.43,
+            "no_best_ask": 0.45,
+            "no_spread": 0.020000000000000018,
+            "volume": 151942.23011020996,
+            "liquidity": 95737.93000000002,
+            "neg_risk": false,
+            "end_date": "2026-05-31T00:00:00Z",
+            "categories": [
+              "economy",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "31 ships passing suggests traffic normalization is likely (1 hop).",
+            "event_id": "432180",
+            "event_title": "Will __ ships transit the Strait of Hormuz on any day by May 31?",
+            "event_slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+            "detected_yes_price": 0.45,
+            "detected_no_price": 0.5800000000000001,
+            "detected_at": 1779374845788,
+            "highest_price_change": 0.26666666666666655,
+            "highest_yes_price": 0.57,
+            "highest_no_price": 0.5800000000000001,
+            "first_moved_at": 1779375171467,
+            "moved_side": "yes",
+            "peaked_at": 1779446383536
+          },
+          {
+            "id": "2119072",
+            "slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+            "condition_id": "0x4dec0ddb49e5b4c025ee04135a4e1c99c47cb47e12113056f84f41979fc4e4de",
+            "title": "60+",
+            "question": "Will 60 ships transit the Strait of Hormuz on any day by May 31?",
+            "description": "This market will resolve to \u201cYes\u201d if IMF Portwatch publishes a daily number of transit calls (\u201cArrivals of Ships\u201d) for the Strait of Hormuz equal to or above the listed value for any date between market creation and May 31, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThe number of daily transit calls/arrivals includes container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nThis market will resolve as soon as IMF Portwatch publishes a daily number of transit calls equal to or above the specified level, or once data has been published for the final date in the specified period and no such value has been published. If no data has been published for the final date of the specified period within 14 calendar days (ET) after the end of that period, this market will resolve based on data published up to that point.\n\nRevisions to previously published data points, made within this market\u2019s timeframe, will be considered. However, they will not disqualify a previously published data point from qualifying. Revisions to previously published data points after data is published for May 31, 2026, however, will not be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+            "yes_token_id": "7791417626413370207341872468344620539151724168956853265604053679466576268405",
+            "yes_probability": 0.16,
+            "yes_best_bid": 0.13,
+            "yes_best_ask": 0.16,
+            "yes_spread": 0.03,
+            "no_token_id": "89631155005293985971995000075597330688615362223716579295442806630123321192336",
+            "no_probability": 0.87,
+            "no_best_bid": 0.84,
+            "no_best_ask": 0.87,
+            "no_spread": 0.030000000000000027,
+            "volume": 101328.85007100007,
+            "liquidity": 61385.619999999995,
+            "neg_risk": false,
+            "end_date": "2026-05-31T00:00:00Z",
+            "categories": [
+              "economy",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "31 ships passing suggests traffic normalization is likely (1 hop).",
+            "event_id": "432180",
+            "event_title": "Will __ ships transit the Strait of Hormuz on any day by May 31?",
+            "event_slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+            "detected_yes_price": 0.08,
+            "detected_no_price": 0.94,
+            "detected_at": 1779374845788,
+            "highest_price_change": 1.5,
+            "highest_yes_price": 0.2,
+            "highest_no_price": 0.94,
+            "first_moved_at": 1779441756187,
+            "moved_side": "yes",
+            "peaked_at": 1779453246721
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 8,
+            "price": 101.045
+          }
+        ],
+        "topics": [
+          "iran-regime",
+          "ai-tech"
+        ],
+        "categories": [
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "2119070",
+        "slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+        "condition_id": "0x9bdb4d01b7797953c92c03e98cf7d36e62543b37972435e6b4a1c74f4200b108",
+        "title": "20+",
+        "question": "Will 20 ships transit the Strait of Hormuz on any day by May 31?",
+        "description": "This market will resolve to \u201cYes\u201d if IMF Portwatch publishes a daily number of transit calls (\u201cArrivals of Ships\u201d) for the Strait of Hormuz equal to or above the listed value for any date between market creation and May 31, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThe number of daily transit calls/arrivals includes container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nThis market will resolve as soon as IMF Portwatch publishes a daily number of transit calls equal to or above the specified level, or once data has been published for the final date in the specified period and no such value has been published. If no data has been published for the final date of the specified period within 14 calendar days (ET) after the end of that period, this market will resolve based on data published up to that point.\n\nRevisions to previously published data points, made within this market\u2019s timeframe, will be considered. However, they will not disqualify a previously published data point from qualifying. Revisions to previously published data points after data is published for May 31, 2026, however, will not be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+        "yes_token_id": "89954522737599344676262331612340594227984975540462602712137571853195021943786",
+        "yes_probability": 0.57,
+        "yes_best_bid": 0.55,
+        "yes_best_ask": 0.57,
+        "yes_spread": 0.019999999999999907,
+        "no_token_id": "111808638949210947676629510478905750291957121738127218778875333149287089239220",
+        "no_probability": 0.45,
+        "no_best_bid": 0.43,
+        "no_best_ask": 0.45,
+        "no_spread": 0.020000000000000018,
+        "volume": 151942.23011020996,
+        "liquidity": 95737.93000000002,
+        "neg_risk": false,
+        "end_date": "2026-05-31T00:00:00Z",
+        "categories": [
+          "economy",
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "31 ships passing suggests traffic normalization is likely (1 hop).",
+        "event_id": "432180",
+        "event_title": "Will __ ships transit the Strait of Hormuz on any day by May 31?",
+        "event_slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+        "detected_yes_price": 0.45,
+        "detected_no_price": 0.5800000000000001,
+        "detected_at": 1779374845788,
+        "highest_price_change": 0.26666666666666655,
+        "highest_yes_price": 0.57,
+        "highest_no_price": 0.5800000000000001,
+        "first_moved_at": 1779375171467,
+        "moved_side": "yes",
+        "peaked_at": 1779446383536
+      },
+      "_scraped_at": "2026-05-22T12:37:17.035247+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "valid": false,
+      "_scraped_at": "2026-05-22T12:37:17.035247+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "global_tension_score": 53,
+      "global_tension_level": "ELEVATED",
+      "countries": [
+        {
+          "country": "GB",
+          "count": 15,
+          "recent": [
+            {
+              "id": "16fe6502-15bd-4814-b039-47dee7f626ab",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779439024392
+            },
+            {
+              "id": "a9a817e4-c922-4bd4-9d85-467095b3f494",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779452746129
+            },
+            {
+              "id": "12f664b1-1603-4df4-876b-7817e40304de",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779440814040
+            },
+            {
+              "id": "c3a35885-8c03-4934-80b6-0f0a2b8b65da",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1779438952305
+            },
+            {
+              "id": "035a4f64-1986-461d-bd00-b156ed4a4b27",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1779443464118
+            },
+            {
+              "id": "2e9360b3-e9a2-46ec-aa33-e4fd8421572a",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1779440602007
+            },
+            {
+              "id": "d4d09158-bca0-4a97-bad9-abb3fa85b8fb",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779447161082
+            },
+            {
+              "id": "5a9b17eb-69be-488d-9d8f-6d0134bc4b04",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1779436581766
+            },
+            {
+              "id": "c0ce0b4f-e2e4-49a3-adc3-c411878ce937",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779452188753
+            },
+            {
+              "id": "7e5818b4-a727-448c-a54f-3efde6700785",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779436012531
+            },
+            {
+              "id": "82ed489e-19b9-457d-93ee-e80dbe1cd54a",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1779453165868
+            },
+            {
+              "id": "316f9220-79ec-43ca-b297-36e5126e20f2",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779449746199
+            },
+            {
+              "id": "a8cfcc2e-1b22-4425-83ef-44be38bd873c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779435832279
+            },
+            {
+              "id": "f245757c-2aeb-40e2-bad4-dce95e5540c1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779443665773
+            },
+            {
+              "id": "533151f0-f76f-4943-86d9-f3520262a9c7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779443716286
+            }
+          ],
+          "volume": 6343872.083134106,
+          "critical_signals": 1,
+          "high_signals": 10,
+          "low_signals": 4
+        },
+        {
+          "country": "RU",
+          "count": 14,
+          "recent": [
+            {
+              "id": "16fe6502-15bd-4814-b039-47dee7f626ab",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779439024392
+            },
+            {
+              "id": "a18e83a1-6e84-4892-af6d-086a60be5d6e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779451725906
+            },
+            {
+              "id": "a9a817e4-c922-4bd4-9d85-467095b3f494",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779452746129
+            },
+            {
+              "id": "12f664b1-1603-4df4-876b-7817e40304de",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779440814040
+            },
+            {
+              "id": "035a4f64-1986-461d-bd00-b156ed4a4b27",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1779443464118
+            },
+            {
+              "id": "12b47091-d29d-4867-9b05-f47cdc287d6e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779441826212
+            },
+            {
+              "id": "2e9360b3-e9a2-46ec-aa33-e4fd8421572a",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1779440602007
+            },
+            {
+              "id": "c0ce0b4f-e2e4-49a3-adc3-c411878ce937",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779452188753
+            },
+            {
+              "id": "7e5818b4-a727-448c-a54f-3efde6700785",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779436012531
+            },
+            {
+              "id": "82ed489e-19b9-457d-93ee-e80dbe1cd54a",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1779453165868
+            },
+            {
+              "id": "a8cfcc2e-1b22-4425-83ef-44be38bd873c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779435832279
+            },
+            {
+              "id": "e5b13b09-eb2e-4f20-96c2-8ee2c5087702",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779433432335
+            },
+            {
+              "id": "f245757c-2aeb-40e2-bad4-dce95e5540c1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779443665773
+            },
+            {
+              "id": "533151f0-f76f-4943-86d9-f3520262a9c7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779443716286
+            }
+          ],
+          "volume": 5892293.575126564,
+          "critical_signals": 0,
+          "high_signals": 11,
+          "low_signals": 3
+        },
+        {
+          "country": "UA",
+          "count": 13,
+          "recent": [
+            {
+              "id": "16fe6502-15bd-4814-b039-47dee7f626ab",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779439024392
+            },
+            {
+              "id": "a9a817e4-c922-4bd4-9d85-467095b3f494",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779452746129
+            },
+            {
+              "id": "12f664b1-1603-4df4-876b-7817e40304de",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779440814040
+            },
+            {
+              "id": "c3a35885-8c03-4934-80b6-0f0a2b8b65da",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1779438952305
+            },
+            {
+              "id": "035a4f64-1986-461d-bd00-b156ed4a4b27",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1779443464118
+            },
+            {
+              "id": "12b47091-d29d-4867-9b05-f47cdc287d6e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779441826212
+            },
+            {
+              "id": "2e9360b3-e9a2-46ec-aa33-e4fd8421572a",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1779440602007
+            },
+            {
+              "id": "7e5818b4-a727-448c-a54f-3efde6700785",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779436012531
+            },
+            {
+              "id": "82ed489e-19b9-457d-93ee-e80dbe1cd54a",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1779453165868
+            },
+            {
+              "id": "316f9220-79ec-43ca-b297-36e5126e20f2",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779449746199
+            },
+            {
+              "id": "a8cfcc2e-1b22-4425-83ef-44be38bd873c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779435832279
+            },
+            {
+              "id": "f245757c-2aeb-40e2-bad4-dce95e5540c1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779443665773
+            },
+            {
+              "id": "533151f0-f76f-4943-86d9-f3520262a9c7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779443716286
+            }
+          ],
+          "volume": 6067768.671249099,
+          "critical_signals": 0,
+          "high_signals": 9,
+          "low_signals": 4
+        },
+        {
+          "country": "IR",
+          "count": 11,
+          "recent": [
+            {
+              "id": "61a04080-668c-4da6-9965-f1848beb3a9a",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1779449212307
+            },
+            {
+              "id": "a9a817e4-c922-4bd4-9d85-467095b3f494",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779452746129
+            },
+            {
+              "id": "4fd0ac7d-7880-4ba9-8591-6e8ff2bd55b3",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779442418946
+            },
+            {
+              "id": "e01e9cc8-b4ac-4891-a335-11a64f3967d9",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779435055026
+            },
+            {
+              "id": "bd4e9e1e-3eaf-4673-8cfe-1b8449671d1d",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1779452266012
+            },
+            {
+              "id": "8338aab7-a173-4fd9-badc-b02e43671fa4",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779432107000
+            },
+            {
+              "id": "50cacdda-db15-461f-96b2-5d407d34732d",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779439549438
+            },
+            {
+              "id": "f5db7bb1-6dc3-4619-a0db-6e9e0eec9f12",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779433032253
+            },
+            {
+              "id": "c87d67d5-84c1-4363-bcb9-981f160db1ff",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779450394610
+            },
+            {
+              "id": "dfebd2f0-8a98-4e5e-a603-67606a561290",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779446494910
+            },
+            {
+              "id": "5429f5fa-26b1-4b05-9fb8-3366934dae98",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779449556800
+            }
+          ],
+          "volume": 121638304.2360915,
+          "critical_signals": 1,
+          "high_signals": 9,
+          "low_signals": 1
+        },
+        {
+          "country": "US",
+          "count": 10,
+          "recent": [
+            {
+              "id": "35885113-98b8-45bd-8338-77cb6488663b",
+              "kind": "news",
+              "impact": "critical",
+              "timestamp": 1779449987814
+            },
+            {
+              "id": "e01e9cc8-b4ac-4891-a335-11a64f3967d9",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1779435055026
+            },
+            {
+              "id": "f567aa8a-9a61-4622-be73-33464c30c527",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779449365000
+            },
+            {
+              "id": "dd9884f0-ca7d-4910-bc26-3d45540481e1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779438173626
+            },
+            {
+              "id": "8338aab7-a173-4fd9-badc-b02e43671fa4",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779432107000
+            },
+            {
+              "id": "50cacdda-db15-461f-96b2-5d407d34732d",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779439549438
+            },
+            {
+              "id": "f5db7bb1-6dc3-4619-a0db-6e9e0eec9f12",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779433032253
+            },
+            {
+              "id": "5429f5fa-26b1-4b05-9fb8-3366934dae98",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779449556800
+            },
+            {
+              "id": "8f4092f1-82c4-4ecf-8b9d-313530a9ac49",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779432754412
+            },
+            {
+              "id": "ff916c16-af99-4381-b6f5-fb097ca03b92",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779435292076
+            }
+          ],
+          "volume": 93310449.18970156,
+          "critical_signals": 1,
+          "high_signals": 9,
+          "low_signals": 0
+        },
+        {
+          "country": "PL",
+          "count": 5,
+          "recent": [
+            {
+              "id": "f567aa8a-9a61-4622-be73-33464c30c527",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779449365000
+            },
+            {
+              "id": "dd9884f0-ca7d-4910-bc26-3d45540481e1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779438173626
+            },
+            {
+              "id": "8ab1d0d0-0df9-43fc-bac2-1f6b5bd8d739",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1779436159701
+            },
+            {
+              "id": "8f4092f1-82c4-4ecf-8b9d-313530a9ac49",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779432754412
+            },
+            {
+              "id": "ff916c16-af99-4381-b6f5-fb097ca03b92",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779435292076
+            }
+          ],
+          "volume": 4633794.794495827,
+          "critical_signals": 0,
+          "high_signals": 4,
+          "low_signals": 1
+        },
+        {
+          "country": "FR",
+          "count": 1,
+          "recent": [
+            {
+              "id": "fd286716-b2c7-463d-b329-8383eb2064fd",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1779450067724
+            }
+          ],
+          "volume": 1285869.2980719404,
+          "critical_signals": 1,
+          "high_signals": 0,
+          "low_signals": 0
+        },
+        {
+          "country": "DE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "5a9b17eb-69be-488d-9d8f-6d0134bc4b04",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1779436581766
+            }
+          ],
+          "volume": 202206.7474200071,
+          "critical_signals": 1,
+          "high_signals": 0,
+          "low_signals": 0
+        },
+        {
+          "country": "AE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "c87d67d5-84c1-4363-bcb9-981f160db1ff",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779450394610
+            }
+          ],
+          "volume": 959876.9828705373,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "EE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "f245757c-2aeb-40e2-bad4-dce95e5540c1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779443665773
+            }
+          ],
+          "volume": 4363875.875016827,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "CA",
+          "count": 1,
+          "recent": [
+            {
+              "id": "e1b9a8a0-8b8f-4632-9cf9-a61ab769fa82",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1779445863114
+            }
+          ],
+          "volume": 325266.80480409367,
+          "critical_signals": 1,
+          "high_signals": 0,
+          "low_signals": 0
+        },
+        {
+          "country": "JP",
+          "count": 1,
+          "recent": [
+            {
+              "id": "a9a817e4-c922-4bd4-9d85-467095b3f494",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779452746129
+            }
+          ],
+          "volume": 4477967.710948828,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "SI",
+          "count": 1,
+          "recent": [
+            {
+              "id": "cb729167-a3ba-4a79-a8be-f678f0232568",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779445548000
+            }
+          ],
+          "volume": 798901.069178009,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "IN",
+          "count": 1,
+          "recent": [
+            {
+              "id": "2e9360b3-e9a2-46ec-aa33-e4fd8421572a",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1779440602007
+            }
+          ],
+          "volume": 789282.1965830014,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "SE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "9e84b81a-50b9-42a3-91da-6e1be5320ee8",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779450597224
+            }
+          ],
+          "volume": 92309.41412000003,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "KR",
+          "count": 1,
+          "recent": [
+            {
+              "id": "a9a817e4-c922-4bd4-9d85-467095b3f494",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779452746129
+            }
+          ],
+          "volume": 4477967.710948828,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "CN",
+          "count": 1,
+          "recent": [
+            {
+              "id": "a9a817e4-c922-4bd4-9d85-467095b3f494",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779452746129
+            }
+          ],
+          "volume": 4477967.710948828,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "IL",
+          "count": 1,
+          "recent": [
+            {
+              "id": "bd4e9e1e-3eaf-4673-8cfe-1b8449671d1d",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1779452266012
+            }
+          ],
+          "volume": 31390016.2221043,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "TW",
+          "count": 1,
+          "recent": [
+            {
+              "id": "8338aab7-a173-4fd9-badc-b02e43671fa4",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1779432107000
+            }
+          ],
+          "volume": 106742.67782400003,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "LV",
+          "count": 1,
+          "recent": [
+            {
+              "id": "fe26d65b-afb9-40fa-82e5-59f8e99e3c3c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1779436402347
+            }
+          ],
+          "volume": 9459.218995,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        }
+      ],
+      "_scraped_at": "2026-05-22T12:37:17.035247+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
