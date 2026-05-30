@@ -1,0 +1,643 @@
+{
+  "scraped_at": "2026-05-30T23:53:56.395035+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 3,
+  "items": [
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "c94c4ed7-d050-4aa6-9ba3-ebaed8030c6b",
+        "timestamp": 1780101707084,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "c94c4ed7-d050-4aa6-9ba3-ebaed8030c6b",
+          "text": "8 missiles were fired from southern Lebanon towards Upper Galilee - Al Jazeera|FJ",
+          "channel": "FinancialJuice",
+          "timestamp": 1780101707084,
+          "link": "https://t.me/FinancialJuice"
+        },
+        "osint": false,
+        "country": "LB",
+        "countries": [
+          "LB"
+        ],
+        "related_markets": [
+          {
+            "id": "2363555",
+            "slug": "israel-announces-lebanon-ceasefire-extension-by",
+            "condition_id": "0x22e576a6f53d8d2b7a0939ac39ce015671564303e2496158c7b228daa6d5d903",
+            "title": "May 31",
+            "question": "Israel announces Lebanon ceasefire extension by May 31?",
+            "description": "This market will resolve to \u201cYes\u201d if Israel officially announces another extension of the ceasefire agreement between Israel and Hezbollah announced on April 16, 2026, defined as a publicly announced commitment to halt direct military engagement with Hezbollah, by the specified date, 11:59 PM Israel Daylight Time. Otherwise, this market will resolve to \"No\".\n\nBoth announcements of extensions of the April 16 ceasefire, as extended on April 23 and May 15, 2026, and of new agreements will qualify.\n\nIf a qualifying announcement is officially made before the resolution date, this market will resolve to \u201cYes,\u201d regardless of whether the ceasefire extension ultimately takes effect.\n\nA qualifying announcement requires clear public confirmation from the Israeli government that Israel has extended its commitment to the ceasefire beyond its current scheduled end.\n\nAny form of informal understanding, backchannel communication, de-escalation, or unilateral pause in hostilities without a confirmed Israeli announcement of a qualifying extension will not qualify. Similarly, newly agreed-upon humanitarian pauses, limited operational pauses, or temporary tactical stand-downs will not qualify.\n\nA newly agreed-upon broader peace deal will qualify if it includes Israel's agreement to a ceasefire extension. Agreements that outline future negotiations or de-escalation measures, but do not explicitly extend the ceasefire, will not qualify.\n\nThis market\u2019s resolution will be based on official statements from the Israeli government and will not require confirmation from Hezbollah. However, an overwhelming consensus of credible media reporting that a ceasefire extension agreement has been reached will suffice.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-hezbollah-ceasefire-extended-by-2-En32lSfFPU.jpg",
+            "yes_token_id": "22551928509131760408872758231031650632136765400312729137825082692282212490469",
+            "yes_probability": 0.05,
+            "yes_best_bid": 0.015,
+            "yes_best_ask": 0.05,
+            "yes_spread": 0.035,
+            "no_token_id": "18361083183632389911567436571564599921508356452568260921565543680324199339056",
+            "no_probability": 0.985,
+            "no_best_bid": 0.95,
+            "no_best_ask": 0.985,
+            "no_spread": 0.03500000000000003,
+            "volume": 24775.562456000065,
+            "liquidity": 181416.32000000004,
+            "neg_risk": false,
+            "end_date": "2026-05-31T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Missiles fired from Lebanon could influence ceasefire negotiations.",
+            "event_id": "527930",
+            "event_title": "Israel announces Lebanon ceasefire extension by...?",
+            "event_slug": "israel-announces-lebanon-ceasefire-extension-by",
+            "detected_yes_price": 0.16,
+            "detected_no_price": 0.88,
+            "detected_at": 1780101742560,
+            "highest_price_change": 0.1193181818181818,
+            "highest_yes_price": 0.17,
+            "highest_no_price": 0.985,
+            "first_moved_at": 1780101749110,
+            "moved_side": "no",
+            "peaked_at": 1780178379307
+          },
+          {
+            "id": "2002608",
+            "slug": "israel-withdraws-from-lebanon-by",
+            "condition_id": "0x8bb861046d70534248fe10aaef5ca28a91fe4c923db024005ea26b86946ca114",
+            "title": "May 31",
+            "question": "Israel withdraws from Lebanon by May 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if Israel announces it has withdrawn all ground forces from Lebanon by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nFor this market to resolve to \"Yes\" it is sufficient that Israel announces its ground forces have withdrawn from all Lebanese territory, regardless of if some Lebanese territory remains under their control or ground incursions by Israeli forces continue. However, an announcement of a planned or future withdrawal will not suffice.\n\nThe Shebaa Farms area is considered Israeli territory for the purposes of this market and will not be considered toward its resolution.\n\nThe primary resolution source for this market will be information from the Israeli government, however an overwhelming consensus of credible reporting confirming that Israel has withdrawn may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-withdraws-from-lebanon-by-iSLvDOMpOkAG.jpg",
+            "yes_token_id": "64306271961813065703804968520478430759397226168325766090636747856192336957941",
+            "yes_probability": 0.001,
+            "yes_best_bid": 0,
+            "yes_best_ask": 0.001,
+            "yes_spread": 0.001,
+            "no_token_id": "72638240516733289490270090522790097230468696624096216694556170058909027876326",
+            "no_probability": 1,
+            "no_best_bid": 0.999,
+            "no_best_ask": 1,
+            "no_spread": 0.0010000000000000009,
+            "volume": 1534282.691909999,
+            "liquidity": 272314.2400000001,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Missiles fired from Lebanon could influence Israel's withdrawal decisions.",
+            "event_id": "386812",
+            "event_title": "Israel withdraws from Lebanon by...?",
+            "event_slug": "israel-withdraws-from-lebanon-by",
+            "detected_yes_price": 0.01,
+            "detected_no_price": 0.991,
+            "detected_at": 1780101742560,
+            "highest_price_change": 0.2,
+            "highest_yes_price": 0.012,
+            "highest_no_price": 0.991,
+            "first_moved_at": 1780101758772,
+            "moved_side": "yes",
+            "peaked_at": 1780101758772
+          },
+          {
+            "id": "2364342",
+            "slug": "israel-announces-lebanon-ceasefire-extension-by",
+            "condition_id": "0x42973552f8bcfc9269fba8492766f2c20a22243cbba154cf695acaff88ec96c7",
+            "title": "June 7",
+            "question": "Israel announces Lebanon ceasefire extension by June 7?",
+            "description": "This market will resolve to \u201cYes\u201d if Israel officially announces another extension of the ceasefire agreement between Israel and Hezbollah announced on April 16, 2026, defined as a publicly announced commitment to halt direct military engagement with Hezbollah, by the specified date, 11:59 PM Israel Daylight Time. Otherwise, this market will resolve to \"No\".\n\nBoth announcements of extensions of the April 16 ceasefire, as extended on April 23 and May 15, 2026, and of new agreements will qualify.\n\nIf a qualifying announcement is officially made before the resolution date, this market will resolve to \u201cYes,\u201d regardless of whether the ceasefire extension ultimately takes effect.\n\nA qualifying announcement requires clear public confirmation from the Israeli government that Israel has extended its commitment to the ceasefire beyond its current scheduled end.\n\nAny form of informal understanding, backchannel communication, de-escalation, or unilateral pause in hostilities without a confirmed Israeli announcement of a qualifying extension will not qualify. Similarly, newly agreed-upon humanitarian pauses, limited operational pauses, or temporary tactical stand-downs will not qualify.\n\nA newly agreed-upon broader peace deal will qualify if it includes Israel's agreement to a ceasefire extension. Agreements that outline future negotiations or de-escalation measures, but do not explicitly extend the ceasefire, will not qualify.\n\nThis market\u2019s resolution will be based on official statements from the Israeli government and will not require confirmation from Hezbollah. However, an overwhelming consensus of credible media reporting that a ceasefire extension agreement has been reached will suffice.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-hezbollah-ceasefire-extended-by-2-En32lSfFPU.jpg",
+            "yes_token_id": "55729187700220621940979114092031096586154133673216433038757883725632922111626",
+            "yes_probability": 0.17,
+            "yes_best_bid": 0.14,
+            "yes_best_ask": 0.17,
+            "yes_spread": 0.03,
+            "no_token_id": "2049615116809785498037116915229927575556307359227515820401917172384861321364",
+            "no_probability": 0.86,
+            "no_best_bid": 0.83,
+            "no_best_ask": 0.86,
+            "no_spread": 0.030000000000000027,
+            "volume": 7523.044699299994,
+            "liquidity": 144464.77,
+            "neg_risk": false,
+            "end_date": "2026-06-07T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Missiles fired from Lebanon may affect ceasefire negotiations.",
+            "event_id": "527930",
+            "event_title": "Israel announces Lebanon ceasefire extension by...?",
+            "event_slug": "israel-announces-lebanon-ceasefire-extension-by",
+            "detected_yes_price": 0.35,
+            "detected_no_price": 0.74,
+            "detected_at": 1780101742560,
+            "highest_price_change": 0.17567567567567569,
+            "highest_yes_price": 0.37,
+            "highest_no_price": 0.87,
+            "first_moved_at": 1780101760588,
+            "moved_side": "no",
+            "peaked_at": 1780179652235
+          },
+          {
+            "id": "2002609",
+            "slug": "israel-withdraws-from-lebanon-by",
+            "condition_id": "0x57165bc68af588cf16e499eecd6c040e458c939e0fb0dd4b193744a9d21aa5f2",
+            "title": "June 30",
+            "question": "Israel withdraws from Lebanon by June 30, 2026?",
+            "description": "This market will resolve to \"Yes\" if Israel announces it has withdrawn all ground forces from Lebanon by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nFor this market to resolve to \"Yes\" it is sufficient that Israel announces its ground forces have withdrawn from all Lebanese territory, regardless of if some Lebanese territory remains under their control or ground incursions by Israeli forces continue. However, an announcement of a planned or future withdrawal will not suffice.\n\nThe Shebaa Farms area is considered Israeli territory for the purposes of this market and will not be considered toward its resolution.\n\nThe primary resolution source for this market will be information from the Israeli government, however an overwhelming consensus of credible reporting confirming that Israel has withdrawn may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-withdraws-from-lebanon-by-iSLvDOMpOkAG.jpg",
+            "yes_token_id": "108868564305190361360490524671116008808546165773720209215376459867456221066859",
+            "yes_probability": 0.08,
+            "yes_best_bid": 0.06,
+            "yes_best_ask": 0.08,
+            "yes_spread": 0.020000000000000004,
+            "no_token_id": "30737817968734131414540694363665965667430443804675463953245001754203960203734",
+            "no_probability": 0.94,
+            "no_best_bid": 0.92,
+            "no_best_ask": 0.94,
+            "no_spread": 0.019999999999999907,
+            "volume": 360710.01715945994,
+            "liquidity": 252352.59999999992,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Missiles fired from Lebanon may affect Israel's withdrawal timeline.",
+            "event_id": "386812",
+            "event_title": "Israel withdraws from Lebanon by...?",
+            "event_slug": "israel-withdraws-from-lebanon-by",
+            "detected_yes_price": 0.11,
+            "detected_no_price": 0.91,
+            "detected_at": 1780101742560,
+            "highest_price_change": 0.03296703296703287,
+            "highest_yes_price": 0.11,
+            "highest_no_price": 0.94,
+            "first_moved_at": 1780178379676,
+            "moved_side": "no",
+            "peaked_at": 1780182872851
+          },
+          {
+            "id": "2333782",
+            "slug": "israel-withdraws-from-lebanon-by",
+            "condition_id": "0x5813dc7ee3feea004711c97bdf27c407c3e943d876432ef50b49b8399eae9f37",
+            "title": "July 31",
+            "question": "Israel withdraws from Lebanon by July 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if Israel announces it has withdrawn all ground forces from Lebanon by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nFor this market to resolve to \"Yes\" it is sufficient that Israel announces its ground forces have withdrawn from all Lebanese territory, regardless of if some Lebanese territory remains under their control or ground incursions by Israeli forces continue. However, an announcement of a planned or future withdrawal will not suffice.\n\nThe Shebaa Farms area is considered Israeli territory for the purposes of this market and will not be considered toward its resolution.\n\nThe primary resolution source for this market will be information from the Israeli government, however an overwhelming consensus of credible reporting confirming that Israel has withdrawn may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-withdraws-from-lebanon-by-iSLvDOMpOkAG.jpg",
+            "yes_token_id": "37916433699926811417004179134161547895432712920399631263024897709000164571185",
+            "yes_probability": 0.17,
+            "yes_best_bid": 0.16,
+            "yes_best_ask": 0.17,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "5509905031136447280801602282503081723573713185271890132535788427261709714096",
+            "no_probability": 0.84,
+            "no_best_bid": 0.83,
+            "no_best_ask": 0.84,
+            "no_spread": 0.010000000000000009,
+            "volume": 15222.017128000007,
+            "liquidity": 167521.63,
+            "neg_risk": false,
+            "end_date": "2026-07-31T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Missiles fired from Lebanon may affect Israel's withdrawal timeline.",
+            "event_id": "386812",
+            "event_title": "Israel withdraws from Lebanon by...?",
+            "event_slug": "israel-withdraws-from-lebanon-by",
+            "detected_yes_price": 0.21,
+            "detected_no_price": 0.8,
+            "detected_at": 1780101742560,
+            "highest_price_change": 0.049999999999999906,
+            "highest_yes_price": 0.21,
+            "highest_no_price": 0.84,
+            "first_moved_at": 1780178375782,
+            "moved_side": "no",
+            "peaked_at": 1780178375782
+          }
+        ],
+        "topics": null,
+        "categories": [
+          "geopolitics"
+        ]
+      },
+      "related_market": {
+        "id": "2364342",
+        "slug": "israel-announces-lebanon-ceasefire-extension-by",
+        "condition_id": "0x42973552f8bcfc9269fba8492766f2c20a22243cbba154cf695acaff88ec96c7",
+        "title": "June 7",
+        "question": "Israel announces Lebanon ceasefire extension by June 7?",
+        "description": "This market will resolve to \u201cYes\u201d if Israel officially announces another extension of the ceasefire agreement between Israel and Hezbollah announced on April 16, 2026, defined as a publicly announced commitment to halt direct military engagement with Hezbollah, by the specified date, 11:59 PM Israel Daylight Time. Otherwise, this market will resolve to \"No\".\n\nBoth announcements of extensions of the April 16 ceasefire, as extended on April 23 and May 15, 2026, and of new agreements will qualify.\n\nIf a qualifying announcement is officially made before the resolution date, this market will resolve to \u201cYes,\u201d regardless of whether the ceasefire extension ultimately takes effect.\n\nA qualifying announcement requires clear public confirmation from the Israeli government that Israel has extended its commitment to the ceasefire beyond its current scheduled end.\n\nAny form of informal understanding, backchannel communication, de-escalation, or unilateral pause in hostilities without a confirmed Israeli announcement of a qualifying extension will not qualify. Similarly, newly agreed-upon humanitarian pauses, limited operational pauses, or temporary tactical stand-downs will not qualify.\n\nA newly agreed-upon broader peace deal will qualify if it includes Israel's agreement to a ceasefire extension. Agreements that outline future negotiations or de-escalation measures, but do not explicitly extend the ceasefire, will not qualify.\n\nThis market\u2019s resolution will be based on official statements from the Israeli government and will not require confirmation from Hezbollah. However, an overwhelming consensus of credible media reporting that a ceasefire extension agreement has been reached will suffice.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-hezbollah-ceasefire-extended-by-2-En32lSfFPU.jpg",
+        "yes_token_id": "55729187700220621940979114092031096586154133673216433038757883725632922111626",
+        "yes_probability": 0.17,
+        "yes_best_bid": 0.14,
+        "yes_best_ask": 0.17,
+        "yes_spread": 0.03,
+        "no_token_id": "2049615116809785498037116915229927575556307359227515820401917172384861321364",
+        "no_probability": 0.86,
+        "no_best_bid": 0.83,
+        "no_best_ask": 0.86,
+        "no_spread": 0.030000000000000027,
+        "volume": 7523.044699299994,
+        "liquidity": 144464.77,
+        "neg_risk": false,
+        "end_date": "2026-06-07T00:00:00Z",
+        "categories": [
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 5,
+        "impact_level": "low",
+        "impact_reason": "Missiles fired from Lebanon may affect ceasefire negotiations.",
+        "event_id": "527930",
+        "event_title": "Israel announces Lebanon ceasefire extension by...?",
+        "event_slug": "israel-announces-lebanon-ceasefire-extension-by",
+        "detected_yes_price": 0.35,
+        "detected_no_price": 0.74,
+        "detected_at": 1780101742560,
+        "highest_price_change": 0.17567567567567569,
+        "highest_yes_price": 0.37,
+        "highest_no_price": 0.87,
+        "first_moved_at": 1780101760588,
+        "moved_side": "no",
+        "peaked_at": 1780179652235
+      },
+      "_scraped_at": "2026-05-30T23:53:56.395035+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "valid": false,
+      "_scraped_at": "2026-05-30T23:53:56.395035+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "global_tension_score": 21,
+      "global_tension_level": "GUARDED",
+      "countries": [
+        {
+          "country": "UA",
+          "count": 6,
+          "recent": [
+            {
+              "id": "c4c13da1-1f5a-4ce2-b939-ef41477b5d02",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780174380830
+            },
+            {
+              "id": "471b9e02-4f54-4b09-bd9f-4c5c17ba2a67",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780168561255
+            },
+            {
+              "id": "01b903fe-6f75-4ae1-ae97-48c9c9302608",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780164629345
+            },
+            {
+              "id": "24b31534-dfc9-4e94-bff2-01ac458a8a08",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780165529326
+            },
+            {
+              "id": "879e56e5-aa35-4639-b9a2-1b89573bd056",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780169940911
+            },
+            {
+              "id": "03eb5404-518a-40c6-9084-f76e68ad6177",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780165709325
+            }
+          ],
+          "volume": 2390160.5337229185,
+          "critical_signals": 0,
+          "high_signals": 6,
+          "low_signals": 0
+        },
+        {
+          "country": "RU",
+          "count": 6,
+          "recent": [
+            {
+              "id": "c4c13da1-1f5a-4ce2-b939-ef41477b5d02",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780174380830
+            },
+            {
+              "id": "471b9e02-4f54-4b09-bd9f-4c5c17ba2a67",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780168561255
+            },
+            {
+              "id": "01b903fe-6f75-4ae1-ae97-48c9c9302608",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780164629345
+            },
+            {
+              "id": "24b31534-dfc9-4e94-bff2-01ac458a8a08",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780165529326
+            },
+            {
+              "id": "03eb5404-518a-40c6-9084-f76e68ad6177",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780165709325
+            },
+            {
+              "id": "ce316abe-b539-40de-be26-e480de3cac39",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780175701162
+            }
+          ],
+          "volume": 2782263.0032435376,
+          "critical_signals": 0,
+          "high_signals": 6,
+          "low_signals": 0
+        },
+        {
+          "country": "GB",
+          "count": 4,
+          "recent": [
+            {
+              "id": "c4c13da1-1f5a-4ce2-b939-ef41477b5d02",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780174380830
+            },
+            {
+              "id": "471b9e02-4f54-4b09-bd9f-4c5c17ba2a67",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780168561255
+            },
+            {
+              "id": "879e56e5-aa35-4639-b9a2-1b89573bd056",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780169940911
+            },
+            {
+              "id": "03eb5404-518a-40c6-9084-f76e68ad6177",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780165709325
+            }
+          ],
+          "volume": 426620.01374799985,
+          "critical_signals": 0,
+          "high_signals": 4,
+          "low_signals": 0
+        },
+        {
+          "country": "IL",
+          "count": 3,
+          "recent": [
+            {
+              "id": "74998f5e-e548-4379-96f6-215759f463e0",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780183471622
+            },
+            {
+              "id": "288d7b12-1f85-47a9-8ef8-32bd47a7afc4",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780164389350
+            },
+            {
+              "id": "fa77ef7a-0d24-4191-b25d-a584694f66e6",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780175280827
+            }
+          ],
+          "volume": 34305537.64886634,
+          "critical_signals": 0,
+          "high_signals": 3,
+          "low_signals": 0
+        },
+        {
+          "country": "LB",
+          "count": 2,
+          "recent": [
+            {
+              "id": "288d7b12-1f85-47a9-8ef8-32bd47a7afc4",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780164389350
+            },
+            {
+              "id": "fa77ef7a-0d24-4191-b25d-a584694f66e6",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780175280827
+            }
+          ],
+          "volume": 33692781.64736434,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "US",
+          "count": 2,
+          "recent": [
+            {
+              "id": "bb42abf0-6cb7-43af-9d17-01f77960b8be",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780177560941
+            },
+            {
+              "id": "ce316abe-b539-40de-be26-e480de3cac39",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780175701162
+            }
+          ],
+          "volume": 35288909.89817088,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "IR",
+          "count": 2,
+          "recent": [
+            {
+              "id": "64a500de-32e8-47af-879e-c8516c10415e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780171455881
+            },
+            {
+              "id": "bb42abf0-6cb7-43af-9d17-01f77960b8be",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780177560941
+            }
+          ],
+          "volume": 33978023.78579175,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "PS",
+          "count": 1,
+          "recent": [
+            {
+              "id": "74998f5e-e548-4379-96f6-215759f463e0",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780183471622
+            }
+          ],
+          "volume": 612756.0015019997,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "CO",
+          "count": 1,
+          "recent": [
+            {
+              "id": "d6ec9828-b3d2-426c-b481-0b4bb2e3bf1a",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1780173989162
+            }
+          ],
+          "volume": 4513239.500534017,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "LT",
+          "count": 1,
+          "recent": [
+            {
+              "id": "ce316abe-b539-40de-be26-e480de3cac39",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780175701162
+            }
+          ],
+          "volume": 1600539.0137865385,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "DE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "ce316abe-b539-40de-be26-e480de3cac39",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780175701162
+            }
+          ],
+          "volume": 1600539.0137865385,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "LV",
+          "count": 1,
+          "recent": [
+            {
+              "id": "ce316abe-b539-40de-be26-e480de3cac39",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780175701162
+            }
+          ],
+          "volume": 1600539.0137865385,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "EC",
+          "count": 1,
+          "recent": [
+            {
+              "id": "d6ec9828-b3d2-426c-b481-0b4bb2e3bf1a",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1780173989162
+            }
+          ],
+          "volume": 4513239.500534017,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "BY",
+          "count": 1,
+          "recent": [
+            {
+              "id": "ce316abe-b539-40de-be26-e480de3cac39",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780175701162
+            }
+          ],
+          "volume": 1600539.0137865385,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        }
+      ],
+      "_scraped_at": "2026-05-30T23:53:56.395035+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
