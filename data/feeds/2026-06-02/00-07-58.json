@@ -1,0 +1,1897 @@
+{
+  "scraped_at": "2026-06-02T00:07:51.399160+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 8,
+  "items": [
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "64aa0f5d-ce29-4b13-86f6-951490264cb0",
+        "timestamp": 1780319993688,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "64aa0f5d-ce29-4b13-86f6-951490264cb0",
+          "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfe\ud83c\uddea\ud83c\uddee\ud83c\uddf1\u26a1\ufe0f- Iran says it is prepared to fully shut down the Steait of Hormuz and also the Bab el Mandeb strait.",
+          "channel": "Rerum Novarum // Intel, Breaking News, and Alerts \ud83c\uddfa\ud83c\uddf8",
+          "timestamp": 1780319993688,
+          "link": "https://t.me/rnintel"
+        },
+        "osint": false,
+        "country": "IR",
+        "countries": [
+          "IR"
+        ],
+        "related_markets": [
+          {
+            "id": "1980863",
+            "slug": "bab-el-mandeb-strait-effectively-closed-by",
+            "condition_id": "0x9647b0f18083245933f2d2ca09acbe7ce89ee60ba83ed01e984df4bc7888a214",
+            "title": "May 31",
+            "question": "Bab el-Mandeb Strait effectively closed by May 31?",
+            "description": "This market will resolve to \u201cYes\u201d if IMF PortWatch publishes a 7-day moving average of transit calls (\u201cArrivals of Ships\u201d) for the Bab el-Mandeb Strait less than or equal to 10 for any date between market creation and the listed date. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve as soon as IMF PortWatch publishes a 7-day moving average of transit calls for the Bab el-Mandeb Strait equal to or below 10, or once data has been published for the listed date and no such value has been published.\n\nIf no data has been published for the listed date within 14 calendar days (ET) after that date, this market will resolve based on the data published up to that point.\n\nRevisions to previously published data points made before data has been published for the listed date will be considered; however, they will not disqualify a previously published data point from qualifying. Revisions made after data has been published for the listed date will not be considered.\n\nThe resolution source for this market will be IMF PortWatch, specifically the \u201cArrivals of Ships\u201d data published for the Bab el-Mandeb Strait at https://portwatch.imf.org/pages/6b1814d64903461b98144a6cc25eb79c.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bab-el-mandeb-strait-effectively-closed-by-end-of-april-Y8A7Ig2p8X2K.jpg",
+            "yes_token_id": "50593835060887644541304886936916227361253501730886355031778884057367095965579",
+            "yes_probability": 0.005,
+            "yes_best_bid": 0,
+            "yes_best_ask": 0.005,
+            "yes_spread": 0.005,
+            "no_token_id": "18315883317653952736078559145436077015082800264561996157051447413257028997421",
+            "no_probability": 1,
+            "no_best_bid": 0.995,
+            "no_best_ask": 1,
+            "no_spread": 0.0050000000000000044,
+            "volume": 1292631.1942120013,
+            "liquidity": 359147.97999999986,
+            "neg_risk": false,
+            "end_date": "2026-04-30T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Iran's statement about closing the strait is a direct signal (1 hop).",
+            "event_id": "276527",
+            "event_title": "Bab el-Mandeb Strait effectively closed by...?",
+            "event_slug": "bab-el-mandeb-strait-effectively-closed-by",
+            "detected_yes_price": 0.001,
+            "detected_no_price": 1,
+            "detected_at": 1780320004590,
+            "highest_price_change": 7,
+            "highest_yes_price": 0.008,
+            "highest_no_price": 1,
+            "first_moved_at": 1780325788120,
+            "moved_side": "yes",
+            "peaked_at": 1780326422529
+          },
+          {
+            "id": "2170254",
+            "slug": "bab-el-mandeb-strait-effectively-closed-by",
+            "condition_id": "0xa976dcc2fac50cf13968adbee89ce1de26df0191b8480b89d418280273197f53",
+            "title": "June 30",
+            "question": "Bab el-Mandeb Strait effectively closed by June 30?",
+            "description": "This market will resolve to \u201cYes\u201d if IMF PortWatch publishes a 7-day moving average of transit calls (\u201cArrivals of Ships\u201d) for the Bab el-Mandeb Strait less than or equal to 10 for any date between market creation and the listed date. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve as soon as IMF PortWatch publishes a 7-day moving average of transit calls for the Bab el-Mandeb Strait equal to or below 10, or once data has been published for the listed date and no such value has been published.\n\nIf no data has been published for the listed date within 14 calendar days (ET) after that date, this market will resolve based on the data published up to that point.\n\nRevisions to previously published data points made before data has been published for the listed date will be considered; however, they will not disqualify a previously published data point from qualifying. Revisions made after data has been published for the listed date will not be considered.\n\nThe resolution source for this market will be IMF PortWatch, specifically the \u201cArrivals of Ships\u201d data published for the Bab el-Mandeb Strait at https://portwatch.imf.org/pages/6b1814d64903461b98144a6cc25eb79c.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bab-el-mandeb-strait-effectively-closed-by-end-of-april-Y8A7Ig2p8X2K.jpg",
+            "yes_token_id": "70979157952244849403592933535229643909731035328387913162617056140126772714735",
+            "yes_probability": 0.099,
+            "yes_best_bid": 0.079,
+            "yes_best_ask": 0.099,
+            "yes_spread": 0.020000000000000004,
+            "no_token_id": "95580602988758783752712445121155191665286945527392197193712707520306862606842",
+            "no_probability": 0.921,
+            "no_best_bid": 0.901,
+            "no_best_ask": 0.921,
+            "no_spread": 0.020000000000000018,
+            "volume": 142235.6146990367,
+            "liquidity": 631346.22,
+            "neg_risk": false,
+            "end_date": "2026-04-30T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Iran's readiness to close the strait is a direct signal (1 hop).",
+            "event_id": "276527",
+            "event_title": "Bab el-Mandeb Strait effectively closed by...?",
+            "event_slug": "bab-el-mandeb-strait-effectively-closed-by",
+            "detected_yes_price": 0.049,
+            "detected_no_price": 0.955,
+            "detected_at": 1780320004590,
+            "highest_price_change": 4.061224489795919,
+            "highest_yes_price": 0.248,
+            "highest_no_price": 0.96,
+            "first_moved_at": 1780320004625,
+            "moved_side": "yes",
+            "peaked_at": 1780320699807
+          },
+          {
+            "id": "2170255",
+            "slug": "bab-el-mandeb-strait-effectively-closed-by",
+            "condition_id": "0x95fc6a4ed7f6856d26aa7f21b9f902d05c9cf76b616fd3463de4d147f7a9126b",
+            "title": "September 30",
+            "question": "Bab el-Mandeb Strait effectively closed by September 30?",
+            "description": "This market will resolve to \u201cYes\u201d if IMF PortWatch publishes a 7-day moving average of transit calls (\u201cArrivals of Ships\u201d) for the Bab el-Mandeb Strait less than or equal to 10 for any date between market creation and the listed date. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve as soon as IMF PortWatch publishes a 7-day moving average of transit calls for the Bab el-Mandeb Strait equal to or below 10, or once data has been published for the listed date and no such value has been published.\n\nIf no data has been published for the listed date within 14 calendar days (ET) after that date, this market will resolve based on the data published up to that point.\n\nRevisions to previously published data points made before data has been published for the listed date will be considered; however, they will not disqualify a previously published data point from qualifying. Revisions made after data has been published for the listed date will not be considered.\n\nThe resolution source for this market will be IMF PortWatch, specifically the \u201cArrivals of Ships\u201d data published for the Bab el-Mandeb Strait at https://portwatch.imf.org/pages/6b1814d64903461b98144a6cc25eb79c.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bab-el-mandeb-strait-effectively-closed-by-end-of-april-Y8A7Ig2p8X2K.jpg",
+            "yes_token_id": "79492971912420892776290893910148058147353983898749011679176479416889510526578",
+            "yes_probability": 0.19,
+            "yes_best_bid": 0.16,
+            "yes_best_ask": 0.19,
+            "yes_spread": 0.03,
+            "no_token_id": "79085628201281122481883578594811594592260824252373059797032000397035131450743",
+            "no_probability": 0.84,
+            "no_best_bid": 0.81,
+            "no_best_ask": 0.84,
+            "no_spread": 0.029999999999999916,
+            "volume": 40262.275576310036,
+            "liquidity": 221387.90999999997,
+            "neg_risk": false,
+            "end_date": "2026-04-30T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Iran's statement about closing the strait is a direct signal (1 hop).",
+            "event_id": "276527",
+            "event_title": "Bab el-Mandeb Strait effectively closed by...?",
+            "event_slug": "bab-el-mandeb-strait-effectively-closed-by",
+            "detected_yes_price": 0.14,
+            "detected_no_price": 0.88,
+            "detected_at": 1780320004590,
+            "highest_price_change": 1.1428571428571426,
+            "highest_yes_price": 0.3,
+            "highest_no_price": 0.88,
+            "first_moved_at": 1780320007002,
+            "moved_side": "yes",
+            "peaked_at": 1780320192051
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 10,
+            "price": 0
+          }
+        ],
+        "topics": [
+          "iran-regime",
+          "ai-tech"
+        ],
+        "categories": [
+          "tech",
+          "climate"
+        ]
+      },
+      "related_market": {
+        "id": "2170254",
+        "slug": "bab-el-mandeb-strait-effectively-closed-by",
+        "condition_id": "0xa976dcc2fac50cf13968adbee89ce1de26df0191b8480b89d418280273197f53",
+        "title": "June 30",
+        "question": "Bab el-Mandeb Strait effectively closed by June 30?",
+        "description": "This market will resolve to \u201cYes\u201d if IMF PortWatch publishes a 7-day moving average of transit calls (\u201cArrivals of Ships\u201d) for the Bab el-Mandeb Strait less than or equal to 10 for any date between market creation and the listed date. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve as soon as IMF PortWatch publishes a 7-day moving average of transit calls for the Bab el-Mandeb Strait equal to or below 10, or once data has been published for the listed date and no such value has been published.\n\nIf no data has been published for the listed date within 14 calendar days (ET) after that date, this market will resolve based on the data published up to that point.\n\nRevisions to previously published data points made before data has been published for the listed date will be considered; however, they will not disqualify a previously published data point from qualifying. Revisions made after data has been published for the listed date will not be considered.\n\nThe resolution source for this market will be IMF PortWatch, specifically the \u201cArrivals of Ships\u201d data published for the Bab el-Mandeb Strait at https://portwatch.imf.org/pages/6b1814d64903461b98144a6cc25eb79c.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bab-el-mandeb-strait-effectively-closed-by-end-of-april-Y8A7Ig2p8X2K.jpg",
+        "yes_token_id": "70979157952244849403592933535229643909731035328387913162617056140126772714735",
+        "yes_probability": 0.099,
+        "yes_best_bid": 0.079,
+        "yes_best_ask": 0.099,
+        "yes_spread": 0.020000000000000004,
+        "no_token_id": "95580602988758783752712445121155191665286945527392197193712707520306862606842",
+        "no_probability": 0.921,
+        "no_best_bid": 0.901,
+        "no_best_ask": 0.921,
+        "no_spread": 0.020000000000000018,
+        "volume": 142235.6146990367,
+        "liquidity": 631346.22,
+        "neg_risk": false,
+        "end_date": "2026-04-30T00:00:00Z",
+        "categories": [
+          "geopolitics",
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 9,
+        "impact_level": "critical",
+        "impact_reason": "Iran's readiness to close the strait is a direct signal (1 hop).",
+        "event_id": "276527",
+        "event_title": "Bab el-Mandeb Strait effectively closed by...?",
+        "event_slug": "bab-el-mandeb-strait-effectively-closed-by",
+        "detected_yes_price": 0.049,
+        "detected_no_price": 0.955,
+        "detected_at": 1780320004590,
+        "highest_price_change": 4.061224489795919,
+        "highest_yes_price": 0.248,
+        "highest_no_price": 0.96,
+        "first_moved_at": 1780320004625,
+        "moved_side": "yes",
+        "peaked_at": 1780320699807
+      },
+      "_scraped_at": "2026-06-02T00:07:51.399160+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 2,
+      "feed_item": {
+        "id": "1d9dc64b-b414-4150-8968-761e81b43df5",
+        "timestamp": 1780319153585,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "1d9dc64b-b414-4150-8968-761e81b43df5",
+          "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf1\ud83c\udde7\ud83c\uddf1\ud83c\udde7 \u2014 The IDF says it has withdrawn the 146th Division from southern Lebanon after three months of operations against Hezbollah.\n\n\u27a1\ufe0f At the peak of the campaign, five IDF divisions were operating in southern Lebanon, and now only the 91st and 36th divisions remain deployed there.",
+          "channel": "Rerum Novarum // Intel, Breaking News, and Alerts \ud83c\uddfa\ud83c\uddf8",
+          "timestamp": 1780319153585,
+          "link": "https://t.me/rnintel"
+        },
+        "osint": false,
+        "country": "LB",
+        "countries": [
+          "LB",
+          "IL"
+        ],
+        "related_markets": [
+          {
+            "id": "2364342",
+            "slug": "israel-announces-lebanon-ceasefire-extension-by",
+            "condition_id": "0x42973552f8bcfc9269fba8492766f2c20a22243cbba154cf695acaff88ec96c7",
+            "title": "June 7",
+            "question": "Israel announces Lebanon ceasefire extension by June 7?",
+            "description": "This market will resolve to \u201cYes\u201d if Israel officially announces another extension of the ceasefire agreement between Israel and Hezbollah announced on April 16, 2026, defined as a publicly announced commitment to halt direct military engagement with Hezbollah, by the specified date, 11:59 PM Israel Daylight Time. Otherwise, this market will resolve to \"No\".\n\nBoth announcements of extensions of the April 16 ceasefire, as extended on April 23 and May 15, 2026, and of new agreements will qualify.\n\nIf a qualifying announcement is officially made before the resolution date, this market will resolve to \u201cYes,\u201d regardless of whether the ceasefire extension ultimately takes effect.\n\nA qualifying announcement requires clear public confirmation from the Israeli government that Israel has extended its commitment to the ceasefire beyond its current scheduled end.\n\nAny form of informal understanding, backchannel communication, de-escalation, or unilateral pause in hostilities without a confirmed Israeli announcement of a qualifying extension will not qualify. Similarly, newly agreed-upon humanitarian pauses, limited operational pauses, or temporary tactical stand-downs will not qualify.\n\nA newly agreed-upon broader peace deal will qualify if it includes Israel's agreement to a ceasefire extension. Agreements that outline future negotiations or de-escalation measures, but do not explicitly extend the ceasefire, will not qualify.\n\nThis market\u2019s resolution will be based on official statements from the Israeli government and will not require confirmation from Hezbollah. However, an overwhelming consensus of credible media reporting that a ceasefire extension agreement has been reached will suffice.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-hezbollah-ceasefire-extended-by-2-En32lSfFPU.jpg",
+            "yes_token_id": "55729187700220621940979114092031096586154133673216433038757883725632922111626",
+            "yes_probability": 0.24,
+            "yes_best_bid": 0.22,
+            "yes_best_ask": 0.24,
+            "yes_spread": 0.01999999999999999,
+            "no_token_id": "2049615116809785498037116915229927575556307359227515820401917172384861321364",
+            "no_probability": 0.78,
+            "no_best_bid": 0.76,
+            "no_best_ask": 0.78,
+            "no_spread": 0.020000000000000018,
+            "volume": 129405.65196988,
+            "liquidity": 170997.19999999995,
+            "neg_risk": false,
+            "end_date": "2026-06-07T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Direct link between IDF withdrawal and potential ceasefire extension (1 hop).",
+            "event_id": "527930",
+            "event_title": "Israel announces Lebanon ceasefire extension by...?",
+            "event_slug": "israel-announces-lebanon-ceasefire-extension-by",
+            "detected_yes_price": 0.18,
+            "detected_no_price": 0.84,
+            "detected_at": 1780319180334,
+            "highest_price_change": 2.611111111111111,
+            "highest_yes_price": 0.65,
+            "highest_no_price": 0.87,
+            "first_moved_at": 1780319182455,
+            "moved_side": "yes",
+            "peaked_at": 1780335039160
+          },
+          {
+            "id": "2382767",
+            "slug": "israel-announces-lebanon-ceasefire-extension-by",
+            "condition_id": "0xb735a1a4f3e5fa31332c969647ee2828e4afb81bd70a2a16c82c3bc2b2084e59",
+            "title": "June 30",
+            "question": "Israel announces Lebanon ceasefire extension by June 30?",
+            "description": "This market will resolve to \u201cYes\u201d if Israel officially announces another extension of the ceasefire agreement between Israel and Hezbollah announced on April 16, 2026, defined as a publicly announced commitment to halt direct military engagement with Hezbollah, by the specified date, 11:59 PM Israel Daylight Time. Otherwise, this market will resolve to \"No\".\n\nBoth announcements of extensions of the April 16 ceasefire, as extended on April 23 and May 15, 2026, and of new agreements will qualify.\n\nIf a qualifying announcement is officially made before the resolution date, this market will resolve to \u201cYes,\u201d regardless of whether the ceasefire extension ultimately takes effect.\n\nA qualifying announcement requires clear public confirmation from the Israeli government that Israel has extended its commitment to the ceasefire beyond its current scheduled end.\n\nAny form of informal understanding, backchannel communication, de-escalation, or unilateral pause in hostilities without a confirmed Israeli announcement of a qualifying extension will not qualify. Similarly, newly agreed-upon humanitarian pauses, limited operational pauses, or temporary tactical stand-downs will not qualify.\n\nA newly agreed-upon broader peace deal will qualify if it includes Israel's agreement to a ceasefire extension. Agreements that outline future negotiations or de-escalation measures, but do not explicitly extend the ceasefire, will not qualify.\n\nThis market\u2019s resolution will be based on official statements from the Israeli government and will not require confirmation from Hezbollah. However, an overwhelming consensus of credible media reporting that a ceasefire extension agreement has been reached will suffice.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-hezbollah-ceasefire-extended-by-2-En32lSfFPU.jpg",
+            "yes_token_id": "28968064572962054334292808754158225441738591218326903559182623034490028107706",
+            "yes_probability": 0.6,
+            "yes_best_bid": 0.58,
+            "yes_best_ask": 0.6,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "86422092822641888683693316705083467314215630795006734788473911826565464779702",
+            "no_probability": 0.42,
+            "no_best_bid": 0.4,
+            "no_best_ask": 0.42,
+            "no_spread": 0.019999999999999962,
+            "volume": 22628.280142779953,
+            "liquidity": 488590.9000000001,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "IDF withdrawal directly relates to potential ceasefire extension (1 hop).",
+            "event_id": "527930",
+            "event_title": "Israel announces Lebanon ceasefire extension by...?",
+            "event_slug": "israel-announces-lebanon-ceasefire-extension-by",
+            "detected_yes_price": 0.54,
+            "detected_no_price": 0.48,
+            "detected_at": 1780319180334,
+            "highest_price_change": 0.4259259259259259,
+            "highest_yes_price": 0.77,
+            "highest_no_price": 0.55,
+            "first_moved_at": 1780319657028,
+            "moved_side": "yes",
+            "peaked_at": 1780335173868
+          }
+        ],
+        "topics": [
+          "ai-tech"
+        ],
+        "categories": [
+          "elections",
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "2364342",
+        "slug": "israel-announces-lebanon-ceasefire-extension-by",
+        "condition_id": "0x42973552f8bcfc9269fba8492766f2c20a22243cbba154cf695acaff88ec96c7",
+        "title": "June 7",
+        "question": "Israel announces Lebanon ceasefire extension by June 7?",
+        "description": "This market will resolve to \u201cYes\u201d if Israel officially announces another extension of the ceasefire agreement between Israel and Hezbollah announced on April 16, 2026, defined as a publicly announced commitment to halt direct military engagement with Hezbollah, by the specified date, 11:59 PM Israel Daylight Time. Otherwise, this market will resolve to \"No\".\n\nBoth announcements of extensions of the April 16 ceasefire, as extended on April 23 and May 15, 2026, and of new agreements will qualify.\n\nIf a qualifying announcement is officially made before the resolution date, this market will resolve to \u201cYes,\u201d regardless of whether the ceasefire extension ultimately takes effect.\n\nA qualifying announcement requires clear public confirmation from the Israeli government that Israel has extended its commitment to the ceasefire beyond its current scheduled end.\n\nAny form of informal understanding, backchannel communication, de-escalation, or unilateral pause in hostilities without a confirmed Israeli announcement of a qualifying extension will not qualify. Similarly, newly agreed-upon humanitarian pauses, limited operational pauses, or temporary tactical stand-downs will not qualify.\n\nA newly agreed-upon broader peace deal will qualify if it includes Israel's agreement to a ceasefire extension. Agreements that outline future negotiations or de-escalation measures, but do not explicitly extend the ceasefire, will not qualify.\n\nThis market\u2019s resolution will be based on official statements from the Israeli government and will not require confirmation from Hezbollah. However, an overwhelming consensus of credible media reporting that a ceasefire extension agreement has been reached will suffice.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-hezbollah-ceasefire-extended-by-2-En32lSfFPU.jpg",
+        "yes_token_id": "55729187700220621940979114092031096586154133673216433038757883725632922111626",
+        "yes_probability": 0.24,
+        "yes_best_bid": 0.22,
+        "yes_best_ask": 0.24,
+        "yes_spread": 0.01999999999999999,
+        "no_token_id": "2049615116809785498037116915229927575556307359227515820401917172384861321364",
+        "no_probability": 0.78,
+        "no_best_bid": 0.76,
+        "no_best_ask": 0.78,
+        "no_spread": 0.020000000000000018,
+        "volume": 129405.65196988,
+        "liquidity": 170997.19999999995,
+        "neg_risk": false,
+        "end_date": "2026-06-07T00:00:00Z",
+        "categories": [
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Direct link between IDF withdrawal and potential ceasefire extension (1 hop).",
+        "event_id": "527930",
+        "event_title": "Israel announces Lebanon ceasefire extension by...?",
+        "event_slug": "israel-announces-lebanon-ceasefire-extension-by",
+        "detected_yes_price": 0.18,
+        "detected_no_price": 0.84,
+        "detected_at": 1780319180334,
+        "highest_price_change": 2.611111111111111,
+        "highest_yes_price": 0.65,
+        "highest_no_price": 0.87,
+        "first_moved_at": 1780319182455,
+        "moved_side": "yes",
+        "peaked_at": 1780335039160
+      },
+      "_scraped_at": "2026-06-02T00:07:51.399160+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 3,
+      "feed_item": {
+        "id": "75433530-1a21-42ef-985f-3a2c0f11f1fa",
+        "timestamp": 1780335233275,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "75433530-1a21-42ef-985f-3a2c0f11f1fa",
+          "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1\u26a1- Israeli Channel 11 says Israel postponed the Beirut attacks after US intervention, with Washington trying to prevent the collapse of the Israeli-Lebanese talks for tomorrow.\n\nThe US is also preparing to sanction Lebanese Parliament Speaker Nabih Berri as part of efforts to pressure Hezbollah.",
+          "channel": "Rerum Novarum // Intel, Breaking News, and Alerts \ud83c\uddfa\ud83c\uddf8",
+          "timestamp": 1780335233275,
+          "link": "https://t.me/rnintel"
+        },
+        "osint": false,
+        "country": "US",
+        "countries": [
+          "US",
+          "LB",
+          "IL"
+        ],
+        "related_markets": [
+          {
+            "id": "2382759",
+            "slug": "israel-x-hezbollah-diplomatic-meeting-by",
+            "condition_id": "0xf69532e65491a92b693f330befbcd2e1e8650c9bed42c22bfd3e04ec4e658559",
+            "title": "June 30",
+            "question": "Israel x Hezbollah diplomatic meeting by June 30, 2026?",
+            "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Israel and Hezbollah by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of Israel and Hezbollah who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Israel-Hezbollah relations on behalf of their governments/leadership structures. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the government of Israel and Hezbollah leadership, and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-hezbollah-diplomatic-meeting-by-6yLTk0jBsk4x.jpg",
+            "yes_token_id": "6728329061374980381506476380134102773306203215643916746170065429091159392593",
+            "yes_probability": 0.087,
+            "yes_best_bid": 0.065,
+            "yes_best_ask": 0.087,
+            "yes_spread": 0.021999999999999992,
+            "no_token_id": "71241688885601287265592905183184791062726273224278761498311774976382767718340",
+            "no_probability": 0.935,
+            "no_best_bid": 0.913,
+            "no_best_ask": 0.935,
+            "no_spread": 0.02200000000000002,
+            "volume": 2143.6083397410002,
+            "liquidity": 257180.81,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "US intervention to prevent collapse of talks = 1 hop to diplomatic meeting.",
+            "event_id": "386884",
+            "event_title": "Israel x Hezbollah diplomatic meeting by...?",
+            "event_slug": "israel-x-hezbollah-diplomatic-meeting-by",
+            "detected_yes_price": 0.068,
+            "detected_no_price": 0.943,
+            "detected_at": 1780335262437,
+            "highest_price_change": 0.32352941176470573,
+            "highest_yes_price": 0.09,
+            "highest_no_price": 0.979,
+            "first_moved_at": 1780335741506,
+            "moved_side": "yes",
+            "peaked_at": 1780342004442
+          },
+          {
+            "id": "2354011",
+            "slug": "israel-x-hezbollah-permanent-peace-deal-by",
+            "condition_id": "0x053d22e12bfe8dd73b12fc1cf89858ecc0de76aede10fea3eca5c7877d8db40c",
+            "title": "June 15",
+            "question": "Israel x Hezbollah permanent peace deal by June 15, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if Israel and Hezbollah agree to a permanent peace deal by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA permanent peace deal refers to any agreement which explicitly indicates that military hostilities between Israel and Hezbollah have ended or will permanently cease, or uses equivalent language clearly signaling a lasting end to military hostilities between Israel and Hezbollah. Agreements that are explicitly temporary or which do not include a definitive agreement to end military hostilities between Israel and Hezbollah on a lasting basis (e.g. a temporary extension of the 10-day ceasefire agreement announced on April 16, 2026), will not qualify.\n\nA qualifying agreement will be considered to have been established if either of the following conditions are met:\n\n- Israel and Hezbollah each sign or formally adopt a written agreement (e.g. a treaty or multi-point agreement) which meets the above criteria.\n\n- Both Israel and Hezbollah provide clear public confirmation that a qualifying agreement has been definitively established. Negotiations, statements of progress, or other statements which do not constitute a definitive announcement that a qualifying agreement has been reached will not count.\n\nThe inclusion of Israel and Hezbollah in a qualifying peace deal between multiple parties will qualify.\n\nThe primary resolution source for this market will be official information from the government of Israel and Hezbollah; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-hezbollah-permanent-peace-deal-by-lKSpOYikSsyN.jpg",
+            "yes_token_id": "63073763662086612636405249367296500960550581639549005912496048924744046136400",
+            "yes_probability": 0.09,
+            "yes_best_bid": 0.08,
+            "yes_best_ask": 0.09,
+            "yes_spread": 0.009999999999999995,
+            "no_token_id": "71644971566711936926997892102006099744330795022096955899392137437130082074610",
+            "no_probability": 0.92,
+            "no_best_bid": 0.91,
+            "no_best_ask": 0.92,
+            "no_spread": 0.010000000000000009,
+            "volume": 239104.55407290012,
+            "liquidity": 252705.94999999992,
+            "neg_risk": false,
+            "end_date": "2026-06-15T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "US intervention to prevent collapse of talks = 1 hop to peace deal.",
+            "event_id": "386759",
+            "event_title": "Israel x Hezbollah permanent peace deal by...?",
+            "event_slug": "israel-x-hezbollah-permanent-peace-deal-by",
+            "detected_yes_price": 0.09,
+            "detected_no_price": 0.92,
+            "detected_at": 1780335262437,
+            "highest_price_change": 1.2222222222222223,
+            "highest_yes_price": 0.2,
+            "highest_no_price": 0.92,
+            "first_moved_at": 1780335262684,
+            "moved_side": "yes",
+            "peaked_at": 1780335710243
+          },
+          {
+            "id": "2354012",
+            "slug": "israel-x-hezbollah-permanent-peace-deal-by",
+            "condition_id": "0x86f43746cbd692719483aaeedc657eef89d9ffb91d6ffceacb1edf533e049516",
+            "title": "June 30",
+            "question": "Israel x Hezbollah permanent peace deal by June 30, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if Israel and Hezbollah agree to a permanent peace deal by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA permanent peace deal refers to any agreement which explicitly indicates that military hostilities between Israel and Hezbollah have ended or will permanently cease, or uses equivalent language clearly signaling a lasting end to military hostilities between Israel and Hezbollah. Agreements that are explicitly temporary or which do not include a definitive agreement to end military hostilities between Israel and Hezbollah on a lasting basis (e.g. a temporary extension of the 10-day ceasefire agreement announced on April 16, 2026), will not qualify.\n\nA qualifying agreement will be considered to have been established if either of the following conditions are met:\n\n- Israel and Hezbollah each sign or formally adopt a written agreement (e.g. a treaty or multi-point agreement) which meets the above criteria.\n\n- Both Israel and Hezbollah provide clear public confirmation that a qualifying agreement has been definitively established. Negotiations, statements of progress, or other statements which do not constitute a definitive announcement that a qualifying agreement has been reached will not count.\n\nThe inclusion of Israel and Hezbollah in a qualifying peace deal between multiple parties will qualify.\n\nThe primary resolution source for this market will be official information from the government of Israel and Hezbollah; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-hezbollah-permanent-peace-deal-by-lKSpOYikSsyN.jpg",
+            "yes_token_id": "104510220350712683638324057138337438666546691080996862248324351110206545999142",
+            "yes_probability": 0.17,
+            "yes_best_bid": 0.16,
+            "yes_best_ask": 0.17,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "101731075782883593599322095713849738799082926264175032319719261541409999735158",
+            "no_probability": 0.84,
+            "no_best_bid": 0.83,
+            "no_best_ask": 0.84,
+            "no_spread": 0.010000000000000009,
+            "volume": 107414.45232534,
+            "liquidity": 221944.06,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "US intervention to prevent collapse of talks = 1 hop to peace deal.",
+            "event_id": "386759",
+            "event_title": "Israel x Hezbollah permanent peace deal by...?",
+            "event_slug": "israel-x-hezbollah-permanent-peace-deal-by",
+            "detected_yes_price": 0.16,
+            "detected_no_price": 0.85,
+            "detected_at": 1780335262437,
+            "highest_price_change": 0.5625,
+            "highest_yes_price": 0.25,
+            "highest_no_price": 0.85,
+            "first_moved_at": 1780335262720,
+            "moved_side": "yes",
+            "peaked_at": 1780335262720
+          },
+          {
+            "id": "2364342",
+            "slug": "israel-announces-lebanon-ceasefire-extension-by",
+            "condition_id": "0x42973552f8bcfc9269fba8492766f2c20a22243cbba154cf695acaff88ec96c7",
+            "title": "June 7",
+            "question": "Israel announces Lebanon ceasefire extension by June 7?",
+            "description": "This market will resolve to \u201cYes\u201d if Israel officially announces another extension of the ceasefire agreement between Israel and Hezbollah announced on April 16, 2026, defined as a publicly announced commitment to halt direct military engagement with Hezbollah, by the specified date, 11:59 PM Israel Daylight Time. Otherwise, this market will resolve to \"No\".\n\nBoth announcements of extensions of the April 16 ceasefire, as extended on April 23 and May 15, 2026, and of new agreements will qualify.\n\nIf a qualifying announcement is officially made before the resolution date, this market will resolve to \u201cYes,\u201d regardless of whether the ceasefire extension ultimately takes effect.\n\nA qualifying announcement requires clear public confirmation from the Israeli government that Israel has extended its commitment to the ceasefire beyond its current scheduled end.\n\nAny form of informal understanding, backchannel communication, de-escalation, or unilateral pause in hostilities without a confirmed Israeli announcement of a qualifying extension will not qualify. Similarly, newly agreed-upon humanitarian pauses, limited operational pauses, or temporary tactical stand-downs will not qualify.\n\nA newly agreed-upon broader peace deal will qualify if it includes Israel's agreement to a ceasefire extension. Agreements that outline future negotiations or de-escalation measures, but do not explicitly extend the ceasefire, will not qualify.\n\nThis market\u2019s resolution will be based on official statements from the Israeli government and will not require confirmation from Hezbollah. However, an overwhelming consensus of credible media reporting that a ceasefire extension agreement has been reached will suffice.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-hezbollah-ceasefire-extended-by-2-En32lSfFPU.jpg",
+            "yes_token_id": "55729187700220621940979114092031096586154133673216433038757883725632922111626",
+            "yes_probability": 0.24,
+            "yes_best_bid": 0.22,
+            "yes_best_ask": 0.24,
+            "yes_spread": 0.01999999999999999,
+            "no_token_id": "2049615116809785498037116915229927575556307359227515820401917172384861321364",
+            "no_probability": 0.78,
+            "no_best_bid": 0.76,
+            "no_best_ask": 0.78,
+            "no_spread": 0.020000000000000018,
+            "volume": 129405.65196988,
+            "liquidity": 170997.19999999995,
+            "neg_risk": false,
+            "end_date": "2026-06-07T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "US intervention to prevent collapse of talks = 1 hop to ceasefire extension.",
+            "event_id": "527930",
+            "event_title": "Israel announces Lebanon ceasefire extension by...?",
+            "event_slug": "israel-announces-lebanon-ceasefire-extension-by",
+            "detected_yes_price": 0.3,
+            "detected_no_price": 0.72,
+            "detected_at": 1780335262437,
+            "highest_price_change": 1.1,
+            "highest_yes_price": 0.63,
+            "highest_no_price": 0.84,
+            "first_moved_at": 1780335266752,
+            "moved_side": "yes",
+            "peaked_at": 1780335795689
+          },
+          {
+            "id": "2382767",
+            "slug": "israel-announces-lebanon-ceasefire-extension-by",
+            "condition_id": "0xb735a1a4f3e5fa31332c969647ee2828e4afb81bd70a2a16c82c3bc2b2084e59",
+            "title": "June 30",
+            "question": "Israel announces Lebanon ceasefire extension by June 30?",
+            "description": "This market will resolve to \u201cYes\u201d if Israel officially announces another extension of the ceasefire agreement between Israel and Hezbollah announced on April 16, 2026, defined as a publicly announced commitment to halt direct military engagement with Hezbollah, by the specified date, 11:59 PM Israel Daylight Time. Otherwise, this market will resolve to \"No\".\n\nBoth announcements of extensions of the April 16 ceasefire, as extended on April 23 and May 15, 2026, and of new agreements will qualify.\n\nIf a qualifying announcement is officially made before the resolution date, this market will resolve to \u201cYes,\u201d regardless of whether the ceasefire extension ultimately takes effect.\n\nA qualifying announcement requires clear public confirmation from the Israeli government that Israel has extended its commitment to the ceasefire beyond its current scheduled end.\n\nAny form of informal understanding, backchannel communication, de-escalation, or unilateral pause in hostilities without a confirmed Israeli announcement of a qualifying extension will not qualify. Similarly, newly agreed-upon humanitarian pauses, limited operational pauses, or temporary tactical stand-downs will not qualify.\n\nA newly agreed-upon broader peace deal will qualify if it includes Israel's agreement to a ceasefire extension. Agreements that outline future negotiations or de-escalation measures, but do not explicitly extend the ceasefire, will not qualify.\n\nThis market\u2019s resolution will be based on official statements from the Israeli government and will not require confirmation from Hezbollah. However, an overwhelming consensus of credible media reporting that a ceasefire extension agreement has been reached will suffice.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-hezbollah-ceasefire-extended-by-2-En32lSfFPU.jpg",
+            "yes_token_id": "28968064572962054334292808754158225441738591218326903559182623034490028107706",
+            "yes_probability": 0.6,
+            "yes_best_bid": 0.58,
+            "yes_best_ask": 0.6,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "86422092822641888683693316705083467314215630795006734788473911826565464779702",
+            "no_probability": 0.42,
+            "no_best_bid": 0.4,
+            "no_best_ask": 0.42,
+            "no_spread": 0.019999999999999962,
+            "volume": 22628.280142779953,
+            "liquidity": 488590.9000000001,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "US intervention to prevent collapse of talks = 1 hop to ceasefire extension.",
+            "event_id": "527930",
+            "event_title": "Israel announces Lebanon ceasefire extension by...?",
+            "event_slug": "israel-announces-lebanon-ceasefire-extension-by",
+            "detected_yes_price": 0.59,
+            "detected_no_price": 0.42000000000000004,
+            "detected_at": 1780335262437,
+            "highest_price_change": 0.30508474576271194,
+            "highest_yes_price": 0.77,
+            "highest_no_price": 0.48,
+            "first_moved_at": 1780335264977,
+            "moved_side": "yes",
+            "peaked_at": 1780341418783
+          }
+        ],
+        "topics": null,
+        "categories": [
+          "climate"
+        ]
+      },
+      "related_market": {
+        "id": "2354011",
+        "slug": "israel-x-hezbollah-permanent-peace-deal-by",
+        "condition_id": "0x053d22e12bfe8dd73b12fc1cf89858ecc0de76aede10fea3eca5c7877d8db40c",
+        "title": "June 15",
+        "question": "Israel x Hezbollah permanent peace deal by June 15, 2026?",
+        "description": "This market will resolve to \u201cYes\u201d if Israel and Hezbollah agree to a permanent peace deal by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA permanent peace deal refers to any agreement which explicitly indicates that military hostilities between Israel and Hezbollah have ended or will permanently cease, or uses equivalent language clearly signaling a lasting end to military hostilities between Israel and Hezbollah. Agreements that are explicitly temporary or which do not include a definitive agreement to end military hostilities between Israel and Hezbollah on a lasting basis (e.g. a temporary extension of the 10-day ceasefire agreement announced on April 16, 2026), will not qualify.\n\nA qualifying agreement will be considered to have been established if either of the following conditions are met:\n\n- Israel and Hezbollah each sign or formally adopt a written agreement (e.g. a treaty or multi-point agreement) which meets the above criteria.\n\n- Both Israel and Hezbollah provide clear public confirmation that a qualifying agreement has been definitively established. Negotiations, statements of progress, or other statements which do not constitute a definitive announcement that a qualifying agreement has been reached will not count.\n\nThe inclusion of Israel and Hezbollah in a qualifying peace deal between multiple parties will qualify.\n\nThe primary resolution source for this market will be official information from the government of Israel and Hezbollah; however, a consensus of credible reporting may also be used.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-hezbollah-permanent-peace-deal-by-lKSpOYikSsyN.jpg",
+        "yes_token_id": "63073763662086612636405249367296500960550581639549005912496048924744046136400",
+        "yes_probability": 0.09,
+        "yes_best_bid": 0.08,
+        "yes_best_ask": 0.09,
+        "yes_spread": 0.009999999999999995,
+        "no_token_id": "71644971566711936926997892102006099744330795022096955899392137437130082074610",
+        "no_probability": 0.92,
+        "no_best_bid": 0.91,
+        "no_best_ask": 0.92,
+        "no_spread": 0.010000000000000009,
+        "volume": 239104.55407290012,
+        "liquidity": 252705.94999999992,
+        "neg_risk": false,
+        "end_date": "2026-06-15T00:00:00Z",
+        "categories": [
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "US intervention to prevent collapse of talks = 1 hop to peace deal.",
+        "event_id": "386759",
+        "event_title": "Israel x Hezbollah permanent peace deal by...?",
+        "event_slug": "israel-x-hezbollah-permanent-peace-deal-by",
+        "detected_yes_price": 0.09,
+        "detected_no_price": 0.92,
+        "detected_at": 1780335262437,
+        "highest_price_change": 1.2222222222222223,
+        "highest_yes_price": 0.2,
+        "highest_no_price": 0.92,
+        "first_moved_at": 1780335262684,
+        "moved_side": "yes",
+        "peaked_at": 1780335710243
+      },
+      "_scraped_at": "2026-06-02T00:07:51.399160+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 4,
+      "feed_item": {
+        "id": "8557e3ba-b993-40dc-b50f-64b2a70ab596",
+        "timestamp": 1780309266950,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "8557e3ba-b993-40dc-b50f-64b2a70ab596",
+          "text": "\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1\u26a1\ufe0f- \"The fate of Dahieh in Beirut is the same as the northern settlements in Israel - if there is no quiet in the north, there will be no quiet in Beirut. We will not allow a reality of harm to our settlements and citizens while quiet is maintained in Beirut.\" - Israel Katz, Israeli Defence Minister.",
+          "channel": "Rerum Novarum // Intel, Breaking News, and Alerts \ud83c\uddfa\ud83c\uddf8",
+          "timestamp": 1780309266950,
+          "link": "https://t.me/rnintel"
+        },
+        "osint": false,
+        "country": "IL",
+        "countries": [
+          "IL",
+          "LB"
+        ],
+        "related_markets": [
+          {
+            "id": "2364342",
+            "slug": "israel-announces-lebanon-ceasefire-extension-by",
+            "condition_id": "0x42973552f8bcfc9269fba8492766f2c20a22243cbba154cf695acaff88ec96c7",
+            "title": "June 7",
+            "question": "Israel announces Lebanon ceasefire extension by June 7?",
+            "description": "This market will resolve to \u201cYes\u201d if Israel officially announces another extension of the ceasefire agreement between Israel and Hezbollah announced on April 16, 2026, defined as a publicly announced commitment to halt direct military engagement with Hezbollah, by the specified date, 11:59 PM Israel Daylight Time. Otherwise, this market will resolve to \"No\".\n\nBoth announcements of extensions of the April 16 ceasefire, as extended on April 23 and May 15, 2026, and of new agreements will qualify.\n\nIf a qualifying announcement is officially made before the resolution date, this market will resolve to \u201cYes,\u201d regardless of whether the ceasefire extension ultimately takes effect.\n\nA qualifying announcement requires clear public confirmation from the Israeli government that Israel has extended its commitment to the ceasefire beyond its current scheduled end.\n\nAny form of informal understanding, backchannel communication, de-escalation, or unilateral pause in hostilities without a confirmed Israeli announcement of a qualifying extension will not qualify. Similarly, newly agreed-upon humanitarian pauses, limited operational pauses, or temporary tactical stand-downs will not qualify.\n\nA newly agreed-upon broader peace deal will qualify if it includes Israel's agreement to a ceasefire extension. Agreements that outline future negotiations or de-escalation measures, but do not explicitly extend the ceasefire, will not qualify.\n\nThis market\u2019s resolution will be based on official statements from the Israeli government and will not require confirmation from Hezbollah. However, an overwhelming consensus of credible media reporting that a ceasefire extension agreement has been reached will suffice.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-hezbollah-ceasefire-extended-by-2-En32lSfFPU.jpg",
+            "yes_token_id": "55729187700220621940979114092031096586154133673216433038757883725632922111626",
+            "yes_probability": 0.24,
+            "yes_best_bid": 0.22,
+            "yes_best_ask": 0.24,
+            "yes_spread": 0.01999999999999999,
+            "no_token_id": "2049615116809785498037116915229927575556307359227515820401917172384861321364",
+            "no_probability": 0.78,
+            "no_best_bid": 0.76,
+            "no_best_ask": 0.78,
+            "no_spread": 0.020000000000000018,
+            "volume": 129405.65196988,
+            "liquidity": 170997.19999999995,
+            "neg_risk": false,
+            "end_date": "2026-06-07T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Official statement from Israeli Defense Minister directly relates to ceasefire.",
+            "event_id": "527930",
+            "event_title": "Israel announces Lebanon ceasefire extension by...?",
+            "event_slug": "israel-announces-lebanon-ceasefire-extension-by",
+            "detected_yes_price": 0.14,
+            "detected_no_price": 0.88,
+            "detected_at": 1780309298877,
+            "highest_price_change": 3.642857142857143,
+            "highest_yes_price": 0.65,
+            "highest_no_price": 0.88,
+            "first_moved_at": 1780317899329,
+            "moved_side": "yes",
+            "peaked_at": 1780335039160
+          },
+          {
+            "id": "2382767",
+            "slug": "israel-announces-lebanon-ceasefire-extension-by",
+            "condition_id": "0xb735a1a4f3e5fa31332c969647ee2828e4afb81bd70a2a16c82c3bc2b2084e59",
+            "title": "June 30",
+            "question": "Israel announces Lebanon ceasefire extension by June 30?",
+            "description": "This market will resolve to \u201cYes\u201d if Israel officially announces another extension of the ceasefire agreement between Israel and Hezbollah announced on April 16, 2026, defined as a publicly announced commitment to halt direct military engagement with Hezbollah, by the specified date, 11:59 PM Israel Daylight Time. Otherwise, this market will resolve to \"No\".\n\nBoth announcements of extensions of the April 16 ceasefire, as extended on April 23 and May 15, 2026, and of new agreements will qualify.\n\nIf a qualifying announcement is officially made before the resolution date, this market will resolve to \u201cYes,\u201d regardless of whether the ceasefire extension ultimately takes effect.\n\nA qualifying announcement requires clear public confirmation from the Israeli government that Israel has extended its commitment to the ceasefire beyond its current scheduled end.\n\nAny form of informal understanding, backchannel communication, de-escalation, or unilateral pause in hostilities without a confirmed Israeli announcement of a qualifying extension will not qualify. Similarly, newly agreed-upon humanitarian pauses, limited operational pauses, or temporary tactical stand-downs will not qualify.\n\nA newly agreed-upon broader peace deal will qualify if it includes Israel's agreement to a ceasefire extension. Agreements that outline future negotiations or de-escalation measures, but do not explicitly extend the ceasefire, will not qualify.\n\nThis market\u2019s resolution will be based on official statements from the Israeli government and will not require confirmation from Hezbollah. However, an overwhelming consensus of credible media reporting that a ceasefire extension agreement has been reached will suffice.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-hezbollah-ceasefire-extended-by-2-En32lSfFPU.jpg",
+            "yes_token_id": "28968064572962054334292808754158225441738591218326903559182623034490028107706",
+            "yes_probability": 0.6,
+            "yes_best_bid": 0.58,
+            "yes_best_ask": 0.6,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "86422092822641888683693316705083467314215630795006734788473911826565464779702",
+            "no_probability": 0.42,
+            "no_best_bid": 0.4,
+            "no_best_ask": 0.42,
+            "no_spread": 0.019999999999999962,
+            "volume": 22628.280142779953,
+            "liquidity": 488590.9000000001,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Official statement from Israeli Defense Minister directly relates to ceasefire.",
+            "event_id": "527930",
+            "event_title": "Israel announces Lebanon ceasefire extension by...?",
+            "event_slug": "israel-announces-lebanon-ceasefire-extension-by",
+            "detected_yes_price": 0.47,
+            "detected_no_price": 0.56,
+            "detected_at": 1780309298877,
+            "highest_price_change": 0.6382978723404257,
+            "highest_yes_price": 0.77,
+            "highest_no_price": 0.57,
+            "first_moved_at": 1780310177307,
+            "moved_side": "yes",
+            "peaked_at": 1780335173868
+          }
+        ],
+        "topics": [
+          "ai-tech"
+        ],
+        "categories": [
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "2382767",
+        "slug": "israel-announces-lebanon-ceasefire-extension-by",
+        "condition_id": "0xb735a1a4f3e5fa31332c969647ee2828e4afb81bd70a2a16c82c3bc2b2084e59",
+        "title": "June 30",
+        "question": "Israel announces Lebanon ceasefire extension by June 30?",
+        "description": "This market will resolve to \u201cYes\u201d if Israel officially announces another extension of the ceasefire agreement between Israel and Hezbollah announced on April 16, 2026, defined as a publicly announced commitment to halt direct military engagement with Hezbollah, by the specified date, 11:59 PM Israel Daylight Time. Otherwise, this market will resolve to \"No\".\n\nBoth announcements of extensions of the April 16 ceasefire, as extended on April 23 and May 15, 2026, and of new agreements will qualify.\n\nIf a qualifying announcement is officially made before the resolution date, this market will resolve to \u201cYes,\u201d regardless of whether the ceasefire extension ultimately takes effect.\n\nA qualifying announcement requires clear public confirmation from the Israeli government that Israel has extended its commitment to the ceasefire beyond its current scheduled end.\n\nAny form of informal understanding, backchannel communication, de-escalation, or unilateral pause in hostilities without a confirmed Israeli announcement of a qualifying extension will not qualify. Similarly, newly agreed-upon humanitarian pauses, limited operational pauses, or temporary tactical stand-downs will not qualify.\n\nA newly agreed-upon broader peace deal will qualify if it includes Israel's agreement to a ceasefire extension. Agreements that outline future negotiations or de-escalation measures, but do not explicitly extend the ceasefire, will not qualify.\n\nThis market\u2019s resolution will be based on official statements from the Israeli government and will not require confirmation from Hezbollah. However, an overwhelming consensus of credible media reporting that a ceasefire extension agreement has been reached will suffice.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-hezbollah-ceasefire-extended-by-2-En32lSfFPU.jpg",
+        "yes_token_id": "28968064572962054334292808754158225441738591218326903559182623034490028107706",
+        "yes_probability": 0.6,
+        "yes_best_bid": 0.58,
+        "yes_best_ask": 0.6,
+        "yes_spread": 0.020000000000000018,
+        "no_token_id": "86422092822641888683693316705083467314215630795006734788473911826565464779702",
+        "no_probability": 0.42,
+        "no_best_bid": 0.4,
+        "no_best_ask": 0.42,
+        "no_spread": 0.019999999999999962,
+        "volume": 22628.280142779953,
+        "liquidity": 488590.9000000001,
+        "neg_risk": false,
+        "end_date": "2026-06-30T00:00:00Z",
+        "categories": [
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Official statement from Israeli Defense Minister directly relates to ceasefire.",
+        "event_id": "527930",
+        "event_title": "Israel announces Lebanon ceasefire extension by...?",
+        "event_slug": "israel-announces-lebanon-ceasefire-extension-by",
+        "detected_yes_price": 0.47,
+        "detected_no_price": 0.56,
+        "detected_at": 1780309298877,
+        "highest_price_change": 0.6382978723404257,
+        "highest_yes_price": 0.77,
+        "highest_no_price": 0.57,
+        "first_moved_at": 1780310177307,
+        "moved_side": "yes",
+        "peaked_at": 1780335173868
+      },
+      "_scraped_at": "2026-06-02T00:07:51.399160+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 5,
+      "feed_item": {
+        "id": "c7d17e99-f037-482e-965e-e94e10f54f1f",
+        "timestamp": 1780333013311,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "c7d17e99-f037-482e-965e-e94e10f54f1f",
+          "text": "\ud83c\uddee\ud83c\uddf7 Iran issues stark warning to US: 'IRGC's patience has its limit'\n\n\ud83d\udcac \u201cThe Strait of Hormuz is under Iranian control,\u201d Mohsen Rezaee, military adviser to Iran\u2019s supreme leader, declared in an X post.\n\nIran has no intention to allow the US to continue its naval blockade of the strait, and also will not tolerate further \u201cescalation of tensions\u201d in Lebanon, he added.\n\nIran continues to insist that any peaceful settlement of the conflict in the Persian Gulf must include a cessation of hostilities in Lebanon where Israeli military is attempting to seize Lebanese territory south of the Litani river.\n\n\ud83e\udd25 On May 29, Donald Trump announced on Truth Social that the naval blockade of Iran \"will now be lifted\" - yet it remains firmly in place.\n\n\ud83d\udc4d Boost us | Chat | @geopolitics_prime",
+          "channel": "Geopolitics Prime",
+          "timestamp": 1780333013311,
+          "link": "https://t.me/geopolitics_prime"
+        },
+        "osint": false,
+        "country": "LB",
+        "countries": [
+          "LB",
+          "IR",
+          "IL",
+          "US"
+        ],
+        "related_markets": [
+          {
+            "id": "2354023",
+            "slug": "trump-announces-us-blockade-of-hormuz-lifted-by",
+            "condition_id": "0x65f5c4e3c6853a68fb50b59054dfe4c9e5ca5b705e04ed008185648334d1931d",
+            "title": "June 7",
+            "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by June 7, 2026?",
+            "description": "On April 12, 2026, President Donald Trump announced that the United States will blockade the Strait of Hormuz. You can read more about that here: https://www.nbcnews.com/world/iran/live-blog/live-updates-us-iran-fail-reach-deal-peace-talks-day-negotiations-rcna315918.\n\nThis market will resolve to \"Yes\" if President Trump, the US government, or the US military publicly and officially announces the end of the United States blockade of the Strait of Hormuz by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \"No.\"\n\nQualifying statements must clearly and explicitly indicate that the United States has lifted, ended, or will lift or end its blockade of the Strait of Hormuz on a specified date or use equivalently definitive language unambiguously signaling that such blockade has ceased or is set to cease on a specified date (e.g., statements unambiguously indicating that US naval activity in the relevant area has ceased will qualify). \n\nStatements that merely describe actions inconsistent with the blockade (e.g., \"Iran resumed shipping through the Strait of Hormuz\") without explicitly indicating the blockade as lifted will not alone suffice.\n\nInformal announcements, statements from unnamed sources, or leaks do not qualify.\n\nWritten public statements from Donald Trump (e.g., posts from his personal Truth Social account) will qualify. Videos posted on his social media accounts will also qualify for a \"Yes\" resolution.\n\nThe primary resolution source for this market will be official statements from the US government and/or its official representatives; however, a consensus of credible reporting may also be used.\n\nNote: this market will resolve solely based on whether a qualifying announcement is made within the specified timeframe. Whether the blockade is effectively enforced or whether maritime traffic resumes absent a qualifying announcement will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-announces-us-x-iran-ceasefire-broken-by-X3wf-2Pi8W96.jpg",
+            "yes_token_id": "18010395327078634837601574273876832718171840791905638954646274888529402961329",
+            "yes_probability": 0.12,
+            "yes_best_bid": 0.11,
+            "yes_best_ask": 0.12,
+            "yes_spread": 0.009999999999999995,
+            "no_token_id": "9252173331010216804619654783724479981576247973950774191099442521044619966211",
+            "no_probability": 0.89,
+            "no_best_bid": 0.88,
+            "no_best_ask": 0.89,
+            "no_spread": 0.010000000000000009,
+            "volume": 516202.1414755608,
+            "liquidity": 322271.76999999996,
+            "neg_risk": false,
+            "end_date": "2026-06-07T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Iran's statement about the blockade directly relates to Trump's potential announcement (1 hop).",
+            "event_id": "372242",
+            "event_title": "Trump announces US blockade of Hormuz lifted by...?",
+            "event_slug": "trump-announces-us-blockade-of-hormuz-lifted-by",
+            "detected_yes_price": 0.09,
+            "detected_no_price": 0.92,
+            "detected_at": 1780333028077,
+            "highest_price_change": 1,
+            "highest_yes_price": 0.18,
+            "highest_no_price": 0.92,
+            "first_moved_at": 1780333028188,
+            "moved_side": "yes",
+            "peaked_at": 1780336709543
+          },
+          {
+            "id": "2155023",
+            "slug": "trump-announces-us-blockade-of-hormuz-lifted-by",
+            "condition_id": "0x4d0c4865bdecc5f7971dbab47bb6c069d93909dec75bdff52fb766ae6094a6d6",
+            "title": "June 30",
+            "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by June 30, 2026?",
+            "description": "On April 12, 2026, President Donald Trump announced that the United States will blockade the Strait of Hormuz. You can read more about that here: https://www.nbcnews.com/world/iran/live-blog/live-updates-us-iran-fail-reach-deal-peace-talks-day-negotiations-rcna315918.\n\nThis market will resolve to \"Yes\" if President Trump, the US government, or the US military publicly and officially announces the end of the United States blockade of the Strait of Hormuz by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \"No.\"\n\nQualifying statements must clearly and explicitly indicate that the United States has lifted, ended, or will lift or end its blockade of the Strait of Hormuz on a specified date or use equivalently definitive language unambiguously signaling that such blockade has ceased or is set to cease on a specified date (e.g., statements unambiguously indicating that US naval activity in the relevant area has ceased will qualify). \n\nStatements that merely describe actions inconsistent with the blockade (e.g., \"Iran resumed shipping through the Strait of Hormuz\") without explicitly indicating the blockade as lifted will not alone suffice.\n\nInformal announcements, statements from unnamed sources, or leaks do not qualify.\n\nWritten public statements from Donald Trump (e.g., posts from his personal Truth Social account) will qualify. Videos posted on his social media accounts will also qualify for a \"Yes\" resolution.\n\nThe primary resolution source for this market will be official statements from the US government and/or its official representatives; however, a consensus of credible reporting may also be used.\n\nNote: this market will resolve solely based on whether a qualifying announcement is made within the specified timeframe. Whether the blockade is effectively enforced or whether maritime traffic resumes absent a qualifying announcement will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-announces-us-x-iran-ceasefire-broken-by-X3wf-2Pi8W96.jpg",
+            "yes_token_id": "3083404519678343650655471605176293351429031165021004407551950188691137583301",
+            "yes_probability": 0.6,
+            "yes_best_bid": 0.58,
+            "yes_best_ask": 0.6,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "91327963816071149848778866069116092720624787010415966850482851584645804352773",
+            "no_probability": 0.42,
+            "no_best_bid": 0.4,
+            "no_best_ask": 0.42,
+            "no_spread": 0.019999999999999962,
+            "volume": 1857055.824214874,
+            "liquidity": 1660528.33,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Iran's statement about the blockade directly relates to Trump's potential announcement (1 hop).",
+            "event_id": "372242",
+            "event_title": "Trump announces US blockade of Hormuz lifted by...?",
+            "event_slug": "trump-announces-us-blockade-of-hormuz-lifted-by",
+            "detected_yes_price": 0.48,
+            "detected_no_price": 0.54,
+            "detected_at": 1780333028077,
+            "highest_price_change": 0.2916666666666667,
+            "highest_yes_price": 0.62,
+            "highest_no_price": 0.54,
+            "first_moved_at": 1780333028087,
+            "moved_side": "yes",
+            "peaked_at": 1780358457278
+          },
+          {
+            "id": "2354024",
+            "slug": "trump-announces-us-blockade-of-hormuz-lifted-by",
+            "condition_id": "0x3094a2b925483a06aa72945a1472e311e5eb6be75284f61e0c008e279508ddf6",
+            "title": "June 15",
+            "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by June 15, 2026?",
+            "description": "On April 12, 2026, President Donald Trump announced that the United States will blockade the Strait of Hormuz. You can read more about that here: https://www.nbcnews.com/world/iran/live-blog/live-updates-us-iran-fail-reach-deal-peace-talks-day-negotiations-rcna315918.\n\nThis market will resolve to \"Yes\" if President Trump, the US government, or the US military publicly and officially announces the end of the United States blockade of the Strait of Hormuz by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \"No.\"\n\nQualifying statements must clearly and explicitly indicate that the United States has lifted, ended, or will lift or end its blockade of the Strait of Hormuz on a specified date or use equivalently definitive language unambiguously signaling that such blockade has ceased or is set to cease on a specified date (e.g., statements unambiguously indicating that US naval activity in the relevant area has ceased will qualify). \n\nStatements that merely describe actions inconsistent with the blockade (e.g., \"Iran resumed shipping through the Strait of Hormuz\") without explicitly indicating the blockade as lifted will not alone suffice.\n\nInformal announcements, statements from unnamed sources, or leaks do not qualify.\n\nWritten public statements from Donald Trump (e.g., posts from his personal Truth Social account) will qualify. Videos posted on his social media accounts will also qualify for a \"Yes\" resolution.\n\nThe primary resolution source for this market will be official statements from the US government and/or its official representatives; however, a consensus of credible reporting may also be used.\n\nNote: this market will resolve solely based on whether a qualifying announcement is made within the specified timeframe. Whether the blockade is effectively enforced or whether maritime traffic resumes absent a qualifying announcement will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-announces-us-x-iran-ceasefire-broken-by-X3wf-2Pi8W96.jpg",
+            "yes_token_id": "2573721445147198402794802928157427663327297748733430491619487131647218857169",
+            "yes_probability": 0.31,
+            "yes_best_bid": 0.29,
+            "yes_best_ask": 0.31,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "70659432139994542069434772104144657639869399273651484864261399963742293385083",
+            "no_probability": 0.71,
+            "no_best_bid": 0.69,
+            "no_best_ask": 0.71,
+            "no_spread": 0.020000000000000018,
+            "volume": 304486.33646789024,
+            "liquidity": 718065.8999999999,
+            "neg_risk": false,
+            "end_date": "2026-06-15T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Iran's statement about the blockade directly relates to Trump's potential announcement (1 hop).",
+            "event_id": "372242",
+            "event_title": "Trump announces US blockade of Hormuz lifted by...?",
+            "event_slug": "trump-announces-us-blockade-of-hormuz-lifted-by",
+            "detected_yes_price": 0.24,
+            "detected_no_price": 0.77,
+            "detected_at": 1780333028077,
+            "highest_price_change": 0.5,
+            "highest_yes_price": 0.36,
+            "highest_no_price": 0.77,
+            "first_moved_at": 1780333028080,
+            "moved_side": "yes",
+            "peaked_at": 1780337500282
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 9,
+            "price": 0
+          }
+        ],
+        "topics": [
+          "iran-regime",
+          "super-bowl",
+          "ai-tech"
+        ],
+        "categories": [
+          "geopolitics",
+          "tech",
+          "culture"
+        ]
+      },
+      "related_market": {
+        "id": "2354024",
+        "slug": "trump-announces-us-blockade-of-hormuz-lifted-by",
+        "condition_id": "0x3094a2b925483a06aa72945a1472e311e5eb6be75284f61e0c008e279508ddf6",
+        "title": "June 15",
+        "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by June 15, 2026?",
+        "description": "On April 12, 2026, President Donald Trump announced that the United States will blockade the Strait of Hormuz. You can read more about that here: https://www.nbcnews.com/world/iran/live-blog/live-updates-us-iran-fail-reach-deal-peace-talks-day-negotiations-rcna315918.\n\nThis market will resolve to \"Yes\" if President Trump, the US government, or the US military publicly and officially announces the end of the United States blockade of the Strait of Hormuz by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \"No.\"\n\nQualifying statements must clearly and explicitly indicate that the United States has lifted, ended, or will lift or end its blockade of the Strait of Hormuz on a specified date or use equivalently definitive language unambiguously signaling that such blockade has ceased or is set to cease on a specified date (e.g., statements unambiguously indicating that US naval activity in the relevant area has ceased will qualify). \n\nStatements that merely describe actions inconsistent with the blockade (e.g., \"Iran resumed shipping through the Strait of Hormuz\") without explicitly indicating the blockade as lifted will not alone suffice.\n\nInformal announcements, statements from unnamed sources, or leaks do not qualify.\n\nWritten public statements from Donald Trump (e.g., posts from his personal Truth Social account) will qualify. Videos posted on his social media accounts will also qualify for a \"Yes\" resolution.\n\nThe primary resolution source for this market will be official statements from the US government and/or its official representatives; however, a consensus of credible reporting may also be used.\n\nNote: this market will resolve solely based on whether a qualifying announcement is made within the specified timeframe. Whether the blockade is effectively enforced or whether maritime traffic resumes absent a qualifying announcement will not be considered.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-announces-us-x-iran-ceasefire-broken-by-X3wf-2Pi8W96.jpg",
+        "yes_token_id": "2573721445147198402794802928157427663327297748733430491619487131647218857169",
+        "yes_probability": 0.31,
+        "yes_best_bid": 0.29,
+        "yes_best_ask": 0.31,
+        "yes_spread": 0.020000000000000018,
+        "no_token_id": "70659432139994542069434772104144657639869399273651484864261399963742293385083",
+        "no_probability": 0.71,
+        "no_best_bid": 0.69,
+        "no_best_ask": 0.71,
+        "no_spread": 0.020000000000000018,
+        "volume": 304486.33646789024,
+        "liquidity": 718065.8999999999,
+        "neg_risk": false,
+        "end_date": "2026-06-15T00:00:00Z",
+        "categories": [
+          "geopolitics",
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Iran's statement about the blockade directly relates to Trump's potential announcement (1 hop).",
+        "event_id": "372242",
+        "event_title": "Trump announces US blockade of Hormuz lifted by...?",
+        "event_slug": "trump-announces-us-blockade-of-hormuz-lifted-by",
+        "detected_yes_price": 0.24,
+        "detected_no_price": 0.77,
+        "detected_at": 1780333028077,
+        "highest_price_change": 0.5,
+        "highest_yes_price": 0.36,
+        "highest_no_price": 0.77,
+        "first_moved_at": 1780333028080,
+        "moved_side": "yes",
+        "peaked_at": 1780337500282
+      },
+      "_scraped_at": "2026-06-02T00:07:51.399160+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 6,
+      "feed_item": {
+        "id": "2549730c-c06a-40cf-9784-c92c2b5896f2",
+        "timestamp": 1780334275741,
+        "tweet": null,
+        "news": {
+          "feed_item_id": "2549730c-c06a-40cf-9784-c92c2b5896f2",
+          "headline": "Iran Halts Talks With US and Threatens Full Hormuz Closure",
+          "description": "",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTT0umXz4tK0/v0/-1x-1.webp",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-01/iran-to-halt-message-exchanges-with-us-over-israel-tasnim-says",
+          "timestamp": 1780334275741,
+          "source": "bloomberg"
+        },
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "IR",
+        "countries": [
+          "IR"
+        ],
+        "related_markets": [
+          {
+            "id": "2155023",
+            "slug": "trump-announces-us-blockade-of-hormuz-lifted-by",
+            "condition_id": "0x4d0c4865bdecc5f7971dbab47bb6c069d93909dec75bdff52fb766ae6094a6d6",
+            "title": "June 30",
+            "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by June 30, 2026?",
+            "description": "On April 12, 2026, President Donald Trump announced that the United States will blockade the Strait of Hormuz. You can read more about that here: https://www.nbcnews.com/world/iran/live-blog/live-updates-us-iran-fail-reach-deal-peace-talks-day-negotiations-rcna315918.\n\nThis market will resolve to \"Yes\" if President Trump, the US government, or the US military publicly and officially announces the end of the United States blockade of the Strait of Hormuz by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \"No.\"\n\nQualifying statements must clearly and explicitly indicate that the United States has lifted, ended, or will lift or end its blockade of the Strait of Hormuz on a specified date or use equivalently definitive language unambiguously signaling that such blockade has ceased or is set to cease on a specified date (e.g., statements unambiguously indicating that US naval activity in the relevant area has ceased will qualify). \n\nStatements that merely describe actions inconsistent with the blockade (e.g., \"Iran resumed shipping through the Strait of Hormuz\") without explicitly indicating the blockade as lifted will not alone suffice.\n\nInformal announcements, statements from unnamed sources, or leaks do not qualify.\n\nWritten public statements from Donald Trump (e.g., posts from his personal Truth Social account) will qualify. Videos posted on his social media accounts will also qualify for a \"Yes\" resolution.\n\nThe primary resolution source for this market will be official statements from the US government and/or its official representatives; however, a consensus of credible reporting may also be used.\n\nNote: this market will resolve solely based on whether a qualifying announcement is made within the specified timeframe. Whether the blockade is effectively enforced or whether maritime traffic resumes absent a qualifying announcement will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-announces-us-x-iran-ceasefire-broken-by-X3wf-2Pi8W96.jpg",
+            "yes_token_id": "3083404519678343650655471605176293351429031165021004407551950188691137583301",
+            "yes_probability": 0.6,
+            "yes_best_bid": 0.58,
+            "yes_best_ask": 0.6,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "91327963816071149848778866069116092720624787010415966850482851584645804352773",
+            "no_probability": 0.42,
+            "no_best_bid": 0.4,
+            "no_best_ask": 0.42,
+            "no_spread": 0.019999999999999962,
+            "volume": 1857055.824214874,
+            "liquidity": 1660528.33,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Iran halting talks and threatening closure indicates increased tensions, affecting blockade discussions.",
+            "event_id": "372242",
+            "event_title": "Trump announces US blockade of Hormuz lifted by...?",
+            "event_slug": "trump-announces-us-blockade-of-hormuz-lifted-by",
+            "detected_yes_price": 0.5,
+            "detected_no_price": 0.52,
+            "detected_at": 1780334294069,
+            "highest_price_change": 0.24,
+            "highest_yes_price": 0.62,
+            "highest_no_price": 0.52,
+            "first_moved_at": 1780334295128,
+            "moved_side": "yes",
+            "peaked_at": 1780358457278
+          },
+          {
+            "id": "2354024",
+            "slug": "trump-announces-us-blockade-of-hormuz-lifted-by",
+            "condition_id": "0x3094a2b925483a06aa72945a1472e311e5eb6be75284f61e0c008e279508ddf6",
+            "title": "June 15",
+            "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by June 15, 2026?",
+            "description": "On April 12, 2026, President Donald Trump announced that the United States will blockade the Strait of Hormuz. You can read more about that here: https://www.nbcnews.com/world/iran/live-blog/live-updates-us-iran-fail-reach-deal-peace-talks-day-negotiations-rcna315918.\n\nThis market will resolve to \"Yes\" if President Trump, the US government, or the US military publicly and officially announces the end of the United States blockade of the Strait of Hormuz by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \"No.\"\n\nQualifying statements must clearly and explicitly indicate that the United States has lifted, ended, or will lift or end its blockade of the Strait of Hormuz on a specified date or use equivalently definitive language unambiguously signaling that such blockade has ceased or is set to cease on a specified date (e.g., statements unambiguously indicating that US naval activity in the relevant area has ceased will qualify). \n\nStatements that merely describe actions inconsistent with the blockade (e.g., \"Iran resumed shipping through the Strait of Hormuz\") without explicitly indicating the blockade as lifted will not alone suffice.\n\nInformal announcements, statements from unnamed sources, or leaks do not qualify.\n\nWritten public statements from Donald Trump (e.g., posts from his personal Truth Social account) will qualify. Videos posted on his social media accounts will also qualify for a \"Yes\" resolution.\n\nThe primary resolution source for this market will be official statements from the US government and/or its official representatives; however, a consensus of credible reporting may also be used.\n\nNote: this market will resolve solely based on whether a qualifying announcement is made within the specified timeframe. Whether the blockade is effectively enforced or whether maritime traffic resumes absent a qualifying announcement will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-announces-us-x-iran-ceasefire-broken-by-X3wf-2Pi8W96.jpg",
+            "yes_token_id": "2573721445147198402794802928157427663327297748733430491619487131647218857169",
+            "yes_probability": 0.31,
+            "yes_best_bid": 0.29,
+            "yes_best_ask": 0.31,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "70659432139994542069434772104144657639869399273651484864261399963742293385083",
+            "no_probability": 0.71,
+            "no_best_bid": 0.69,
+            "no_best_ask": 0.71,
+            "no_spread": 0.020000000000000018,
+            "volume": 304486.33646789024,
+            "liquidity": 718065.8999999999,
+            "neg_risk": false,
+            "end_date": "2026-06-15T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Iran's threats and halted talks suggest heightened tensions, impacting blockade discussions.",
+            "event_id": "372242",
+            "event_title": "Trump announces US blockade of Hormuz lifted by...?",
+            "event_slug": "trump-announces-us-blockade-of-hormuz-lifted-by",
+            "detected_yes_price": 0.28,
+            "detected_no_price": 0.73,
+            "detected_at": 1780334294069,
+            "highest_price_change": 0.28571428571428553,
+            "highest_yes_price": 0.36,
+            "highest_no_price": 0.73,
+            "first_moved_at": 1780334294598,
+            "moved_side": "yes",
+            "peaked_at": 1780337500282
+          },
+          {
+            "id": "2354023",
+            "slug": "trump-announces-us-blockade-of-hormuz-lifted-by",
+            "condition_id": "0x65f5c4e3c6853a68fb50b59054dfe4c9e5ca5b705e04ed008185648334d1931d",
+            "title": "June 7",
+            "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by June 7, 2026?",
+            "description": "On April 12, 2026, President Donald Trump announced that the United States will blockade the Strait of Hormuz. You can read more about that here: https://www.nbcnews.com/world/iran/live-blog/live-updates-us-iran-fail-reach-deal-peace-talks-day-negotiations-rcna315918.\n\nThis market will resolve to \"Yes\" if President Trump, the US government, or the US military publicly and officially announces the end of the United States blockade of the Strait of Hormuz by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \"No.\"\n\nQualifying statements must clearly and explicitly indicate that the United States has lifted, ended, or will lift or end its blockade of the Strait of Hormuz on a specified date or use equivalently definitive language unambiguously signaling that such blockade has ceased or is set to cease on a specified date (e.g., statements unambiguously indicating that US naval activity in the relevant area has ceased will qualify). \n\nStatements that merely describe actions inconsistent with the blockade (e.g., \"Iran resumed shipping through the Strait of Hormuz\") without explicitly indicating the blockade as lifted will not alone suffice.\n\nInformal announcements, statements from unnamed sources, or leaks do not qualify.\n\nWritten public statements from Donald Trump (e.g., posts from his personal Truth Social account) will qualify. Videos posted on his social media accounts will also qualify for a \"Yes\" resolution.\n\nThe primary resolution source for this market will be official statements from the US government and/or its official representatives; however, a consensus of credible reporting may also be used.\n\nNote: this market will resolve solely based on whether a qualifying announcement is made within the specified timeframe. Whether the blockade is effectively enforced or whether maritime traffic resumes absent a qualifying announcement will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-announces-us-x-iran-ceasefire-broken-by-X3wf-2Pi8W96.jpg",
+            "yes_token_id": "18010395327078634837601574273876832718171840791905638954646274888529402961329",
+            "yes_probability": 0.12,
+            "yes_best_bid": 0.11,
+            "yes_best_ask": 0.12,
+            "yes_spread": 0.009999999999999995,
+            "no_token_id": "9252173331010216804619654783724479981576247973950774191099442521044619966211",
+            "no_probability": 0.89,
+            "no_best_bid": 0.88,
+            "no_best_ask": 0.89,
+            "no_spread": 0.010000000000000009,
+            "volume": 516202.1414755608,
+            "liquidity": 322271.76999999996,
+            "neg_risk": false,
+            "end_date": "2026-06-07T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Iran's decision to halt talks and threaten closure indicates increased tensions, affecting blockade discussions.",
+            "event_id": "372242",
+            "event_title": "Trump announces US blockade of Hormuz lifted by...?",
+            "event_slug": "trump-announces-us-blockade-of-hormuz-lifted-by",
+            "detected_yes_price": 0.1,
+            "detected_no_price": 0.91,
+            "detected_at": 1780334294069,
+            "highest_price_change": 0.7999999999999998,
+            "highest_yes_price": 0.18,
+            "highest_no_price": 0.91,
+            "first_moved_at": 1780334294548,
+            "moved_side": "yes",
+            "peaked_at": 1780336709543
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 10,
+            "price": 0
+          }
+        ],
+        "topics": [
+          "iran-regime"
+        ],
+        "categories": null
+      },
+      "related_market": {
+        "id": "2155023",
+        "slug": "trump-announces-us-blockade-of-hormuz-lifted-by",
+        "condition_id": "0x4d0c4865bdecc5f7971dbab47bb6c069d93909dec75bdff52fb766ae6094a6d6",
+        "title": "June 30",
+        "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by June 30, 2026?",
+        "description": "On April 12, 2026, President Donald Trump announced that the United States will blockade the Strait of Hormuz. You can read more about that here: https://www.nbcnews.com/world/iran/live-blog/live-updates-us-iran-fail-reach-deal-peace-talks-day-negotiations-rcna315918.\n\nThis market will resolve to \"Yes\" if President Trump, the US government, or the US military publicly and officially announces the end of the United States blockade of the Strait of Hormuz by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \"No.\"\n\nQualifying statements must clearly and explicitly indicate that the United States has lifted, ended, or will lift or end its blockade of the Strait of Hormuz on a specified date or use equivalently definitive language unambiguously signaling that such blockade has ceased or is set to cease on a specified date (e.g., statements unambiguously indicating that US naval activity in the relevant area has ceased will qualify). \n\nStatements that merely describe actions inconsistent with the blockade (e.g., \"Iran resumed shipping through the Strait of Hormuz\") without explicitly indicating the blockade as lifted will not alone suffice.\n\nInformal announcements, statements from unnamed sources, or leaks do not qualify.\n\nWritten public statements from Donald Trump (e.g., posts from his personal Truth Social account) will qualify. Videos posted on his social media accounts will also qualify for a \"Yes\" resolution.\n\nThe primary resolution source for this market will be official statements from the US government and/or its official representatives; however, a consensus of credible reporting may also be used.\n\nNote: this market will resolve solely based on whether a qualifying announcement is made within the specified timeframe. Whether the blockade is effectively enforced or whether maritime traffic resumes absent a qualifying announcement will not be considered.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-announces-us-x-iran-ceasefire-broken-by-X3wf-2Pi8W96.jpg",
+        "yes_token_id": "3083404519678343650655471605176293351429031165021004407551950188691137583301",
+        "yes_probability": 0.6,
+        "yes_best_bid": 0.58,
+        "yes_best_ask": 0.6,
+        "yes_spread": 0.020000000000000018,
+        "no_token_id": "91327963816071149848778866069116092720624787010415966850482851584645804352773",
+        "no_probability": 0.42,
+        "no_best_bid": 0.4,
+        "no_best_ask": 0.42,
+        "no_spread": 0.019999999999999962,
+        "volume": 1857055.824214874,
+        "liquidity": 1660528.33,
+        "neg_risk": false,
+        "end_date": "2026-06-30T00:00:00Z",
+        "categories": [
+          "geopolitics",
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 5,
+        "impact_level": "low",
+        "impact_reason": "Iran halting talks and threatening closure indicates increased tensions, affecting blockade discussions.",
+        "event_id": "372242",
+        "event_title": "Trump announces US blockade of Hormuz lifted by...?",
+        "event_slug": "trump-announces-us-blockade-of-hormuz-lifted-by",
+        "detected_yes_price": 0.5,
+        "detected_no_price": 0.52,
+        "detected_at": 1780334294069,
+        "highest_price_change": 0.24,
+        "highest_yes_price": 0.62,
+        "highest_no_price": 0.52,
+        "first_moved_at": 1780334295128,
+        "moved_side": "yes",
+        "peaked_at": 1780358457278
+      },
+      "_scraped_at": "2026-06-02T00:07:51.399160+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "valid": false,
+      "_scraped_at": "2026-06-02T00:07:51.399160+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "global_tension_score": 52,
+      "global_tension_level": "ELEVATED",
+      "countries": [
+        {
+          "country": "UA",
+          "count": 31,
+          "recent": [
+            {
+              "id": "8e7e2264-e974-4c8f-b707-f8406bdebcc2",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780343452593
+            },
+            {
+              "id": "6d24fb17-2f12-4dd2-9148-19571f2c74dd",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780354447886
+            },
+            {
+              "id": "0bcb368c-54d8-43c3-ba0a-65bda836a115",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780352408042
+            },
+            {
+              "id": "33a53d31-f98f-4dbf-b45e-a774c4a76960",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780358467811
+            },
+            {
+              "id": "87432591-c1e7-4846-bd36-e9b177cfcaf5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780357777826
+            },
+            {
+              "id": "28555c23-9561-4ff6-98ce-2d097f2a9d17",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780349032992
+            },
+            {
+              "id": "9a0fc58f-07c2-40b1-b025-1fa2fa7a0c28",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780357747825
+            },
+            {
+              "id": "542027d7-727b-417d-9081-c8d0648626cf",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780353293099
+            },
+            {
+              "id": "5546fa66-e6d9-4085-b52b-1a6a64d31e1a",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780356334752
+            },
+            {
+              "id": "f607b3f1-5c7b-4598-a8a9-ac01fd03527d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780358332812
+            },
+            {
+              "id": "62a6b363-f62c-406a-8a85-235344da5ac6",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780353187913
+            },
+            {
+              "id": "3244b7fc-ddb3-415d-b30a-2a851d02d275",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780339373183
+            },
+            {
+              "id": "1dbbb45e-1672-45e8-b7f3-9adb51b51f23",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780358330394
+            },
+            {
+              "id": "624dc802-39d7-402c-80be-c7fad218acd9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780352932913
+            },
+            {
+              "id": "2852509c-d6f2-4371-8d2a-d4160a366f29",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780354342886
+            },
+            {
+              "id": "198c8b29-db09-4959-b882-d7e936e84ecb",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780358587807
+            },
+            {
+              "id": "38fd5219-e528-42c0-bc2e-88ed6d9b5cb7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780356187996
+            },
+            {
+              "id": "d8f7bebf-aa20-459b-a572-10bf911a137d",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780353772896
+            },
+            {
+              "id": "be76ed35-af1f-47a8-bc5f-e93a1bfd7e28",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780358092817
+            },
+            {
+              "id": "ff318ab1-8ce4-4d18-bf75-1a91119c11dc",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780348313006
+            },
+            {
+              "id": "6be90b51-eed6-4609-9c26-223cbdcd5d27",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780340633680
+            },
+            {
+              "id": "1605ea35-3268-40bb-ada7-443732ff5860",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780356772846
+            },
+            {
+              "id": "88318622-51cf-4cb1-8af2-b95a673e08bd",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780342013131
+            },
+            {
+              "id": "919ac19f-003c-43ae-8aec-d49471f1904a",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780354552881
+            },
+            {
+              "id": "3a8918d2-1031-4694-977d-20a347390387",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780358092943
+            }
+          ],
+          "volume": 4473863.6949001495,
+          "critical_signals": 1,
+          "high_signals": 28,
+          "low_signals": 2
+        },
+        {
+          "country": "GB",
+          "count": 16,
+          "recent": [
+            {
+              "id": "8e7e2264-e974-4c8f-b707-f8406bdebcc2",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780343452593
+            },
+            {
+              "id": "0bcb368c-54d8-43c3-ba0a-65bda836a115",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780352408042
+            },
+            {
+              "id": "33a53d31-f98f-4dbf-b45e-a774c4a76960",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780358467811
+            },
+            {
+              "id": "28555c23-9561-4ff6-98ce-2d097f2a9d17",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780349032992
+            },
+            {
+              "id": "62a6b363-f62c-406a-8a85-235344da5ac6",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780353187913
+            },
+            {
+              "id": "3244b7fc-ddb3-415d-b30a-2a851d02d275",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780339373183
+            },
+            {
+              "id": "624dc802-39d7-402c-80be-c7fad218acd9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780352932913
+            },
+            {
+              "id": "2852509c-d6f2-4371-8d2a-d4160a366f29",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780354342886
+            },
+            {
+              "id": "38fd5219-e528-42c0-bc2e-88ed6d9b5cb7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780356187996
+            },
+            {
+              "id": "be76ed35-af1f-47a8-bc5f-e93a1bfd7e28",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780358092817
+            },
+            {
+              "id": "ff318ab1-8ce4-4d18-bf75-1a91119c11dc",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780348313006
+            },
+            {
+              "id": "6be90b51-eed6-4609-9c26-223cbdcd5d27",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780340633680
+            },
+            {
+              "id": "88318622-51cf-4cb1-8af2-b95a673e08bd",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780342013131
+            },
+            {
+              "id": "e9e1e7de-860a-4d25-93e4-c5625f4105eb",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780352453072
+            },
+            {
+              "id": "e3cd5837-578c-466e-90d0-528cf449f174",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780352947913
+            },
+            {
+              "id": "71b5ed2c-bc98-4bc6-95ad-41f91e7b6122",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780347773018
+            }
+          ],
+          "volume": 3880021.964341129,
+          "critical_signals": 1,
+          "high_signals": 14,
+          "low_signals": 1
+        },
+        {
+          "country": "US",
+          "count": 10,
+          "recent": [
+            {
+              "id": "874d376e-8df8-42c9-a643-a1e4a2dd054f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780342531562
+            },
+            {
+              "id": "87aecb50-c13a-48a5-86a9-945cb0c9ce23",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780346813037
+            },
+            {
+              "id": "7e0852e3-076a-4a63-ab4b-0fb6480c2380",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780346483042
+            },
+            {
+              "id": "e8247c80-6d0c-46d1-b24b-873f64ba0d25",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780352273038
+            },
+            {
+              "id": "194425a2-7fc7-4f13-947d-b75b39073a01",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780340453162
+            },
+            {
+              "id": "388290fa-7055-4cb6-a551-15d7a9fbf886",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780350112969
+            },
+            {
+              "id": "14d14305-140c-4afe-af09-33fadd01ed14",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780338668198
+            },
+            {
+              "id": "fc649a1f-9bb0-47f0-9545-acc2304b61d6",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780349707977
+            },
+            {
+              "id": "e2bc3eb5-3190-4af0-b2ef-960e57461ebb",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780342853381
+            },
+            {
+              "id": "4531469b-afdb-413a-8521-ece40ee0f811",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780340566969
+            }
+          ],
+          "volume": 84201444.01599044,
+          "critical_signals": 2,
+          "high_signals": 6,
+          "low_signals": 2
+        },
+        {
+          "country": "IR",
+          "count": 9,
+          "recent": [
+            {
+              "id": "7fd90155-11e0-47b6-914b-399dc863949b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780350052975
+            },
+            {
+              "id": "70955d3f-4bb2-4f1d-ae4e-e35dc6b36c9d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780349632979
+            },
+            {
+              "id": "87aecb50-c13a-48a5-86a9-945cb0c9ce23",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780346813037
+            },
+            {
+              "id": "a9764c5c-f391-4538-9a6f-d848ffd94d29",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780346453044
+            },
+            {
+              "id": "7e0852e3-076a-4a63-ab4b-0fb6480c2380",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780346483042
+            },
+            {
+              "id": "194425a2-7fc7-4f13-947d-b75b39073a01",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780340453162
+            },
+            {
+              "id": "388290fa-7055-4cb6-a551-15d7a9fbf886",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780350112969
+            },
+            {
+              "id": "fc649a1f-9bb0-47f0-9545-acc2304b61d6",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780349707977
+            },
+            {
+              "id": "e2bc3eb5-3190-4af0-b2ef-960e57461ebb",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780342853381
+            }
+          ],
+          "volume": 87918971.83352968,
+          "critical_signals": 0,
+          "high_signals": 7,
+          "low_signals": 2
+        },
+        {
+          "country": "RU",
+          "count": 9,
+          "recent": [
+            {
+              "id": "8e7e2264-e974-4c8f-b707-f8406bdebcc2",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780343452593
+            },
+            {
+              "id": "87432591-c1e7-4846-bd36-e9b177cfcaf5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780357777826
+            },
+            {
+              "id": "f607b3f1-5c7b-4598-a8a9-ac01fd03527d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780358332812
+            },
+            {
+              "id": "3244b7fc-ddb3-415d-b30a-2a851d02d275",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780339373183
+            },
+            {
+              "id": "198c8b29-db09-4959-b882-d7e936e84ecb",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780358587807
+            },
+            {
+              "id": "be76ed35-af1f-47a8-bc5f-e93a1bfd7e28",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780358092817
+            },
+            {
+              "id": "6be90b51-eed6-4609-9c26-223cbdcd5d27",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780340633680
+            },
+            {
+              "id": "88318622-51cf-4cb1-8af2-b95a673e08bd",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780342013131
+            },
+            {
+              "id": "e9e1e7de-860a-4d25-93e4-c5625f4105eb",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780352453072
+            }
+          ],
+          "volume": 2915246.3156936686,
+          "critical_signals": 1,
+          "high_signals": 7,
+          "low_signals": 1
+        },
+        {
+          "country": "LB",
+          "count": 8,
+          "recent": [
+            {
+              "id": "874d376e-8df8-42c9-a643-a1e4a2dd054f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780342531562
+            },
+            {
+              "id": "7fd90155-11e0-47b6-914b-399dc863949b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780350052975
+            },
+            {
+              "id": "e8247c80-6d0c-46d1-b24b-873f64ba0d25",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780352273038
+            },
+            {
+              "id": "194425a2-7fc7-4f13-947d-b75b39073a01",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780340453162
+            },
+            {
+              "id": "14d14305-140c-4afe-af09-33fadd01ed14",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780338668198
+            },
+            {
+              "id": "fc649a1f-9bb0-47f0-9545-acc2304b61d6",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780349707977
+            },
+            {
+              "id": "e2bc3eb5-3190-4af0-b2ef-960e57461ebb",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780342853381
+            },
+            {
+              "id": "4531469b-afdb-413a-8521-ece40ee0f811",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780340566969
+            }
+          ],
+          "volume": 51440670.84255304,
+          "critical_signals": 2,
+          "high_signals": 4,
+          "low_signals": 2
+        },
+        {
+          "country": "IL",
+          "count": 5,
+          "recent": [
+            {
+              "id": "874d376e-8df8-42c9-a643-a1e4a2dd054f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780342531562
+            },
+            {
+              "id": "a9764c5c-f391-4538-9a6f-d848ffd94d29",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780346453044
+            },
+            {
+              "id": "e8247c80-6d0c-46d1-b24b-873f64ba0d25",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780352273038
+            },
+            {
+              "id": "fc649a1f-9bb0-47f0-9545-acc2304b61d6",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780349707977
+            },
+            {
+              "id": "e2bc3eb5-3190-4af0-b2ef-960e57461ebb",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780342853381
+            }
+          ],
+          "volume": 49932749.83231051,
+          "critical_signals": 1,
+          "high_signals": 2,
+          "low_signals": 2
+        },
+        {
+          "country": "OM",
+          "count": 2,
+          "recent": [
+            {
+              "id": "a9764c5c-f391-4538-9a6f-d848ffd94d29",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780346453044
+            },
+            {
+              "id": "388290fa-7055-4cb6-a551-15d7a9fbf886",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780350112969
+            }
+          ],
+          "volume": 560737.9089401885,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "LV",
+          "count": 1,
+          "recent": [
+            {
+              "id": "0e123ef5-1f20-4b15-80a9-1702619db129",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780353068173
+            }
+          ],
+          "volume": 1247399.1342305143,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        }
+      ],
+      "_scraped_at": "2026-06-02T00:07:51.399160+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
