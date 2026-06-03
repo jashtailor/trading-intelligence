@@ -1,0 +1,1884 @@
+{
+  "scraped_at": "2026-06-03T22:09:38.363286+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 6,
+  "items": [
+    {
+      "valid": false,
+      "_scraped_at": "2026-06-03T22:09:38.363286+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "04177dfd-4fd6-40e0-a521-7bebcb1e4444",
+        "timestamp": 1780462998618,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "04177dfd-4fd6-40e0-a521-7bebcb1e4444",
+          "text": "\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaFrom early morning, St. Petersburg is fending off massive attacks from Ukrainian kamikaze drones (AN-196 \"Lutiy\", FP-2), the target of which, apparently, was the \"St. Petersburg Oil Terminal\" JSC.\n\nIn turn, the governor of the Leningrad region stated that 50 UAVs were shot down over the region.\n\nAlso, the St. Petersburg International Economic Forum (SPIEF) is scheduled to take place from June 3 to 6 in St. Petersburg.\n\nFootage from St. Petersburg was filmed by local residents and published by Ukrainian channel.\n\n@Intelslava",
+          "channel": "Intel Slava",
+          "timestamp": 1780462998618,
+          "link": "https://t.me/intelslava"
+        },
+        "osint": false,
+        "country": "UA",
+        "countries": [
+          "UA",
+          "GB"
+        ],
+        "related_markets": [
+          {
+            "id": "2125383",
+            "slug": "will-russia-capture-all-of-prymorske-by",
+            "condition_id": "0x9051c339493374b28c5348337a3928890127228cac85dc270b928c805789052e",
+            "title": "December 31",
+            "question": "Will Russia capture all of Prymorske by December 31, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the entirety of Prymorske, Zaporizhzhia Oblast, by December 31, 2026, 11:59 PM ET.\n\nPrymorske will be considered captured if the entirety of the municipality is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by December 31, 2026, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nThe territory of the municipality is shaded in light grey and is distinguished from bordering municipalities such as \"Stepnohirsk\" with a darker grey line. If all area within the municipality is shaded in red, however, the shading does not precisely match up with the border such that there is a tiny amount of grey along the border of the city, this will still qualify for a \"Yes\" resolution.\n\nOnce Russia captures the entirety of Prymorske, any subsequent loss of control will not be considered towards the resolution of this market.\n\nLocation on Google maps: https://maps.app.goo.gl/K7mS2YU7bZoVVHga9\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map which will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of if it is shaded red in the ISW map. An announcement of a negotiated settlement which gives Russia de jure control will not qualify. Actual control must be established.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-prymorske-by-april-30-2026-DpHD61x_Ap_N.jpg",
+            "yes_token_id": "28973723560426996031408842976019851055790661167079359472177710649429036274394",
+            "yes_probability": 0.17,
+            "yes_best_bid": 0.15,
+            "yes_best_ask": 0.17,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "60723272638491203222333518330527122876237274459371689952180825288347810204632",
+            "no_probability": 0.85,
+            "no_best_bid": 0.83,
+            "no_best_ask": 0.85,
+            "no_spread": 0.020000000000000018,
+            "volume": 15223.051162,
+            "liquidity": 17159.14,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 6,
+            "impact_level": "medium",
+            "impact_reason": "Ongoing military actions in St. Petersburg suggest increased conflict dynamics, impacting territorial control.",
+            "event_id": "131623",
+            "event_title": "Will Russia capture all of Prymorske by...?",
+            "event_slug": "will-russia-capture-all-of-prymorske-by",
+            "detected_yes_price": 0.17,
+            "detected_no_price": 0.85,
+            "detected_at": 1780463088294,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.17,
+            "highest_no_price": 0.85
+          },
+          {
+            "id": "1090495",
+            "slug": "will-russia-capture-all-of-donetsk-oblast-by",
+            "condition_id": "0x60ecb823bb667a51ccf9ffcb1cab2c48899cd16410687874887dab9df9f4e1bf",
+            "title": "June 30",
+            "question": "Will Russia capture all of Donetsk Oblast by June 30, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia militarily captures the entirety of Donetsk Oblast by the specified date, 11:59 PM ET.\n\nDonetsk Oblast will be considered captured when the entirety of the below-specified municipalities is simultaneously shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If those areas are not simultaneously shaded red by the resolution date, this market will resolve to \u201cNo\u201d.\n\nThe relevant municipalities in Donetsk Oblast that must be simultaneously captured in their entirety are: Kramatorsk, Sloviansk, Kostiantynivka, Druzhkivka, Pokrovsk, Dobropillia, Oleksandrivka, Cherkaske, and Sviatohirsk.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nThe territory of a municipality is shaded in light grey and is distinguished from bordering municipalities with a darker grey line. If all area within a municipality is shaded in red, however, the shading does not precisely match up with the border such that there is a tiny amount of grey along the border of the city, this may still qualify.\n\nOnce Russia has captured the entirety of the above-specified municipalities simultaneously, any subsequent loss of control will not be considered towards the resolution of this market.\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap is rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will not qualify, regardless of whether it is shaded red in the ISW map. Similarly, an announcement of a negotiated settlement that gives Russia de jure control will not qualify. Control must be established through military conquest.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-donetsk-oblast-by-june-30-2026-atOWkXn1rrer.jpg",
+            "yes_token_id": "19998490588165385691634000405206222117826113177925708815328988090662305366225",
+            "yes_probability": 0.015,
+            "yes_best_bid": 0.009,
+            "yes_best_ask": 0.015,
+            "yes_spread": 0.006,
+            "no_token_id": "6727724717965804812582437828646736972344757795103515098740782022977766715112",
+            "no_probability": 0.991,
+            "no_best_bid": 0.985,
+            "no_best_ask": 0.991,
+            "no_spread": 0.006000000000000005,
+            "volume": 358155.0674599999,
+            "liquidity": 177629.2900000001,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 6,
+            "impact_level": "medium",
+            "impact_reason": "Ongoing military actions in St. Petersburg suggest increased conflict dynamics, impacting territorial control.",
+            "event_id": "139550",
+            "event_title": "Will Russia capture all of Donetsk Oblast by...?",
+            "event_slug": "will-russia-capture-all-of-donetsk-oblast-by",
+            "detected_yes_price": 0.016,
+            "detected_no_price": 0.991,
+            "detected_at": 1780463088294,
+            "highest_price_change": 0.12499999999999989,
+            "highest_yes_price": 0.018,
+            "highest_no_price": 0.992,
+            "first_moved_at": 1780510600385,
+            "moved_side": "yes",
+            "peaked_at": 1780510600385
+          },
+          {
+            "id": "2107988",
+            "slug": "will-russia-capture-all-of-vovchansk-by",
+            "condition_id": "0xbc43a765b1fb2a7ffabf7d57cc64be3754a07f6dbbb657130b520875f204c772",
+            "title": "September 30",
+            "question": "Will Russia capture all of Vovchansk by September 30?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the entirety of Vovchansk by September 30, 2026, 11:59 PM ET.\n\nVovchansk will be considered captured if the entirety of the municipality is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by September 30, 2026, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nThe territory of the municipality is shaded in light grey and is distinguished from bordering municipalities such as \"Vovchanski Khutory\" with a darker grey line.  If all area within the municipality is shaded in red, however the shading does not precisely match up with the border such that there is a tiny amount of grey along the border of the city, this will still qualify for a \"Yes\" resolution.\n\nOnce Russia captures Vovchansk, any subsequent loss of control will not be considered towards the resolution of this market.\n\nVovchansk Location: https://polymarket-upload.s3.us-east-2.amazonaws.com/Vovchansk.png \nLocation on Google Maps: https://maps.app.goo.gl/pEumzu6kdCPQ2sYt7\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap is rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of if it is shaded red in the ISW map. An announcement of a negotiated settlement that gives Russia de jure control will not qualify. Actual control must be established.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-vovchansk-by-april-30-zZYgOG-rxBt6.jpg",
+            "yes_token_id": "17443762976949623694088004697408060308723388673315163575129823536915593826648",
+            "yes_probability": 0.22,
+            "yes_best_bid": 0.2,
+            "yes_best_ask": 0.22,
+            "yes_spread": 0.01999999999999999,
+            "no_token_id": "39826415395621606430492809307300208421327633500555526655980994779813231695753",
+            "no_probability": 0.8,
+            "no_best_bid": 0.78,
+            "no_best_ask": 0.8,
+            "no_spread": 0.020000000000000018,
+            "volume": 8213.092729580001,
+            "liquidity": 21492.399999999998,
+            "neg_risk": false,
+            "end_date": "2026-09-30T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 6,
+            "impact_level": "medium",
+            "impact_reason": "Drone attacks suggest ongoing military engagement, influencing territorial control in the region.",
+            "event_id": "73058",
+            "event_title": "Will Russia capture all of Vovchansk by...?",
+            "event_slug": "will-russia-capture-all-of-vovchansk-by",
+            "detected_yes_price": 0.21,
+            "detected_no_price": 0.8,
+            "detected_at": 1780463088294,
+            "highest_price_change": 0.047619047619047665,
+            "highest_yes_price": 0.22,
+            "highest_no_price": 0.8,
+            "first_moved_at": 1780506861367,
+            "moved_side": "yes",
+            "peaked_at": 1780506861367
+          },
+          {
+            "id": "2373817",
+            "slug": "will-russia-capture-all-of-kupiansk-by",
+            "condition_id": "0xa72d5a239c10ac6cb67f109b05513ae3a23db39ab7c5d4e2afa93719f20471ba",
+            "title": "December 31",
+            "question": "Will Russia capture all of Kupiansk by December 31?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the entirety of Kupiansk by December 31, 2026, at 11:59 PM ET.\n\nKupiansk will be considered captured if the entirety of the municipality is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by December 31, 2026, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nThe territory of the municipality is shaded in light grey and is distinguished from bordering municipalities such as \"Moskovka\" with a darker grey line. If all area within the municipality is shaded in red, but the shading does not precisely match up with the border, such that there is a tiny amount of grey along the border of the city, this will still qualify for a \"Yes\" resolution.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nFor the purpose of this market, areas separated from the main municipality through a darker grey line, such as in the southeast of Kupiansk (https://polymarket-upload.s3.us-east-2.amazonaws.com/h-b99a52275d.png), will not count towards the municipality.\n\nOnce Russia captures Kupiansk, any subsequent loss of control will not be considered towards the resolution of this market.\n\nKupiansk Location: https://polymarket-upload.s3.us-east-2.amazonaws.com/Kupiansk+location.jpeg\nLocation on Google maps: https://maps.app.goo.gl/ngCjTi39GSjbzaC46 \n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map which will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of whether it is shaded red in the ISW map. An announcement of a negotiated settlement that gives Russia de jure control will not qualify. Actual control must be established.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-kupiansk-by-june-30-y9hxbGPduBlF.jpg",
+            "yes_token_id": "16620263983815473572619609020950896548271326777722860283515181418520860963393",
+            "yes_probability": 0.48,
+            "yes_best_bid": 0.17,
+            "yes_best_ask": 0.48,
+            "yes_spread": 0.30999999999999994,
+            "no_token_id": "55823320781564825042492633966056498284958282665806983910625268814384693770509",
+            "no_probability": 0.83,
+            "no_best_bid": 0.52,
+            "no_best_ask": 0.83,
+            "no_spread": 0.30999999999999994,
+            "volume": 3504.5,
+            "liquidity": 21545.189999999995,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "world",
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 6,
+            "impact_level": "medium",
+            "impact_reason": "Military drone activity indicates ongoing conflict, affecting territorial dynamics.",
+            "event_id": "72352",
+            "event_title": "Will Russia capture all of Kupiansk by...?",
+            "event_slug": "will-russia-capture-all-of-kupiansk-by",
+            "detected_yes_price": 0.14,
+            "detected_no_price": 0.88,
+            "detected_at": 1780463088294,
+            "highest_price_change": 3.1428571428571423,
+            "highest_yes_price": 0.58,
+            "highest_no_price": 0.92,
+            "first_moved_at": 1780463384706,
+            "moved_side": "yes",
+            "peaked_at": 1780509583755
+          },
+          {
+            "id": "2125379",
+            "slug": "will-russia-capture-all-of-prymorske-by",
+            "condition_id": "0x27f3e18c14d722d384fdc20f7ed0f7038b19d56d191b36da72762ebbf17f3081",
+            "title": "September 30",
+            "question": "Will Russia capture all of Prymorske by September 30, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the entirety of Prymorske, Zaporizhzhia Oblast, by September 30, 2026, 11:59 PM ET.\n\nPrymorske will be considered captured if the entirety of the municipality is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by September 30, 2026, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nThe territory of the municipality is shaded in light grey and is distinguished from bordering municipalities such as \"Stepnohirsk\" with a darker grey line. If all area within the municipality is shaded in red, however, the shading does not precisely match up with the border such that there is a tiny amount of grey along the border of the city, this will still qualify for a \"Yes\" resolution.\n\nOnce Russia captures the entirety of Prymorske, any subsequent loss of control will not be considered towards the resolution of this market.\n\nLocation on Google maps: https://maps.app.goo.gl/K7mS2YU7bZoVVHga9\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map which will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of if it is shaded red in the ISW map. An announcement of a negotiated settlement which gives Russia de jure control will not qualify. Actual control must be established.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-prymorske-by-april-30-2026-DpHD61x_Ap_N.jpg",
+            "yes_token_id": "62144742210971208278696936141611556807905696657920695628150040740104692189206",
+            "yes_probability": 0.07,
+            "yes_best_bid": 0.04,
+            "yes_best_ask": 0.07,
+            "yes_spread": 0.030000000000000006,
+            "no_token_id": "98944918857405606137810340449921239097996041419914154134190979719169266881957",
+            "no_probability": 0.96,
+            "no_best_bid": 0.93,
+            "no_best_ask": 0.96,
+            "no_spread": 0.029999999999999916,
+            "volume": 2829.9409909999995,
+            "liquidity": 34707.40000000001,
+            "neg_risk": false,
+            "end_date": "2026-09-30T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 6,
+            "impact_level": "medium",
+            "impact_reason": "Drone attacks on St. Petersburg indicate ongoing military operations, affecting territorial control.",
+            "event_id": "131623",
+            "event_title": "Will Russia capture all of Prymorske by...?",
+            "event_slug": "will-russia-capture-all-of-prymorske-by",
+            "detected_yes_price": 0.07,
+            "detected_no_price": 0.96,
+            "detected_at": 1780463088294,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.07,
+            "highest_no_price": 0.96
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 9,
+            "price": 0
+          }
+        ],
+        "topics": [
+          "ai-tech"
+        ],
+        "categories": [
+          "politics",
+          "culture",
+          "world",
+          "tech",
+          "climate"
+        ]
+      },
+      "related_market": {
+        "id": "2373817",
+        "slug": "will-russia-capture-all-of-kupiansk-by",
+        "condition_id": "0xa72d5a239c10ac6cb67f109b05513ae3a23db39ab7c5d4e2afa93719f20471ba",
+        "title": "December 31",
+        "question": "Will Russia capture all of Kupiansk by December 31?",
+        "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the entirety of Kupiansk by December 31, 2026, at 11:59 PM ET.\n\nKupiansk will be considered captured if the entirety of the municipality is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by December 31, 2026, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nThe territory of the municipality is shaded in light grey and is distinguished from bordering municipalities such as \"Moskovka\" with a darker grey line. If all area within the municipality is shaded in red, but the shading does not precisely match up with the border, such that there is a tiny amount of grey along the border of the city, this will still qualify for a \"Yes\" resolution.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nFor the purpose of this market, areas separated from the main municipality through a darker grey line, such as in the southeast of Kupiansk (https://polymarket-upload.s3.us-east-2.amazonaws.com/h-b99a52275d.png), will not count towards the municipality.\n\nOnce Russia captures Kupiansk, any subsequent loss of control will not be considered towards the resolution of this market.\n\nKupiansk Location: https://polymarket-upload.s3.us-east-2.amazonaws.com/Kupiansk+location.jpeg\nLocation on Google maps: https://maps.app.goo.gl/ngCjTi39GSjbzaC46 \n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map which will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of whether it is shaded red in the ISW map. An announcement of a negotiated settlement that gives Russia de jure control will not qualify. Actual control must be established.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-kupiansk-by-june-30-y9hxbGPduBlF.jpg",
+        "yes_token_id": "16620263983815473572619609020950896548271326777722860283515181418520860963393",
+        "yes_probability": 0.48,
+        "yes_best_bid": 0.17,
+        "yes_best_ask": 0.48,
+        "yes_spread": 0.30999999999999994,
+        "no_token_id": "55823320781564825042492633966056498284958282665806983910625268814384693770509",
+        "no_probability": 0.83,
+        "no_best_bid": 0.52,
+        "no_best_ask": 0.83,
+        "no_spread": 0.30999999999999994,
+        "volume": 3504.5,
+        "liquidity": 21545.189999999995,
+        "neg_risk": false,
+        "end_date": "2026-12-31T00:00:00Z",
+        "categories": [
+          "world",
+          "geopolitics",
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 6,
+        "impact_level": "medium",
+        "impact_reason": "Military drone activity indicates ongoing conflict, affecting territorial dynamics.",
+        "event_id": "72352",
+        "event_title": "Will Russia capture all of Kupiansk by...?",
+        "event_slug": "will-russia-capture-all-of-kupiansk-by",
+        "detected_yes_price": 0.14,
+        "detected_no_price": 0.88,
+        "detected_at": 1780463088294,
+        "highest_price_change": 3.1428571428571423,
+        "highest_yes_price": 0.58,
+        "highest_no_price": 0.92,
+        "first_moved_at": 1780463384706,
+        "moved_side": "yes",
+        "peaked_at": 1780509583755
+      },
+      "_scraped_at": "2026-06-03T22:09:38.363286+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 2,
+      "feed_item": {
+        "id": "00540988-250b-455c-b146-263ace1619eb",
+        "timestamp": 1780462818591,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "00540988-250b-455c-b146-263ace1619eb",
+          "text": "\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1Almost 24 hours without rocket fire from Hezbollah towards the northern settlements - \n\nUS Ambassador to Lebanon: There is optimism in the negotiations between Israel and Lebanon. The ceasefire is holding.\n\n@Intelslava",
+          "channel": "Intel Slava",
+          "timestamp": 1780462818591,
+          "link": "https://t.me/intelslava"
+        },
+        "osint": false,
+        "country": "LB",
+        "countries": [
+          "LB",
+          "IL",
+          "SY"
+        ],
+        "related_markets": [
+          {
+            "id": "2414142",
+            "slug": "israel-x-lebanon-diplomatic-meeting-byptptpt",
+            "condition_id": "0x38545bccf76fa0230056c9c6230455f55621237209f1801acfaa02b12d5e16dd",
+            "title": "June 7",
+            "question": "Will Israel and Lebanon hold a diplomatic meeting by June 7, 2026?",
+            "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Israel and Lebanon by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Israel-Lebanon relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of the Israel and Lebanon, and a consensus of credible reporting.",
+            "image": "",
+            "yes_token_id": "48225717408980898208724498224243965219460687605895252327678017645604101693330",
+            "yes_probability": 0.992,
+            "yes_best_bid": 0.977,
+            "yes_best_ask": 0.992,
+            "yes_spread": 0.015000000000000013,
+            "no_token_id": "72504213386151494017255019485066307122254896408977897927770891772580322807211",
+            "no_probability": 0.023,
+            "no_best_bid": 0.008,
+            "no_best_ask": 0.023,
+            "no_spread": 0.015,
+            "volume": 17029.108766822,
+            "liquidity": 341203.4,
+            "neg_risk": false,
+            "end_date": "2026-06-15T16:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "US Ambassador's statement indicates a positive diplomatic climate.",
+            "event_id": "549501",
+            "event_title": "Israel x Lebanon diplomatic meeting by...?",
+            "event_slug": "israel-x-lebanon-diplomatic-meeting-byptptpt",
+            "detected_yes_price": 0.98,
+            "detected_no_price": 0.03500000000000003,
+            "detected_at": 1780462888476,
+            "highest_price_change": 0.6285714285714272,
+            "highest_yes_price": 0.998,
+            "highest_no_price": 0.057,
+            "first_moved_at": 1780508510861,
+            "moved_side": "no",
+            "peaked_at": 1780510656235
+          },
+          {
+            "id": "2364342",
+            "slug": "israel-announces-lebanon-ceasefire-extension-by",
+            "condition_id": "0x42973552f8bcfc9269fba8492766f2c20a22243cbba154cf695acaff88ec96c7",
+            "title": "June 7",
+            "question": "Israel announces Lebanon ceasefire extension by June 7?",
+            "description": "This market will resolve to \u201cYes\u201d if Israel officially announces another extension of the ceasefire agreement between Israel and Hezbollah announced on April 16, 2026, defined as a publicly announced commitment to halt direct military engagement with Hezbollah, by the specified date, 11:59 PM Israel Daylight Time. Otherwise, this market will resolve to \"No\".\n\nBoth announcements of extensions of the April 16 ceasefire, as extended on April 23 and May 15, 2026, and of new agreements will qualify.\n\nIf a qualifying announcement is officially made before the resolution date, this market will resolve to \u201cYes,\u201d regardless of whether the ceasefire extension ultimately takes effect.\n\nA qualifying announcement requires clear public confirmation from the Israeli government that Israel has extended its commitment to the ceasefire beyond its current scheduled end.\n\nAny form of informal understanding, backchannel communication, de-escalation, or unilateral pause in hostilities without a confirmed Israeli announcement of a qualifying extension will not qualify. Similarly, newly agreed-upon humanitarian pauses, limited operational pauses, or temporary tactical stand-downs will not qualify.\n\nA newly agreed-upon broader peace deal will qualify if it includes Israel's agreement to a ceasefire extension. Agreements that outline future negotiations or de-escalation measures, but do not explicitly extend the ceasefire, will not qualify.\n\nThis market\u2019s resolution will be based on official statements from the Israeli government and will not require confirmation from Hezbollah. However, an overwhelming consensus of credible media reporting that a ceasefire extension agreement has been reached will suffice.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-hezbollah-ceasefire-extended-by-2-En32lSfFPU.jpg",
+            "yes_token_id": "55729187700220621940979114092031096586154133673216433038757883725632922111626",
+            "yes_probability": 0.36,
+            "yes_best_bid": 0.31,
+            "yes_best_ask": 0.36,
+            "yes_spread": 0.04999999999999999,
+            "no_token_id": "2049615116809785498037116915229927575556307359227515820401917172384861321364",
+            "no_probability": 0.69,
+            "no_best_bid": 0.64,
+            "no_best_ask": 0.69,
+            "no_spread": 0.04999999999999993,
+            "volume": 310304.1851822212,
+            "liquidity": 404718.12,
+            "neg_risk": false,
+            "end_date": "2026-06-07T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "US Ambassador's optimism about negotiations indicates a strong likelihood of extension.",
+            "event_id": "527930",
+            "event_title": "Israel announces Lebanon ceasefire extension by...?",
+            "event_slug": "israel-announces-lebanon-ceasefire-extension-by",
+            "detected_yes_price": 0.17,
+            "detected_no_price": 0.84,
+            "detected_at": 1780462888476,
+            "highest_price_change": 1.4705882352941173,
+            "highest_yes_price": 0.42,
+            "highest_no_price": 0.87,
+            "first_moved_at": 1780462890542,
+            "moved_side": "yes",
+            "peaked_at": 1780523483823
+          },
+          {
+            "id": "2414143",
+            "slug": "israel-x-lebanon-diplomatic-meeting-byptptpt",
+            "condition_id": "0x23b24600481f10f9fe9a1d751a210b0ac8ab58a9e7d512fa239ca7f242908782",
+            "title": "June 15",
+            "question": "Will Israel and Lebanon hold a diplomatic meeting by June 15, 2026?",
+            "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Israel and Lebanon by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Israel-Lebanon relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of the Israel and Lebanon, and a consensus of credible reporting.",
+            "image": "",
+            "yes_token_id": "10308647065850179644498944538226422145105154246579880082660109196081785716783",
+            "yes_probability": 0.993,
+            "yes_best_bid": 0.974,
+            "yes_best_ask": 0.993,
+            "yes_spread": 0.019000000000000017,
+            "no_token_id": "47337818765223358136108850205250452440357249202520486970030066830239090340297",
+            "no_probability": 0.026,
+            "no_best_bid": 0.007,
+            "no_best_ask": 0.026,
+            "no_spread": 0.019,
+            "volume": 7925.897132916,
+            "liquidity": 181901.45000000004,
+            "neg_risk": false,
+            "end_date": "2026-06-15T16:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "US Ambassador's statement indicates a positive diplomatic climate.",
+            "event_id": "549501",
+            "event_title": "Israel x Lebanon diplomatic meeting by...?",
+            "event_slug": "israel-x-lebanon-diplomatic-meeting-byptptpt",
+            "detected_yes_price": 0.987,
+            "detected_no_price": 0.02300000000000002,
+            "detected_at": 1780462888476,
+            "highest_price_change": 0.3043478260869553,
+            "highest_yes_price": 0.999,
+            "highest_no_price": 0.03,
+            "first_moved_at": 1780506833746,
+            "moved_side": "no",
+            "peaked_at": 1780507353668
+          },
+          {
+            "id": "2382767",
+            "slug": "israel-announces-lebanon-ceasefire-extension-by",
+            "condition_id": "0xb735a1a4f3e5fa31332c969647ee2828e4afb81bd70a2a16c82c3bc2b2084e59",
+            "title": "June 30",
+            "question": "Israel announces Lebanon ceasefire extension by June 30?",
+            "description": "This market will resolve to \u201cYes\u201d if Israel officially announces another extension of the ceasefire agreement between Israel and Hezbollah announced on April 16, 2026, defined as a publicly announced commitment to halt direct military engagement with Hezbollah, by the specified date, 11:59 PM Israel Daylight Time. Otherwise, this market will resolve to \"No\".\n\nBoth announcements of extensions of the April 16 ceasefire, as extended on April 23 and May 15, 2026, and of new agreements will qualify.\n\nIf a qualifying announcement is officially made before the resolution date, this market will resolve to \u201cYes,\u201d regardless of whether the ceasefire extension ultimately takes effect.\n\nA qualifying announcement requires clear public confirmation from the Israeli government that Israel has extended its commitment to the ceasefire beyond its current scheduled end.\n\nAny form of informal understanding, backchannel communication, de-escalation, or unilateral pause in hostilities without a confirmed Israeli announcement of a qualifying extension will not qualify. Similarly, newly agreed-upon humanitarian pauses, limited operational pauses, or temporary tactical stand-downs will not qualify.\n\nA newly agreed-upon broader peace deal will qualify if it includes Israel's agreement to a ceasefire extension. Agreements that outline future negotiations or de-escalation measures, but do not explicitly extend the ceasefire, will not qualify.\n\nThis market\u2019s resolution will be based on official statements from the Israeli government and will not require confirmation from Hezbollah. However, an overwhelming consensus of credible media reporting that a ceasefire extension agreement has been reached will suffice.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-hezbollah-ceasefire-extended-by-2-En32lSfFPU.jpg",
+            "yes_token_id": "28968064572962054334292808754158225441738591218326903559182623034490028107706",
+            "yes_probability": 0.7,
+            "yes_best_bid": 0.65,
+            "yes_best_ask": 0.7,
+            "yes_spread": 0.04999999999999993,
+            "no_token_id": "86422092822641888683693316705083467314215630795006734788473911826565464779702",
+            "no_probability": 0.35,
+            "no_best_bid": 0.3,
+            "no_best_ask": 0.35,
+            "no_spread": 0.04999999999999999,
+            "volume": 50064.78006487007,
+            "liquidity": 280799.06000000006,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "US Ambassador's optimism about negotiations indicates a strong likelihood of extension.",
+            "event_id": "527930",
+            "event_title": "Israel announces Lebanon ceasefire extension by...?",
+            "event_slug": "israel-announces-lebanon-ceasefire-extension-by",
+            "detected_yes_price": 0.68,
+            "detected_no_price": 0.35,
+            "detected_at": 1780462888476,
+            "highest_price_change": 0.11764705882352934,
+            "highest_yes_price": 0.76,
+            "highest_no_price": 0.39,
+            "first_moved_at": 1780507018703,
+            "moved_side": "yes",
+            "peaked_at": 1780523604632
+          }
+        ],
+        "topics": [
+          "ukraine-war"
+        ],
+        "categories": [
+          "geopolitics"
+        ]
+      },
+      "related_market": {
+        "id": "2364342",
+        "slug": "israel-announces-lebanon-ceasefire-extension-by",
+        "condition_id": "0x42973552f8bcfc9269fba8492766f2c20a22243cbba154cf695acaff88ec96c7",
+        "title": "June 7",
+        "question": "Israel announces Lebanon ceasefire extension by June 7?",
+        "description": "This market will resolve to \u201cYes\u201d if Israel officially announces another extension of the ceasefire agreement between Israel and Hezbollah announced on April 16, 2026, defined as a publicly announced commitment to halt direct military engagement with Hezbollah, by the specified date, 11:59 PM Israel Daylight Time. Otherwise, this market will resolve to \"No\".\n\nBoth announcements of extensions of the April 16 ceasefire, as extended on April 23 and May 15, 2026, and of new agreements will qualify.\n\nIf a qualifying announcement is officially made before the resolution date, this market will resolve to \u201cYes,\u201d regardless of whether the ceasefire extension ultimately takes effect.\n\nA qualifying announcement requires clear public confirmation from the Israeli government that Israel has extended its commitment to the ceasefire beyond its current scheduled end.\n\nAny form of informal understanding, backchannel communication, de-escalation, or unilateral pause in hostilities without a confirmed Israeli announcement of a qualifying extension will not qualify. Similarly, newly agreed-upon humanitarian pauses, limited operational pauses, or temporary tactical stand-downs will not qualify.\n\nA newly agreed-upon broader peace deal will qualify if it includes Israel's agreement to a ceasefire extension. Agreements that outline future negotiations or de-escalation measures, but do not explicitly extend the ceasefire, will not qualify.\n\nThis market\u2019s resolution will be based on official statements from the Israeli government and will not require confirmation from Hezbollah. However, an overwhelming consensus of credible media reporting that a ceasefire extension agreement has been reached will suffice.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-hezbollah-ceasefire-extended-by-2-En32lSfFPU.jpg",
+        "yes_token_id": "55729187700220621940979114092031096586154133673216433038757883725632922111626",
+        "yes_probability": 0.36,
+        "yes_best_bid": 0.31,
+        "yes_best_ask": 0.36,
+        "yes_spread": 0.04999999999999999,
+        "no_token_id": "2049615116809785498037116915229927575556307359227515820401917172384861321364",
+        "no_probability": 0.69,
+        "no_best_bid": 0.64,
+        "no_best_ask": 0.69,
+        "no_spread": 0.04999999999999993,
+        "volume": 310304.1851822212,
+        "liquidity": 404718.12,
+        "neg_risk": false,
+        "end_date": "2026-06-07T00:00:00Z",
+        "categories": [
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 9,
+        "impact_level": "critical",
+        "impact_reason": "US Ambassador's optimism about negotiations indicates a strong likelihood of extension.",
+        "event_id": "527930",
+        "event_title": "Israel announces Lebanon ceasefire extension by...?",
+        "event_slug": "israel-announces-lebanon-ceasefire-extension-by",
+        "detected_yes_price": 0.17,
+        "detected_no_price": 0.84,
+        "detected_at": 1780462888476,
+        "highest_price_change": 1.4705882352941173,
+        "highest_yes_price": 0.42,
+        "highest_no_price": 0.87,
+        "first_moved_at": 1780462890542,
+        "moved_side": "yes",
+        "peaked_at": 1780523483823
+      },
+      "_scraped_at": "2026-06-03T22:09:38.363286+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 3,
+      "feed_item": {
+        "id": "b77cd680-3ad5-4169-ba87-119b6f457fe5",
+        "timestamp": 1780477405032,
+        "tweet": null,
+        "news": {
+          "feed_item_id": "b77cd680-3ad5-4169-ba87-119b6f457fe5",
+          "headline": "Seven takeaways from a big primary night in Iowa, California and more",
+          "description": "In Iowa, Josh Turek won the Democratic nomination for Senate, defeating a rival who had criticized party leaders. Major races in California were not yet called.",
+          "image": "https://cloudfront-us-east-1.images.arcpublishing.com/wapo/V7SLLA6BJTEZTXU6Q6AAWXXTII.jpg",
+          "url": "https://www.washingtonpost.com/politics/2026/06/03/seven-takeaways-big-primary-night-iowa-california-more/",
+          "timestamp": 1780477405032,
+          "source": "washingtonpost"
+        },
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "related_markets": [
+          {
+            "id": "2420490",
+            "slug": "iowa-democratic-senate-primary-margin-of-victory-20260602160244397",
+            "condition_id": "0xa2375c079698fc82b2e60c83d9c514dcc0b85984a00ca8dd2ea5b238186048fd",
+            "title": "Turek 30%+",
+            "question": "Will Josh Turek win the Iowa Democratic Senate Primary by 30% or more?",
+            "description": "Primary elections in Iowa are scheduled to be held on June 2, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the Iowa Democratic Senate Primary.\n\nThe \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first-place and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official.\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Iowa, such as official statewide results published by the Iowa Secretary of State (https://sos.iowa.gov/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/io-ffe3e675ae.png",
+            "yes_token_id": "6557665815826957883679619300622423866926151251265730340451892185877357983560",
+            "yes_probability": 0.096,
+            "yes_best_bid": 0,
+            "yes_best_ask": 0.096,
+            "yes_spread": 0.096,
+            "no_token_id": "63009185223283017191184772026029375797370085654112615486915888786286653681321",
+            "no_probability": 1,
+            "no_best_bid": 0.904,
+            "no_best_ask": 1,
+            "no_spread": 0.09599999999999997,
+            "volume": 160,
+            "liquidity": 32548.089999999997,
+            "neg_risk": true,
+            "end_date": "2026-06-02T16:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Turek winning the nomination directly informs margin predictions (1 hop).",
+            "event_id": "552327",
+            "event_title": "Iowa Democratic Senate Primary Margin of Victory",
+            "event_slug": "iowa-democratic-senate-primary-margin-of-victory-20260602160244397",
+            "detected_yes_price": 0.25,
+            "detected_no_price": 0.78,
+            "detected_at": 1780477425422,
+            "highest_price_change": 0.282051282051282,
+            "highest_yes_price": 0.25,
+            "highest_no_price": 1,
+            "first_moved_at": 1780478038215,
+            "moved_side": "no",
+            "peaked_at": 1780478038215
+          },
+          {
+            "id": "2420492",
+            "slug": "iowa-democratic-senate-primary-margin-of-victory-20260602160244397",
+            "condition_id": "0xa59499b2af86d315dfba57d8d7edbb6f1e276bea07907a14eabdc68cdd2859c7",
+            "title": "Turek 10\u201320%",
+            "question": "Will Josh Turek win the Iowa Democratic Senate Primary by between 10% and 20%?",
+            "description": "Primary elections in Iowa are scheduled to be held on June 2, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the Iowa Democratic Senate Primary.\n\nThe \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first-place and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official.\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Iowa, such as official statewide results published by the Iowa Secretary of State (https://sos.iowa.gov/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/io-ffe3e675ae.png",
+            "yes_token_id": "85660584573571057439682560644155746868570214516312794165760133097179014474125",
+            "yes_probability": 0.032,
+            "yes_best_bid": 0.002,
+            "yes_best_ask": 0.032,
+            "yes_spread": 0.03,
+            "no_token_id": "63628464992399258238762011806187149968586940828033361737874667048967720998371",
+            "no_probability": 0.998,
+            "no_best_bid": 0.968,
+            "no_best_ask": 0.998,
+            "no_spread": 0.030000000000000027,
+            "volume": 154.09999999999997,
+            "liquidity": 68578.36000000002,
+            "neg_risk": true,
+            "end_date": "2026-06-02T16:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Turek winning the nomination directly informs margin predictions (1 hop).",
+            "event_id": "552327",
+            "event_title": "Iowa Democratic Senate Primary Margin of Victory",
+            "event_slug": "iowa-democratic-senate-primary-margin-of-victory-20260602160244397",
+            "detected_yes_price": 0.4,
+            "detected_no_price": 0.98,
+            "detected_at": 1780477425422,
+            "highest_price_change": 0.95,
+            "highest_yes_price": 0.78,
+            "highest_no_price": 0.998,
+            "first_moved_at": 1780477530351,
+            "moved_side": "yes",
+            "peaked_at": 1780477530351
+          },
+          {
+            "id": "2420491",
+            "slug": "iowa-democratic-senate-primary-margin-of-victory-20260602160244397",
+            "condition_id": "0x3113a07162829b03145627d3fdb57dac153c0728ee99f7961800f6ed61c2d9da",
+            "title": "Turek 20\u201330%",
+            "question": "Will Josh Turek win the Iowa Democratic Senate Primary by between 20% and 30%?",
+            "description": "Primary elections in Iowa are scheduled to be held on June 2, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the Iowa Democratic Senate Primary.\n\nThe \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first-place and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official.\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Iowa, such as official statewide results published by the Iowa Secretary of State (https://sos.iowa.gov/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/io-ffe3e675ae.png",
+            "yes_token_id": "4529703993023628480065749859256726446954850920821764132653109558250827057661",
+            "yes_probability": 0.98,
+            "yes_best_bid": 0.973,
+            "yes_best_ask": 0.98,
+            "yes_spread": 0.007000000000000006,
+            "no_token_id": "39620871081895762467404328281214565005248578969182725696967377979064033328000",
+            "no_probability": 0.027,
+            "no_best_bid": 0.02,
+            "no_best_ask": 0.027,
+            "no_spread": 0.006999999999999999,
+            "volume": 508.75,
+            "liquidity": 105301.81000000004,
+            "neg_risk": true,
+            "end_date": "2026-06-02T16:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Turek winning the nomination directly informs margin predictions (1 hop).",
+            "event_id": "552327",
+            "event_title": "Iowa Democratic Senate Primary Margin of Victory",
+            "event_slug": "iowa-democratic-senate-primary-margin-of-victory-20260602160244397",
+            "detected_yes_price": 0.8,
+            "detected_no_price": 1,
+            "detected_at": 1780477425422,
+            "highest_price_change": 0.22499999999999992,
+            "highest_yes_price": 0.98,
+            "highest_no_price": 1,
+            "first_moved_at": 1780506882144,
+            "moved_side": "yes",
+            "peaked_at": 1780506882144
+          },
+          {
+            "id": "2420493",
+            "slug": "iowa-democratic-senate-primary-margin-of-victory-20260602160244397",
+            "condition_id": "0x233bc66c1198fa75f3cf2b7ec1c5b09df4d200e53cfe9089af0f5bd8a762062b",
+            "title": "Turek <10%",
+            "question": "Will Josh Turek win the Iowa Democratic Senate Primary by less than 10%?",
+            "description": "Primary elections in Iowa are scheduled to be held on June 2, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the Iowa Democratic Senate Primary.\n\nThe \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first-place and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official.\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Iowa, such as official statewide results published by the Iowa Secretary of State (https://sos.iowa.gov/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/io-ffe3e675ae.png",
+            "yes_token_id": "50627743138914790951208122120154608583665482116017563238818111195686509810281",
+            "yes_probability": 0.027,
+            "yes_best_bid": 0,
+            "yes_best_ask": 0.027,
+            "yes_spread": 0.027,
+            "no_token_id": "51396262328484035690769638402186162560084300196828295761628226536103989616933",
+            "no_probability": 1,
+            "no_best_bid": 0.973,
+            "no_best_ask": 1,
+            "no_spread": 0.027000000000000024,
+            "volume": 215,
+            "liquidity": 67013.48000000003,
+            "neg_risk": true,
+            "end_date": "2026-06-02T16:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Turek winning the nomination directly informs margin predictions (1 hop).",
+            "event_id": "552327",
+            "event_title": "Iowa Democratic Senate Primary Margin of Victory",
+            "event_slug": "iowa-democratic-senate-primary-margin-of-victory-20260602160244397",
+            "detected_yes_price": 0.72,
+            "detected_no_price": 0.98,
+            "detected_at": 1780477425422,
+            "highest_price_change": 0.027777777777777804,
+            "highest_yes_price": 0.74,
+            "highest_no_price": 1,
+            "first_moved_at": 1780477427565,
+            "moved_side": "yes",
+            "peaked_at": 1780477462187
+          }
+        ],
+        "topics": [
+          "election-2028",
+          "shutdown"
+        ],
+        "categories": [
+          "politics",
+          "elections",
+          "climate"
+        ]
+      },
+      "related_market": {
+        "id": "2420492",
+        "slug": "iowa-democratic-senate-primary-margin-of-victory-20260602160244397",
+        "condition_id": "0xa59499b2af86d315dfba57d8d7edbb6f1e276bea07907a14eabdc68cdd2859c7",
+        "title": "Turek 10\u201320%",
+        "question": "Will Josh Turek win the Iowa Democratic Senate Primary by between 10% and 20%?",
+        "description": "Primary elections in Iowa are scheduled to be held on June 2, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the Iowa Democratic Senate Primary.\n\nThe \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first-place and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official.\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Iowa, such as official statewide results published by the Iowa Secretary of State (https://sos.iowa.gov/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/io-ffe3e675ae.png",
+        "yes_token_id": "85660584573571057439682560644155746868570214516312794165760133097179014474125",
+        "yes_probability": 0.032,
+        "yes_best_bid": 0.002,
+        "yes_best_ask": 0.032,
+        "yes_spread": 0.03,
+        "no_token_id": "63628464992399258238762011806187149968586940828033361737874667048967720998371",
+        "no_probability": 0.998,
+        "no_best_bid": 0.968,
+        "no_best_ask": 0.998,
+        "no_spread": 0.030000000000000027,
+        "volume": 154.09999999999997,
+        "liquidity": 68578.36000000002,
+        "neg_risk": true,
+        "end_date": "2026-06-02T16:00:00Z",
+        "categories": [
+          "politics",
+          "elections"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Turek winning the nomination directly informs margin predictions (1 hop).",
+        "event_id": "552327",
+        "event_title": "Iowa Democratic Senate Primary Margin of Victory",
+        "event_slug": "iowa-democratic-senate-primary-margin-of-victory-20260602160244397",
+        "detected_yes_price": 0.4,
+        "detected_no_price": 0.98,
+        "detected_at": 1780477425422,
+        "highest_price_change": 0.95,
+        "highest_yes_price": 0.78,
+        "highest_no_price": 0.998,
+        "first_moved_at": 1780477530351,
+        "moved_side": "yes",
+        "peaked_at": 1780477530351
+      },
+      "_scraped_at": "2026-06-03T22:09:38.363286+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 4,
+      "feed_item": {
+        "id": "40579736-abfc-4ea3-9c50-5e22686dc1c1",
+        "timestamp": 1780457298701,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "40579736-abfc-4ea3-9c50-5e22686dc1c1",
+          "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\uddf3\u26a1\ufe0f- Los Angeles Mayoral race at 39% reporting has no candidate getting over the 50% mark with Mayor Karen Bass in first followed by Spencer Pratt.",
+          "channel": "Rerum Novarum // Intel, Breaking News, and Alerts \ud83c\uddfa\ud83c\uddf8",
+          "timestamp": 1780457298701,
+          "link": "https://t.me/rnintel"
+        },
+        "osint": false,
+        "related_markets": [
+          {
+            "id": "2256139",
+            "slug": "la-mayoral-election-first-round-winner",
+            "condition_id": "0x36ffcc6df881532808b8b25b2de3eed9c640a36c93cac58ba96cb3e094dd681a",
+            "title": "Karen Bass",
+            "question": "Will Karen Bass finish first in the first round of the 2026 Los Angeles mayoral election?",
+            "description": "The 2026 Los Angeles mayoral election will be held on June 2, 2026, to elect the mayor of Los Angeles, California. If no candidate receives a majority of the vote, a runoff election will be held on November 3, 2026.\n\nThis market will resolve according to the listed candidate who receives the most valid votes in the first round of this election.\n\nThe named candidates will be primarily ranked by the number of valid votes received in the specified election. If two or more candidates are tied on valid votes, ties will be broken by alphabetical order of the candidates' last names. This market will resolve to the candidate that occupies the highest finishing position after applying this ranking.\n\nIf the results are not known definitively by December 31, 2026, 11:59 PM ET, this market will resolve to \"Other\".\n\nThis market will resolve based on the results of this election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the city and county of Los Angeles.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-karen-bass-win-the-2026-los-angeles-mayoral-election---TZNevQNCaX.jpg",
+            "yes_token_id": "31780491575398492208193095087830703000213750279114187414698217109250561026205",
+            "yes_probability": 0.987,
+            "yes_best_bid": 0.978,
+            "yes_best_ask": 0.987,
+            "yes_spread": 0.009000000000000008,
+            "no_token_id": "36121461603629323435024585489985302215414275943381823809966606757583582063294",
+            "no_probability": 0.022,
+            "no_best_bid": 0.013,
+            "no_best_ask": 0.022,
+            "no_spread": 0.009,
+            "volume": 133823.28866493196,
+            "liquidity": 847340.0299999999,
+            "neg_risk": true,
+            "end_date": "2026-06-02T00:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Current reporting shows Bass in first place, indicating higher likelihood of finishing first.",
+            "event_id": "482873",
+            "event_title": "LA Mayoral Election: First Round Winner?",
+            "event_slug": "la-mayoral-election-first-round-winner",
+            "detected_yes_price": 0.98,
+            "detected_no_price": 0.030000000000000027,
+            "detected_at": 1780457342569,
+            "highest_price_change": 0.3333333333333322,
+            "highest_yes_price": 0.99,
+            "highest_no_price": 0.04,
+            "first_moved_at": 1780457361586,
+            "moved_side": "no",
+            "peaked_at": 1780457361586
+          },
+          {
+            "id": "629030",
+            "slug": "los-angeles-mayoral-election-117",
+            "condition_id": "0x0c9ada12c527451fbdd43c0397a8a006b8aaf2a01567ae069d37220b51937595",
+            "title": "Karen Bass",
+            "question": "Will Karen Bass win the 2026 Los Angeles mayoral election?",
+            "description": "The 2026 Los Angeles mayoral election will be held on June 2, 2026, to elect the mayor of Los Angeles, California. If no candidate receives a majority of the vote, a runoff election will be held on November 3, 2026.\n\nThis market will resolve according to the candidate that wins the election.\n\nThe primary resolution source for this market will be a consensus of credible reporting; however, if there is any ambiguity in the results, this market will resolve according to official information from the City of Los Angeles.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-karen-bass-win-the-2026-los-angeles-mayoral-election---TZNevQNCaX.jpg",
+            "yes_token_id": "21099887182068653164347641846316470453763034851874063977340528628016776716246",
+            "yes_probability": 0.71,
+            "yes_best_bid": 0.7,
+            "yes_best_ask": 0.71,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "34469274651136131348321516150438492438660307886630693950137200696755429925073",
+            "no_probability": 0.3,
+            "no_best_bid": 0.29,
+            "no_best_ask": 0.3,
+            "no_spread": 0.010000000000000009,
+            "volume": 350968.90132080065,
+            "liquidity": 312597.30000000005,
+            "neg_risk": true,
+            "end_date": "2026-06-02T00:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Current reporting shows Bass in first place, indicating higher likelihood of winning.",
+            "event_id": "57111",
+            "event_title": "Los Angeles Mayoral Election",
+            "event_slug": "los-angeles-mayoral-election-117",
+            "detected_yes_price": 0.7,
+            "detected_no_price": 0.31000000000000005,
+            "detected_at": 1780457342569,
+            "highest_price_change": 0.1571428571428573,
+            "highest_yes_price": 0.81,
+            "highest_no_price": 0.31000000000000005,
+            "first_moved_at": 1780457343218,
+            "moved_side": "yes",
+            "peaked_at": 1780457344364
+          }
+        ],
+        "topics": null,
+        "categories": [
+          "elections"
+        ]
+      },
+      "related_market": {
+        "id": "629030",
+        "slug": "los-angeles-mayoral-election-117",
+        "condition_id": "0x0c9ada12c527451fbdd43c0397a8a006b8aaf2a01567ae069d37220b51937595",
+        "title": "Karen Bass",
+        "question": "Will Karen Bass win the 2026 Los Angeles mayoral election?",
+        "description": "The 2026 Los Angeles mayoral election will be held on June 2, 2026, to elect the mayor of Los Angeles, California. If no candidate receives a majority of the vote, a runoff election will be held on November 3, 2026.\n\nThis market will resolve according to the candidate that wins the election.\n\nThe primary resolution source for this market will be a consensus of credible reporting; however, if there is any ambiguity in the results, this market will resolve according to official information from the City of Los Angeles.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-karen-bass-win-the-2026-los-angeles-mayoral-election---TZNevQNCaX.jpg",
+        "yes_token_id": "21099887182068653164347641846316470453763034851874063977340528628016776716246",
+        "yes_probability": 0.71,
+        "yes_best_bid": 0.7,
+        "yes_best_ask": 0.71,
+        "yes_spread": 0.010000000000000009,
+        "no_token_id": "34469274651136131348321516150438492438660307886630693950137200696755429925073",
+        "no_probability": 0.3,
+        "no_best_bid": 0.29,
+        "no_best_ask": 0.3,
+        "no_spread": 0.010000000000000009,
+        "volume": 350968.90132080065,
+        "liquidity": 312597.30000000005,
+        "neg_risk": true,
+        "end_date": "2026-06-02T00:00:00Z",
+        "categories": [
+          "politics",
+          "elections"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Current reporting shows Bass in first place, indicating higher likelihood of winning.",
+        "event_id": "57111",
+        "event_title": "Los Angeles Mayoral Election",
+        "event_slug": "los-angeles-mayoral-election-117",
+        "detected_yes_price": 0.7,
+        "detected_no_price": 0.31000000000000005,
+        "detected_at": 1780457342569,
+        "highest_price_change": 0.1571428571428573,
+        "highest_yes_price": 0.81,
+        "highest_no_price": 0.31000000000000005,
+        "first_moved_at": 1780457343218,
+        "moved_side": "yes",
+        "peaked_at": 1780457344364
+      },
+      "_scraped_at": "2026-06-03T22:09:38.363286+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "global_tension_score": 64,
+      "global_tension_level": "HIGH",
+      "countries": [
+        {
+          "country": "US",
+          "count": 31,
+          "recent": [
+            {
+              "id": "7a44edd4-9cec-4858-939d-d71585acca4f",
+              "kind": "news",
+              "impact": "low",
+              "timestamp": 1780517697684
+            },
+            {
+              "id": "63b0b15a-a258-4aeb-8f46-49ec271730e8",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780518592000
+            },
+            {
+              "id": "2fd60aa7-8a9d-41f1-9e0e-299e7201519a",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1780523320571
+            },
+            {
+              "id": "d09304e1-4b18-4211-8793-b28018db9466",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780522018000
+            },
+            {
+              "id": "ef31571a-7600-4955-8e8e-6e3758b6169c",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780523048000
+            },
+            {
+              "id": "1221f08d-f668-4849-b549-cd60cb1a92df",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780521615000
+            },
+            {
+              "id": "e344ae63-5f99-48f5-8725-654aead59e22",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780514477041
+            },
+            {
+              "id": "8e5b1ef7-7b8a-4846-995d-4721ea05bcba",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780518218000
+            },
+            {
+              "id": "8bc1b02c-05d5-4af1-9df3-88b2deb55925",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780518024441
+            },
+            {
+              "id": "e5e4039e-3dc6-47c2-aed2-8632c31af7eb",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780522290966
+            },
+            {
+              "id": "d9e7387c-ccc1-475f-8813-baae30388f3c",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780516047000
+            },
+            {
+              "id": "bdf5d6c2-7dcd-42e0-bf7b-cf2b8a774a74",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780506949926
+            },
+            {
+              "id": "b115d42c-b7da-477e-aa9d-4ce646f4a1f9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780522429159
+            },
+            {
+              "id": "9257486f-c0f1-48cc-8584-c8270f6830d8",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780523425626
+            },
+            {
+              "id": "a9c97407-d006-4b94-9688-07a5dcf43996",
+              "kind": "news",
+              "impact": "critical",
+              "timestamp": 1780511090715
+            },
+            {
+              "id": "77ba99ed-2152-461f-83be-337a4d6d2a04",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780517727000
+            },
+            {
+              "id": "d1475bed-1f15-44e4-9a12-2dd18dd37162",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780511554437
+            },
+            {
+              "id": "d7315465-1b00-4e29-829d-ad780084a13a",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780518242000
+            },
+            {
+              "id": "41ce0158-b669-46a8-9ea5-7f5b0882cd9f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780502969426
+            },
+            {
+              "id": "056d0aa9-6330-44a0-b6f6-a8819797c99c",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780522020506
+            },
+            {
+              "id": "1bfbdbe7-31ef-425b-9892-973e6762397d",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780520102146
+            },
+            {
+              "id": "9496832d-c4cb-4019-8cbc-5ed794b3e46e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780514370139
+            },
+            {
+              "id": "a88f0c17-c7a9-4de3-8fd1-481de53a6af7",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1780519958079
+            },
+            {
+              "id": "a668449e-ba32-494f-89a6-25bcc98df89c",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780521871000
+            },
+            {
+              "id": "4246fa82-0c24-461d-bde0-d6a91d866d70",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780522917962
+            }
+          ],
+          "volume": 143206786.8488037,
+          "critical_signals": 9,
+          "high_signals": 18,
+          "low_signals": 4
+        },
+        {
+          "country": "IR",
+          "count": 29,
+          "recent": [
+            {
+              "id": "b22e2655-1db4-4565-992c-157c1318b65c",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1780513438000
+            },
+            {
+              "id": "2fd60aa7-8a9d-41f1-9e0e-299e7201519a",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1780523320571
+            },
+            {
+              "id": "d09304e1-4b18-4211-8793-b28018db9466",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780522018000
+            },
+            {
+              "id": "ef31571a-7600-4955-8e8e-6e3758b6169c",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780523048000
+            },
+            {
+              "id": "1221f08d-f668-4849-b549-cd60cb1a92df",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780521615000
+            },
+            {
+              "id": "e344ae63-5f99-48f5-8725-654aead59e22",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780514477041
+            },
+            {
+              "id": "8e5b1ef7-7b8a-4846-995d-4721ea05bcba",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780518218000
+            },
+            {
+              "id": "8bc1b02c-05d5-4af1-9df3-88b2deb55925",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780518024441
+            },
+            {
+              "id": "e5e4039e-3dc6-47c2-aed2-8632c31af7eb",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780522290966
+            },
+            {
+              "id": "188915fa-7f62-4cf1-b754-6ffc2807f085",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780511611895
+            },
+            {
+              "id": "bdf5d6c2-7dcd-42e0-bf7b-cf2b8a774a74",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780506949926
+            },
+            {
+              "id": "b115d42c-b7da-477e-aa9d-4ce646f4a1f9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780522429159
+            },
+            {
+              "id": "9257486f-c0f1-48cc-8584-c8270f6830d8",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780523425626
+            },
+            {
+              "id": "77ba99ed-2152-461f-83be-337a4d6d2a04",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780517727000
+            },
+            {
+              "id": "d1475bed-1f15-44e4-9a12-2dd18dd37162",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780511554437
+            },
+            {
+              "id": "ba5a186b-1642-4719-9dd8-425c66d245c6",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780515979323
+            },
+            {
+              "id": "d7315465-1b00-4e29-829d-ad780084a13a",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780518242000
+            },
+            {
+              "id": "41ce0158-b669-46a8-9ea5-7f5b0882cd9f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780502969426
+            },
+            {
+              "id": "6dc20f26-c2a3-42ea-8e65-587b1c767a5b",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780506004052
+            },
+            {
+              "id": "056d0aa9-6330-44a0-b6f6-a8819797c99c",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780522020506
+            },
+            {
+              "id": "53acaf2a-452b-4b57-ada5-dbee109aac2e",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780509066048
+            },
+            {
+              "id": "a668449e-ba32-494f-89a6-25bcc98df89c",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780521871000
+            },
+            {
+              "id": "4246fa82-0c24-461d-bde0-d6a91d866d70",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780522917962
+            },
+            {
+              "id": "b720d2c2-5a6d-4350-aa1c-03f75c0845dd",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1780521898291
+            },
+            {
+              "id": "42d9ea77-cd5d-44e0-a476-a1282fd97f77",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780517089298
+            }
+          ],
+          "volume": 106511629.61641054,
+          "critical_signals": 8,
+          "high_signals": 18,
+          "low_signals": 3
+        },
+        {
+          "country": "GB",
+          "count": 18,
+          "recent": [
+            {
+              "id": "da5adff0-b559-437b-90f8-80b092853be7",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780510203458
+            },
+            {
+              "id": "17f86a42-086d-4f4f-a2e2-f3d010195a63",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780522822220
+            },
+            {
+              "id": "8611610b-e8c2-42c6-84ff-8437f527dada",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780509838882
+            },
+            {
+              "id": "e5e4039e-3dc6-47c2-aed2-8632c31af7eb",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780522290966
+            },
+            {
+              "id": "d9e7387c-ccc1-475f-8813-baae30388f3c",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780516047000
+            },
+            {
+              "id": "9d74b0ae-e190-4eeb-96a7-737ef89fc7f3",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780517604411
+            },
+            {
+              "id": "e226f90a-0aeb-4e39-a5dd-fb7d0b56489c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780515169348
+            },
+            {
+              "id": "f958299d-27e9-41a9-b1af-4d17e118cd92",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780515346975
+            },
+            {
+              "id": "17f81e64-0b30-4ec1-a73f-3c6ad828edec",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780509494284
+            },
+            {
+              "id": "056d0aa9-6330-44a0-b6f6-a8819797c99c",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780522020506
+            },
+            {
+              "id": "4246fa82-0c24-461d-bde0-d6a91d866d70",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780522917962
+            },
+            {
+              "id": "e877cc6e-08ff-4485-8864-11c2267394a6",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780510429465
+            },
+            {
+              "id": "76473130-09f2-43a2-a06e-a2ee69cf3a73",
+              "kind": "news",
+              "impact": "critical",
+              "timestamp": 1780523519195
+            },
+            {
+              "id": "3aaf9fa0-1a95-46c9-a097-566f10b63dd8",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780524199203
+            },
+            {
+              "id": "f1e2ad5a-14aa-484e-b0e3-b309aad853be",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780508089525
+            },
+            {
+              "id": "38f9eb1a-2c7a-458e-962d-6fdeb4e72aa1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780514149753
+            },
+            {
+              "id": "7004ad16-a225-48de-b16e-6be74e682218",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1780521852070
+            },
+            {
+              "id": "6e5191f0-c41d-4bea-b99d-ac33d0213ee5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780508749506
+            }
+          ],
+          "volume": 6548206.879550046,
+          "critical_signals": 5,
+          "high_signals": 13,
+          "low_signals": 0
+        },
+        {
+          "country": "UA",
+          "count": 13,
+          "recent": [
+            {
+              "id": "17f86a42-086d-4f4f-a2e2-f3d010195a63",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780522822220
+            },
+            {
+              "id": "8611610b-e8c2-42c6-84ff-8437f527dada",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780509838882
+            },
+            {
+              "id": "d9e7387c-ccc1-475f-8813-baae30388f3c",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780516047000
+            },
+            {
+              "id": "9d74b0ae-e190-4eeb-96a7-737ef89fc7f3",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780517604411
+            },
+            {
+              "id": "e226f90a-0aeb-4e39-a5dd-fb7d0b56489c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780515169348
+            },
+            {
+              "id": "f958299d-27e9-41a9-b1af-4d17e118cd92",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780515346975
+            },
+            {
+              "id": "17f81e64-0b30-4ec1-a73f-3c6ad828edec",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780509494284
+            },
+            {
+              "id": "e877cc6e-08ff-4485-8864-11c2267394a6",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780510429465
+            },
+            {
+              "id": "3aaf9fa0-1a95-46c9-a097-566f10b63dd8",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780524199203
+            },
+            {
+              "id": "f1e2ad5a-14aa-484e-b0e3-b309aad853be",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780508089525
+            },
+            {
+              "id": "941b0bbd-ca9c-4508-99e8-6b935230b852",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780506949675
+            },
+            {
+              "id": "38f9eb1a-2c7a-458e-962d-6fdeb4e72aa1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780514149753
+            },
+            {
+              "id": "6e5191f0-c41d-4bea-b99d-ac33d0213ee5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780508749506
+            }
+          ],
+          "volume": 5963349.418840048,
+          "critical_signals": 3,
+          "high_signals": 10,
+          "low_signals": 0
+        },
+        {
+          "country": "RU",
+          "count": 11,
+          "recent": [
+            {
+              "id": "17f86a42-086d-4f4f-a2e2-f3d010195a63",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780522822220
+            },
+            {
+              "id": "8611610b-e8c2-42c6-84ff-8437f527dada",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780509838882
+            },
+            {
+              "id": "bdf5d6c2-7dcd-42e0-bf7b-cf2b8a774a74",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780506949926
+            },
+            {
+              "id": "9d74b0ae-e190-4eeb-96a7-737ef89fc7f3",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780517604411
+            },
+            {
+              "id": "e226f90a-0aeb-4e39-a5dd-fb7d0b56489c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780515169348
+            },
+            {
+              "id": "17f81e64-0b30-4ec1-a73f-3c6ad828edec",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780509494284
+            },
+            {
+              "id": "e877cc6e-08ff-4485-8864-11c2267394a6",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780510429465
+            },
+            {
+              "id": "3aaf9fa0-1a95-46c9-a097-566f10b63dd8",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780524199203
+            },
+            {
+              "id": "f1e2ad5a-14aa-484e-b0e3-b309aad853be",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780508089525
+            },
+            {
+              "id": "941b0bbd-ca9c-4508-99e8-6b935230b852",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780506949675
+            },
+            {
+              "id": "6e5191f0-c41d-4bea-b99d-ac33d0213ee5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780508749506
+            }
+          ],
+          "volume": 6785918.245909239,
+          "critical_signals": 3,
+          "high_signals": 7,
+          "low_signals": 1
+        },
+        {
+          "country": "IL",
+          "count": 5,
+          "recent": [
+            {
+              "id": "d1475bed-1f15-44e4-9a12-2dd18dd37162",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780511554437
+            },
+            {
+              "id": "9496832d-c4cb-4019-8cbc-5ed794b3e46e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780514370139
+            },
+            {
+              "id": "a88f0c17-c7a9-4de3-8fd1-481de53a6af7",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1780519958079
+            },
+            {
+              "id": "42d9ea77-cd5d-44e0-a476-a1282fd97f77",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780517089298
+            },
+            {
+              "id": "e4980886-00d6-4c25-97b7-06735c41017c",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1780509949871
+            }
+          ],
+          "volume": 3002394.3549837535,
+          "critical_signals": 0,
+          "high_signals": 4,
+          "low_signals": 1
+        },
+        {
+          "country": "FR",
+          "count": 3,
+          "recent": [
+            {
+              "id": "8611610b-e8c2-42c6-84ff-8437f527dada",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780509838882
+            },
+            {
+              "id": "17f81e64-0b30-4ec1-a73f-3c6ad828edec",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780509494284
+            },
+            {
+              "id": "f1e2ad5a-14aa-484e-b0e3-b309aad853be",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780508089525
+            }
+          ],
+          "volume": 3822114.30817247,
+          "critical_signals": 2,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "LB",
+          "count": 3,
+          "recent": [
+            {
+              "id": "188915fa-7f62-4cf1-b754-6ffc2807f085",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780511611895
+            },
+            {
+              "id": "9496832d-c4cb-4019-8cbc-5ed794b3e46e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780514370139
+            },
+            {
+              "id": "e4980886-00d6-4c25-97b7-06735c41017c",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1780509949871
+            }
+          ],
+          "volume": 2163029.2528912257,
+          "critical_signals": 0,
+          "high_signals": 3,
+          "low_signals": 0
+        },
+        {
+          "country": "DE",
+          "count": 3,
+          "recent": [
+            {
+              "id": "8611610b-e8c2-42c6-84ff-8437f527dada",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780509838882
+            },
+            {
+              "id": "17f81e64-0b30-4ec1-a73f-3c6ad828edec",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780509494284
+            },
+            {
+              "id": "f1e2ad5a-14aa-484e-b0e3-b309aad853be",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780508089525
+            }
+          ],
+          "volume": 3822114.30817247,
+          "critical_signals": 2,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "KW",
+          "count": 2,
+          "recent": [
+            {
+              "id": "b22e2655-1db4-4565-992c-157c1318b65c",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1780513438000
+            },
+            {
+              "id": "53acaf2a-452b-4b57-ada5-dbee109aac2e",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780509066048
+            }
+          ],
+          "volume": 38519615.69288486,
+          "critical_signals": 1,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "CN",
+          "count": 2,
+          "recent": [
+            {
+              "id": "7a44edd4-9cec-4858-939d-d71585acca4f",
+              "kind": "news",
+              "impact": "low",
+              "timestamp": 1780517697684
+            },
+            {
+              "id": "9a8702c5-fe0f-453d-8197-4786180750a2",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780507808730
+            }
+          ],
+          "volume": 43127772.96425907,
+          "critical_signals": 1,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "KP",
+          "count": 2,
+          "recent": [
+            {
+              "id": "8ddabd2b-18fe-4a25-aead-3381b34dd658",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780521648000
+            },
+            {
+              "id": "467fc317-73f6-4fd1-b750-d7ffcc7f5925",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780523334947
+            }
+          ],
+          "volume": 374.534712,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "PL",
+          "count": 2,
+          "recent": [
+            {
+              "id": "447f8699-de54-4715-8c1f-9eed68811a2a",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1780507731641
+            },
+            {
+              "id": "f1e2ad5a-14aa-484e-b0e3-b309aad853be",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780508089525
+            }
+          ],
+          "volume": 5203304.447234645,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "JP",
+          "count": 1,
+          "recent": [
+            {
+              "id": "9a8702c5-fe0f-453d-8197-4786180750a2",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780507808730
+            }
+          ],
+          "volume": 17288.70827900003,
+          "critical_signals": 1,
+          "high_signals": 0,
+          "low_signals": 0
+        },
+        {
+          "country": "IN",
+          "count": 1,
+          "recent": [
+            {
+              "id": "9a8702c5-fe0f-453d-8197-4786180750a2",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780507808730
+            }
+          ],
+          "volume": 17288.70827900003,
+          "critical_signals": 1,
+          "high_signals": 0,
+          "low_signals": 0
+        },
+        {
+          "country": "PK",
+          "count": 1,
+          "recent": [
+            {
+              "id": "cc2a6f33-302b-409d-8441-3a49d87798dd",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780508192000
+            }
+          ],
+          "volume": 8130394.360647765,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "LT",
+          "count": 1,
+          "recent": [
+            {
+              "id": "447f8699-de54-4715-8c1f-9eed68811a2a",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1780507731641
+            }
+          ],
+          "volume": 3496805.8754109745,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "OM",
+          "count": 1,
+          "recent": [
+            {
+              "id": "e344ae63-5f99-48f5-8725-654aead59e22",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780514477041
+            }
+          ],
+          "volume": 1097556.498458706,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        }
+      ],
+      "_scraped_at": "2026-06-03T22:09:38.363286+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
