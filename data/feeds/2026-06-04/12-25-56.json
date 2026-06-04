@@ -1,0 +1,2575 @@
+{
+  "scraped_at": "2026-06-04T12:25:49.732333+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 9,
+  "items": [
+    {
+      "valid": false,
+      "_scraped_at": "2026-06-04T12:25:49.732333+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "9636f0f6-7a1a-42cb-9df7-d6746622f364",
+        "timestamp": 1780522016690,
+        "tweet": {
+          "feed_item_id": "9636f0f6-7a1a-42cb-9df7-d6746622f364",
+          "post_id": "2062284927148994989",
+          "post_type": "tweet",
+          "created_at": 1780522016690,
+          "user": {
+            "uid": "15012486",
+            "handle": "CBSNews",
+            "display_name": "CBS News",
+            "pfp": "https://pbs.twimg.com/profile_images/1617634745348661249/6YmPYpNd.jpg"
+          },
+          "tags": [
+            "world"
+          ],
+          "body": "Voters in Iowa headed to the polls Tuesday for closely watched primary races that could shape the battle for control of key offices in November. With the once-purple state's two highest seats, governor and senator, up for grabs, CBS News' @LanaZak breaks down the night's biggest\u2026 https://x.com/i/web/status/2062284927148994989",
+          "link": "https://twitter.com/CBSNews/status/2062284927148994989",
+          "attachments": [
+            {
+              "kind": "photo",
+              "src": "https://pbs.twimg.com/amplify_video_thumb/2062284765689163776/img/H2JAZ0LOZD3r1EZj.jpg"
+            },
+            {
+              "kind": "video",
+              "src": "https://video.twimg.com/amplify_video/2062284765689163776/vid/avc1/720x1280/4F0FZcV-rM77_5dx.mp4",
+              "thumb": "https://pbs.twimg.com/amplify_video_thumb/2062284765689163776/img/H2JAZ0LOZD3r1EZj.jpg"
+            }
+          ]
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "related_markets": [
+          {
+            "id": "2420493",
+            "slug": "iowa-democratic-senate-primary-margin-of-victory-20260602160244397",
+            "condition_id": "0x233bc66c1198fa75f3cf2b7ec1c5b09df4d200e53cfe9089af0f5bd8a762062b",
+            "title": "Turek <10%",
+            "question": "Will Josh Turek win the Iowa Democratic Senate Primary by less than 10%?",
+            "description": "Primary elections in Iowa are scheduled to be held on June 2, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the Iowa Democratic Senate Primary.\n\nThe \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first-place and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official.\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Iowa, such as official statewide results published by the Iowa Secretary of State (https://sos.iowa.gov/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/io-ffe3e675ae.png",
+            "yes_token_id": "50627743138914790951208122120154608583665482116017563238818111195686509810281",
+            "yes_probability": 0.02,
+            "yes_best_bid": 0.001,
+            "yes_best_ask": 0.02,
+            "yes_spread": 0.019,
+            "no_token_id": "51396262328484035690769638402186162560084300196828295761628226536103989616933",
+            "no_probability": 0.999,
+            "no_best_bid": 0.98,
+            "no_best_ask": 0.999,
+            "no_spread": 0.019000000000000017,
+            "volume": 215,
+            "liquidity": 44895.240000000034,
+            "neg_risk": true,
+            "end_date": "2026-06-02T16:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Primary voting results are directly relevant to margin predictions (1 hop).",
+            "event_id": "552327",
+            "event_title": "Iowa Democratic Senate Primary Margin of Victory",
+            "event_slug": "iowa-democratic-senate-primary-margin-of-victory-20260602160244397",
+            "detected_yes_price": 0.027,
+            "detected_no_price": 1,
+            "detected_at": 1780522036685,
+            "highest_price_change": 1.2222222222222223,
+            "highest_yes_price": 0.06,
+            "highest_no_price": 1,
+            "first_moved_at": 1780563691223,
+            "moved_side": "yes",
+            "peaked_at": 1780570688183
+          },
+          {
+            "id": "2420490",
+            "slug": "iowa-democratic-senate-primary-margin-of-victory-20260602160244397",
+            "condition_id": "0xa2375c079698fc82b2e60c83d9c514dcc0b85984a00ca8dd2ea5b238186048fd",
+            "title": "Turek 30%+",
+            "question": "Will Josh Turek win the Iowa Democratic Senate Primary by 30% or more?",
+            "description": "Primary elections in Iowa are scheduled to be held on June 2, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the Iowa Democratic Senate Primary.\n\nThe \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first-place and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official.\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Iowa, such as official statewide results published by the Iowa Secretary of State (https://sos.iowa.gov/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/io-ffe3e675ae.png",
+            "yes_token_id": "6557665815826957883679619300622423866926151251265730340451892185877357983560",
+            "yes_probability": 0.024,
+            "yes_best_bid": 0.001,
+            "yes_best_ask": 0.024,
+            "yes_spread": 0.023,
+            "no_token_id": "63009185223283017191184772026029375797370085654112615486915888786286653681321",
+            "no_probability": 0.999,
+            "no_best_bid": 0.976,
+            "no_best_ask": 0.999,
+            "no_spread": 0.02300000000000002,
+            "volume": 160,
+            "liquidity": 46344.56999999999,
+            "neg_risk": true,
+            "end_date": "2026-06-02T16:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Primary voting results are directly relevant to margin predictions (1 hop).",
+            "event_id": "552327",
+            "event_title": "Iowa Democratic Senate Primary Margin of Victory",
+            "event_slug": "iowa-democratic-senate-primary-margin-of-victory-20260602160244397",
+            "detected_yes_price": 0.243,
+            "detected_no_price": 1,
+            "detected_at": 1780522036685,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.243,
+            "highest_no_price": 1
+          },
+          {
+            "id": "2420492",
+            "slug": "iowa-democratic-senate-primary-margin-of-victory-20260602160244397",
+            "condition_id": "0xa59499b2af86d315dfba57d8d7edbb6f1e276bea07907a14eabdc68cdd2859c7",
+            "title": "Turek 10\u201320%",
+            "question": "Will Josh Turek win the Iowa Democratic Senate Primary by between 10% and 20%?",
+            "description": "Primary elections in Iowa are scheduled to be held on June 2, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the Iowa Democratic Senate Primary.\n\nThe \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first-place and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official.\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Iowa, such as official statewide results published by the Iowa Secretary of State (https://sos.iowa.gov/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/io-ffe3e675ae.png",
+            "yes_token_id": "85660584573571057439682560644155746868570214516312794165760133097179014474125",
+            "yes_probability": 0.025,
+            "yes_best_bid": 0.002,
+            "yes_best_ask": 0.025,
+            "yes_spread": 0.023,
+            "no_token_id": "63628464992399258238762011806187149968586940828033361737874667048967720998371",
+            "no_probability": 0.998,
+            "no_best_bid": 0.975,
+            "no_best_ask": 0.998,
+            "no_spread": 0.02300000000000002,
+            "volume": 154.09999999999997,
+            "liquidity": 79153.96999999997,
+            "neg_risk": true,
+            "end_date": "2026-06-02T16:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Primary voting results are directly relevant to margin predictions (1 hop).",
+            "event_id": "552327",
+            "event_title": "Iowa Democratic Senate Primary Margin of Victory",
+            "event_slug": "iowa-democratic-senate-primary-margin-of-victory-20260602160244397",
+            "detected_yes_price": 0.029,
+            "detected_no_price": 0.998,
+            "detected_at": 1780522036685,
+            "highest_price_change": 10.482758620689655,
+            "highest_yes_price": 0.333,
+            "highest_no_price": 0.998,
+            "first_moved_at": 1780522349193,
+            "moved_side": "yes",
+            "peaked_at": 1780569735510
+          },
+          {
+            "id": "2420491",
+            "slug": "iowa-democratic-senate-primary-margin-of-victory-20260602160244397",
+            "condition_id": "0x3113a07162829b03145627d3fdb57dac153c0728ee99f7961800f6ed61c2d9da",
+            "title": "Turek 20\u201330%",
+            "question": "Will Josh Turek win the Iowa Democratic Senate Primary by between 20% and 30%?",
+            "description": "Primary elections in Iowa are scheduled to be held on June 2, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the Iowa Democratic Senate Primary.\n\nThe \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first-place and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official.\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Iowa, such as official statewide results published by the Iowa Secretary of State (https://sos.iowa.gov/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/io-ffe3e675ae.png",
+            "yes_token_id": "4529703993023628480065749859256726446954850920821764132653109558250827057661",
+            "yes_probability": 0.98,
+            "yes_best_bid": 0.977,
+            "yes_best_ask": 0.98,
+            "yes_spread": 0.0030000000000000027,
+            "no_token_id": "39620871081895762467404328281214565005248578969182725696967377979064033328000",
+            "no_probability": 0.023,
+            "no_best_bid": 0.02,
+            "no_best_ask": 0.023,
+            "no_spread": 0.002999999999999999,
+            "volume": 534.2339999999998,
+            "liquidity": 159938.93,
+            "neg_risk": true,
+            "end_date": "2026-06-02T16:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Primary voting results are directly relevant to margin predictions (1 hop).",
+            "event_id": "552327",
+            "event_title": "Iowa Democratic Senate Primary Margin of Victory",
+            "event_slug": "iowa-democratic-senate-primary-margin-of-victory-20260602160244397",
+            "detected_yes_price": 0.98,
+            "detected_no_price": 0.027000000000000024,
+            "detected_at": 1780522036685,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.98,
+            "highest_no_price": 0.027000000000000024
+          },
+          {
+            "id": "2420494",
+            "slug": "iowa-democratic-senate-primary-margin-of-victory-20260602160244397",
+            "condition_id": "0x33d418d11c208ed74f043a830d9a99184f28054f290e2158524a65985ec30e54",
+            "title": "Wahls Wins",
+            "question": "Will Zach Wahls win the Iowa Democratic Senate Primary?",
+            "description": "Primary elections in Iowa are scheduled to be held on June 2, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the Iowa Democratic Senate Primary.\n\nThe \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first-place and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official.\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Iowa, such as official statewide results published by the Iowa Secretary of State (https://sos.iowa.gov/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/io-ffe3e675ae.png",
+            "yes_token_id": "92348846703578560851695710905778006284751181869637121709742906475864187270685",
+            "yes_probability": 0.017,
+            "yes_best_bid": 0.001,
+            "yes_best_ask": 0.017,
+            "yes_spread": 0.016,
+            "no_token_id": "113409969573383635791287974807707660644787789755845474284546011859976324170848",
+            "no_probability": 0.999,
+            "no_best_bid": 0.983,
+            "no_best_ask": 0.999,
+            "no_spread": 0.016000000000000014,
+            "volume": 165,
+            "liquidity": 54891.4,
+            "neg_risk": true,
+            "end_date": "2026-06-02T16:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Primary voting results are directly relevant to Wahls' victory odds (1 hop).",
+            "event_id": "552327",
+            "event_title": "Iowa Democratic Senate Primary Margin of Victory",
+            "event_slug": "iowa-democratic-senate-primary-margin-of-victory-20260602160244397",
+            "detected_yes_price": 0.033,
+            "detected_no_price": 1,
+            "detected_at": 1780522036685,
+            "highest_price_change": 1.424242424242424,
+            "highest_yes_price": 0.08,
+            "highest_no_price": 1,
+            "first_moved_at": 1780522164737,
+            "moved_side": "yes",
+            "peaked_at": 1780522250386
+          }
+        ],
+        "topics": [
+          "election-2028",
+          "ukraine-war",
+          "elon-musk"
+        ],
+        "categories": [
+          "elections",
+          "politics",
+          "geopolitics"
+        ]
+      },
+      "related_market": {
+        "id": "2420492",
+        "slug": "iowa-democratic-senate-primary-margin-of-victory-20260602160244397",
+        "condition_id": "0xa59499b2af86d315dfba57d8d7edbb6f1e276bea07907a14eabdc68cdd2859c7",
+        "title": "Turek 10\u201320%",
+        "question": "Will Josh Turek win the Iowa Democratic Senate Primary by between 10% and 20%?",
+        "description": "Primary elections in Iowa are scheduled to be held on June 2, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the Iowa Democratic Senate Primary.\n\nThe \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first-place and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official.\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Iowa, such as official statewide results published by the Iowa Secretary of State (https://sos.iowa.gov/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/io-ffe3e675ae.png",
+        "yes_token_id": "85660584573571057439682560644155746868570214516312794165760133097179014474125",
+        "yes_probability": 0.025,
+        "yes_best_bid": 0.002,
+        "yes_best_ask": 0.025,
+        "yes_spread": 0.023,
+        "no_token_id": "63628464992399258238762011806187149968586940828033361737874667048967720998371",
+        "no_probability": 0.998,
+        "no_best_bid": 0.975,
+        "no_best_ask": 0.998,
+        "no_spread": 0.02300000000000002,
+        "volume": 154.09999999999997,
+        "liquidity": 79153.96999999997,
+        "neg_risk": true,
+        "end_date": "2026-06-02T16:00:00Z",
+        "categories": [
+          "politics",
+          "elections"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Primary voting results are directly relevant to margin predictions (1 hop).",
+        "event_id": "552327",
+        "event_title": "Iowa Democratic Senate Primary Margin of Victory",
+        "event_slug": "iowa-democratic-senate-primary-margin-of-victory-20260602160244397",
+        "detected_yes_price": 0.029,
+        "detected_no_price": 0.998,
+        "detected_at": 1780522036685,
+        "highest_price_change": 10.482758620689655,
+        "highest_yes_price": 0.333,
+        "highest_no_price": 0.998,
+        "first_moved_at": 1780522349193,
+        "moved_side": "yes",
+        "peaked_at": 1780569735510
+      },
+      "_scraped_at": "2026-06-04T12:25:49.732333+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 2,
+      "feed_item": {
+        "id": "9496832d-c4cb-4019-8cbc-5ed794b3e46e",
+        "timestamp": 1780514370139,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "9496832d-c4cb-4019-8cbc-5ed794b3e46e",
+          "text": "A US official said Israel-Lebanon negotiations mediated by the U.S. are still ongoing at the State Department. \u201cTalks started slow but then made significant progress on a plan of action\u201d, the U.S. official claimed - Axios|FJ",
+          "channel": "FinancialJuice",
+          "timestamp": 1780514370139,
+          "link": "https://t.me/FinancialJuice"
+        },
+        "osint": false,
+        "country": "LB",
+        "countries": [
+          "LB",
+          "IL",
+          "US"
+        ],
+        "related_markets": [
+          {
+            "id": "2414143",
+            "slug": "israel-x-lebanon-diplomatic-meeting-byptptpt",
+            "condition_id": "0x23b24600481f10f9fe9a1d751a210b0ac8ab58a9e7d512fa239ca7f242908782",
+            "title": "June 15",
+            "question": "Will Israel and Lebanon hold a diplomatic meeting by June 15, 2026?",
+            "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Israel and Lebanon by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Israel-Lebanon relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of the Israel and Lebanon, and a consensus of credible reporting.",
+            "image": "",
+            "yes_token_id": "10308647065850179644498944538226422145105154246579880082660109196081785716783",
+            "yes_probability": 1,
+            "yes_best_bid": 0.999,
+            "yes_best_ask": 1,
+            "yes_spread": 0.0010000000000000009,
+            "no_token_id": "47337818765223358136108850205250452440357249202520486970030066830239090340297",
+            "no_probability": 0.001,
+            "no_best_bid": 0,
+            "no_best_ask": 0.001,
+            "no_spread": 0.001,
+            "volume": 16907.984637024998,
+            "liquidity": 678200.7,
+            "neg_risk": false,
+            "end_date": "2026-06-15T16:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Negotiations making progress = higher chance of meeting (1 hop)",
+            "event_id": "549501",
+            "event_title": "Israel x Lebanon diplomatic meeting by...?",
+            "event_slug": "israel-x-lebanon-diplomatic-meeting-byptptpt",
+            "detected_yes_price": 0.997,
+            "detected_no_price": 0.028000000000000025,
+            "detected_at": 1780514457468,
+            "highest_price_change": 0.035714285714284845,
+            "highest_yes_price": 0.997,
+            "highest_no_price": 0.029,
+            "first_moved_at": 1780514463478,
+            "moved_side": "no",
+            "peaked_at": 1780514463478
+          },
+          {
+            "id": "2364342",
+            "slug": "israel-announces-lebanon-ceasefire-extension-by",
+            "condition_id": "0x42973552f8bcfc9269fba8492766f2c20a22243cbba154cf695acaff88ec96c7",
+            "title": "June 7",
+            "question": "Israel announces Lebanon ceasefire extension by June 7?",
+            "description": "This market will resolve to \u201cYes\u201d if Israel officially announces another extension of the ceasefire agreement between Israel and Hezbollah announced on April 16, 2026, defined as a publicly announced commitment to halt direct military engagement with Hezbollah, by the specified date, 11:59 PM Israel Daylight Time. Otherwise, this market will resolve to \"No\".\n\nBoth announcements of extensions of the April 16 ceasefire, as extended on April 23 and May 15, 2026, and of new agreements will qualify.\n\nIf a qualifying announcement is officially made before the resolution date, this market will resolve to \u201cYes,\u201d regardless of whether the ceasefire extension ultimately takes effect.\n\nA qualifying announcement requires clear public confirmation from the Israeli government that Israel has extended its commitment to the ceasefire beyond its current scheduled end.\n\nAny form of informal understanding, backchannel communication, de-escalation, or unilateral pause in hostilities without a confirmed Israeli announcement of a qualifying extension will not qualify. Similarly, newly agreed-upon humanitarian pauses, limited operational pauses, or temporary tactical stand-downs will not qualify.\n\nA newly agreed-upon broader peace deal will qualify if it includes Israel's agreement to a ceasefire extension. Agreements that outline future negotiations or de-escalation measures, but do not explicitly extend the ceasefire, will not qualify.\n\nThis market\u2019s resolution will be based on official statements from the Israeli government and will not require confirmation from Hezbollah. However, an overwhelming consensus of credible media reporting that a ceasefire extension agreement has been reached will suffice.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-hezbollah-ceasefire-extended-by-2-En32lSfFPU.jpg",
+            "yes_token_id": "55729187700220621940979114092031096586154133673216433038757883725632922111626",
+            "yes_probability": 0.999,
+            "yes_best_bid": 0.998,
+            "yes_best_ask": 0.999,
+            "yes_spread": 0.0010000000000000009,
+            "no_token_id": "2049615116809785498037116915229927575556307359227515820401917172384861321364",
+            "no_probability": 0.002,
+            "no_best_bid": 0.001,
+            "no_best_ask": 0.002,
+            "no_spread": 0.001,
+            "volume": 1572106.764188431,
+            "liquidity": 1956736.78,
+            "neg_risk": false,
+            "end_date": "2026-06-07T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Significant progress in talks = higher chance of ceasefire extension (1 hop)",
+            "event_id": "527930",
+            "event_title": "Israel announces Lebanon ceasefire extension by...?",
+            "event_slug": "israel-announces-lebanon-ceasefire-extension-by",
+            "detected_yes_price": 0.19,
+            "detected_no_price": 0.84,
+            "detected_at": 1780514457468,
+            "highest_price_change": 4.257894736842105,
+            "highest_yes_price": 0.999,
+            "highest_no_price": 0.85,
+            "first_moved_at": 1780514513095,
+            "moved_side": "yes",
+            "peaked_at": 1780552637155
+          },
+          {
+            "id": "2382767",
+            "slug": "israel-announces-lebanon-ceasefire-extension-by",
+            "condition_id": "0xb735a1a4f3e5fa31332c969647ee2828e4afb81bd70a2a16c82c3bc2b2084e59",
+            "title": "June 30",
+            "question": "Israel announces Lebanon ceasefire extension by June 30?",
+            "description": "This market will resolve to \u201cYes\u201d if Israel officially announces another extension of the ceasefire agreement between Israel and Hezbollah announced on April 16, 2026, defined as a publicly announced commitment to halt direct military engagement with Hezbollah, by the specified date, 11:59 PM Israel Daylight Time. Otherwise, this market will resolve to \"No\".\n\nBoth announcements of extensions of the April 16 ceasefire, as extended on April 23 and May 15, 2026, and of new agreements will qualify.\n\nIf a qualifying announcement is officially made before the resolution date, this market will resolve to \u201cYes,\u201d regardless of whether the ceasefire extension ultimately takes effect.\n\nA qualifying announcement requires clear public confirmation from the Israeli government that Israel has extended its commitment to the ceasefire beyond its current scheduled end.\n\nAny form of informal understanding, backchannel communication, de-escalation, or unilateral pause in hostilities without a confirmed Israeli announcement of a qualifying extension will not qualify. Similarly, newly agreed-upon humanitarian pauses, limited operational pauses, or temporary tactical stand-downs will not qualify.\n\nA newly agreed-upon broader peace deal will qualify if it includes Israel's agreement to a ceasefire extension. Agreements that outline future negotiations or de-escalation measures, but do not explicitly extend the ceasefire, will not qualify.\n\nThis market\u2019s resolution will be based on official statements from the Israeli government and will not require confirmation from Hezbollah. However, an overwhelming consensus of credible media reporting that a ceasefire extension agreement has been reached will suffice.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-hezbollah-ceasefire-extended-by-2-En32lSfFPU.jpg",
+            "yes_token_id": "28968064572962054334292808754158225441738591218326903559182623034490028107706",
+            "yes_probability": 0.96,
+            "yes_best_bid": 0.9,
+            "yes_best_ask": 0.96,
+            "yes_spread": 0.05999999999999994,
+            "no_token_id": "86422092822641888683693316705083467314215630795006734788473911826565464779702",
+            "no_probability": 0.09999999999999998,
+            "no_best_bid": 0.040000000000000036,
+            "no_best_ask": 0.09999999999999998,
+            "no_spread": 0.05999999999999994,
+            "volume": 134913.13804400008,
+            "liquidity": 0,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Negotiations making progress = potential for ceasefire extension (1 hop)",
+            "event_id": "527930",
+            "event_title": "Israel announces Lebanon ceasefire extension by...?",
+            "event_slug": "israel-announces-lebanon-ceasefire-extension-by",
+            "detected_yes_price": 0.64,
+            "detected_no_price": 0.39,
+            "detected_at": 1780514457468,
+            "highest_price_change": 0.06250000000000006,
+            "highest_yes_price": 0.68,
+            "highest_no_price": 0.39,
+            "first_moved_at": 1780514556353,
+            "moved_side": "yes",
+            "peaked_at": 1780514587516
+          },
+          {
+            "id": "2414142",
+            "slug": "israel-x-lebanon-diplomatic-meeting-byptptpt",
+            "condition_id": "0x38545bccf76fa0230056c9c6230455f55621237209f1801acfaa02b12d5e16dd",
+            "title": "June 7",
+            "question": "Will Israel and Lebanon hold a diplomatic meeting by June 7, 2026?",
+            "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Israel and Lebanon by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Israel-Lebanon relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of the Israel and Lebanon, and a consensus of credible reporting.",
+            "image": "",
+            "yes_token_id": "48225717408980898208724498224243965219460687605895252327678017645604101693330",
+            "yes_probability": 1,
+            "yes_best_bid": 0.999,
+            "yes_best_ask": 1,
+            "yes_spread": 0.0010000000000000009,
+            "no_token_id": "72504213386151494017255019485066307122254896408977897927770891772580322807211",
+            "no_probability": 0.001,
+            "no_best_bid": 0,
+            "no_best_ask": 0.001,
+            "no_spread": 0.001,
+            "volume": 30112.630219886007,
+            "liquidity": 529553.45,
+            "neg_risk": false,
+            "end_date": "2026-06-15T16:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Ongoing talks suggest potential for diplomatic meeting (1 hop)",
+            "event_id": "549501",
+            "event_title": "Israel x Lebanon diplomatic meeting by...?",
+            "event_slug": "israel-x-lebanon-diplomatic-meeting-byptptpt",
+            "detected_yes_price": 0.992,
+            "detected_no_price": 0.04800000000000004,
+            "detected_at": 1780514457468,
+            "highest_price_change": 0.16666666666666566,
+            "highest_yes_price": 0.992,
+            "highest_no_price": 0.056,
+            "first_moved_at": 1780514783391,
+            "moved_side": "no",
+            "peaked_at": 1780514783391
+          },
+          {
+            "id": "665414",
+            "slug": "israel-and-lebanon-normalize-relations-before-2027",
+            "condition_id": "0xfb013a43c6ea97f5af4515baefbefdc2a9cfeca1d764aa9f3ce1f6bd93002dfe",
+            "title": "",
+            "question": "Israel and Lebanon normalize relations before 2027?",
+            "description": "This market will resolve to \"Yes\" if both Israel and Lebanon officially announce the establishment of diplomatic relations by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nThe primary resolution source for this market will be official information from Israel and the Lebanon, however a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-and-lebanon-normalize-relations-in-2025-FaaHLeMMFHjV.jpg",
+            "yes_token_id": "101831681716333180244111475646971936256198362513844467846876475971510978571235",
+            "yes_probability": 0.21,
+            "yes_best_bid": 0.16,
+            "yes_best_ask": 0.21,
+            "yes_spread": 0.04999999999999999,
+            "no_token_id": "52144999543229413513861544800124735490771359660172681885251993902562842903350",
+            "no_probability": 0.84,
+            "no_best_bid": 0.79,
+            "no_best_ask": 0.84,
+            "no_spread": 0.04999999999999993,
+            "volume": 172471.9182440001,
+            "liquidity": 179632.97999999998,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "world",
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Ongoing talks suggest potential for normalization (1 hop)",
+            "event_id": "73147",
+            "event_title": "Israel and Lebanon normalize relations before 2027?",
+            "event_slug": "israel-and-lebanon-normalize-relations-before-2027",
+            "detected_yes_price": 0.23,
+            "detected_no_price": 0.8200000000000001,
+            "detected_at": 1780514457468,
+            "highest_price_change": 0.03658536585365843,
+            "highest_yes_price": 0.23,
+            "highest_no_price": 0.85,
+            "first_moved_at": 1780514473580,
+            "moved_side": "no",
+            "peaked_at": 1780567416827
+          }
+        ],
+        "topics": [
+          "ai-tech"
+        ],
+        "categories": [
+          "tech",
+          "climate"
+        ]
+      },
+      "related_market": {
+        "id": "2364342",
+        "slug": "israel-announces-lebanon-ceasefire-extension-by",
+        "condition_id": "0x42973552f8bcfc9269fba8492766f2c20a22243cbba154cf695acaff88ec96c7",
+        "title": "June 7",
+        "question": "Israel announces Lebanon ceasefire extension by June 7?",
+        "description": "This market will resolve to \u201cYes\u201d if Israel officially announces another extension of the ceasefire agreement between Israel and Hezbollah announced on April 16, 2026, defined as a publicly announced commitment to halt direct military engagement with Hezbollah, by the specified date, 11:59 PM Israel Daylight Time. Otherwise, this market will resolve to \"No\".\n\nBoth announcements of extensions of the April 16 ceasefire, as extended on April 23 and May 15, 2026, and of new agreements will qualify.\n\nIf a qualifying announcement is officially made before the resolution date, this market will resolve to \u201cYes,\u201d regardless of whether the ceasefire extension ultimately takes effect.\n\nA qualifying announcement requires clear public confirmation from the Israeli government that Israel has extended its commitment to the ceasefire beyond its current scheduled end.\n\nAny form of informal understanding, backchannel communication, de-escalation, or unilateral pause in hostilities without a confirmed Israeli announcement of a qualifying extension will not qualify. Similarly, newly agreed-upon humanitarian pauses, limited operational pauses, or temporary tactical stand-downs will not qualify.\n\nA newly agreed-upon broader peace deal will qualify if it includes Israel's agreement to a ceasefire extension. Agreements that outline future negotiations or de-escalation measures, but do not explicitly extend the ceasefire, will not qualify.\n\nThis market\u2019s resolution will be based on official statements from the Israeli government and will not require confirmation from Hezbollah. However, an overwhelming consensus of credible media reporting that a ceasefire extension agreement has been reached will suffice.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-hezbollah-ceasefire-extended-by-2-En32lSfFPU.jpg",
+        "yes_token_id": "55729187700220621940979114092031096586154133673216433038757883725632922111626",
+        "yes_probability": 0.999,
+        "yes_best_bid": 0.998,
+        "yes_best_ask": 0.999,
+        "yes_spread": 0.0010000000000000009,
+        "no_token_id": "2049615116809785498037116915229927575556307359227515820401917172384861321364",
+        "no_probability": 0.002,
+        "no_best_bid": 0.001,
+        "no_best_ask": 0.002,
+        "no_spread": 0.001,
+        "volume": 1572106.764188431,
+        "liquidity": 1956736.78,
+        "neg_risk": false,
+        "end_date": "2026-06-07T00:00:00Z",
+        "categories": [
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Significant progress in talks = higher chance of ceasefire extension (1 hop)",
+        "event_id": "527930",
+        "event_title": "Israel announces Lebanon ceasefire extension by...?",
+        "event_slug": "israel-announces-lebanon-ceasefire-extension-by",
+        "detected_yes_price": 0.19,
+        "detected_no_price": 0.84,
+        "detected_at": 1780514457468,
+        "highest_price_change": 4.257894736842105,
+        "highest_yes_price": 0.999,
+        "highest_no_price": 0.85,
+        "first_moved_at": 1780514513095,
+        "moved_side": "yes",
+        "peaked_at": 1780552637155
+      },
+      "_scraped_at": "2026-06-04T12:25:49.732333+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 3,
+      "feed_item": {
+        "id": "f61f7719-d84d-4fc1-8ab5-50dfeb0f826d",
+        "timestamp": 1780564014000,
+        "tweet": {
+          "feed_item_id": "f61f7719-d84d-4fc1-8ab5-50dfeb0f826d",
+          "post_id": "2062461079532560470",
+          "post_type": "tweet",
+          "created_at": 1780564014000,
+          "user": {
+            "uid": "3295423333",
+            "handle": "FirstSquawk",
+            "display_name": "First Squawk",
+            "pfp": "https://pbs.twimg.com/profile_images/1039778545738964992/6fl6RNN0_normal.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "HEZBOLLAH SAYS FIRED 2 ROCKETS AT ISRAELI TROOOPS IN S.LEBANON",
+          "link": "https://twitter.com/FirstSquawk/status/2062461079532560470"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "LB",
+        "countries": [
+          "LB",
+          "IL"
+        ],
+        "related_markets": [
+          {
+            "id": "2371627",
+            "slug": "israeli-forces-enter-nabatieh-by",
+            "condition_id": "0x80a3df99074e3e9d50e4b0efa6794b04729218283e3d237696611757051be763",
+            "title": "May 31",
+            "question": "Israeli forces enter Nabatieh by May 31?",
+            "description": "This market will resolve to \"Yes\" if Israeli military personnel physically enter the municipality of Nabatieh in Lebanon for military purposes by the listed day 11:59 PM Israel Daylight Time. Otherwise, this market will resolve to \"No\".\n\nFor the purposes of this market, aerial and maritime operations will not be considered. Only operations involving troops on the ground within the municipality of Nabatieh will count.\n\nUndercover Israeli operatives and assets will not count.\n\nThe primary resolution source for this market will be photo and video evidence; however, a consensus of credible reporting may also be used.\n\nIf the date/time of a qualifying entry cannot be confirmed by a consensus of credible reporting within 48 hours of this market's end date, it will resolve to \"No\" regardless of whether it was later confirmed to have taken place.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israeli-forces-enter-lebanon-by-mN30kvtnqkh_.jpg",
+            "yes_token_id": "26690509644039316577919188223246034779787598078178697978538229355798237769956",
+            "yes_probability": 0.013,
+            "yes_best_bid": 0.01,
+            "yes_best_ask": 0.013,
+            "yes_spread": 0.002999999999999999,
+            "no_token_id": "61918987270030698508197614543738133133115512669117319767454932011319912253185",
+            "no_probability": 0.99,
+            "no_best_bid": 0.987,
+            "no_best_ask": 0.99,
+            "no_spread": 0.0030000000000000027,
+            "volume": 13978.715883,
+            "liquidity": 1146023.9300000006,
+            "neg_risk": false,
+            "end_date": "2026-06-07T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Direct military action by Hezbollah increases likelihood of Israeli troop movements.",
+            "event_id": "531495",
+            "event_title": "Israeli forces enter Nabatieh by...?",
+            "event_slug": "israeli-forces-enter-nabatieh-by",
+            "detected_yes_price": 0.013,
+            "detected_no_price": 0.991,
+            "detected_at": 1780564071055,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.013,
+            "highest_no_price": 0.991
+          },
+          {
+            "id": "2371628",
+            "slug": "israeli-forces-enter-nabatieh-by",
+            "condition_id": "0x283d4efb530a7ff6714ac7ae4fc9d98259f620da36f87be35466196d2c6de8bd",
+            "title": "June 7",
+            "question": "Israeli forces enter Nabatieh by June 7?",
+            "description": "This market will resolve to \"Yes\" if Israeli military personnel physically enter the municipality of Nabatieh in Lebanon for military purposes by the listed day 11:59 PM Israel Daylight Time. Otherwise, this market will resolve to \"No\".\n\nFor the purposes of this market, aerial and maritime operations will not be considered. Only operations involving troops on the ground within the municipality of Nabatieh will count.\n\nUndercover Israeli operatives and assets will not count.\n\nThe primary resolution source for this market will be photo and video evidence; however, a consensus of credible reporting may also be used.\n\nIf the date/time of a qualifying entry cannot be confirmed by a consensus of credible reporting within 48 hours of this market's end date, it will resolve to \"No\" regardless of whether it was later confirmed to have taken place.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israeli-forces-enter-lebanon-by-mN30kvtnqkh_.jpg",
+            "yes_token_id": "105272149250210440980965323056242991018368964968505049532067476726420686637234",
+            "yes_probability": 0.062,
+            "yes_best_bid": 0.046,
+            "yes_best_ask": 0.062,
+            "yes_spread": 0.016,
+            "no_token_id": "48922469481019263887899470555952620873602371001134193464418041772328082677152",
+            "no_probability": 0.954,
+            "no_best_bid": 0.938,
+            "no_best_ask": 0.954,
+            "no_spread": 0.016000000000000014,
+            "volume": 61818.430386274085,
+            "liquidity": 496335.67000000016,
+            "neg_risk": false,
+            "end_date": "2026-06-07T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Direct military engagement raises the probability of troop movements.",
+            "event_id": "531495",
+            "event_title": "Israeli forces enter Nabatieh by...?",
+            "event_slug": "israeli-forces-enter-nabatieh-by",
+            "detected_yes_price": 0.083,
+            "detected_no_price": 0.943,
+            "detected_at": 1780564071055,
+            "highest_price_change": 1.2650602409638554,
+            "highest_yes_price": 0.188,
+            "highest_no_price": 0.958,
+            "first_moved_at": 1780564071095,
+            "moved_side": "yes",
+            "peaked_at": 1780566680741
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 8,
+            "price": 0
+          }
+        ],
+        "topics": null,
+        "categories": null
+      },
+      "related_market": {
+        "id": "2371628",
+        "slug": "israeli-forces-enter-nabatieh-by",
+        "condition_id": "0x283d4efb530a7ff6714ac7ae4fc9d98259f620da36f87be35466196d2c6de8bd",
+        "title": "June 7",
+        "question": "Israeli forces enter Nabatieh by June 7?",
+        "description": "This market will resolve to \"Yes\" if Israeli military personnel physically enter the municipality of Nabatieh in Lebanon for military purposes by the listed day 11:59 PM Israel Daylight Time. Otherwise, this market will resolve to \"No\".\n\nFor the purposes of this market, aerial and maritime operations will not be considered. Only operations involving troops on the ground within the municipality of Nabatieh will count.\n\nUndercover Israeli operatives and assets will not count.\n\nThe primary resolution source for this market will be photo and video evidence; however, a consensus of credible reporting may also be used.\n\nIf the date/time of a qualifying entry cannot be confirmed by a consensus of credible reporting within 48 hours of this market's end date, it will resolve to \"No\" regardless of whether it was later confirmed to have taken place.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israeli-forces-enter-lebanon-by-mN30kvtnqkh_.jpg",
+        "yes_token_id": "105272149250210440980965323056242991018368964968505049532067476726420686637234",
+        "yes_probability": 0.062,
+        "yes_best_bid": 0.046,
+        "yes_best_ask": 0.062,
+        "yes_spread": 0.016,
+        "no_token_id": "48922469481019263887899470555952620873602371001134193464418041772328082677152",
+        "no_probability": 0.954,
+        "no_best_bid": 0.938,
+        "no_best_ask": 0.954,
+        "no_spread": 0.016000000000000014,
+        "volume": 61818.430386274085,
+        "liquidity": 496335.67000000016,
+        "neg_risk": false,
+        "end_date": "2026-06-07T00:00:00Z",
+        "categories": [
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Direct military engagement raises the probability of troop movements.",
+        "event_id": "531495",
+        "event_title": "Israeli forces enter Nabatieh by...?",
+        "event_slug": "israeli-forces-enter-nabatieh-by",
+        "detected_yes_price": 0.083,
+        "detected_no_price": 0.943,
+        "detected_at": 1780564071055,
+        "highest_price_change": 1.2650602409638554,
+        "highest_yes_price": 0.188,
+        "highest_no_price": 0.958,
+        "first_moved_at": 1780564071095,
+        "moved_side": "yes",
+        "peaked_at": 1780566680741
+      },
+      "_scraped_at": "2026-06-04T12:25:49.732333+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 4,
+      "feed_item": {
+        "id": "c143df63-c175-4fca-8c9b-818c395faa2f",
+        "timestamp": 1780567512957,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "c143df63-c175-4fca-8c9b-818c395faa2f",
+          "text": "\ud83c\uddf0\ud83c\uddf5Somewhere right now, Iranian ayatollahs are feeling sad - Kim Jong Un visited a new nuclear materials production plant and \"stressed the need to accelerate the buildup of nuclear war deterrence forces\":\n\n\"A group of nuclear specialists have ensured the improvement of the efficiency of all systems and elements of the production process and the further strengthening of the base for the production of weapons-grade nuclear materials. \n\nIn 5 years, the ability to produce weapons-grade nuclear materials has increased by 2 times\n\n@Slavyangrad",
+          "channel": "Slavyangrad",
+          "timestamp": 1780567512957,
+          "link": "https://t.me/Slavyangrad"
+        },
+        "osint": false,
+        "country": "KP",
+        "countries": [
+          "KP",
+          "IR"
+        ],
+        "related_markets": [
+          {
+            "id": "2364462",
+            "slug": "number-of-north-korea-missile-tests-in-june-2026",
+            "condition_id": "0x2551b02e2b9cc7c6b61821c97bce5accf054ff4d33984ccad3d6ca6a09fd41e2",
+            "title": "3+",
+            "question": "Will there be 3 or more North Korea tests in June 2026?",
+            "description": "This market will resolve to the number of calendar days on which North Korea (DPRK) conducts a missile launch during June 2026, Pyongyang Time.\n\nIf a single test event spans multiple calendar days, it will count only for the day on which it began.\n\nOnly test launches of ballistic missiles, cruise missiles, and anti-ship missiles will qualify.\n\nTest launches of other systems, including surface-to-air missiles (SAMs), multiple launch rocket systems (MLRS)/rocket artillery, torpedoes, or similar systems, will not qualify.\n\nResolution will be based on publicly available information from reliable sources such as official government statements, reports from international monitoring bodies like the United Nations, or reports from reputable international media.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/north-korea-missile-launch-by-november-15-zwBNKi5pUPJh.jpg",
+            "yes_token_id": "108363964143314025120984586450298431655531941158503662524663931392724429591549",
+            "yes_probability": 0.77,
+            "yes_best_bid": 0.16,
+            "yes_best_ask": 0.77,
+            "yes_spread": 0.61,
+            "no_token_id": "3911913102721874569076334887696389950224036847447469948339051616337633471943",
+            "no_probability": 0.84,
+            "no_best_bid": 0.23,
+            "no_best_ask": 0.84,
+            "no_spread": 0.61,
+            "volume": 118.54750100000001,
+            "liquidity": 5241.009999999999,
+            "neg_risk": true,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Direct link between increased production and potential for more tests (1 hop).",
+            "event_id": "528228",
+            "event_title": "Number of North Korea Missile Tests in June 2026?",
+            "event_slug": "number-of-north-korea-missile-tests-in-june-2026",
+            "detected_yes_price": 0.4,
+            "detected_no_price": 0.87,
+            "detected_at": 1780567541376,
+            "highest_price_change": 0.975,
+            "highest_yes_price": 0.79,
+            "highest_no_price": 0.87,
+            "first_moved_at": 1780567541520,
+            "moved_side": "yes",
+            "peaked_at": 1780575745687
+          }
+        ],
+        "topics": [
+          "shutdown",
+          "iran-regime"
+        ],
+        "categories": [
+          "geopolitics"
+        ]
+      },
+      "related_market": {
+        "id": "2364462",
+        "slug": "number-of-north-korea-missile-tests-in-june-2026",
+        "condition_id": "0x2551b02e2b9cc7c6b61821c97bce5accf054ff4d33984ccad3d6ca6a09fd41e2",
+        "title": "3+",
+        "question": "Will there be 3 or more North Korea tests in June 2026?",
+        "description": "This market will resolve to the number of calendar days on which North Korea (DPRK) conducts a missile launch during June 2026, Pyongyang Time.\n\nIf a single test event spans multiple calendar days, it will count only for the day on which it began.\n\nOnly test launches of ballistic missiles, cruise missiles, and anti-ship missiles will qualify.\n\nTest launches of other systems, including surface-to-air missiles (SAMs), multiple launch rocket systems (MLRS)/rocket artillery, torpedoes, or similar systems, will not qualify.\n\nResolution will be based on publicly available information from reliable sources such as official government statements, reports from international monitoring bodies like the United Nations, or reports from reputable international media.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/north-korea-missile-launch-by-november-15-zwBNKi5pUPJh.jpg",
+        "yes_token_id": "108363964143314025120984586450298431655531941158503662524663931392724429591549",
+        "yes_probability": 0.77,
+        "yes_best_bid": 0.16,
+        "yes_best_ask": 0.77,
+        "yes_spread": 0.61,
+        "no_token_id": "3911913102721874569076334887696389950224036847447469948339051616337633471943",
+        "no_probability": 0.84,
+        "no_best_bid": 0.23,
+        "no_best_ask": 0.84,
+        "no_spread": 0.61,
+        "volume": 118.54750100000001,
+        "liquidity": 5241.009999999999,
+        "neg_risk": true,
+        "end_date": "2026-06-30T00:00:00Z",
+        "categories": [
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Direct link between increased production and potential for more tests (1 hop).",
+        "event_id": "528228",
+        "event_title": "Number of North Korea Missile Tests in June 2026?",
+        "event_slug": "number-of-north-korea-missile-tests-in-june-2026",
+        "detected_yes_price": 0.4,
+        "detected_no_price": 0.87,
+        "detected_at": 1780567541376,
+        "highest_price_change": 0.975,
+        "highest_yes_price": 0.79,
+        "highest_no_price": 0.87,
+        "first_moved_at": 1780567541520,
+        "moved_side": "yes",
+        "peaked_at": 1780575745687
+      },
+      "_scraped_at": "2026-06-04T12:25:49.732333+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 5,
+      "feed_item": {
+        "id": "f705087b-61fe-435b-8e18-a440bca0eab4",
+        "timestamp": 1780571053285,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "f705087b-61fe-435b-8e18-a440bca0eab4",
+          "text": "Chronicle of strikes on the territory of Ukraine from June 3 to June 4, 2026. Yesterday, day and night, the Aerospace Forces and missile forces struck targets in the Donbas, Sumy, Kharkiv, Zaporizhia, Dnipropetrovsk and Kherson regions (the entire spectrum of weapons), Poltava, Korosten in the Zhytomyr region, Chernihiv and Chernihiv region, Odessa and Odessa region, Nikolaev and Nikolaev region, Sarny in the Rivne region (Geraniums/Gerberas). June 3, 2026. \u2022 07:45 Nikolaev - explosion. Geranium/Gerbera. \u2022 08:10 The outskirts of Sarny in the Rivne region - explosion. Geranium/Gerbera. \u2022 08:20 The outskirts of Kryvyi Rih - explosion. Geranium/Gerbera. \u2022 08:40 The outskirts of Kharkov and Yuzhny in the Odessa region - explosions. Geraniums/Gerberas. \u2022 08:43 Outskirts of Kharkov (Oleksiivka) - explosions. Geraniums/Gerberas. At least one Geranium was reactive. \u2022 08:50-08:55 Kharkov - explosions. Geraniums/Gerberas. \u2022 09:30-09:35 Sumy region - explosions. UMPK. Vorozhba and Khoten. \u2022 09:57 Kherson region - explosions. UMPK. Naddnipryanske \u2022 10:04 Kharkov region - explosions. UMPK. North of the region. \u2022 10:47 Kharkov - explosion. Geranium/Gerbera. \u2022 11:10 Zaporizhia region - explosions. UMPK. \u2022 11:35 Kharkov - explosion. Reactive Geranium. \u2022 11:35 Sumy, Dnipropetrovsk, Zaporizhia regions and Donbass - explosions. UMPK. \u2022 12:10 Odessa - explosion. Geranium/Gerbera. \u2022 13:45 Zaporizhia region - explosions. UMPK. \u2022 15:35 Dnipropetrovsk - explosion. Iskander-M. \u2022 15:40 Ichnya, Chernihiv region - explosion. Geranium/Gerbera. \u2022 15:45 Zaporizhia region - explosions. UMPK. Orekhov. \u2022 16:00 near Korosten, Zhytomyr region, an explosion thundered. Geranium/Gerbera. \u2022 16:10 Zaporizhia - explosion. UAV. \u2022 16:20 Dnipropetrovsk - explosion. Geranium/Gerbera. \u2022 16:45 Avdiivka, Chernihiv region and the outskirts of Dnipropetrovsk - explosion. Geranium/Gerbera. \u2022 16:55 The outskirts of Dnipropetrovsk - explosion. Iskander-M. \u2022 17:13 and 17:40 Dnipropetrovsk - explosions. Geraniums/Gerberas. \u2022 18:00-18:25 Dnipropetrovsk - explosion. Geranium/Gerbera. \u2022 19:02 Yuryevka, Dnipropetrovsk region - explosions. X-59/X-69. \u2022 20:00 Chuguev, Kharkiv region - explosions. Tornado-S. Kassety. \u2022 21:10 Kharkiv region - explosions. UMPK. Vovchansky district. \u2022 21:15 Lebedyn, Sumy region - explosion. Geranium/Gerbera. \u2022 21:50 Dnipropetrovsk and Zaporizhzhia - explosions. Geraniums/Gerberas. \u2022 22:00 Donbass, Kharkiv and Dnipropetrovsk regions - explosions. UMPK. \u2022 22:05-22:10 Dnipropetrovsk - explosions. Geraniums/Gerberas. \u2022 22:20 Dnipropetrovsk region - explosions. UMPK. \u2022 22:25 Lebedyn, Sumy region - explosion. Geranium/Gerbera. \u2022 22:40 Pavlohrad, Dnipropetrovsk region and Zaporizhzhia - explosions. Geraniums/Gerberas. \u2022 23:00 Zaporizhzhia region and Donbass - explosions. UMPK. Rechnoye and Nikolaevka. \u2022 23:05 Zaporizhzhia - explosion. Geranium/Gerbera. \u2022 23:15 Dnipropetrovsk - explosion. Geranium/Gerbera. \u2022 23:30 Kharkiv - explosion. Iskander-M. \u2022 23:40 Dnipropetrovsk - explosion. Geranium/Gerbera. \u2022 23:50 Sumy - explosion. Geranium/Gerbera. June 4, 2026. \u2022 00:10 Pryluky, Chernihiv region - explosion. Jet-propelled geranium. \u2022 00:15 Novgorod-Siversky, Chernihiv region - explosions. Geraniums/Gerberas. \u2022 00:30 Donbass - explosions. UMPK. \u2022 00:30-00:35 Yuzhny and Belyary, Odessa region - explosions. Geraniums/Gerberas. \u2022 00:40-00:50 Kharkiv region - explosions. Geraniums/Gerberas. Barminvody sanatorium. \u2022 01:10 Pryluky, Chernihiv region - explosion. Jet-propelled geranium. \u2022 02:05 Sinelnikovo, Dnipropetrovsk region - explosion. Geranium/Gerbera. \u2022 02:40 Poltava - explosion. Geranium/Gerbera. \u2022 02:45 Sinelnikovo, Dnipropetrovsk region - explosion. Geranium/Gerbera. \u2022 02:55 Chernihiv region - explosions. UMPK. Semenivka. \u2022 03:00 Dnipropetrovsk region - explosions. UMPK. \u2022 03:10 Dnipropetrovsk and Sumy regions - explosions. UMPK. \u2022 03:45 Korop, Chernihiv region - explosion. Geranium/Gerbera. \u2022 03:45 Dnipropetrovsk region - explosions. UMPK. \u2022 04:05 Poltava - explosions. Geranium/Gerbera. \u2022 04:45 Dnipropetrovsk - explosion. Geranium/Gerbera. \u2022 05:00-05:55 Zaporizhia region - explosions. UMPK. Lyubitske. \u2022 06:00 Dnipropetrovsk - explosion. Jet-propelled Geranium. On video, Geranium strike on Nova Poshta warehouse in Dnipropetrovsk. @lost_armour",
+          "channel": "Colonelcassad",
+          "timestamp": 1780571053285,
+          "link": "https://t.me/boris_rozhin"
+        },
+        "osint": false,
+        "country": "UA",
+        "countries": [
+          "UA",
+          "GB"
+        ],
+        "related_markets": [
+          {
+            "id": "2107989",
+            "slug": "will-russia-capture-all-of-vovchansk-by",
+            "condition_id": "0x25e961b73889e80bb2e8e7e9611aa573cf5f7cae0d7db8a488256cf758f0f1ca",
+            "title": "December 31",
+            "question": "Will Russia capture all of Vovchansk by December 31?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the entirety of Vovchansk by December 31, 2026, 11:59 PM ET.\n\nVovchansk will be considered captured if the entirety of the municipality is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by December 31, 2026, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nThe territory of the municipality is shaded in light grey and is distinguished from bordering municipalities such as \"Vovchanski Khutory\" with a darker grey line.  If all area within the municipality is shaded in red, however the shading does not precisely match up with the border such that there is a tiny amount of grey along the border of the city, this will still qualify for a \"Yes\" resolution.\n\nOnce Russia captures Vovchansk, any subsequent loss of control will not be considered towards the resolution of this market.\n\nVovchansk Location: https://polymarket-upload.s3.us-east-2.amazonaws.com/Vovchansk.png \nLocation on Google Maps: https://maps.app.goo.gl/pEumzu6kdCPQ2sYt7\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap is rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of if it is shaded red in the ISW map. An announcement of a negotiated settlement that gives Russia de jure control will not qualify. Actual control must be established.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-vovchansk-by-april-30-zZYgOG-rxBt6.jpg",
+            "yes_token_id": "86710982358530854138101879929329828770268257114267139427607604466907126052552",
+            "yes_probability": 0.5,
+            "yes_best_bid": 0.48,
+            "yes_best_ask": 0.5,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "113695697886500303472855280909164020785493554255284377719894094377665350821356",
+            "no_probability": 0.52,
+            "no_best_bid": 0.5,
+            "no_best_ask": 0.52,
+            "no_spread": 0.020000000000000018,
+            "volume": 7343.060959,
+            "liquidity": 46114.16,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Ongoing strikes indicate a focused military effort towards Vovchansk.",
+            "event_id": "73058",
+            "event_title": "Will Russia capture all of Vovchansk by...?",
+            "event_slug": "will-russia-capture-all-of-vovchansk-by",
+            "detected_yes_price": 0.5,
+            "detected_no_price": 0.52,
+            "detected_at": 1780571086693,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.5,
+            "highest_no_price": 0.52
+          },
+          {
+            "id": "2125383",
+            "slug": "will-russia-capture-all-of-prymorske-by",
+            "condition_id": "0x9051c339493374b28c5348337a3928890127228cac85dc270b928c805789052e",
+            "title": "December 31",
+            "question": "Will Russia capture all of Prymorske by December 31, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the entirety of Prymorske, Zaporizhzhia Oblast, by December 31, 2026, 11:59 PM ET.\n\nPrymorske will be considered captured if the entirety of the municipality is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by December 31, 2026, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nThe territory of the municipality is shaded in light grey and is distinguished from bordering municipalities such as \"Stepnohirsk\" with a darker grey line. If all area within the municipality is shaded in red, however, the shading does not precisely match up with the border such that there is a tiny amount of grey along the border of the city, this will still qualify for a \"Yes\" resolution.\n\nOnce Russia captures the entirety of Prymorske, any subsequent loss of control will not be considered towards the resolution of this market.\n\nLocation on Google maps: https://maps.app.goo.gl/K7mS2YU7bZoVVHga9\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map which will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of if it is shaded red in the ISW map. An announcement of a negotiated settlement which gives Russia de jure control will not qualify. Actual control must be established.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-prymorske-by-april-30-2026-DpHD61x_Ap_N.jpg",
+            "yes_token_id": "28973723560426996031408842976019851055790661167079359472177710649429036274394",
+            "yes_probability": 0.16,
+            "yes_best_bid": 0.14,
+            "yes_best_ask": 0.16,
+            "yes_spread": 0.01999999999999999,
+            "no_token_id": "60723272638491203222333518330527122876237274459371689952180825288347810204632",
+            "no_probability": 0.86,
+            "no_best_bid": 0.84,
+            "no_best_ask": 0.86,
+            "no_spread": 0.020000000000000018,
+            "volume": 15229.051162,
+            "liquidity": 22798.520000000004,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Military actions indicate a push towards capturing Prymorske.",
+            "event_id": "131623",
+            "event_title": "Will Russia capture all of Prymorske by...?",
+            "event_slug": "will-russia-capture-all-of-prymorske-by",
+            "detected_yes_price": 0.16,
+            "detected_no_price": 0.86,
+            "detected_at": 1780571086693,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.16,
+            "highest_no_price": 0.86
+          },
+          {
+            "id": "2373817",
+            "slug": "will-russia-capture-all-of-kupiansk-by",
+            "condition_id": "0xa72d5a239c10ac6cb67f109b05513ae3a23db39ab7c5d4e2afa93719f20471ba",
+            "title": "December 31",
+            "question": "Will Russia capture all of Kupiansk by December 31?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the entirety of Kupiansk by December 31, 2026, at 11:59 PM ET.\n\nKupiansk will be considered captured if the entirety of the municipality is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by December 31, 2026, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nThe territory of the municipality is shaded in light grey and is distinguished from bordering municipalities such as \"Moskovka\" with a darker grey line. If all area within the municipality is shaded in red, but the shading does not precisely match up with the border, such that there is a tiny amount of grey along the border of the city, this will still qualify for a \"Yes\" resolution.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nFor the purpose of this market, areas separated from the main municipality through a darker grey line, such as in the southeast of Kupiansk (https://polymarket-upload.s3.us-east-2.amazonaws.com/h-b99a52275d.png), will not count towards the municipality.\n\nOnce Russia captures Kupiansk, any subsequent loss of control will not be considered towards the resolution of this market.\n\nKupiansk Location: https://polymarket-upload.s3.us-east-2.amazonaws.com/Kupiansk+location.jpeg\nLocation on Google maps: https://maps.app.goo.gl/ngCjTi39GSjbzaC46 \n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map which will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of whether it is shaded red in the ISW map. An announcement of a negotiated settlement that gives Russia de jure control will not qualify. Actual control must be established.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-kupiansk-by-june-30-y9hxbGPduBlF.jpg",
+            "yes_token_id": "16620263983815473572619609020950896548271326777722860283515181418520860963393",
+            "yes_probability": 0.54,
+            "yes_best_bid": 0.13,
+            "yes_best_ask": 0.54,
+            "yes_spread": 0.41000000000000003,
+            "no_token_id": "55823320781564825042492633966056498284958282665806983910625268814384693770509",
+            "no_probability": 0.87,
+            "no_best_bid": 0.46,
+            "no_best_ask": 0.87,
+            "no_spread": 0.41,
+            "volume": 3504.5,
+            "liquidity": 45864.42,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "world",
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Military operations in the area suggest a push for Kupiansk.",
+            "event_id": "72352",
+            "event_title": "Will Russia capture all of Kupiansk by...?",
+            "event_slug": "will-russia-capture-all-of-kupiansk-by",
+            "detected_yes_price": 0.44,
+            "detected_no_price": 0.83,
+            "detected_at": 1780571086693,
+            "highest_price_change": 0.6590909090909091,
+            "highest_yes_price": 0.73,
+            "highest_no_price": 0.94,
+            "first_moved_at": 1780571128878,
+            "moved_side": "yes",
+            "peaked_at": 1780571128878
+          },
+          {
+            "id": "1386901",
+            "slug": "will-russia-capture-all-of-kupiansk-by",
+            "condition_id": "0x7ef13602915dcf8f51d5f95b712ecdb9fe3ff71c7f89e76afb098dbdaab973bf",
+            "title": "June 30",
+            "question": "Will Russia capture all of Kupiansk by June 30?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the entirety of Kupiansk by June 30, 2026, at 11:59 PM ET.\n\nKupiansk will be considered captured if the entirety of the municipality is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by June 30, 2026, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nThe territory of the municipality is shaded in light grey and is distinguished from bordering municipalities such as \"Moskovka\" with a darker grey line. If all area within the municipality is shaded in red, but the shading does not precisely match up with the border, such that there is a tiny amount of grey along the border of the city, this will still qualify for a \"Yes\" resolution.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nFor the purpose of this market, areas separated from the main municipality through a darker grey line, such as in the southeast of Kupiansk (https://polymarket-upload.s3.us-east-2.amazonaws.com/h-b99a52275d.png), will not count towards the municipality.\n\nOnce Russia captures Kupiansk, any subsequent loss of control will not be considered towards the resolution of this market.\n\nKupiansk Location: https://polymarket-upload.s3.us-east-2.amazonaws.com/Kupiansk+location.jpeg\nLocation on Google maps: https://maps.app.goo.gl/ngCjTi39GSjbzaC46 \n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map which will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of whether it is shaded red in the ISW map. An announcement of a negotiated settlement that gives Russia de jure control will not qualify. Actual control must be established.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-kupiansk-by-june-30-y9hxbGPduBlF.jpg",
+            "yes_token_id": "41047177216657440229049612343054867251080323008605626957900347239908606990372",
+            "yes_probability": 0.023,
+            "yes_best_bid": 0.015,
+            "yes_best_ask": 0.023,
+            "yes_spread": 0.008,
+            "no_token_id": "79840766020796864893745195538410415702405199356747741841153255370695185707583",
+            "no_probability": 0.985,
+            "no_best_bid": 0.977,
+            "no_best_ask": 0.985,
+            "no_spread": 0.008000000000000007,
+            "volume": 57199.141173999815,
+            "liquidity": 131184.69000000003,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "world",
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Ongoing strikes indicate a strategic focus on Kupiansk.",
+            "event_id": "72352",
+            "event_title": "Will Russia capture all of Kupiansk by...?",
+            "event_slug": "will-russia-capture-all-of-kupiansk-by",
+            "detected_yes_price": 0.023,
+            "detected_no_price": 0.985,
+            "detected_at": 1780571086693,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.023,
+            "highest_no_price": 0.985
+          },
+          {
+            "id": "2125379",
+            "slug": "will-russia-capture-all-of-prymorske-by",
+            "condition_id": "0x27f3e18c14d722d384fdc20f7ed0f7038b19d56d191b36da72762ebbf17f3081",
+            "title": "September 30",
+            "question": "Will Russia capture all of Prymorske by September 30, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the entirety of Prymorske, Zaporizhzhia Oblast, by September 30, 2026, 11:59 PM ET.\n\nPrymorske will be considered captured if the entirety of the municipality is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by September 30, 2026, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nThe territory of the municipality is shaded in light grey and is distinguished from bordering municipalities such as \"Stepnohirsk\" with a darker grey line. If all area within the municipality is shaded in red, however, the shading does not precisely match up with the border such that there is a tiny amount of grey along the border of the city, this will still qualify for a \"Yes\" resolution.\n\nOnce Russia captures the entirety of Prymorske, any subsequent loss of control will not be considered towards the resolution of this market.\n\nLocation on Google maps: https://maps.app.goo.gl/K7mS2YU7bZoVVHga9\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map which will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of if it is shaded red in the ISW map. An announcement of a negotiated settlement which gives Russia de jure control will not qualify. Actual control must be established.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-prymorske-by-april-30-2026-DpHD61x_Ap_N.jpg",
+            "yes_token_id": "62144742210971208278696936141611556807905696657920695628150040740104692189206",
+            "yes_probability": 0.07,
+            "yes_best_bid": 0.04,
+            "yes_best_ask": 0.07,
+            "yes_spread": 0.030000000000000006,
+            "no_token_id": "98944918857405606137810340449921239097996041419914154134190979719169266881957",
+            "no_probability": 0.96,
+            "no_best_bid": 0.93,
+            "no_best_ask": 0.96,
+            "no_spread": 0.029999999999999916,
+            "volume": 2829.9409909999995,
+            "liquidity": 29676.229999999996,
+            "neg_risk": false,
+            "end_date": "2026-09-30T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Strikes in the region indicate a strategic focus on Prymorske.",
+            "event_id": "131623",
+            "event_title": "Will Russia capture all of Prymorske by...?",
+            "event_slug": "will-russia-capture-all-of-prymorske-by",
+            "detected_yes_price": 0.07,
+            "detected_no_price": 0.96,
+            "detected_at": 1780571086693,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.07,
+            "highest_no_price": 0.96
+          }
+        ],
+        "topics": [
+          "ai-tech",
+          "ukraine-war"
+        ],
+        "categories": [
+          "geopolitics",
+          "tech",
+          "culture",
+          "climate"
+        ]
+      },
+      "related_market": {
+        "id": "2373817",
+        "slug": "will-russia-capture-all-of-kupiansk-by",
+        "condition_id": "0xa72d5a239c10ac6cb67f109b05513ae3a23db39ab7c5d4e2afa93719f20471ba",
+        "title": "December 31",
+        "question": "Will Russia capture all of Kupiansk by December 31?",
+        "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the entirety of Kupiansk by December 31, 2026, at 11:59 PM ET.\n\nKupiansk will be considered captured if the entirety of the municipality is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by December 31, 2026, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nThe territory of the municipality is shaded in light grey and is distinguished from bordering municipalities such as \"Moskovka\" with a darker grey line. If all area within the municipality is shaded in red, but the shading does not precisely match up with the border, such that there is a tiny amount of grey along the border of the city, this will still qualify for a \"Yes\" resolution.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nFor the purpose of this market, areas separated from the main municipality through a darker grey line, such as in the southeast of Kupiansk (https://polymarket-upload.s3.us-east-2.amazonaws.com/h-b99a52275d.png), will not count towards the municipality.\n\nOnce Russia captures Kupiansk, any subsequent loss of control will not be considered towards the resolution of this market.\n\nKupiansk Location: https://polymarket-upload.s3.us-east-2.amazonaws.com/Kupiansk+location.jpeg\nLocation on Google maps: https://maps.app.goo.gl/ngCjTi39GSjbzaC46 \n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map which will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of whether it is shaded red in the ISW map. An announcement of a negotiated settlement that gives Russia de jure control will not qualify. Actual control must be established.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-kupiansk-by-june-30-y9hxbGPduBlF.jpg",
+        "yes_token_id": "16620263983815473572619609020950896548271326777722860283515181418520860963393",
+        "yes_probability": 0.54,
+        "yes_best_bid": 0.13,
+        "yes_best_ask": 0.54,
+        "yes_spread": 0.41000000000000003,
+        "no_token_id": "55823320781564825042492633966056498284958282665806983910625268814384693770509",
+        "no_probability": 0.87,
+        "no_best_bid": 0.46,
+        "no_best_ask": 0.87,
+        "no_spread": 0.41,
+        "volume": 3504.5,
+        "liquidity": 45864.42,
+        "neg_risk": false,
+        "end_date": "2026-12-31T00:00:00Z",
+        "categories": [
+          "world",
+          "geopolitics",
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Military operations in the area suggest a push for Kupiansk.",
+        "event_id": "72352",
+        "event_title": "Will Russia capture all of Kupiansk by...?",
+        "event_slug": "will-russia-capture-all-of-kupiansk-by",
+        "detected_yes_price": 0.44,
+        "detected_no_price": 0.83,
+        "detected_at": 1780571086693,
+        "highest_price_change": 0.6590909090909091,
+        "highest_yes_price": 0.73,
+        "highest_no_price": 0.94,
+        "first_moved_at": 1780571128878,
+        "moved_side": "yes",
+        "peaked_at": 1780571128878
+      },
+      "_scraped_at": "2026-06-04T12:25:49.732333+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 6,
+      "feed_item": {
+        "id": "a655df44-24ba-44f3-b70d-8b4e363e9408",
+        "timestamp": 1780548797967,
+        "tweet": null,
+        "news": {
+          "feed_item_id": "a655df44-24ba-44f3-b70d-8b4e363e9408",
+          "headline": "Kim Jong Un inspects new nuclear plant, plans \u2018exponential\u2019 ramp up weapons production",
+          "description": "Kim Jong Un inspected a new plant that makes weapons-grade nuclear material on Wednesday and said Pyongyang plans to \u201cbeef up our state\u2019s nuclear forces at an exponential rate,\u201d according to a report from state-run media.",
+          "image": "https://media.cnn.com/api/v1/images/stellar/prod/ba17daa7c520d4470098ccb07bf3313469307d8c07db77ce0abe0a1594ebd8d7be2222614f74da4f1720fff575bec3000c2f1bce887faae2998a194bf381de27b4084edd3c49cceac68dcf40b3bb5e94.jpg?c=original",
+          "url": "https://edition.cnn.com/2026/06/04/asia/north-korea-nuclear-plant-kim-intl-hnk-ml",
+          "timestamp": 1780548797967,
+          "source": "cnn"
+        },
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "KP",
+        "countries": [
+          "KP"
+        ],
+        "related_markets": [
+          {
+            "id": "2364461",
+            "slug": "number-of-north-korea-missile-tests-in-june-2026",
+            "condition_id": "0xd00fe4b6670a9fca82820eb59ff4e6e8dd21261fdc4b23f4bc3382c1becb8727",
+            "title": "1-2",
+            "question": "Will there be 1-2 North Korea tests in June 2026?",
+            "description": "This market will resolve to the number of calendar days on which North Korea (DPRK) conducts a missile launch during June 2026, Pyongyang Time.\n\nIf a single test event spans multiple calendar days, it will count only for the day on which it began.\n\nOnly test launches of ballistic missiles, cruise missiles, and anti-ship missiles will qualify.\n\nTest launches of other systems, including surface-to-air missiles (SAMs), multiple launch rocket systems (MLRS)/rocket artillery, torpedoes, or similar systems, will not qualify.\n\nResolution will be based on publicly available information from reliable sources such as official government statements, reports from international monitoring bodies like the United Nations, or reports from reputable international media.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/north-korea-missile-launch-by-november-15-zwBNKi5pUPJh.jpg",
+            "yes_token_id": "31755602732964695089956584953125811370746290494990996212159307481962462553092",
+            "yes_probability": 0.57,
+            "yes_best_bid": 0.26,
+            "yes_best_ask": 0.57,
+            "yes_spread": 0.30999999999999994,
+            "no_token_id": "57719247625169602263660030673258050557865014084855091156187228855204048010943",
+            "no_probability": 0.74,
+            "no_best_bid": 0.43,
+            "no_best_ask": 0.74,
+            "no_spread": 0.31,
+            "volume": 60.240688,
+            "liquidity": 20498.29,
+            "neg_risk": true,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Kim Jong Un's plans for nuclear forces suggest likelihood of tests (1 hop).",
+            "event_id": "528228",
+            "event_title": "Number of North Korea Missile Tests in June 2026?",
+            "event_slug": "number-of-north-korea-missile-tests-in-june-2026",
+            "detected_yes_price": 0.61,
+            "detected_no_price": 0.74,
+            "detected_at": 1780548855962,
+            "highest_price_change": 0.278688524590164,
+            "highest_yes_price": 0.78,
+            "highest_no_price": 0.75,
+            "first_moved_at": 1780549075818,
+            "moved_side": "yes",
+            "peaked_at": 1780559243318
+          },
+          {
+            "id": "2364462",
+            "slug": "number-of-north-korea-missile-tests-in-june-2026",
+            "condition_id": "0x2551b02e2b9cc7c6b61821c97bce5accf054ff4d33984ccad3d6ca6a09fd41e2",
+            "title": "3+",
+            "question": "Will there be 3 or more North Korea tests in June 2026?",
+            "description": "This market will resolve to the number of calendar days on which North Korea (DPRK) conducts a missile launch during June 2026, Pyongyang Time.\n\nIf a single test event spans multiple calendar days, it will count only for the day on which it began.\n\nOnly test launches of ballistic missiles, cruise missiles, and anti-ship missiles will qualify.\n\nTest launches of other systems, including surface-to-air missiles (SAMs), multiple launch rocket systems (MLRS)/rocket artillery, torpedoes, or similar systems, will not qualify.\n\nResolution will be based on publicly available information from reliable sources such as official government statements, reports from international monitoring bodies like the United Nations, or reports from reputable international media.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/north-korea-missile-launch-by-november-15-zwBNKi5pUPJh.jpg",
+            "yes_token_id": "108363964143314025120984586450298431655531941158503662524663931392724429591549",
+            "yes_probability": 0.77,
+            "yes_best_bid": 0.16,
+            "yes_best_ask": 0.77,
+            "yes_spread": 0.61,
+            "no_token_id": "3911913102721874569076334887696389950224036847447469948339051616337633471943",
+            "no_probability": 0.84,
+            "no_best_bid": 0.23,
+            "no_best_ask": 0.84,
+            "no_spread": 0.61,
+            "volume": 118.54750100000001,
+            "liquidity": 5241.009999999999,
+            "neg_risk": true,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Kim Jong Un's statement indicates increased missile testing activity (1 hop).",
+            "event_id": "528228",
+            "event_title": "Number of North Korea Missile Tests in June 2026?",
+            "event_slug": "number-of-north-korea-missile-tests-in-june-2026",
+            "detected_yes_price": 0.44,
+            "detected_no_price": 0.87,
+            "detected_at": 1780548855962,
+            "highest_price_change": 0.7954545454545455,
+            "highest_yes_price": 0.79,
+            "highest_no_price": 0.87,
+            "first_moved_at": 1780567258598,
+            "moved_side": "yes",
+            "peaked_at": 1780575745687
+          },
+          {
+            "id": "2364460",
+            "slug": "number-of-north-korea-missile-tests-in-june-2026",
+            "condition_id": "0xf68bb83e31f4911b06b9c179a1b9a04a13579794e387d173e8fe11c00b645121",
+            "title": "<1",
+            "question": "Will there be fewer than 1 North Korea test in June 2026?",
+            "description": "This market will resolve to the number of calendar days on which North Korea (DPRK) conducts a missile launch during June 2026, Pyongyang Time.\n\nIf a single test event spans multiple calendar days, it will count only for the day on which it began.\n\nOnly test launches of ballistic missiles, cruise missiles, and anti-ship missiles will qualify.\n\nTest launches of other systems, including surface-to-air missiles (SAMs), multiple launch rocket systems (MLRS)/rocket artillery, torpedoes, or similar systems, will not qualify.\n\nResolution will be based on publicly available information from reliable sources such as official government statements, reports from international monitoring bodies like the United Nations, or reports from reputable international media.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/north-korea-missile-launch-by-november-15-zwBNKi5pUPJh.jpg",
+            "yes_token_id": "34163914295620800671791699866420040458912602470448016809065467721062352274018",
+            "yes_probability": 0.62,
+            "yes_best_bid": 0.27,
+            "yes_best_ask": 0.62,
+            "yes_spread": 0.35,
+            "no_token_id": "58948630706267010671275403950696628435497756505044134480611194043704207172692",
+            "no_probability": 0.73,
+            "no_best_bid": 0.38,
+            "no_best_ask": 0.73,
+            "no_spread": 0.35,
+            "volume": 195.746523,
+            "liquidity": 21761.029999999995,
+            "neg_risk": true,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Kim Jong Un's statement on nuclear forces indicates likelihood of tests (1 hop).",
+            "event_id": "528228",
+            "event_title": "Number of North Korea Missile Tests in June 2026?",
+            "event_slug": "number-of-north-korea-missile-tests-in-june-2026",
+            "detected_yes_price": 0.62,
+            "detected_no_price": 0.72,
+            "detected_at": 1780548855962,
+            "highest_price_change": 0.11111111111111122,
+            "highest_yes_price": 0.62,
+            "highest_no_price": 0.8,
+            "first_moved_at": 1780554449590,
+            "moved_side": "no",
+            "peaked_at": 1780555470916
+          }
+        ],
+        "topics": [
+          "ai-tech"
+        ],
+        "categories": [
+          "geopolitics",
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "2364461",
+        "slug": "number-of-north-korea-missile-tests-in-june-2026",
+        "condition_id": "0xd00fe4b6670a9fca82820eb59ff4e6e8dd21261fdc4b23f4bc3382c1becb8727",
+        "title": "1-2",
+        "question": "Will there be 1-2 North Korea tests in June 2026?",
+        "description": "This market will resolve to the number of calendar days on which North Korea (DPRK) conducts a missile launch during June 2026, Pyongyang Time.\n\nIf a single test event spans multiple calendar days, it will count only for the day on which it began.\n\nOnly test launches of ballistic missiles, cruise missiles, and anti-ship missiles will qualify.\n\nTest launches of other systems, including surface-to-air missiles (SAMs), multiple launch rocket systems (MLRS)/rocket artillery, torpedoes, or similar systems, will not qualify.\n\nResolution will be based on publicly available information from reliable sources such as official government statements, reports from international monitoring bodies like the United Nations, or reports from reputable international media.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/north-korea-missile-launch-by-november-15-zwBNKi5pUPJh.jpg",
+        "yes_token_id": "31755602732964695089956584953125811370746290494990996212159307481962462553092",
+        "yes_probability": 0.57,
+        "yes_best_bid": 0.26,
+        "yes_best_ask": 0.57,
+        "yes_spread": 0.30999999999999994,
+        "no_token_id": "57719247625169602263660030673258050557865014084855091156187228855204048010943",
+        "no_probability": 0.74,
+        "no_best_bid": 0.43,
+        "no_best_ask": 0.74,
+        "no_spread": 0.31,
+        "volume": 60.240688,
+        "liquidity": 20498.29,
+        "neg_risk": true,
+        "end_date": "2026-06-30T00:00:00Z",
+        "categories": [
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Kim Jong Un's plans for nuclear forces suggest likelihood of tests (1 hop).",
+        "event_id": "528228",
+        "event_title": "Number of North Korea Missile Tests in June 2026?",
+        "event_slug": "number-of-north-korea-missile-tests-in-june-2026",
+        "detected_yes_price": 0.61,
+        "detected_no_price": 0.74,
+        "detected_at": 1780548855962,
+        "highest_price_change": 0.278688524590164,
+        "highest_yes_price": 0.78,
+        "highest_no_price": 0.75,
+        "first_moved_at": 1780549075818,
+        "moved_side": "yes",
+        "peaked_at": 1780559243318
+      },
+      "_scraped_at": "2026-06-04T12:25:49.732333+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 7,
+      "feed_item": {
+        "id": "22a9ab21-9071-4134-9e1b-99c35a8f1b8b",
+        "timestamp": 1780528057000,
+        "tweet": {
+          "feed_item_id": "22a9ab21-9071-4134-9e1b-99c35a8f1b8b",
+          "post_id": "2062310263974486429",
+          "post_type": "tweet",
+          "created_at": 1780528057000,
+          "user": {
+            "uid": "3108351",
+            "handle": "WSJ",
+            "display_name": "The Wall Street Journal",
+            "pfp": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "Months after the Supreme Court struck down President Trump\u2019s most sweeping global tariffs, the administration said it would levy new tariffs using a different legal mechanism. https://on.wsj.com/43Ml2Zf",
+          "link": "https://twitter.com/WSJ/status/2062310263974486429"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "US",
+        "countries": [
+          "US"
+        ],
+        "related_markets": [
+          {
+            "id": "1436458",
+            "slug": "us-trade-deficit-in-2026",
+            "condition_id": "0xaaf3bc4e63735b3bfcc7a008e00ce7466a699584a50e92d94cd256a0ced72a7c",
+            "title": "<500B",
+            "question": "Will the 2026 trade deficit be less than 500B?",
+            "description": "This market will resolve according to the annual US Goods and Services Deficit for 2026, as reported by the US Bureau of Economic Analysis (BEA) and the US Census Bureau (USCB) in the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026, expected to be released in February 2027.\n\nUpon publication, the specified release will be made available at: https://www.bea.gov/news/current-releases\n\nThe relevant figure may be found in the annual summary under \u201cExports, Imports, and Balance (exhibit 1)\u201d. Changes in the BEA or USCB\u2019s reporting format will not disqualify a relevant published figure from counting.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe primary resolution source for this market will be the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 from the US Bureau of Economic Analysis and the US Census Bureau. If this release is not published by April 30, 2027 ET, another credible source on the annual US Goods and Services Deficit for 2026 will be chosen.\n\nNote: any revisions to the annual US Goods and Services Deficit for 2026 made after the publication of the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-trade-deficit-in-2026-Hn37ZN5inoET.jpg",
+            "yes_token_id": "78849497444444188157350698961362879013549528532372718983538139639352715072954",
+            "yes_probability": 0.06,
+            "yes_best_bid": 0.04,
+            "yes_best_ask": 0.06,
+            "yes_spread": 0.019999999999999997,
+            "no_token_id": "16702253457637369355512559909589950195972393433629954055252233038205090796405",
+            "no_probability": 0.96,
+            "no_best_bid": 0.94,
+            "no_best_ask": 0.96,
+            "no_spread": 0.020000000000000018,
+            "volume": 16690.935995,
+            "liquidity": 32601.049999999996,
+            "neg_risk": true,
+            "end_date": "2027-02-28T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "New tariffs implemented = potential impact on trade deficit (1 hop)",
+            "event_id": "230330",
+            "event_title": "US Trade Deficit in 2026?",
+            "event_slug": "us-trade-deficit-in-2026",
+            "detected_yes_price": 0.06,
+            "detected_no_price": 0.96,
+            "detected_at": 1780528071190,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.06,
+            "highest_no_price": 0.96
+          },
+          {
+            "id": "1436460",
+            "slug": "us-trade-deficit-in-2026",
+            "condition_id": "0xac9d6105090f5e372ceb14422889be27f4a07a8b10497786d2df5946d0d7e9c7",
+            "title": "600\u2013700B",
+            "question": "Will the 2026 trade deficit be between 600B and 700B?",
+            "description": "This market will resolve according to the annual US Goods and Services Deficit for 2026, as reported by the US Bureau of Economic Analysis (BEA) and the US Census Bureau (USCB) in the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026, expected to be released in February 2027.\n\nUpon publication, the specified release will be made available at: https://www.bea.gov/news/current-releases\n\nThe relevant figure may be found in the annual summary under \u201cExports, Imports, and Balance (exhibit 1)\u201d. Changes in the BEA or USCB\u2019s reporting format will not disqualify a relevant published figure from counting.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe primary resolution source for this market will be the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 from the US Bureau of Economic Analysis and the US Census Bureau. If this release is not published by April 30, 2027 ET, another credible source on the annual US Goods and Services Deficit for 2026 will be chosen.\n\nNote: any revisions to the annual US Goods and Services Deficit for 2026 made after the publication of the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-trade-deficit-in-2026-Hn37ZN5inoET.jpg",
+            "yes_token_id": "27973691964766109836544315595854712262337866225236386768284652101613679398793",
+            "yes_probability": 0.15,
+            "yes_best_bid": 0.072,
+            "yes_best_ask": 0.15,
+            "yes_spread": 0.078,
+            "no_token_id": "10172566073036860034393519395720286395513476290773008122020667669817961861000",
+            "no_probability": 0.928,
+            "no_best_bid": 0.85,
+            "no_best_ask": 0.928,
+            "no_spread": 0.07800000000000007,
+            "volume": 499.1635380000001,
+            "liquidity": 223772.77999999997,
+            "neg_risk": true,
+            "end_date": "2027-02-28T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "New tariffs implemented = potential impact on trade deficit (1 hop)",
+            "event_id": "230330",
+            "event_title": "US Trade Deficit in 2026?",
+            "event_slug": "us-trade-deficit-in-2026",
+            "detected_yes_price": 0.15,
+            "detected_no_price": 0.952,
+            "detected_at": 1780528071190,
+            "highest_price_change": 0.0378151260504202,
+            "highest_yes_price": 0.15,
+            "highest_no_price": 0.988,
+            "first_moved_at": 1780556628307,
+            "moved_side": "no",
+            "peaked_at": 1780560372104
+          },
+          {
+            "id": "1436462",
+            "slug": "us-trade-deficit-in-2026",
+            "condition_id": "0xd3c6552a51528c74c28471aa0a5e13fbafdf84f02a40d11bf173b94032b7e7ef",
+            "title": "800\u2013900B",
+            "question": "Will the 2026 trade deficit be between 800B and 900B?",
+            "description": "This market will resolve according to the annual US Goods and Services Deficit for 2026, as reported by the US Bureau of Economic Analysis (BEA) and the US Census Bureau (USCB) in the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026, expected to be released in February 2027.\n\nUpon publication, the specified release will be made available at: https://www.bea.gov/news/current-releases\n\nThe relevant figure may be found in the annual summary under \u201cExports, Imports, and Balance (exhibit 1)\u201d. Changes in the BEA or USCB\u2019s reporting format will not disqualify a relevant published figure from counting.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe primary resolution source for this market will be the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 from the US Bureau of Economic Analysis and the US Census Bureau. If this release is not published by April 30, 2027 ET, another credible source on the annual US Goods and Services Deficit for 2026 will be chosen.\n\nNote: any revisions to the annual US Goods and Services Deficit for 2026 made after the publication of the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-trade-deficit-in-2026-Hn37ZN5inoET.jpg",
+            "yes_token_id": "44017019315782922634457300618919482744803730196875933928315824275516729043334",
+            "yes_probability": 0.6,
+            "yes_best_bid": 0.27,
+            "yes_best_ask": 0.6,
+            "yes_spread": 0.32999999999999996,
+            "no_token_id": "55867192153318522579011935519518933000287056983134864115793841072368253621603",
+            "no_probability": 0.73,
+            "no_best_bid": 0.4,
+            "no_best_ask": 0.73,
+            "no_spread": 0.32999999999999996,
+            "volume": 1007.858232,
+            "liquidity": 182758.40000000005,
+            "neg_risk": true,
+            "end_date": "2027-02-28T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "New tariffs implemented = potential impact on trade deficit (1 hop)",
+            "event_id": "230330",
+            "event_title": "US Trade Deficit in 2026?",
+            "event_slug": "us-trade-deficit-in-2026",
+            "detected_yes_price": 0.54,
+            "detected_no_price": 0.72,
+            "detected_at": 1780528071190,
+            "highest_price_change": 0.20370370370370366,
+            "highest_yes_price": 0.65,
+            "highest_no_price": 0.8,
+            "first_moved_at": 1780528094324,
+            "moved_side": "yes",
+            "peaked_at": 1780555952839
+          },
+          {
+            "id": "1436463",
+            "slug": "us-trade-deficit-in-2026",
+            "condition_id": "0x26b69058c1c2c53a8e439504a8755ce75d469ba3a1c82bca934ea7a46f26529e",
+            "title": "900B\u20131T",
+            "question": "Will the 2026 trade deficit be between 900B and 1T?",
+            "description": "This market will resolve according to the annual US Goods and Services Deficit for 2026, as reported by the US Bureau of Economic Analysis (BEA) and the US Census Bureau (USCB) in the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026, expected to be released in February 2027.\n\nUpon publication, the specified release will be made available at: https://www.bea.gov/news/current-releases\n\nThe relevant figure may be found in the annual summary under \u201cExports, Imports, and Balance (exhibit 1)\u201d. Changes in the BEA or USCB\u2019s reporting format will not disqualify a relevant published figure from counting.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe primary resolution source for this market will be the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 from the US Bureau of Economic Analysis and the US Census Bureau. If this release is not published by April 30, 2027 ET, another credible source on the annual US Goods and Services Deficit for 2026 will be chosen.\n\nNote: any revisions to the annual US Goods and Services Deficit for 2026 made after the publication of the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-trade-deficit-in-2026-Hn37ZN5inoET.jpg",
+            "yes_token_id": "106954541463172441153958311986648134847708254123222442997405232679090482865750",
+            "yes_probability": 0.48,
+            "yes_best_bid": 0.09,
+            "yes_best_ask": 0.48,
+            "yes_spread": 0.39,
+            "no_token_id": "61472080815013929868564565937575699345479156899354364969053537768689252061185",
+            "no_probability": 0.91,
+            "no_best_bid": 0.52,
+            "no_best_ask": 0.91,
+            "no_spread": 0.39,
+            "volume": 983.5841600000001,
+            "liquidity": 178095.91999999998,
+            "neg_risk": true,
+            "end_date": "2027-02-28T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "New tariffs implemented = potential impact on trade deficit (1 hop)",
+            "event_id": "230330",
+            "event_title": "US Trade Deficit in 2026?",
+            "event_slug": "us-trade-deficit-in-2026",
+            "detected_yes_price": 0.48,
+            "detected_no_price": 0.91,
+            "detected_at": 1780528071190,
+            "highest_price_change": 0.041666666666666706,
+            "highest_yes_price": 0.5,
+            "highest_no_price": 0.91,
+            "first_moved_at": 1780528071659,
+            "moved_side": "yes",
+            "peaked_at": 1780554641699
+          },
+          {
+            "id": "1436465",
+            "slug": "us-trade-deficit-in-2026",
+            "condition_id": "0x306b01a825a423668beec573456610843ad4c47f72d1fb70d880f55b10109d91",
+            "title": "1.1T+",
+            "question": "Will the 2026 trade deficit be 1.1T or more?",
+            "description": "This market will resolve according to the annual US Goods and Services Deficit for 2026, as reported by the US Bureau of Economic Analysis (BEA) and the US Census Bureau (USCB) in the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026, expected to be released in February 2027.\n\nUpon publication, the specified release will be made available at: https://www.bea.gov/news/current-releases\n\nThe relevant figure may be found in the annual summary under \u201cExports, Imports, and Balance (exhibit 1)\u201d. Changes in the BEA or USCB\u2019s reporting format will not disqualify a relevant published figure from counting.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe primary resolution source for this market will be the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 from the US Bureau of Economic Analysis and the US Census Bureau. If this release is not published by April 30, 2027 ET, another credible source on the annual US Goods and Services Deficit for 2026 will be chosen.\n\nNote: any revisions to the annual US Goods and Services Deficit for 2026 made after the publication of the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-trade-deficit-in-2026-Hn37ZN5inoET.jpg",
+            "yes_token_id": "5719638015015095021777253576720314166686827284908160443837910371323865840881",
+            "yes_probability": 0.069,
+            "yes_best_bid": 0.01,
+            "yes_best_ask": 0.069,
+            "yes_spread": 0.059000000000000004,
+            "no_token_id": "81041681824483581150311469351093877024153338807206649092878012100346498915016",
+            "no_probability": 0.99,
+            "no_best_bid": 0.931,
+            "no_best_ask": 0.99,
+            "no_spread": 0.05899999999999994,
+            "volume": 634.9066340000002,
+            "liquidity": 89123.42999999996,
+            "neg_risk": true,
+            "end_date": "2027-02-28T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "New tariffs implemented = potential impact on trade deficit (1 hop)",
+            "event_id": "230330",
+            "event_title": "US Trade Deficit in 2026?",
+            "event_slug": "us-trade-deficit-in-2026",
+            "detected_yes_price": 0.069,
+            "detected_no_price": 0.99,
+            "detected_at": 1780528071190,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.069,
+            "highest_no_price": 0.99
+          }
+        ],
+        "topics": [
+          "trump-tariffs",
+          "ai-tech"
+        ],
+        "categories": [
+          "tech",
+          "climate",
+          "politics",
+          "world",
+          "economy"
+        ]
+      },
+      "related_market": {
+        "id": "1436462",
+        "slug": "us-trade-deficit-in-2026",
+        "condition_id": "0xd3c6552a51528c74c28471aa0a5e13fbafdf84f02a40d11bf173b94032b7e7ef",
+        "title": "800\u2013900B",
+        "question": "Will the 2026 trade deficit be between 800B and 900B?",
+        "description": "This market will resolve according to the annual US Goods and Services Deficit for 2026, as reported by the US Bureau of Economic Analysis (BEA) and the US Census Bureau (USCB) in the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026, expected to be released in February 2027.\n\nUpon publication, the specified release will be made available at: https://www.bea.gov/news/current-releases\n\nThe relevant figure may be found in the annual summary under \u201cExports, Imports, and Balance (exhibit 1)\u201d. Changes in the BEA or USCB\u2019s reporting format will not disqualify a relevant published figure from counting.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe primary resolution source for this market will be the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 from the US Bureau of Economic Analysis and the US Census Bureau. If this release is not published by April 30, 2027 ET, another credible source on the annual US Goods and Services Deficit for 2026 will be chosen.\n\nNote: any revisions to the annual US Goods and Services Deficit for 2026 made after the publication of the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 will not be considered.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-trade-deficit-in-2026-Hn37ZN5inoET.jpg",
+        "yes_token_id": "44017019315782922634457300618919482744803730196875933928315824275516729043334",
+        "yes_probability": 0.6,
+        "yes_best_bid": 0.27,
+        "yes_best_ask": 0.6,
+        "yes_spread": 0.32999999999999996,
+        "no_token_id": "55867192153318522579011935519518933000287056983134864115793841072368253621603",
+        "no_probability": 0.73,
+        "no_best_bid": 0.4,
+        "no_best_ask": 0.73,
+        "no_spread": 0.32999999999999996,
+        "volume": 1007.858232,
+        "liquidity": 182758.40000000005,
+        "neg_risk": true,
+        "end_date": "2027-02-28T00:00:00Z",
+        "categories": [
+          "economy"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "New tariffs implemented = potential impact on trade deficit (1 hop)",
+        "event_id": "230330",
+        "event_title": "US Trade Deficit in 2026?",
+        "event_slug": "us-trade-deficit-in-2026",
+        "detected_yes_price": 0.54,
+        "detected_no_price": 0.72,
+        "detected_at": 1780528071190,
+        "highest_price_change": 0.20370370370370366,
+        "highest_yes_price": 0.65,
+        "highest_no_price": 0.8,
+        "first_moved_at": 1780528094324,
+        "moved_side": "yes",
+        "peaked_at": 1780555952839
+      },
+      "_scraped_at": "2026-06-04T12:25:49.732333+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "global_tension_score": 95,
+      "global_tension_level": "SEVERE",
+      "countries": [
+        {
+          "country": "GB",
+          "count": 18,
+          "recent": [
+            {
+              "id": "fe7412c3-298a-44fb-b873-a0c52899fa51",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780556593394
+            },
+            {
+              "id": "c84fefef-cb85-48fb-9d8e-098bc50c00e4",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1780555536081
+            },
+            {
+              "id": "4733d668-7d27-4c97-a075-e7ad7c8b7d9f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780572252840
+            },
+            {
+              "id": "b1b9c1b4-7586-4ee4-afe6-1db3c9d6f0be",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780575288916
+            },
+            {
+              "id": "64a74e91-1b23-4c03-951f-58cbcb2537af",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1780572852000
+            },
+            {
+              "id": "16f90124-54ff-41d6-9d80-c086b2613a57",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1780564153060
+            },
+            {
+              "id": "868dc187-5937-4cd3-92c0-a4d6522a36ff",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780573022917
+            },
+            {
+              "id": "0bbb9ea8-e7da-49a0-86d4-0041cdd0be29",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780571699000
+            },
+            {
+              "id": "f705087b-61fe-435b-8e18-a440bca0eab4",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780571053285
+            },
+            {
+              "id": "ebd5c6cd-837d-4152-853a-c2ab60ff2a29",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780554853271
+            },
+            {
+              "id": "3e2d8926-b0d5-4ccd-9112-5d2885a6d2ce",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780557313209
+            },
+            {
+              "id": "41e4628f-c0af-4d45-8974-f92272fbc088",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780566912969
+            },
+            {
+              "id": "d3a4cf99-8815-4947-831e-0deb6b928870",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780574532785
+            },
+            {
+              "id": "15ac9a22-5269-4746-a383-5b8d84636143",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780557373461
+            },
+            {
+              "id": "706f766d-e6da-480a-a4d8-ab9e2149a46a",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780566328172
+            },
+            {
+              "id": "a186a24c-df3f-4149-8288-34d087f9485c",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780569267409
+            },
+            {
+              "id": "28cf0035-3c7c-4aab-90e5-ea08edd0e01c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780563733286
+            },
+            {
+              "id": "7ba908d0-926b-4943-9ff2-053b2d042ad6",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780571188082
+            }
+          ],
+          "volume": 5592853.767586946,
+          "critical_signals": 0,
+          "high_signals": 16,
+          "low_signals": 2
+        },
+        {
+          "country": "UA",
+          "count": 18,
+          "recent": [
+            {
+              "id": "6aae3002-270f-4708-9896-ec10fa26f01a",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780555933256
+            },
+            {
+              "id": "fe7412c3-298a-44fb-b873-a0c52899fa51",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780556593394
+            },
+            {
+              "id": "c84fefef-cb85-48fb-9d8e-098bc50c00e4",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1780555536081
+            },
+            {
+              "id": "4733d668-7d27-4c97-a075-e7ad7c8b7d9f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780572252840
+            },
+            {
+              "id": "64a74e91-1b23-4c03-951f-58cbcb2537af",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1780572852000
+            },
+            {
+              "id": "16f90124-54ff-41d6-9d80-c086b2613a57",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1780564153060
+            },
+            {
+              "id": "868dc187-5937-4cd3-92c0-a4d6522a36ff",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780573022917
+            },
+            {
+              "id": "0bbb9ea8-e7da-49a0-86d4-0041cdd0be29",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780571699000
+            },
+            {
+              "id": "f705087b-61fe-435b-8e18-a440bca0eab4",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780571053285
+            },
+            {
+              "id": "ebd5c6cd-837d-4152-853a-c2ab60ff2a29",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780554853271
+            },
+            {
+              "id": "41e4628f-c0af-4d45-8974-f92272fbc088",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780566912969
+            },
+            {
+              "id": "d3a4cf99-8815-4947-831e-0deb6b928870",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780574532785
+            },
+            {
+              "id": "15ac9a22-5269-4746-a383-5b8d84636143",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780557373461
+            },
+            {
+              "id": "706f766d-e6da-480a-a4d8-ab9e2149a46a",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780566328172
+            },
+            {
+              "id": "a186a24c-df3f-4149-8288-34d087f9485c",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780569267409
+            },
+            {
+              "id": "28cf0035-3c7c-4aab-90e5-ea08edd0e01c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780563733286
+            },
+            {
+              "id": "7ba908d0-926b-4943-9ff2-053b2d042ad6",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780571188082
+            },
+            {
+              "id": "9d25d1e2-0db7-49f5-a43a-a0d258113a24",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780573438805
+            }
+          ],
+          "volume": 2866296.452486744,
+          "critical_signals": 0,
+          "high_signals": 16,
+          "low_signals": 2
+        },
+        {
+          "country": "RU",
+          "count": 17,
+          "recent": [
+            {
+              "id": "6aae3002-270f-4708-9896-ec10fa26f01a",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780555933256
+            },
+            {
+              "id": "c84fefef-cb85-48fb-9d8e-098bc50c00e4",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1780555536081
+            },
+            {
+              "id": "2de723cd-d57c-45ea-825d-d7779bd3dadb",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780564873234
+            },
+            {
+              "id": "4733d668-7d27-4c97-a075-e7ad7c8b7d9f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780572252840
+            },
+            {
+              "id": "64a74e91-1b23-4c03-951f-58cbcb2537af",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1780572852000
+            },
+            {
+              "id": "16f90124-54ff-41d6-9d80-c086b2613a57",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1780564153060
+            },
+            {
+              "id": "868dc187-5937-4cd3-92c0-a4d6522a36ff",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780573022917
+            },
+            {
+              "id": "0bbb9ea8-e7da-49a0-86d4-0041cdd0be29",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780571699000
+            },
+            {
+              "id": "ebd5c6cd-837d-4152-853a-c2ab60ff2a29",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780554853271
+            },
+            {
+              "id": "41e4628f-c0af-4d45-8974-f92272fbc088",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780566912969
+            },
+            {
+              "id": "d3a4cf99-8815-4947-831e-0deb6b928870",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780574532785
+            },
+            {
+              "id": "15ac9a22-5269-4746-a383-5b8d84636143",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780557373461
+            },
+            {
+              "id": "706f766d-e6da-480a-a4d8-ab9e2149a46a",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780566328172
+            },
+            {
+              "id": "a186a24c-df3f-4149-8288-34d087f9485c",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780569267409
+            },
+            {
+              "id": "28cf0035-3c7c-4aab-90e5-ea08edd0e01c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780563733286
+            },
+            {
+              "id": "7ba908d0-926b-4943-9ff2-053b2d042ad6",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780571188082
+            },
+            {
+              "id": "9d25d1e2-0db7-49f5-a43a-a0d258113a24",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780573438805
+            }
+          ],
+          "volume": 2888302.289156284,
+          "critical_signals": 0,
+          "high_signals": 15,
+          "low_signals": 2
+        },
+        {
+          "country": "LB",
+          "count": 12,
+          "recent": [
+            {
+              "id": "573ecf4c-a0b7-41a5-9873-04a810af0a05",
+              "kind": "news",
+              "impact": "low",
+              "timestamp": 1780566380739
+            },
+            {
+              "id": "f61f7719-d84d-4fc1-8ab5-50dfeb0f826d",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780564014000
+            },
+            {
+              "id": "60da36f0-2424-4925-a363-10b7799ce7b1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780569132928
+            },
+            {
+              "id": "b143711f-b2b7-4e2e-9061-bacf9feaf065",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780566863594
+            },
+            {
+              "id": "04b94d9f-dab8-4c04-8300-91fc5d891f49",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780563493135
+            },
+            {
+              "id": "d7e719d9-5e60-4980-be45-05a18743595b",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1780559542005
+            },
+            {
+              "id": "b7298b65-5245-40f9-ba2f-e2127f7238b1",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780564641000
+            },
+            {
+              "id": "b92f7b04-af2e-41bb-89e6-1386b66cf402",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780561693105
+            },
+            {
+              "id": "12a9ecd1-f896-4c59-88c8-dd3369c66423",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780572600619
+            },
+            {
+              "id": "01e8de2a-1087-4c50-9cec-7337ad791948",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780575338219
+            },
+            {
+              "id": "9b48a8e6-b261-43c9-bffb-299308cfec94",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780564802378
+            },
+            {
+              "id": "6f0635b9-5163-42b2-ac2b-f46339bc9f43",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780575305672
+            }
+          ],
+          "volume": 11037584.493386429,
+          "critical_signals": 4,
+          "high_signals": 6,
+          "low_signals": 2
+        },
+        {
+          "country": "IR",
+          "count": 11,
+          "recent": [
+            {
+              "id": "bce11c12-63ca-4c28-9690-5796a387b4a8",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780571729000
+            },
+            {
+              "id": "4ff6321e-7450-4468-9519-a7dae7f799e9",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780570500514
+            },
+            {
+              "id": "b1b9c1b4-7586-4ee4-afe6-1db3c9d6f0be",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780575288916
+            },
+            {
+              "id": "c143df63-c175-4fca-8c9b-818c395faa2f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780567512957
+            },
+            {
+              "id": "d219fb63-bee3-4791-a9f6-abaf67855997",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780571772641
+            },
+            {
+              "id": "b143711f-b2b7-4e2e-9061-bacf9feaf065",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780566863594
+            },
+            {
+              "id": "d7e719d9-5e60-4980-be45-05a18743595b",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1780559542005
+            },
+            {
+              "id": "b92f7b04-af2e-41bb-89e6-1386b66cf402",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780561693105
+            },
+            {
+              "id": "861a19b6-dcc8-4530-9fb2-a09f1a34e48a",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780572112000
+            },
+            {
+              "id": "6c837267-ccd2-496a-8346-1db2b264bf28",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780572112732
+            },
+            {
+              "id": "986ea2c2-e64b-4ce6-8da6-381c8cf81928",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780557973190
+            }
+          ],
+          "volume": 106080489.52815758,
+          "critical_signals": 4,
+          "high_signals": 6,
+          "low_signals": 1
+        },
+        {
+          "country": "US",
+          "count": 9,
+          "recent": [
+            {
+              "id": "bce11c12-63ca-4c28-9690-5796a387b4a8",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780571729000
+            },
+            {
+              "id": "9aad9348-be41-4921-b59c-015b7ef7b8b5",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780568637090
+            },
+            {
+              "id": "d219fb63-bee3-4791-a9f6-abaf67855997",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780571772641
+            },
+            {
+              "id": "ebd5c6cd-837d-4152-853a-c2ab60ff2a29",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780554853271
+            },
+            {
+              "id": "b143711f-b2b7-4e2e-9061-bacf9feaf065",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780566863594
+            },
+            {
+              "id": "b92f7b04-af2e-41bb-89e6-1386b66cf402",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780561693105
+            },
+            {
+              "id": "861a19b6-dcc8-4530-9fb2-a09f1a34e48a",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780572112000
+            },
+            {
+              "id": "6c837267-ccd2-496a-8346-1db2b264bf28",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780572112732
+            },
+            {
+              "id": "986ea2c2-e64b-4ce6-8da6-381c8cf81928",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780557973190
+            }
+          ],
+          "volume": 67532830.6820194,
+          "critical_signals": 4,
+          "high_signals": 4,
+          "low_signals": 1
+        },
+        {
+          "country": "IL",
+          "count": 9,
+          "recent": [
+            {
+              "id": "573ecf4c-a0b7-41a5-9873-04a810af0a05",
+              "kind": "news",
+              "impact": "low",
+              "timestamp": 1780566380739
+            },
+            {
+              "id": "f61f7719-d84d-4fc1-8ab5-50dfeb0f826d",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780564014000
+            },
+            {
+              "id": "60da36f0-2424-4925-a363-10b7799ce7b1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780569132928
+            },
+            {
+              "id": "b143711f-b2b7-4e2e-9061-bacf9feaf065",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780566863594
+            },
+            {
+              "id": "04b94d9f-dab8-4c04-8300-91fc5d891f49",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780563493135
+            },
+            {
+              "id": "d7e719d9-5e60-4980-be45-05a18743595b",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1780559542005
+            },
+            {
+              "id": "b92f7b04-af2e-41bb-89e6-1386b66cf402",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780561693105
+            },
+            {
+              "id": "12a9ecd1-f896-4c59-88c8-dd3369c66423",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780572600619
+            },
+            {
+              "id": "6f0635b9-5163-42b2-ac2b-f46339bc9f43",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780575305672
+            }
+          ],
+          "volume": 11037584.493386429,
+          "critical_signals": 2,
+          "high_signals": 5,
+          "low_signals": 2
+        },
+        {
+          "country": "FR",
+          "count": 2,
+          "recent": [
+            {
+              "id": "b1b9c1b4-7586-4ee4-afe6-1db3c9d6f0be",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780575288916
+            },
+            {
+              "id": "706f766d-e6da-480a-a4d8-ab9e2149a46a",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780566328172
+            }
+          ],
+          "volume": 2847356.9861721513,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 1
+        },
+        {
+          "country": "TW",
+          "count": 2,
+          "recent": [
+            {
+              "id": "fabe25e7-455d-45e3-8472-6e4acef22911",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780558993165
+            },
+            {
+              "id": "6f92cfbd-1ada-4f17-a44b-f2234eb54cb0",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780556916000
+            }
+          ],
+          "volume": 1851620.1826320626,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "CN",
+          "count": 2,
+          "recent": [
+            {
+              "id": "fabe25e7-455d-45e3-8472-6e4acef22911",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780558993165
+            },
+            {
+              "id": "6f92cfbd-1ada-4f17-a44b-f2234eb54cb0",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780556916000
+            }
+          ],
+          "volume": 1851620.1826320626,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "NZ",
+          "count": 2,
+          "recent": [
+            {
+              "id": "fabe25e7-455d-45e3-8472-6e4acef22911",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780558993165
+            },
+            {
+              "id": "6f92cfbd-1ada-4f17-a44b-f2234eb54cb0",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780556916000
+            }
+          ],
+          "volume": 1851620.1826320626,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "PS",
+          "count": 1,
+          "recent": [
+            {
+              "id": "60da36f0-2424-4925-a363-10b7799ce7b1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780569132928
+            }
+          ],
+          "volume": 160803.17879300023,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "LT",
+          "count": 1,
+          "recent": [
+            {
+              "id": "c316a477-d662-41b7-b92a-2719102d5d2d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780566312983
+            }
+          ],
+          "volume": 4791239.803268376,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "KP",
+          "count": 1,
+          "recent": [
+            {
+              "id": "c143df63-c175-4fca-8c9b-818c395faa2f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780567512957
+            }
+          ],
+          "volume": 118.54750100000001,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "DE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "706f766d-e6da-480a-a4d8-ab9e2149a46a",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780566328172
+            }
+          ],
+          "volume": 523187.3110938999,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "SE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "3e2d8926-b0d5-4ccd-9112-5d2885a6d2ce",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780557313209
+            }
+          ],
+          "volume": 565371.788533849,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "SY",
+          "count": 1,
+          "recent": [
+            {
+              "id": "60da36f0-2424-4925-a363-10b7799ce7b1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780569132928
+            }
+          ],
+          "volume": 160803.17879300023,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "KW",
+          "count": 1,
+          "recent": [
+            {
+              "id": "4ff6321e-7450-4468-9519-a7dae7f799e9",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780570500514
+            }
+          ],
+          "volume": 37015939.93010976,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "FI",
+          "count": 1,
+          "recent": [
+            {
+              "id": "c316a477-d662-41b7-b92a-2719102d5d2d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780566312983
+            }
+          ],
+          "volume": 4791239.803268376,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        }
+      ],
+      "_scraped_at": "2026-06-04T12:25:49.732333+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
