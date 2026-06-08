@@ -1,0 +1,2900 @@
+{
+  "scraped_at": "2026-06-08T09:11:08.530649+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 10,
+  "items": [
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "af26fecc-4a30-47bf-996f-7164bcff2840",
+        "timestamp": 1780842208521,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "af26fecc-4a30-47bf-996f-7164bcff2840",
+          "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 Iran says its going to bomb Israel tonight.\n\n@medmannews",
+          "channel": "Mediterranean Man",
+          "timestamp": 1780842208521,
+          "link": "https://t.me/medmannews"
+        },
+        "osint": false,
+        "country": "IL",
+        "countries": [
+          "IL",
+          "IR"
+        ],
+        "related_markets": [
+          {
+            "id": "2296152",
+            "slug": "israel-closes-its-airspace-by",
+            "condition_id": "0xd8664606498aba2a8ccab56656860cb3f02d74de80e974ab87a9f940e65d4d5e",
+            "title": "June 15",
+            "question": "Israel closes its airspace by June 15?",
+            "description": "This market will resolve to \u201cYes\u201d if Israel initiates a major closure of its airspace by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d. \n\nA \u201cmajor closure\u201d is defined as a broad closure, cancellation, or complete suspension of commercial aviation across the entirety of Israeli civilian airspace or a region encompassing a majority of Israeli civilian airspace, including commercial flights transiting, arriving in, and departing from that airspace. A qualifying closure must apply generally to all flights across Israel or a qualifying subset of Israeli airspace. Limited cancellations, delays, temporary ground stops or isolated regional closures will not qualify. Limited exceptions to a broad closure, however, will not disqualify such a closure from counting (e.g. exceptions for certain pre-approved flights may be permitted).\n\nWarnings, No-Fly-Zones, flight suspensions, or other flight restrictions imposed by airlines or countries other than Israel will not be sufficient for a \u201cYes\u201d resolution.\n\nAirspace closures which occur solely due to weather conditions will not qualify.\n\nThe primary resolution source for this market will be official information from Israeli aviation authorities; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-closes-its-airspace-by-F65UW1ZQCDQ_.jpg",
+            "yes_token_id": "110552230042207377373769436375815103661291329913875427644565116020841414815329",
+            "yes_probability": 0.57,
+            "yes_best_bid": 0.56,
+            "yes_best_ask": 0.57,
+            "yes_spread": 0.009999999999999898,
+            "no_token_id": "45778172980988961730754924731757934117834485907399449999216978879703885935428",
+            "no_probability": 0.44,
+            "no_best_bid": 0.43,
+            "no_best_ask": 0.44,
+            "no_spread": 0.010000000000000009,
+            "volume": 3026432.302358101,
+            "liquidity": 656376.2499999997,
+            "neg_risk": false,
+            "end_date": "2026-06-15T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Iran's military threats increase the likelihood of Israel closing airspace for security.",
+            "event_id": "449163",
+            "event_title": "Israel closes its airspace by...?",
+            "event_slug": "israel-closes-its-airspace-by",
+            "detected_yes_price": 0.11,
+            "detected_no_price": 0.91,
+            "detected_at": 1780842242260,
+            "highest_price_change": 4.181818181818182,
+            "highest_yes_price": 0.57,
+            "highest_no_price": 0.91,
+            "first_moved_at": 1780842909101,
+            "moved_side": "yes",
+            "peaked_at": 1780909693823
+          },
+          {
+            "id": "2241674",
+            "slug": "israel-closes-its-airspace-by",
+            "condition_id": "0x676e7cda423f5826bcbb3c141e808ad7c66bc2d055e4d0aca79c26779712062c",
+            "title": "June 30",
+            "question": "Israel closes its airspace by June 30?",
+            "description": "This market will resolve to \u201cYes\u201d if Israel initiates a major closure of its airspace by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d. \n\nA \u201cmajor closure\u201d is defined as a broad closure, cancellation, or complete suspension of commercial aviation across the entirety of Israeli civilian airspace or a region encompassing a majority of Israeli civilian airspace, including commercial flights transiting, arriving in, and departing from that airspace. A qualifying closure must apply generally to all flights across Israel or a qualifying subset of Israeli airspace. Limited cancellations, delays, temporary ground stops or isolated regional closures will not qualify. Limited exceptions to a broad closure, however, will not disqualify such a closure from counting (e.g. exceptions for certain pre-approved flights may be permitted).\n\nWarnings, No-Fly-Zones, flight suspensions, or other flight restrictions imposed by airlines or countries other than Israel will not be sufficient for a \u201cYes\u201d resolution.\n\nAirspace closures which occur solely due to weather conditions will not qualify.\n\nThe primary resolution source for this market will be official information from Israeli aviation authorities; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-closes-its-airspace-by-F65UW1ZQCDQ_.jpg",
+            "yes_token_id": "75342601497089508883276927505926667289058707579736385719204195953768479770485",
+            "yes_probability": 0.63,
+            "yes_best_bid": 0.62,
+            "yes_best_ask": 0.63,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "46765280105166877582756271542764342313890676752505455841048723545585948797086",
+            "no_probability": 0.38,
+            "no_best_bid": 0.37,
+            "no_best_ask": 0.38,
+            "no_spread": 0.010000000000000009,
+            "volume": 1254094.9677973082,
+            "liquidity": 437016.3399999999,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Iran's announcement of bombing Israel suggests heightened security measures by Israel.",
+            "event_id": "449163",
+            "event_title": "Israel closes its airspace by...?",
+            "event_slug": "israel-closes-its-airspace-by",
+            "detected_yes_price": 0.14,
+            "detected_no_price": 0.87,
+            "detected_at": 1780842242260,
+            "highest_price_change": 3.642857142857143,
+            "highest_yes_price": 0.65,
+            "highest_no_price": 0.87,
+            "first_moved_at": 1780842525358,
+            "moved_side": "yes",
+            "peaked_at": 1780907795049
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 9,
+            "price": 0
+          }
+        ],
+        "topics": [
+          "iran-regime"
+        ],
+        "categories": null
+      },
+      "related_market": {
+        "id": "2296152",
+        "slug": "israel-closes-its-airspace-by",
+        "condition_id": "0xd8664606498aba2a8ccab56656860cb3f02d74de80e974ab87a9f940e65d4d5e",
+        "title": "June 15",
+        "question": "Israel closes its airspace by June 15?",
+        "description": "This market will resolve to \u201cYes\u201d if Israel initiates a major closure of its airspace by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d. \n\nA \u201cmajor closure\u201d is defined as a broad closure, cancellation, or complete suspension of commercial aviation across the entirety of Israeli civilian airspace or a region encompassing a majority of Israeli civilian airspace, including commercial flights transiting, arriving in, and departing from that airspace. A qualifying closure must apply generally to all flights across Israel or a qualifying subset of Israeli airspace. Limited cancellations, delays, temporary ground stops or isolated regional closures will not qualify. Limited exceptions to a broad closure, however, will not disqualify such a closure from counting (e.g. exceptions for certain pre-approved flights may be permitted).\n\nWarnings, No-Fly-Zones, flight suspensions, or other flight restrictions imposed by airlines or countries other than Israel will not be sufficient for a \u201cYes\u201d resolution.\n\nAirspace closures which occur solely due to weather conditions will not qualify.\n\nThe primary resolution source for this market will be official information from Israeli aviation authorities; however, a consensus of credible reporting may also be used.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-closes-its-airspace-by-F65UW1ZQCDQ_.jpg",
+        "yes_token_id": "110552230042207377373769436375815103661291329913875427644565116020841414815329",
+        "yes_probability": 0.57,
+        "yes_best_bid": 0.56,
+        "yes_best_ask": 0.57,
+        "yes_spread": 0.009999999999999898,
+        "no_token_id": "45778172980988961730754924731757934117834485907399449999216978879703885935428",
+        "no_probability": 0.44,
+        "no_best_bid": 0.43,
+        "no_best_ask": 0.44,
+        "no_spread": 0.010000000000000009,
+        "volume": 3026432.302358101,
+        "liquidity": 656376.2499999997,
+        "neg_risk": false,
+        "end_date": "2026-06-15T00:00:00Z",
+        "categories": [
+          "politics",
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Iran's military threats increase the likelihood of Israel closing airspace for security.",
+        "event_id": "449163",
+        "event_title": "Israel closes its airspace by...?",
+        "event_slug": "israel-closes-its-airspace-by",
+        "detected_yes_price": 0.11,
+        "detected_no_price": 0.91,
+        "detected_at": 1780842242260,
+        "highest_price_change": 4.181818181818182,
+        "highest_yes_price": 0.57,
+        "highest_no_price": 0.91,
+        "first_moved_at": 1780842909101,
+        "moved_side": "yes",
+        "peaked_at": 1780909693823
+      },
+      "_scraped_at": "2026-06-08T09:11:08.530649+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 2,
+      "feed_item": {
+        "id": "f62d93b0-5065-4c10-8052-1945a7b1728b",
+        "timestamp": 1780882054661,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "f62d93b0-5065-4c10-8052-1945a7b1728b",
+          "text": "Footage shows missiles fired by the Israeli Navy from the Mediterranean Sea heading east.",
+          "channel": "Intel Slava",
+          "timestamp": 1780882054661,
+          "link": "https://t.me/intelslava"
+        },
+        "osint": false,
+        "country": "IL",
+        "countries": [
+          "IL"
+        ],
+        "related_markets": [
+          {
+            "id": "1121887",
+            "slug": "israel-strike-on-yemen-by-593",
+            "condition_id": "0x3fe18d2b6303ee3a7e406aab679dbc0b0f7504dc6b477a31c69c6ffb04e9e11c",
+            "title": "June 30",
+            "question": "Israel strike on Yemen by June 30, 2026?",
+            "description": "This market will resolve to \"Yes\" if Israel initiates a drone, missile, or air strike on Yemeni soil or any official Yemen embassy or consulate by the listed date, 11:59 PM Israeli local time. Otherwise, this market will resolve to \"No\".\n\nFor the purposes of this market, a qualifying \"strike\" is defined as the use of aerial bombs, drones or missiles (including cruise or ballistic missiles) launched by Israeli military forces that impact Yemen ground territory or any official Yemen embassy or consulate (e.g., if a weapons depot on Yemen soil is hit by an Israeli missile, this market will resolve to \"Yes\").\n\nMissiles or drones that are intercepted and surface-to-air missile strikes will not be sufficient for a \"Yes\" resolution, regardless of whether they land on Yemen territory or cause damage.\n\nActions such as artillery fire, small arms fire, FPV or ATGM strikes directly, ground incursions, naval shelling, cyberattacks, or other operations conducted by Israeli ground operatives will not qualify.\n\nThe resolution source will be a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-israel-strike-yemen-by-friday-cQzxFR39DsbW.jpg",
+            "yes_token_id": "83617518285238151274836063590312610477192655509253955921300675735811392416805",
+            "yes_probability": 0.49,
+            "yes_best_bid": 0.47,
+            "yes_best_ask": 0.49,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "49232347074200257286333705540570950896584522176544392767367009767750446431044",
+            "no_probability": 0.53,
+            "no_best_bid": 0.51,
+            "no_best_ask": 0.53,
+            "no_spread": 0.020000000000000018,
+            "volume": 622165.3993041769,
+            "liquidity": 450450.73,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "world",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Missiles fired by Israeli Navy suggest military action towards Yemen (1 hop).",
+            "event_id": "146944",
+            "event_title": "Israel military action against Yemen by...?",
+            "event_slug": "israel-strike-on-yemen-by-593",
+            "detected_yes_price": 0.13,
+            "detected_no_price": 0.88,
+            "detected_at": 1780882063327,
+            "highest_price_change": 2.846153846153846,
+            "highest_yes_price": 0.5,
+            "highest_no_price": 0.88,
+            "first_moved_at": 1780882063484,
+            "moved_side": "yes",
+            "peaked_at": 1780908415494
+          },
+          {
+            "id": "1809581",
+            "slug": "israel-strike-on-damascus-by-september-30",
+            "condition_id": "0xeb4beaefa070c6ccfef90eb088852246c9e965b2672a83bc6f4c36ae347817f4",
+            "title": "June 30",
+            "question": "Israel military action on Damascus by June 30, 2026?",
+            "description": "This market will resolve to \"Yes\" if Israel initiates a drone, missile, or air strike on Damascus Governorate, or any target within it, between market creation and June 30, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nA qualifying \"strike\" is defined as the use of aerial bombs, drones or missiles (including cruise or ballistic missiles) launched by Israeli military forces that impact within Damascus Governorate.\n\nMissiles or drones which are intercepted and surface-to-air missile strikes will not be sufficient for a \"Yes\" resolution regardless of whether they land in Damascus Governorate, or cause damage.\n\nThe primary resolution source for this market will be a consensus of credible reporting and video evidence. If there is ambiguity over whether a strike occurred, or whether the drone/missile was intercepted, this market will resolve based on whatever is most likely according to a consensus of credible reporting and video evidence.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-strike-on-damascus-by-july-31-azZ3dURD8ZLX.jpg",
+            "yes_token_id": "31245887148493356954433906893534790031462440711563090147585980471612498692234",
+            "yes_probability": 0.12,
+            "yes_best_bid": 0.08,
+            "yes_best_ask": 0.12,
+            "yes_spread": 0.039999999999999994,
+            "no_token_id": "108338907967710121616562471010445051834321291521730562398877972738614106634982",
+            "no_probability": 0.92,
+            "no_best_bid": 0.88,
+            "no_best_ask": 0.92,
+            "no_spread": 0.040000000000000036,
+            "volume": 5495.639121000002,
+            "liquidity": 150566.44999999998,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Missiles fired by Israeli Navy indicate military action towards Damascus (1 hop).",
+            "event_id": "41134",
+            "event_title": "Israel military action against Damascus by...?",
+            "event_slug": "israel-strike-on-damascus-by-september-30",
+            "detected_yes_price": 0.29,
+            "detected_no_price": 0.89,
+            "detected_at": 1780882063327,
+            "highest_price_change": 0.03370786516853935,
+            "highest_yes_price": 0.29,
+            "highest_no_price": 0.92,
+            "first_moved_at": 1780882072457,
+            "moved_side": "no",
+            "peaked_at": 1780907793258
+          }
+        ],
+        "topics": null,
+        "categories": [
+          "geopolitics"
+        ]
+      },
+      "related_market": {
+        "id": "1121887",
+        "slug": "israel-strike-on-yemen-by-593",
+        "condition_id": "0x3fe18d2b6303ee3a7e406aab679dbc0b0f7504dc6b477a31c69c6ffb04e9e11c",
+        "title": "June 30",
+        "question": "Israel strike on Yemen by June 30, 2026?",
+        "description": "This market will resolve to \"Yes\" if Israel initiates a drone, missile, or air strike on Yemeni soil or any official Yemen embassy or consulate by the listed date, 11:59 PM Israeli local time. Otherwise, this market will resolve to \"No\".\n\nFor the purposes of this market, a qualifying \"strike\" is defined as the use of aerial bombs, drones or missiles (including cruise or ballistic missiles) launched by Israeli military forces that impact Yemen ground territory or any official Yemen embassy or consulate (e.g., if a weapons depot on Yemen soil is hit by an Israeli missile, this market will resolve to \"Yes\").\n\nMissiles or drones that are intercepted and surface-to-air missile strikes will not be sufficient for a \"Yes\" resolution, regardless of whether they land on Yemen territory or cause damage.\n\nActions such as artillery fire, small arms fire, FPV or ATGM strikes directly, ground incursions, naval shelling, cyberattacks, or other operations conducted by Israeli ground operatives will not qualify.\n\nThe resolution source will be a consensus of credible reporting.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-israel-strike-yemen-by-friday-cQzxFR39DsbW.jpg",
+        "yes_token_id": "83617518285238151274836063590312610477192655509253955921300675735811392416805",
+        "yes_probability": 0.49,
+        "yes_best_bid": 0.47,
+        "yes_best_ask": 0.49,
+        "yes_spread": 0.020000000000000018,
+        "no_token_id": "49232347074200257286333705540570950896584522176544392767367009767750446431044",
+        "no_probability": 0.53,
+        "no_best_bid": 0.51,
+        "no_best_ask": 0.53,
+        "no_spread": 0.020000000000000018,
+        "volume": 622165.3993041769,
+        "liquidity": 450450.73,
+        "neg_risk": false,
+        "end_date": "2026-06-30T00:00:00Z",
+        "categories": [
+          "world",
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Missiles fired by Israeli Navy suggest military action towards Yemen (1 hop).",
+        "event_id": "146944",
+        "event_title": "Israel military action against Yemen by...?",
+        "event_slug": "israel-strike-on-yemen-by-593",
+        "detected_yes_price": 0.13,
+        "detected_no_price": 0.88,
+        "detected_at": 1780882063327,
+        "highest_price_change": 2.846153846153846,
+        "highest_yes_price": 0.5,
+        "highest_no_price": 0.88,
+        "first_moved_at": 1780882063484,
+        "moved_side": "yes",
+        "peaked_at": 1780908415494
+      },
+      "_scraped_at": "2026-06-08T09:11:08.530649+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 3,
+      "feed_item": {
+        "id": "242d5ea8-1380-4fcd-a40c-db84fdfa0334",
+        "timestamp": 1780879314068,
+        "tweet": null,
+        "news": {
+          "feed_item_id": "242d5ea8-1380-4fcd-a40c-db84fdfa0334",
+          "headline": "Trump walks out of interview with NBC\u2019s Meet the Press after clash over election claims",
+          "description": "Kristen Welker questioned Trump\u2019s allegations that races for California governor and 2020 president were \u2018rigged\u2019",
+          "image": "https://i.guim.co.uk/img/media/0465e6d532a0e7efd15028058447c3eec2e3fcb5/258_0_3001_2401/master/3001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=333179b58e5ae40cf59dd81244142edb",
+          "url": "https://www.theguardian.com/us-news/2026/jun/07/trump-walks-out-meet-the-press-nbc-interview",
+          "timestamp": 1780879314068,
+          "source": "guardian"
+        },
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "US",
+        "countries": [
+          "US"
+        ],
+        "related_markets": [
+          {
+            "id": "1450214",
+            "slug": "trump-declares-election-interference-national-emergency",
+            "condition_id": "0x50378a9069427b82e68dd334fcf40bae1e077c0658214926c3635ff64c539bbc",
+            "title": "",
+            "question": "Trump declares election interference national emergency? ",
+            "description": "This market will resolve to \u201cYes\u201d if President Donald Trump formally declares a national emergency, pursuant to the National Emergencies Act, explicitly relating to interference in U.S. elections or election processes, by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo.\u201d\n\nA qualifying declaration must include formal language stating that a national emergency exists and must be issued under the National Emergencies Act (50 U.S.C. \u00a7 1621 et seq.). The declaration must explicitly reference interference in U.S. elections, election processes, election systems, voting procedures, ballots, or voting machines as the basis for the emergency. Statements, speeches, social media posts, draft orders, executive orders that do not formally declare a national emergency under the National Emergencies Act, or other actions that merely reference election interference without declaring a national emergency will not qualify.\n\nRenewals or extensions of previously existing national emergencies will not qualify unless the text is materially modified to explicitly relate to election interference. \n\nThe primary resolution source will be the Federal Register and official White House publications, however a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-declares-election-interference-national-emergency-kEU3TCf6stxi.jpg",
+            "yes_token_id": "16844443448128072914485652563214933395861208236137315309019169157191799440214",
+            "yes_probability": 0.2,
+            "yes_best_bid": 0.16,
+            "yes_best_ask": 0.2,
+            "yes_spread": 0.04000000000000001,
+            "no_token_id": "74488655979619336318108310259187791981767768431977385000519337096791120479912",
+            "no_probability": 0.84,
+            "no_best_bid": 0.8,
+            "no_best_ask": 0.84,
+            "no_spread": 0.039999999999999925,
+            "volume": 158649.1145050001,
+            "liquidity": 144610.83000000002,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Trump's claims about election interference directly relate to potential national emergency declaration (1 hop).",
+            "event_id": "233098",
+            "event_title": "Trump declares election interference national emergency? ",
+            "event_slug": "trump-declares-election-interference-national-emergency",
+            "detected_yes_price": 0.2,
+            "detected_no_price": 0.83,
+            "detected_at": 1780879346804,
+            "highest_price_change": 0.012048192771084348,
+            "highest_yes_price": 0.2,
+            "highest_no_price": 0.84,
+            "first_moved_at": 1780879346922,
+            "moved_side": "no",
+            "peaked_at": 1780879346922
+          },
+          {
+            "id": "1334156",
+            "slug": "will-trump-nationalize-elections",
+            "condition_id": "0xe6522d64f35a6843ebdbccab2e3d4a1385350be6d40a3de766330e207b71a8ba",
+            "title": "",
+            "question": "Will Trump nationalize elections?",
+            "description": "This market will resolve to \u201cYes\u201d if Donald Trump signs any federal legislation into law or performs any executive action that creates new legal authority for the federal government to exercise direct administrative control over the previously-localized administration of federal elections by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA qualifying legislation or action must seek to grant continuing federal control over previously-localized (State-level or local-level) vote-counting, vote certification, or actual election-day voting in federal elections for jurisdictions in more than one state. Temporary federal support to local election authorities, or the execution of previously-recognized federal election duties, will not count.\n\nThe primary resolution source will be official information from the United States federal government and a consensus of credible reporting.\n",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-nationalize-elections-ICtfUC0pxBdC.png",
+            "yes_token_id": "44482086252598348208660011972852804909957485351743405768768577675743702971026",
+            "yes_probability": 0.19,
+            "yes_best_bid": 0.12,
+            "yes_best_ask": 0.19,
+            "yes_spread": 0.07,
+            "no_token_id": "68987475491741167427045844503509447338405188188495224371188027929166363674438",
+            "no_probability": 0.88,
+            "no_best_bid": 0.81,
+            "no_best_ask": 0.88,
+            "no_spread": 0.06999999999999995,
+            "volume": 16024.97995,
+            "liquidity": 66609.32999999999,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Trump's claims about election rigging relate directly to potential nationalization (1 hop).",
+            "event_id": "198540",
+            "event_title": "Will Trump nationalize elections?",
+            "event_slug": "will-trump-nationalize-elections",
+            "detected_yes_price": 0.17,
+            "detected_no_price": 0.88,
+            "detected_at": 1780879346804,
+            "highest_price_change": 1.8235294117647054,
+            "highest_yes_price": 0.48,
+            "highest_no_price": 0.9,
+            "first_moved_at": 1780879411437,
+            "moved_side": "yes",
+            "peaked_at": 1780908456356
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "sp500",
+            "score": 6,
+            "price": 0
+          }
+        ],
+        "topics": [
+          "ai-tech"
+        ],
+        "categories": [
+          "tech",
+          "elections",
+          "politics"
+        ]
+      },
+      "related_market": {
+        "id": "1334156",
+        "slug": "will-trump-nationalize-elections",
+        "condition_id": "0xe6522d64f35a6843ebdbccab2e3d4a1385350be6d40a3de766330e207b71a8ba",
+        "title": "",
+        "question": "Will Trump nationalize elections?",
+        "description": "This market will resolve to \u201cYes\u201d if Donald Trump signs any federal legislation into law or performs any executive action that creates new legal authority for the federal government to exercise direct administrative control over the previously-localized administration of federal elections by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA qualifying legislation or action must seek to grant continuing federal control over previously-localized (State-level or local-level) vote-counting, vote certification, or actual election-day voting in federal elections for jurisdictions in more than one state. Temporary federal support to local election authorities, or the execution of previously-recognized federal election duties, will not count.\n\nThe primary resolution source will be official information from the United States federal government and a consensus of credible reporting.\n",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-nationalize-elections-ICtfUC0pxBdC.png",
+        "yes_token_id": "44482086252598348208660011972852804909957485351743405768768577675743702971026",
+        "yes_probability": 0.19,
+        "yes_best_bid": 0.12,
+        "yes_best_ask": 0.19,
+        "yes_spread": 0.07,
+        "no_token_id": "68987475491741167427045844503509447338405188188495224371188027929166363674438",
+        "no_probability": 0.88,
+        "no_best_bid": 0.81,
+        "no_best_ask": 0.88,
+        "no_spread": 0.06999999999999995,
+        "volume": 16024.97995,
+        "liquidity": 66609.32999999999,
+        "neg_risk": false,
+        "end_date": "2026-12-31T00:00:00Z",
+        "categories": [
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Trump's claims about election rigging relate directly to potential nationalization (1 hop).",
+        "event_id": "198540",
+        "event_title": "Will Trump nationalize elections?",
+        "event_slug": "will-trump-nationalize-elections",
+        "detected_yes_price": 0.17,
+        "detected_no_price": 0.88,
+        "detected_at": 1780879346804,
+        "highest_price_change": 1.8235294117647054,
+        "highest_yes_price": 0.48,
+        "highest_no_price": 0.9,
+        "first_moved_at": 1780879411437,
+        "moved_side": "yes",
+        "peaked_at": 1780908456356
+      },
+      "_scraped_at": "2026-06-08T09:11:08.530649+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 4,
+      "feed_item": {
+        "id": "b32ffca7-07a3-402f-b9f2-a8a98ebaf8eb",
+        "timestamp": 1780832248773,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "b32ffca7-07a3-402f-b9f2-a8a98ebaf8eb",
+          "text": "\ud83c\uddf0\ud83c\uddf5 Comrade Kim inspects a defense industry facility involved in the production of the Hwasong-11 / KN-23 tactical ballistic missile system.\n\n\ud83d\udd34 @DDGeopolitics",
+          "channel": "DD Geopolitics",
+          "timestamp": 1780832248773,
+          "link": "https://t.me/DDGeopolitics"
+        },
+        "osint": false,
+        "related_markets": [
+          {
+            "id": "2364462",
+            "slug": "number-of-north-korea-missile-tests-in-june-2026",
+            "condition_id": "0x2551b02e2b9cc7c6b61821c97bce5accf054ff4d33984ccad3d6ca6a09fd41e2",
+            "title": "3+",
+            "question": "Will there be 3 or more North Korea tests in June 2026?",
+            "description": "This market will resolve to the number of calendar days on which North Korea (DPRK) conducts a missile launch during June 2026, Pyongyang Time.\n\nIf a single test event spans multiple calendar days, it will count only for the day on which it began.\n\nOnly test launches of ballistic missiles, cruise missiles, and anti-ship missiles will qualify.\n\nTest launches of other systems, including surface-to-air missiles (SAMs), multiple launch rocket systems (MLRS)/rocket artillery, torpedoes, or similar systems, will not qualify.\n\nResolution will be based on publicly available information from reliable sources such as official government statements, reports from international monitoring bodies like the United Nations, or reports from reputable international media.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/north-korea-missile-launch-by-november-15-zwBNKi5pUPJh.jpg",
+            "yes_token_id": "108363964143314025120984586450298431655531941158503662524663931392724429591549",
+            "yes_probability": 0.3,
+            "yes_best_bid": 0.1,
+            "yes_best_ask": 0.3,
+            "yes_spread": 0.19999999999999998,
+            "no_token_id": "3911913102721874569076334887696389950224036847447469948339051616337633471943",
+            "no_probability": 0.9,
+            "no_best_bid": 0.7,
+            "no_best_ask": 0.9,
+            "no_spread": 0.20000000000000007,
+            "volume": 166.91750100000002,
+            "liquidity": 5691.8,
+            "neg_risk": true,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Inspection of missile facility indicates likelihood of 3+ tests in June.",
+            "event_id": "528228",
+            "event_title": "Number of North Korea Missile Tests in June 2026?",
+            "event_slug": "number-of-north-korea-missile-tests-in-june-2026",
+            "detected_yes_price": 0.17,
+            "detected_no_price": 0.95,
+            "detected_at": 1780832262043,
+            "highest_price_change": 1,
+            "highest_yes_price": 0.34,
+            "highest_no_price": 0.97,
+            "first_moved_at": 1780832297971,
+            "moved_side": "yes",
+            "peaked_at": 1780909559038
+          },
+          {
+            "id": "2364460",
+            "slug": "number-of-north-korea-missile-tests-in-june-2026",
+            "condition_id": "0xf68bb83e31f4911b06b9c179a1b9a04a13579794e387d173e8fe11c00b645121",
+            "title": "<1",
+            "question": "Will there be fewer than 1 North Korea test in June 2026?",
+            "description": "This market will resolve to the number of calendar days on which North Korea (DPRK) conducts a missile launch during June 2026, Pyongyang Time.\n\nIf a single test event spans multiple calendar days, it will count only for the day on which it began.\n\nOnly test launches of ballistic missiles, cruise missiles, and anti-ship missiles will qualify.\n\nTest launches of other systems, including surface-to-air missiles (SAMs), multiple launch rocket systems (MLRS)/rocket artillery, torpedoes, or similar systems, will not qualify.\n\nResolution will be based on publicly available information from reliable sources such as official government statements, reports from international monitoring bodies like the United Nations, or reports from reputable international media.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/north-korea-missile-launch-by-november-15-zwBNKi5pUPJh.jpg",
+            "yes_token_id": "34163914295620800671791699866420040458912602470448016809065467721062352274018",
+            "yes_probability": 0.65,
+            "yes_best_bid": 0.42,
+            "yes_best_ask": 0.65,
+            "yes_spread": 0.23000000000000004,
+            "no_token_id": "58948630706267010671275403950696628435497756505044134480611194043704207172692",
+            "no_probability": 0.58,
+            "no_best_bid": 0.35,
+            "no_best_ask": 0.58,
+            "no_spread": 0.22999999999999998,
+            "volume": 546.920298,
+            "liquidity": 18387.649999999998,
+            "neg_risk": true,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Kim's inspection indicates ongoing missile development, influencing test likelihood.",
+            "event_id": "528228",
+            "event_title": "Number of North Korea Missile Tests in June 2026?",
+            "event_slug": "number-of-north-korea-missile-tests-in-june-2026",
+            "detected_yes_price": 0.66,
+            "detected_no_price": 0.69,
+            "detected_at": 1780832262043,
+            "highest_price_change": 0.04347826086956526,
+            "highest_yes_price": 0.66,
+            "highest_no_price": 0.72,
+            "first_moved_at": 1780832513981,
+            "moved_side": "no",
+            "peaked_at": 1780832513981
+          },
+          {
+            "id": "2364461",
+            "slug": "number-of-north-korea-missile-tests-in-june-2026",
+            "condition_id": "0xd00fe4b6670a9fca82820eb59ff4e6e8dd21261fdc4b23f4bc3382c1becb8727",
+            "title": "1-2",
+            "question": "Will there be 1-2 North Korea tests in June 2026?",
+            "description": "This market will resolve to the number of calendar days on which North Korea (DPRK) conducts a missile launch during June 2026, Pyongyang Time.\n\nIf a single test event spans multiple calendar days, it will count only for the day on which it began.\n\nOnly test launches of ballistic missiles, cruise missiles, and anti-ship missiles will qualify.\n\nTest launches of other systems, including surface-to-air missiles (SAMs), multiple launch rocket systems (MLRS)/rocket artillery, torpedoes, or similar systems, will not qualify.\n\nResolution will be based on publicly available information from reliable sources such as official government statements, reports from international monitoring bodies like the United Nations, or reports from reputable international media.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/north-korea-missile-launch-by-november-15-zwBNKi5pUPJh.jpg",
+            "yes_token_id": "31755602732964695089956584953125811370746290494990996212159307481962462553092",
+            "yes_probability": 0.28,
+            "yes_best_bid": 0.27,
+            "yes_best_ask": 0.28,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "57719247625169602263660030673258050557865014084855091156187228855204048010943",
+            "no_probability": 0.73,
+            "no_best_bid": 0.72,
+            "no_best_ask": 0.73,
+            "no_spread": 0.010000000000000009,
+            "volume": 90.240688,
+            "liquidity": 15123.680000000004,
+            "neg_risk": true,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Ongoing missile production suggests potential for 1-2 tests in June.",
+            "event_id": "528228",
+            "event_title": "Number of North Korea Missile Tests in June 2026?",
+            "event_slug": "number-of-north-korea-missile-tests-in-june-2026",
+            "detected_yes_price": 0.62,
+            "detected_no_price": 0.73,
+            "detected_at": 1780832262043,
+            "highest_price_change": 0.04838709677419359,
+            "highest_yes_price": 0.65,
+            "highest_no_price": 0.73,
+            "first_moved_at": 1780832422523,
+            "moved_side": "yes",
+            "peaked_at": 1780832422523
+          }
+        ],
+        "topics": null,
+        "categories": [
+          "geopolitics"
+        ]
+      },
+      "related_market": {
+        "id": "2364462",
+        "slug": "number-of-north-korea-missile-tests-in-june-2026",
+        "condition_id": "0x2551b02e2b9cc7c6b61821c97bce5accf054ff4d33984ccad3d6ca6a09fd41e2",
+        "title": "3+",
+        "question": "Will there be 3 or more North Korea tests in June 2026?",
+        "description": "This market will resolve to the number of calendar days on which North Korea (DPRK) conducts a missile launch during June 2026, Pyongyang Time.\n\nIf a single test event spans multiple calendar days, it will count only for the day on which it began.\n\nOnly test launches of ballistic missiles, cruise missiles, and anti-ship missiles will qualify.\n\nTest launches of other systems, including surface-to-air missiles (SAMs), multiple launch rocket systems (MLRS)/rocket artillery, torpedoes, or similar systems, will not qualify.\n\nResolution will be based on publicly available information from reliable sources such as official government statements, reports from international monitoring bodies like the United Nations, or reports from reputable international media.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/north-korea-missile-launch-by-november-15-zwBNKi5pUPJh.jpg",
+        "yes_token_id": "108363964143314025120984586450298431655531941158503662524663931392724429591549",
+        "yes_probability": 0.3,
+        "yes_best_bid": 0.1,
+        "yes_best_ask": 0.3,
+        "yes_spread": 0.19999999999999998,
+        "no_token_id": "3911913102721874569076334887696389950224036847447469948339051616337633471943",
+        "no_probability": 0.9,
+        "no_best_bid": 0.7,
+        "no_best_ask": 0.9,
+        "no_spread": 0.20000000000000007,
+        "volume": 166.91750100000002,
+        "liquidity": 5691.8,
+        "neg_risk": true,
+        "end_date": "2026-06-30T00:00:00Z",
+        "categories": [
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 5,
+        "impact_level": "low",
+        "impact_reason": "Inspection of missile facility indicates likelihood of 3+ tests in June.",
+        "event_id": "528228",
+        "event_title": "Number of North Korea Missile Tests in June 2026?",
+        "event_slug": "number-of-north-korea-missile-tests-in-june-2026",
+        "detected_yes_price": 0.17,
+        "detected_no_price": 0.95,
+        "detected_at": 1780832262043,
+        "highest_price_change": 1,
+        "highest_yes_price": 0.34,
+        "highest_no_price": 0.97,
+        "first_moved_at": 1780832297971,
+        "moved_side": "yes",
+        "peaked_at": 1780909559038
+      },
+      "_scraped_at": "2026-06-08T09:11:08.530649+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 5,
+      "feed_item": {
+        "id": "febf0469-059b-4735-b42f-c234d5ea0ac5",
+        "timestamp": 1780859308097,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "febf0469-059b-4735-b42f-c234d5ea0ac5",
+          "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf1\u26a1\ufe0f- Galei Tzahal, official IDF outlet, reports that Iran fired 4 ballistic missiles against northern Israel.",
+          "channel": "Rerum Novarum // Intel, Breaking News, and Alerts \ud83c\uddfa\ud83c\uddf8",
+          "timestamp": 1780859308097,
+          "link": "https://t.me/rnintel"
+        },
+        "osint": false,
+        "country": "IL",
+        "countries": [
+          "IL",
+          "IR"
+        ],
+        "related_markets": [
+          {
+            "id": "2296152",
+            "slug": "israel-closes-its-airspace-by",
+            "condition_id": "0xd8664606498aba2a8ccab56656860cb3f02d74de80e974ab87a9f940e65d4d5e",
+            "title": "June 15",
+            "question": "Israel closes its airspace by June 15?",
+            "description": "This market will resolve to \u201cYes\u201d if Israel initiates a major closure of its airspace by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d. \n\nA \u201cmajor closure\u201d is defined as a broad closure, cancellation, or complete suspension of commercial aviation across the entirety of Israeli civilian airspace or a region encompassing a majority of Israeli civilian airspace, including commercial flights transiting, arriving in, and departing from that airspace. A qualifying closure must apply generally to all flights across Israel or a qualifying subset of Israeli airspace. Limited cancellations, delays, temporary ground stops or isolated regional closures will not qualify. Limited exceptions to a broad closure, however, will not disqualify such a closure from counting (e.g. exceptions for certain pre-approved flights may be permitted).\n\nWarnings, No-Fly-Zones, flight suspensions, or other flight restrictions imposed by airlines or countries other than Israel will not be sufficient for a \u201cYes\u201d resolution.\n\nAirspace closures which occur solely due to weather conditions will not qualify.\n\nThe primary resolution source for this market will be official information from Israeli aviation authorities; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-closes-its-airspace-by-F65UW1ZQCDQ_.jpg",
+            "yes_token_id": "110552230042207377373769436375815103661291329913875427644565116020841414815329",
+            "yes_probability": 0.57,
+            "yes_best_bid": 0.56,
+            "yes_best_ask": 0.57,
+            "yes_spread": 0.009999999999999898,
+            "no_token_id": "45778172980988961730754924731757934117834485907399449999216978879703885935428",
+            "no_probability": 0.44,
+            "no_best_bid": 0.43,
+            "no_best_ask": 0.44,
+            "no_spread": 0.010000000000000009,
+            "volume": 3026432.302358101,
+            "liquidity": 656376.2499999997,
+            "neg_risk": false,
+            "end_date": "2026-06-15T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Iran's missile attack could lead to airspace closure (1 hop).",
+            "event_id": "449163",
+            "event_title": "Israel closes its airspace by...?",
+            "event_slug": "israel-closes-its-airspace-by",
+            "detected_yes_price": 0.61,
+            "detected_no_price": 0.43000000000000005,
+            "detected_at": 1780859335652,
+            "highest_price_change": 0.4883720930232557,
+            "highest_yes_price": 0.61,
+            "highest_no_price": 0.64,
+            "first_moved_at": 1780859336999,
+            "moved_side": "no",
+            "peaked_at": 1780859336999
+          },
+          {
+            "id": "2241674",
+            "slug": "israel-closes-its-airspace-by",
+            "condition_id": "0x676e7cda423f5826bcbb3c141e808ad7c66bc2d055e4d0aca79c26779712062c",
+            "title": "June 30",
+            "question": "Israel closes its airspace by June 30?",
+            "description": "This market will resolve to \u201cYes\u201d if Israel initiates a major closure of its airspace by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d. \n\nA \u201cmajor closure\u201d is defined as a broad closure, cancellation, or complete suspension of commercial aviation across the entirety of Israeli civilian airspace or a region encompassing a majority of Israeli civilian airspace, including commercial flights transiting, arriving in, and departing from that airspace. A qualifying closure must apply generally to all flights across Israel or a qualifying subset of Israeli airspace. Limited cancellations, delays, temporary ground stops or isolated regional closures will not qualify. Limited exceptions to a broad closure, however, will not disqualify such a closure from counting (e.g. exceptions for certain pre-approved flights may be permitted).\n\nWarnings, No-Fly-Zones, flight suspensions, or other flight restrictions imposed by airlines or countries other than Israel will not be sufficient for a \u201cYes\u201d resolution.\n\nAirspace closures which occur solely due to weather conditions will not qualify.\n\nThe primary resolution source for this market will be official information from Israeli aviation authorities; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-closes-its-airspace-by-F65UW1ZQCDQ_.jpg",
+            "yes_token_id": "75342601497089508883276927505926667289058707579736385719204195953768479770485",
+            "yes_probability": 0.63,
+            "yes_best_bid": 0.62,
+            "yes_best_ask": 0.63,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "46765280105166877582756271542764342313890676752505455841048723545585948797086",
+            "no_probability": 0.38,
+            "no_best_bid": 0.37,
+            "no_best_ask": 0.38,
+            "no_spread": 0.010000000000000009,
+            "volume": 1254094.9677973082,
+            "liquidity": 437016.3399999999,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Iran's missile attack could lead to airspace closure (1 hop).",
+            "event_id": "449163",
+            "event_title": "Israel closes its airspace by...?",
+            "event_slug": "israel-closes-its-airspace-by",
+            "detected_yes_price": 0.36,
+            "detected_no_price": 0.65,
+            "detected_at": 1780859335652,
+            "highest_price_change": 0.8055555555555557,
+            "highest_yes_price": 0.65,
+            "highest_no_price": 0.65,
+            "first_moved_at": 1780859338344,
+            "moved_side": "yes",
+            "peaked_at": 1780907795049
+          },
+          {
+            "id": "665374",
+            "slug": "will-the-us-invade-iran-before-2027",
+            "condition_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+            "title": "",
+            "question": "Will the U.S. invade Iran before 2027?",
+            "description": "This market will resolve to \"Yes\" if the United States commences a military offensive intended to establish control over any portion of Iran by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nFor the purposes of this market, land de facto controlled by Iran or the United States as of November 4, 2025 12:00 PM ET, will be considered the sovereign territory of that country.\n\nThe resolution source for this market will be a consensus of credible sources.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-the-us-invade-iran-in-2025-0Eh3J0ku_Fbj.jpg",
+            "yes_token_id": "55115078421062885512539156303747803058407616201213034911037320915726138659123",
+            "yes_probability": 0.18,
+            "yes_best_bid": 0.17,
+            "yes_best_ask": 0.18,
+            "yes_spread": 0.009999999999999981,
+            "no_token_id": "1910830010387565971650098373488592514702818137344973088263643820608151819241",
+            "no_probability": 0.83,
+            "no_best_bid": 0.82,
+            "no_best_ask": 0.83,
+            "no_spread": 0.010000000000000009,
+            "volume": 34501625.260847434,
+            "liquidity": 4659721.210000001,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Missile attack on Israel may provoke U.S. response (1 hop).",
+            "event_id": "73130",
+            "event_title": "Will the U.S. invade Iran before 2027?",
+            "event_slug": "will-the-us-invade-iran-before-2027",
+            "detected_yes_price": 0.16,
+            "detected_no_price": 0.85,
+            "detected_at": 1780859335652,
+            "highest_price_change": 0.12499999999999993,
+            "highest_yes_price": 0.18,
+            "highest_no_price": 0.85,
+            "first_moved_at": 1780859344027,
+            "moved_side": "yes",
+            "peaked_at": 1780907795623
+          }
+        ],
+        "topics": [
+          "ai-tech",
+          "iran-regime"
+        ],
+        "categories": [
+          "geopolitics",
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "2241674",
+        "slug": "israel-closes-its-airspace-by",
+        "condition_id": "0x676e7cda423f5826bcbb3c141e808ad7c66bc2d055e4d0aca79c26779712062c",
+        "title": "June 30",
+        "question": "Israel closes its airspace by June 30?",
+        "description": "This market will resolve to \u201cYes\u201d if Israel initiates a major closure of its airspace by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d. \n\nA \u201cmajor closure\u201d is defined as a broad closure, cancellation, or complete suspension of commercial aviation across the entirety of Israeli civilian airspace or a region encompassing a majority of Israeli civilian airspace, including commercial flights transiting, arriving in, and departing from that airspace. A qualifying closure must apply generally to all flights across Israel or a qualifying subset of Israeli airspace. Limited cancellations, delays, temporary ground stops or isolated regional closures will not qualify. Limited exceptions to a broad closure, however, will not disqualify such a closure from counting (e.g. exceptions for certain pre-approved flights may be permitted).\n\nWarnings, No-Fly-Zones, flight suspensions, or other flight restrictions imposed by airlines or countries other than Israel will not be sufficient for a \u201cYes\u201d resolution.\n\nAirspace closures which occur solely due to weather conditions will not qualify.\n\nThe primary resolution source for this market will be official information from Israeli aviation authorities; however, a consensus of credible reporting may also be used.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-closes-its-airspace-by-F65UW1ZQCDQ_.jpg",
+        "yes_token_id": "75342601497089508883276927505926667289058707579736385719204195953768479770485",
+        "yes_probability": 0.63,
+        "yes_best_bid": 0.62,
+        "yes_best_ask": 0.63,
+        "yes_spread": 0.010000000000000009,
+        "no_token_id": "46765280105166877582756271542764342313890676752505455841048723545585948797086",
+        "no_probability": 0.38,
+        "no_best_bid": 0.37,
+        "no_best_ask": 0.38,
+        "no_spread": 0.010000000000000009,
+        "volume": 1254094.9677973082,
+        "liquidity": 437016.3399999999,
+        "neg_risk": false,
+        "end_date": "2026-06-30T00:00:00Z",
+        "categories": [
+          "politics",
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Iran's missile attack could lead to airspace closure (1 hop).",
+        "event_id": "449163",
+        "event_title": "Israel closes its airspace by...?",
+        "event_slug": "israel-closes-its-airspace-by",
+        "detected_yes_price": 0.36,
+        "detected_no_price": 0.65,
+        "detected_at": 1780859335652,
+        "highest_price_change": 0.8055555555555557,
+        "highest_yes_price": 0.65,
+        "highest_no_price": 0.65,
+        "first_moved_at": 1780859338344,
+        "moved_side": "yes",
+        "peaked_at": 1780907795049
+      },
+      "_scraped_at": "2026-06-08T09:11:08.530649+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 6,
+      "feed_item": {
+        "id": "e5f8cce3-f69e-48a6-b3a8-17b446a2323b",
+        "timestamp": 1780872123301,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "e5f8cce3-f69e-48a6-b3a8-17b446a2323b",
+          "text": "\u203c\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf1 Visual confirmation of Iranian ballistic missile hitting its target in Northern Israel\n\n@worldpravda",
+          "channel": "World Pravda",
+          "timestamp": 1780872123301,
+          "link": "https://t.me/worldpravda"
+        },
+        "osint": false,
+        "country": "IR",
+        "countries": [
+          "IR",
+          "IL"
+        ],
+        "related_markets": [
+          {
+            "id": "1178057",
+            "slug": "will-the-iranian-regime-survive-us-military-strikes-741",
+            "condition_id": "0xefc69f5f48827e331957acbcc2339eb3b15e27e32453b8e6f29b5de67474c986",
+            "title": "",
+            "question": "Will the Iranian regime survive U.S. military strikes?",
+            "description": "This market will resolve to \"Yes\" if both of the following conditions are met by June 30, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\n\n1. The US initiates a military action on Iranian soil, airspace, or maritime territory or against any Iranian embassies or consulates by June 30, 2026, 11:59 PM ET. \n\nFor the purposes of this market, a \"military action\" will be considered to be any use of force executed by the US military on Iranian soil, airspace, or maritime territory (e.g. if a weapons depot on Iranian soil is hit by an US missile) that is officially acknowledged by the US government or a consensus of credible reporting. This includes, but is not limited to, airstrikes, naval attacks, or ground invasions. Cyber attacks, sanctions, or diplomatic actions will not count towards the resolution of this market.\n\n\n2. The Islamic Republic of Iran\u2019s current ruling regime is NOT overthrown, collapsed, or otherwise ceases to govern by June 30, 2026, 11:59 PM ET. \n\nThe Islamic Republic of Iran\u2019s current ruling regime will be considered overthrown if a broad consensus of reporting indicating that core structures of the Islamic Republic (e.g. the office of the Supreme Leader, the Guardian Council, IRGC control under clerical authority) have been dissolved, incapacitated, or replaced by a fundamentally different governing system or otherwise lost de facto power over a majority of the population of Iran. This could occur via revolution, civil war, military coup, or voluntary abdication, but only qualifies if the Islamic Republic no longer exercises sovereign power.\n\nRoutine political events such as elections, reforms, or leadership succession do not qualify. Internal coups or power shifts that preserve the Islamic Republic\u2019s core structures also do not qualify. Only a clear break in continuity\u2014such as a new provisional government, revolutionary council, or constitution replacing the Islamic Republic will qualify.\n\nPartial loss of territory or challenges from rebel or exile groups will not qualify unless the Islamic Republic no longer administers the majority of the Iranian population within Iran.\n\nThe resolution source will be a consensus of credible reporting.\n\nNote: If the Iranian regime falls - as defined above - prior to a qualifying U.S. military action, this market will immediately resolve to \"No\". ",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-the-iranian-regime-survive-us-military-strikes-lHYttoC4kERJ.jpg",
+            "yes_token_id": "19619851020796345517172409566066997550761738782112746767326655871669350897686",
+            "yes_probability": 0.98,
+            "yes_best_bid": 0.978,
+            "yes_best_ask": 0.98,
+            "yes_spread": 0.0020000000000000018,
+            "no_token_id": "108798918614128027361814219314538484133284583608074596451665946577336361445917",
+            "no_probability": 0.022,
+            "no_best_bid": 0.02,
+            "no_best_ask": 0.022,
+            "no_spread": 0.0019999999999999983,
+            "volume": 984320.4258610023,
+            "liquidity": 868712.6099999998,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "world",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Missile strike indicates escalation, directly affecting Iranian regime's survival.",
+            "event_id": "162089",
+            "event_title": "Will the Iranian regime survive U.S. military strikes?",
+            "event_slug": "will-the-iranian-regime-survive-us-military-strikes-741",
+            "detected_yes_price": 0.981,
+            "detected_no_price": 0.02200000000000002,
+            "detected_at": 1780872154930,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.981,
+            "highest_no_price": 0.02200000000000002
+          },
+          {
+            "id": "678751",
+            "slug": "how-many-different-countries-will-israel-strike-in-2026",
+            "condition_id": "0xf0aa26f04c3531f407c1e2bf6790a9e7d5e63885d14f0c262b5dd7556d9baeac",
+            "title": "8",
+            "question": "Will Israel strike 8 countries in 2026?",
+            "description": "This market will resolve according to the total number of different countries' soil that Israel initiates a drone, missile, or air strike between January 1, 2026, 12:00 AM ET and December 31, 2026, 11:59 PM ET.\n\nStrikes on embassies or consulates will count towards the country the embassy or consulate is located in, not towards the country they represent.\n\nStrikes within the territory controlled by Israel as of December 31, 2025, 11:59 PM ET, as well as strikes within the West Bank or the Gaza Strip, will not be counted towards this market's resolution.\n\nFor the purposes of this market, a qualifying \"strike\" is defined as the use of aerial bombs, drones, or missiles (including cruise or ballistic missiles) launched by Israeli military forces that impact another country's ground territory that is officially acknowledged by the Israeli government or a consensus of credible reporting.\n\nMissiles or drones that are intercepted and surface-to-air missile strikes will not count towards the resolution of this market, regardless of whether they land on another country's territory or cause damage.\n\nActions such as artillery fire, small arms fire, FPV or ATGM strikes directly, ground incursions, naval shelling, cyberattacks, or other operations conducted by Israeli ground operatives will not qualify.\n\nThe resolution source will be a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-pops-off-iosplqP2axN2.png",
+            "yes_token_id": "85143744732959311763472387609695643669732275854517488966821600406735614424780",
+            "yes_probability": 0.031,
+            "yes_best_bid": 0.03,
+            "yes_best_ask": 0.031,
+            "yes_spread": 0.0010000000000000009,
+            "no_token_id": "110172700461322925268576688791310566486321588467809503525838005523001153844667",
+            "no_probability": 0.97,
+            "no_best_bid": 0.969,
+            "no_best_ask": 0.97,
+            "no_spread": 0.0010000000000000009,
+            "volume": 526521.3990730001,
+            "liquidity": 533061.54,
+            "neg_risk": true,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Missile strike indicates escalation, directly affecting Israel's military decisions.",
+            "event_id": "79926",
+            "event_title": "How many different countries will Israel strike in 2026?",
+            "event_slug": "how-many-different-countries-will-israel-strike-in-2026",
+            "detected_yes_price": 0.036,
+            "detected_no_price": 0.97,
+            "detected_at": 1780872154930,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.036,
+            "highest_no_price": 0.97
+          },
+          {
+            "id": "678748",
+            "slug": "how-many-different-countries-will-israel-strike-in-2026",
+            "condition_id": "0xaddf36ab28b5c372e4ed06a17767eefd101b363b846cf3c223efc31f8cd260a8",
+            "title": "5",
+            "question": "Will Israel strike 5 countries in 2026?",
+            "description": "This market will resolve according to the total number of different countries' soil that Israel initiates a drone, missile, or air strike between January 1, 2026, 12:00 AM ET and December 31, 2026, 11:59 PM ET.\n\nStrikes on embassies or consulates will count towards the country the embassy or consulate is located in, not towards the country they represent.\n\nStrikes within the territory controlled by Israel as of December 31, 2025, 11:59 PM ET, as well as strikes within the West Bank or the Gaza Strip, will not be counted towards this market's resolution.\n\nFor the purposes of this market, a qualifying \"strike\" is defined as the use of aerial bombs, drones, or missiles (including cruise or ballistic missiles) launched by Israeli military forces that impact another country's ground territory that is officially acknowledged by the Israeli government or a consensus of credible reporting.\n\nMissiles or drones that are intercepted and surface-to-air missile strikes will not count towards the resolution of this market, regardless of whether they land on another country's territory or cause damage.\n\nActions such as artillery fire, small arms fire, FPV or ATGM strikes directly, ground incursions, naval shelling, cyberattacks, or other operations conducted by Israeli ground operatives will not qualify.\n\nThe resolution source will be a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-pops-off-iosplqP2axN2.png",
+            "yes_token_id": "11412542007717408179922453938322356199012298204805894786640983803350145893058",
+            "yes_probability": 0.442,
+            "yes_best_bid": 0.411,
+            "yes_best_ask": 0.442,
+            "yes_spread": 0.031000000000000028,
+            "no_token_id": "20455173427364356838408585209910046941012545528098916344397103955053233725093",
+            "no_probability": 0.589,
+            "no_best_bid": 0.558,
+            "no_best_ask": 0.589,
+            "no_spread": 0.030999999999999917,
+            "volume": 511550.79034000065,
+            "liquidity": 799565.78,
+            "neg_risk": true,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Missile strike indicates escalation, directly affecting Israel's military decisions.",
+            "event_id": "79926",
+            "event_title": "How many different countries will Israel strike in 2026?",
+            "event_slug": "how-many-different-countries-will-israel-strike-in-2026",
+            "detected_yes_price": 0.324,
+            "detected_no_price": 0.741,
+            "detected_at": 1780872154930,
+            "highest_price_change": 0.3641975308641975,
+            "highest_yes_price": 0.442,
+            "highest_no_price": 0.741,
+            "first_moved_at": 1780872811753,
+            "moved_side": "yes",
+            "peaked_at": 1780909744386
+          },
+          {
+            "id": "678752",
+            "slug": "how-many-different-countries-will-israel-strike-in-2026",
+            "condition_id": "0xe7ef027386c6ba19db343b5b685e19035afccaf8891c814e6fbdc14dc259c9a3",
+            "title": "9",
+            "question": "Will Israel strike 9 countries in 2026?",
+            "description": "This market will resolve according to the total number of different countries' soil that Israel initiates a drone, missile, or air strike between January 1, 2026, 12:00 AM ET and December 31, 2026, 11:59 PM ET.\n\nStrikes on embassies or consulates will count towards the country the embassy or consulate is located in, not towards the country they represent.\n\nStrikes within the territory controlled by Israel as of December 31, 2025, 11:59 PM ET, as well as strikes within the West Bank or the Gaza Strip, will not be counted towards this market's resolution.\n\nFor the purposes of this market, a qualifying \"strike\" is defined as the use of aerial bombs, drones, or missiles (including cruise or ballistic missiles) launched by Israeli military forces that impact another country's ground territory that is officially acknowledged by the Israeli government or a consensus of credible reporting.\n\nMissiles or drones that are intercepted and surface-to-air missile strikes will not count towards the resolution of this market, regardless of whether they land on another country's territory or cause damage.\n\nActions such as artillery fire, small arms fire, FPV or ATGM strikes directly, ground incursions, naval shelling, cyberattacks, or other operations conducted by Israeli ground operatives will not qualify.\n\nThe resolution source will be a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-pops-off-iosplqP2axN2.png",
+            "yes_token_id": "13664931735528267433012999978283618677312196041904206077832333122400370417102",
+            "yes_probability": 0.008,
+            "yes_best_bid": 0.007,
+            "yes_best_ask": 0.008,
+            "yes_spread": 0.001,
+            "no_token_id": "1549155753527547720229994621690422951763673403951078616162708719740975643114",
+            "no_probability": 0.993,
+            "no_best_bid": 0.992,
+            "no_best_ask": 0.993,
+            "no_spread": 0.0010000000000000009,
+            "volume": 232545.20284899996,
+            "liquidity": 467744.36000000034,
+            "neg_risk": true,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Missile strike indicates escalation, directly affecting Israel's military decisions.",
+            "event_id": "79926",
+            "event_title": "How many different countries will Israel strike in 2026?",
+            "event_slug": "how-many-different-countries-will-israel-strike-in-2026",
+            "detected_yes_price": 0.015,
+            "detected_no_price": 0.989,
+            "detected_at": 1780872154930,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.015,
+            "highest_no_price": 0.989
+          },
+          {
+            "id": "665374",
+            "slug": "will-the-us-invade-iran-before-2027",
+            "condition_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+            "title": "",
+            "question": "Will the U.S. invade Iran before 2027?",
+            "description": "This market will resolve to \"Yes\" if the United States commences a military offensive intended to establish control over any portion of Iran by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nFor the purposes of this market, land de facto controlled by Iran or the United States as of November 4, 2025 12:00 PM ET, will be considered the sovereign territory of that country.\n\nThe resolution source for this market will be a consensus of credible sources.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-the-us-invade-iran-in-2025-0Eh3J0ku_Fbj.jpg",
+            "yes_token_id": "55115078421062885512539156303747803058407616201213034911037320915726138659123",
+            "yes_probability": 0.18,
+            "yes_best_bid": 0.17,
+            "yes_best_ask": 0.18,
+            "yes_spread": 0.009999999999999981,
+            "no_token_id": "1910830010387565971650098373488592514702818137344973088263643820608151819241",
+            "no_probability": 0.83,
+            "no_best_bid": 0.82,
+            "no_best_ask": 0.83,
+            "no_spread": 0.010000000000000009,
+            "volume": 34501625.260847434,
+            "liquidity": 4659721.210000001,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Missile strike indicates escalation, directly affecting U.S. military decisions.",
+            "event_id": "73130",
+            "event_title": "Will the U.S. invade Iran before 2027?",
+            "event_slug": "will-the-us-invade-iran-before-2027",
+            "detected_yes_price": 0.18,
+            "detected_no_price": 0.83,
+            "detected_at": 1780872154930,
+            "highest_price_change": 0.012048192771084348,
+            "highest_yes_price": 0.18,
+            "highest_no_price": 0.84,
+            "first_moved_at": 1780872154943,
+            "moved_side": "no",
+            "peaked_at": 1780872154943
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 8,
+            "price": 0
+          }
+        ],
+        "topics": [
+          "iran-regime"
+        ],
+        "categories": [
+          "geopolitics"
+        ]
+      },
+      "related_market": {
+        "id": "678748",
+        "slug": "how-many-different-countries-will-israel-strike-in-2026",
+        "condition_id": "0xaddf36ab28b5c372e4ed06a17767eefd101b363b846cf3c223efc31f8cd260a8",
+        "title": "5",
+        "question": "Will Israel strike 5 countries in 2026?",
+        "description": "This market will resolve according to the total number of different countries' soil that Israel initiates a drone, missile, or air strike between January 1, 2026, 12:00 AM ET and December 31, 2026, 11:59 PM ET.\n\nStrikes on embassies or consulates will count towards the country the embassy or consulate is located in, not towards the country they represent.\n\nStrikes within the territory controlled by Israel as of December 31, 2025, 11:59 PM ET, as well as strikes within the West Bank or the Gaza Strip, will not be counted towards this market's resolution.\n\nFor the purposes of this market, a qualifying \"strike\" is defined as the use of aerial bombs, drones, or missiles (including cruise or ballistic missiles) launched by Israeli military forces that impact another country's ground territory that is officially acknowledged by the Israeli government or a consensus of credible reporting.\n\nMissiles or drones that are intercepted and surface-to-air missile strikes will not count towards the resolution of this market, regardless of whether they land on another country's territory or cause damage.\n\nActions such as artillery fire, small arms fire, FPV or ATGM strikes directly, ground incursions, naval shelling, cyberattacks, or other operations conducted by Israeli ground operatives will not qualify.\n\nThe resolution source will be a consensus of credible reporting.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-pops-off-iosplqP2axN2.png",
+        "yes_token_id": "11412542007717408179922453938322356199012298204805894786640983803350145893058",
+        "yes_probability": 0.442,
+        "yes_best_bid": 0.411,
+        "yes_best_ask": 0.442,
+        "yes_spread": 0.031000000000000028,
+        "no_token_id": "20455173427364356838408585209910046941012545528098916344397103955053233725093",
+        "no_probability": 0.589,
+        "no_best_bid": 0.558,
+        "no_best_ask": 0.589,
+        "no_spread": 0.030999999999999917,
+        "volume": 511550.79034000065,
+        "liquidity": 799565.78,
+        "neg_risk": true,
+        "end_date": "2026-12-31T00:00:00Z",
+        "categories": [
+          "politics",
+          "geopolitics",
+          "world"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Missile strike indicates escalation, directly affecting Israel's military decisions.",
+        "event_id": "79926",
+        "event_title": "How many different countries will Israel strike in 2026?",
+        "event_slug": "how-many-different-countries-will-israel-strike-in-2026",
+        "detected_yes_price": 0.324,
+        "detected_no_price": 0.741,
+        "detected_at": 1780872154930,
+        "highest_price_change": 0.3641975308641975,
+        "highest_yes_price": 0.442,
+        "highest_no_price": 0.741,
+        "first_moved_at": 1780872811753,
+        "moved_side": "yes",
+        "peaked_at": 1780909744386
+      },
+      "_scraped_at": "2026-06-08T09:11:08.530649+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 7,
+      "feed_item": {
+        "id": "055dff7e-8086-4f10-81c3-42bb90138a35",
+        "timestamp": 1780901466735,
+        "tweet": {
+          "feed_item_id": "055dff7e-8086-4f10-81c3-42bb90138a35",
+          "post_id": "2063876455990181905",
+          "post_type": "tweet",
+          "created_at": 1780901466735,
+          "user": {
+            "uid": "34713362",
+            "handle": "business",
+            "display_name": "Bloomberg",
+            "pfp": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "Here\u2019s what you need to know to start your day https://www.bloomberg.com/news/newsletters/2026-06-08/israel-strikes-iran-after-a-missile-attack-imperiling-ceasefire?taid=6a26665a3ef24f000105ad75&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+          "link": "https://twitter.com/business/status/2063876455990181905"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "IL",
+        "countries": [
+          "IL",
+          "IR"
+        ],
+        "related_markets": [
+          {
+            "id": "678747",
+            "slug": "how-many-different-countries-will-israel-strike-in-2026",
+            "condition_id": "0x4437c8690e2edae1ab7acb0dcb40e536109ae6366e630d97f0bd764c9545ae57",
+            "title": "4",
+            "question": "Will Israel strike 4 countries in 2026?",
+            "description": "This market will resolve according to the total number of different countries' soil that Israel initiates a drone, missile, or air strike between January 1, 2026, 12:00 AM ET and December 31, 2026, 11:59 PM ET.\n\nStrikes on embassies or consulates will count towards the country the embassy or consulate is located in, not towards the country they represent.\n\nStrikes within the territory controlled by Israel as of December 31, 2025, 11:59 PM ET, as well as strikes within the West Bank or the Gaza Strip, will not be counted towards this market's resolution.\n\nFor the purposes of this market, a qualifying \"strike\" is defined as the use of aerial bombs, drones, or missiles (including cruise or ballistic missiles) launched by Israeli military forces that impact another country's ground territory that is officially acknowledged by the Israeli government or a consensus of credible reporting.\n\nMissiles or drones that are intercepted and surface-to-air missile strikes will not count towards the resolution of this market, regardless of whether they land on another country's territory or cause damage.\n\nActions such as artillery fire, small arms fire, FPV or ATGM strikes directly, ground incursions, naval shelling, cyberattacks, or other operations conducted by Israeli ground operatives will not qualify.\n\nThe resolution source will be a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-pops-off-iosplqP2axN2.png",
+            "yes_token_id": "92230933527175957699173261837562970961226561473212829507303559647834156802557",
+            "yes_probability": 0.351,
+            "yes_best_bid": 0.241,
+            "yes_best_ask": 0.351,
+            "yes_spread": 0.10999999999999999,
+            "no_token_id": "3024601857887977964432828689764702426766285353964470701607503585563051834427",
+            "no_probability": 0.759,
+            "no_best_bid": 0.649,
+            "no_best_ask": 0.759,
+            "no_spread": 0.10999999999999999,
+            "volume": 1168233.7003640006,
+            "liquidity": 640316.0500000002,
+            "neg_risk": true,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Israel's military action suggests increased likelihood of strikes on multiple countries.",
+            "event_id": "79926",
+            "event_title": "How many different countries will Israel strike in 2026?",
+            "event_slug": "how-many-different-countries-will-israel-strike-in-2026",
+            "detected_yes_price": 0.356,
+            "detected_no_price": 0.6659999999999999,
+            "detected_at": 1780901483421,
+            "highest_price_change": 0.2387387387387388,
+            "highest_yes_price": 0.36,
+            "highest_no_price": 0.825,
+            "first_moved_at": 1780901879849,
+            "moved_side": "no",
+            "peaked_at": 1780909757272
+          },
+          {
+            "id": "678751",
+            "slug": "how-many-different-countries-will-israel-strike-in-2026",
+            "condition_id": "0xf0aa26f04c3531f407c1e2bf6790a9e7d5e63885d14f0c262b5dd7556d9baeac",
+            "title": "8",
+            "question": "Will Israel strike 8 countries in 2026?",
+            "description": "This market will resolve according to the total number of different countries' soil that Israel initiates a drone, missile, or air strike between January 1, 2026, 12:00 AM ET and December 31, 2026, 11:59 PM ET.\n\nStrikes on embassies or consulates will count towards the country the embassy or consulate is located in, not towards the country they represent.\n\nStrikes within the territory controlled by Israel as of December 31, 2025, 11:59 PM ET, as well as strikes within the West Bank or the Gaza Strip, will not be counted towards this market's resolution.\n\nFor the purposes of this market, a qualifying \"strike\" is defined as the use of aerial bombs, drones, or missiles (including cruise or ballistic missiles) launched by Israeli military forces that impact another country's ground territory that is officially acknowledged by the Israeli government or a consensus of credible reporting.\n\nMissiles or drones that are intercepted and surface-to-air missile strikes will not count towards the resolution of this market, regardless of whether they land on another country's territory or cause damage.\n\nActions such as artillery fire, small arms fire, FPV or ATGM strikes directly, ground incursions, naval shelling, cyberattacks, or other operations conducted by Israeli ground operatives will not qualify.\n\nThe resolution source will be a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-pops-off-iosplqP2axN2.png",
+            "yes_token_id": "85143744732959311763472387609695643669732275854517488966821600406735614424780",
+            "yes_probability": 0.031,
+            "yes_best_bid": 0.03,
+            "yes_best_ask": 0.031,
+            "yes_spread": 0.0010000000000000009,
+            "no_token_id": "110172700461322925268576688791310566486321588467809503525838005523001153844667",
+            "no_probability": 0.97,
+            "no_best_bid": 0.969,
+            "no_best_ask": 0.97,
+            "no_spread": 0.0010000000000000009,
+            "volume": 526521.3990730001,
+            "liquidity": 533061.54,
+            "neg_risk": true,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "The strike indicates a potential escalation in military engagements.",
+            "event_id": "79926",
+            "event_title": "How many different countries will Israel strike in 2026?",
+            "event_slug": "how-many-different-countries-will-israel-strike-in-2026",
+            "detected_yes_price": 0.035,
+            "detected_no_price": 0.97,
+            "detected_at": 1780901483421,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.035,
+            "highest_no_price": 0.97
+          },
+          {
+            "id": "678755",
+            "slug": "how-many-different-countries-will-israel-strike-in-2026",
+            "condition_id": "0xc0016ebf2013957e354d646ec8c7977b6102337b25e0676895912a675ad1b785",
+            "title": "12",
+            "question": "Will Israel strike 12 countries in 2026?",
+            "description": "This market will resolve according to the total number of different countries' soil that Israel initiates a drone, missile, or air strike between January 1, 2026, 12:00 AM ET and December 31, 2026, 11:59 PM ET.\n\nStrikes on embassies or consulates will count towards the country the embassy or consulate is located in, not towards the country they represent.\n\nStrikes within the territory controlled by Israel as of December 31, 2025, 11:59 PM ET, as well as strikes within the West Bank or the Gaza Strip, will not be counted towards this market's resolution.\n\nFor the purposes of this market, a qualifying \"strike\" is defined as the use of aerial bombs, drones, or missiles (including cruise or ballistic missiles) launched by Israeli military forces that impact another country's ground territory that is officially acknowledged by the Israeli government or a consensus of credible reporting.\n\nMissiles or drones that are intercepted and surface-to-air missile strikes will not count towards the resolution of this market, regardless of whether they land on another country's territory or cause damage.\n\nActions such as artillery fire, small arms fire, FPV or ATGM strikes directly, ground incursions, naval shelling, cyberattacks, or other operations conducted by Israeli ground operatives will not qualify.\n\nThe resolution source will be a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-pops-off-iosplqP2axN2.png",
+            "yes_token_id": "72015245423069054982192495046700184948704628199086689411973370095520631572734",
+            "yes_probability": 0.005,
+            "yes_best_bid": 0.002,
+            "yes_best_ask": 0.005,
+            "yes_spread": 0.003,
+            "no_token_id": "39776309530899241069767536602874687735198205406988909377318344357253580119880",
+            "no_probability": 0.998,
+            "no_best_bid": 0.995,
+            "no_best_ask": 0.998,
+            "no_spread": 0.0030000000000000027,
+            "volume": 69967.16101799994,
+            "liquidity": 716364.7799999996,
+            "neg_risk": true,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "The recent military action indicates a potential for broader conflict.",
+            "event_id": "79926",
+            "event_title": "How many different countries will Israel strike in 2026?",
+            "event_slug": "how-many-different-countries-will-israel-strike-in-2026",
+            "detected_yes_price": 0.005,
+            "detected_no_price": 0.998,
+            "detected_at": 1780901483421,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.005,
+            "highest_no_price": 0.998
+          },
+          {
+            "id": "678748",
+            "slug": "how-many-different-countries-will-israel-strike-in-2026",
+            "condition_id": "0xaddf36ab28b5c372e4ed06a17767eefd101b363b846cf3c223efc31f8cd260a8",
+            "title": "5",
+            "question": "Will Israel strike 5 countries in 2026?",
+            "description": "This market will resolve according to the total number of different countries' soil that Israel initiates a drone, missile, or air strike between January 1, 2026, 12:00 AM ET and December 31, 2026, 11:59 PM ET.\n\nStrikes on embassies or consulates will count towards the country the embassy or consulate is located in, not towards the country they represent.\n\nStrikes within the territory controlled by Israel as of December 31, 2025, 11:59 PM ET, as well as strikes within the West Bank or the Gaza Strip, will not be counted towards this market's resolution.\n\nFor the purposes of this market, a qualifying \"strike\" is defined as the use of aerial bombs, drones, or missiles (including cruise or ballistic missiles) launched by Israeli military forces that impact another country's ground territory that is officially acknowledged by the Israeli government or a consensus of credible reporting.\n\nMissiles or drones that are intercepted and surface-to-air missile strikes will not count towards the resolution of this market, regardless of whether they land on another country's territory or cause damage.\n\nActions such as artillery fire, small arms fire, FPV or ATGM strikes directly, ground incursions, naval shelling, cyberattacks, or other operations conducted by Israeli ground operatives will not qualify.\n\nThe resolution source will be a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-pops-off-iosplqP2axN2.png",
+            "yes_token_id": "11412542007717408179922453938322356199012298204805894786640983803350145893058",
+            "yes_probability": 0.442,
+            "yes_best_bid": 0.411,
+            "yes_best_ask": 0.442,
+            "yes_spread": 0.031000000000000028,
+            "no_token_id": "20455173427364356838408585209910046941012545528098916344397103955053233725093",
+            "no_probability": 0.589,
+            "no_best_bid": 0.558,
+            "no_best_ask": 0.589,
+            "no_spread": 0.030999999999999917,
+            "volume": 511550.79034000065,
+            "liquidity": 799565.78,
+            "neg_risk": true,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "The strike indicates a willingness to engage militarily in the region.",
+            "event_id": "79926",
+            "event_title": "How many different countries will Israel strike in 2026?",
+            "event_slug": "how-many-different-countries-will-israel-strike-in-2026",
+            "detected_yes_price": 0.5,
+            "detected_no_price": 0.5880000000000001,
+            "detected_at": 1780901483421,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.5,
+            "highest_no_price": 0.5880000000000001
+          },
+          {
+            "id": "678752",
+            "slug": "how-many-different-countries-will-israel-strike-in-2026",
+            "condition_id": "0xe7ef027386c6ba19db343b5b685e19035afccaf8891c814e6fbdc14dc259c9a3",
+            "title": "9",
+            "question": "Will Israel strike 9 countries in 2026?",
+            "description": "This market will resolve according to the total number of different countries' soil that Israel initiates a drone, missile, or air strike between January 1, 2026, 12:00 AM ET and December 31, 2026, 11:59 PM ET.\n\nStrikes on embassies or consulates will count towards the country the embassy or consulate is located in, not towards the country they represent.\n\nStrikes within the territory controlled by Israel as of December 31, 2025, 11:59 PM ET, as well as strikes within the West Bank or the Gaza Strip, will not be counted towards this market's resolution.\n\nFor the purposes of this market, a qualifying \"strike\" is defined as the use of aerial bombs, drones, or missiles (including cruise or ballistic missiles) launched by Israeli military forces that impact another country's ground territory that is officially acknowledged by the Israeli government or a consensus of credible reporting.\n\nMissiles or drones that are intercepted and surface-to-air missile strikes will not count towards the resolution of this market, regardless of whether they land on another country's territory or cause damage.\n\nActions such as artillery fire, small arms fire, FPV or ATGM strikes directly, ground incursions, naval shelling, cyberattacks, or other operations conducted by Israeli ground operatives will not qualify.\n\nThe resolution source will be a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-pops-off-iosplqP2axN2.png",
+            "yes_token_id": "13664931735528267433012999978283618677312196041904206077832333122400370417102",
+            "yes_probability": 0.008,
+            "yes_best_bid": 0.007,
+            "yes_best_ask": 0.008,
+            "yes_spread": 0.001,
+            "no_token_id": "1549155753527547720229994621690422951763673403951078616162708719740975643114",
+            "no_probability": 0.993,
+            "no_best_bid": 0.992,
+            "no_best_ask": 0.993,
+            "no_spread": 0.0010000000000000009,
+            "volume": 232545.20284899996,
+            "liquidity": 467744.36000000034,
+            "neg_risk": true,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "The military action suggests an escalation in Israel's military strategy.",
+            "event_id": "79926",
+            "event_title": "How many different countries will Israel strike in 2026?",
+            "event_slug": "how-many-different-countries-will-israel-strike-in-2026",
+            "detected_yes_price": 0.008,
+            "detected_no_price": 0.993,
+            "detected_at": 1780901483421,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.008,
+            "highest_no_price": 0.993
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 9,
+            "price": 0
+          }
+        ],
+        "topics": [
+          "elon-musk",
+          "ai-tech",
+          "iran-regime",
+          "ukraine-war"
+        ],
+        "categories": [
+          "tech",
+          "elections",
+          "geopolitics"
+        ]
+      },
+      "related_market": {
+        "id": "678747",
+        "slug": "how-many-different-countries-will-israel-strike-in-2026",
+        "condition_id": "0x4437c8690e2edae1ab7acb0dcb40e536109ae6366e630d97f0bd764c9545ae57",
+        "title": "4",
+        "question": "Will Israel strike 4 countries in 2026?",
+        "description": "This market will resolve according to the total number of different countries' soil that Israel initiates a drone, missile, or air strike between January 1, 2026, 12:00 AM ET and December 31, 2026, 11:59 PM ET.\n\nStrikes on embassies or consulates will count towards the country the embassy or consulate is located in, not towards the country they represent.\n\nStrikes within the territory controlled by Israel as of December 31, 2025, 11:59 PM ET, as well as strikes within the West Bank or the Gaza Strip, will not be counted towards this market's resolution.\n\nFor the purposes of this market, a qualifying \"strike\" is defined as the use of aerial bombs, drones, or missiles (including cruise or ballistic missiles) launched by Israeli military forces that impact another country's ground territory that is officially acknowledged by the Israeli government or a consensus of credible reporting.\n\nMissiles or drones that are intercepted and surface-to-air missile strikes will not count towards the resolution of this market, regardless of whether they land on another country's territory or cause damage.\n\nActions such as artillery fire, small arms fire, FPV or ATGM strikes directly, ground incursions, naval shelling, cyberattacks, or other operations conducted by Israeli ground operatives will not qualify.\n\nThe resolution source will be a consensus of credible reporting.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-pops-off-iosplqP2axN2.png",
+        "yes_token_id": "92230933527175957699173261837562970961226561473212829507303559647834156802557",
+        "yes_probability": 0.351,
+        "yes_best_bid": 0.241,
+        "yes_best_ask": 0.351,
+        "yes_spread": 0.10999999999999999,
+        "no_token_id": "3024601857887977964432828689764702426766285353964470701607503585563051834427",
+        "no_probability": 0.759,
+        "no_best_bid": 0.649,
+        "no_best_ask": 0.759,
+        "no_spread": 0.10999999999999999,
+        "volume": 1168233.7003640006,
+        "liquidity": 640316.0500000002,
+        "neg_risk": true,
+        "end_date": "2026-12-31T00:00:00Z",
+        "categories": [
+          "politics",
+          "geopolitics",
+          "world"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Israel's military action suggests increased likelihood of strikes on multiple countries.",
+        "event_id": "79926",
+        "event_title": "How many different countries will Israel strike in 2026?",
+        "event_slug": "how-many-different-countries-will-israel-strike-in-2026",
+        "detected_yes_price": 0.356,
+        "detected_no_price": 0.6659999999999999,
+        "detected_at": 1780901483421,
+        "highest_price_change": 0.2387387387387388,
+        "highest_yes_price": 0.36,
+        "highest_no_price": 0.825,
+        "first_moved_at": 1780901879849,
+        "moved_side": "no",
+        "peaked_at": 1780909757272
+      },
+      "_scraped_at": "2026-06-08T09:11:08.530649+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 8,
+      "feed_item": {
+        "id": "ed872707-2104-4b94-b2ee-6d5845f05778",
+        "timestamp": 1780906964675,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "ed872707-2104-4b94-b2ee-6d5845f05778",
+          "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf1  Explosion reported at Mehrabad Airport.",
+          "channel": "Intel Slava",
+          "timestamp": 1780906964675,
+          "link": "https://t.me/intelslava"
+        },
+        "osint": false,
+        "related_markets": [
+          {
+            "id": "2467441",
+            "slug": "any-departure-from-tehran-ika-byptptpt-20260607232607846",
+            "condition_id": "0x2e1b39a2cd38521f6ec6ea531d6ff56752a80b8d83d2707fd5105f6efcc16df8",
+            "title": "June 30",
+            "question": "Will any flight depart from Imam Khomeini International Airport by June 30?",
+            "description": "This market will resolve to \"Yes\" if any flight departs from Imam Khomeini International Airport (IKA) between market creation and 11:59 PM ET on the listed date. Otherwise, this market will resolve to \"No\".\n\nAt least one departure must have occurred. An announcement that IKA has reopened alone will not qualify. Only the time of takeoff will be considered for this market. Gate departure will not count.\n\nThe primary resolution source will be information from FlightAware (https://www.flightaware.com/live/airport/OIIE); however, information from IKA and Iranian government, including the Civil Aviation Authority of Iran, will be used.",
+            "image": "",
+            "yes_token_id": "64959276557856930932208845410235317417554813097637714759056560536425952825069",
+            "yes_probability": 0.96,
+            "yes_best_bid": 0.89,
+            "yes_best_ask": 0.96,
+            "yes_spread": 0.06999999999999995,
+            "no_token_id": "13687767270017235823313290167637632164241759674436371342895677792481601233062",
+            "no_probability": 0.11,
+            "no_best_bid": 0.04,
+            "no_best_ask": 0.11,
+            "no_spread": 0.07,
+            "volume": 60.773806,
+            "liquidity": 11125.460000000005,
+            "neg_risk": false,
+            "end_date": "2026-07-01T03:59:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Explosion at airport directly affects flight operations (1 hop).",
+            "event_id": "571253",
+            "event_title": "Any departure from Tehran (IKA) by...?",
+            "event_slug": "any-departure-from-tehran-ika-byptptpt-20260607232607846",
+            "detected_yes_price": 0.85,
+            "detected_no_price": 0.22999999999999998,
+            "detected_at": 1780907023416,
+            "highest_price_change": 0.1411764705882353,
+            "highest_yes_price": 0.97,
+            "highest_no_price": 0.23,
+            "first_moved_at": 1780907769951,
+            "moved_side": "yes",
+            "peaked_at": 1780907855427
+          },
+          {
+            "id": "2467435",
+            "slug": "any-departure-from-tehran-ika-byptptpt-20260607232607846",
+            "condition_id": "0x35481add6852622436ba70d466479e5d4ea676c9ba8c3961917e39fd1047061d",
+            "title": "June 8",
+            "question": "Will any flight depart from Imam Khomeini International Airport by June 8?",
+            "description": "This market will resolve to \"Yes\" if any flight departs from Imam Khomeini International Airport (IKA) between market creation and 11:59 PM ET on the listed date. Otherwise, this market will resolve to \"No\".\n\nAt least one departure must have occurred. An announcement that IKA has reopened alone will not qualify. Only the time of takeoff will be considered for this market. Gate departure will not count.\n\nThe primary resolution source will be information from FlightAware (https://www.flightaware.com/live/airport/OIIE); however, information from IKA and Iranian government, including the Civil Aviation Authority of Iran, will be used.",
+            "image": "",
+            "yes_token_id": "55197393500587782712707061904823692146862455674737458181608552469281048329302",
+            "yes_probability": 0.31,
+            "yes_best_bid": 0.13,
+            "yes_best_ask": 0.31,
+            "yes_spread": 0.18,
+            "no_token_id": "64452918537660100893215275474055608337437405599078311096793654593182909307119",
+            "no_probability": 0.87,
+            "no_best_bid": 0.69,
+            "no_best_ask": 0.87,
+            "no_spread": 0.18000000000000005,
+            "volume": 1011.8637517000002,
+            "liquidity": 25245.81000000001,
+            "neg_risk": false,
+            "end_date": "2026-06-09T03:59:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Explosion at airport directly affects flight operations (1 hop).",
+            "event_id": "571253",
+            "event_title": "Any departure from Tehran (IKA) by...?",
+            "event_slug": "any-departure-from-tehran-ika-byptptpt-20260607232607846",
+            "detected_yes_price": 0.33,
+            "detected_no_price": 0.89,
+            "detected_at": 1780907023416,
+            "highest_price_change": 0.15151515151515146,
+            "highest_yes_price": 0.38,
+            "highest_no_price": 0.89,
+            "first_moved_at": 1780907023615,
+            "moved_side": "yes",
+            "peaked_at": 1780908636193
+          },
+          {
+            "id": "2467438",
+            "slug": "any-departure-from-tehran-ika-byptptpt-20260607232607846",
+            "condition_id": "0x993b9072d075bad2cfadfefd35f2efbda3c91dc68b6c5d32eae4229c581eb705",
+            "title": "June 11",
+            "question": "Will any flight depart from Imam Khomeini International Airport by June 11?",
+            "description": "This market will resolve to \"Yes\" if any flight departs from Imam Khomeini International Airport (IKA) between market creation and 11:59 PM ET on the listed date. Otherwise, this market will resolve to \"No\".\n\nAt least one departure must have occurred. An announcement that IKA has reopened alone will not qualify. Only the time of takeoff will be considered for this market. Gate departure will not count.\n\nThe primary resolution source will be information from FlightAware (https://www.flightaware.com/live/airport/OIIE); however, information from IKA and Iranian government, including the Civil Aviation Authority of Iran, will be used.",
+            "image": "",
+            "yes_token_id": "16484519254692025553301723879886364313942498879116392271615231038549748277983",
+            "yes_probability": 0.89,
+            "yes_best_bid": 0.54,
+            "yes_best_ask": 0.89,
+            "yes_spread": 0.35,
+            "no_token_id": "87471196328476956812652488739046002600461457287273624269524122404625696278041",
+            "no_probability": 0.46,
+            "no_best_bid": 0.11,
+            "no_best_ask": 0.46,
+            "no_spread": 0.35000000000000003,
+            "volume": 413.98939300000006,
+            "liquidity": 20586.78,
+            "neg_risk": false,
+            "end_date": "2026-06-12T03:59:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Explosion at airport directly affects flight operations (1 hop).",
+            "event_id": "571253",
+            "event_title": "Any departure from Tehran (IKA) by...?",
+            "event_slug": "any-departure-from-tehran-ika-byptptpt-20260607232607846",
+            "detected_yes_price": 0.89,
+            "detected_no_price": 0.45999999999999996,
+            "detected_at": 1780907023416,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.89,
+            "highest_no_price": 0.45999999999999996
+          },
+          {
+            "id": "2467436",
+            "slug": "any-departure-from-tehran-ika-byptptpt-20260607232607846",
+            "condition_id": "0x164938fa708a80dc5dc59fceaa6664e69e2016749594d7fad8a39c474b8fda8a",
+            "title": "June 9",
+            "question": "Will any flight depart from Imam Khomeini International Airport by June 9?",
+            "description": "This market will resolve to \"Yes\" if any flight departs from Imam Khomeini International Airport (IKA) between market creation and 11:59 PM ET on the listed date. Otherwise, this market will resolve to \"No\".\n\nAt least one departure must have occurred. An announcement that IKA has reopened alone will not qualify. Only the time of takeoff will be considered for this market. Gate departure will not count.\n\nThe primary resolution source will be information from FlightAware (https://www.flightaware.com/live/airport/OIIE); however, information from IKA and Iranian government, including the Civil Aviation Authority of Iran, will be used.",
+            "image": "",
+            "yes_token_id": "15780263825856752596139528694103438139941546069941230439085713176137544061075",
+            "yes_probability": 0.7,
+            "yes_best_bid": 0.22,
+            "yes_best_ask": 0.7,
+            "yes_spread": 0.48,
+            "no_token_id": "16727665184711185084507631159117634239269547797402098362715144339773493041698",
+            "no_probability": 0.78,
+            "no_best_bid": 0.3,
+            "no_best_ask": 0.78,
+            "no_spread": 0.48000000000000004,
+            "volume": 168.88052152,
+            "liquidity": 18132.33,
+            "neg_risk": false,
+            "end_date": "2026-06-10T03:59:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Explosion at airport directly affects flight operations (1 hop).",
+            "event_id": "571253",
+            "event_title": "Any departure from Tehran (IKA) by...?",
+            "event_slug": "any-departure-from-tehran-ika-byptptpt-20260607232607846",
+            "detected_yes_price": 0.81,
+            "detected_no_price": 0.77,
+            "detected_at": 1780907023416,
+            "highest_price_change": 0.08641975308641969,
+            "highest_yes_price": 0.88,
+            "highest_no_price": 0.78,
+            "first_moved_at": 1780907108446,
+            "moved_side": "yes",
+            "peaked_at": 1780908567486
+          },
+          {
+            "id": "2467439",
+            "slug": "any-departure-from-tehran-ika-byptptpt-20260607232607846",
+            "condition_id": "0x377b9bc5573a9b3eb4e55927754073f662ba01dc57678265efd8af3af05e323a",
+            "title": "June 12",
+            "question": "Will any flight depart from Imam Khomeini International Airport by June 12?",
+            "description": "This market will resolve to \"Yes\" if any flight departs from Imam Khomeini International Airport (IKA) between market creation and 11:59 PM ET on the listed date. Otherwise, this market will resolve to \"No\".\n\nAt least one departure must have occurred. An announcement that IKA has reopened alone will not qualify. Only the time of takeoff will be considered for this market. Gate departure will not count.\n\nThe primary resolution source will be information from FlightAware (https://www.flightaware.com/live/airport/OIIE); however, information from IKA and Iranian government, including the Civil Aviation Authority of Iran, will be used.",
+            "image": "",
+            "yes_token_id": "48262556353178890619002081556446639774170538768377526867138154673499508479140",
+            "yes_probability": 0.85,
+            "yes_best_bid": 0.3,
+            "yes_best_ask": 0.85,
+            "yes_spread": 0.55,
+            "no_token_id": "88075317987102857278059271235974460061915312419754188914995393617048804783735",
+            "no_probability": 0.7,
+            "no_best_bid": 0.15,
+            "no_best_ask": 0.7,
+            "no_spread": 0.5499999999999999,
+            "volume": 318.60769100000005,
+            "liquidity": 18146.660000000003,
+            "neg_risk": false,
+            "end_date": "2026-06-13T03:59:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Explosion at airport directly affects flight operations (1 hop).",
+            "event_id": "571253",
+            "event_title": "Any departure from Tehran (IKA) by...?",
+            "event_slug": "any-departure-from-tehran-ika-byptptpt-20260607232607846",
+            "detected_yes_price": 0.85,
+            "detected_no_price": 0.7,
+            "detected_at": 1780907023416,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.85,
+            "highest_no_price": 0.7
+          }
+        ],
+        "topics": [
+          "ai-tech"
+        ],
+        "categories": [
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "2467441",
+        "slug": "any-departure-from-tehran-ika-byptptpt-20260607232607846",
+        "condition_id": "0x2e1b39a2cd38521f6ec6ea531d6ff56752a80b8d83d2707fd5105f6efcc16df8",
+        "title": "June 30",
+        "question": "Will any flight depart from Imam Khomeini International Airport by June 30?",
+        "description": "This market will resolve to \"Yes\" if any flight departs from Imam Khomeini International Airport (IKA) between market creation and 11:59 PM ET on the listed date. Otherwise, this market will resolve to \"No\".\n\nAt least one departure must have occurred. An announcement that IKA has reopened alone will not qualify. Only the time of takeoff will be considered for this market. Gate departure will not count.\n\nThe primary resolution source will be information from FlightAware (https://www.flightaware.com/live/airport/OIIE); however, information from IKA and Iranian government, including the Civil Aviation Authority of Iran, will be used.",
+        "image": "",
+        "yes_token_id": "64959276557856930932208845410235317417554813097637714759056560536425952825069",
+        "yes_probability": 0.96,
+        "yes_best_bid": 0.89,
+        "yes_best_ask": 0.96,
+        "yes_spread": 0.06999999999999995,
+        "no_token_id": "13687767270017235823313290167637632164241759674436371342895677792481601233062",
+        "no_probability": 0.11,
+        "no_best_bid": 0.04,
+        "no_best_ask": 0.11,
+        "no_spread": 0.07,
+        "volume": 60.773806,
+        "liquidity": 11125.460000000005,
+        "neg_risk": false,
+        "end_date": "2026-07-01T03:59:00Z",
+        "categories": [
+          "politics",
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Explosion at airport directly affects flight operations (1 hop).",
+        "event_id": "571253",
+        "event_title": "Any departure from Tehran (IKA) by...?",
+        "event_slug": "any-departure-from-tehran-ika-byptptpt-20260607232607846",
+        "detected_yes_price": 0.85,
+        "detected_no_price": 0.22999999999999998,
+        "detected_at": 1780907023416,
+        "highest_price_change": 0.1411764705882353,
+        "highest_yes_price": 0.97,
+        "highest_no_price": 0.23,
+        "first_moved_at": 1780907769951,
+        "moved_side": "yes",
+        "peaked_at": 1780907855427
+      },
+      "_scraped_at": "2026-06-08T09:11:08.530649+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "valid": false,
+      "_scraped_at": "2026-06-08T09:11:08.530649+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "global_tension_score": 98,
+      "global_tension_level": "SEVERE",
+      "countries": [
+        {
+          "country": "IR",
+          "count": 54,
+          "recent": [
+            {
+              "id": "62444384-c449-4752-a136-19d6ae4c43b3",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1780907107099
+            },
+            {
+              "id": "d5bf1a56-f437-41c9-8d4a-aed24cea7e0f",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780900286976
+            },
+            {
+              "id": "f5ca3f08-10e7-4cc5-9f17-32f3d25ca3fc",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780898930047
+            },
+            {
+              "id": "86a5a445-8d61-430b-88d3-9d92a5bc46aa",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780892684799
+            },
+            {
+              "id": "c41e42c4-5d7b-4a1d-a2e0-e4fc77fa8a2d",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780909831141
+            },
+            {
+              "id": "d74fafc5-c193-4712-b56a-55969737cd38",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780907099426
+            },
+            {
+              "id": "9a5fadc2-aa9c-47b3-bf99-bc79c877f6a4",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780893284775
+            },
+            {
+              "id": "0334aa74-9f62-40a2-a01b-94b685388878",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780908691176
+            },
+            {
+              "id": "17b72854-ce34-48b0-948c-f2906ea5bdd9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780909141167
+            },
+            {
+              "id": "a391dc62-4365-4b36-8caa-297324ce70bb",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780909201155
+            },
+            {
+              "id": "e2f116be-e803-426f-8c47-0bfe540617b9",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1780909135008
+            },
+            {
+              "id": "64ebb09a-8f4a-4083-a178-1318faf74030",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780906724188
+            },
+            {
+              "id": "272340b4-7902-4eee-9d63-085b3c33654c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780891417877
+            },
+            {
+              "id": "9215095d-45cb-49e3-8157-43b6748bc0e2",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780891969548
+            },
+            {
+              "id": "4d902e34-363d-420f-8743-ae8bae3088a1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780904259316
+            },
+            {
+              "id": "27b53c18-0cc4-4c30-ad39-4775cfad28be",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780904291034
+            },
+            {
+              "id": "cc0fc5ea-eadd-41f6-8a03-d11178f3d043",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780908928829
+            },
+            {
+              "id": "055dff7e-8086-4f10-81c3-42bb90138a35",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780901466735
+            },
+            {
+              "id": "4c66ca28-514f-44e6-bdc9-d960cb07b341",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780902842556
+            },
+            {
+              "id": "31761eef-79ce-4079-ab33-d70b9dbb25e7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780902284547
+            },
+            {
+              "id": "c367e018-4399-4264-8b9d-cd50f4fe662e",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1780896114412
+            },
+            {
+              "id": "f1b1f42c-4dfc-4785-af38-9052487d4d4c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780900184599
+            },
+            {
+              "id": "4105963d-e149-4d3e-88a0-dc3e5aa32670",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780900379752
+            },
+            {
+              "id": "913c09b7-3109-4a04-9f21-bd0de0b602d5",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780906184452
+            },
+            {
+              "id": "b90df10f-61a7-47d5-b8a5-545df5ec3d28",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780900185942
+            }
+          ],
+          "volume": 60283943.44731767,
+          "critical_signals": 2,
+          "high_signals": 38,
+          "low_signals": 14
+        },
+        {
+          "country": "IL",
+          "count": 49,
+          "recent": [
+            {
+              "id": "62444384-c449-4752-a136-19d6ae4c43b3",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1780907107099
+            },
+            {
+              "id": "d5bf1a56-f437-41c9-8d4a-aed24cea7e0f",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780900286976
+            },
+            {
+              "id": "86a5a445-8d61-430b-88d3-9d92a5bc46aa",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780892684799
+            },
+            {
+              "id": "c41e42c4-5d7b-4a1d-a2e0-e4fc77fa8a2d",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780909831141
+            },
+            {
+              "id": "9a5fadc2-aa9c-47b3-bf99-bc79c877f6a4",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780893284775
+            },
+            {
+              "id": "0334aa74-9f62-40a2-a01b-94b685388878",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780908691176
+            },
+            {
+              "id": "17b72854-ce34-48b0-948c-f2906ea5bdd9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780909141167
+            },
+            {
+              "id": "a391dc62-4365-4b36-8caa-297324ce70bb",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780909201155
+            },
+            {
+              "id": "e2f116be-e803-426f-8c47-0bfe540617b9",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1780909135008
+            },
+            {
+              "id": "272340b4-7902-4eee-9d63-085b3c33654c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780891417877
+            },
+            {
+              "id": "9215095d-45cb-49e3-8157-43b6748bc0e2",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780891969548
+            },
+            {
+              "id": "27b53c18-0cc4-4c30-ad39-4775cfad28be",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780904291034
+            },
+            {
+              "id": "cc0fc5ea-eadd-41f6-8a03-d11178f3d043",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780908928829
+            },
+            {
+              "id": "055dff7e-8086-4f10-81c3-42bb90138a35",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780901466735
+            },
+            {
+              "id": "c6a2e498-9696-4610-abba-8d976a0c4acd",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780900694587
+            },
+            {
+              "id": "31761eef-79ce-4079-ab33-d70b9dbb25e7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780902284547
+            },
+            {
+              "id": "c367e018-4399-4264-8b9d-cd50f4fe662e",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1780896114412
+            },
+            {
+              "id": "f1b1f42c-4dfc-4785-af38-9052487d4d4c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780900184599
+            },
+            {
+              "id": "4105963d-e149-4d3e-88a0-dc3e5aa32670",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780900379752
+            },
+            {
+              "id": "e396fe1d-3730-48c3-9fd0-889919dc8784",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780898744638
+            },
+            {
+              "id": "3b841652-675f-4b03-a4a0-5a0c21ef7f1e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780900766322
+            },
+            {
+              "id": "913c09b7-3109-4a04-9f21-bd0de0b602d5",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780906184452
+            },
+            {
+              "id": "b90df10f-61a7-47d5-b8a5-545df5ec3d28",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780900185942
+            },
+            {
+              "id": "b884ea7d-8fe4-4d0a-ad7d-150c9fe30ac2",
+              "kind": "news",
+              "impact": "low",
+              "timestamp": 1780909351518
+            },
+            {
+              "id": "e3d04692-ffa5-4d92-82f5-6e8b705628e1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780905026318
+            }
+          ],
+          "volume": 56111850.40888852,
+          "critical_signals": 2,
+          "high_signals": 36,
+          "low_signals": 11
+        },
+        {
+          "country": "GB",
+          "count": 12,
+          "recent": [
+            {
+              "id": "7eb2ca80-8b06-4892-aa19-c40c5241e61f",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780902104931
+            },
+            {
+              "id": "f5181f35-aa3d-4c0f-bb10-71a1695e1685",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780892115467
+            },
+            {
+              "id": "0783bb5d-ef90-46e7-9333-5677ef4b1b9b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780891664814
+            },
+            {
+              "id": "7f351488-2845-4b82-a71f-acf09d34cbc8",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780894845009
+            },
+            {
+              "id": "1ca8b979-e652-44ea-969b-251ba49aaa1c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780904145245
+            },
+            {
+              "id": "50a7d12a-2dd7-4cc2-8473-2de0a18c1dbb",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780908511212
+            },
+            {
+              "id": "936a531a-5992-4ba7-bfca-0f972f8425ae",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780896028496
+            },
+            {
+              "id": "5ba6a45c-44be-4fb6-8268-ac90a5dde2bf",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780902824532
+            },
+            {
+              "id": "26059f28-e102-46b5-9c52-b66866146ece",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780891425650
+            },
+            {
+              "id": "b086d204-c329-4ce1-b3e7-545134366df1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780896719815
+            },
+            {
+              "id": "bbe991e5-e394-4868-a7f9-45b0486a0b34",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780908331312
+            },
+            {
+              "id": "4fdecc47-c3db-414a-b7d0-94e6c10d1953",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780901144577
+            }
+          ],
+          "volume": 7433085.798050813,
+          "critical_signals": 3,
+          "high_signals": 8,
+          "low_signals": 1
+        },
+        {
+          "country": "RU",
+          "count": 12,
+          "recent": [
+            {
+              "id": "7eb2ca80-8b06-4892-aa19-c40c5241e61f",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780902104931
+            },
+            {
+              "id": "f5181f35-aa3d-4c0f-bb10-71a1695e1685",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780892115467
+            },
+            {
+              "id": "0783bb5d-ef90-46e7-9333-5677ef4b1b9b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780891664814
+            },
+            {
+              "id": "7f351488-2845-4b82-a71f-acf09d34cbc8",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780894845009
+            },
+            {
+              "id": "1ca8b979-e652-44ea-969b-251ba49aaa1c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780904145245
+            },
+            {
+              "id": "50a7d12a-2dd7-4cc2-8473-2de0a18c1dbb",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780908511212
+            },
+            {
+              "id": "936a531a-5992-4ba7-bfca-0f972f8425ae",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780896028496
+            },
+            {
+              "id": "5ba6a45c-44be-4fb6-8268-ac90a5dde2bf",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780902824532
+            },
+            {
+              "id": "c2bb284d-f3ca-41df-9e3a-43a9b0485655",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780902000477
+            },
+            {
+              "id": "ccf53c76-f305-4a5e-aa38-65db9d8ded61",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780902645254
+            },
+            {
+              "id": "26059f28-e102-46b5-9c52-b66866146ece",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780891425650
+            },
+            {
+              "id": "b086d204-c329-4ce1-b3e7-545134366df1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780896719815
+            }
+          ],
+          "volume": 7406056.942587813,
+          "critical_signals": 4,
+          "high_signals": 7,
+          "low_signals": 1
+        },
+        {
+          "country": "UA",
+          "count": 11,
+          "recent": [
+            {
+              "id": "7eb2ca80-8b06-4892-aa19-c40c5241e61f",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780902104931
+            },
+            {
+              "id": "f5181f35-aa3d-4c0f-bb10-71a1695e1685",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780892115467
+            },
+            {
+              "id": "0783bb5d-ef90-46e7-9333-5677ef4b1b9b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780891664814
+            },
+            {
+              "id": "7f351488-2845-4b82-a71f-acf09d34cbc8",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780894845009
+            },
+            {
+              "id": "1ca8b979-e652-44ea-969b-251ba49aaa1c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780904145245
+            },
+            {
+              "id": "50a7d12a-2dd7-4cc2-8473-2de0a18c1dbb",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780908511212
+            },
+            {
+              "id": "936a531a-5992-4ba7-bfca-0f972f8425ae",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780896028496
+            },
+            {
+              "id": "5ba6a45c-44be-4fb6-8268-ac90a5dde2bf",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780902824532
+            },
+            {
+              "id": "26059f28-e102-46b5-9c52-b66866146ece",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780891425650
+            },
+            {
+              "id": "b086d204-c329-4ce1-b3e7-545134366df1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780896719815
+            },
+            {
+              "id": "bbe991e5-e394-4868-a7f9-45b0486a0b34",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780908331312
+            }
+          ],
+          "volume": 7433085.798050813,
+          "critical_signals": 3,
+          "high_signals": 7,
+          "low_signals": 1
+        },
+        {
+          "country": "US",
+          "count": 10,
+          "recent": [
+            {
+              "id": "7eb2ca80-8b06-4892-aa19-c40c5241e61f",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780902104931
+            },
+            {
+              "id": "f5181f35-aa3d-4c0f-bb10-71a1695e1685",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780892115467
+            },
+            {
+              "id": "31761eef-79ce-4079-ab33-d70b9dbb25e7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780902284547
+            },
+            {
+              "id": "c367e018-4399-4264-8b9d-cd50f4fe662e",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1780896114412
+            },
+            {
+              "id": "b884ea7d-8fe4-4d0a-ad7d-150c9fe30ac2",
+              "kind": "news",
+              "impact": "low",
+              "timestamp": 1780909351518
+            },
+            {
+              "id": "356a7d5d-bfdd-4e15-9ff2-3da592b2a738",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780899644624
+            },
+            {
+              "id": "4d52a391-059c-449b-aa55-c1f5dc52ed0d",
+              "kind": "news",
+              "impact": "low",
+              "timestamp": 1780899654153
+            },
+            {
+              "id": "00f897b4-1aab-4e2f-bf99-d36ac8880f9c",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780906426431
+            },
+            {
+              "id": "5ba6a45c-44be-4fb6-8268-ac90a5dde2bf",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780902824532
+            },
+            {
+              "id": "094f9df7-d932-4a47-b1d8-73647a393ca9",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780905867075
+            }
+          ],
+          "volume": 44797263.2208608,
+          "critical_signals": 2,
+          "high_signals": 4,
+          "low_signals": 4
+        },
+        {
+          "country": "YE",
+          "count": 10,
+          "recent": [
+            {
+              "id": "c6a2e498-9696-4610-abba-8d976a0c4acd",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780900694587
+            },
+            {
+              "id": "31761eef-79ce-4079-ab33-d70b9dbb25e7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780902284547
+            },
+            {
+              "id": "e396fe1d-3730-48c3-9fd0-889919dc8784",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780898744638
+            },
+            {
+              "id": "3b841652-675f-4b03-a4a0-5a0c21ef7f1e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780900766322
+            },
+            {
+              "id": "850791de-0098-4c57-b533-be44a9292f69",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780904804487
+            },
+            {
+              "id": "fa9301b0-47cd-46ac-a6ed-104fd5bd85da",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780906424445
+            },
+            {
+              "id": "2b0f45cd-f23a-43a1-9191-3dcc41f1b042",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780900744735
+            },
+            {
+              "id": "356a7d5d-bfdd-4e15-9ff2-3da592b2a738",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780899644624
+            },
+            {
+              "id": "2198ec45-bbd6-4c79-ab17-1334636efd92",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780901144692
+            },
+            {
+              "id": "094f9df7-d932-4a47-b1d8-73647a393ca9",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780905867075
+            }
+          ],
+          "volume": 38439900.26943979,
+          "critical_signals": 0,
+          "high_signals": 9,
+          "low_signals": 1
+        },
+        {
+          "country": "LB",
+          "count": 4,
+          "recent": [
+            {
+              "id": "31761eef-79ce-4079-ab33-d70b9dbb25e7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780902284547
+            },
+            {
+              "id": "f547861c-a4f2-4126-9038-4c9cb7103654",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780909531160
+            },
+            {
+              "id": "356a7d5d-bfdd-4e15-9ff2-3da592b2a738",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780899644624
+            },
+            {
+              "id": "42a59884-aa34-4ec9-a7f8-862766ee10ce",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780891905014
+            }
+          ],
+          "volume": 43808014.19483694,
+          "critical_signals": 1,
+          "high_signals": 2,
+          "low_signals": 1
+        },
+        {
+          "country": "FR",
+          "count": 3,
+          "recent": [
+            {
+              "id": "f5181f35-aa3d-4c0f-bb10-71a1695e1685",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780892115467
+            },
+            {
+              "id": "936a531a-5992-4ba7-bfca-0f972f8425ae",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780896028496
+            },
+            {
+              "id": "5ba6a45c-44be-4fb6-8268-ac90a5dde2bf",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780902824532
+            }
+          ],
+          "volume": 2885860.487275087,
+          "critical_signals": 3,
+          "high_signals": 0,
+          "low_signals": 0
+        },
+        {
+          "country": "FI",
+          "count": 3,
+          "recent": [
+            {
+              "id": "c2bb284d-f3ca-41df-9e3a-43a9b0485655",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780902000477
+            },
+            {
+              "id": "ccf53c76-f305-4a5e-aa38-65db9d8ded61",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780902645254
+            },
+            {
+              "id": "42a59884-aa34-4ec9-a7f8-862766ee10ce",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780891905014
+            }
+          ],
+          "volume": 36792963.73936548,
+          "critical_signals": 1,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "NO",
+          "count": 2,
+          "recent": [
+            {
+              "id": "c2bb284d-f3ca-41df-9e3a-43a9b0485655",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780902000477
+            },
+            {
+              "id": "ccf53c76-f305-4a5e-aa38-65db9d8ded61",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780902645254
+            }
+          ],
+          "volume": 1307018.0526570475,
+          "critical_signals": 1,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "SA",
+          "count": 2,
+          "recent": [
+            {
+              "id": "711c0c8b-8cf9-4999-92b8-8b0a82b15f00",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780907990997
+            },
+            {
+              "id": "b017c964-965f-4fcb-b3d8-3fcdca707e79",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780896014705
+            }
+          ],
+          "volume": 2517352.0470871395,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "PS",
+          "count": 2,
+          "recent": [
+            {
+              "id": "356a7d5d-bfdd-4e15-9ff2-3da592b2a738",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780899644624
+            },
+            {
+              "id": "122bd171-ae3a-40b6-92a6-5b49d0605135",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780892999780
+            }
+          ],
+          "volume": 1026602.1051259713,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 1
+        },
+        {
+          "country": "AM",
+          "count": 2,
+          "recent": [
+            {
+              "id": "9d990f8a-7f33-4c36-9570-105f1dc5254e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780901564565
+            },
+            {
+              "id": "42a59884-aa34-4ec9-a7f8-862766ee10ce",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780891905014
+            }
+          ],
+          "volume": 35909583.881235436,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "DK",
+          "count": 2,
+          "recent": [
+            {
+              "id": "c2bb284d-f3ca-41df-9e3a-43a9b0485655",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780902000477
+            },
+            {
+              "id": "ccf53c76-f305-4a5e-aa38-65db9d8ded61",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780902645254
+            }
+          ],
+          "volume": 1307018.0526570475,
+          "critical_signals": 1,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "ES",
+          "count": 2,
+          "recent": [
+            {
+              "id": "c2bb284d-f3ca-41df-9e3a-43a9b0485655",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780902000477
+            },
+            {
+              "id": "ccf53c76-f305-4a5e-aa38-65db9d8ded61",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780902645254
+            }
+          ],
+          "volume": 1307018.0526570475,
+          "critical_signals": 1,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "SE",
+          "count": 2,
+          "recent": [
+            {
+              "id": "c2bb284d-f3ca-41df-9e3a-43a9b0485655",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780902000477
+            },
+            {
+              "id": "ccf53c76-f305-4a5e-aa38-65db9d8ded61",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780902645254
+            }
+          ],
+          "volume": 1307018.0526570475,
+          "critical_signals": 1,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "JO",
+          "count": 1,
+          "recent": [
+            {
+              "id": "b017c964-965f-4fcb-b3d8-3fcdca707e79",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780896014705
+            }
+          ],
+          "volume": 2499390.2160861394,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "LV",
+          "count": 1,
+          "recent": [
+            {
+              "id": "f65e92a4-96de-41b7-a9a8-3b9a91452c87",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780905510370
+            }
+          ],
+          "volume": 4857233.176413522,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "QA",
+          "count": 1,
+          "recent": [
+            {
+              "id": "f5ca3f08-10e7-4cc5-9f17-32f3d25ca3fc",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780898930047
+            }
+          ],
+          "volume": 2465482.279050005,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "MD",
+          "count": 1,
+          "recent": [
+            {
+              "id": "50a7d12a-2dd7-4cc2-8473-2de0a18c1dbb",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780908511212
+            }
+          ],
+          "volume": 3619536.842713768,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "OM",
+          "count": 1,
+          "recent": [
+            {
+              "id": "0783bb5d-ef90-46e7-9333-5677ef4b1b9b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780891664814
+            }
+          ],
+          "volume": 1732077.8848530476,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "IQ",
+          "count": 1,
+          "recent": [
+            {
+              "id": "356a7d5d-bfdd-4e15-9ff2-3da592b2a738",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780899644624
+            }
+          ],
+          "volume": 984320.4258610023,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "DE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "936a531a-5992-4ba7-bfca-0f972f8425ae",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780896028496
+            }
+          ],
+          "volume": 2137466.3798349975,
+          "critical_signals": 1,
+          "high_signals": 0,
+          "low_signals": 0
+        }
+      ],
+      "_scraped_at": "2026-06-08T09:11:08.530649+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
