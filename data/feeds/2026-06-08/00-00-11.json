@@ -1,0 +1,2219 @@
+{
+  "scraped_at": "2026-06-08T00:00:02.977742+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 8,
+  "items": [
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "52ebd1a5-e191-4819-b777-231619e6a126",
+        "timestamp": 1780858768115,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "52ebd1a5-e191-4819-b777-231619e6a126",
+          "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1\u26a1- \"The IDF has reinforced its defense components and is on alert and readiness for various scenarios in defense and offense.\n\nThe Chief of Staff, Lieutenant General Eyal Zamir, and IDF commanders are currently conducting situation assessments and closely monitoring developments.\n\nThe public is urged to remain vigilant, act responsibly, and follow the Home Front Command instructions,\" - IDF.",
+          "channel": "Rerum Novarum // Intel, Breaking News, and Alerts \ud83c\uddfa\ud83c\uddf8",
+          "timestamp": 1780858768115,
+          "link": "https://t.me/rnintel"
+        },
+        "osint": false,
+        "country": "IL",
+        "countries": [
+          "IL"
+        ],
+        "related_markets": [
+          {
+            "id": "1809581",
+            "slug": "israel-strike-on-damascus-by-september-30",
+            "condition_id": "0xeb4beaefa070c6ccfef90eb088852246c9e965b2672a83bc6f4c36ae347817f4",
+            "title": "June 30",
+            "question": "Israel military action on Damascus by June 30, 2026?",
+            "description": "This market will resolve to \"Yes\" if Israel initiates a drone, missile, or air strike on Damascus Governorate, or any target within it, between market creation and June 30, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nA qualifying \"strike\" is defined as the use of aerial bombs, drones or missiles (including cruise or ballistic missiles) launched by Israeli military forces that impact within Damascus Governorate.\n\nMissiles or drones which are intercepted and surface-to-air missile strikes will not be sufficient for a \"Yes\" resolution regardless of whether they land in Damascus Governorate, or cause damage.\n\nThe primary resolution source for this market will be a consensus of credible reporting and video evidence. If there is ambiguity over whether a strike occurred, or whether the drone/missile was intercepted, this market will resolve based on whatever is most likely according to a consensus of credible reporting and video evidence.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-strike-on-damascus-by-july-31-azZ3dURD8ZLX.jpg",
+            "yes_token_id": "31245887148493356954433906893534790031462440711563090147585980471612498692234",
+            "yes_probability": 0.54,
+            "yes_best_bid": 0.09,
+            "yes_best_ask": 0.54,
+            "yes_spread": 0.45000000000000007,
+            "no_token_id": "108338907967710121616562471010445051834321291521730562398877972738614106634982",
+            "no_probability": 0.91,
+            "no_best_bid": 0.46,
+            "no_best_ask": 0.91,
+            "no_spread": 0.45,
+            "volume": 4932.425655700002,
+            "liquidity": 5173.02,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "IDF readiness and alert status indicates potential military action (1 hop)",
+            "event_id": "41134",
+            "event_title": "Israel military action against Damascus by...?",
+            "event_slug": "israel-strike-on-damascus-by-september-30",
+            "detected_yes_price": 0.12,
+            "detected_no_price": 0.92,
+            "detected_at": 1780858780886,
+            "highest_price_change": 3.7499999999999996,
+            "highest_yes_price": 0.57,
+            "highest_no_price": 0.92,
+            "first_moved_at": 1780859005852,
+            "moved_side": "yes",
+            "peaked_at": 1780874953053
+          }
+        ],
+        "topics": [
+          "ai-tech"
+        ],
+        "categories": [
+          "world",
+          "climate",
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "1809581",
+        "slug": "israel-strike-on-damascus-by-september-30",
+        "condition_id": "0xeb4beaefa070c6ccfef90eb088852246c9e965b2672a83bc6f4c36ae347817f4",
+        "title": "June 30",
+        "question": "Israel military action on Damascus by June 30, 2026?",
+        "description": "This market will resolve to \"Yes\" if Israel initiates a drone, missile, or air strike on Damascus Governorate, or any target within it, between market creation and June 30, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nA qualifying \"strike\" is defined as the use of aerial bombs, drones or missiles (including cruise or ballistic missiles) launched by Israeli military forces that impact within Damascus Governorate.\n\nMissiles or drones which are intercepted and surface-to-air missile strikes will not be sufficient for a \"Yes\" resolution regardless of whether they land in Damascus Governorate, or cause damage.\n\nThe primary resolution source for this market will be a consensus of credible reporting and video evidence. If there is ambiguity over whether a strike occurred, or whether the drone/missile was intercepted, this market will resolve based on whatever is most likely according to a consensus of credible reporting and video evidence.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-strike-on-damascus-by-july-31-azZ3dURD8ZLX.jpg",
+        "yes_token_id": "31245887148493356954433906893534790031462440711563090147585980471612498692234",
+        "yes_probability": 0.54,
+        "yes_best_bid": 0.09,
+        "yes_best_ask": 0.54,
+        "yes_spread": 0.45000000000000007,
+        "no_token_id": "108338907967710121616562471010445051834321291521730562398877972738614106634982",
+        "no_probability": 0.91,
+        "no_best_bid": 0.46,
+        "no_best_ask": 0.91,
+        "no_spread": 0.45,
+        "volume": 4932.425655700002,
+        "liquidity": 5173.02,
+        "neg_risk": false,
+        "end_date": "2026-06-30T00:00:00Z",
+        "categories": [
+          "geopolitics",
+          "world"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "IDF readiness and alert status indicates potential military action (1 hop)",
+        "event_id": "41134",
+        "event_title": "Israel military action against Damascus by...?",
+        "event_slug": "israel-strike-on-damascus-by-september-30",
+        "detected_yes_price": 0.12,
+        "detected_no_price": 0.92,
+        "detected_at": 1780858780886,
+        "highest_price_change": 3.7499999999999996,
+        "highest_yes_price": 0.57,
+        "highest_no_price": 0.92,
+        "first_moved_at": 1780859005852,
+        "moved_side": "yes",
+        "peaked_at": 1780874953053
+      },
+      "_scraped_at": "2026-06-08T00:00:02.977742+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 2,
+      "feed_item": {
+        "id": "99eac0f4-70d2-4230-abea-65b5d3f5ae01",
+        "timestamp": 1780857163150,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "99eac0f4-70d2-4230-abea-65b5d3f5ae01",
+          "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1\u2757\ufe0fBREAKING: Iran\u2019s Civl Aviation Authority has issued the order to close the airspace\n\nA NOTAM is very likely to be issued soon. Three civilian flights have already made U-turns shortly after takeoff and have landed at nearest airports.\n\n@IntelSlava",
+          "channel": "Intel Slava",
+          "timestamp": 1780857163150,
+          "link": "https://t.me/intelslava"
+        },
+        "osint": false,
+        "country": "IR",
+        "countries": [
+          "IR"
+        ],
+        "related_markets": [
+          {
+            "id": "2413535",
+            "slug": "iran-closes-its-airspace-by",
+            "condition_id": "0x46e99bb62eda23f2d65b8d789910e54e205c14b16b59939d51b01a55f63e7c38",
+            "title": "July 31",
+            "question": "Iran closes its airspace by July 31?",
+            "description": "This market will resolve to \u201cYes\u201d if Iran initiates a major closure of its airspace, that is not solely due to weather conditions, by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA \u201cmajor closure\u201d is defined as a broad closure, cancellation, or suspension of commercial flights transiting, arriving in, and departing from Iranian airspace or a major Iranian Airspace region. A qualifying closure must apply generally to flights across Iran or a major Iranian airspace region. Limited cancellations, delays, or other partial closures will not qualify. Limited exceptions to a broad closure, however, will not disqualify such a closure from counting (e.g. exceptions for certain flights pre-approved by the Iranian Civil Aviation Authority may be permitted). \n\nAny non-weather complete suspension of commercial arrivals and departures affecting at least two of the following airports will qualify: Imam Khomeini International Airport (IKA), Mehrabad Airport (THR), Mashhad International Airport (MHD), Shiraz International Airport (SYZ), or Isfahan International Airport (IFN).\n\nQualifying previous examples include the January 2026 total closure of Iranian airspace except to international flights with express governmental permission (https://www.reuters.com/world/middle-east/iran-shuts-airspace-most-flights-flightradar24-says-2026-01-14/) and the April 2024 closure of Iran\u2019s western airspace (https://www.reuters.com/world/middle-east/iranian-airports-cancel-flights-until-monday-morning-2024-04-14/). Non-qualifying examples include the January 27, 2026 partial closure of Iranian airspace around the Strait of Hormuz (https://www.aa.com.tr/en/middle-east/iran-issues-airspace-notice-for-military-drills-near-strait-of-hormuz/3812508) and the January 25 - April 25, 2026 VFR (Visual Flight Rules) flights suspension which did not broadly close commercial aviation in a qualifying region (https://www.intellinews.com/iran-suspends-general-aviation-and-vfr-flights-in-new-airspace-directive-421997/).\n\nWarnings, No-Fly-Zones, or other flight restrictions imposed by airlines or countries other than Iran will not be sufficient for a \u201cYes\u201d resolution.\n\nAirspace closures which occur solely due to weather conditions will not qualify.\n\nThe primary resolution sources for this market will be official information from Iranian aviation authorities and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-iran-close-its-airspace-by-Djo8VXRKur_C.jpg",
+            "yes_token_id": "21038893760894961808235521421659354530482333032778177371348427697943162616155",
+            "yes_probability": 0.999,
+            "yes_best_bid": 0.998,
+            "yes_best_ask": 0.999,
+            "yes_spread": 0.0010000000000000009,
+            "no_token_id": "78153233046185927823967550234961812958824000901897147095359910066436806868954",
+            "no_probability": 0.002,
+            "no_best_bid": 0.001,
+            "no_best_ask": 0.002,
+            "no_spread": 0.001,
+            "volume": 330560.12545300013,
+            "liquidity": 399442.14999999997,
+            "neg_risk": false,
+            "end_date": "2026-07-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Official order to close airspace = direct signal for market.",
+            "event_id": "438327",
+            "event_title": "Iran closes its airspace by...?",
+            "event_slug": "iran-closes-its-airspace-by",
+            "detected_yes_price": 0.45,
+            "detected_no_price": 0.5700000000000001,
+            "detected_at": 1780857184721,
+            "highest_price_change": 1.2199999999999998,
+            "highest_yes_price": 0.999,
+            "highest_no_price": 0.5700000000000001,
+            "first_moved_at": 1780857184976,
+            "moved_side": "yes",
+            "peaked_at": 1780874451076
+          },
+          {
+            "id": "2429035",
+            "slug": "iran-closes-its-airspace-by",
+            "condition_id": "0x914f44e9ddd8398774b00faef3349922724b9de9e596b71aa0d0cab4a2453d37",
+            "title": "June 22",
+            "question": "Iran closes its airspace by June 22?",
+            "description": "This market will resolve to \u201cYes\u201d if Iran initiates a major closure of its airspace, that is not solely due to weather conditions, by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA \u201cmajor closure\u201d is defined as a broad closure, cancellation, or suspension of commercial flights transiting, arriving in, and departing from Iranian airspace or a major Iranian Airspace region. A qualifying closure must apply generally to flights across Iran or a major Iranian airspace region. Limited cancellations, delays, or other partial closures will not qualify. Limited exceptions to a broad closure, however, will not disqualify such a closure from counting (e.g. exceptions for certain flights pre-approved by the Iranian Civil Aviation Authority may be permitted). \n\nAny non-weather complete suspension of commercial arrivals and departures affecting at least two of the following airports will qualify: Imam Khomeini International Airport (IKA), Mehrabad Airport (THR), Mashhad International Airport (MHD), Shiraz International Airport (SYZ), or Isfahan International Airport (IFN).\n\nQualifying previous examples include the January 2026 total closure of Iranian airspace except to international flights with express governmental permission (https://www.reuters.com/world/middle-east/iran-shuts-airspace-most-flights-flightradar24-says-2026-01-14/) and the April 2024 closure of Iran\u2019s western airspace (https://www.reuters.com/world/middle-east/iranian-airports-cancel-flights-until-monday-morning-2024-04-14/). Non-qualifying examples include the January 27, 2026 partial closure of Iranian airspace around the Strait of Hormuz (https://www.aa.com.tr/en/middle-east/iran-issues-airspace-notice-for-military-drills-near-strait-of-hormuz/3812508) and the January 25 - April 25, 2026 VFR (Visual Flight Rules) flights suspension which did not broadly close commercial aviation in a qualifying region (https://www.intellinews.com/iran-suspends-general-aviation-and-vfr-flights-in-new-airspace-directive-421997/).\n\nWarnings, No-Fly-Zones, or other flight restrictions imposed by airlines or countries other than Iran will not be sufficient for a \u201cYes\u201d resolution.\n\nAirspace closures which occur solely due to weather conditions will not qualify.\n\nThe primary resolution sources for this market will be official information from Iranian aviation authorities and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-iran-close-its-airspace-by-Djo8VXRKur_C.jpg",
+            "yes_token_id": "19764882054241607626463554385089777143547456880969762515078790315846057843866",
+            "yes_probability": 0.974,
+            "yes_best_bid": 0.942,
+            "yes_best_ask": 0.974,
+            "yes_spread": 0.03200000000000003,
+            "no_token_id": "7281952539103481642634722008508826406355601066764684474446839813199587430745",
+            "no_probability": 0.05800000000000005,
+            "no_best_bid": 0.026000000000000023,
+            "no_best_ask": 0.05800000000000005,
+            "no_spread": 0.03200000000000003,
+            "volume": 186133.55725500008,
+            "liquidity": 0,
+            "neg_risk": false,
+            "end_date": "2026-06-22T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Official order to close airspace = direct signal for market.",
+            "event_id": "438327",
+            "event_title": "Iran closes its airspace by...?",
+            "event_slug": "iran-closes-its-airspace-by",
+            "detected_yes_price": 0.27,
+            "detected_no_price": 0.75,
+            "detected_at": 1780857184721,
+            "highest_price_change": 0.5185185185185184,
+            "highest_yes_price": 0.41,
+            "highest_no_price": 0.75,
+            "first_moved_at": 1780857184983,
+            "moved_side": "yes",
+            "peaked_at": 1780857184983
+          },
+          {
+            "id": "2296150",
+            "slug": "iran-closes-its-airspace-by",
+            "condition_id": "0xd9933a54c518e773050255ea9dba01a71e1a41f49311ed078ae4a6f7e76b1625",
+            "title": "June 15",
+            "question": "Iran closes its airspace by June 15?",
+            "description": "This market will resolve to \u201cYes\u201d if Iran initiates a major closure of its airspace, that is not solely due to weather conditions, by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA \u201cmajor closure\u201d is defined as a broad closure, cancellation, or suspension of commercial flights transiting, arriving in, and departing from Iranian airspace or a major Iranian Airspace region. A qualifying closure must apply generally to flights across Iran or a major Iranian airspace region. Limited cancellations, delays, or other partial closures will not qualify. Limited exceptions to a broad closure, however, will not disqualify such a closure from counting (e.g. exceptions for certain flights pre-approved by the Iranian Civil Aviation Authority may be permitted). \n\nAny non-weather complete suspension of commercial arrivals and departures affecting at least two of the following airports will qualify: Imam Khomeini International Airport (IKA), Mehrabad Airport (THR), Mashhad International Airport (MHD), Shiraz International Airport (SYZ), or Isfahan International Airport (IFN).\n\nQualifying previous examples include the January 2026 total closure of Iranian airspace except to international flights with express governmental permission (https://www.reuters.com/world/middle-east/iran-shuts-airspace-most-flights-flightradar24-says-2026-01-14/) and the April 2024 closure of Iran\u2019s western airspace (https://www.reuters.com/world/middle-east/iranian-airports-cancel-flights-until-monday-morning-2024-04-14/). Non-qualifying examples include the January 27, 2026 partial closure of Iranian airspace around the Strait of Hormuz (https://www.aa.com.tr/en/middle-east/iran-issues-airspace-notice-for-military-drills-near-strait-of-hormuz/3812508) and the January 25 - April 25, 2026 VFR (Visual Flight Rules) flights suspension which did not broadly close commercial aviation in a qualifying region (https://www.intellinews.com/iran-suspends-general-aviation-and-vfr-flights-in-new-airspace-directive-421997/).\n\nWarnings, No-Fly-Zones, or other flight restrictions imposed by airlines or countries other than Iran will not be sufficient for a \u201cYes\u201d resolution.\n\nAirspace closures which occur solely due to weather conditions will not qualify.\n\nThe primary resolution sources for this market will be official information from Iranian aviation authorities and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-iran-close-its-airspace-by-Djo8VXRKur_C.jpg",
+            "yes_token_id": "5291002486403963698456394956934053310121036253546476549622050243362322115551",
+            "yes_probability": 0.997,
+            "yes_best_bid": 0.996,
+            "yes_best_ask": 0.997,
+            "yes_spread": 0.0010000000000000009,
+            "no_token_id": "5579859909397581925119433456282978473087693004498051770318265701318284183073",
+            "no_probability": 0.004,
+            "no_best_bid": 0.003,
+            "no_best_ask": 0.004,
+            "no_spread": 0.001,
+            "volume": 2273220.733125959,
+            "liquidity": 524813.8800000001,
+            "neg_risk": false,
+            "end_date": "2026-06-15T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Official order to close airspace = direct signal for market.",
+            "event_id": "438327",
+            "event_title": "Iran closes its airspace by...?",
+            "event_slug": "iran-closes-its-airspace-by",
+            "detected_yes_price": 0.267,
+            "detected_no_price": 0.748,
+            "detected_at": 1780857184721,
+            "highest_price_change": 2.737827715355805,
+            "highest_yes_price": 0.998,
+            "highest_no_price": 0.748,
+            "first_moved_at": 1780857184988,
+            "moved_side": "yes",
+            "peaked_at": 1780874451955
+          },
+          {
+            "id": "2241742",
+            "slug": "iran-closes-its-airspace-by",
+            "condition_id": "0x51a7c8afb7a0e09b8b47643171d90f400de23a176c4ea06f6552d6e53213839c",
+            "title": "June 30",
+            "question": "Iran closes its airspace by June 30?",
+            "description": "This market will resolve to \u201cYes\u201d if Iran initiates a major closure of its airspace, that is not solely due to weather conditions, by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA \u201cmajor closure\u201d is defined as a broad closure, cancellation, or suspension of commercial flights transiting, arriving in, and departing from Iranian airspace or a major Iranian Airspace region. A qualifying closure must apply generally to flights across Iran or a major Iranian airspace region. Limited cancellations, delays, or other partial closures will not qualify. Limited exceptions to a broad closure, however, will not disqualify such a closure from counting (e.g. exceptions for certain flights pre-approved by the Iranian Civil Aviation Authority may be permitted). \n\nAny non-weather complete suspension of commercial arrivals and departures affecting at least two of the following airports will qualify: Imam Khomeini International Airport (IKA), Mehrabad Airport (THR), Mashhad International Airport (MHD), Shiraz International Airport (SYZ), or Isfahan International Airport (IFN).\n\nQualifying previous examples include the January 2026 total closure of Iranian airspace except to international flights with express governmental permission (https://www.reuters.com/world/middle-east/iran-shuts-airspace-most-flights-flightradar24-says-2026-01-14/) and the April 2024 closure of Iran\u2019s western airspace (https://www.reuters.com/world/middle-east/iranian-airports-cancel-flights-until-monday-morning-2024-04-14/). Non-qualifying examples include the January 27, 2026 partial closure of Iranian airspace around the Strait of Hormuz (https://www.aa.com.tr/en/middle-east/iran-issues-airspace-notice-for-military-drills-near-strait-of-hormuz/3812508) and the January 25 - April 25, 2026 VFR (Visual Flight Rules) flights suspension which did not broadly close commercial aviation in a qualifying region (https://www.intellinews.com/iran-suspends-general-aviation-and-vfr-flights-in-new-airspace-directive-421997/).\n\nWarnings, No-Fly-Zones, or other flight restrictions imposed by airlines or countries other than Iran will not be sufficient for a \u201cYes\u201d resolution.\n\nAirspace closures which occur solely due to weather conditions will not qualify.\n\nThe primary resolution sources for this market will be official information from Iranian aviation authorities and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-iran-close-its-airspace-by-Djo8VXRKur_C.jpg",
+            "yes_token_id": "76527061745629652908457766004409984899987000940094360145808443814083595137867",
+            "yes_probability": 0.997,
+            "yes_best_bid": 0.996,
+            "yes_best_ask": 0.997,
+            "yes_spread": 0.0010000000000000009,
+            "no_token_id": "9598998819355492837623904986610317717224827402549825716972376565370772185206",
+            "no_probability": 0.004,
+            "no_best_bid": 0.003,
+            "no_best_ask": 0.004,
+            "no_spread": 0.001,
+            "volume": 4784095.482042006,
+            "liquidity": 878323.57,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Official order to close airspace = direct signal for market.",
+            "event_id": "438327",
+            "event_title": "Iran closes its airspace by...?",
+            "event_slug": "iran-closes-its-airspace-by",
+            "detected_yes_price": 0.28,
+            "detected_no_price": 0.721,
+            "detected_at": 1780857184721,
+            "highest_price_change": 2.564285714285714,
+            "highest_yes_price": 0.998,
+            "highest_no_price": 0.721,
+            "first_moved_at": 1780857184972,
+            "moved_side": "yes",
+            "peaked_at": 1780874448596
+          },
+          {
+            "id": "2413534",
+            "slug": "iran-closes-its-airspace-by",
+            "condition_id": "0x5cf44e7b58610c8ac35b45c23846887e4efe31fda7963711e85d808647ad44d9",
+            "title": "July 15",
+            "question": "Iran closes its airspace by July 15?",
+            "description": "This market will resolve to \u201cYes\u201d if Iran initiates a major closure of its airspace, that is not solely due to weather conditions, by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA \u201cmajor closure\u201d is defined as a broad closure, cancellation, or suspension of commercial flights transiting, arriving in, and departing from Iranian airspace or a major Iranian Airspace region. A qualifying closure must apply generally to flights across Iran or a major Iranian airspace region. Limited cancellations, delays, or other partial closures will not qualify. Limited exceptions to a broad closure, however, will not disqualify such a closure from counting (e.g. exceptions for certain flights pre-approved by the Iranian Civil Aviation Authority may be permitted). \n\nAny non-weather complete suspension of commercial arrivals and departures affecting at least two of the following airports will qualify: Imam Khomeini International Airport (IKA), Mehrabad Airport (THR), Mashhad International Airport (MHD), Shiraz International Airport (SYZ), or Isfahan International Airport (IFN).\n\nQualifying previous examples include the January 2026 total closure of Iranian airspace except to international flights with express governmental permission (https://www.reuters.com/world/middle-east/iran-shuts-airspace-most-flights-flightradar24-says-2026-01-14/) and the April 2024 closure of Iran\u2019s western airspace (https://www.reuters.com/world/middle-east/iranian-airports-cancel-flights-until-monday-morning-2024-04-14/). Non-qualifying examples include the January 27, 2026 partial closure of Iranian airspace around the Strait of Hormuz (https://www.aa.com.tr/en/middle-east/iran-issues-airspace-notice-for-military-drills-near-strait-of-hormuz/3812508) and the January 25 - April 25, 2026 VFR (Visual Flight Rules) flights suspension which did not broadly close commercial aviation in a qualifying region (https://www.intellinews.com/iran-suspends-general-aviation-and-vfr-flights-in-new-airspace-directive-421997/).\n\nWarnings, No-Fly-Zones, or other flight restrictions imposed by airlines or countries other than Iran will not be sufficient for a \u201cYes\u201d resolution.\n\nAirspace closures which occur solely due to weather conditions will not qualify.\n\nThe primary resolution sources for this market will be official information from Iranian aviation authorities and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-iran-close-its-airspace-by-Djo8VXRKur_C.jpg",
+            "yes_token_id": "89260455359141140403209144289984775628358377651275512066142666805994158831751",
+            "yes_probability": 1,
+            "yes_best_bid": 0.999,
+            "yes_best_ask": 1,
+            "yes_spread": 0.0010000000000000009,
+            "no_token_id": "85525607504161085168631490878814920366874387510922710726511448027072192994513",
+            "no_probability": 0.0010000000000000009,
+            "no_best_bid": 0,
+            "no_best_ask": 0.0010000000000000009,
+            "no_spread": 0.0010000000000000009,
+            "volume": 248813.8396100002,
+            "liquidity": 0,
+            "neg_risk": false,
+            "end_date": "2026-07-15T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Official order to close airspace = direct signal for market.",
+            "event_id": "438327",
+            "event_title": "Iran closes its airspace by...?",
+            "event_slug": "iran-closes-its-airspace-by",
+            "detected_yes_price": 0.38,
+            "detected_no_price": 0.63,
+            "detected_at": 1780857184721,
+            "highest_price_change": 0.5263157894736841,
+            "highest_yes_price": 0.58,
+            "highest_no_price": 0.63,
+            "first_moved_at": 1780857185015,
+            "moved_side": "yes",
+            "peaked_at": 1780857185015
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 8,
+            "price": 0
+          }
+        ],
+        "topics": [
+          "ai-tech",
+          "iran-regime"
+        ],
+        "categories": [
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "2296150",
+        "slug": "iran-closes-its-airspace-by",
+        "condition_id": "0xd9933a54c518e773050255ea9dba01a71e1a41f49311ed078ae4a6f7e76b1625",
+        "title": "June 15",
+        "question": "Iran closes its airspace by June 15?",
+        "description": "This market will resolve to \u201cYes\u201d if Iran initiates a major closure of its airspace, that is not solely due to weather conditions, by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA \u201cmajor closure\u201d is defined as a broad closure, cancellation, or suspension of commercial flights transiting, arriving in, and departing from Iranian airspace or a major Iranian Airspace region. A qualifying closure must apply generally to flights across Iran or a major Iranian airspace region. Limited cancellations, delays, or other partial closures will not qualify. Limited exceptions to a broad closure, however, will not disqualify such a closure from counting (e.g. exceptions for certain flights pre-approved by the Iranian Civil Aviation Authority may be permitted). \n\nAny non-weather complete suspension of commercial arrivals and departures affecting at least two of the following airports will qualify: Imam Khomeini International Airport (IKA), Mehrabad Airport (THR), Mashhad International Airport (MHD), Shiraz International Airport (SYZ), or Isfahan International Airport (IFN).\n\nQualifying previous examples include the January 2026 total closure of Iranian airspace except to international flights with express governmental permission (https://www.reuters.com/world/middle-east/iran-shuts-airspace-most-flights-flightradar24-says-2026-01-14/) and the April 2024 closure of Iran\u2019s western airspace (https://www.reuters.com/world/middle-east/iranian-airports-cancel-flights-until-monday-morning-2024-04-14/). Non-qualifying examples include the January 27, 2026 partial closure of Iranian airspace around the Strait of Hormuz (https://www.aa.com.tr/en/middle-east/iran-issues-airspace-notice-for-military-drills-near-strait-of-hormuz/3812508) and the January 25 - April 25, 2026 VFR (Visual Flight Rules) flights suspension which did not broadly close commercial aviation in a qualifying region (https://www.intellinews.com/iran-suspends-general-aviation-and-vfr-flights-in-new-airspace-directive-421997/).\n\nWarnings, No-Fly-Zones, or other flight restrictions imposed by airlines or countries other than Iran will not be sufficient for a \u201cYes\u201d resolution.\n\nAirspace closures which occur solely due to weather conditions will not qualify.\n\nThe primary resolution sources for this market will be official information from Iranian aviation authorities and a consensus of credible reporting.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-iran-close-its-airspace-by-Djo8VXRKur_C.jpg",
+        "yes_token_id": "5291002486403963698456394956934053310121036253546476549622050243362322115551",
+        "yes_probability": 0.997,
+        "yes_best_bid": 0.996,
+        "yes_best_ask": 0.997,
+        "yes_spread": 0.0010000000000000009,
+        "no_token_id": "5579859909397581925119433456282978473087693004498051770318265701318284183073",
+        "no_probability": 0.004,
+        "no_best_bid": 0.003,
+        "no_best_ask": 0.004,
+        "no_spread": 0.001,
+        "volume": 2273220.733125959,
+        "liquidity": 524813.8800000001,
+        "neg_risk": false,
+        "end_date": "2026-06-15T00:00:00Z",
+        "categories": [
+          "politics",
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 9,
+        "impact_level": "critical",
+        "impact_reason": "Official order to close airspace = direct signal for market.",
+        "event_id": "438327",
+        "event_title": "Iran closes its airspace by...?",
+        "event_slug": "iran-closes-its-airspace-by",
+        "detected_yes_price": 0.267,
+        "detected_no_price": 0.748,
+        "detected_at": 1780857184721,
+        "highest_price_change": 2.737827715355805,
+        "highest_yes_price": 0.998,
+        "highest_no_price": 0.748,
+        "first_moved_at": 1780857184988,
+        "moved_side": "yes",
+        "peaked_at": 1780874451955
+      },
+      "_scraped_at": "2026-06-08T00:00:02.977742+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 3,
+      "feed_item": {
+        "id": "af26fecc-4a30-47bf-996f-7164bcff2840",
+        "timestamp": 1780842208521,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "af26fecc-4a30-47bf-996f-7164bcff2840",
+          "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 Iran says its going to bomb Israel tonight.\n\n@medmannews",
+          "channel": "Mediterranean Man",
+          "timestamp": 1780842208521,
+          "link": "https://t.me/medmannews"
+        },
+        "osint": false,
+        "country": "IL",
+        "countries": [
+          "IL",
+          "IR"
+        ],
+        "related_markets": [
+          {
+            "id": "2296152",
+            "slug": "israel-closes-its-airspace-by",
+            "condition_id": "0xd8664606498aba2a8ccab56656860cb3f02d74de80e974ab87a9f940e65d4d5e",
+            "title": "June 15",
+            "question": "Israel closes its airspace by June 15?",
+            "description": "This market will resolve to \u201cYes\u201d if Israel initiates a major closure of its airspace by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d. \n\nA \u201cmajor closure\u201d is defined as a broad closure, cancellation, or complete suspension of commercial aviation across the entirety of Israeli civilian airspace or a region encompassing a majority of Israeli civilian airspace, including commercial flights transiting, arriving in, and departing from that airspace. A qualifying closure must apply generally to all flights across Israel or a qualifying subset of Israeli airspace. Limited cancellations, delays, temporary ground stops or isolated regional closures will not qualify. Limited exceptions to a broad closure, however, will not disqualify such a closure from counting (e.g. exceptions for certain pre-approved flights may be permitted).\n\nWarnings, No-Fly-Zones, flight suspensions, or other flight restrictions imposed by airlines or countries other than Israel will not be sufficient for a \u201cYes\u201d resolution.\n\nAirspace closures which occur solely due to weather conditions will not qualify.\n\nThe primary resolution source for this market will be official information from Israeli aviation authorities; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-closes-its-airspace-by-F65UW1ZQCDQ_.jpg",
+            "yes_token_id": "110552230042207377373769436375815103661291329913875427644565116020841414815329",
+            "yes_probability": 0.18,
+            "yes_best_bid": 0.16,
+            "yes_best_ask": 0.18,
+            "yes_spread": 0.01999999999999999,
+            "no_token_id": "45778172980988961730754924731757934117834485907399449999216978879703885935428",
+            "no_probability": 0.84,
+            "no_best_bid": 0.82,
+            "no_best_ask": 0.84,
+            "no_spread": 0.020000000000000018,
+            "volume": 2250351.873890037,
+            "liquidity": 279631.74,
+            "neg_risk": false,
+            "end_date": "2026-06-15T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Iran's military threats increase the likelihood of Israel closing airspace for security.",
+            "event_id": "449163",
+            "event_title": "Israel closes its airspace by...?",
+            "event_slug": "israel-closes-its-airspace-by",
+            "detected_yes_price": 0.11,
+            "detected_no_price": 0.91,
+            "detected_at": 1780842242260,
+            "highest_price_change": 1.5454545454545459,
+            "highest_yes_price": 0.28,
+            "highest_no_price": 0.91,
+            "first_moved_at": 1780842909101,
+            "moved_side": "yes",
+            "peaked_at": 1780874448769
+          },
+          {
+            "id": "2241674",
+            "slug": "israel-closes-its-airspace-by",
+            "condition_id": "0x676e7cda423f5826bcbb3c141e808ad7c66bc2d055e4d0aca79c26779712062c",
+            "title": "June 30",
+            "question": "Israel closes its airspace by June 30?",
+            "description": "This market will resolve to \u201cYes\u201d if Israel initiates a major closure of its airspace by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d. \n\nA \u201cmajor closure\u201d is defined as a broad closure, cancellation, or complete suspension of commercial aviation across the entirety of Israeli civilian airspace or a region encompassing a majority of Israeli civilian airspace, including commercial flights transiting, arriving in, and departing from that airspace. A qualifying closure must apply generally to all flights across Israel or a qualifying subset of Israeli airspace. Limited cancellations, delays, temporary ground stops or isolated regional closures will not qualify. Limited exceptions to a broad closure, however, will not disqualify such a closure from counting (e.g. exceptions for certain pre-approved flights may be permitted).\n\nWarnings, No-Fly-Zones, flight suspensions, or other flight restrictions imposed by airlines or countries other than Israel will not be sufficient for a \u201cYes\u201d resolution.\n\nAirspace closures which occur solely due to weather conditions will not qualify.\n\nThe primary resolution source for this market will be official information from Israeli aviation authorities; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-closes-its-airspace-by-F65UW1ZQCDQ_.jpg",
+            "yes_token_id": "75342601497089508883276927505926667289058707579736385719204195953768479770485",
+            "yes_probability": 0.29,
+            "yes_best_bid": 0.28,
+            "yes_best_ask": 0.29,
+            "yes_spread": 0.009999999999999953,
+            "no_token_id": "46765280105166877582756271542764342313890676752505455841048723545585948797086",
+            "no_probability": 0.72,
+            "no_best_bid": 0.71,
+            "no_best_ask": 0.72,
+            "no_spread": 0.010000000000000009,
+            "volume": 1025782.200305877,
+            "liquidity": 426825.12,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Iran's announcement of bombing Israel suggests heightened security measures by Israel.",
+            "event_id": "449163",
+            "event_title": "Israel closes its airspace by...?",
+            "event_slug": "israel-closes-its-airspace-by",
+            "detected_yes_price": 0.14,
+            "detected_no_price": 0.87,
+            "detected_at": 1780842242260,
+            "highest_price_change": 1.5714285714285712,
+            "highest_yes_price": 0.36,
+            "highest_no_price": 0.87,
+            "first_moved_at": 1780842525358,
+            "moved_side": "yes",
+            "peaked_at": 1780874760569
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 9,
+            "price": 0
+          }
+        ],
+        "topics": [
+          "iran-regime"
+        ],
+        "categories": null
+      },
+      "related_market": {
+        "id": "2241674",
+        "slug": "israel-closes-its-airspace-by",
+        "condition_id": "0x676e7cda423f5826bcbb3c141e808ad7c66bc2d055e4d0aca79c26779712062c",
+        "title": "June 30",
+        "question": "Israel closes its airspace by June 30?",
+        "description": "This market will resolve to \u201cYes\u201d if Israel initiates a major closure of its airspace by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d. \n\nA \u201cmajor closure\u201d is defined as a broad closure, cancellation, or complete suspension of commercial aviation across the entirety of Israeli civilian airspace or a region encompassing a majority of Israeli civilian airspace, including commercial flights transiting, arriving in, and departing from that airspace. A qualifying closure must apply generally to all flights across Israel or a qualifying subset of Israeli airspace. Limited cancellations, delays, temporary ground stops or isolated regional closures will not qualify. Limited exceptions to a broad closure, however, will not disqualify such a closure from counting (e.g. exceptions for certain pre-approved flights may be permitted).\n\nWarnings, No-Fly-Zones, flight suspensions, or other flight restrictions imposed by airlines or countries other than Israel will not be sufficient for a \u201cYes\u201d resolution.\n\nAirspace closures which occur solely due to weather conditions will not qualify.\n\nThe primary resolution source for this market will be official information from Israeli aviation authorities; however, a consensus of credible reporting may also be used.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-closes-its-airspace-by-F65UW1ZQCDQ_.jpg",
+        "yes_token_id": "75342601497089508883276927505926667289058707579736385719204195953768479770485",
+        "yes_probability": 0.29,
+        "yes_best_bid": 0.28,
+        "yes_best_ask": 0.29,
+        "yes_spread": 0.009999999999999953,
+        "no_token_id": "46765280105166877582756271542764342313890676752505455841048723545585948797086",
+        "no_probability": 0.72,
+        "no_best_bid": 0.71,
+        "no_best_ask": 0.72,
+        "no_spread": 0.010000000000000009,
+        "volume": 1025782.200305877,
+        "liquidity": 426825.12,
+        "neg_risk": false,
+        "end_date": "2026-06-30T00:00:00Z",
+        "categories": [
+          "politics",
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Iran's announcement of bombing Israel suggests heightened security measures by Israel.",
+        "event_id": "449163",
+        "event_title": "Israel closes its airspace by...?",
+        "event_slug": "israel-closes-its-airspace-by",
+        "detected_yes_price": 0.14,
+        "detected_no_price": 0.87,
+        "detected_at": 1780842242260,
+        "highest_price_change": 1.5714285714285712,
+        "highest_yes_price": 0.36,
+        "highest_no_price": 0.87,
+        "first_moved_at": 1780842525358,
+        "moved_side": "yes",
+        "peaked_at": 1780874760569
+      },
+      "_scraped_at": "2026-06-08T00:00:02.977742+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 4,
+      "feed_item": {
+        "id": "ecc60c52-136c-4e38-9eca-e5e7814ee60a",
+        "timestamp": 1780860528589,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "ecc60c52-136c-4e38-9eca-e5e7814ee60a",
+          "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf7 \u2014 Shelters are opening throughout Israel in response to Iranian missile attacks.",
+          "channel": "Intel Slava",
+          "timestamp": 1780860528589,
+          "link": "https://t.me/intelslava"
+        },
+        "osint": false,
+        "country": "IR",
+        "countries": [
+          "IR",
+          "IL"
+        ],
+        "related_markets": [
+          {
+            "id": "2296152",
+            "slug": "israel-closes-its-airspace-by",
+            "condition_id": "0xd8664606498aba2a8ccab56656860cb3f02d74de80e974ab87a9f940e65d4d5e",
+            "title": "June 15",
+            "question": "Israel closes its airspace by June 15?",
+            "description": "This market will resolve to \u201cYes\u201d if Israel initiates a major closure of its airspace by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d. \n\nA \u201cmajor closure\u201d is defined as a broad closure, cancellation, or complete suspension of commercial aviation across the entirety of Israeli civilian airspace or a region encompassing a majority of Israeli civilian airspace, including commercial flights transiting, arriving in, and departing from that airspace. A qualifying closure must apply generally to all flights across Israel or a qualifying subset of Israeli airspace. Limited cancellations, delays, temporary ground stops or isolated regional closures will not qualify. Limited exceptions to a broad closure, however, will not disqualify such a closure from counting (e.g. exceptions for certain pre-approved flights may be permitted).\n\nWarnings, No-Fly-Zones, flight suspensions, or other flight restrictions imposed by airlines or countries other than Israel will not be sufficient for a \u201cYes\u201d resolution.\n\nAirspace closures which occur solely due to weather conditions will not qualify.\n\nThe primary resolution source for this market will be official information from Israeli aviation authorities; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-closes-its-airspace-by-F65UW1ZQCDQ_.jpg",
+            "yes_token_id": "110552230042207377373769436375815103661291329913875427644565116020841414815329",
+            "yes_probability": 0.18,
+            "yes_best_bid": 0.16,
+            "yes_best_ask": 0.18,
+            "yes_spread": 0.01999999999999999,
+            "no_token_id": "45778172980988961730754924731757934117834485907399449999216978879703885935428",
+            "no_probability": 0.84,
+            "no_best_bid": 0.82,
+            "no_best_ask": 0.84,
+            "no_spread": 0.020000000000000018,
+            "volume": 2250351.873890037,
+            "liquidity": 279631.74,
+            "neg_risk": false,
+            "end_date": "2026-06-15T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Missile attacks directly lead to security measures like airspace closure.",
+            "event_id": "449163",
+            "event_title": "Israel closes its airspace by...?",
+            "event_slug": "israel-closes-its-airspace-by",
+            "detected_yes_price": 0.66,
+            "detected_no_price": 0.37,
+            "detected_at": 1780860552936,
+            "highest_price_change": 1.2702702702702702,
+            "highest_yes_price": 0.7,
+            "highest_no_price": 0.84,
+            "first_moved_at": 1780860553391,
+            "moved_side": "no",
+            "peaked_at": 1780876696650
+          },
+          {
+            "id": "2241674",
+            "slug": "israel-closes-its-airspace-by",
+            "condition_id": "0x676e7cda423f5826bcbb3c141e808ad7c66bc2d055e4d0aca79c26779712062c",
+            "title": "June 30",
+            "question": "Israel closes its airspace by June 30?",
+            "description": "This market will resolve to \u201cYes\u201d if Israel initiates a major closure of its airspace by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d. \n\nA \u201cmajor closure\u201d is defined as a broad closure, cancellation, or complete suspension of commercial aviation across the entirety of Israeli civilian airspace or a region encompassing a majority of Israeli civilian airspace, including commercial flights transiting, arriving in, and departing from that airspace. A qualifying closure must apply generally to all flights across Israel or a qualifying subset of Israeli airspace. Limited cancellations, delays, temporary ground stops or isolated regional closures will not qualify. Limited exceptions to a broad closure, however, will not disqualify such a closure from counting (e.g. exceptions for certain pre-approved flights may be permitted).\n\nWarnings, No-Fly-Zones, flight suspensions, or other flight restrictions imposed by airlines or countries other than Israel will not be sufficient for a \u201cYes\u201d resolution.\n\nAirspace closures which occur solely due to weather conditions will not qualify.\n\nThe primary resolution source for this market will be official information from Israeli aviation authorities; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-closes-its-airspace-by-F65UW1ZQCDQ_.jpg",
+            "yes_token_id": "75342601497089508883276927505926667289058707579736385719204195953768479770485",
+            "yes_probability": 0.29,
+            "yes_best_bid": 0.28,
+            "yes_best_ask": 0.29,
+            "yes_spread": 0.009999999999999953,
+            "no_token_id": "46765280105166877582756271542764342313890676752505455841048723545585948797086",
+            "no_probability": 0.72,
+            "no_best_bid": 0.71,
+            "no_best_ask": 0.72,
+            "no_spread": 0.010000000000000009,
+            "volume": 1025782.200305877,
+            "liquidity": 426825.12,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Missile attacks directly influence Israel's airspace security decisions.",
+            "event_id": "449163",
+            "event_title": "Israel closes its airspace by...?",
+            "event_slug": "israel-closes-its-airspace-by",
+            "detected_yes_price": 0.65,
+            "detected_no_price": 0.36,
+            "detected_at": 1780860552936,
+            "highest_price_change": 1,
+            "highest_yes_price": 0.72,
+            "highest_no_price": 0.72,
+            "first_moved_at": 1780860553705,
+            "moved_side": "no",
+            "peaked_at": 1780876696792
+          }
+        ],
+        "topics": [
+          "iran-regime"
+        ],
+        "categories": [
+          "geopolitics"
+        ]
+      },
+      "related_market": {
+        "id": "2296152",
+        "slug": "israel-closes-its-airspace-by",
+        "condition_id": "0xd8664606498aba2a8ccab56656860cb3f02d74de80e974ab87a9f940e65d4d5e",
+        "title": "June 15",
+        "question": "Israel closes its airspace by June 15?",
+        "description": "This market will resolve to \u201cYes\u201d if Israel initiates a major closure of its airspace by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d. \n\nA \u201cmajor closure\u201d is defined as a broad closure, cancellation, or complete suspension of commercial aviation across the entirety of Israeli civilian airspace or a region encompassing a majority of Israeli civilian airspace, including commercial flights transiting, arriving in, and departing from that airspace. A qualifying closure must apply generally to all flights across Israel or a qualifying subset of Israeli airspace. Limited cancellations, delays, temporary ground stops or isolated regional closures will not qualify. Limited exceptions to a broad closure, however, will not disqualify such a closure from counting (e.g. exceptions for certain pre-approved flights may be permitted).\n\nWarnings, No-Fly-Zones, flight suspensions, or other flight restrictions imposed by airlines or countries other than Israel will not be sufficient for a \u201cYes\u201d resolution.\n\nAirspace closures which occur solely due to weather conditions will not qualify.\n\nThe primary resolution source for this market will be official information from Israeli aviation authorities; however, a consensus of credible reporting may also be used.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-closes-its-airspace-by-F65UW1ZQCDQ_.jpg",
+        "yes_token_id": "110552230042207377373769436375815103661291329913875427644565116020841414815329",
+        "yes_probability": 0.18,
+        "yes_best_bid": 0.16,
+        "yes_best_ask": 0.18,
+        "yes_spread": 0.01999999999999999,
+        "no_token_id": "45778172980988961730754924731757934117834485907399449999216978879703885935428",
+        "no_probability": 0.84,
+        "no_best_bid": 0.82,
+        "no_best_ask": 0.84,
+        "no_spread": 0.020000000000000018,
+        "volume": 2250351.873890037,
+        "liquidity": 279631.74,
+        "neg_risk": false,
+        "end_date": "2026-06-15T00:00:00Z",
+        "categories": [
+          "politics",
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Missile attacks directly lead to security measures like airspace closure.",
+        "event_id": "449163",
+        "event_title": "Israel closes its airspace by...?",
+        "event_slug": "israel-closes-its-airspace-by",
+        "detected_yes_price": 0.66,
+        "detected_no_price": 0.37,
+        "detected_at": 1780860552936,
+        "highest_price_change": 1.2702702702702702,
+        "highest_yes_price": 0.7,
+        "highest_no_price": 0.84,
+        "first_moved_at": 1780860553391,
+        "moved_side": "no",
+        "peaked_at": 1780876696650
+      },
+      "_scraped_at": "2026-06-08T00:00:02.977742+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 5,
+      "feed_item": {
+        "id": "8048acef-495d-46dc-90a2-2bba2a60894f",
+        "timestamp": 1780862070318,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "8048acef-495d-46dc-90a2-2bba2a60894f",
+          "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddf5\ud83c\uddf8 Fars reports Iranian response over for now, but warns if aggressions are repeated, the responses will be broader and include American targets as well.\n\n@medmannews",
+          "channel": "Mediterranean Man",
+          "timestamp": 1780862070318,
+          "link": "https://t.me/medmannews"
+        },
+        "osint": false,
+        "country": "US",
+        "countries": [
+          "US",
+          "IR"
+        ],
+        "related_markets": [
+          {
+            "id": "2429035",
+            "slug": "iran-closes-its-airspace-by",
+            "condition_id": "0x914f44e9ddd8398774b00faef3349922724b9de9e596b71aa0d0cab4a2453d37",
+            "title": "June 22",
+            "question": "Iran closes its airspace by June 22?",
+            "description": "This market will resolve to \u201cYes\u201d if Iran initiates a major closure of its airspace, that is not solely due to weather conditions, by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA \u201cmajor closure\u201d is defined as a broad closure, cancellation, or suspension of commercial flights transiting, arriving in, and departing from Iranian airspace or a major Iranian Airspace region. A qualifying closure must apply generally to flights across Iran or a major Iranian airspace region. Limited cancellations, delays, or other partial closures will not qualify. Limited exceptions to a broad closure, however, will not disqualify such a closure from counting (e.g. exceptions for certain flights pre-approved by the Iranian Civil Aviation Authority may be permitted). \n\nAny non-weather complete suspension of commercial arrivals and departures affecting at least two of the following airports will qualify: Imam Khomeini International Airport (IKA), Mehrabad Airport (THR), Mashhad International Airport (MHD), Shiraz International Airport (SYZ), or Isfahan International Airport (IFN).\n\nQualifying previous examples include the January 2026 total closure of Iranian airspace except to international flights with express governmental permission (https://www.reuters.com/world/middle-east/iran-shuts-airspace-most-flights-flightradar24-says-2026-01-14/) and the April 2024 closure of Iran\u2019s western airspace (https://www.reuters.com/world/middle-east/iranian-airports-cancel-flights-until-monday-morning-2024-04-14/). Non-qualifying examples include the January 27, 2026 partial closure of Iranian airspace around the Strait of Hormuz (https://www.aa.com.tr/en/middle-east/iran-issues-airspace-notice-for-military-drills-near-strait-of-hormuz/3812508) and the January 25 - April 25, 2026 VFR (Visual Flight Rules) flights suspension which did not broadly close commercial aviation in a qualifying region (https://www.intellinews.com/iran-suspends-general-aviation-and-vfr-flights-in-new-airspace-directive-421997/).\n\nWarnings, No-Fly-Zones, or other flight restrictions imposed by airlines or countries other than Iran will not be sufficient for a \u201cYes\u201d resolution.\n\nAirspace closures which occur solely due to weather conditions will not qualify.\n\nThe primary resolution sources for this market will be official information from Iranian aviation authorities and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-iran-close-its-airspace-by-Djo8VXRKur_C.jpg",
+            "yes_token_id": "19764882054241607626463554385089777143547456880969762515078790315846057843866",
+            "yes_probability": 0.974,
+            "yes_best_bid": 0.942,
+            "yes_best_ask": 0.974,
+            "yes_spread": 0.03200000000000003,
+            "no_token_id": "7281952539103481642634722008508826406355601066764684474446839813199587430745",
+            "no_probability": 0.05800000000000005,
+            "no_best_bid": 0.026000000000000023,
+            "no_best_ask": 0.05800000000000005,
+            "no_spread": 0.03200000000000003,
+            "volume": 186133.55725500008,
+            "liquidity": 0,
+            "neg_risk": false,
+            "end_date": "2026-06-22T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Iran's response suggests airspace closure is imminent (1 hop).",
+            "event_id": "438327",
+            "event_title": "Iran closes its airspace by...?",
+            "event_slug": "iran-closes-its-airspace-by",
+            "detected_yes_price": 0.72,
+            "detected_no_price": 0.33999999999999997,
+            "detected_at": 1780862123676,
+            "highest_price_change": 0.7647058823529412,
+            "highest_yes_price": 0.72,
+            "highest_no_price": 0.6,
+            "first_moved_at": 1780862124490,
+            "moved_side": "no",
+            "peaked_at": 1780862124490
+          },
+          {
+            "id": "2296150",
+            "slug": "iran-closes-its-airspace-by",
+            "condition_id": "0xd9933a54c518e773050255ea9dba01a71e1a41f49311ed078ae4a6f7e76b1625",
+            "title": "June 15",
+            "question": "Iran closes its airspace by June 15?",
+            "description": "This market will resolve to \u201cYes\u201d if Iran initiates a major closure of its airspace, that is not solely due to weather conditions, by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA \u201cmajor closure\u201d is defined as a broad closure, cancellation, or suspension of commercial flights transiting, arriving in, and departing from Iranian airspace or a major Iranian Airspace region. A qualifying closure must apply generally to flights across Iran or a major Iranian airspace region. Limited cancellations, delays, or other partial closures will not qualify. Limited exceptions to a broad closure, however, will not disqualify such a closure from counting (e.g. exceptions for certain flights pre-approved by the Iranian Civil Aviation Authority may be permitted). \n\nAny non-weather complete suspension of commercial arrivals and departures affecting at least two of the following airports will qualify: Imam Khomeini International Airport (IKA), Mehrabad Airport (THR), Mashhad International Airport (MHD), Shiraz International Airport (SYZ), or Isfahan International Airport (IFN).\n\nQualifying previous examples include the January 2026 total closure of Iranian airspace except to international flights with express governmental permission (https://www.reuters.com/world/middle-east/iran-shuts-airspace-most-flights-flightradar24-says-2026-01-14/) and the April 2024 closure of Iran\u2019s western airspace (https://www.reuters.com/world/middle-east/iranian-airports-cancel-flights-until-monday-morning-2024-04-14/). Non-qualifying examples include the January 27, 2026 partial closure of Iranian airspace around the Strait of Hormuz (https://www.aa.com.tr/en/middle-east/iran-issues-airspace-notice-for-military-drills-near-strait-of-hormuz/3812508) and the January 25 - April 25, 2026 VFR (Visual Flight Rules) flights suspension which did not broadly close commercial aviation in a qualifying region (https://www.intellinews.com/iran-suspends-general-aviation-and-vfr-flights-in-new-airspace-directive-421997/).\n\nWarnings, No-Fly-Zones, or other flight restrictions imposed by airlines or countries other than Iran will not be sufficient for a \u201cYes\u201d resolution.\n\nAirspace closures which occur solely due to weather conditions will not qualify.\n\nThe primary resolution sources for this market will be official information from Iranian aviation authorities and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-iran-close-its-airspace-by-Djo8VXRKur_C.jpg",
+            "yes_token_id": "5291002486403963698456394956934053310121036253546476549622050243362322115551",
+            "yes_probability": 0.997,
+            "yes_best_bid": 0.996,
+            "yes_best_ask": 0.997,
+            "yes_spread": 0.0010000000000000009,
+            "no_token_id": "5579859909397581925119433456282978473087693004498051770318265701318284183073",
+            "no_probability": 0.004,
+            "no_best_bid": 0.003,
+            "no_best_ask": 0.004,
+            "no_spread": 0.001,
+            "volume": 2273220.733125959,
+            "liquidity": 524813.8800000001,
+            "neg_risk": false,
+            "end_date": "2026-06-15T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Iran's response suggests airspace closure is imminent (1 hop).",
+            "event_id": "438327",
+            "event_title": "Iran closes its airspace by...?",
+            "event_slug": "iran-closes-its-airspace-by",
+            "detected_yes_price": 0.7,
+            "detected_no_price": 0.32199999999999995,
+            "detected_at": 1780862123676,
+            "highest_price_change": 0.8602484472049692,
+            "highest_yes_price": 0.998,
+            "highest_no_price": 0.599,
+            "first_moved_at": 1780862123758,
+            "moved_side": "no",
+            "peaked_at": 1780862123758
+          },
+          {
+            "id": "2413535",
+            "slug": "iran-closes-its-airspace-by",
+            "condition_id": "0x46e99bb62eda23f2d65b8d789910e54e205c14b16b59939d51b01a55f63e7c38",
+            "title": "July 31",
+            "question": "Iran closes its airspace by July 31?",
+            "description": "This market will resolve to \u201cYes\u201d if Iran initiates a major closure of its airspace, that is not solely due to weather conditions, by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA \u201cmajor closure\u201d is defined as a broad closure, cancellation, or suspension of commercial flights transiting, arriving in, and departing from Iranian airspace or a major Iranian Airspace region. A qualifying closure must apply generally to flights across Iran or a major Iranian airspace region. Limited cancellations, delays, or other partial closures will not qualify. Limited exceptions to a broad closure, however, will not disqualify such a closure from counting (e.g. exceptions for certain flights pre-approved by the Iranian Civil Aviation Authority may be permitted). \n\nAny non-weather complete suspension of commercial arrivals and departures affecting at least two of the following airports will qualify: Imam Khomeini International Airport (IKA), Mehrabad Airport (THR), Mashhad International Airport (MHD), Shiraz International Airport (SYZ), or Isfahan International Airport (IFN).\n\nQualifying previous examples include the January 2026 total closure of Iranian airspace except to international flights with express governmental permission (https://www.reuters.com/world/middle-east/iran-shuts-airspace-most-flights-flightradar24-says-2026-01-14/) and the April 2024 closure of Iran\u2019s western airspace (https://www.reuters.com/world/middle-east/iranian-airports-cancel-flights-until-monday-morning-2024-04-14/). Non-qualifying examples include the January 27, 2026 partial closure of Iranian airspace around the Strait of Hormuz (https://www.aa.com.tr/en/middle-east/iran-issues-airspace-notice-for-military-drills-near-strait-of-hormuz/3812508) and the January 25 - April 25, 2026 VFR (Visual Flight Rules) flights suspension which did not broadly close commercial aviation in a qualifying region (https://www.intellinews.com/iran-suspends-general-aviation-and-vfr-flights-in-new-airspace-directive-421997/).\n\nWarnings, No-Fly-Zones, or other flight restrictions imposed by airlines or countries other than Iran will not be sufficient for a \u201cYes\u201d resolution.\n\nAirspace closures which occur solely due to weather conditions will not qualify.\n\nThe primary resolution sources for this market will be official information from Iranian aviation authorities and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-iran-close-its-airspace-by-Djo8VXRKur_C.jpg",
+            "yes_token_id": "21038893760894961808235521421659354530482333032778177371348427697943162616155",
+            "yes_probability": 0.999,
+            "yes_best_bid": 0.998,
+            "yes_best_ask": 0.999,
+            "yes_spread": 0.0010000000000000009,
+            "no_token_id": "78153233046185927823967550234961812958824000901897147095359910066436806868954",
+            "no_probability": 0.002,
+            "no_best_bid": 0.001,
+            "no_best_ask": 0.002,
+            "no_spread": 0.001,
+            "volume": 330560.12545300013,
+            "liquidity": 399442.14999999997,
+            "neg_risk": false,
+            "end_date": "2026-07-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Iran's response suggests airspace closure is imminent (1 hop).",
+            "event_id": "438327",
+            "event_title": "Iran closes its airspace by...?",
+            "event_slug": "iran-closes-its-airspace-by",
+            "detected_yes_price": 0.79,
+            "detected_no_price": 0.25,
+            "detected_at": 1780862123676,
+            "highest_price_change": 0.8799999999999999,
+            "highest_yes_price": 0.999,
+            "highest_no_price": 0.47,
+            "first_moved_at": 1780862123965,
+            "moved_side": "no",
+            "peaked_at": 1780862123965
+          },
+          {
+            "id": "2241742",
+            "slug": "iran-closes-its-airspace-by",
+            "condition_id": "0x51a7c8afb7a0e09b8b47643171d90f400de23a176c4ea06f6552d6e53213839c",
+            "title": "June 30",
+            "question": "Iran closes its airspace by June 30?",
+            "description": "This market will resolve to \u201cYes\u201d if Iran initiates a major closure of its airspace, that is not solely due to weather conditions, by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA \u201cmajor closure\u201d is defined as a broad closure, cancellation, or suspension of commercial flights transiting, arriving in, and departing from Iranian airspace or a major Iranian Airspace region. A qualifying closure must apply generally to flights across Iran or a major Iranian airspace region. Limited cancellations, delays, or other partial closures will not qualify. Limited exceptions to a broad closure, however, will not disqualify such a closure from counting (e.g. exceptions for certain flights pre-approved by the Iranian Civil Aviation Authority may be permitted). \n\nAny non-weather complete suspension of commercial arrivals and departures affecting at least two of the following airports will qualify: Imam Khomeini International Airport (IKA), Mehrabad Airport (THR), Mashhad International Airport (MHD), Shiraz International Airport (SYZ), or Isfahan International Airport (IFN).\n\nQualifying previous examples include the January 2026 total closure of Iranian airspace except to international flights with express governmental permission (https://www.reuters.com/world/middle-east/iran-shuts-airspace-most-flights-flightradar24-says-2026-01-14/) and the April 2024 closure of Iran\u2019s western airspace (https://www.reuters.com/world/middle-east/iranian-airports-cancel-flights-until-monday-morning-2024-04-14/). Non-qualifying examples include the January 27, 2026 partial closure of Iranian airspace around the Strait of Hormuz (https://www.aa.com.tr/en/middle-east/iran-issues-airspace-notice-for-military-drills-near-strait-of-hormuz/3812508) and the January 25 - April 25, 2026 VFR (Visual Flight Rules) flights suspension which did not broadly close commercial aviation in a qualifying region (https://www.intellinews.com/iran-suspends-general-aviation-and-vfr-flights-in-new-airspace-directive-421997/).\n\nWarnings, No-Fly-Zones, or other flight restrictions imposed by airlines or countries other than Iran will not be sufficient for a \u201cYes\u201d resolution.\n\nAirspace closures which occur solely due to weather conditions will not qualify.\n\nThe primary resolution sources for this market will be official information from Iranian aviation authorities and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-iran-close-its-airspace-by-Djo8VXRKur_C.jpg",
+            "yes_token_id": "76527061745629652908457766004409984899987000940094360145808443814083595137867",
+            "yes_probability": 0.997,
+            "yes_best_bid": 0.996,
+            "yes_best_ask": 0.997,
+            "yes_spread": 0.0010000000000000009,
+            "no_token_id": "9598998819355492837623904986610317717224827402549825716972376565370772185206",
+            "no_probability": 0.004,
+            "no_best_bid": 0.003,
+            "no_best_ask": 0.004,
+            "no_spread": 0.001,
+            "volume": 4784095.482042006,
+            "liquidity": 878323.57,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Iran's response suggests airspace closure is imminent (1 hop).",
+            "event_id": "438327",
+            "event_title": "Iran closes its airspace by...?",
+            "event_slug": "iran-closes-its-airspace-by",
+            "detected_yes_price": 0.746,
+            "detected_no_price": 0.29900000000000004,
+            "detected_at": 1780862123676,
+            "highest_price_change": 1.026755852842809,
+            "highest_yes_price": 0.998,
+            "highest_no_price": 0.606,
+            "first_moved_at": 1780862123824,
+            "moved_side": "no",
+            "peaked_at": 1780862123824
+          },
+          {
+            "id": "2413534",
+            "slug": "iran-closes-its-airspace-by",
+            "condition_id": "0x5cf44e7b58610c8ac35b45c23846887e4efe31fda7963711e85d808647ad44d9",
+            "title": "July 15",
+            "question": "Iran closes its airspace by July 15?",
+            "description": "This market will resolve to \u201cYes\u201d if Iran initiates a major closure of its airspace, that is not solely due to weather conditions, by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA \u201cmajor closure\u201d is defined as a broad closure, cancellation, or suspension of commercial flights transiting, arriving in, and departing from Iranian airspace or a major Iranian Airspace region. A qualifying closure must apply generally to flights across Iran or a major Iranian airspace region. Limited cancellations, delays, or other partial closures will not qualify. Limited exceptions to a broad closure, however, will not disqualify such a closure from counting (e.g. exceptions for certain flights pre-approved by the Iranian Civil Aviation Authority may be permitted). \n\nAny non-weather complete suspension of commercial arrivals and departures affecting at least two of the following airports will qualify: Imam Khomeini International Airport (IKA), Mehrabad Airport (THR), Mashhad International Airport (MHD), Shiraz International Airport (SYZ), or Isfahan International Airport (IFN).\n\nQualifying previous examples include the January 2026 total closure of Iranian airspace except to international flights with express governmental permission (https://www.reuters.com/world/middle-east/iran-shuts-airspace-most-flights-flightradar24-says-2026-01-14/) and the April 2024 closure of Iran\u2019s western airspace (https://www.reuters.com/world/middle-east/iranian-airports-cancel-flights-until-monday-morning-2024-04-14/). Non-qualifying examples include the January 27, 2026 partial closure of Iranian airspace around the Strait of Hormuz (https://www.aa.com.tr/en/middle-east/iran-issues-airspace-notice-for-military-drills-near-strait-of-hormuz/3812508) and the January 25 - April 25, 2026 VFR (Visual Flight Rules) flights suspension which did not broadly close commercial aviation in a qualifying region (https://www.intellinews.com/iran-suspends-general-aviation-and-vfr-flights-in-new-airspace-directive-421997/).\n\nWarnings, No-Fly-Zones, or other flight restrictions imposed by airlines or countries other than Iran will not be sufficient for a \u201cYes\u201d resolution.\n\nAirspace closures which occur solely due to weather conditions will not qualify.\n\nThe primary resolution sources for this market will be official information from Iranian aviation authorities and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-iran-close-its-airspace-by-Djo8VXRKur_C.jpg",
+            "yes_token_id": "89260455359141140403209144289984775628358377651275512066142666805994158831751",
+            "yes_probability": 1,
+            "yes_best_bid": 0.999,
+            "yes_best_ask": 1,
+            "yes_spread": 0.0010000000000000009,
+            "no_token_id": "85525607504161085168631490878814920366874387510922710726511448027072192994513",
+            "no_probability": 0.0010000000000000009,
+            "no_best_bid": 0,
+            "no_best_ask": 0.0010000000000000009,
+            "no_spread": 0.0010000000000000009,
+            "volume": 248813.8396100002,
+            "liquidity": 0,
+            "neg_risk": false,
+            "end_date": "2026-07-15T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Iran's response suggests airspace closure is imminent (1 hop).",
+            "event_id": "438327",
+            "event_title": "Iran closes its airspace by...?",
+            "event_slug": "iran-closes-its-airspace-by",
+            "detected_yes_price": 0.77,
+            "detected_no_price": 0.27,
+            "detected_at": 1780862123676,
+            "highest_price_change": 1.037037037037037,
+            "highest_yes_price": 0.77,
+            "highest_no_price": 0.55,
+            "first_moved_at": 1780862124481,
+            "moved_side": "no",
+            "peaked_at": 1780862124481
+          }
+        ],
+        "topics": [
+          "iran-regime"
+        ],
+        "categories": [
+          "geopolitics"
+        ]
+      },
+      "related_market": {
+        "id": "2413534",
+        "slug": "iran-closes-its-airspace-by",
+        "condition_id": "0x5cf44e7b58610c8ac35b45c23846887e4efe31fda7963711e85d808647ad44d9",
+        "title": "July 15",
+        "question": "Iran closes its airspace by July 15?",
+        "description": "This market will resolve to \u201cYes\u201d if Iran initiates a major closure of its airspace, that is not solely due to weather conditions, by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA \u201cmajor closure\u201d is defined as a broad closure, cancellation, or suspension of commercial flights transiting, arriving in, and departing from Iranian airspace or a major Iranian Airspace region. A qualifying closure must apply generally to flights across Iran or a major Iranian airspace region. Limited cancellations, delays, or other partial closures will not qualify. Limited exceptions to a broad closure, however, will not disqualify such a closure from counting (e.g. exceptions for certain flights pre-approved by the Iranian Civil Aviation Authority may be permitted). \n\nAny non-weather complete suspension of commercial arrivals and departures affecting at least two of the following airports will qualify: Imam Khomeini International Airport (IKA), Mehrabad Airport (THR), Mashhad International Airport (MHD), Shiraz International Airport (SYZ), or Isfahan International Airport (IFN).\n\nQualifying previous examples include the January 2026 total closure of Iranian airspace except to international flights with express governmental permission (https://www.reuters.com/world/middle-east/iran-shuts-airspace-most-flights-flightradar24-says-2026-01-14/) and the April 2024 closure of Iran\u2019s western airspace (https://www.reuters.com/world/middle-east/iranian-airports-cancel-flights-until-monday-morning-2024-04-14/). Non-qualifying examples include the January 27, 2026 partial closure of Iranian airspace around the Strait of Hormuz (https://www.aa.com.tr/en/middle-east/iran-issues-airspace-notice-for-military-drills-near-strait-of-hormuz/3812508) and the January 25 - April 25, 2026 VFR (Visual Flight Rules) flights suspension which did not broadly close commercial aviation in a qualifying region (https://www.intellinews.com/iran-suspends-general-aviation-and-vfr-flights-in-new-airspace-directive-421997/).\n\nWarnings, No-Fly-Zones, or other flight restrictions imposed by airlines or countries other than Iran will not be sufficient for a \u201cYes\u201d resolution.\n\nAirspace closures which occur solely due to weather conditions will not qualify.\n\nThe primary resolution sources for this market will be official information from Iranian aviation authorities and a consensus of credible reporting.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-iran-close-its-airspace-by-Djo8VXRKur_C.jpg",
+        "yes_token_id": "89260455359141140403209144289984775628358377651275512066142666805994158831751",
+        "yes_probability": 1,
+        "yes_best_bid": 0.999,
+        "yes_best_ask": 1,
+        "yes_spread": 0.0010000000000000009,
+        "no_token_id": "85525607504161085168631490878814920366874387510922710726511448027072192994513",
+        "no_probability": 0.0010000000000000009,
+        "no_best_bid": 0,
+        "no_best_ask": 0.0010000000000000009,
+        "no_spread": 0.0010000000000000009,
+        "volume": 248813.8396100002,
+        "liquidity": 0,
+        "neg_risk": false,
+        "end_date": "2026-07-15T00:00:00Z",
+        "categories": [
+          "politics",
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Iran's response suggests airspace closure is imminent (1 hop).",
+        "event_id": "438327",
+        "event_title": "Iran closes its airspace by...?",
+        "event_slug": "iran-closes-its-airspace-by",
+        "detected_yes_price": 0.77,
+        "detected_no_price": 0.27,
+        "detected_at": 1780862123676,
+        "highest_price_change": 1.037037037037037,
+        "highest_yes_price": 0.77,
+        "highest_no_price": 0.55,
+        "first_moved_at": 1780862124481,
+        "moved_side": "no",
+        "peaked_at": 1780862124481
+      },
+      "_scraped_at": "2026-06-08T00:00:02.977742+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 6,
+      "feed_item": {
+        "id": "a72aa452-15f4-4d22-9bca-d8b10e4df00d",
+        "timestamp": 1780841368542,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "a72aa452-15f4-4d22-9bca-d8b10e4df00d",
+          "text": "\ud83c\uddf0\ud83c\uddf5\u26a1 Uncle Kim personally inspected one of the facilities producing the Hwasongpho-11Ga (Hwasong-11A) tactical ballistic missiles, which are better known as KN-23 or \u201cKimskander.\u201d\n\n@IntelSlava",
+          "channel": "Intel Slava",
+          "timestamp": 1780841368542,
+          "link": "https://t.me/intelslava"
+        },
+        "osint": false,
+        "related_markets": [
+          {
+            "id": "2364460",
+            "slug": "number-of-north-korea-missile-tests-in-june-2026",
+            "condition_id": "0xf68bb83e31f4911b06b9c179a1b9a04a13579794e387d173e8fe11c00b645121",
+            "title": "<1",
+            "question": "Will there be fewer than 1 North Korea test in June 2026?",
+            "description": "This market will resolve to the number of calendar days on which North Korea (DPRK) conducts a missile launch during June 2026, Pyongyang Time.\n\nIf a single test event spans multiple calendar days, it will count only for the day on which it began.\n\nOnly test launches of ballistic missiles, cruise missiles, and anti-ship missiles will qualify.\n\nTest launches of other systems, including surface-to-air missiles (SAMs), multiple launch rocket systems (MLRS)/rocket artillery, torpedoes, or similar systems, will not qualify.\n\nResolution will be based on publicly available information from reliable sources such as official government statements, reports from international monitoring bodies like the United Nations, or reports from reputable international media.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/north-korea-missile-launch-by-november-15-zwBNKi5pUPJh.jpg",
+            "yes_token_id": "34163914295620800671791699866420040458912602470448016809065467721062352274018",
+            "yes_probability": 0.69,
+            "yes_best_bid": 0.56,
+            "yes_best_ask": 0.69,
+            "yes_spread": 0.1299999999999999,
+            "no_token_id": "58948630706267010671275403950696628435497756505044134480611194043704207172692",
+            "no_probability": 0.44,
+            "no_best_bid": 0.31,
+            "no_best_ask": 0.44,
+            "no_spread": 0.13,
+            "volume": 492.09458408,
+            "liquidity": 19381.039999999986,
+            "neg_risk": true,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Inspection of missile facility indicates potential for future tests.",
+            "event_id": "528228",
+            "event_title": "Number of North Korea Missile Tests in June 2026?",
+            "event_slug": "number-of-north-korea-missile-tests-in-june-2026",
+            "detected_yes_price": 0.66,
+            "detected_no_price": 0.6699999999999999,
+            "detected_at": 1780841389756,
+            "highest_price_change": 0.14925373134328374,
+            "highest_yes_price": 0.7,
+            "highest_no_price": 0.77,
+            "first_moved_at": 1780841390108,
+            "moved_side": "no",
+            "peaked_at": 1780841390108
+          },
+          {
+            "id": "2364461",
+            "slug": "number-of-north-korea-missile-tests-in-june-2026",
+            "condition_id": "0xd00fe4b6670a9fca82820eb59ff4e6e8dd21261fdc4b23f4bc3382c1becb8727",
+            "title": "1-2",
+            "question": "Will there be 1-2 North Korea tests in June 2026?",
+            "description": "This market will resolve to the number of calendar days on which North Korea (DPRK) conducts a missile launch during June 2026, Pyongyang Time.\n\nIf a single test event spans multiple calendar days, it will count only for the day on which it began.\n\nOnly test launches of ballistic missiles, cruise missiles, and anti-ship missiles will qualify.\n\nTest launches of other systems, including surface-to-air missiles (SAMs), multiple launch rocket systems (MLRS)/rocket artillery, torpedoes, or similar systems, will not qualify.\n\nResolution will be based on publicly available information from reliable sources such as official government statements, reports from international monitoring bodies like the United Nations, or reports from reputable international media.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/north-korea-missile-launch-by-november-15-zwBNKi5pUPJh.jpg",
+            "yes_token_id": "31755602732964695089956584953125811370746290494990996212159307481962462553092",
+            "yes_probability": 0.42,
+            "yes_best_bid": 0.27,
+            "yes_best_ask": 0.42,
+            "yes_spread": 0.14999999999999997,
+            "no_token_id": "57719247625169602263660030673258050557865014084855091156187228855204048010943",
+            "no_probability": 0.73,
+            "no_best_bid": 0.58,
+            "no_best_ask": 0.73,
+            "no_spread": 0.15000000000000002,
+            "volume": 90.240688,
+            "liquidity": 14693.960000000003,
+            "neg_risk": true,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Inspection of missile facility suggests likelihood of multiple tests.",
+            "event_id": "528228",
+            "event_title": "Number of North Korea Missile Tests in June 2026?",
+            "event_slug": "number-of-north-korea-missile-tests-in-june-2026",
+            "detected_yes_price": 0.59,
+            "detected_no_price": 0.73,
+            "detected_at": 1780841389756,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.59,
+            "highest_no_price": 0.73
+          },
+          {
+            "id": "2364462",
+            "slug": "number-of-north-korea-missile-tests-in-june-2026",
+            "condition_id": "0x2551b02e2b9cc7c6b61821c97bce5accf054ff4d33984ccad3d6ca6a09fd41e2",
+            "title": "3+",
+            "question": "Will there be 3 or more North Korea tests in June 2026?",
+            "description": "This market will resolve to the number of calendar days on which North Korea (DPRK) conducts a missile launch during June 2026, Pyongyang Time.\n\nIf a single test event spans multiple calendar days, it will count only for the day on which it began.\n\nOnly test launches of ballistic missiles, cruise missiles, and anti-ship missiles will qualify.\n\nTest launches of other systems, including surface-to-air missiles (SAMs), multiple launch rocket systems (MLRS)/rocket artillery, torpedoes, or similar systems, will not qualify.\n\nResolution will be based on publicly available information from reliable sources such as official government statements, reports from international monitoring bodies like the United Nations, or reports from reputable international media.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/north-korea-missile-launch-by-november-15-zwBNKi5pUPJh.jpg",
+            "yes_token_id": "108363964143314025120984586450298431655531941158503662524663931392724429591549",
+            "yes_probability": 0.17,
+            "yes_best_bid": 0.04,
+            "yes_best_ask": 0.17,
+            "yes_spread": 0.13,
+            "no_token_id": "3911913102721874569076334887696389950224036847447469948339051616337633471943",
+            "no_probability": 0.96,
+            "no_best_bid": 0.83,
+            "no_best_ask": 0.96,
+            "no_spread": 0.13,
+            "volume": 148.547501,
+            "liquidity": 1591.4199999999998,
+            "neg_risk": true,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Kim's inspection of missile production indicates increased testing activity.",
+            "event_id": "528228",
+            "event_title": "Number of North Korea Missile Tests in June 2026?",
+            "event_slug": "number-of-north-korea-missile-tests-in-june-2026",
+            "detected_yes_price": 0.17,
+            "detected_no_price": 0.95,
+            "detected_at": 1780841389756,
+            "highest_price_change": 0.02105263157894739,
+            "highest_yes_price": 0.17,
+            "highest_no_price": 0.97,
+            "first_moved_at": 1780841429606,
+            "moved_side": "no",
+            "peaked_at": 1780841429606
+          }
+        ],
+        "topics": null,
+        "categories": [
+          "geopolitics"
+        ]
+      },
+      "related_market": {
+        "id": "2364460",
+        "slug": "number-of-north-korea-missile-tests-in-june-2026",
+        "condition_id": "0xf68bb83e31f4911b06b9c179a1b9a04a13579794e387d173e8fe11c00b645121",
+        "title": "<1",
+        "question": "Will there be fewer than 1 North Korea test in June 2026?",
+        "description": "This market will resolve to the number of calendar days on which North Korea (DPRK) conducts a missile launch during June 2026, Pyongyang Time.\n\nIf a single test event spans multiple calendar days, it will count only for the day on which it began.\n\nOnly test launches of ballistic missiles, cruise missiles, and anti-ship missiles will qualify.\n\nTest launches of other systems, including surface-to-air missiles (SAMs), multiple launch rocket systems (MLRS)/rocket artillery, torpedoes, or similar systems, will not qualify.\n\nResolution will be based on publicly available information from reliable sources such as official government statements, reports from international monitoring bodies like the United Nations, or reports from reputable international media.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/north-korea-missile-launch-by-november-15-zwBNKi5pUPJh.jpg",
+        "yes_token_id": "34163914295620800671791699866420040458912602470448016809065467721062352274018",
+        "yes_probability": 0.69,
+        "yes_best_bid": 0.56,
+        "yes_best_ask": 0.69,
+        "yes_spread": 0.1299999999999999,
+        "no_token_id": "58948630706267010671275403950696628435497756505044134480611194043704207172692",
+        "no_probability": 0.44,
+        "no_best_bid": 0.31,
+        "no_best_ask": 0.44,
+        "no_spread": 0.13,
+        "volume": 492.09458408,
+        "liquidity": 19381.039999999986,
+        "neg_risk": true,
+        "end_date": "2026-06-30T00:00:00Z",
+        "categories": [
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 5,
+        "impact_level": "low",
+        "impact_reason": "Inspection of missile facility indicates potential for future tests.",
+        "event_id": "528228",
+        "event_title": "Number of North Korea Missile Tests in June 2026?",
+        "event_slug": "number-of-north-korea-missile-tests-in-june-2026",
+        "detected_yes_price": 0.66,
+        "detected_no_price": 0.6699999999999999,
+        "detected_at": 1780841389756,
+        "highest_price_change": 0.14925373134328374,
+        "highest_yes_price": 0.7,
+        "highest_no_price": 0.77,
+        "first_moved_at": 1780841390108,
+        "moved_side": "no",
+        "peaked_at": 1780841390108
+      },
+      "_scraped_at": "2026-06-08T00:00:02.977742+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "valid": false,
+      "_scraped_at": "2026-06-08T00:00:02.977742+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "global_tension_score": 87,
+      "global_tension_level": "SEVERE",
+      "countries": [
+        {
+          "country": "IR",
+          "count": 115,
+          "recent": [
+            {
+              "id": "4c5108c3-c111-4e73-99ae-ae04d512948d",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780856923157
+            },
+            {
+              "id": "03ba2e72-03f5-4a4d-a81d-af86b60ef075",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780859443094
+            },
+            {
+              "id": "9e07e925-89ce-43b1-8382-356adc248995",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780861327398
+            },
+            {
+              "id": "11f4f374-7550-4596-8962-e10d89ebc4f3",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780861953552
+            },
+            {
+              "id": "5cb31db3-e6cd-4f12-9032-4f74077ff85d",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1780863563097
+            },
+            {
+              "id": "59408627-a435-40a4-8fbc-3e0cbda7fd50",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780860118080
+            },
+            {
+              "id": "66f4d206-fcd7-4927-a89f-ecdd4fe3e1ef",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780859503092
+            },
+            {
+              "id": "a1983b9a-fee1-4680-9cff-7cfdf9912b5d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780864008697
+            },
+            {
+              "id": "19bb6b40-89b7-44a0-836f-a9fa9129ee63",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780860873587
+            },
+            {
+              "id": "d32727f6-2be9-4e93-8021-f29f9c9f1354",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780860388072
+            },
+            {
+              "id": "372e60a6-afa4-4bc0-9241-1ecdf90758dd",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780860528589
+            },
+            {
+              "id": "75360e60-07fb-400a-8efd-f9010ff2ad8f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780867128494
+            },
+            {
+              "id": "d4fa61ca-ae69-496f-ac71-fb336e83573d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780858903347
+            },
+            {
+              "id": "4840c96f-a8ad-4384-872a-174562d48651",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780859023110
+            },
+            {
+              "id": "ab7e9b24-3a8b-44f9-8117-ac8cfc694991",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780861897723
+            },
+            {
+              "id": "7c6a700c-4b16-4a67-9c0c-0955d7854cd5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780859008228
+            },
+            {
+              "id": "8114a834-8081-4921-bd7a-46b257f679ce",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780862583537
+            },
+            {
+              "id": "a9a71f0b-762e-4058-a9b8-d8e5d0ffeafe",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780863348559
+            },
+            {
+              "id": "9f3404d3-45fe-4d40-9c91-f9f33be59449",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780868688474
+            },
+            {
+              "id": "7613ddfe-69d8-4004-9a84-59d9f9693a92",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780859548093
+            },
+            {
+              "id": "145d885a-7189-45d0-af81-8fa6a10d3374",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780862313652
+            },
+            {
+              "id": "e5f8cce3-f69e-48a6-b3a8-17b446a2323b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780872123301
+            },
+            {
+              "id": "1fd3b6ea-9572-478e-8661-5aae2de517a8",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780865730108
+            },
+            {
+              "id": "8d99107a-8337-4553-b5da-e2f9d4cef5b3",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780859083101
+            },
+            {
+              "id": "8fde4a74-6f36-4908-b4c8-03824691a375",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780858918109
+            }
+          ],
+          "volume": 156163071.48545584,
+          "critical_signals": 13,
+          "high_signals": 83,
+          "low_signals": 19
+        },
+        {
+          "country": "IL",
+          "count": 95,
+          "recent": [
+            {
+              "id": "9e07e925-89ce-43b1-8382-356adc248995",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780861327398
+            },
+            {
+              "id": "5cb31db3-e6cd-4f12-9032-4f74077ff85d",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1780863563097
+            },
+            {
+              "id": "66f4d206-fcd7-4927-a89f-ecdd4fe3e1ef",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780859503092
+            },
+            {
+              "id": "a1983b9a-fee1-4680-9cff-7cfdf9912b5d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780864008697
+            },
+            {
+              "id": "19bb6b40-89b7-44a0-836f-a9fa9129ee63",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780860873587
+            },
+            {
+              "id": "d32727f6-2be9-4e93-8021-f29f9c9f1354",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780860388072
+            },
+            {
+              "id": "4840c96f-a8ad-4384-872a-174562d48651",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780859023110
+            },
+            {
+              "id": "ab7e9b24-3a8b-44f9-8117-ac8cfc694991",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780861897723
+            },
+            {
+              "id": "8114a834-8081-4921-bd7a-46b257f679ce",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780862583537
+            },
+            {
+              "id": "9f3404d3-45fe-4d40-9c91-f9f33be59449",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780868688474
+            },
+            {
+              "id": "7613ddfe-69d8-4004-9a84-59d9f9693a92",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780859548093
+            },
+            {
+              "id": "145d885a-7189-45d0-af81-8fa6a10d3374",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780862313652
+            },
+            {
+              "id": "e5f8cce3-f69e-48a6-b3a8-17b446a2323b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780872123301
+            },
+            {
+              "id": "1fd3b6ea-9572-478e-8661-5aae2de517a8",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780865730108
+            },
+            {
+              "id": "bd19ff1f-8a72-4ce6-b137-ecee197b100d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780862823535
+            },
+            {
+              "id": "4b1cafd4-7fca-414a-8140-00b43f5378b7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780861728587
+            },
+            {
+              "id": "8cf6b307-5ebd-4de7-89d6-688505aed603",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780861667837
+            },
+            {
+              "id": "6f435125-f1ae-4709-ab02-5f1c6ecd27b7",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780870281181
+            },
+            {
+              "id": "7cfbc73f-a8b3-4e44-83ad-59f6fd49ebe9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780862883528
+            },
+            {
+              "id": "c0eeefca-2969-4cf0-9230-525e8273206e",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780860543587
+            },
+            {
+              "id": "4b41e898-4e24-4592-8daf-ea7e9d907585",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780866765928
+            },
+            {
+              "id": "171bf724-8376-41c0-9227-b27e262ab845",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780859008105
+            },
+            {
+              "id": "627115b6-9961-45f3-aaee-7c66915055fa",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1780861528227
+            },
+            {
+              "id": "9f7be1de-f8e7-4f40-88a1-93a04c4d1846",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780862208547
+            },
+            {
+              "id": "256c0453-7482-4028-9e8d-a6a40e91d1d0",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780860003774
+            }
+          ],
+          "volume": 99288620.58559878,
+          "critical_signals": 5,
+          "high_signals": 76,
+          "low_signals": 14
+        },
+        {
+          "country": "US",
+          "count": 36,
+          "recent": [
+            {
+              "id": "4c5108c3-c111-4e73-99ae-ae04d512948d",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780856923157
+            },
+            {
+              "id": "11f4f374-7550-4596-8962-e10d89ebc4f3",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780861953552
+            },
+            {
+              "id": "59408627-a435-40a4-8fbc-3e0cbda7fd50",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780860118080
+            },
+            {
+              "id": "19bb6b40-89b7-44a0-836f-a9fa9129ee63",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780860873587
+            },
+            {
+              "id": "372e60a6-afa4-4bc0-9241-1ecdf90758dd",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780860528589
+            },
+            {
+              "id": "75360e60-07fb-400a-8efd-f9010ff2ad8f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780867128494
+            },
+            {
+              "id": "a9a71f0b-762e-4058-a9b8-d8e5d0ffeafe",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780863348559
+            },
+            {
+              "id": "1fd3b6ea-9572-478e-8661-5aae2de517a8",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780865730108
+            },
+            {
+              "id": "8d99107a-8337-4553-b5da-e2f9d4cef5b3",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780859083101
+            },
+            {
+              "id": "6f435125-f1ae-4709-ab02-5f1c6ecd27b7",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780870281181
+            },
+            {
+              "id": "7cfbc73f-a8b3-4e44-83ad-59f6fd49ebe9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780862883528
+            },
+            {
+              "id": "627115b6-9961-45f3-aaee-7c66915055fa",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1780861528227
+            },
+            {
+              "id": "9f7be1de-f8e7-4f40-88a1-93a04c4d1846",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780862208547
+            },
+            {
+              "id": "04173464-eef7-4e89-b443-869d17b805a9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780863183522
+            },
+            {
+              "id": "c5ddd9b3-837b-4eb8-b153-159a1c344c84",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780863483515
+            },
+            {
+              "id": "5732eaaa-6868-4dd8-8e6a-6c8c20bb473b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780862088570
+            },
+            {
+              "id": "d7df0f8b-b604-4c3f-a1ce-ffa9d2bea52f",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780863168751
+            },
+            {
+              "id": "e665f777-7549-4b8d-8e31-de13316a0304",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780863796778
+            },
+            {
+              "id": "56a1d8d3-fa8b-41e5-bede-c4247d2f1c09",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780867368474
+            },
+            {
+              "id": "e69ae3cf-1bc9-4ea7-9942-e49fe67583c4",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780864128497
+            },
+            {
+              "id": "6437dd93-2a9d-4e6c-bd1c-6831a3489816",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780861897722
+            },
+            {
+              "id": "cac4700f-7b67-44e6-af68-7a8af72b5fd8",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780863168756
+            },
+            {
+              "id": "93f1143e-af6a-400f-836b-fc5a03c3f894",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780860768586
+            },
+            {
+              "id": "0d88e817-3850-4000-8c9f-e4ed7fc3a459",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780860313071
+            },
+            {
+              "id": "eda2bee2-4a41-4b95-ac96-6cf65e41af40",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780861681944
+            }
+          ],
+          "volume": 149584229.96078187,
+          "critical_signals": 10,
+          "high_signals": 23,
+          "low_signals": 3
+        },
+        {
+          "country": "LB",
+          "count": 17,
+          "recent": [
+            {
+              "id": "9e07e925-89ce-43b1-8382-356adc248995",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780861327398
+            },
+            {
+              "id": "59408627-a435-40a4-8fbc-3e0cbda7fd50",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780860118080
+            },
+            {
+              "id": "a1983b9a-fee1-4680-9cff-7cfdf9912b5d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780864008697
+            },
+            {
+              "id": "75360e60-07fb-400a-8efd-f9010ff2ad8f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780867128494
+            },
+            {
+              "id": "4b41e898-4e24-4592-8daf-ea7e9d907585",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780866765928
+            },
+            {
+              "id": "627115b6-9961-45f3-aaee-7c66915055fa",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1780861528227
+            },
+            {
+              "id": "c5ddd9b3-837b-4eb8-b153-159a1c344c84",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780863483515
+            },
+            {
+              "id": "5732eaaa-6868-4dd8-8e6a-6c8c20bb473b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780862088570
+            },
+            {
+              "id": "e298dea3-d92f-419e-b19a-eb594da7aacf",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780864417822
+            },
+            {
+              "id": "27a79a15-d4df-4c5b-80ee-9bfb2bf8bf8b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780864488489
+            },
+            {
+              "id": "6a6dd38a-3924-45c3-b495-94bbd01c2356",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780860798602
+            },
+            {
+              "id": "6c625b4d-9e6b-4d9e-9fef-14f4ae9a49c3",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780863678518
+            },
+            {
+              "id": "8041ef0f-2ad3-486d-9d9c-892f02a200a6",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1780862016976
+            },
+            {
+              "id": "d32c453d-9639-4cfd-a716-02a23c972aff",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780858708111
+            },
+            {
+              "id": "951f2111-3e23-4c7c-bf2f-eb529280d4fd",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780860290318
+            },
+            {
+              "id": "ef9ac7e7-0cce-4387-a8c1-af11a3e03350",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780856353170
+            },
+            {
+              "id": "5cb7e8ac-a5a3-46f8-a5b6-c896f527847b",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780861096462
+            }
+          ],
+          "volume": 68542114.18790603,
+          "critical_signals": 0,
+          "high_signals": 13,
+          "low_signals": 4
+        },
+        {
+          "country": "GB",
+          "count": 8,
+          "recent": [
+            {
+              "id": "45319869-3626-4155-b2eb-c9ec21251bb2",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1780866064274
+            },
+            {
+              "id": "dcf07196-ee97-4865-80ed-2567e6f8a41e",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780865024486
+            },
+            {
+              "id": "5f4ea67a-9ff3-4239-96dd-b4dd89135ad9",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780865568461
+            },
+            {
+              "id": "eb988e4b-fcbb-443b-b68b-637ac80346cf",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1780868315252
+            },
+            {
+              "id": "cbbb8013-147c-4225-881d-a4ac996ba51a",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780869167549
+            },
+            {
+              "id": "0ca02337-e5c9-4bb0-bdcb-f16034e55194",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780865217575
+            },
+            {
+              "id": "22f84336-1b45-40ec-aa0e-f17b54e15b65",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780858528121
+            },
+            {
+              "id": "b75adc21-7451-41d0-b454-bfb7239580f1",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780859321220
+            }
+          ],
+          "volume": 6616505.874569552,
+          "critical_signals": 5,
+          "high_signals": 1,
+          "low_signals": 2
+        },
+        {
+          "country": "RU",
+          "count": 7,
+          "recent": [
+            {
+              "id": "45319869-3626-4155-b2eb-c9ec21251bb2",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1780866064274
+            },
+            {
+              "id": "dcf07196-ee97-4865-80ed-2567e6f8a41e",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780865024486
+            },
+            {
+              "id": "2ec11946-872c-42de-be1f-a2ebc84f11de",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780857059209
+            },
+            {
+              "id": "cbbb8013-147c-4225-881d-a4ac996ba51a",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780869167549
+            },
+            {
+              "id": "0ca02337-e5c9-4bb0-bdcb-f16034e55194",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780865217575
+            },
+            {
+              "id": "22f84336-1b45-40ec-aa0e-f17b54e15b65",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780858528121
+            },
+            {
+              "id": "452aef67-e48b-4a62-8827-4da96752d6bf",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780857748389
+            }
+          ],
+          "volume": 7516316.747910551,
+          "critical_signals": 4,
+          "high_signals": 3,
+          "low_signals": 0
+        },
+        {
+          "country": "UA",
+          "count": 5,
+          "recent": [
+            {
+              "id": "45319869-3626-4155-b2eb-c9ec21251bb2",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1780866064274
+            },
+            {
+              "id": "dcf07196-ee97-4865-80ed-2567e6f8a41e",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780865024486
+            },
+            {
+              "id": "2ec11946-872c-42de-be1f-a2ebc84f11de",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780857059209
+            },
+            {
+              "id": "cbbb8013-147c-4225-881d-a4ac996ba51a",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1780869167549
+            },
+            {
+              "id": "22f84336-1b45-40ec-aa0e-f17b54e15b65",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780858528121
+            }
+          ],
+          "volume": 7450968.432730551,
+          "critical_signals": 3,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "PS",
+          "count": 2,
+          "recent": [
+            {
+              "id": "75360e60-07fb-400a-8efd-f9010ff2ad8f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780867128494
+            },
+            {
+              "id": "8c640b29-4760-4636-b366-342de6efee47",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780866439946
+            }
+          ],
+          "volume": 35586362.71349342,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "IN",
+          "count": 2,
+          "recent": [
+            {
+              "id": "5732eaaa-6868-4dd8-8e6a-6c8c20bb473b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780862088570
+            },
+            {
+              "id": "b75adc21-7451-41d0-b454-bfb7239580f1",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780859321220
+            }
+          ],
+          "volume": 35437912.03704742,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 1
+        },
+        {
+          "country": "IQ",
+          "count": 2,
+          "recent": [
+            {
+              "id": "fb5c60a4-82f8-4e39-992f-49f1eff6870b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780868028403
+            },
+            {
+              "id": "6437dd93-2a9d-4e6c-bd1c-6831a3489816",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780861897722
+            }
+          ],
+          "volume": 35503729.45015443,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "FR",
+          "count": 2,
+          "recent": [
+            {
+              "id": "45319869-3626-4155-b2eb-c9ec21251bb2",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1780866064274
+            },
+            {
+              "id": "22f84336-1b45-40ec-aa0e-f17b54e15b65",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780858528121
+            }
+          ],
+          "volume": 3309608.03865402,
+          "critical_signals": 1,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "AM",
+          "count": 2,
+          "recent": [
+            {
+              "id": "def1a111-c31a-48b1-a5f4-821d62185116",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780875405217
+            },
+            {
+              "id": "5f4ea67a-9ff3-4239-96dd-b4dd89135ad9",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780865568461
+            }
+          ],
+          "volume": 345896.7989340027,
+          "critical_signals": 2,
+          "high_signals": 0,
+          "low_signals": 0
+        },
+        {
+          "country": "DE",
+          "count": 2,
+          "recent": [
+            {
+              "id": "45319869-3626-4155-b2eb-c9ec21251bb2",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1780866064274
+            },
+            {
+              "id": "22f84336-1b45-40ec-aa0e-f17b54e15b65",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780858528121
+            }
+          ],
+          "volume": 3309608.03865402,
+          "critical_signals": 1,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "CN",
+          "count": 1,
+          "recent": [
+            {
+              "id": "b75adc21-7451-41d0-b454-bfb7239580f1",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780859321220
+            }
+          ],
+          "volume": 122524.58662700001,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "LV",
+          "count": 1,
+          "recent": [
+            {
+              "id": "6437dd93-2a9d-4e6c-bd1c-6831a3489816",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780861897722
+            }
+          ],
+          "volume": 34341597.344062425,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "SA",
+          "count": 1,
+          "recent": [
+            {
+              "id": "59408627-a435-40a4-8fbc-3e0cbda7fd50",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780860118080
+            }
+          ],
+          "volume": 915698.3090980002,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "OM",
+          "count": 1,
+          "recent": [
+            {
+              "id": "5732eaaa-6868-4dd8-8e6a-6c8c20bb473b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780862088570
+            }
+          ],
+          "volume": 35315387.450420424,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        }
+      ],
+      "_scraped_at": "2026-06-08T00:00:02.977742+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
