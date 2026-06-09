@@ -1,0 +1,2552 @@
+{
+  "scraped_at": "2026-06-09T12:20:31.040342+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 9,
+  "items": [
+    {
+      "valid": false,
+      "_scraped_at": "2026-06-09T12:20:31.040342+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "44978a70-7cfa-4aee-8a18-288ed87c363d",
+        "timestamp": 1780994090000,
+        "tweet": {
+          "feed_item_id": "44978a70-7cfa-4aee-8a18-288ed87c363d",
+          "post_id": "2064264949711679872",
+          "post_type": "tweet",
+          "created_at": 1780994090000,
+          "user": {
+            "uid": "3295423333",
+            "handle": "FirstSquawk",
+            "display_name": "First Squawk",
+            "pfp": "https://pbs.twimg.com/profile_images/1039778545738964992/6fl6RNN0_normal.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "PALESTINIAN SOURCE AN AGREEMENT PAPER MAY BE SIGNED IN CAIRO IN WHICH HAMAS AGREES TO HAND OVER WEAPONS TO PALESTINIAN SECURITY AGENCIES IN GAZA",
+          "link": "https://twitter.com/FirstSquawk/status/2064264949711679872"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "PS",
+        "countries": [
+          "PS",
+          "EG"
+        ],
+        "related_markets": [
+          {
+            "id": "1294921",
+            "slug": "will-hamaz-disarm-by-december-31",
+            "condition_id": "0x2cd4df599867b14e835436e67e524cd04bbd67eaa6454c07b294d9dd0470e6b7",
+            "title": "June 30, 2026",
+            "question": "Will Hamas agree to disarm by June 30?",
+            "description": "This market will resolve to \"Yes\" if Hamas officially announces it will disarm in the Gaza Strip by June 30, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nOnly credible announcements, for example by the widely acknowledged leadership of Hamas, will qualify.\n\nFor the purposes of this market, \"disarm\" refers to a public commitment to relinquish or dismantle its military, whether partially or completely, in the Gaza Strip.\n\nAnnouncements of partial disarmament (e.g., surrendering a class of weapons or agreeing to disarm in stages or a certain region) will qualify as long as it is part of an acknowledged disarmament process.\n\nOnly official announcements will qualify. Informal statements, plans contingent on future conditions, statements of intent without a formal policy directive, or any other statements that do not constitute a formal policy announcement will not be considered.\n\nPrimary resolution sources will include official statements from Hamas leadership; however, a wide consensus of credible reporting confirming a policy of disarmament has been instituted will also qualify.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-hamaz-disarm-by-december-31-qapFZWHfEvne.jpg",
+            "yes_token_id": "63234707295320507667894309258849048700632767113302157839265845777836046390818",
+            "yes_probability": 0.167,
+            "yes_best_bid": 0.142,
+            "yes_best_ask": 0.167,
+            "yes_spread": 0.025000000000000022,
+            "no_token_id": "104300001201805258182759143424803769933769056146338425343674625200737172871170",
+            "no_probability": 0.858,
+            "no_best_bid": 0.833,
+            "no_best_ask": 0.858,
+            "no_spread": 0.025000000000000022,
+            "volume": 283160.61947716255,
+            "liquidity": 282281.09,
+            "neg_risk": false,
+            "end_date": "2026-06-30T20:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Agreement to disarm directly affects Hamas's disarmament odds (1 hop).",
+            "event_id": "34889",
+            "event_title": "Will Hamas agree to disarm by...?",
+            "event_slug": "will-hamaz-disarm-by-december-31",
+            "detected_yes_price": 0.056,
+            "detected_no_price": 0.95,
+            "detected_at": 1780994102838,
+            "highest_price_change": 3.0714285714285716,
+            "highest_yes_price": 0.228,
+            "highest_no_price": 0.95,
+            "first_moved_at": 1780994199178,
+            "moved_side": "yes",
+            "peaked_at": 1780995655927
+          }
+        ],
+        "topics": [
+          "ai-tech"
+        ],
+        "categories": [
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "1294921",
+        "slug": "will-hamaz-disarm-by-december-31",
+        "condition_id": "0x2cd4df599867b14e835436e67e524cd04bbd67eaa6454c07b294d9dd0470e6b7",
+        "title": "June 30, 2026",
+        "question": "Will Hamas agree to disarm by June 30?",
+        "description": "This market will resolve to \"Yes\" if Hamas officially announces it will disarm in the Gaza Strip by June 30, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nOnly credible announcements, for example by the widely acknowledged leadership of Hamas, will qualify.\n\nFor the purposes of this market, \"disarm\" refers to a public commitment to relinquish or dismantle its military, whether partially or completely, in the Gaza Strip.\n\nAnnouncements of partial disarmament (e.g., surrendering a class of weapons or agreeing to disarm in stages or a certain region) will qualify as long as it is part of an acknowledged disarmament process.\n\nOnly official announcements will qualify. Informal statements, plans contingent on future conditions, statements of intent without a formal policy directive, or any other statements that do not constitute a formal policy announcement will not be considered.\n\nPrimary resolution sources will include official statements from Hamas leadership; however, a wide consensus of credible reporting confirming a policy of disarmament has been instituted will also qualify.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-hamaz-disarm-by-december-31-qapFZWHfEvne.jpg",
+        "yes_token_id": "63234707295320507667894309258849048700632767113302157839265845777836046390818",
+        "yes_probability": 0.167,
+        "yes_best_bid": 0.142,
+        "yes_best_ask": 0.167,
+        "yes_spread": 0.025000000000000022,
+        "no_token_id": "104300001201805258182759143424803769933769056146338425343674625200737172871170",
+        "no_probability": 0.858,
+        "no_best_bid": 0.833,
+        "no_best_ask": 0.858,
+        "no_spread": 0.025000000000000022,
+        "volume": 283160.61947716255,
+        "liquidity": 282281.09,
+        "neg_risk": false,
+        "end_date": "2026-06-30T20:00:00Z",
+        "categories": [
+          "geopolitics",
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Agreement to disarm directly affects Hamas's disarmament odds (1 hop).",
+        "event_id": "34889",
+        "event_title": "Will Hamas agree to disarm by...?",
+        "event_slug": "will-hamaz-disarm-by-december-31",
+        "detected_yes_price": 0.056,
+        "detected_no_price": 0.95,
+        "detected_at": 1780994102838,
+        "highest_price_change": 3.0714285714285716,
+        "highest_yes_price": 0.228,
+        "highest_no_price": 0.95,
+        "first_moved_at": 1780994199178,
+        "moved_side": "yes",
+        "peaked_at": 1780995655927
+      },
+      "_scraped_at": "2026-06-09T12:20:31.040342+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 2,
+      "feed_item": {
+        "id": "f600735b-f824-44b5-8f31-389b006fd116",
+        "timestamp": 1780977925853,
+        "tweet": null,
+        "news": {
+          "feed_item_id": "f600735b-f824-44b5-8f31-389b006fd116",
+          "headline": "What to watch in Tuesday\u2019s primaries as Graham Platner tries to clinch Senate nomination in Maine",
+          "description": "",
+          "image": "",
+          "url": "https://apnews.com/article/graham-platner-maine-senate-primary-6e9b766d0940ce525cfd1845610b1d30",
+          "timestamp": 1780977925853,
+          "source": "apnews"
+        },
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "related_markets": [
+          {
+            "id": "599323",
+            "slug": "maine-democratic-senate-primary-winner",
+            "condition_id": "0x807a5bd3d52942c2d8b58bf71a583d4aa03a637f3fd9ff7a7c4a1ad818003067",
+            "title": "Graham Platner",
+            "question": "Will Graham Platner be the Democratic nominee for Senate in Maine?",
+            "description": "This market will resolve according to the winner of the Democratic Primary for United States Senator from Maine.\n\nIf no 2026 Maine Democratic Senate Primary takes place, this market will resolve to \"Other\".\n\nThe resolution source for this market will be the first announcement of the results from the Maine Democratic party, however an overwhelming consensus of credible reporting may suffice.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/maine-democratic-senate-primary-winner-P2cIYUJYSIcG.png",
+            "yes_token_id": "51273396751548994017117054764897754414228591289652072971120018616721173971444",
+            "yes_probability": 0.997,
+            "yes_best_bid": 0.992,
+            "yes_best_ask": 0.997,
+            "yes_spread": 0.0050000000000000044,
+            "no_token_id": "69732267236340588035067724177359769962979053624149789047101950615640324836190",
+            "no_probability": 0.008,
+            "no_best_bid": 0.003,
+            "no_best_ask": 0.008,
+            "no_spread": 0.005,
+            "volume": 2401318.0725910016,
+            "liquidity": 413292.55,
+            "neg_risk": true,
+            "end_date": "2026-06-09T00:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Direct link between primary outcome and nomination (1 hop).",
+            "event_id": "45018",
+            "event_title": "Maine Democratic Senate Primary Winner",
+            "event_slug": "maine-democratic-senate-primary-winner",
+            "detected_yes_price": 0.997,
+            "detected_no_price": 0.0040000000000000036,
+            "detected_at": 1780977996245,
+            "highest_price_change": 0.9999999999999982,
+            "highest_yes_price": 0.998,
+            "highest_no_price": 0.008,
+            "first_moved_at": 1780978018692,
+            "moved_side": "no",
+            "peaked_at": 1780987456804
+          },
+          {
+            "id": "2470969",
+            "slug": "graham-platner-vote-share-in-2026-maine-democratic-senate-primary",
+            "condition_id": "0x38e3bc04a7909f19382f73a28f31cddc5e4c92a60a0e0f5f4985b25523c79d49",
+            "title": "70-75%",
+            "question": "Will Graham Platner win between 70% and 75% of votes in the Maine Senate Democratic Primary?",
+            "description": "Primary elections in Maine are scheduled to be held on June 9, 2026.\n\nThis market will resolve according to the share of valid votes Graham Platner wins in the 2026 Maine Democratic Senate Primary.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket. If the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Maine, such as official statewide results published by the Maine Secretary of State (https://www.maine.gov/sos/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/graham-platner-vote-share-in-2026-maine-democratic-senate-primary-9ZB4R2W2P6No.jpg",
+            "yes_token_id": "29241124298402784312311090636639349347666943174801141263437864535247481948037",
+            "yes_probability": 0.24,
+            "yes_best_bid": 0.18,
+            "yes_best_ask": 0.24,
+            "yes_spread": 0.06,
+            "no_token_id": "59104732027528218481878941511566488261445640073761515322060771620671491507039",
+            "no_probability": 0.82,
+            "no_best_bid": 0.76,
+            "no_best_ask": 0.82,
+            "no_spread": 0.05999999999999994,
+            "volume": 133.26,
+            "liquidity": 14353.480000000001,
+            "neg_risk": true,
+            "end_date": "2026-06-09T00:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Vote share directly correlates with nomination outcome (1 hop).",
+            "event_id": "573050",
+            "event_title": "Graham Platner vote share in 2026 Maine Democratic Senate Primary",
+            "event_slug": "graham-platner-vote-share-in-2026-maine-democratic-senate-primary",
+            "detected_yes_price": 0.3,
+            "detected_no_price": 0.73,
+            "detected_at": 1780977996245,
+            "highest_price_change": 0.3424657534246575,
+            "highest_yes_price": 0.3,
+            "highest_no_price": 0.98,
+            "first_moved_at": 1780987126176,
+            "moved_side": "no",
+            "peaked_at": 1780994592922
+          },
+          {
+            "id": "2470967",
+            "slug": "graham-platner-vote-share-in-2026-maine-democratic-senate-primary",
+            "condition_id": "0xe5f5d4b7b71b49258567842ca1045134c0ef6bb357c9b202f89264137b8ffee8",
+            "title": "<65%",
+            "question": "Will Graham Platner win less than 65% of votes in the Maine Senate Democratic Primary?",
+            "description": "Primary elections in Maine are scheduled to be held on June 9, 2026.\n\nThis market will resolve according to the share of valid votes Graham Platner wins in the 2026 Maine Democratic Senate Primary.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket. If the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Maine, such as official statewide results published by the Maine Secretary of State (https://www.maine.gov/sos/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/graham-platner-vote-share-in-2026-maine-democratic-senate-primary-9ZB4R2W2P6No.jpg",
+            "yes_token_id": "949894612417073107517434956058149426672737322563145543635653778893283859939",
+            "yes_probability": 0.2,
+            "yes_best_bid": 0.19,
+            "yes_best_ask": 0.2,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "47246542343076327303832924072770646118031609450900389788299910725876499455830",
+            "no_probability": 0.81,
+            "no_best_bid": 0.8,
+            "no_best_ask": 0.81,
+            "no_spread": 0.010000000000000009,
+            "volume": 220.64406445999998,
+            "liquidity": 71698.31999999999,
+            "neg_risk": true,
+            "end_date": "2026-06-09T00:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Primary vote share is directly linked to nomination outcome (1 hop).",
+            "event_id": "573050",
+            "event_title": "Graham Platner vote share in 2026 Maine Democratic Senate Primary",
+            "event_slug": "graham-platner-vote-share-in-2026-maine-democratic-senate-primary",
+            "detected_yes_price": 0.14,
+            "detected_no_price": 0.89,
+            "detected_at": 1780977996245,
+            "highest_price_change": 2.4999999999999996,
+            "highest_yes_price": 0.49,
+            "highest_no_price": 0.89,
+            "first_moved_at": 1780978257644,
+            "moved_side": "yes",
+            "peaked_at": 1780983456826
+          },
+          {
+            "id": "2470968",
+            "slug": "graham-platner-vote-share-in-2026-maine-democratic-senate-primary",
+            "condition_id": "0x712617afaefd6e2e50113b87d2a9f9e8136d90c568fd3c94e395cafc93d3d154",
+            "title": "65-70%",
+            "question": "Will Graham Platner win between 65% and 70% of votes in the Maine Senate Democratic Primary?",
+            "description": "Primary elections in Maine are scheduled to be held on June 9, 2026.\n\nThis market will resolve according to the share of valid votes Graham Platner wins in the 2026 Maine Democratic Senate Primary.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket. If the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Maine, such as official statewide results published by the Maine Secretary of State (https://www.maine.gov/sos/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/graham-platner-vote-share-in-2026-maine-democratic-senate-primary-9ZB4R2W2P6No.jpg",
+            "yes_token_id": "155312229617759479699161090591918693105287553396514854857242890905445193311",
+            "yes_probability": 0.15,
+            "yes_best_bid": 0.11,
+            "yes_best_ask": 0.15,
+            "yes_spread": 0.039999999999999994,
+            "no_token_id": "105302085872319374863197651242067655766772634022820278015083931191091225772969",
+            "no_probability": 0.89,
+            "no_best_bid": 0.85,
+            "no_best_ask": 0.89,
+            "no_spread": 0.040000000000000036,
+            "volume": 117.29,
+            "liquidity": 78504.70000000001,
+            "neg_risk": true,
+            "end_date": "2026-06-09T00:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Vote share directly correlates with nomination outcome (1 hop).",
+            "event_id": "573050",
+            "event_title": "Graham Platner vote share in 2026 Maine Democratic Senate Primary",
+            "event_slug": "graham-platner-vote-share-in-2026-maine-democratic-senate-primary",
+            "detected_yes_price": 0.22,
+            "detected_no_price": 0.81,
+            "detected_at": 1780977996245,
+            "highest_price_change": 0.22222222222222213,
+            "highest_yes_price": 0.22,
+            "highest_no_price": 0.99,
+            "first_moved_at": 1780994542564,
+            "moved_side": "no",
+            "peaked_at": 1780994566080
+          },
+          {
+            "id": "2470970",
+            "slug": "graham-platner-vote-share-in-2026-maine-democratic-senate-primary",
+            "condition_id": "0x9e74084091e07a1567991187b6cde48536b42136c8d2225d7bc3c0252327b8a6",
+            "title": "75-80%",
+            "question": "Will Graham Platner win between 75% and 80% of votes in the Maine Senate Democratic Primary?",
+            "description": "Primary elections in Maine are scheduled to be held on June 9, 2026.\n\nThis market will resolve according to the share of valid votes Graham Platner wins in the 2026 Maine Democratic Senate Primary.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket. If the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Maine, such as official statewide results published by the Maine Secretary of State (https://www.maine.gov/sos/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/graham-platner-vote-share-in-2026-maine-democratic-senate-primary-9ZB4R2W2P6No.jpg",
+            "yes_token_id": "5379492473369050252863464043472343280202782661802011481562491401067549624810",
+            "yes_probability": 0.16,
+            "yes_best_bid": 0.15,
+            "yes_best_ask": 0.16,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "111417547032071928896981578021935954856314302316866828459992722488603859545391",
+            "no_probability": 0.85,
+            "no_best_bid": 0.84,
+            "no_best_ask": 0.85,
+            "no_spread": 0.010000000000000009,
+            "volume": 85.465,
+            "liquidity": 75370.04000000001,
+            "neg_risk": true,
+            "end_date": "2026-06-09T00:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Vote share directly correlates with nomination outcome (1 hop).",
+            "event_id": "573050",
+            "event_title": "Graham Platner vote share in 2026 Maine Democratic Senate Primary",
+            "event_slug": "graham-platner-vote-share-in-2026-maine-democratic-senate-primary",
+            "detected_yes_price": 0.17,
+            "detected_no_price": 0.84,
+            "detected_at": 1780977996245,
+            "highest_price_change": 0.011904761904761916,
+            "highest_yes_price": 0.17,
+            "highest_no_price": 0.85,
+            "first_moved_at": 1781003774246,
+            "moved_side": "no",
+            "peaked_at": 1781003774246
+          }
+        ],
+        "topics": [
+          "election-2028",
+          "ai-tech"
+        ],
+        "categories": [
+          "politics",
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "2470967",
+        "slug": "graham-platner-vote-share-in-2026-maine-democratic-senate-primary",
+        "condition_id": "0xe5f5d4b7b71b49258567842ca1045134c0ef6bb357c9b202f89264137b8ffee8",
+        "title": "<65%",
+        "question": "Will Graham Platner win less than 65% of votes in the Maine Senate Democratic Primary?",
+        "description": "Primary elections in Maine are scheduled to be held on June 9, 2026.\n\nThis market will resolve according to the share of valid votes Graham Platner wins in the 2026 Maine Democratic Senate Primary.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket. If the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Maine, such as official statewide results published by the Maine Secretary of State (https://www.maine.gov/sos/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/graham-platner-vote-share-in-2026-maine-democratic-senate-primary-9ZB4R2W2P6No.jpg",
+        "yes_token_id": "949894612417073107517434956058149426672737322563145543635653778893283859939",
+        "yes_probability": 0.2,
+        "yes_best_bid": 0.19,
+        "yes_best_ask": 0.2,
+        "yes_spread": 0.010000000000000009,
+        "no_token_id": "47246542343076327303832924072770646118031609450900389788299910725876499455830",
+        "no_probability": 0.81,
+        "no_best_bid": 0.8,
+        "no_best_ask": 0.81,
+        "no_spread": 0.010000000000000009,
+        "volume": 220.64406445999998,
+        "liquidity": 71698.31999999999,
+        "neg_risk": true,
+        "end_date": "2026-06-09T00:00:00Z",
+        "categories": [
+          "politics",
+          "elections"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Primary vote share is directly linked to nomination outcome (1 hop).",
+        "event_id": "573050",
+        "event_title": "Graham Platner vote share in 2026 Maine Democratic Senate Primary",
+        "event_slug": "graham-platner-vote-share-in-2026-maine-democratic-senate-primary",
+        "detected_yes_price": 0.14,
+        "detected_no_price": 0.89,
+        "detected_at": 1780977996245,
+        "highest_price_change": 2.4999999999999996,
+        "highest_yes_price": 0.49,
+        "highest_no_price": 0.89,
+        "first_moved_at": 1780978257644,
+        "moved_side": "yes",
+        "peaked_at": 1780983456826
+      },
+      "_scraped_at": "2026-06-09T12:20:31.040342+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 3,
+      "feed_item": {
+        "id": "09ad60ce-cac7-4255-a04e-2f12700fbc9c",
+        "timestamp": 1780953091036,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "09ad60ce-cac7-4255-a04e-2f12700fbc9c",
+          "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddee\ud83c\uddf1\u26a1- A single Ansarullah drone from Yemen was intercepted over Eilat, southern Israel.",
+          "channel": "Rerum Novarum // Intel, Breaking News, and Alerts \ud83c\uddfa\ud83c\uddf8",
+          "timestamp": 1780953091036,
+          "link": "https://t.me/rnintel"
+        },
+        "osint": false,
+        "country": "IL",
+        "countries": [
+          "IL",
+          "YE"
+        ],
+        "related_markets": [
+          {
+            "id": "1121887",
+            "slug": "israel-strike-on-yemen-by-593",
+            "condition_id": "0x3fe18d2b6303ee3a7e406aab679dbc0b0f7504dc6b477a31c69c6ffb04e9e11c",
+            "title": "June 30",
+            "question": "Israel strike on Yemen by June 30, 2026?",
+            "description": "This market will resolve to \"Yes\" if Israel initiates a drone, missile, or air strike on Yemeni soil or any official Yemen embassy or consulate by the listed date, 11:59 PM Israeli local time. Otherwise, this market will resolve to \"No\".\n\nFor the purposes of this market, a qualifying \"strike\" is defined as the use of aerial bombs, drones or missiles (including cruise or ballistic missiles) launched by Israeli military forces that impact Yemen ground territory or any official Yemen embassy or consulate (e.g., if a weapons depot on Yemen soil is hit by an Israeli missile, this market will resolve to \"Yes\").\n\nMissiles or drones that are intercepted and surface-to-air missile strikes will not be sufficient for a \"Yes\" resolution, regardless of whether they land on Yemen territory or cause damage.\n\nActions such as artillery fire, small arms fire, FPV or ATGM strikes directly, ground incursions, naval shelling, cyberattacks, or other operations conducted by Israeli ground operatives will not qualify.\n\nThe resolution source will be a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-israel-strike-yemen-by-friday-cQzxFR39DsbW.jpg",
+            "yes_token_id": "83617518285238151274836063590312610477192655509253955921300675735811392416805",
+            "yes_probability": 0.22,
+            "yes_best_bid": 0.21,
+            "yes_best_ask": 0.22,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "49232347074200257286333705540570950896584522176544392767367009767750446431044",
+            "no_probability": 0.79,
+            "no_best_bid": 0.78,
+            "no_best_ask": 0.79,
+            "no_spread": 0.010000000000000009,
+            "volume": 717345.3812639695,
+            "liquidity": 306450.58999999997,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "world",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Israel intercepting a drone may increase military tensions with Yemen.",
+            "event_id": "146944",
+            "event_title": "Israel military action against Yemen by...?",
+            "event_slug": "israel-strike-on-yemen-by-593",
+            "detected_yes_price": 0.25,
+            "detected_no_price": 0.76,
+            "detected_at": 1780953143914,
+            "highest_price_change": 0.52,
+            "highest_yes_price": 0.38,
+            "highest_no_price": 0.8,
+            "first_moved_at": 1780953144037,
+            "moved_side": "yes",
+            "peaked_at": 1780953144037
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 7,
+            "price": 0
+          }
+        ],
+        "topics": null,
+        "categories": null
+      },
+      "related_market": {
+        "id": "1121887",
+        "slug": "israel-strike-on-yemen-by-593",
+        "condition_id": "0x3fe18d2b6303ee3a7e406aab679dbc0b0f7504dc6b477a31c69c6ffb04e9e11c",
+        "title": "June 30",
+        "question": "Israel strike on Yemen by June 30, 2026?",
+        "description": "This market will resolve to \"Yes\" if Israel initiates a drone, missile, or air strike on Yemeni soil or any official Yemen embassy or consulate by the listed date, 11:59 PM Israeli local time. Otherwise, this market will resolve to \"No\".\n\nFor the purposes of this market, a qualifying \"strike\" is defined as the use of aerial bombs, drones or missiles (including cruise or ballistic missiles) launched by Israeli military forces that impact Yemen ground territory or any official Yemen embassy or consulate (e.g., if a weapons depot on Yemen soil is hit by an Israeli missile, this market will resolve to \"Yes\").\n\nMissiles or drones that are intercepted and surface-to-air missile strikes will not be sufficient for a \"Yes\" resolution, regardless of whether they land on Yemen territory or cause damage.\n\nActions such as artillery fire, small arms fire, FPV or ATGM strikes directly, ground incursions, naval shelling, cyberattacks, or other operations conducted by Israeli ground operatives will not qualify.\n\nThe resolution source will be a consensus of credible reporting.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-israel-strike-yemen-by-friday-cQzxFR39DsbW.jpg",
+        "yes_token_id": "83617518285238151274836063590312610477192655509253955921300675735811392416805",
+        "yes_probability": 0.22,
+        "yes_best_bid": 0.21,
+        "yes_best_ask": 0.22,
+        "yes_spread": 0.010000000000000009,
+        "no_token_id": "49232347074200257286333705540570950896584522176544392767367009767750446431044",
+        "no_probability": 0.79,
+        "no_best_bid": 0.78,
+        "no_best_ask": 0.79,
+        "no_spread": 0.010000000000000009,
+        "volume": 717345.3812639695,
+        "liquidity": 306450.58999999997,
+        "neg_risk": false,
+        "end_date": "2026-06-30T00:00:00Z",
+        "categories": [
+          "world",
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 5,
+        "impact_level": "low",
+        "impact_reason": "Israel intercepting a drone may increase military tensions with Yemen.",
+        "event_id": "146944",
+        "event_title": "Israel military action against Yemen by...?",
+        "event_slug": "israel-strike-on-yemen-by-593",
+        "detected_yes_price": 0.25,
+        "detected_no_price": 0.76,
+        "detected_at": 1780953143914,
+        "highest_price_change": 0.52,
+        "highest_yes_price": 0.38,
+        "highest_no_price": 0.8,
+        "first_moved_at": 1780953144037,
+        "moved_side": "yes",
+        "peaked_at": 1780953144037
+      },
+      "_scraped_at": "2026-06-09T12:20:31.040342+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 4,
+      "feed_item": {
+        "id": "688aacec-5d55-4a12-8bef-6701ace87f5d",
+        "timestamp": 1780943477312,
+        "tweet": {
+          "feed_item_id": "688aacec-5d55-4a12-8bef-6701ace87f5d",
+          "post_id": "2064052661121675439",
+          "post_type": "tweet",
+          "created_at": 1780943477312,
+          "user": {
+            "uid": "3295423333",
+            "handle": "FirstSquawk",
+            "display_name": "First Squawk",
+            "pfp": "https://pbs.twimg.com/profile_images/1039778545738964992/6fl6RNN0.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "IRGC'S QA'ANI VOWS NEW RESISTANCE SECURITY BELT SPANNING FROM HORMUZ STRAIT TO BAB AL-MANDEB AND FROM THE PERSIAN GULF TO THE RED SEA.",
+          "link": "https://twitter.com/FirstSquawk/status/2064052661121675439"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "IR",
+        "countries": [
+          "IR"
+        ],
+        "related_markets": [
+          {
+            "id": "2170254",
+            "slug": "bab-el-mandeb-strait-effectively-closed-by",
+            "condition_id": "0xa976dcc2fac50cf13968adbee89ce1de26df0191b8480b89d418280273197f53",
+            "title": "June 30",
+            "question": "Bab el-Mandeb Strait effectively closed by June 30?",
+            "description": "This market will resolve to \u201cYes\u201d if IMF PortWatch publishes a 7-day moving average of transit calls (\u201cArrivals of Ships\u201d) for the Bab el-Mandeb Strait less than or equal to 10 for any date between market creation and the listed date. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve as soon as IMF PortWatch publishes a 7-day moving average of transit calls for the Bab el-Mandeb Strait equal to or below 10, or once data has been published for the listed date and no such value has been published.\n\nIf no data has been published for the listed date within 14 calendar days (ET) after that date, this market will resolve based on the data published up to that point.\n\nRevisions to previously published data points made before data has been published for the listed date will be considered; however, they will not disqualify a previously published data point from qualifying. Revisions made after data has been published for the listed date will not be considered.\n\nThe resolution source for this market will be IMF PortWatch, specifically the \u201cArrivals of Ships\u201d data published for the Bab el-Mandeb Strait at https://portwatch.imf.org/pages/6b1814d64903461b98144a6cc25eb79c.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bab-el-mandeb-strait-effectively-closed-by-end-of-april-Y8A7Ig2p8X2K.jpg",
+            "yes_token_id": "70979157952244849403592933535229643909731035328387913162617056140126772714735",
+            "yes_probability": 0.084,
+            "yes_best_bid": 0.083,
+            "yes_best_ask": 0.084,
+            "yes_spread": 0.0010000000000000009,
+            "no_token_id": "95580602988758783752712445121155191665286945527392197193712707520306862606842",
+            "no_probability": 0.917,
+            "no_best_bid": 0.916,
+            "no_best_ask": 0.917,
+            "no_spread": 0.0010000000000000009,
+            "volume": 581934.438440501,
+            "liquidity": 835336.28,
+            "neg_risk": false,
+            "end_date": "2026-04-30T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "IRGC's statement about resistance security belt suggests closure risk (1 hop).",
+            "event_id": "276527",
+            "event_title": "Bab el-Mandeb Strait effectively closed by...?",
+            "event_slug": "bab-el-mandeb-strait-effectively-closed-by",
+            "detected_yes_price": 0.082,
+            "detected_no_price": 0.919,
+            "detected_at": 1780943505088,
+            "highest_price_change": 0.6341463414634146,
+            "highest_yes_price": 0.134,
+            "highest_no_price": 0.938,
+            "first_moved_at": 1780943512946,
+            "moved_side": "yes",
+            "peaked_at": 1780968504488
+          },
+          {
+            "id": "2170255",
+            "slug": "bab-el-mandeb-strait-effectively-closed-by",
+            "condition_id": "0x95fc6a4ed7f6856d26aa7f21b9f902d05c9cf76b616fd3463de4d147f7a9126b",
+            "title": "September 30",
+            "question": "Bab el-Mandeb Strait effectively closed by September 30?",
+            "description": "This market will resolve to \u201cYes\u201d if IMF PortWatch publishes a 7-day moving average of transit calls (\u201cArrivals of Ships\u201d) for the Bab el-Mandeb Strait less than or equal to 10 for any date between market creation and the listed date. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve as soon as IMF PortWatch publishes a 7-day moving average of transit calls for the Bab el-Mandeb Strait equal to or below 10, or once data has been published for the listed date and no such value has been published.\n\nIf no data has been published for the listed date within 14 calendar days (ET) after that date, this market will resolve based on the data published up to that point.\n\nRevisions to previously published data points made before data has been published for the listed date will be considered; however, they will not disqualify a previously published data point from qualifying. Revisions made after data has been published for the listed date will not be considered.\n\nThe resolution source for this market will be IMF PortWatch, specifically the \u201cArrivals of Ships\u201d data published for the Bab el-Mandeb Strait at https://portwatch.imf.org/pages/6b1814d64903461b98144a6cc25eb79c.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bab-el-mandeb-strait-effectively-closed-by-end-of-april-Y8A7Ig2p8X2K.jpg",
+            "yes_token_id": "79492971912420892776290893910148058147353983898749011679176479416889510526578",
+            "yes_probability": 0.28,
+            "yes_best_bid": 0.26,
+            "yes_best_ask": 0.28,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "79085628201281122481883578594811594592260824252373059797032000397035131450743",
+            "no_probability": 0.74,
+            "no_best_bid": 0.72,
+            "no_best_ask": 0.74,
+            "no_spread": 0.020000000000000018,
+            "volume": 138762.14193652017,
+            "liquidity": 212742.37000000002,
+            "neg_risk": false,
+            "end_date": "2026-04-30T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "IRGC's statement about resistance security belt indicates closure potential (1 hop).",
+            "event_id": "276527",
+            "event_title": "Bab el-Mandeb Strait effectively closed by...?",
+            "event_slug": "bab-el-mandeb-strait-effectively-closed-by",
+            "detected_yes_price": 0.27,
+            "detected_no_price": 0.75,
+            "detected_at": 1780943505088,
+            "highest_price_change": 0.4444444444444444,
+            "highest_yes_price": 0.39,
+            "highest_no_price": 0.76,
+            "first_moved_at": 1780943513203,
+            "moved_side": "yes",
+            "peaked_at": 1780967438571
+          },
+          {
+            "id": "2333553",
+            "slug": "iran-x-oman-strait-of-hormuz-agreement-by-june-15",
+            "condition_id": "0x27a7a60a3605b0cc0f41f0f243e6be5f2a6144b0adf59fad803fbc1ca6eeb928",
+            "title": "",
+            "question": "Iran x Oman Strait of Hormuz agreement by June 15?",
+            "description": "This market will resolve to \"Yes\" if an official agreement relating to vessel traffic, transit management, tolling, or fee collection in the Strait of Hormuz, defined as a publicly announced mutual agreement, is reached between Iran and Oman between market creation and the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nIf such an agreement is officially reached before the resolution date, this market will resolve to \"Yes\", regardless of if/when the agreement goes into effect.\n\nStatements describing talks, proposals, negotiations, or non-finalized frameworks that do not constitute a finalized agreement will not qualify.\n\nAn agreement will qualify as a mutual agreement if it is confirmed as a mutual agreement by an overwhelming consensus of credible reporting, even if the agreement isn\u2019t formally announced by both governments.\n\nAgreements that include Iran and Oman as parties, even if they also involve other countries, will qualify for resolution.\n\nThe primary resolution source for this market will be official information from the governments of Iran and Oman; however, an overwhelming consensus of credible reporting confirming an agreement has been reached will also qualify.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/iran-x-oman-strait-of-hormuz-agreement-by-june-15-NNYedGgPdibA.png",
+            "yes_token_id": "16297029915781361588582509927293716733116928766799007877035293427403019399095",
+            "yes_probability": 0.089,
+            "yes_best_bid": 0.051,
+            "yes_best_ask": 0.089,
+            "yes_spread": 0.038,
+            "no_token_id": "4624960395703845361848257745523496747382643049693080787086025806109998670889",
+            "no_probability": 0.949,
+            "no_best_bid": 0.911,
+            "no_best_ask": 0.949,
+            "no_spread": 0.03799999999999992,
+            "volume": 16282.109662999957,
+            "liquidity": 259400.15000000002,
+            "neg_risk": false,
+            "end_date": "2026-06-15T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "IRGC's vow indicates potential for agreements affecting Strait of Hormuz (1 hop).",
+            "event_id": "514376",
+            "event_title": "Iran x Oman Strait of Hormuz agreement by June 15?",
+            "event_slug": "iran-x-oman-strait-of-hormuz-agreement-by-june-15",
+            "detected_yes_price": 0.079,
+            "detected_no_price": 0.962,
+            "detected_at": 1780943505088,
+            "highest_price_change": 0.12658227848101258,
+            "highest_yes_price": 0.089,
+            "highest_no_price": 0.962,
+            "first_moved_at": 1780961796023,
+            "moved_side": "yes",
+            "peaked_at": 1780961796023
+          },
+          {
+            "id": "1971905",
+            "slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
+            "condition_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+            "title": "",
+            "question": "Strait of Hormuz traffic returns to normal by end of June?",
+            "description": "This market will resolve to \u201cYes\u201d if IMF Portwatch publishes a 7-day moving average of transit calls (\u201cArrivals of Ships\u201d) for the Strait of Hormuz equal to or above 60 for any date between market creation and June 30, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nDaily transit calls include container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nThis market will resolve as soon as IMF Portwatch publishes a 7-day moving average of transit calls equal to or above the specified level, or once data has been published for the final date in the specified period and no such value has been published. If no data has been published for the final date of the specified period within 14 calendar days (ET) after the end of that period, this market will resolve based on data published up to that point.\n\nRevisions to previously published data points made within this market\u2019s timeframe will be considered. However, they will not disqualify a previously published data point from qualifying. Revisions to previously published data points after data is published for June 30, 2026, however, will not be considered.\n\nIn case of obvious data integrity issues (i.e., erroneous data), the market may remain open until the end of the third calendar day (ET) after the date on which such data is first released to allow for corrections. Data integrity issues refer only to clerical or other similar errors in the underlying data, and do not include cases where IMF Portwatch differs from alternative sources.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+            "yes_token_id": "46130022848920611732202507184264902690726361824951579816156441452797397798181",
+            "yes_probability": 0.1,
+            "yes_best_bid": 0.09,
+            "yes_best_ask": 0.1,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "77669758102929718590160851391714019116736856202333459817343190730743895177270",
+            "no_probability": 0.91,
+            "no_best_bid": 0.9,
+            "no_best_ask": 0.91,
+            "no_spread": 0.010000000000000009,
+            "volume": 15516170.224081047,
+            "liquidity": 4172256.62,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "economy",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "IRGC's statement about security belt suggests traffic disruptions (1 hop).",
+            "event_id": "375597",
+            "event_title": "Strait of Hormuz traffic returns to normal by end of June?",
+            "event_slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
+            "detected_yes_price": 0.11,
+            "detected_no_price": 0.9,
+            "detected_at": 1780943505088,
+            "highest_price_change": 0.01111111111111112,
+            "highest_yes_price": 0.11,
+            "highest_no_price": 0.91,
+            "first_moved_at": 1780944006734,
+            "moved_side": "no",
+            "peaked_at": 1780944006734
+          },
+          {
+            "id": "2354976",
+            "slug": "strait-of-hormuz-traffic-returns-to-normal-by-june-15",
+            "condition_id": "0x46666ceb4c63814f38a8c83784ae10e1c2e1ef52e2db648372bd86dea521cf64",
+            "title": "",
+            "question": "Strait of Hormuz traffic returns to normal by June 15?",
+            "description": "This market will resolve to \u201cYes\u201d if IMF Portwatch publishes a 7-day moving average of transit calls (\u201cArrivals of Ships\u201d) for the Strait of Hormuz equal to or above 60 for any date between market creation and June 15, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nDaily transit calls include container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nThis market will resolve as soon as IMF Portwatch publishes a 7-day moving average of transit calls equal to or above the specified level, or once data has been published for the final date in the specified period and no such value has been published. If no data has been published for the final date of the specified period within 14 calendar days (ET) after the end of that period, this market will resolve based on data published up to that point.\n\nRevisions to previously published data points made within this market\u2019s timeframe will be considered. However, they will not disqualify a previously published data point from qualifying. Revisions to previously published data points after data is published for June 15, 2026, however, will not be considered.\n\nIn case of obvious data integrity issues (i.e., erroneous data), the market may remain open until the end of the third calendar day (ET) after the date on which such data is first released to allow for corrections. Data integrity issues refer only to clerical or other similar errors in the underlying data, and do not include cases where IMF Portwatch differs from alternative sources.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+            "yes_token_id": "64982649349833799070726872985810077351223251203012444487225704868921642973394",
+            "yes_probability": 0.012,
+            "yes_best_bid": 0.011,
+            "yes_best_ask": 0.012,
+            "yes_spread": 0.0010000000000000009,
+            "no_token_id": "65144178907793669371949391247656095165122348712082207938504771331186086077713",
+            "no_probability": 0.989,
+            "no_best_bid": 0.988,
+            "no_best_ask": 0.989,
+            "no_spread": 0.0010000000000000009,
+            "volume": 4901781.552910381,
+            "liquidity": 2466718.7099999995,
+            "neg_risk": false,
+            "end_date": "2026-06-15T00:00:00Z",
+            "categories": [
+              "economy",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "IRGC's vow indicates potential disruptions to traffic (1 hop).",
+            "event_id": "524097",
+            "event_title": "Strait of Hormuz traffic returns to normal by June 15?",
+            "event_slug": "strait-of-hormuz-traffic-returns-to-normal-by-june-15",
+            "detected_yes_price": 0.013,
+            "detected_no_price": 0.989,
+            "detected_at": 1780943505088,
+            "highest_price_change": 0.15384615384615385,
+            "highest_yes_price": 0.015,
+            "highest_no_price": 0.989,
+            "first_moved_at": 1780943825836,
+            "moved_side": "yes",
+            "peaked_at": 1780943825836
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 8,
+            "price": 0
+          }
+        ],
+        "topics": [
+          "iran-regime",
+          "ai-tech"
+        ],
+        "categories": [
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "2170255",
+        "slug": "bab-el-mandeb-strait-effectively-closed-by",
+        "condition_id": "0x95fc6a4ed7f6856d26aa7f21b9f902d05c9cf76b616fd3463de4d147f7a9126b",
+        "title": "September 30",
+        "question": "Bab el-Mandeb Strait effectively closed by September 30?",
+        "description": "This market will resolve to \u201cYes\u201d if IMF PortWatch publishes a 7-day moving average of transit calls (\u201cArrivals of Ships\u201d) for the Bab el-Mandeb Strait less than or equal to 10 for any date between market creation and the listed date. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve as soon as IMF PortWatch publishes a 7-day moving average of transit calls for the Bab el-Mandeb Strait equal to or below 10, or once data has been published for the listed date and no such value has been published.\n\nIf no data has been published for the listed date within 14 calendar days (ET) after that date, this market will resolve based on the data published up to that point.\n\nRevisions to previously published data points made before data has been published for the listed date will be considered; however, they will not disqualify a previously published data point from qualifying. Revisions made after data has been published for the listed date will not be considered.\n\nThe resolution source for this market will be IMF PortWatch, specifically the \u201cArrivals of Ships\u201d data published for the Bab el-Mandeb Strait at https://portwatch.imf.org/pages/6b1814d64903461b98144a6cc25eb79c.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bab-el-mandeb-strait-effectively-closed-by-end-of-april-Y8A7Ig2p8X2K.jpg",
+        "yes_token_id": "79492971912420892776290893910148058147353983898749011679176479416889510526578",
+        "yes_probability": 0.28,
+        "yes_best_bid": 0.26,
+        "yes_best_ask": 0.28,
+        "yes_spread": 0.020000000000000018,
+        "no_token_id": "79085628201281122481883578594811594592260824252373059797032000397035131450743",
+        "no_probability": 0.74,
+        "no_best_bid": 0.72,
+        "no_best_ask": 0.74,
+        "no_spread": 0.020000000000000018,
+        "volume": 138762.14193652017,
+        "liquidity": 212742.37000000002,
+        "neg_risk": false,
+        "end_date": "2026-04-30T00:00:00Z",
+        "categories": [
+          "geopolitics",
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "IRGC's statement about resistance security belt indicates closure potential (1 hop).",
+        "event_id": "276527",
+        "event_title": "Bab el-Mandeb Strait effectively closed by...?",
+        "event_slug": "bab-el-mandeb-strait-effectively-closed-by",
+        "detected_yes_price": 0.27,
+        "detected_no_price": 0.75,
+        "detected_at": 1780943505088,
+        "highest_price_change": 0.4444444444444444,
+        "highest_yes_price": 0.39,
+        "highest_no_price": 0.76,
+        "first_moved_at": 1780943513203,
+        "moved_side": "yes",
+        "peaked_at": 1780967438571
+      },
+      "_scraped_at": "2026-06-09T12:20:31.040342+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 5,
+      "feed_item": {
+        "id": "cce320d9-7c81-4677-baf4-99518f845b58",
+        "timestamp": 1780939253723,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "cce320d9-7c81-4677-baf4-99518f845b58",
+          "text": "Lebanese President Aoun: For the time being. We are negotiating a non-aggression agreement with Israel - CNN|FJ",
+          "channel": "FinancialJuice",
+          "timestamp": 1780939253723,
+          "link": "https://t.me/FinancialJuice"
+        },
+        "osint": false,
+        "country": "LB",
+        "countries": [
+          "LB",
+          "IL"
+        ],
+        "related_markets": [
+          {
+            "id": "2467323",
+            "slug": "israel-x-lebanon-diplomatic-meeting-byptptpt-20260607225939974",
+            "condition_id": "0x48632f7287c4f0caa3b278b241088b9b7abd49eeb153c7e503a86836bf7ecb20",
+            "title": "June 22",
+            "question": "Will Israel and Lebanon hold a diplomatic meeting by June 22, 2026?",
+            "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Israel and Lebanon by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Israel-Lebanon relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of the Israel and Lebanon, and a consensus of credible reporting.",
+            "image": "",
+            "yes_token_id": "106202184825209418422622186181918005187313940917147816450488203839564306168227",
+            "yes_probability": 0.73,
+            "yes_best_bid": 0.61,
+            "yes_best_ask": 0.73,
+            "yes_spread": 0.12,
+            "no_token_id": "72400907374173528465025441214849227016301699622254893837937150322209532171888",
+            "no_probability": 0.39,
+            "no_best_bid": 0.27,
+            "no_best_ask": 0.39,
+            "no_spread": 0.12,
+            "volume": 2475.943114999994,
+            "liquidity": 95741.94999999997,
+            "neg_risk": false,
+            "end_date": "2026-06-23T03:59:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Negotiation news directly relates to potential diplomatic meeting (1 hop).",
+            "event_id": "571186",
+            "event_title": "Israel x Lebanon diplomatic meeting by...?",
+            "event_slug": "israel-x-lebanon-diplomatic-meeting-byptptpt-20260607225939974",
+            "detected_yes_price": 0.71,
+            "detected_no_price": 0.38,
+            "detected_at": 1780939347723,
+            "highest_price_change": 0.2535211267605635,
+            "highest_yes_price": 0.89,
+            "highest_no_price": 0.41,
+            "first_moved_at": 1780939366703,
+            "moved_side": "yes",
+            "peaked_at": 1780963116529
+          },
+          {
+            "id": "665414",
+            "slug": "israel-and-lebanon-normalize-relations-before-2027",
+            "condition_id": "0xfb013a43c6ea97f5af4515baefbefdc2a9cfeca1d764aa9f3ce1f6bd93002dfe",
+            "title": "",
+            "question": "Israel and Lebanon normalize relations before 2027?",
+            "description": "This market will resolve to \"Yes\" if both Israel and Lebanon officially announce the establishment of diplomatic relations by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nThe primary resolution source for this market will be official information from Israel and the Lebanon, however a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-and-lebanon-normalize-relations-in-2025-FaaHLeMMFHjV.jpg",
+            "yes_token_id": "101831681716333180244111475646971936256198362513844467846876475971510978571235",
+            "yes_probability": 0.17,
+            "yes_best_bid": 0.15,
+            "yes_best_ask": 0.17,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "52144999543229413513861544800124735490771359660172681885251993902562842903350",
+            "no_probability": 0.85,
+            "no_best_bid": 0.83,
+            "no_best_ask": 0.85,
+            "no_spread": 0.020000000000000018,
+            "volume": 174705.10194300013,
+            "liquidity": 257747.88000000003,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "world",
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Negotiation news directly relates to potential normalization of relations (1 hop).",
+            "event_id": "73147",
+            "event_title": "Israel and Lebanon normalize relations before 2027?",
+            "event_slug": "israel-and-lebanon-normalize-relations-before-2027",
+            "detected_yes_price": 0.18,
+            "detected_no_price": 0.85,
+            "detected_at": 1780939347723,
+            "highest_price_change": 0.011764705882352951,
+            "highest_yes_price": 0.18,
+            "highest_no_price": 0.86,
+            "first_moved_at": 1780982589144,
+            "moved_side": "no",
+            "peaked_at": 1780982589144
+          },
+          {
+            "id": "2467324",
+            "slug": "israel-x-lebanon-diplomatic-meeting-byptptpt-20260607225939974",
+            "condition_id": "0x44cecbb54b9eae2fa8848d02c74d616dffaaa42eab25f3717b651f090f233368",
+            "title": "June 30",
+            "question": "Will Israel and Lebanon hold a diplomatic meeting by June 30, 2026?",
+            "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Israel and Lebanon by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Israel-Lebanon relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of the Israel and Lebanon, and a consensus of credible reporting.",
+            "image": "",
+            "yes_token_id": "42637615983296583038070094699232095733239284012926506369150234509353142279529",
+            "yes_probability": 0.93,
+            "yes_best_bid": 0.91,
+            "yes_best_ask": 0.93,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "8558744584860859928740654855587415388562478323339710356543267407144854532919",
+            "no_probability": 0.09,
+            "no_best_bid": 0.07,
+            "no_best_ask": 0.09,
+            "no_spread": 0.01999999999999999,
+            "volume": 2741.97744123,
+            "liquidity": 149934.78,
+            "neg_risk": false,
+            "end_date": "2026-07-01T03:59:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Negotiation news directly relates to potential diplomatic meeting (1 hop).",
+            "event_id": "571186",
+            "event_title": "Israel x Lebanon diplomatic meeting by...?",
+            "event_slug": "israel-x-lebanon-diplomatic-meeting-byptptpt-20260607225939974",
+            "detected_yes_price": 0.9,
+            "detected_no_price": 0.17000000000000004,
+            "detected_at": 1780939347723,
+            "highest_price_change": 0.2941176470588232,
+            "highest_yes_price": 0.97,
+            "highest_no_price": 0.22,
+            "first_moved_at": 1780939383062,
+            "moved_side": "no",
+            "peaked_at": 1780961951841
+          }
+        ],
+        "topics": null,
+        "categories": [
+          "politics"
+        ]
+      },
+      "related_market": {
+        "id": "2467323",
+        "slug": "israel-x-lebanon-diplomatic-meeting-byptptpt-20260607225939974",
+        "condition_id": "0x48632f7287c4f0caa3b278b241088b9b7abd49eeb153c7e503a86836bf7ecb20",
+        "title": "June 22",
+        "question": "Will Israel and Lebanon hold a diplomatic meeting by June 22, 2026?",
+        "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Israel and Lebanon by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Israel-Lebanon relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of the Israel and Lebanon, and a consensus of credible reporting.",
+        "image": "",
+        "yes_token_id": "106202184825209418422622186181918005187313940917147816450488203839564306168227",
+        "yes_probability": 0.73,
+        "yes_best_bid": 0.61,
+        "yes_best_ask": 0.73,
+        "yes_spread": 0.12,
+        "no_token_id": "72400907374173528465025441214849227016301699622254893837937150322209532171888",
+        "no_probability": 0.39,
+        "no_best_bid": 0.27,
+        "no_best_ask": 0.39,
+        "no_spread": 0.12,
+        "volume": 2475.943114999994,
+        "liquidity": 95741.94999999997,
+        "neg_risk": false,
+        "end_date": "2026-06-23T03:59:00Z",
+        "categories": [
+          "geopolitics",
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Negotiation news directly relates to potential diplomatic meeting (1 hop).",
+        "event_id": "571186",
+        "event_title": "Israel x Lebanon diplomatic meeting by...?",
+        "event_slug": "israel-x-lebanon-diplomatic-meeting-byptptpt-20260607225939974",
+        "detected_yes_price": 0.71,
+        "detected_no_price": 0.38,
+        "detected_at": 1780939347723,
+        "highest_price_change": 0.2535211267605635,
+        "highest_yes_price": 0.89,
+        "highest_no_price": 0.41,
+        "first_moved_at": 1780939366703,
+        "moved_side": "yes",
+        "peaked_at": 1780963116529
+      },
+      "_scraped_at": "2026-06-09T12:20:31.040342+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 6,
+      "feed_item": {
+        "id": "db2a170e-2336-41c7-b3ca-3ed9359c21a0",
+        "timestamp": 1780992248370,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "db2a170e-2336-41c7-b3ca-3ed9359c21a0",
+          "text": "Changes on the map over the past 24 hours: \u2013 expansion of the control zone in Konstantinovka \u2013 liberation of the settlement of Khimik (Molocharka) \u2013 advancement in the area of \u200b\u200bthe settlement of Sopych (inserts: @divgen)",
+          "channel": "Colonelcassad",
+          "timestamp": 1780992248370,
+          "link": "https://t.me/boris_rozhin"
+        },
+        "osint": false,
+        "related_markets": [
+          {
+            "id": "2243896",
+            "slug": "russia-x-ukraine-ceasefire-agreement-by",
+            "condition_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+            "title": "October 31",
+            "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if there is a ceasefire agreement between Russia and Ukraine by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA ceasefire agreement refers to any mutually-agreed suspension of direct military engagement between Russia and Ukraine, which is either officially announced by both countries or confirmed by a consensus of credible reporting to have been mutually agreed by both countries.\n\nA broader peace deal, normalization agreement, political framework, truce, or humanitarian pause will qualify if it includes a mutually agreed suspension of direct military engagement, to be effective on a specified date. Agreements that outline future negotiations or de-escalation measures without an explicit, dated commitment to stop fighting will not qualify.\n\nAny form of informal understanding, backchannel communication, de-escalation without an announced agreement, or unilateral pause in hostilities will not be considered a ceasefire agreement.\n\nOnly agreements which constitute a general pause in the conflict will qualify. Agreements which only apply to specific conflict categories (e.g. restrictions on certain target categories or certain locations) will not qualify.\n\nIf a qualifying agreement is officially reached before this market\u2019s end date, this market will resolve to \u201cYes,\u201d regardless of whether the ceasefire agreement officially takes effect after that date.\n\nThe primary resolution sources for this market will be official information from the governments of Russia and Ukraine and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-ceasefire-in-2025-w2voYOygx80B.jpg",
+            "yes_token_id": "10861802947610899379330568332287100318869035186187733531205554992019689450318",
+            "yes_probability": 0.28,
+            "yes_best_bid": 0.27,
+            "yes_best_ask": 0.28,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "39319769648132414476170103739900770633009012502056309868976886150530270219889",
+            "no_probability": 0.73,
+            "no_best_bid": 0.72,
+            "no_best_ask": 0.73,
+            "no_spread": 0.010000000000000009,
+            "volume": 206675.56328420975,
+            "liquidity": 1380715.1099999996,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Advancements in control zones can impact ceasefire negotiations.",
+            "event_id": "478472",
+            "event_title": "Russia x Ukraine ceasefire agreement by...?",
+            "event_slug": "russia-x-ukraine-ceasefire-agreement-by",
+            "detected_yes_price": 0.27,
+            "detected_no_price": 0.74,
+            "detected_at": 1780992363906,
+            "highest_price_change": 0.03703703703703707,
+            "highest_yes_price": 0.28,
+            "highest_no_price": 0.74,
+            "first_moved_at": 1781004744837,
+            "moved_side": "yes",
+            "peaked_at": 1781004744837
+          },
+          {
+            "id": "2264328",
+            "slug": "russia-x-ukraine-ceasefire-by",
+            "condition_id": "0x84c625fdccf5c5246a15e476361e4563033906ee225800e1136c0d737596a72f",
+            "title": "December 31",
+            "question": "Russia x Ukraine ceasefire by December 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if a ceasefire between Russia and Ukraine goes into effect by 11:59 PM Eastern European Time (EET) on the specified date and remains continuously in effect for at least 10 calendar days. Otherwise, this market will resolve to \"No\".\n\nA ceasefire refers to any mutually agreed suspension of direct military engagement between Russia and Ukraine, which is officially announced by both countries or confirmed by a consensus of credible reporting to have been mutually agreed by both countries, and which constitutes a general suspension of direct kinetic military engagement across the primary theater of the overall conflict. A broader peace deal, normalization agreement, political framework, truce, or humanitarian pause (including holiday ceasefires) will count provided they otherwise qualify under this market\u2019s rules. \n\nAny form of informal understanding, backchannel communication, de-escalation without an announced agreement, or unilateral pause in hostilities will not be considered a ceasefire. Agreements which only apply to specific conflict categories (e.g. restrictions on certain target categories or certain locations) will not qualify.\n\nAny calendar day (EET) during which the ceasefire is in effect (including the first day of the ceasefire) will count towards the 10-day total. The required 10 day period will end at 11:59 PM EET on the 10th day (inclusive). If a qualifying ceasefire goes into effect prior to this market\u2019s end date, this market will remain open until the ceasefire is no longer in effect, or until the 10 calendar days have been reached. \n\nA ceasefire is considered no longer in effect when a consensus of credible reporting indicates the general suspension of hostilities has substantively ended across the primary theater. Temporary or technical lapses or expiration of a formal ceasefire term, isolated incidents, localized violations, or accusations alone will not invalidate the ceasefire provided the general suspension of hostilities across the primary theater continues. Where official government statements conflict with a consensus of credible field reporting, the reporting will take precedence over the government statements. \n\nThe resolution source for this market will be a consensus of credible sources.\n\nExamples of qualifying Ceasefires:\n\nApril 8, 2026 US\u2013Iran ceasefire: The United States and Iran publicly announced and implemented a mutually agreed ceasefire framework intended to broadly halt direct military hostilities between the two countries. Despite subsequent maritime confrontations, alleged violations, isolated retaliatory strikes, and disputes regarding compliance, the broader ceasefire framework continued to function and widescale fighting across the primary theater did not resume.\n\nNovember 27, 2024 Israel\u2013Hezbollah ceasefire: Israel and Hezbollah implemented a broadly operative ceasefire framework brokered through international mediators that substantially reduced hostilities across southern Lebanon and northern Israel, including the effective halt of Israel\u2019s major ground offensive into Lebanon and a significant reduction in Hezbollah rocket fire. Although the ceasefire was not formally announced through a single joint declaration by both parties and public statements differed in framing and characterization, a consensus of credible reporting confirmed the arrangement had been mutually agreed and implemented in practice. Despite continued isolated strikes, alleged violations, and disputes regarding compliance, credible reporting broadly treated the ceasefire as remaining operational and widescale fighting across the primary theater of the conflict did not resume.\n\nExamples of non qualifying Ceasefires:\n\nNovember 24, 2023 Israel\u2013Hamas humanitarian pause: Although it was a mutually agreed and publicly announced broad suspension of hostilities across Gaza, the ceasefire framework remained in effect for only approximately 7 days before wide-scale fighting resumed, failing the required 10-calendar-day duration requirement. Ceasefire violations prior to November 30, would not have invalidated the ceasefire. \n\nJuly 22, 2022 Black Sea Grain Initiative: Although Russia and Ukraine entered into internationally brokered agreements governing grain exports and reducing risks to commercial shipping in the Black Sea, the arrangement did not constitute a general suspension of direct military engagement across the primary theater of the war. Hostilities continued across Ukraine throughout the duration of the agreement and the arrangement applied only to specific categories of activity and geographic areas.\n\nMay 2023 Sudan ceasefires (SAF\u2013RSF): Although the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) publicly agreed to multiple internationally brokered ceasefires, a consensus of credible reporting indicated that the general suspension of hostilities across the primary theater never substantively took effect and large-scale fighting broadly continued throughout the ceasefire periods. While some temporary reductions in violence and localized humanitarian access reportedly occurred in certain areas, artillery fire, airstrikes, urban combat, troop movements, and offensive operations continued across major parts of Sudan almost immediately after implementation. Credible reporting broadly treated the ceasefires as having failed or collapsed in practice despite technically remaining in force on paper.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-ceasefire-in-2025-w2voYOygx80B.jpg",
+            "yes_token_id": "51308444364217538450493615474295421156909090806486317984535574801660314569304",
+            "yes_probability": 0.35,
+            "yes_best_bid": 0.34,
+            "yes_best_ask": 0.35,
+            "yes_spread": 0.009999999999999953,
+            "no_token_id": "74076568846866714142503847026760702713555643778038790220454009063912340064073",
+            "no_probability": 0.66,
+            "no_best_bid": 0.65,
+            "no_best_ask": 0.66,
+            "no_spread": 0.010000000000000009,
+            "volume": 68515.85848899995,
+            "liquidity": 3121715.1,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Advancements in control zones can impact ceasefire negotiations.",
+            "event_id": "486199",
+            "event_title": "Russia x Ukraine Ceasefire by...?",
+            "event_slug": "russia-x-ukraine-ceasefire-by",
+            "detected_yes_price": 0.35,
+            "detected_no_price": 0.6599999999999999,
+            "detected_at": 1780992363906,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.35,
+            "highest_no_price": 0.6599999999999999
+          },
+          {
+            "id": "2475215",
+            "slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260609011544748",
+            "condition_id": "0xad645ed3504219e22ae4bff2437f21b080e9a750f7e63340f5adf41468fabee7",
+            "title": "September 30",
+            "question": "Russia x Ukraine diplomatic meeting by September 30, 2026?",
+            "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Russia and Ukraine by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Russia-Ukraine relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of Russia and Ukraine, and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-diplomatic-meeting-by-2anNp08yc15i.jpg",
+            "yes_token_id": "50271421757199937538237899152775713043411013490136431732092259967694682254189",
+            "yes_probability": 0.69,
+            "yes_best_bid": 0.6,
+            "yes_best_ask": 0.69,
+            "yes_spread": 0.08999999999999997,
+            "no_token_id": "115211654555767970020385598089183554054439895133312311670256873590407642239103",
+            "no_probability": 0.4,
+            "no_best_bid": 0.31,
+            "no_best_ask": 0.4,
+            "no_spread": 0.09000000000000002,
+            "volume": 0,
+            "liquidity": 58007.979999999996,
+            "neg_risk": false,
+            "end_date": "2026-09-30T19:59:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Advancements in control zones can impact diplomatic efforts.",
+            "event_id": "574643",
+            "event_title": "Russia x Ukraine any diplomatic meeting by...?",
+            "event_slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260609011544748",
+            "detected_yes_price": 0.83,
+            "detected_no_price": 0.74,
+            "detected_at": 1780992363906,
+            "highest_price_change": 0.16867469879518074,
+            "highest_yes_price": 0.97,
+            "highest_no_price": 0.74,
+            "first_moved_at": 1780992637411,
+            "moved_side": "yes",
+            "peaked_at": 1780995292703
+          },
+          {
+            "id": "2264326",
+            "slug": "russia-x-ukraine-ceasefire-by",
+            "condition_id": "0x6ecd13f937019c63bdc10848a4ee1e048ab6a84b6d0b20b77f122ce8b5676e8e",
+            "title": "June 30",
+            "question": "Russia x Ukraine ceasefire by June 30, 2026?",
+            "description": "This market will resolve to \"Yes\" if a ceasefire between Russia and Ukraine goes into effect by 11:59 PM Eastern European Time (EET) on the specified date and remains continuously in effect for at least 10 calendar days. Otherwise, this market will resolve to \"No\".\n\nA ceasefire refers to any mutually agreed suspension of direct military engagement between Russia and Ukraine, which is officially announced by both countries or confirmed by a consensus of credible reporting to have been mutually agreed by both countries, and which constitutes a general suspension of direct kinetic military engagement across the primary theater of the overall conflict. A broader peace deal, normalization agreement, political framework, truce, or humanitarian pause (including holiday ceasefires) will count provided they otherwise qualify under this market\u2019s rules. \n\nAny form of informal understanding, backchannel communication, de-escalation without an announced agreement, or unilateral pause in hostilities will not be considered a ceasefire. Agreements which only apply to specific conflict categories (e.g. restrictions on certain target categories or certain locations) will not qualify.\n\nAny calendar day (EET) during which the ceasefire is in effect (including the first day of the ceasefire) will count towards the 10-day total. The required 10 day period will end at 11:59 PM EET on the 10th day (inclusive). If a qualifying ceasefire goes into effect prior to this market\u2019s end date, this market will remain open until the ceasefire is no longer in effect, or until the 10 calendar days have been reached. \n\nA ceasefire is considered no longer in effect when a consensus of credible reporting indicates the general suspension of hostilities has substantively ended across the primary theater. Temporary or technical lapses or expiration of a formal ceasefire term, isolated incidents, localized violations, or accusations alone will not invalidate the ceasefire provided the general suspension of hostilities across the primary theater continues. Where official government statements conflict with a consensus of credible field reporting, the reporting will take precedence over the government statements. \n\nThe resolution source for this market will be a consensus of credible sources.\n\nExamples of qualifying Ceasefires:\n\nApril 8, 2026 US\u2013Iran ceasefire: The United States and Iran publicly announced and implemented a mutually agreed ceasefire framework intended to broadly halt direct military hostilities between the two countries. Despite subsequent maritime confrontations, alleged violations, isolated retaliatory strikes, and disputes regarding compliance, the broader ceasefire framework continued to function and widescale fighting across the primary theater did not resume.\n\nNovember 27, 2024 Israel\u2013Hezbollah ceasefire: Israel and Hezbollah implemented a broadly operative ceasefire framework brokered through international mediators that substantially reduced hostilities across southern Lebanon and northern Israel, including the effective halt of Israel\u2019s major ground offensive into Lebanon and a significant reduction in Hezbollah rocket fire. Although the ceasefire was not formally announced through a single joint declaration by both parties and public statements differed in framing and characterization, a consensus of credible reporting confirmed the arrangement had been mutually agreed and implemented in practice. Despite continued isolated strikes, alleged violations, and disputes regarding compliance, credible reporting broadly treated the ceasefire as remaining operational and widescale fighting across the primary theater of the conflict did not resume.\n\nExamples of non qualifying Ceasefires:\n\nNovember 24, 2023 Israel\u2013Hamas humanitarian pause: Although it was a mutually agreed and publicly announced broad suspension of hostilities across Gaza, the ceasefire framework remained in effect for only approximately 7 days before wide-scale fighting resumed, failing the required 10-calendar-day duration requirement. Ceasefire violations prior to November 30, would not have invalidated the ceasefire. \n\nJuly 22, 2022 Black Sea Grain Initiative: Although Russia and Ukraine entered into internationally brokered agreements governing grain exports and reducing risks to commercial shipping in the Black Sea, the arrangement did not constitute a general suspension of direct military engagement across the primary theater of the war. Hostilities continued across Ukraine throughout the duration of the agreement and the arrangement applied only to specific categories of activity and geographic areas.\n\nMay 2023 Sudan ceasefires (SAF\u2013RSF): Although the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) publicly agreed to multiple internationally brokered ceasefires, a consensus of credible reporting indicated that the general suspension of hostilities across the primary theater never substantively took effect and large-scale fighting broadly continued throughout the ceasefire periods. While some temporary reductions in violence and localized humanitarian access reportedly occurred in certain areas, artillery fire, airstrikes, urban combat, troop movements, and offensive operations continued across major parts of Sudan almost immediately after implementation. Credible reporting broadly treated the ceasefires as having failed or collapsed in practice despite technically remaining in force on paper.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-ceasefire-in-2025-w2voYOygx80B.jpg",
+            "yes_token_id": "57013249224913348641563264544386369357316805998286237999921820101310594718300",
+            "yes_probability": 0.028,
+            "yes_best_bid": 0.025,
+            "yes_best_ask": 0.028,
+            "yes_spread": 0.002999999999999999,
+            "no_token_id": "109183395341770904037431936685441207007840002049576949444376721495603285779841",
+            "no_probability": 0.975,
+            "no_best_bid": 0.972,
+            "no_best_ask": 0.975,
+            "no_spread": 0.0030000000000000027,
+            "volume": 142355.02361100013,
+            "liquidity": 910316.6799999998,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Changes in control zones can influence ceasefire timelines.",
+            "event_id": "486199",
+            "event_title": "Russia x Ukraine Ceasefire by...?",
+            "event_slug": "russia-x-ukraine-ceasefire-by",
+            "detected_yes_price": 0.033,
+            "detected_no_price": 0.975,
+            "detected_at": 1780992363906,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.033,
+            "highest_no_price": 0.975
+          },
+          {
+            "id": "694027",
+            "slug": "russia-x-ukraine-peace-parlay",
+            "condition_id": "0x1fb51c9398ae0f164de29cfe3d53f291d4b953145c73a524135b35fb03fa6534",
+            "title": "",
+            "question": "Russia x Ukraine Peace Parlay",
+            "description": "This market will resolve to \u201cYes\u201d if all of the following conditions are met by December 31, 2026, 11:59 PM ET:\n\n- Russia x Ukraine ceasefire\n- Ukraine agrees not to join NATO\n- Ukraine signs peace deal with Russia\n\nOtherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will remain open until it is confirmed that at least one of the above conditions has not been met, or until all of the above conditions have been met within the specified timeframe.\n\nThe full rules for this market can be found here:\nhttps://polymarket-upload.s3.us-east-2.amazonaws.com/Russia+x+Ukraine+2026+Peace+Parlay.pdf",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-peace-parlay-mMBwZ2hA8ndT.jpg",
+            "yes_token_id": "22812895764648101937611607427223609714680609990042020918357037515389986407242",
+            "yes_probability": 0.18,
+            "yes_best_bid": 0.17,
+            "yes_best_ask": 0.18,
+            "yes_spread": 0.009999999999999981,
+            "no_token_id": "51164266914155164078894125458599944121164000045642724059217688177813405604759",
+            "no_probability": 0.83,
+            "no_best_bid": 0.82,
+            "no_best_ask": 0.83,
+            "no_spread": 0.010000000000000009,
+            "volume": 504508.394388849,
+            "liquidity": 87980.07999999999,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Advancements in control zones can impact peace talks.",
+            "event_id": "86472",
+            "event_title": "Russia x Ukraine Peace Parlay",
+            "event_slug": "russia-x-ukraine-peace-parlay",
+            "detected_yes_price": 0.18,
+            "detected_no_price": 0.83,
+            "detected_at": 1780992363906,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.18,
+            "highest_no_price": 0.83
+          }
+        ],
+        "topics": null,
+        "categories": null
+      },
+      "related_market": {
+        "id": "2475215",
+        "slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260609011544748",
+        "condition_id": "0xad645ed3504219e22ae4bff2437f21b080e9a750f7e63340f5adf41468fabee7",
+        "title": "September 30",
+        "question": "Russia x Ukraine diplomatic meeting by September 30, 2026?",
+        "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Russia and Ukraine by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Russia-Ukraine relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of Russia and Ukraine, and a consensus of credible reporting.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-diplomatic-meeting-by-2anNp08yc15i.jpg",
+        "yes_token_id": "50271421757199937538237899152775713043411013490136431732092259967694682254189",
+        "yes_probability": 0.69,
+        "yes_best_bid": 0.6,
+        "yes_best_ask": 0.69,
+        "yes_spread": 0.08999999999999997,
+        "no_token_id": "115211654555767970020385598089183554054439895133312311670256873590407642239103",
+        "no_probability": 0.4,
+        "no_best_bid": 0.31,
+        "no_best_ask": 0.4,
+        "no_spread": 0.09000000000000002,
+        "volume": 0,
+        "liquidity": 58007.979999999996,
+        "neg_risk": false,
+        "end_date": "2026-09-30T19:59:00Z",
+        "categories": [
+          "geopolitics",
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Advancements in control zones can impact diplomatic efforts.",
+        "event_id": "574643",
+        "event_title": "Russia x Ukraine any diplomatic meeting by...?",
+        "event_slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260609011544748",
+        "detected_yes_price": 0.83,
+        "detected_no_price": 0.74,
+        "detected_at": 1780992363906,
+        "highest_price_change": 0.16867469879518074,
+        "highest_yes_price": 0.97,
+        "highest_no_price": 0.74,
+        "first_moved_at": 1780992637411,
+        "moved_side": "yes",
+        "peaked_at": 1780995292703
+      },
+      "_scraped_at": "2026-06-09T12:20:31.040342+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 7,
+      "feed_item": {
+        "id": "c1cc2df3-fc3a-4a46-b049-4139d3ef45b9",
+        "timestamp": 1781001806000,
+        "tweet": {
+          "feed_item_id": "c1cc2df3-fc3a-4a46-b049-4139d3ef45b9",
+          "post_id": "2064297310914281626",
+          "post_type": "tweet",
+          "created_at": 1781001806000,
+          "user": {
+            "uid": "3247652319",
+            "handle": "clashreport",
+            "display_name": "Clash Report",
+            "pfp": "https://pbs.twimg.com/profile_images/1942576646457868288/gOMYVVRf_normal.jpg"
+          },
+          "tags": [
+            "politics"
+          ],
+          "body": "Sudan's Army used Turkish-made Hisar-A air defense systems to intercept UAE-backed RSF kamikaze and strategic drone attack on northwest Omdurman, with missile debris landing after the successful intercepts.",
+          "link": "https://twitter.com/clashreport/status/2064297310914281626",
+          "attachments": [
+            {
+              "kind": "photo",
+              "src": "https://pbs.twimg.com/media/HKXbangW8AAH7kO.jpg"
+            },
+            {
+              "kind": "photo",
+              "src": "https://pbs.twimg.com/media/HKXbanoXMAAgWDA.jpg"
+            },
+            {
+              "kind": "photo",
+              "src": "https://pbs.twimg.com/media/HKXban0WkAAY-qe.jpg"
+            }
+          ]
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "TR",
+        "countries": [
+          "TR",
+          "SD",
+          "AE"
+        ],
+        "related_markets": [
+          {
+            "id": "996811",
+            "slug": "will-the-rsf-capture-khartoum-by-june-30",
+            "condition_id": "0x5ae2789de1987f9725e8a98b0a590cb4e9bf778b5444c9ae7205c2f5a2a4de44",
+            "title": "",
+            "question": "Will the RSF capture Khartoum by June 30?",
+            "description": "This market will resolve to \u201cYes\u201d if the Rapid Support Forces (RSF) capture Khartoum (https://maps.app.goo.gl/7iTPsRRJEJf4Mrjb6) by June 30, 2026, at 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nThe city will be considered captured if the Rapid Support forces have established military control over the \"Khartoum International Airport\" (\u0645\u0637\u0627\u0631 \u0627\u0644\u062e\u0631\u0637\u0648\u0645 \u0627\u0644\u062f\u0648\u0644\u064a: https://maps.app.goo.gl/ZLUq7QjMi9L3CQcV7) by the resolution date. \n\nIf the RSF comes into control of the city as a result of a negotiated settlement, this will qualify for a \u201cYes\u201d resolution. An announcement of a negotiated settlement that grants the RSF de jure control will not qualify. Actual control must be established.\n\nOnce the RSF captures the specified place, any subsequent loss of control will not be considered towards the resolution of this market.\n\nThe primary resolution source for this market will be a consensus of credible reporting, including video and photo evidence that the RSF has captured the specified point.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-the-rsf-capture-kadugli-by-january-31-G3nhn22yafRR.jpg",
+            "yes_token_id": "46359198888085059339386074227770752989088144333736898490719631934988513190818",
+            "yes_probability": 0.013,
+            "yes_best_bid": 0.012,
+            "yes_best_ask": 0.013,
+            "yes_spread": 0.0009999999999999992,
+            "no_token_id": "42588817374350255174819336775326493408529088172554433048302066536138243596805",
+            "no_probability": 0.988,
+            "no_best_bid": 0.987,
+            "no_best_ask": 0.988,
+            "no_spread": 0.0010000000000000009,
+            "volume": 22130.990553,
+            "liquidity": 308296.69,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Ongoing RSF attacks and military responses are direct indicators of conflict dynamics.",
+            "event_id": "118022",
+            "event_title": "Will the RSF capture Khartoum by June 30?",
+            "event_slug": "will-the-rsf-capture-khartoum-by-june-30",
+            "detected_yes_price": 0.013,
+            "detected_no_price": 0.988,
+            "detected_at": 1781001843662,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.013,
+            "highest_no_price": 0.988
+          },
+          {
+            "id": "994858",
+            "slug": "sudan-civil-war-ceasefire-by",
+            "condition_id": "0x919563959223d36141fed20ba61fed8f74269b862ae54d4708604f5cddee222a",
+            "title": "June 30, 2026",
+            "question": "Sudan civil war ceasefire by June 30, 2026?",
+            "description": "This market will resolve to \"Yes\" if there is an official ceasefire agreement, defined as a publicly announced and mutually agreed halt in military engagement, between the Rapid Support Forces (RSF) and the Sudanese Armed Forces (SAF) by the listed date, 11:59 PM ET.\n\nIf the agreement is officially reached before the resolution date, this market will resolve to \"Yes,\" regardless of whether the ceasefire officially starts afterward.\n\nAny form of informal agreement will not be considered an official ceasefire. Humanitarian pauses will not count toward the resolution of this market.\n\nA peace deal or political framework will qualify if it includes a publicly announced and mutually agreed halt in military engagement, effective on a specific date. Frameworks or agreements that outline terms for a future peace but do not include an explicit, dated commitment to stop fighting will not count.\n\nThis market's resolution will be based on official announcements from both the Rapid Support Forces and the Sudanese Armed Forces; however, a wide consensus of credible media reporting stating an official ceasefire agreement between the Rapid Support Forces and the Sudanese Armed Forces has been reached will suffice.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/sudan-civil-war-ceasefire-in-2025-zeC8lKdFgQRs.jpg",
+            "yes_token_id": "68325454616317542253805984439977771318394726076955113866207479614240614371266",
+            "yes_probability": 0.399,
+            "yes_best_bid": 0.342,
+            "yes_best_ask": 0.399,
+            "yes_spread": 0.056999999999999995,
+            "no_token_id": "2433662050647517706323359615496513605357547934153481879606183024436021971628",
+            "no_probability": 0.658,
+            "no_best_bid": 0.601,
+            "no_best_ask": 0.658,
+            "no_spread": 0.05700000000000005,
+            "volume": 37998.900062,
+            "liquidity": 141203.11,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 7,
+            "impact_level": "medium",
+            "impact_reason": "Military engagements and drone interceptions suggest ongoing hostilities, impacting ceasefire chances.",
+            "event_id": "81607",
+            "event_title": "Sudan civil war ceasefire by...?",
+            "event_slug": "sudan-civil-war-ceasefire-by",
+            "detected_yes_price": 0.396,
+            "detected_no_price": 0.659,
+            "detected_at": 1781001843662,
+            "highest_price_change": 0.010101010101010109,
+            "highest_yes_price": 0.4,
+            "highest_no_price": 0.659,
+            "first_moved_at": 1781005208219,
+            "moved_side": "yes",
+            "peaked_at": 1781005208219
+          },
+          {
+            "id": "994859",
+            "slug": "sudan-civil-war-ceasefire-by",
+            "condition_id": "0x2343926c89946f2e3abe1511dd38a026ca9176b96d6554ec6d7ae5b1a59a6ef9",
+            "title": "December 31, 2026",
+            "question": "Sudan civil war ceasefire by December 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if there is an official ceasefire agreement, defined as a publicly announced and mutually agreed halt in military engagement, between the Rapid Support Forces (RSF) and the Sudanese Armed Forces (SAF) by the listed date, 11:59 PM ET.\n\nIf the agreement is officially reached before the resolution date, this market will resolve to \"Yes,\" regardless of whether the ceasefire officially starts afterward.\n\nAny form of informal agreement will not be considered an official ceasefire. Humanitarian pauses will not count toward the resolution of this market.\n\nA peace deal or political framework will qualify if it includes a publicly announced and mutually agreed halt in military engagement, effective on a specific date. Frameworks or agreements that outline terms for a future peace but do not include an explicit, dated commitment to stop fighting will not count.\n\nThis market's resolution will be based on official announcements from both the Rapid Support Forces and the Sudanese Armed Forces; however, a wide consensus of credible media reporting stating an official ceasefire agreement between the Rapid Support Forces and the Sudanese Armed Forces has been reached will suffice.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/sudan-civil-war-ceasefire-in-2025-zeC8lKdFgQRs.jpg",
+            "yes_token_id": "35267836330639620380791405283862384258570141844469135659890650302203293054066",
+            "yes_probability": 0.46,
+            "yes_best_bid": 0.23,
+            "yes_best_ask": 0.46,
+            "yes_spread": 0.23,
+            "no_token_id": "110996367824231948941131279322721898257144590152799824107629407678973835425832",
+            "no_probability": 0.77,
+            "no_best_bid": 0.54,
+            "no_best_ask": 0.77,
+            "no_spread": 0.22999999999999998,
+            "volume": 650.7623199999998,
+            "liquidity": 1691.5300000000002,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 7,
+            "impact_level": "medium",
+            "impact_reason": "Continued military conflict and drone interceptions indicate a lack of progress towards a ceasefire.",
+            "event_id": "81607",
+            "event_title": "Sudan civil war ceasefire by...?",
+            "event_slug": "sudan-civil-war-ceasefire-by",
+            "detected_yes_price": 0.46,
+            "detected_no_price": 0.72,
+            "detected_at": 1781001843662,
+            "highest_price_change": 0.16666666666666666,
+            "highest_yes_price": 0.46,
+            "highest_no_price": 0.84,
+            "first_moved_at": 1781002633834,
+            "moved_side": "no",
+            "peaked_at": 1781004958769
+          }
+        ],
+        "topics": [
+          "ai-tech"
+        ],
+        "categories": [
+          "geopolitics",
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "994859",
+        "slug": "sudan-civil-war-ceasefire-by",
+        "condition_id": "0x2343926c89946f2e3abe1511dd38a026ca9176b96d6554ec6d7ae5b1a59a6ef9",
+        "title": "December 31, 2026",
+        "question": "Sudan civil war ceasefire by December 31, 2026?",
+        "description": "This market will resolve to \"Yes\" if there is an official ceasefire agreement, defined as a publicly announced and mutually agreed halt in military engagement, between the Rapid Support Forces (RSF) and the Sudanese Armed Forces (SAF) by the listed date, 11:59 PM ET.\n\nIf the agreement is officially reached before the resolution date, this market will resolve to \"Yes,\" regardless of whether the ceasefire officially starts afterward.\n\nAny form of informal agreement will not be considered an official ceasefire. Humanitarian pauses will not count toward the resolution of this market.\n\nA peace deal or political framework will qualify if it includes a publicly announced and mutually agreed halt in military engagement, effective on a specific date. Frameworks or agreements that outline terms for a future peace but do not include an explicit, dated commitment to stop fighting will not count.\n\nThis market's resolution will be based on official announcements from both the Rapid Support Forces and the Sudanese Armed Forces; however, a wide consensus of credible media reporting stating an official ceasefire agreement between the Rapid Support Forces and the Sudanese Armed Forces has been reached will suffice.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/sudan-civil-war-ceasefire-in-2025-zeC8lKdFgQRs.jpg",
+        "yes_token_id": "35267836330639620380791405283862384258570141844469135659890650302203293054066",
+        "yes_probability": 0.46,
+        "yes_best_bid": 0.23,
+        "yes_best_ask": 0.46,
+        "yes_spread": 0.23,
+        "no_token_id": "110996367824231948941131279322721898257144590152799824107629407678973835425832",
+        "no_probability": 0.77,
+        "no_best_bid": 0.54,
+        "no_best_ask": 0.77,
+        "no_spread": 0.22999999999999998,
+        "volume": 650.7623199999998,
+        "liquidity": 1691.5300000000002,
+        "neg_risk": false,
+        "end_date": "2026-12-31T00:00:00Z",
+        "categories": [
+          "geopolitics",
+          "politics",
+          "world"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 7,
+        "impact_level": "medium",
+        "impact_reason": "Continued military conflict and drone interceptions indicate a lack of progress towards a ceasefire.",
+        "event_id": "81607",
+        "event_title": "Sudan civil war ceasefire by...?",
+        "event_slug": "sudan-civil-war-ceasefire-by",
+        "detected_yes_price": 0.46,
+        "detected_no_price": 0.72,
+        "detected_at": 1781001843662,
+        "highest_price_change": 0.16666666666666666,
+        "highest_yes_price": 0.46,
+        "highest_no_price": 0.84,
+        "first_moved_at": 1781002633834,
+        "moved_side": "no",
+        "peaked_at": 1781004958769
+      },
+      "_scraped_at": "2026-06-09T12:20:31.040342+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "global_tension_score": 78,
+      "global_tension_level": "HIGH",
+      "countries": [
+        {
+          "country": "IL",
+          "count": 20,
+          "recent": [
+            {
+              "id": "abdc151e-56d8-4b9d-8487-f3545a6956f4",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1780993041000
+            },
+            {
+              "id": "e992c412-e3e9-4459-926c-0d123125ccd8",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780987283352
+            },
+            {
+              "id": "01827250-431a-4087-bccb-26f02304cd55",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1781006602980
+            },
+            {
+              "id": "66ec0bff-97e1-4d17-85fd-3a3398282625",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1781006216754
+            },
+            {
+              "id": "7c0104ee-0744-4362-9c11-02301da60b23",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780988903310
+            },
+            {
+              "id": "cdea5f29-00de-4eaf-9eeb-5610c563873b",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780998011735
+            },
+            {
+              "id": "406ac4c5-35bf-42e0-9a51-6e800ab9cace",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780991159000
+            },
+            {
+              "id": "050d7603-7552-4f08-8f5b-1ac9922ab121",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1781001382993
+            },
+            {
+              "id": "10590fb9-06e4-47f2-bff1-c2381f0be054",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1780990163887
+            },
+            {
+              "id": "14db806a-0506-4a21-9148-5bdaff3f1488",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780997642000
+            },
+            {
+              "id": "6186143c-25b8-489f-b12c-3855f35e3889",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1781000056000
+            },
+            {
+              "id": "7c675f50-ba72-4627-9e28-e73ed5b090d9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1781000963133
+            },
+            {
+              "id": "c4ea172d-948d-40d6-a9ec-66fa0e90ccd6",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1781004458000
+            },
+            {
+              "id": "b2b9369d-d001-41d8-8e6d-e1f04d030ea0",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1781000303149
+            },
+            {
+              "id": "cd7c78fc-2ed3-490a-82be-6c5b096f1469",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780989009948
+            },
+            {
+              "id": "83e5a5c8-3589-4f5d-8b6d-77ad4260088f",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780997636335
+            },
+            {
+              "id": "6a1ae151-3346-4241-bf6e-0902d5e3c4c3",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780999583039
+            },
+            {
+              "id": "8c2b6333-e7b9-4b22-84a3-dc18971ac583",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1781001053002
+            },
+            {
+              "id": "5e385103-a56d-4857-9cb6-8c9d0d6f6d26",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1781006197866
+            },
+            {
+              "id": "c70dd247-eea3-4d44-8aa3-f2a5dbc76f51",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1781002882952
+            }
+          ],
+          "volume": 46197782.25872626,
+          "critical_signals": 2,
+          "high_signals": 16,
+          "low_signals": 2
+        },
+        {
+          "country": "GB",
+          "count": 16,
+          "recent": [
+            {
+              "id": "3337d274-d3c1-4178-bb10-90d9964e318b",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1781003500662
+            },
+            {
+              "id": "3a3a711f-0bdd-43c7-967b-9486e506d0d7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1781003003203
+            },
+            {
+              "id": "3feeb4de-0e42-4bd1-9105-25c2e919e73e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780992323223
+            },
+            {
+              "id": "78dd0108-1ecd-4668-91e5-6941965e84f4",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780988663323
+            },
+            {
+              "id": "732ae0a4-dc78-489d-a6b9-ff8c271a2bfa",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780999163047
+            },
+            {
+              "id": "22d51a65-7aa0-4d9c-b76b-64366caef663",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780990554170
+            },
+            {
+              "id": "050d7603-7552-4f08-8f5b-1ac9922ab121",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1781001382993
+            },
+            {
+              "id": "dba04ca0-17d2-4bbc-b791-7c22d23c0844",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780986023384
+            },
+            {
+              "id": "77ae66ad-7079-4997-89bc-4bd93cfa2d13",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1781005618000
+            },
+            {
+              "id": "60e9fa9e-2737-4411-bac5-7dfb3c316837",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1781005838119
+            },
+            {
+              "id": "081d4f82-c37b-4cb2-b88c-a8cf447e3075",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780990463272
+            },
+            {
+              "id": "d9b2b184-27d8-4965-97da-941ba248da43",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780997423094
+            },
+            {
+              "id": "c7d8168d-471a-42ec-a889-2159ee022446",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780993883183
+            },
+            {
+              "id": "dad3c42a-28d1-4d24-ac19-94f463d6d0d7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780996883351
+            },
+            {
+              "id": "f1ec30bf-7b58-4dbd-b3a0-8cb5fe9e5bb0",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780995803134
+            },
+            {
+              "id": "55510459-f9ac-4946-884d-7fa22a3bb9cb",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1781001787620
+            }
+          ],
+          "volume": 7118700.942626055,
+          "critical_signals": 1,
+          "high_signals": 14,
+          "low_signals": 1
+        },
+        {
+          "country": "UA",
+          "count": 16,
+          "recent": [
+            {
+              "id": "3337d274-d3c1-4178-bb10-90d9964e318b",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1781003500662
+            },
+            {
+              "id": "3a3a711f-0bdd-43c7-967b-9486e506d0d7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1781003003203
+            },
+            {
+              "id": "3feeb4de-0e42-4bd1-9105-25c2e919e73e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780992323223
+            },
+            {
+              "id": "78dd0108-1ecd-4668-91e5-6941965e84f4",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780988663323
+            },
+            {
+              "id": "732ae0a4-dc78-489d-a6b9-ff8c271a2bfa",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780999163047
+            },
+            {
+              "id": "22d51a65-7aa0-4d9c-b76b-64366caef663",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780990554170
+            },
+            {
+              "id": "dba04ca0-17d2-4bbc-b791-7c22d23c0844",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780986023384
+            },
+            {
+              "id": "77ae66ad-7079-4997-89bc-4bd93cfa2d13",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1781005618000
+            },
+            {
+              "id": "60e9fa9e-2737-4411-bac5-7dfb3c316837",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1781005838119
+            },
+            {
+              "id": "081d4f82-c37b-4cb2-b88c-a8cf447e3075",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780990463272
+            },
+            {
+              "id": "d9b2b184-27d8-4965-97da-941ba248da43",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780997423094
+            },
+            {
+              "id": "c7d8168d-471a-42ec-a889-2159ee022446",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780993883183
+            },
+            {
+              "id": "b3115c99-f0f6-44b3-99e2-f95e70e44df6",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780990823349
+            },
+            {
+              "id": "dad3c42a-28d1-4d24-ac19-94f463d6d0d7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780996883351
+            },
+            {
+              "id": "f1ec30bf-7b58-4dbd-b3a0-8cb5fe9e5bb0",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780995803134
+            },
+            {
+              "id": "55510459-f9ac-4946-884d-7fa22a3bb9cb",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1781001787620
+            }
+          ],
+          "volume": 6969928.4102506945,
+          "critical_signals": 1,
+          "high_signals": 14,
+          "low_signals": 1
+        },
+        {
+          "country": "IR",
+          "count": 14,
+          "recent": [
+            {
+              "id": "abdc151e-56d8-4b9d-8487-f3545a6956f4",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1780993041000
+            },
+            {
+              "id": "01827250-431a-4087-bccb-26f02304cd55",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1781006602980
+            },
+            {
+              "id": "66ec0bff-97e1-4d17-85fd-3a3398282625",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1781006216754
+            },
+            {
+              "id": "f1dce903-61fb-4611-9685-7466217c1283",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1781007428881
+            },
+            {
+              "id": "1634ec71-7342-4f19-a450-42aa4d1effab",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780999470000
+            },
+            {
+              "id": "406ac4c5-35bf-42e0-9a51-6e800ab9cace",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780991159000
+            },
+            {
+              "id": "53a76044-db81-4b48-a496-d512783e3d77",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1781000303024
+            },
+            {
+              "id": "bfe63f9e-9517-4bda-9cad-137ad72efb36",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780995520579
+            },
+            {
+              "id": "10590fb9-06e4-47f2-bff1-c2381f0be054",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1780990163887
+            },
+            {
+              "id": "bbcabe4f-d588-40b8-ae28-74989b21c017",
+              "kind": "news",
+              "impact": "critical",
+              "timestamp": 1780991484693
+            },
+            {
+              "id": "b2b9369d-d001-41d8-8e6d-e1f04d030ea0",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1781000303149
+            },
+            {
+              "id": "cd7c78fc-2ed3-490a-82be-6c5b096f1469",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780989009948
+            },
+            {
+              "id": "6a1ae151-3346-4241-bf6e-0902d5e3c4c3",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780999583039
+            },
+            {
+              "id": "8c2b6333-e7b9-4b22-84a3-dc18971ac583",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1781001053002
+            }
+          ],
+          "volume": 98813288.40950453,
+          "critical_signals": 3,
+          "high_signals": 9,
+          "low_signals": 2
+        },
+        {
+          "country": "RU",
+          "count": 13,
+          "recent": [
+            {
+              "id": "344b9242-5c2f-4c81-89e8-adb439d46196",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1781003060000
+            },
+            {
+              "id": "3a3a711f-0bdd-43c7-967b-9486e506d0d7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1781003003203
+            },
+            {
+              "id": "9ad88684-a6b6-440f-8f02-efa62d59e116",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780987506614
+            },
+            {
+              "id": "3feeb4de-0e42-4bd1-9105-25c2e919e73e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780992323223
+            },
+            {
+              "id": "78dd0108-1ecd-4668-91e5-6941965e84f4",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780988663323
+            },
+            {
+              "id": "732ae0a4-dc78-489d-a6b9-ff8c271a2bfa",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780999163047
+            },
+            {
+              "id": "dba04ca0-17d2-4bbc-b791-7c22d23c0844",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780986023384
+            },
+            {
+              "id": "77ae66ad-7079-4997-89bc-4bd93cfa2d13",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1781005618000
+            },
+            {
+              "id": "60e9fa9e-2737-4411-bac5-7dfb3c316837",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1781005838119
+            },
+            {
+              "id": "081d4f82-c37b-4cb2-b88c-a8cf447e3075",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780990463272
+            },
+            {
+              "id": "d9b2b184-27d8-4965-97da-941ba248da43",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780997423094
+            },
+            {
+              "id": "c7d8168d-471a-42ec-a889-2159ee022446",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780993883183
+            },
+            {
+              "id": "f1ec30bf-7b58-4dbd-b3a0-8cb5fe9e5bb0",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780995803134
+            }
+          ],
+          "volume": 2459878.8015759294,
+          "critical_signals": 0,
+          "high_signals": 13,
+          "low_signals": 0
+        },
+        {
+          "country": "LB",
+          "count": 10,
+          "recent": [
+            {
+              "id": "e992c412-e3e9-4459-926c-0d123125ccd8",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1780987283352
+            },
+            {
+              "id": "406ac4c5-35bf-42e0-9a51-6e800ab9cace",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780991159000
+            },
+            {
+              "id": "10590fb9-06e4-47f2-bff1-c2381f0be054",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1780990163887
+            },
+            {
+              "id": "14db806a-0506-4a21-9148-5bdaff3f1488",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780997642000
+            },
+            {
+              "id": "6186143c-25b8-489f-b12c-3855f35e3889",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1781000056000
+            },
+            {
+              "id": "7c675f50-ba72-4627-9e28-e73ed5b090d9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1781000963133
+            },
+            {
+              "id": "b2b9369d-d001-41d8-8e6d-e1f04d030ea0",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1781000303149
+            },
+            {
+              "id": "83e5a5c8-3589-4f5d-8b6d-77ad4260088f",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780997636335
+            },
+            {
+              "id": "5e385103-a56d-4857-9cb6-8c9d0d6f6d26",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1781006197866
+            },
+            {
+              "id": "c70dd247-eea3-4d44-8aa3-f2a5dbc76f51",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1781002882952
+            }
+          ],
+          "volume": 36582455.57159586,
+          "critical_signals": 1,
+          "high_signals": 9,
+          "low_signals": 0
+        },
+        {
+          "country": "US",
+          "count": 8,
+          "recent": [
+            {
+              "id": "abdc151e-56d8-4b9d-8487-f3545a6956f4",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1780993041000
+            },
+            {
+              "id": "437d4c82-7298-4f7e-8bb5-9d2abb4d5b9e",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1781004324129
+            },
+            {
+              "id": "66ec0bff-97e1-4d17-85fd-3a3398282625",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1781006216754
+            },
+            {
+              "id": "f1dce903-61fb-4611-9685-7466217c1283",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1781007428881
+            },
+            {
+              "id": "1634ec71-7342-4f19-a450-42aa4d1effab",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780999470000
+            },
+            {
+              "id": "bbcabe4f-d588-40b8-ae28-74989b21c017",
+              "kind": "news",
+              "impact": "critical",
+              "timestamp": 1780991484693
+            },
+            {
+              "id": "cd7c78fc-2ed3-490a-82be-6c5b096f1469",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780989009948
+            },
+            {
+              "id": "8c2b6333-e7b9-4b22-84a3-dc18971ac583",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1781001053002
+            }
+          ],
+          "volume": 99336791.52459928,
+          "critical_signals": 3,
+          "high_signals": 3,
+          "low_signals": 2
+        },
+        {
+          "country": "PS",
+          "count": 5,
+          "recent": [
+            {
+              "id": "7c0104ee-0744-4362-9c11-02301da60b23",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780988903310
+            },
+            {
+              "id": "cdea5f29-00de-4eaf-9eeb-5610c563873b",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780998011735
+            },
+            {
+              "id": "050d7603-7552-4f08-8f5b-1ac9922ab121",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1781001382993
+            },
+            {
+              "id": "44978a70-7cfa-4aee-8a18-288ed87c363d",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780994090000
+            },
+            {
+              "id": "c4ea172d-948d-40d6-a9ec-66fa0e90ccd6",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1781004458000
+            }
+          ],
+          "volume": 1996930.5365275864,
+          "critical_signals": 0,
+          "high_signals": 5,
+          "low_signals": 0
+        },
+        {
+          "country": "KW",
+          "count": 2,
+          "recent": [
+            {
+              "id": "53a76044-db81-4b48-a496-d512783e3d77",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1781000303024
+            },
+            {
+              "id": "cd7c78fc-2ed3-490a-82be-6c5b096f1469",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780989009948
+            }
+          ],
+          "volume": 598606.3101099983,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "QA",
+          "count": 1,
+          "recent": [
+            {
+              "id": "cd7c78fc-2ed3-490a-82be-6c5b096f1469",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780989009948
+            }
+          ],
+          "volume": 598606.3101099983,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "BG",
+          "count": 1,
+          "recent": [
+            {
+              "id": "55510459-f9ac-4946-884d-7fa22a3bb9cb",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1781001787620
+            }
+          ],
+          "volume": 78445.50930099998,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "PH",
+          "count": 1,
+          "recent": [
+            {
+              "id": "6e949bdd-5787-4b11-b174-aba75d82589b",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1781006425310
+            }
+          ],
+          "volume": 488135.13412400015,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "TR",
+          "count": 1,
+          "recent": [
+            {
+              "id": "c1cc2df3-fc3a-4a46-b049-4139d3ef45b9",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1781001806000
+            }
+          ],
+          "volume": 60780.652935,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "CN",
+          "count": 1,
+          "recent": [
+            {
+              "id": "6e949bdd-5787-4b11-b174-aba75d82589b",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1781006425310
+            }
+          ],
+          "volume": 488135.13412400015,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "IN",
+          "count": 1,
+          "recent": [
+            {
+              "id": "bfe63f9e-9517-4bda-9cad-137ad72efb36",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780995520579
+            }
+          ],
+          "volume": 35726632.01526158,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "EG",
+          "count": 1,
+          "recent": [
+            {
+              "id": "44978a70-7cfa-4aee-8a18-288ed87c363d",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780994090000
+            }
+          ],
+          "volume": 283160.61947716255,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "LV",
+          "count": 1,
+          "recent": [
+            {
+              "id": "dad3c42a-28d1-4d24-ac19-94f463d6d0d7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1780996883351
+            }
+          ],
+          "volume": 554597.9153369998,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "SD",
+          "count": 1,
+          "recent": [
+            {
+              "id": "c1cc2df3-fc3a-4a46-b049-4139d3ef45b9",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1781001806000
+            }
+          ],
+          "volume": 60780.652935,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "PE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "dba04ca0-17d2-4bbc-b791-7c22d23c0844",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780986023384
+            }
+          ],
+          "volume": 95489.14015999985,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "AE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "c1cc2df3-fc3a-4a46-b049-4139d3ef45b9",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1781001806000
+            }
+          ],
+          "volume": 60780.652935,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "AM",
+          "count": 1,
+          "recent": [
+            {
+              "id": "9ad88684-a6b6-440f-8f02-efa62d59e116",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780987506614
+            }
+          ],
+          "volume": 451784.4312022925,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "IT",
+          "count": 1,
+          "recent": [
+            {
+              "id": "cdea5f29-00de-4eaf-9eeb-5610c563873b",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1780998011735
+            }
+          ],
+          "volume": 933340.4069049757,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "OM",
+          "count": 1,
+          "recent": [
+            {
+              "id": "dba04ca0-17d2-4bbc-b791-7c22d23c0844",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1780986023384
+            }
+          ],
+          "volume": 95489.14015999985,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        }
+      ],
+      "_scraped_at": "2026-06-09T12:20:31.040342+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
