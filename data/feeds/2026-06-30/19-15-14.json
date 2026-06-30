@@ -1,0 +1,1750 @@
+{
+  "scraped_at": "2026-06-30T19:15:06.021578+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 7,
+  "items": [
+    {
+      "valid": false,
+      "_scraped_at": "2026-06-30T19:15:06.021578+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "bf392e60-e441-4e6f-ab3e-7820fd22d873",
+        "timestamp": 1782773051589,
+        "tweet": {
+          "feed_item_id": "bf392e60-e441-4e6f-ab3e-7820fd22d873",
+          "post_id": "2071726451829985527",
+          "post_type": "tweet",
+          "created_at": 1782773051589,
+          "user": {
+            "uid": "3295423333",
+            "handle": "FirstSquawk",
+            "display_name": "First Squawk",
+            "pfp": "https://pbs.twimg.com/profile_images/1039778545738964992/6fl6RNN0.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "GOLD FELL AS THE U.S. AND IRAN AGREED TO HALT ATTACKS AND RESUME PEACE TALKS, REDUCING SAFE-HAVEN DEMAND, WITH SPOT\u2026 https://x.com/i/web/status/2071726451829985527",
+          "link": "https://twitter.com/FirstSquawk/status/2071726451829985527"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "US",
+        "countries": [
+          "US",
+          "IR"
+        ],
+        "related_markets": [
+          {
+            "id": "2685911",
+            "slug": "next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+            "condition_id": "0x325d2f917428a0d39ac7563770ec519208666b8c926091de1a1934d8570b64cd",
+            "title": "July 17",
+            "question": "US x Iran diplomatic meeting by July 17, 2026?",
+            "description": "On June 22, the first round of U.S.-Iran diplomatic talks in Switzerland concluded, with mediators reporting progress toward a roadmap for a final deal and follow-on technical talks expected to continue.(see: https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks). \n\nThis market will resolve to \u201cYes\u201d if the next formal senior-level round of peace talks between representatives of the United States and Iran begins by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo.\u201d\n\nA qualifying round must be a deliberate in-person diplomatic meeting or negotiating round concerning US-Iran relations, involving senior representatives of both the United States and Iran who are acting in an official capacity and are authorized to conduct or materially direct diplomacy on behalf of their governments.\n\nIndirect in-person diplomacy through designated mediators, facilitators, or interlocutors will qualify, provided senior representatives of both the United States and Iran are participating in the same formal diplomatic process with the knowledge and authorization of their respective governments. The representatives need not be in the same room at the same time.\n\nFollow-on technical talks from the June 22 Switzerland round will not qualify by themselves. Technical, staff-level, working-group, implementation, monitoring, preparatory, or deconfliction meetings will not qualify unless they occur as part of a new formally convened senior-level U.S.-Iran peace-talks round.\n\nBrief greetings, chance encounters, photo opportunities, ceremonial appearances, or talks not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of the United States and Iran, and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-meeting-by-9btZGbUg-ikA.jpg",
+            "yes_token_id": "61185693373091340617494150277851514641770797636186465474956889484881632951438",
+            "yes_probability": 0.63,
+            "yes_best_bid": 0.57,
+            "yes_best_ask": 0.63,
+            "yes_spread": 0.06000000000000005,
+            "no_token_id": "12926245040899451804437509621465764609213522509461670123611024472259491643478",
+            "no_probability": 0.43,
+            "no_best_bid": 0.37,
+            "no_best_ask": 0.43,
+            "no_spread": 0.06,
+            "volume": 56444.12053999004,
+            "liquidity": 709085.6799999998,
+            "neg_risk": false,
+            "end_date": "2026-07-17T23:59:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Agreement to halt attacks and resume talks = 1 hop to diplomatic meeting.",
+            "event_id": "624218",
+            "event_title": "Next round of US-Iran peace talks by...?",
+            "event_slug": "next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+            "detected_yes_price": 0.65,
+            "detected_no_price": 0.37,
+            "detected_at": 1782773076972,
+            "highest_price_change": 0.5135135135135137,
+            "highest_yes_price": 0.71,
+            "highest_no_price": 0.56,
+            "first_moved_at": 1782773078698,
+            "moved_side": "no",
+            "peaked_at": 1782815235835
+          },
+          {
+            "id": "2646916",
+            "slug": "where-will-the-next-next-round-of-us-iran-peace-talks-beptptpt-20260623023740663",
+            "condition_id": "0x189e1fc1645c57b86a849ca1680aa9cd748aa1cab72c7e05b3a92be8d0977111",
+            "title": "UAE",
+            "question": "Will the next diplomatic US-Iran meeting be in the UAE by September 30, 2026?",
+            "description": "On June 22, the first round of U.S.-Iran diplomatic talks in Switzerland concluded, with mediators reporting progress toward a roadmap for a final deal and follow-on technical talks expected to continue (see: https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks).\n\nThis market will resolve according to the country in which the next formal senior-level round of peace talks between representatives of the United States and Iran begins by September 30, 2026, 11:59 PM ET.\n\nA qualifying round must be a deliberate in-person diplomatic meeting or negotiating round concerning US-Iran relations, involving senior representatives of both the United States and Iran who are acting in an official capacity and are authorized to conduct or materially direct diplomacy on behalf of their governments.\n\nIndirect in-person diplomacy through designated mediators, facilitators, or interlocutors will qualify, provided senior representatives of both the United States and Iran are participating in the same formal diplomatic process with the knowledge and authorization of their respective governments. The representatives need not be in the same room at the same time.\n\nFollow-on technical talks from the June 22 Switzerland round will not qualify by themselves. Technical, staff-level, working-group, implementation, monitoring, preparatory, or deconfliction meetings will not qualify unless they occur as part of a new formally convened senior-level U.S.-Iran peace-talks round.\n\nBrief greetings, chance encounters, photo opportunities, ceremonial appearances, or talks not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nIf a qualifying round occurs in more than one country, resolution will be based on the country where the first qualifying senior-level diplomatic session begins.\n\nIf the next qualifying round begins in any country in the Middle East or North Africa other than the listed options, this market will resolve to \u201cOther - Middle East/North Africa.\u201d\n\nIf the next qualifying round begins in any country in Europe other than the listed options, this market will resolve to \u201cOther - Europe.\u201d\n\nFor purposes of this market, countries\u2019 regions will be determined based on the U.S. State Department\u2019s regional classifications in the \u201cCountries and Areas List\u201d (https://www.state.gov/countries-and-areas-list). Any country classified as part of \u201cEurope and Eurasia\u201d will be considered to be in Europe. Any country classified as part of \u201cNear East (Middle East and North Africa)\u201d will be considered to be in the Middle East/North Africa.\n\nIf the next qualifying round begins in any unlisted country that is not classified in either specified region, this market will resolve to \u201cOther.\u201d\n\nIf no qualifying round begins by September 30, 2026, 11:59 PM ET, this market will resolve to \u201cNo Meeting by September 30.\u201d\n\nThe resolution sources for this market will be official information from the governments of the United States and Iran, and a consensus of credible reporting.\n",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-meeting-by-9btZGbUg-ikA.jpg",
+            "yes_token_id": "22380229442917794927086169575089512266282171303590949714167876001942645905216",
+            "yes_probability": 0.014,
+            "yes_best_bid": 0.007,
+            "yes_best_ask": 0.014,
+            "yes_spread": 0.007,
+            "no_token_id": "95101927668338752841193471907502294533828718684925959813808340686012856007997",
+            "no_probability": 0.993,
+            "no_best_bid": 0.986,
+            "no_best_ask": 0.993,
+            "no_spread": 0.007000000000000006,
+            "volume": 25198.337791489997,
+            "liquidity": 527122.3700000001,
+            "neg_risk": true,
+            "end_date": "2026-09-30T23:59:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Agreement to halt attacks and resume talks = 1 hop to diplomatic meeting.",
+            "event_id": "624242",
+            "event_title": "Where will the next next round of US-Iran peace talks be...?",
+            "event_slug": "where-will-the-next-next-round-of-us-iran-peace-talks-beptptpt-20260623023740663",
+            "detected_yes_price": 0.003,
+            "detected_no_price": 1,
+            "detected_at": 1782773076972,
+            "highest_price_change": 8.333333333333334,
+            "highest_yes_price": 0.028,
+            "highest_no_price": 1,
+            "first_moved_at": 1782824987587,
+            "moved_side": "yes",
+            "peaked_at": 1782824987587
+          },
+          {
+            "id": "2646926",
+            "slug": "where-will-the-next-next-round-of-us-iran-peace-talks-beptptpt-20260623023740663",
+            "condition_id": "0xe2c7cbfc0a5a9e86f65883b430393340659620a034a0e07fcf9566b2f4625275",
+            "title": "Iraq",
+            "question": "Will the next diplomatic US-Iran meeting be in Iraq by September 30, 2026?",
+            "description": "On June 22, the first round of U.S.-Iran diplomatic talks in Switzerland concluded, with mediators reporting progress toward a roadmap for a final deal and follow-on technical talks expected to continue (see: https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks).\n\nThis market will resolve according to the country in which the next formal senior-level round of peace talks between representatives of the United States and Iran begins by September 30, 2026, 11:59 PM ET.\n\nA qualifying round must be a deliberate in-person diplomatic meeting or negotiating round concerning US-Iran relations, involving senior representatives of both the United States and Iran who are acting in an official capacity and are authorized to conduct or materially direct diplomacy on behalf of their governments.\n\nIndirect in-person diplomacy through designated mediators, facilitators, or interlocutors will qualify, provided senior representatives of both the United States and Iran are participating in the same formal diplomatic process with the knowledge and authorization of their respective governments. The representatives need not be in the same room at the same time.\n\nFollow-on technical talks from the June 22 Switzerland round will not qualify by themselves. Technical, staff-level, working-group, implementation, monitoring, preparatory, or deconfliction meetings will not qualify unless they occur as part of a new formally convened senior-level U.S.-Iran peace-talks round.\n\nBrief greetings, chance encounters, photo opportunities, ceremonial appearances, or talks not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nIf a qualifying round occurs in more than one country, resolution will be based on the country where the first qualifying senior-level diplomatic session begins.\n\nIf the next qualifying round begins in any country in the Middle East or North Africa other than the listed options, this market will resolve to \u201cOther - Middle East/North Africa.\u201d\n\nIf the next qualifying round begins in any country in Europe other than the listed options, this market will resolve to \u201cOther - Europe.\u201d\n\nFor purposes of this market, countries\u2019 regions will be determined based on the U.S. State Department\u2019s regional classifications in the \u201cCountries and Areas List\u201d (https://www.state.gov/countries-and-areas-list). Any country classified as part of \u201cEurope and Eurasia\u201d will be considered to be in Europe. Any country classified as part of \u201cNear East (Middle East and North Africa)\u201d will be considered to be in the Middle East/North Africa.\n\nIf the next qualifying round begins in any unlisted country that is not classified in either specified region, this market will resolve to \u201cOther.\u201d\n\nIf no qualifying round begins by September 30, 2026, 11:59 PM ET, this market will resolve to \u201cNo Meeting by September 30.\u201d\n\nThe resolution sources for this market will be official information from the governments of the United States and Iran, and a consensus of credible reporting.\n",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-meeting-by-9btZGbUg-ikA.jpg",
+            "yes_token_id": "55232033288949906941519741205678579400287102587213376737345062405136633443964",
+            "yes_probability": 0.005,
+            "yes_best_bid": 0.002,
+            "yes_best_ask": 0.005,
+            "yes_spread": 0.003,
+            "no_token_id": "103652274390106088220723444554438755148566750822586565380394890175216399598141",
+            "no_probability": 0.998,
+            "no_best_bid": 0.995,
+            "no_best_ask": 0.998,
+            "no_spread": 0.0030000000000000027,
+            "volume": 15243.61412000001,
+            "liquidity": 534869.5499999998,
+            "neg_risk": true,
+            "end_date": "2026-09-30T23:59:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Agreement to halt attacks and resume talks = 1 hop to diplomatic meeting.",
+            "event_id": "624242",
+            "event_title": "Where will the next next round of US-Iran peace talks be...?",
+            "event_slug": "where-will-the-next-next-round-of-us-iran-peace-talks-beptptpt-20260623023740663",
+            "detected_yes_price": 0.002,
+            "detected_no_price": 1,
+            "detected_at": 1782773076972,
+            "highest_price_change": 2.5,
+            "highest_yes_price": 0.007,
+            "highest_no_price": 1,
+            "first_moved_at": 1782798971628,
+            "moved_side": "yes",
+            "peaked_at": 1782798971628
+          },
+          {
+            "id": "2646931",
+            "slug": "where-will-the-next-next-round-of-us-iran-peace-talks-beptptpt-20260623023740663",
+            "condition_id": "0x464af35d1def5794611bd957668aba74154d52296a3ac3be5f1beabeb3b927d9",
+            "title": "Other - Europe",
+            "question": "Will the next diplomatic US-Iran meeting be in another European country by September 30, 2026?",
+            "description": "On June 22, the first round of U.S.-Iran diplomatic talks in Switzerland concluded, with mediators reporting progress toward a roadmap for a final deal and follow-on technical talks expected to continue (see: https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks).\n\nThis market will resolve according to the country in which the next formal senior-level round of peace talks between representatives of the United States and Iran begins by September 30, 2026, 11:59 PM ET.\n\nA qualifying round must be a deliberate in-person diplomatic meeting or negotiating round concerning US-Iran relations, involving senior representatives of both the United States and Iran who are acting in an official capacity and are authorized to conduct or materially direct diplomacy on behalf of their governments.\n\nIndirect in-person diplomacy through designated mediators, facilitators, or interlocutors will qualify, provided senior representatives of both the United States and Iran are participating in the same formal diplomatic process with the knowledge and authorization of their respective governments. The representatives need not be in the same room at the same time.\n\nFollow-on technical talks from the June 22 Switzerland round will not qualify by themselves. Technical, staff-level, working-group, implementation, monitoring, preparatory, or deconfliction meetings will not qualify unless they occur as part of a new formally convened senior-level U.S.-Iran peace-talks round.\n\nBrief greetings, chance encounters, photo opportunities, ceremonial appearances, or talks not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nIf a qualifying round occurs in more than one country, resolution will be based on the country where the first qualifying senior-level diplomatic session begins.\n\nIf the next qualifying round begins in any country in the Middle East or North Africa other than the listed options, this market will resolve to \u201cOther - Middle East/North Africa.\u201d\n\nIf the next qualifying round begins in any country in Europe other than the listed options, this market will resolve to \u201cOther - Europe.\u201d\n\nFor purposes of this market, countries\u2019 regions will be determined based on the U.S. State Department\u2019s regional classifications in the \u201cCountries and Areas List\u201d (https://www.state.gov/countries-and-areas-list). Any country classified as part of \u201cEurope and Eurasia\u201d will be considered to be in Europe. Any country classified as part of \u201cNear East (Middle East and North Africa)\u201d will be considered to be in the Middle East/North Africa.\n\nIf the next qualifying round begins in any unlisted country that is not classified in either specified region, this market will resolve to \u201cOther.\u201d\n\nIf no qualifying round begins by September 30, 2026, 11:59 PM ET, this market will resolve to \u201cNo Meeting by September 30.\u201d\n\nThe resolution sources for this market will be official information from the governments of the United States and Iran, and a consensus of credible reporting.\n",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-meeting-by-9btZGbUg-ikA.jpg",
+            "yes_token_id": "67346562719574279270405703943399752967967222447235458604412270971799390510058",
+            "yes_probability": 0.01,
+            "yes_best_bid": 0.006,
+            "yes_best_ask": 0.01,
+            "yes_spread": 0.004,
+            "no_token_id": "81156671681926935132901184154631201365954018938295113074030131720928581227764",
+            "no_probability": 0.994,
+            "no_best_bid": 0.99,
+            "no_best_ask": 0.994,
+            "no_spread": 0.0040000000000000036,
+            "volume": 25937.85528299998,
+            "liquidity": 364964.7699999999,
+            "neg_risk": true,
+            "end_date": "2026-09-30T23:59:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Agreement to halt attacks and resume talks = 1 hop to diplomatic meeting.",
+            "event_id": "624242",
+            "event_title": "Where will the next next round of US-Iran peace talks be...?",
+            "event_slug": "where-will-the-next-next-round-of-us-iran-peace-talks-beptptpt-20260623023740663",
+            "detected_yes_price": 0.002,
+            "detected_no_price": 0.999,
+            "detected_at": 1782773076972,
+            "highest_price_change": 4,
+            "highest_yes_price": 0.01,
+            "highest_no_price": 0.999,
+            "first_moved_at": 1782814623044,
+            "moved_side": "yes",
+            "peaked_at": 1782846733582
+          },
+          {
+            "id": "2646932",
+            "slug": "where-will-the-next-next-round-of-us-iran-peace-talks-beptptpt-20260623023740663",
+            "condition_id": "0xcc3c7692775c0b6780a83f2ba9e649997cc6d1ef01f525768dfa58d1dc95f131",
+            "title": "Other",
+            "question": "Will the next diplomatic US-Iran meeting be in another country by September 30, 2026?",
+            "description": "On June 22, the first round of U.S.-Iran diplomatic talks in Switzerland concluded, with mediators reporting progress toward a roadmap for a final deal and follow-on technical talks expected to continue (see: https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks).\n\nThis market will resolve according to the country in which the next formal senior-level round of peace talks between representatives of the United States and Iran begins by September 30, 2026, 11:59 PM ET.\n\nA qualifying round must be a deliberate in-person diplomatic meeting or negotiating round concerning US-Iran relations, involving senior representatives of both the United States and Iran who are acting in an official capacity and are authorized to conduct or materially direct diplomacy on behalf of their governments.\n\nIndirect in-person diplomacy through designated mediators, facilitators, or interlocutors will qualify, provided senior representatives of both the United States and Iran are participating in the same formal diplomatic process with the knowledge and authorization of their respective governments. The representatives need not be in the same room at the same time.\n\nFollow-on technical talks from the June 22 Switzerland round will not qualify by themselves. Technical, staff-level, working-group, implementation, monitoring, preparatory, or deconfliction meetings will not qualify unless they occur as part of a new formally convened senior-level U.S.-Iran peace-talks round.\n\nBrief greetings, chance encounters, photo opportunities, ceremonial appearances, or talks not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nIf a qualifying round occurs in more than one country, resolution will be based on the country where the first qualifying senior-level diplomatic session begins.\n\nIf the next qualifying round begins in any country in the Middle East or North Africa other than the listed options, this market will resolve to \u201cOther - Middle East/North Africa.\u201d\n\nIf the next qualifying round begins in any country in Europe other than the listed options, this market will resolve to \u201cOther - Europe.\u201d\n\nFor purposes of this market, countries\u2019 regions will be determined based on the U.S. State Department\u2019s regional classifications in the \u201cCountries and Areas List\u201d (https://www.state.gov/countries-and-areas-list). Any country classified as part of \u201cEurope and Eurasia\u201d will be considered to be in Europe. Any country classified as part of \u201cNear East (Middle East and North Africa)\u201d will be considered to be in the Middle East/North Africa.\n\nIf the next qualifying round begins in any unlisted country that is not classified in either specified region, this market will resolve to \u201cOther.\u201d\n\nIf no qualifying round begins by September 30, 2026, 11:59 PM ET, this market will resolve to \u201cNo Meeting by September 30.\u201d\n\nThe resolution sources for this market will be official information from the governments of the United States and Iran, and a consensus of credible reporting.\n",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-meeting-by-9btZGbUg-ikA.jpg",
+            "yes_token_id": "111725394656124390304389849846759059792244479028764165035453425691497937540212",
+            "yes_probability": 0.009,
+            "yes_best_bid": 0.007,
+            "yes_best_ask": 0.009,
+            "yes_spread": 0.001999999999999999,
+            "no_token_id": "55064403000970252766139291867582736924558760236862403736057105487925232028317",
+            "no_probability": 0.993,
+            "no_best_bid": 0.991,
+            "no_best_ask": 0.993,
+            "no_spread": 0.0020000000000000018,
+            "volume": 28700.823057331796,
+            "liquidity": 391386.48,
+            "neg_risk": true,
+            "end_date": "2026-09-30T23:59:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Agreement to halt attacks and resume talks = 1 hop to diplomatic meeting.",
+            "event_id": "624242",
+            "event_title": "Where will the next next round of US-Iran peace talks be...?",
+            "event_slug": "where-will-the-next-next-round-of-us-iran-peace-talks-beptptpt-20260623023740663",
+            "detected_yes_price": 0.006,
+            "detected_no_price": 0.997,
+            "detected_at": 1782773076972,
+            "highest_price_change": 0.6666666666666666,
+            "highest_yes_price": 0.01,
+            "highest_no_price": 0.997,
+            "first_moved_at": 1782812924416,
+            "moved_side": "yes",
+            "peaked_at": 1782812924416
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "gold",
+            "score": 9,
+            "price": 4008.85
+          }
+        ],
+        "topics": [
+          "iran-regime",
+          "ukraine-war",
+          "elon-musk"
+        ],
+        "categories": [
+          "finance",
+          "geopolitics"
+        ]
+      },
+      "related_market": {
+        "id": "2685911",
+        "slug": "next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+        "condition_id": "0x325d2f917428a0d39ac7563770ec519208666b8c926091de1a1934d8570b64cd",
+        "title": "July 17",
+        "question": "US x Iran diplomatic meeting by July 17, 2026?",
+        "description": "On June 22, the first round of U.S.-Iran diplomatic talks in Switzerland concluded, with mediators reporting progress toward a roadmap for a final deal and follow-on technical talks expected to continue.(see: https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks). \n\nThis market will resolve to \u201cYes\u201d if the next formal senior-level round of peace talks between representatives of the United States and Iran begins by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo.\u201d\n\nA qualifying round must be a deliberate in-person diplomatic meeting or negotiating round concerning US-Iran relations, involving senior representatives of both the United States and Iran who are acting in an official capacity and are authorized to conduct or materially direct diplomacy on behalf of their governments.\n\nIndirect in-person diplomacy through designated mediators, facilitators, or interlocutors will qualify, provided senior representatives of both the United States and Iran are participating in the same formal diplomatic process with the knowledge and authorization of their respective governments. The representatives need not be in the same room at the same time.\n\nFollow-on technical talks from the June 22 Switzerland round will not qualify by themselves. Technical, staff-level, working-group, implementation, monitoring, preparatory, or deconfliction meetings will not qualify unless they occur as part of a new formally convened senior-level U.S.-Iran peace-talks round.\n\nBrief greetings, chance encounters, photo opportunities, ceremonial appearances, or talks not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of the United States and Iran, and a consensus of credible reporting.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-meeting-by-9btZGbUg-ikA.jpg",
+        "yes_token_id": "61185693373091340617494150277851514641770797636186465474956889484881632951438",
+        "yes_probability": 0.63,
+        "yes_best_bid": 0.57,
+        "yes_best_ask": 0.63,
+        "yes_spread": 0.06000000000000005,
+        "no_token_id": "12926245040899451804437509621465764609213522509461670123611024472259491643478",
+        "no_probability": 0.43,
+        "no_best_bid": 0.37,
+        "no_best_ask": 0.43,
+        "no_spread": 0.06,
+        "volume": 56444.12053999004,
+        "liquidity": 709085.6799999998,
+        "neg_risk": false,
+        "end_date": "2026-07-17T23:59:00Z",
+        "categories": [
+          "politics",
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Agreement to halt attacks and resume talks = 1 hop to diplomatic meeting.",
+        "event_id": "624218",
+        "event_title": "Next round of US-Iran peace talks by...?",
+        "event_slug": "next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+        "detected_yes_price": 0.65,
+        "detected_no_price": 0.37,
+        "detected_at": 1782773076972,
+        "highest_price_change": 0.5135135135135137,
+        "highest_yes_price": 0.71,
+        "highest_no_price": 0.56,
+        "first_moved_at": 1782773078698,
+        "moved_side": "no",
+        "peaked_at": 1782815235835
+      },
+      "_scraped_at": "2026-06-30T19:15:06.021578+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 2,
+      "feed_item": {
+        "id": "6ab4c319-2e1f-4637-9c26-828be7058ff7",
+        "timestamp": 1782761993000,
+        "tweet": {
+          "feed_item_id": "6ab4c319-2e1f-4637-9c26-828be7058ff7",
+          "post_id": "2071680070817808551",
+          "post_type": "tweet",
+          "created_at": 1782761993000,
+          "user": {
+            "uid": "3295423333",
+            "handle": "FirstSquawk",
+            "display_name": "First Squawk",
+            "pfp": "https://pbs.twimg.com/profile_images/1039778545738964992/6fl6RNN0_normal.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "CRUDE OIL RISES AS U.S.-IRAN PEACE TALKS RESUME, HORMUZ RISKS LINGER \u2022 WTI ROSE 2.2% TO SETTLE AT $70.75 A BARREL, WHILE BRENT GAINED 1.6% TO $73.15 \u2022 OIL PRICES ROSE AFTER THE U.S. AND IRAN AGREED TO HALT ATTACKS AND RESUME PEACE TALKS IN DOHA \u2022 HOPES FOR AN EVENTUAL FULL REOPENING OF THE STRAIT OF HORMUZ CONTINUED TO SUPPORT MARKET SENTIMENT \u2022 TANKER TRAFFIC THROUGH THE STRAIT OF HORMUZ REMAINED BELOW NORMAL FOLLOWING RECENT ATTACKS, KEEPING SUPPLY RISKS ELEVATED \u2022 IRAN SAID IT WILL CONTINUE PLANS TO MANAGE MARITIME TRAFFIC THROUGH THE STRAIT OF HORMUZ \u2022 TRADERS ARE CLOSELY WATCHING SHIPPING FLOWS, INSURANCE COSTS, AND SUPPLY CHAIN NORMALIZATION \u2022 MOST OF OIL'S WARTIME RISK PREMIUM HAS NOW BEEN ERASED AS DIPLOMATIC EFFORTS GAIN MOMENTUM \u2022 POTENTIAL RUSSIAN DIESEL EXPORT RESTRICTIONS COULD TIGHTEN GLOBAL FUEL SUPPLIES AND SUPPORT OIL PRICES",
+          "link": "https://twitter.com/FirstSquawk/status/2071680070817808551"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "RU",
+        "countries": [
+          "RU",
+          "US",
+          "QA",
+          "IR"
+        ],
+        "related_markets": [
+          {
+            "id": "2646916",
+            "slug": "where-will-the-next-next-round-of-us-iran-peace-talks-beptptpt-20260623023740663",
+            "condition_id": "0x189e1fc1645c57b86a849ca1680aa9cd748aa1cab72c7e05b3a92be8d0977111",
+            "title": "UAE",
+            "question": "Will the next diplomatic US-Iran meeting be in the UAE by September 30, 2026?",
+            "description": "On June 22, the first round of U.S.-Iran diplomatic talks in Switzerland concluded, with mediators reporting progress toward a roadmap for a final deal and follow-on technical talks expected to continue (see: https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks).\n\nThis market will resolve according to the country in which the next formal senior-level round of peace talks between representatives of the United States and Iran begins by September 30, 2026, 11:59 PM ET.\n\nA qualifying round must be a deliberate in-person diplomatic meeting or negotiating round concerning US-Iran relations, involving senior representatives of both the United States and Iran who are acting in an official capacity and are authorized to conduct or materially direct diplomacy on behalf of their governments.\n\nIndirect in-person diplomacy through designated mediators, facilitators, or interlocutors will qualify, provided senior representatives of both the United States and Iran are participating in the same formal diplomatic process with the knowledge and authorization of their respective governments. The representatives need not be in the same room at the same time.\n\nFollow-on technical talks from the June 22 Switzerland round will not qualify by themselves. Technical, staff-level, working-group, implementation, monitoring, preparatory, or deconfliction meetings will not qualify unless they occur as part of a new formally convened senior-level U.S.-Iran peace-talks round.\n\nBrief greetings, chance encounters, photo opportunities, ceremonial appearances, or talks not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nIf a qualifying round occurs in more than one country, resolution will be based on the country where the first qualifying senior-level diplomatic session begins.\n\nIf the next qualifying round begins in any country in the Middle East or North Africa other than the listed options, this market will resolve to \u201cOther - Middle East/North Africa.\u201d\n\nIf the next qualifying round begins in any country in Europe other than the listed options, this market will resolve to \u201cOther - Europe.\u201d\n\nFor purposes of this market, countries\u2019 regions will be determined based on the U.S. State Department\u2019s regional classifications in the \u201cCountries and Areas List\u201d (https://www.state.gov/countries-and-areas-list). Any country classified as part of \u201cEurope and Eurasia\u201d will be considered to be in Europe. Any country classified as part of \u201cNear East (Middle East and North Africa)\u201d will be considered to be in the Middle East/North Africa.\n\nIf the next qualifying round begins in any unlisted country that is not classified in either specified region, this market will resolve to \u201cOther.\u201d\n\nIf no qualifying round begins by September 30, 2026, 11:59 PM ET, this market will resolve to \u201cNo Meeting by September 30.\u201d\n\nThe resolution sources for this market will be official information from the governments of the United States and Iran, and a consensus of credible reporting.\n",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-meeting-by-9btZGbUg-ikA.jpg",
+            "yes_token_id": "22380229442917794927086169575089512266282171303590949714167876001942645905216",
+            "yes_probability": 0.014,
+            "yes_best_bid": 0.007,
+            "yes_best_ask": 0.014,
+            "yes_spread": 0.007,
+            "no_token_id": "95101927668338752841193471907502294533828718684925959813808340686012856007997",
+            "no_probability": 0.993,
+            "no_best_bid": 0.986,
+            "no_best_ask": 0.993,
+            "no_spread": 0.007000000000000006,
+            "volume": 25198.337791489997,
+            "liquidity": 527122.3700000001,
+            "neg_risk": true,
+            "end_date": "2026-09-30T23:59:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Resumption of talks suggests a higher likelihood of meetings in various locations (1 hop).",
+            "event_id": "624242",
+            "event_title": "Where will the next next round of US-Iran peace talks be...?",
+            "event_slug": "where-will-the-next-next-round-of-us-iran-peace-talks-beptptpt-20260623023740663",
+            "detected_yes_price": 0.003,
+            "detected_no_price": 1,
+            "detected_at": 1782762018364,
+            "highest_price_change": 8.333333333333334,
+            "highest_yes_price": 0.028,
+            "highest_no_price": 1,
+            "first_moved_at": 1782824987587,
+            "moved_side": "yes",
+            "peaked_at": 1782824987587
+          },
+          {
+            "id": "2646848",
+            "slug": "next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+            "condition_id": "0x545e1bf6ec42e0e8a776a3c3e11ed225f8d3dfcc74f98656e142f99a2b718383",
+            "title": "July 3",
+            "question": "US x Iran diplomatic meeting by July 3, 2026?",
+            "description": "On June 22, the first round of U.S.-Iran diplomatic talks in Switzerland concluded, with mediators reporting progress toward a roadmap for a final deal and follow-on technical talks expected to continue.(see: https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks). \n\nThis market will resolve to \u201cYes\u201d if the next formal senior-level round of peace talks between representatives of the United States and Iran begins by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo.\u201d\n\nA qualifying round must be a deliberate in-person diplomatic meeting or negotiating round concerning US-Iran relations, involving senior representatives of both the United States and Iran who are acting in an official capacity and are authorized to conduct or materially direct diplomacy on behalf of their governments.\n\nIndirect in-person diplomacy through designated mediators, facilitators, or interlocutors will qualify, provided senior representatives of both the United States and Iran are participating in the same formal diplomatic process with the knowledge and authorization of their respective governments. The representatives need not be in the same room at the same time.\n\nFollow-on technical talks from the June 22 Switzerland round will not qualify by themselves. Technical, staff-level, working-group, implementation, monitoring, preparatory, or deconfliction meetings will not qualify unless they occur as part of a new formally convened senior-level U.S.-Iran peace-talks round.\n\nBrief greetings, chance encounters, photo opportunities, ceremonial appearances, or talks not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of the United States and Iran, and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-meeting-by-9btZGbUg-ikA.jpg",
+            "yes_token_id": "15633154783541507670612702084397504431047786317294274565096321513324678298222",
+            "yes_probability": 0.21,
+            "yes_best_bid": 0.2,
+            "yes_best_ask": 0.21,
+            "yes_spread": 0.009999999999999981,
+            "no_token_id": "85826981824725197395524763349301844926571152261165813414285625106489310379887",
+            "no_probability": 0.8,
+            "no_best_bid": 0.79,
+            "no_best_ask": 0.8,
+            "no_spread": 0.010000000000000009,
+            "volume": 950542.9859379982,
+            "liquidity": 272428.41000000015,
+            "neg_risk": false,
+            "end_date": "2026-07-03T23:59:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Resumption of talks indicates a higher chance of future meetings (1 hop).",
+            "event_id": "624218",
+            "event_title": "Next round of US-Iran peace talks by...?",
+            "event_slug": "next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+            "detected_yes_price": 0.35,
+            "detected_no_price": 0.6599999999999999,
+            "detected_at": 1782762018364,
+            "highest_price_change": 0.4000000000000001,
+            "highest_yes_price": 0.49,
+            "highest_no_price": 0.8,
+            "first_moved_at": 1782762403916,
+            "moved_side": "yes",
+            "peaked_at": 1782820406476
+          },
+          {
+            "id": "2646849",
+            "slug": "next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+            "condition_id": "0x79c850d5dd022d89aaf4f92105657d7a2e0518d4e4d4cf6cdce44d385fe029a7",
+            "title": "July 10",
+            "question": "US x Iran diplomatic meeting by July 10, 2026?",
+            "description": "On June 22, the first round of U.S.-Iran diplomatic talks in Switzerland concluded, with mediators reporting progress toward a roadmap for a final deal and follow-on technical talks expected to continue.(see: https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks). \n\nThis market will resolve to \u201cYes\u201d if the next formal senior-level round of peace talks between representatives of the United States and Iran begins by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo.\u201d\n\nA qualifying round must be a deliberate in-person diplomatic meeting or negotiating round concerning US-Iran relations, involving senior representatives of both the United States and Iran who are acting in an official capacity and are authorized to conduct or materially direct diplomacy on behalf of their governments.\n\nIndirect in-person diplomacy through designated mediators, facilitators, or interlocutors will qualify, provided senior representatives of both the United States and Iran are participating in the same formal diplomatic process with the knowledge and authorization of their respective governments. The representatives need not be in the same room at the same time.\n\nFollow-on technical talks from the June 22 Switzerland round will not qualify by themselves. Technical, staff-level, working-group, implementation, monitoring, preparatory, or deconfliction meetings will not qualify unless they occur as part of a new formally convened senior-level U.S.-Iran peace-talks round.\n\nBrief greetings, chance encounters, photo opportunities, ceremonial appearances, or talks not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of the United States and Iran, and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-meeting-by-9btZGbUg-ikA.jpg",
+            "yes_token_id": "5146937358519020769008195118872413556730822166860975473115035755844494719521",
+            "yes_probability": 0.34,
+            "yes_best_bid": 0.32,
+            "yes_best_ask": 0.34,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "19480842479182390622363413357307365857330305295526757900461399761636587956987",
+            "no_probability": 0.68,
+            "no_best_bid": 0.66,
+            "no_best_ask": 0.68,
+            "no_spread": 0.020000000000000018,
+            "volume": 361000.7575275496,
+            "liquidity": 601782.3600000001,
+            "neg_risk": false,
+            "end_date": "2026-07-10T23:59:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Increased diplomatic activity suggests a meeting is more likely (1 hop).",
+            "event_id": "624218",
+            "event_title": "Next round of US-Iran peace talks by...?",
+            "event_slug": "next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+            "detected_yes_price": 0.5,
+            "detected_no_price": 0.53,
+            "detected_at": 1782762018364,
+            "highest_price_change": 0.3584905660377357,
+            "highest_yes_price": 0.56,
+            "highest_no_price": 0.72,
+            "first_moved_at": 1782762175916,
+            "moved_side": "no",
+            "peaked_at": 1782814812157
+          },
+          {
+            "id": "2646850",
+            "slug": "next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+            "condition_id": "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec",
+            "title": "July 31",
+            "question": "US x Iran diplomatic meeting by July 31, 2026?",
+            "description": "On June 22, the first round of U.S.-Iran diplomatic talks in Switzerland concluded, with mediators reporting progress toward a roadmap for a final deal and follow-on technical talks expected to continue.(see: https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks). \n\nThis market will resolve to \u201cYes\u201d if the next formal senior-level round of peace talks between representatives of the United States and Iran begins by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo.\u201d\n\nA qualifying round must be a deliberate in-person diplomatic meeting or negotiating round concerning US-Iran relations, involving senior representatives of both the United States and Iran who are acting in an official capacity and are authorized to conduct or materially direct diplomacy on behalf of their governments.\n\nIndirect in-person diplomacy through designated mediators, facilitators, or interlocutors will qualify, provided senior representatives of both the United States and Iran are participating in the same formal diplomatic process with the knowledge and authorization of their respective governments. The representatives need not be in the same room at the same time.\n\nFollow-on technical talks from the June 22 Switzerland round will not qualify by themselves. Technical, staff-level, working-group, implementation, monitoring, preparatory, or deconfliction meetings will not qualify unless they occur as part of a new formally convened senior-level U.S.-Iran peace-talks round.\n\nBrief greetings, chance encounters, photo opportunities, ceremonial appearances, or talks not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of the United States and Iran, and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-meeting-by-9btZGbUg-ikA.jpg",
+            "yes_token_id": "95676548525614691656970153001244738030704823210041753577158504248850005676647",
+            "yes_probability": 0.74,
+            "yes_best_bid": 0.72,
+            "yes_best_ask": 0.74,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "25763685223319524083191986935913634904809447145745901125985995347509432734794",
+            "no_probability": 0.28,
+            "no_best_bid": 0.26,
+            "no_best_ask": 0.28,
+            "no_spread": 0.020000000000000018,
+            "volume": 239798.72635630902,
+            "liquidity": 758044.19,
+            "neg_risk": false,
+            "end_date": "2026-07-31T23:59:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Ongoing peace talks indicate a higher probability of future meetings (1 hop).",
+            "event_id": "624218",
+            "event_title": "Next round of US-Iran peace talks by...?",
+            "event_slug": "next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+            "detected_yes_price": 0.75,
+            "detected_no_price": 0.27,
+            "detected_at": 1782762018364,
+            "highest_price_change": 0.3333333333333332,
+            "highest_yes_price": 0.83,
+            "highest_no_price": 0.36,
+            "first_moved_at": 1782762022892,
+            "moved_side": "no",
+            "peaked_at": 1782816278867
+          },
+          {
+            "id": "2685911",
+            "slug": "next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+            "condition_id": "0x325d2f917428a0d39ac7563770ec519208666b8c926091de1a1934d8570b64cd",
+            "title": "July 17",
+            "question": "US x Iran diplomatic meeting by July 17, 2026?",
+            "description": "On June 22, the first round of U.S.-Iran diplomatic talks in Switzerland concluded, with mediators reporting progress toward a roadmap for a final deal and follow-on technical talks expected to continue.(see: https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks). \n\nThis market will resolve to \u201cYes\u201d if the next formal senior-level round of peace talks between representatives of the United States and Iran begins by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo.\u201d\n\nA qualifying round must be a deliberate in-person diplomatic meeting or negotiating round concerning US-Iran relations, involving senior representatives of both the United States and Iran who are acting in an official capacity and are authorized to conduct or materially direct diplomacy on behalf of their governments.\n\nIndirect in-person diplomacy through designated mediators, facilitators, or interlocutors will qualify, provided senior representatives of both the United States and Iran are participating in the same formal diplomatic process with the knowledge and authorization of their respective governments. The representatives need not be in the same room at the same time.\n\nFollow-on technical talks from the June 22 Switzerland round will not qualify by themselves. Technical, staff-level, working-group, implementation, monitoring, preparatory, or deconfliction meetings will not qualify unless they occur as part of a new formally convened senior-level U.S.-Iran peace-talks round.\n\nBrief greetings, chance encounters, photo opportunities, ceremonial appearances, or talks not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of the United States and Iran, and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-meeting-by-9btZGbUg-ikA.jpg",
+            "yes_token_id": "61185693373091340617494150277851514641770797636186465474956889484881632951438",
+            "yes_probability": 0.63,
+            "yes_best_bid": 0.57,
+            "yes_best_ask": 0.63,
+            "yes_spread": 0.06000000000000005,
+            "no_token_id": "12926245040899451804437509621465764609213522509461670123611024472259491643478",
+            "no_probability": 0.43,
+            "no_best_bid": 0.37,
+            "no_best_ask": 0.43,
+            "no_spread": 0.06,
+            "volume": 56444.12053999004,
+            "liquidity": 709085.6799999998,
+            "neg_risk": false,
+            "end_date": "2026-07-17T23:59:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "The ongoing peace talks suggest a higher chance of meetings (1 hop).",
+            "event_id": "624218",
+            "event_title": "Next round of US-Iran peace talks by...?",
+            "event_slug": "next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+            "detected_yes_price": 0.68,
+            "detected_no_price": 0.37,
+            "detected_at": 1782762018364,
+            "highest_price_change": 0.5135135135135137,
+            "highest_yes_price": 0.71,
+            "highest_no_price": 0.56,
+            "first_moved_at": 1782774151482,
+            "moved_side": "no",
+            "peaked_at": 1782815235835
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 10,
+            "price": 70.469
+          }
+        ],
+        "topics": [
+          "ai-tech",
+          "shutdown",
+          "iran-regime",
+          "ukraine-war"
+        ],
+        "categories": [
+          "finance",
+          "geopolitics",
+          "tech",
+          "world",
+          "climate",
+          "economy"
+        ]
+      },
+      "related_market": {
+        "id": "2646848",
+        "slug": "next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+        "condition_id": "0x545e1bf6ec42e0e8a776a3c3e11ed225f8d3dfcc74f98656e142f99a2b718383",
+        "title": "July 3",
+        "question": "US x Iran diplomatic meeting by July 3, 2026?",
+        "description": "On June 22, the first round of U.S.-Iran diplomatic talks in Switzerland concluded, with mediators reporting progress toward a roadmap for a final deal and follow-on technical talks expected to continue.(see: https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks). \n\nThis market will resolve to \u201cYes\u201d if the next formal senior-level round of peace talks between representatives of the United States and Iran begins by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo.\u201d\n\nA qualifying round must be a deliberate in-person diplomatic meeting or negotiating round concerning US-Iran relations, involving senior representatives of both the United States and Iran who are acting in an official capacity and are authorized to conduct or materially direct diplomacy on behalf of their governments.\n\nIndirect in-person diplomacy through designated mediators, facilitators, or interlocutors will qualify, provided senior representatives of both the United States and Iran are participating in the same formal diplomatic process with the knowledge and authorization of their respective governments. The representatives need not be in the same room at the same time.\n\nFollow-on technical talks from the June 22 Switzerland round will not qualify by themselves. Technical, staff-level, working-group, implementation, monitoring, preparatory, or deconfliction meetings will not qualify unless they occur as part of a new formally convened senior-level U.S.-Iran peace-talks round.\n\nBrief greetings, chance encounters, photo opportunities, ceremonial appearances, or talks not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of the United States and Iran, and a consensus of credible reporting.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-meeting-by-9btZGbUg-ikA.jpg",
+        "yes_token_id": "15633154783541507670612702084397504431047786317294274565096321513324678298222",
+        "yes_probability": 0.21,
+        "yes_best_bid": 0.2,
+        "yes_best_ask": 0.21,
+        "yes_spread": 0.009999999999999981,
+        "no_token_id": "85826981824725197395524763349301844926571152261165813414285625106489310379887",
+        "no_probability": 0.8,
+        "no_best_bid": 0.79,
+        "no_best_ask": 0.8,
+        "no_spread": 0.010000000000000009,
+        "volume": 950542.9859379982,
+        "liquidity": 272428.41000000015,
+        "neg_risk": false,
+        "end_date": "2026-07-03T23:59:00Z",
+        "categories": [
+          "politics",
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Resumption of talks indicates a higher chance of future meetings (1 hop).",
+        "event_id": "624218",
+        "event_title": "Next round of US-Iran peace talks by...?",
+        "event_slug": "next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+        "detected_yes_price": 0.35,
+        "detected_no_price": 0.6599999999999999,
+        "detected_at": 1782762018364,
+        "highest_price_change": 0.4000000000000001,
+        "highest_yes_price": 0.49,
+        "highest_no_price": 0.8,
+        "first_moved_at": 1782762403916,
+        "moved_side": "yes",
+        "peaked_at": 1782820406476
+      },
+      "_scraped_at": "2026-06-30T19:15:06.021578+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 3,
+      "feed_item": {
+        "id": "def5af6e-ae50-49fe-b920-7b66da2d1e30",
+        "timestamp": 1782775741630,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "def5af6e-ae50-49fe-b920-7b66da2d1e30",
+          "text": "White House: Trump greenlights temporary halt on some phosphate fertilizer tariffs from Morocco|FJ",
+          "channel": "FinancialJuice",
+          "timestamp": 1782775741630,
+          "link": "https://t.me/FinancialJuice"
+        },
+        "osint": false,
+        "country": "US",
+        "countries": [
+          "US",
+          "MA"
+        ],
+        "related_markets": [
+          {
+            "id": "1436458",
+            "slug": "us-trade-deficit-in-2026",
+            "condition_id": "0xaaf3bc4e63735b3bfcc7a008e00ce7466a699584a50e92d94cd256a0ced72a7c",
+            "title": "<500B",
+            "question": "Will the 2026 trade deficit be less than 500B?",
+            "description": "This market will resolve according to the annual US Goods and Services Deficit for 2026, as reported by the US Bureau of Economic Analysis (BEA) and the US Census Bureau (USCB) in the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026, expected to be released in February 2027.\n\nUpon publication, the specified release will be made available at: https://www.bea.gov/news/current-releases\n\nThe relevant figure may be found in the annual summary under \u201cExports, Imports, and Balance (exhibit 1)\u201d. Changes in the BEA or USCB\u2019s reporting format will not disqualify a relevant published figure from counting.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe primary resolution source for this market will be the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 from the US Bureau of Economic Analysis and the US Census Bureau. If this release is not published by April 30, 2027 ET, another credible source on the annual US Goods and Services Deficit for 2026 will be chosen.\n\nNote: any revisions to the annual US Goods and Services Deficit for 2026 made after the publication of the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-trade-deficit-in-2026-Hn37ZN5inoET.jpg",
+            "yes_token_id": "78849497444444188157350698961362879013549528532372718983538139639352715072954",
+            "yes_probability": 0.05,
+            "yes_best_bid": 0.03,
+            "yes_best_ask": 0.05,
+            "yes_spread": 0.020000000000000004,
+            "no_token_id": "16702253457637369355512559909589950195972393433629954055252233038205090796405",
+            "no_probability": 0.97,
+            "no_best_bid": 0.95,
+            "no_best_ask": 0.97,
+            "no_spread": 0.020000000000000018,
+            "volume": 16813.295994999997,
+            "liquidity": 43496.12999999999,
+            "neg_risk": true,
+            "end_date": "2027-02-28T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Tariff halt directly impacts trade balance (1 hop).",
+            "event_id": "230330",
+            "event_title": "US Trade Deficit in 2026?",
+            "event_slug": "us-trade-deficit-in-2026",
+            "detected_yes_price": 0.05,
+            "detected_no_price": 0.97,
+            "detected_at": 1782775754715,
+            "highest_price_change": 0.1999999999999999,
+            "highest_yes_price": 0.06,
+            "highest_no_price": 0.97,
+            "first_moved_at": 1782792713109,
+            "moved_side": "yes",
+            "peaked_at": 1782792713109
+          },
+          {
+            "id": "1436460",
+            "slug": "us-trade-deficit-in-2026",
+            "condition_id": "0xac9d6105090f5e372ceb14422889be27f4a07a8b10497786d2df5946d0d7e9c7",
+            "title": "600\u2013700B",
+            "question": "Will the 2026 trade deficit be between 600B and 700B?",
+            "description": "This market will resolve according to the annual US Goods and Services Deficit for 2026, as reported by the US Bureau of Economic Analysis (BEA) and the US Census Bureau (USCB) in the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026, expected to be released in February 2027.\n\nUpon publication, the specified release will be made available at: https://www.bea.gov/news/current-releases\n\nThe relevant figure may be found in the annual summary under \u201cExports, Imports, and Balance (exhibit 1)\u201d. Changes in the BEA or USCB\u2019s reporting format will not disqualify a relevant published figure from counting.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe primary resolution source for this market will be the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 from the US Bureau of Economic Analysis and the US Census Bureau. If this release is not published by April 30, 2027 ET, another credible source on the annual US Goods and Services Deficit for 2026 will be chosen.\n\nNote: any revisions to the annual US Goods and Services Deficit for 2026 made after the publication of the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-trade-deficit-in-2026-Hn37ZN5inoET.jpg",
+            "yes_token_id": "27973691964766109836544315595854712262337866225236386768284652101613679398793",
+            "yes_probability": 0.146,
+            "yes_best_bid": 0.057,
+            "yes_best_ask": 0.146,
+            "yes_spread": 0.089,
+            "no_token_id": "10172566073036860034393519395720286395513476290773008122020667669817961861000",
+            "no_probability": 0.943,
+            "no_best_bid": 0.854,
+            "no_best_ask": 0.943,
+            "no_spread": 0.08899999999999997,
+            "volume": 505.23353800000007,
+            "liquidity": 174197.34000000008,
+            "neg_risk": true,
+            "end_date": "2027-02-28T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Direct impact on trade balance from tariff changes (1 hop).",
+            "event_id": "230330",
+            "event_title": "US Trade Deficit in 2026?",
+            "event_slug": "us-trade-deficit-in-2026",
+            "detected_yes_price": 0.143,
+            "detected_no_price": 0.943,
+            "detected_at": 1782775754715,
+            "highest_price_change": 0.048951048951049,
+            "highest_yes_price": 0.15,
+            "highest_no_price": 0.949,
+            "first_moved_at": 1782776700097,
+            "moved_side": "yes",
+            "peaked_at": 1782776706819
+          },
+          {
+            "id": "1436462",
+            "slug": "us-trade-deficit-in-2026",
+            "condition_id": "0xd3c6552a51528c74c28471aa0a5e13fbafdf84f02a40d11bf173b94032b7e7ef",
+            "title": "800\u2013900B",
+            "question": "Will the 2026 trade deficit be between 800B and 900B?",
+            "description": "This market will resolve according to the annual US Goods and Services Deficit for 2026, as reported by the US Bureau of Economic Analysis (BEA) and the US Census Bureau (USCB) in the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026, expected to be released in February 2027.\n\nUpon publication, the specified release will be made available at: https://www.bea.gov/news/current-releases\n\nThe relevant figure may be found in the annual summary under \u201cExports, Imports, and Balance (exhibit 1)\u201d. Changes in the BEA or USCB\u2019s reporting format will not disqualify a relevant published figure from counting.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe primary resolution source for this market will be the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 from the US Bureau of Economic Analysis and the US Census Bureau. If this release is not published by April 30, 2027 ET, another credible source on the annual US Goods and Services Deficit for 2026 will be chosen.\n\nNote: any revisions to the annual US Goods and Services Deficit for 2026 made after the publication of the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-trade-deficit-in-2026-Hn37ZN5inoET.jpg",
+            "yes_token_id": "44017019315782922634457300618919482744803730196875933928315824275516729043334",
+            "yes_probability": 0.43,
+            "yes_best_bid": 0.28,
+            "yes_best_ask": 0.43,
+            "yes_spread": 0.14999999999999997,
+            "no_token_id": "55867192153318522579011935519518933000287056983134864115793841072368253621603",
+            "no_probability": 0.72,
+            "no_best_bid": 0.57,
+            "no_best_ask": 0.72,
+            "no_spread": 0.15000000000000002,
+            "volume": 1007.858232,
+            "liquidity": 136498.86000000007,
+            "neg_risk": true,
+            "end_date": "2027-02-28T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Tariff changes directly affect trade balance (1 hop).",
+            "event_id": "230330",
+            "event_title": "US Trade Deficit in 2026?",
+            "event_slug": "us-trade-deficit-in-2026",
+            "detected_yes_price": 0.43,
+            "detected_no_price": 0.71,
+            "detected_at": 1782775754715,
+            "highest_price_change": 0.2558139534883722,
+            "highest_yes_price": 0.54,
+            "highest_no_price": 0.72,
+            "first_moved_at": 1782776457134,
+            "moved_side": "yes",
+            "peaked_at": 1782776584343
+          },
+          {
+            "id": "1436463",
+            "slug": "us-trade-deficit-in-2026",
+            "condition_id": "0x26b69058c1c2c53a8e439504a8755ce75d469ba3a1c82bca934ea7a46f26529e",
+            "title": "900B\u20131T",
+            "question": "Will the 2026 trade deficit be between 900B and 1T?",
+            "description": "This market will resolve according to the annual US Goods and Services Deficit for 2026, as reported by the US Bureau of Economic Analysis (BEA) and the US Census Bureau (USCB) in the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026, expected to be released in February 2027.\n\nUpon publication, the specified release will be made available at: https://www.bea.gov/news/current-releases\n\nThe relevant figure may be found in the annual summary under \u201cExports, Imports, and Balance (exhibit 1)\u201d. Changes in the BEA or USCB\u2019s reporting format will not disqualify a relevant published figure from counting.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe primary resolution source for this market will be the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 from the US Bureau of Economic Analysis and the US Census Bureau. If this release is not published by April 30, 2027 ET, another credible source on the annual US Goods and Services Deficit for 2026 will be chosen.\n\nNote: any revisions to the annual US Goods and Services Deficit for 2026 made after the publication of the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-trade-deficit-in-2026-Hn37ZN5inoET.jpg",
+            "yes_token_id": "106954541463172441153958311986648134847708254123222442997405232679090482865750",
+            "yes_probability": 0.16,
+            "yes_best_bid": 0.09,
+            "yes_best_ask": 0.16,
+            "yes_spread": 0.07,
+            "no_token_id": "61472080815013929868564565937575699345479156899354364969053537768689252061185",
+            "no_probability": 0.91,
+            "no_best_bid": 0.84,
+            "no_best_ask": 0.91,
+            "no_spread": 0.07000000000000006,
+            "volume": 1085.7941500000002,
+            "liquidity": 141849.52999999994,
+            "neg_risk": true,
+            "end_date": "2027-02-28T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Direct link between tariff policy and trade balance (1 hop).",
+            "event_id": "230330",
+            "event_title": "US Trade Deficit in 2026?",
+            "event_slug": "us-trade-deficit-in-2026",
+            "detected_yes_price": 0.16,
+            "detected_no_price": 0.91,
+            "detected_at": 1782775754715,
+            "highest_price_change": 0.1875,
+            "highest_yes_price": 0.19,
+            "highest_no_price": 0.94,
+            "first_moved_at": 1782776664472,
+            "moved_side": "yes",
+            "peaked_at": 1782789970911
+          },
+          {
+            "id": "1436465",
+            "slug": "us-trade-deficit-in-2026",
+            "condition_id": "0x306b01a825a423668beec573456610843ad4c47f72d1fb70d880f55b10109d91",
+            "title": "1.1T+",
+            "question": "Will the 2026 trade deficit be 1.1T or more?",
+            "description": "This market will resolve according to the annual US Goods and Services Deficit for 2026, as reported by the US Bureau of Economic Analysis (BEA) and the US Census Bureau (USCB) in the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026, expected to be released in February 2027.\n\nUpon publication, the specified release will be made available at: https://www.bea.gov/news/current-releases\n\nThe relevant figure may be found in the annual summary under \u201cExports, Imports, and Balance (exhibit 1)\u201d. Changes in the BEA or USCB\u2019s reporting format will not disqualify a relevant published figure from counting.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe primary resolution source for this market will be the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 from the US Bureau of Economic Analysis and the US Census Bureau. If this release is not published by April 30, 2027 ET, another credible source on the annual US Goods and Services Deficit for 2026 will be chosen.\n\nNote: any revisions to the annual US Goods and Services Deficit for 2026 made after the publication of the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-trade-deficit-in-2026-Hn37ZN5inoET.jpg",
+            "yes_token_id": "5719638015015095021777253576720314166686827284908160443837910371323865840881",
+            "yes_probability": 0.037,
+            "yes_best_bid": 0.01,
+            "yes_best_ask": 0.037,
+            "yes_spread": 0.026999999999999996,
+            "no_token_id": "81041681824483581150311469351093877024153338807206649092878012100346498915016",
+            "no_probability": 0.99,
+            "no_best_bid": 0.963,
+            "no_best_ask": 0.99,
+            "no_spread": 0.027000000000000024,
+            "volume": 645.9066340000002,
+            "liquidity": 99811.45000000004,
+            "neg_risk": true,
+            "end_date": "2027-02-28T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Tariff changes directly influence trade balance (1 hop).",
+            "event_id": "230330",
+            "event_title": "US Trade Deficit in 2026?",
+            "event_slug": "us-trade-deficit-in-2026",
+            "detected_yes_price": 0.038,
+            "detected_no_price": 0.989,
+            "detected_at": 1782775754715,
+            "highest_price_change": 0.736842105263158,
+            "highest_yes_price": 0.066,
+            "highest_no_price": 0.99,
+            "first_moved_at": 1782789966338,
+            "moved_side": "yes",
+            "peaked_at": 1782799326584
+          }
+        ],
+        "topics": [
+          "trump-tariffs"
+        ],
+        "categories": [
+          "economy",
+          "politics"
+        ]
+      },
+      "related_market": {
+        "id": "1436462",
+        "slug": "us-trade-deficit-in-2026",
+        "condition_id": "0xd3c6552a51528c74c28471aa0a5e13fbafdf84f02a40d11bf173b94032b7e7ef",
+        "title": "800\u2013900B",
+        "question": "Will the 2026 trade deficit be between 800B and 900B?",
+        "description": "This market will resolve according to the annual US Goods and Services Deficit for 2026, as reported by the US Bureau of Economic Analysis (BEA) and the US Census Bureau (USCB) in the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026, expected to be released in February 2027.\n\nUpon publication, the specified release will be made available at: https://www.bea.gov/news/current-releases\n\nThe relevant figure may be found in the annual summary under \u201cExports, Imports, and Balance (exhibit 1)\u201d. Changes in the BEA or USCB\u2019s reporting format will not disqualify a relevant published figure from counting.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe primary resolution source for this market will be the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 from the US Bureau of Economic Analysis and the US Census Bureau. If this release is not published by April 30, 2027 ET, another credible source on the annual US Goods and Services Deficit for 2026 will be chosen.\n\nNote: any revisions to the annual US Goods and Services Deficit for 2026 made after the publication of the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 will not be considered.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-trade-deficit-in-2026-Hn37ZN5inoET.jpg",
+        "yes_token_id": "44017019315782922634457300618919482744803730196875933928315824275516729043334",
+        "yes_probability": 0.43,
+        "yes_best_bid": 0.28,
+        "yes_best_ask": 0.43,
+        "yes_spread": 0.14999999999999997,
+        "no_token_id": "55867192153318522579011935519518933000287056983134864115793841072368253621603",
+        "no_probability": 0.72,
+        "no_best_bid": 0.57,
+        "no_best_ask": 0.72,
+        "no_spread": 0.15000000000000002,
+        "volume": 1007.858232,
+        "liquidity": 136498.86000000007,
+        "neg_risk": true,
+        "end_date": "2027-02-28T00:00:00Z",
+        "categories": [
+          "economy"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 9,
+        "impact_level": "critical",
+        "impact_reason": "Tariff changes directly affect trade balance (1 hop).",
+        "event_id": "230330",
+        "event_title": "US Trade Deficit in 2026?",
+        "event_slug": "us-trade-deficit-in-2026",
+        "detected_yes_price": 0.43,
+        "detected_no_price": 0.71,
+        "detected_at": 1782775754715,
+        "highest_price_change": 0.2558139534883722,
+        "highest_yes_price": 0.54,
+        "highest_no_price": 0.72,
+        "first_moved_at": 1782776457134,
+        "moved_side": "yes",
+        "peaked_at": 1782776584343
+      },
+      "_scraped_at": "2026-06-30T19:15:06.021578+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 4,
+      "feed_item": {
+        "id": "3d0e6c91-c31e-405c-8454-efa7913f7ecb",
+        "timestamp": 1782798213922,
+        "tweet": {
+          "feed_item_id": "3d0e6c91-c31e-405c-8454-efa7913f7ecb",
+          "post_id": "2071831990303944905",
+          "post_type": "tweet",
+          "created_at": 1782798213922,
+          "user": {
+            "uid": "3295423333",
+            "handle": "FirstSquawk",
+            "display_name": "First Squawk",
+            "pfp": "https://pbs.twimg.com/profile_images/1039778545738964992/6fl6RNN0.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "France will impose a total \u20ac5 tax on low-value parcels imported from outside the EU starting in November, says Minister Papin.",
+          "link": "https://twitter.com/FirstSquawk/status/2071831990303944905"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "FR",
+        "countries": [
+          "FR"
+        ],
+        "related_markets": [
+          {
+            "id": "1722538",
+            "slug": "will-france-pass-a-national-budget-by-december-31",
+            "condition_id": "0x68ad245cb933f6f43524215e2c54af2049c7fd6d187d48b0e6880fe81f27064b",
+            "title": "",
+            "question": "Will France pass a national budget by December 31?",
+            "description": "This market will resolve to \"Yes\" if the French parliament passes a 2027 national budget (Loi de Finances pour 2027) and it is published in the Official Journal of France (Journal Officiel) by December 31, 2026, 11:59 PM CET (UTC+01:00). Otherwise, this market will resolve to \u201cNo.\u201d\n\nA qualifying budget must provide funding for the entire year 2027. Special or emergency funding bills will not qualify.\n\nThe primary resolution source for this market will be official information from the French Government, specifically the Official Journal of France (Journal Officiel) (journal-officiel.gouv.fr). However, a consensus of credible reporting will also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/frnat-6ee7cd46e2.jpg",
+            "yes_token_id": "83366601025064914569346173587137003767309282287673123797445039836022857196088",
+            "yes_probability": 0.43,
+            "yes_best_bid": 0.3,
+            "yes_best_ask": 0.43,
+            "yes_spread": 0.13,
+            "no_token_id": "112821944796634935104382194373124637822900731387001381742805822694746211545590",
+            "no_probability": 0.7,
+            "no_best_bid": 0.57,
+            "no_best_ask": 0.7,
+            "no_spread": 0.13,
+            "volume": 6121.439762,
+            "liquidity": 51066.469999999994,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 4,
+            "impact_level": "low",
+            "impact_reason": "Tax on parcels is indirect context for budget passage.",
+            "event_id": "308357",
+            "event_title": "Will France pass a national budget by December 31?",
+            "event_slug": "will-france-pass-a-national-budget-by-december-31",
+            "detected_yes_price": 0.5,
+            "detected_no_price": 0.77,
+            "detected_at": 1782798388160,
+            "highest_price_change": 0.20779220779220783,
+            "highest_yes_price": 0.52,
+            "highest_no_price": 0.93,
+            "first_moved_at": 1782798396076,
+            "moved_side": "no",
+            "peaked_at": 1782800513326
+          }
+        ],
+        "topics": null,
+        "categories": [
+          "world"
+        ]
+      },
+      "related_market": {
+        "id": "1722538",
+        "slug": "will-france-pass-a-national-budget-by-december-31",
+        "condition_id": "0x68ad245cb933f6f43524215e2c54af2049c7fd6d187d48b0e6880fe81f27064b",
+        "title": "",
+        "question": "Will France pass a national budget by December 31?",
+        "description": "This market will resolve to \"Yes\" if the French parliament passes a 2027 national budget (Loi de Finances pour 2027) and it is published in the Official Journal of France (Journal Officiel) by December 31, 2026, 11:59 PM CET (UTC+01:00). Otherwise, this market will resolve to \u201cNo.\u201d\n\nA qualifying budget must provide funding for the entire year 2027. Special or emergency funding bills will not qualify.\n\nThe primary resolution source for this market will be official information from the French Government, specifically the Official Journal of France (Journal Officiel) (journal-officiel.gouv.fr). However, a consensus of credible reporting will also be used.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/frnat-6ee7cd46e2.jpg",
+        "yes_token_id": "83366601025064914569346173587137003767309282287673123797445039836022857196088",
+        "yes_probability": 0.43,
+        "yes_best_bid": 0.3,
+        "yes_best_ask": 0.43,
+        "yes_spread": 0.13,
+        "no_token_id": "112821944796634935104382194373124637822900731387001381742805822694746211545590",
+        "no_probability": 0.7,
+        "no_best_bid": 0.57,
+        "no_best_ask": 0.7,
+        "no_spread": 0.13,
+        "volume": 6121.439762,
+        "liquidity": 51066.469999999994,
+        "neg_risk": false,
+        "end_date": "2026-12-31T00:00:00Z",
+        "categories": [
+          "politics",
+          "economy"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 4,
+        "impact_level": "low",
+        "impact_reason": "Tax on parcels is indirect context for budget passage.",
+        "event_id": "308357",
+        "event_title": "Will France pass a national budget by December 31?",
+        "event_slug": "will-france-pass-a-national-budget-by-december-31",
+        "detected_yes_price": 0.5,
+        "detected_no_price": 0.77,
+        "detected_at": 1782798388160,
+        "highest_price_change": 0.20779220779220783,
+        "highest_yes_price": 0.52,
+        "highest_no_price": 0.93,
+        "first_moved_at": 1782798396076,
+        "moved_side": "no",
+        "peaked_at": 1782800513326
+      },
+      "_scraped_at": "2026-06-30T19:15:06.021578+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 5,
+      "feed_item": {
+        "id": "82db68ce-eb0f-430c-a1a8-3c56f60b4f5b",
+        "timestamp": 1782775898882,
+        "tweet": {
+          "feed_item_id": "82db68ce-eb0f-430c-a1a8-3c56f60b4f5b",
+          "post_id": "2071738394242339100",
+          "post_type": "tweet",
+          "created_at": 1782775898882,
+          "user": {
+            "uid": "3295423333",
+            "handle": "FirstSquawk",
+            "display_name": "First Squawk",
+            "pfp": "https://pbs.twimg.com/profile_images/1039778545738964992/6fl6RNN0.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "TRUMP AUTHORISES TEMPORARY SUSPENSION OF CERTAIN DUTIES ON PHOSPHATE FERTILIZER IMPORTED FROM MOROCCO - WHITE HOUSE",
+          "link": "https://twitter.com/FirstSquawk/status/2071738394242339100"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "US",
+        "countries": [
+          "US",
+          "MA"
+        ],
+        "related_markets": [
+          {
+            "id": "956317",
+            "slug": "will-trump-create-a-tariff-dividend-by-june-30",
+            "condition_id": "0xfa772932032462681258298f5b3471dd5f2f5ee514b51558db05a39556d5e97f",
+            "title": "",
+            "question": "Will Trump create a tariff dividend by June 30?",
+            "description": "This market will resolve to \"Yes\" if the Trump Administration formally creates (e.g., by signing federal legislation or performing executive action) a tariff dividend/rebate by June 30, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nAny bill signed into law or executive action taken within this market's time frame will qualify, regardless of when the law or action goes into effect.\n\nA qualifying payment of any amount distributed to any segment of individual US taxpayers will qualify as long as it is clearly attributed primarily to tariff revenue rather than a routine tax refund or credit.\n\nThe resolution source will be a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-provide-taxpayers-with-stimulus-checks-using-tariff-revenue-BgkQI_m7yIJR.jpg",
+            "yes_token_id": "21360292284241083899535445129359948408264362858995341136008775396960608015643",
+            "yes_probability": 0.002,
+            "yes_best_bid": 0.001,
+            "yes_best_ask": 0.002,
+            "yes_spread": 0.001,
+            "no_token_id": "72323047505766643736063934245435623134148137976232089270212832331555931581411",
+            "no_probability": 0.999,
+            "no_best_bid": 0.998,
+            "no_best_ask": 0.999,
+            "no_spread": 0.0010000000000000009,
+            "volume": 20345.37294000001,
+            "liquidity": 132804.37,
+            "neg_risk": false,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Official statement on tariff duties = 1 hop to tariff dividend.",
+            "event_id": "107692",
+            "event_title": "Will Trump create a tariff dividend by June 30?",
+            "event_slug": "will-trump-create-a-tariff-dividend-by-june-30",
+            "detected_yes_price": 0.003,
+            "detected_no_price": 0.998,
+            "detected_at": 1782775923943,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.003,
+            "highest_no_price": 0.998
+          },
+          {
+            "id": "2734360",
+            "slug": "will-trump-create-a-tariff-dividend-by-december-31-2026-20260628223032088",
+            "condition_id": "0xb39eac53d6f459aa03c64163ac6ab0814eed5e03820e3deb6f84204b32886732",
+            "title": "",
+            "question": "Will Trump create a tariff dividend by December 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if the Trump Administration formally creates (e.g., by signing federal legislation or performing executive action) a tariff dividend/rebate by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nAny bill signed into law or executive action taken within this market's time frame will qualify, regardless of when the law or action goes into effect.\n\nA qualifying payment of any amount distributed to any segment of individual US taxpayers will qualify as long as it is clearly attributed primarily to tariff revenue rather than a routine tax refund or credit.\n\nThe resolution source will be a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-provide-taxpayers-with-stimulus-checks-using-tariff-revenue-BgkQI_m7yIJR.jpg",
+            "yes_token_id": "103730759791182610508844233983354172701398953572596676041294371140435417958620",
+            "yes_probability": 0.35,
+            "yes_best_bid": 0.13,
+            "yes_best_ask": 0.35,
+            "yes_spread": 0.21999999999999997,
+            "no_token_id": "111306360519732672157188322114717159848889522455840944105370285072390830823783",
+            "no_probability": 0.87,
+            "no_best_bid": 0.65,
+            "no_best_ask": 0.87,
+            "no_spread": 0.21999999999999997,
+            "volume": 86.1296,
+            "liquidity": 33025.369999999995,
+            "neg_risk": false,
+            "end_date": "2026-12-31T23:59:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Official statement on tariff duties = 1 hop to tariff dividend.",
+            "event_id": "648747",
+            "event_title": "Will Trump create a tariff dividend by December 31, 2026?",
+            "event_slug": "will-trump-create-a-tariff-dividend-by-december-31-2026-20260628223032088",
+            "detected_yes_price": 0.85,
+            "detected_no_price": 0.85,
+            "detected_at": 1782775923943,
+            "highest_price_change": 0.1411764705882353,
+            "highest_yes_price": 0.97,
+            "highest_no_price": 0.9,
+            "first_moved_at": 1782775994163,
+            "moved_side": "yes",
+            "peaked_at": 1782776749399
+          }
+        ],
+        "topics": [
+          "ai-tech"
+        ],
+        "categories": [
+          "tech",
+          "politics"
+        ]
+      },
+      "related_market": {
+        "id": "2734360",
+        "slug": "will-trump-create-a-tariff-dividend-by-december-31-2026-20260628223032088",
+        "condition_id": "0xb39eac53d6f459aa03c64163ac6ab0814eed5e03820e3deb6f84204b32886732",
+        "title": "",
+        "question": "Will Trump create a tariff dividend by December 31, 2026?",
+        "description": "This market will resolve to \"Yes\" if the Trump Administration formally creates (e.g., by signing federal legislation or performing executive action) a tariff dividend/rebate by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nAny bill signed into law or executive action taken within this market's time frame will qualify, regardless of when the law or action goes into effect.\n\nA qualifying payment of any amount distributed to any segment of individual US taxpayers will qualify as long as it is clearly attributed primarily to tariff revenue rather than a routine tax refund or credit.\n\nThe resolution source will be a consensus of credible reporting.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-provide-taxpayers-with-stimulus-checks-using-tariff-revenue-BgkQI_m7yIJR.jpg",
+        "yes_token_id": "103730759791182610508844233983354172701398953572596676041294371140435417958620",
+        "yes_probability": 0.35,
+        "yes_best_bid": 0.13,
+        "yes_best_ask": 0.35,
+        "yes_spread": 0.21999999999999997,
+        "no_token_id": "111306360519732672157188322114717159848889522455840944105370285072390830823783",
+        "no_probability": 0.87,
+        "no_best_bid": 0.65,
+        "no_best_ask": 0.87,
+        "no_spread": 0.21999999999999997,
+        "volume": 86.1296,
+        "liquidity": 33025.369999999995,
+        "neg_risk": false,
+        "end_date": "2026-12-31T23:59:00Z",
+        "categories": [
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 9,
+        "impact_level": "critical",
+        "impact_reason": "Official statement on tariff duties = 1 hop to tariff dividend.",
+        "event_id": "648747",
+        "event_title": "Will Trump create a tariff dividend by December 31, 2026?",
+        "event_slug": "will-trump-create-a-tariff-dividend-by-december-31-2026-20260628223032088",
+        "detected_yes_price": 0.85,
+        "detected_no_price": 0.85,
+        "detected_at": 1782775923943,
+        "highest_price_change": 0.1411764705882353,
+        "highest_yes_price": 0.97,
+        "highest_no_price": 0.9,
+        "first_moved_at": 1782775994163,
+        "moved_side": "yes",
+        "peaked_at": 1782776749399
+      },
+      "_scraped_at": "2026-06-30T19:15:06.021578+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "global_tension_score": 40,
+      "global_tension_level": "ELEVATED",
+      "countries": [
+        {
+          "country": "GB",
+          "count": 11,
+          "recent": [
+            {
+              "id": "a3147e59-990b-42a5-9f35-72c95741dfda",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1782833107000
+            },
+            {
+              "id": "411dea22-9270-4ea9-8e8c-f027a2b1b9e9",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1782840289330
+            },
+            {
+              "id": "f3ecd3af-fe53-4d25-87f9-4b76e59af78a",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782841309300
+            },
+            {
+              "id": "a7ae7988-14a6-41a6-b00b-5cd20f328398",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782829189623
+            },
+            {
+              "id": "7612ca08-bd7b-4394-8786-66c33cdeae4b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782830509761
+            },
+            {
+              "id": "f5317306-548b-47cb-8216-b14603591dd5",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1782826280420
+            },
+            {
+              "id": "7d4cdb03-4b45-42fd-85df-ed8b34dbf911",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782830079000
+            },
+            {
+              "id": "6beed842-4589-41e5-a738-6dd353acb834",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1782831828329
+            },
+            {
+              "id": "0744b608-c6f8-4d83-8e77-bb92b3b71d1a",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782834949903
+            },
+            {
+              "id": "fa8bfc6d-4bfa-46ed-b6b6-71d09d9e840a",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782845209195
+            },
+            {
+              "id": "853ddbd4-0f00-45ac-af31-c177da8c5315",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782828110057
+            }
+          ],
+          "volume": 8653152.901327128,
+          "critical_signals": 1,
+          "high_signals": 7,
+          "low_signals": 3
+        },
+        {
+          "country": "UA",
+          "count": 11,
+          "recent": [
+            {
+              "id": "a3147e59-990b-42a5-9f35-72c95741dfda",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1782833107000
+            },
+            {
+              "id": "411dea22-9270-4ea9-8e8c-f027a2b1b9e9",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1782840289330
+            },
+            {
+              "id": "f3ecd3af-fe53-4d25-87f9-4b76e59af78a",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782841309300
+            },
+            {
+              "id": "a7ae7988-14a6-41a6-b00b-5cd20f328398",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782829189623
+            },
+            {
+              "id": "7612ca08-bd7b-4394-8786-66c33cdeae4b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782830509761
+            },
+            {
+              "id": "f5317306-548b-47cb-8216-b14603591dd5",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1782826280420
+            },
+            {
+              "id": "7d4cdb03-4b45-42fd-85df-ed8b34dbf911",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782830079000
+            },
+            {
+              "id": "6beed842-4589-41e5-a738-6dd353acb834",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1782831828329
+            },
+            {
+              "id": "0744b608-c6f8-4d83-8e77-bb92b3b71d1a",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782834949903
+            },
+            {
+              "id": "fa8bfc6d-4bfa-46ed-b6b6-71d09d9e840a",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782845209195
+            },
+            {
+              "id": "853ddbd4-0f00-45ac-af31-c177da8c5315",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782828110057
+            }
+          ],
+          "volume": 8653152.901327128,
+          "critical_signals": 1,
+          "high_signals": 7,
+          "low_signals": 3
+        },
+        {
+          "country": "RU",
+          "count": 10,
+          "recent": [
+            {
+              "id": "a3147e59-990b-42a5-9f35-72c95741dfda",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1782833107000
+            },
+            {
+              "id": "411dea22-9270-4ea9-8e8c-f027a2b1b9e9",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1782840289330
+            },
+            {
+              "id": "f3ecd3af-fe53-4d25-87f9-4b76e59af78a",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782841309300
+            },
+            {
+              "id": "c97b5417-6f09-4baf-bcfe-a76885963309",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782834109613
+            },
+            {
+              "id": "bfc3cd77-8b6c-46ad-9e5d-99a870e86889",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1782828222087
+            },
+            {
+              "id": "f5317306-548b-47cb-8216-b14603591dd5",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1782826280420
+            },
+            {
+              "id": "5da2d595-babd-48cd-8132-be54c657be9a",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1782840080900
+            },
+            {
+              "id": "0744b608-c6f8-4d83-8e77-bb92b3b71d1a",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782834949903
+            },
+            {
+              "id": "fa8bfc6d-4bfa-46ed-b6b6-71d09d9e840a",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782845209195
+            },
+            {
+              "id": "853ddbd4-0f00-45ac-af31-c177da8c5315",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782828110057
+            }
+          ],
+          "volume": 9776250.247975579,
+          "critical_signals": 1,
+          "high_signals": 5,
+          "low_signals": 4
+        },
+        {
+          "country": "IL",
+          "count": 5,
+          "recent": [
+            {
+              "id": "2e9885aa-f5e8-439a-ab46-e4a41d96515f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782829384619
+            },
+            {
+              "id": "d21a0dc6-2ca5-4561-b69f-27efd6cf19a9",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1782832441463
+            },
+            {
+              "id": "2ee6fe4d-b680-4742-929c-b761db2ecbc7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782833689502
+            },
+            {
+              "id": "9c25f31a-1927-4bdd-b86d-3587af77cab6",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782832437032
+            },
+            {
+              "id": "875c4318-5c2d-4e36-855f-0b053aa919c6",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782841249303
+            }
+          ],
+          "volume": 9578957.09666181,
+          "critical_signals": 1,
+          "high_signals": 4,
+          "low_signals": 0
+        },
+        {
+          "country": "IR",
+          "count": 4,
+          "recent": [
+            {
+              "id": "2e9885aa-f5e8-439a-ab46-e4a41d96515f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782829384619
+            },
+            {
+              "id": "d21a0dc6-2ca5-4561-b69f-27efd6cf19a9",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1782832441463
+            },
+            {
+              "id": "e7809e07-c2ad-440b-b385-6c44274f7672",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782845436212
+            },
+            {
+              "id": "9926bedb-dd6c-4024-ad26-21f4a9f0420b",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1782828460253
+            }
+          ],
+          "volume": 7549785.777599705,
+          "critical_signals": 1,
+          "high_signals": 2,
+          "low_signals": 1
+        },
+        {
+          "country": "US",
+          "count": 4,
+          "recent": [
+            {
+              "id": "2e9885aa-f5e8-439a-ab46-e4a41d96515f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782829384619
+            },
+            {
+              "id": "e7809e07-c2ad-440b-b385-6c44274f7672",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782845436212
+            },
+            {
+              "id": "e103d96d-8ce2-402b-90ea-cc45ab6159f6",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782840607000
+            },
+            {
+              "id": "9f6afe42-4395-4dc5-b6a1-68d65eadecf2",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1782830389000
+            }
+          ],
+          "volume": 6414618.853874735,
+          "critical_signals": 1,
+          "high_signals": 3,
+          "low_signals": 0
+        },
+        {
+          "country": "LB",
+          "count": 4,
+          "recent": [
+            {
+              "id": "2e9885aa-f5e8-439a-ab46-e4a41d96515f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782829384619
+            },
+            {
+              "id": "d21a0dc6-2ca5-4561-b69f-27efd6cf19a9",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1782832441463
+            },
+            {
+              "id": "2ee6fe4d-b680-4742-929c-b761db2ecbc7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782833689502
+            },
+            {
+              "id": "9c25f31a-1927-4bdd-b86d-3587af77cab6",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782832437032
+            }
+          ],
+          "volume": 8921652.847275808,
+          "critical_signals": 1,
+          "high_signals": 3,
+          "low_signals": 0
+        },
+        {
+          "country": "FR",
+          "count": 1,
+          "recent": [
+            {
+              "id": "245f7d7d-6d27-4932-9bf8-efd026ac92f2",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782843266587
+            }
+          ],
+          "volume": 4042.2197870000023,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "QA",
+          "count": 1,
+          "recent": [
+            {
+              "id": "2e9885aa-f5e8-439a-ab46-e4a41d96515f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782829384619
+            }
+          ],
+          "volume": 2207796.676763013,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "JO",
+          "count": 1,
+          "recent": [
+            {
+              "id": "245f7d7d-6d27-4932-9bf8-efd026ac92f2",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782843266587
+            }
+          ],
+          "volume": 4042.2197870000023,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "CU",
+          "count": 1,
+          "recent": [
+            {
+              "id": "89b5f7f1-716c-47d5-a791-3985b7de8750",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1782846351141
+            }
+          ],
+          "volume": 232346.36972899968,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "PS",
+          "count": 1,
+          "recent": [
+            {
+              "id": "875c4318-5c2d-4e36-855f-0b053aa919c6",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782841249303
+            }
+          ],
+          "volume": 657304.2493860008,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "SD",
+          "count": 1,
+          "recent": [
+            {
+              "id": "d081fe41-64b5-4352-bcb5-59ee321ecf75",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1782829504617
+            }
+          ],
+          "volume": 22327.647817999998,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "BY",
+          "count": 1,
+          "recent": [
+            {
+              "id": "0744b608-c6f8-4d83-8e77-bb92b3b71d1a",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782834949903
+            }
+          ],
+          "volume": 2442988.9198051235,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "DK",
+          "count": 1,
+          "recent": [
+            {
+              "id": "a3147e59-990b-42a5-9f35-72c95741dfda",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1782833107000
+            }
+          ],
+          "volume": 0,
+          "critical_signals": 1,
+          "high_signals": 0,
+          "low_signals": 0
+        }
+      ],
+      "_scraped_at": "2026-06-30T19:15:06.021578+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
