@@ -1,0 +1,965 @@
+{
+  "scraped_at": "2026-07-01T08:04:49.155722+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 4,
+  "items": [
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "54100f19-e730-4660-89e9-25bc22a84d9a",
+        "timestamp": 1782808174137,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "54100f19-e730-4660-89e9-25bc22a84d9a",
+          "text": "EU's Steel Measures: Introducing out-of-quota duty of 50% for 26 categories of steel products imported into the EU.|FJ",
+          "channel": "FinancialJuice",
+          "timestamp": 1782808174137,
+          "link": "https://t.me/FinancialJuice"
+        },
+        "osint": false,
+        "related_markets": [
+          {
+            "id": "1124255",
+            "slug": "eurozone-2026-annual-inflation",
+            "condition_id": "0xc97f915b033f2176eb9f62dc9d184899e51f4803bc2bb23b20e4fb85e6c41912",
+            "title": "1.0\u20131.2%",
+            "question": "Will the Eurozone's 2026 Annual Inflation be between 1.0% and 1.2%?",
+            "description": "This is a market about the variation of consumer prices in the Eurozone over the 12-month period ending December 2026 as reported by Eurostat.\n\nThis market will resolve according to the percentage change in the Harmonised Index of Consumer Prices (HICP) over the 12-month period ending December 2026, according to the monthly Eurostat report.\n\nThe resolution source for this market will be the Eurostat Harmonised Index of Consumer Prices monthly report released for December 2026, currently scheduled to be released on January 19, 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.\n\nYou can find this report on the Eurostat website (https://ec.europa.eu/eurostat/en/) by selecting the \"Database\" option from the \"Data\" dropdown, opening the \"Data navigation tree\" folder, then the \"Economy and finance\" folder, then the \"Prices (prc)\" folder, then the \"Harmonised index of consumer prices (HICP) (prc_hicp)\" folder, and opening the file named \"HICP - monthly data (annual rate of change) (prc_hicp_manr)\". The relevant figure can be found in the column for the relevant month in the row marked \"Euro area - 20 countries (from 2023)\".\n\nNote: the resolution source for this market will be the official monthly Eurostat HICP news release which reports inflation change over 12-month periods to only one decimal point (e.g. 1.9%). Thus, this is the level of precision that will be used when resolving the market. For the full release schedule, see: https://ec.europa.eu/eurostat/web/main/news/release-calendar or https://www.ecb.europa.eu/press/calendars/statscal/ges/html/sthicp.en.html",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/november-inflation-eu-monthly-zliDSBBeyriL.jpg",
+            "yes_token_id": "8719012220068962210130233884086704157996054029369785876088585541936043361084",
+            "yes_probability": 0.009,
+            "yes_best_bid": 0.004,
+            "yes_best_ask": 0.009,
+            "yes_spread": 0.004999999999999999,
+            "no_token_id": "55152275662371614827112357032195664648710333341444911183230058635699786866747",
+            "no_probability": 0.996,
+            "no_best_bid": 0.991,
+            "no_best_ask": 0.996,
+            "no_spread": 0.0050000000000000044,
+            "volume": 843.997061,
+            "liquidity": 97697.51000000004,
+            "neg_risk": true,
+            "end_date": "2027-01-19T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "New steel duties could affect prices, impacting inflation (1 hop).",
+            "event_id": "147795",
+            "event_title": "Eurozone Annual Inflation 2026",
+            "event_slug": "eurozone-2026-annual-inflation",
+            "detected_yes_price": 0.007,
+            "detected_no_price": 0.997,
+            "detected_at": 1782808203815,
+            "highest_price_change": 0.857142857142857,
+            "highest_yes_price": 0.013,
+            "highest_no_price": 0.998,
+            "first_moved_at": 1782808209354,
+            "moved_side": "yes",
+            "peaked_at": 1782887969943
+          },
+          {
+            "id": "1124265",
+            "slug": "eurozone-2026-annual-inflation",
+            "condition_id": "0x5fd7fba49eb48a18b624005225680f0aa42f0b5c6cb42e993328be1a70e991c5",
+            "title": "3.1%+",
+            "question": "Will the Eurozone's 2026 Annual Inflation be at least 3.1%?",
+            "description": "This is a market about the variation of consumer prices in the Eurozone over the 12-month period ending December 2026 as reported by Eurostat.\n\nThis market will resolve according to the percentage change in the Harmonised Index of Consumer Prices (HICP) over the 12-month period ending December 2026, according to the monthly Eurostat report.\n\nThe resolution source for this market will be the Eurostat Harmonised Index of Consumer Prices monthly report released for December 2026, currently scheduled to be released on January 19, 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.\n\nYou can find this report on the Eurostat website (https://ec.europa.eu/eurostat/en/) by selecting the \"Database\" option from the \"Data\" dropdown, opening the \"Data navigation tree\" folder, then the \"Economy and finance\" folder, then the \"Prices (prc)\" folder, then the \"Harmonised index of consumer prices (HICP) (prc_hicp)\" folder, and opening the file named \"HICP - monthly data (annual rate of change) (prc_hicp_manr)\". The relevant figure can be found in the column for the relevant month in the row marked \"Euro area - 20 countries (from 2023)\".\n\nNote: the resolution source for this market will be the official monthly Eurostat HICP news release which reports inflation change over 12-month periods to only one decimal point (e.g. 1.9%). Thus, this is the level of precision that will be used when resolving the market. For the full release schedule, see: https://ec.europa.eu/eurostat/web/main/news/release-calendar or https://www.ecb.europa.eu/press/calendars/statscal/ges/html/sthicp.en.html",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/november-inflation-eu-monthly-zliDSBBeyriL.jpg",
+            "yes_token_id": "88978376584963855258252615681831634358372137790743707919827538111953603497319",
+            "yes_probability": 0.197,
+            "yes_best_bid": 0.193,
+            "yes_best_ask": 0.197,
+            "yes_spread": 0.0040000000000000036,
+            "no_token_id": "44465976881697390749366490200863639637286829489656129732567130513381613518868",
+            "no_probability": 0.807,
+            "no_best_bid": 0.803,
+            "no_best_ask": 0.807,
+            "no_spread": 0.0040000000000000036,
+            "volume": 2493.008063000001,
+            "liquidity": 87628.99,
+            "neg_risk": true,
+            "end_date": "2027-01-19T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "New steel duties could affect prices, impacting inflation (1 hop).",
+            "event_id": "147795",
+            "event_title": "Eurozone Annual Inflation 2026",
+            "event_slug": "eurozone-2026-annual-inflation",
+            "detected_yes_price": 0.198,
+            "detected_no_price": 0.8069999999999999,
+            "detected_at": 1782808203815,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.198,
+            "highest_no_price": 0.8069999999999999
+          },
+          {
+            "id": "1124260",
+            "slug": "eurozone-2026-annual-inflation",
+            "condition_id": "0x7cddc2578e74d176486689addf13091311ff6d08756e2661d5b4a1c17248a384",
+            "title": "1.6\u20131.8%",
+            "question": "Will the Eurozone's 2026 Annual Inflation be between 1.6% and 1.8%?",
+            "description": "This is a market about the variation of consumer prices in the Eurozone over the 12-month period ending December 2026 as reported by Eurostat.\n\nThis market will resolve according to the percentage change in the Harmonised Index of Consumer Prices (HICP) over the 12-month period ending December 2026, according to the monthly Eurostat report.\n\nThe resolution source for this market will be the Eurostat Harmonised Index of Consumer Prices monthly report released for December 2026, currently scheduled to be released on January 19, 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.\n\nYou can find this report on the Eurostat website (https://ec.europa.eu/eurostat/en/) by selecting the \"Database\" option from the \"Data\" dropdown, opening the \"Data navigation tree\" folder, then the \"Economy and finance\" folder, then the \"Prices (prc)\" folder, then the \"Harmonised index of consumer prices (HICP) (prc_hicp)\" folder, and opening the file named \"HICP - monthly data (annual rate of change) (prc_hicp_manr)\". The relevant figure can be found in the column for the relevant month in the row marked \"Euro area - 20 countries (from 2023)\".\n\nNote: the resolution source for this market will be the official monthly Eurostat HICP news release which reports inflation change over 12-month periods to only one decimal point (e.g. 1.9%). Thus, this is the level of precision that will be used when resolving the market. For the full release schedule, see: https://ec.europa.eu/eurostat/web/main/news/release-calendar or https://www.ecb.europa.eu/press/calendars/statscal/ges/html/sthicp.en.html",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/november-inflation-eu-monthly-zliDSBBeyriL.jpg",
+            "yes_token_id": "13553104868522289891706617978108934659595621559257124193405544577733275980690",
+            "yes_probability": 0.068,
+            "yes_best_bid": 0.059,
+            "yes_best_ask": 0.068,
+            "yes_spread": 0.009000000000000008,
+            "no_token_id": "2801625824406672677628101033156221800975421768058051508997372638987017094156",
+            "no_probability": 0.941,
+            "no_best_bid": 0.932,
+            "no_best_ask": 0.941,
+            "no_spread": 0.008999999999999897,
+            "volume": 1425.5262619999999,
+            "liquidity": 116322.57000000008,
+            "neg_risk": true,
+            "end_date": "2027-01-19T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "New steel duties could affect prices, impacting inflation (1 hop).",
+            "event_id": "147795",
+            "event_title": "Eurozone Annual Inflation 2026",
+            "event_slug": "eurozone-2026-annual-inflation",
+            "detected_yes_price": 0.035,
+            "detected_no_price": 0.978,
+            "detected_at": 1782808203815,
+            "highest_price_change": 12.2,
+            "highest_yes_price": 0.462,
+            "highest_no_price": 0.993,
+            "first_moved_at": 1782859874839,
+            "moved_side": "yes",
+            "peaked_at": 1782871404732
+          },
+          {
+            "id": "1124262",
+            "slug": "eurozone-2026-annual-inflation",
+            "condition_id": "0xbeb692033effc758cea5b40a5b50a1f0cbb00c260afd1d3ed676bdb9e16c3c82",
+            "title": "2.2\u20132.4%",
+            "question": "Will the Eurozone's 2026 Annual Inflation be between 2.2% and 2.4%?",
+            "description": "This is a market about the variation of consumer prices in the Eurozone over the 12-month period ending December 2026 as reported by Eurostat.\n\nThis market will resolve according to the percentage change in the Harmonised Index of Consumer Prices (HICP) over the 12-month period ending December 2026, according to the monthly Eurostat report.\n\nThe resolution source for this market will be the Eurostat Harmonised Index of Consumer Prices monthly report released for December 2026, currently scheduled to be released on January 19, 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.\n\nYou can find this report on the Eurostat website (https://ec.europa.eu/eurostat/en/) by selecting the \"Database\" option from the \"Data\" dropdown, opening the \"Data navigation tree\" folder, then the \"Economy and finance\" folder, then the \"Prices (prc)\" folder, then the \"Harmonised index of consumer prices (HICP) (prc_hicp)\" folder, and opening the file named \"HICP - monthly data (annual rate of change) (prc_hicp_manr)\". The relevant figure can be found in the column for the relevant month in the row marked \"Euro area - 20 countries (from 2023)\".\n\nNote: the resolution source for this market will be the official monthly Eurostat HICP news release which reports inflation change over 12-month periods to only one decimal point (e.g. 1.9%). Thus, this is the level of precision that will be used when resolving the market. For the full release schedule, see: https://ec.europa.eu/eurostat/web/main/news/release-calendar or https://www.ecb.europa.eu/press/calendars/statscal/ges/html/sthicp.en.html",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/november-inflation-eu-monthly-zliDSBBeyriL.jpg",
+            "yes_token_id": "58155526801687139897110735197238473729941397636807683121985050669073731823865",
+            "yes_probability": 0.107,
+            "yes_best_bid": 0.038,
+            "yes_best_ask": 0.107,
+            "yes_spread": 0.069,
+            "no_token_id": "45061769366459385596807127798700809713937466759258960328291644703573116862430",
+            "no_probability": 0.962,
+            "no_best_bid": 0.893,
+            "no_best_ask": 0.962,
+            "no_spread": 0.06899999999999995,
+            "volume": 1139.2932609999998,
+            "liquidity": 84171.04000000004,
+            "neg_risk": true,
+            "end_date": "2027-01-19T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "New steel duties could affect prices, impacting inflation (1 hop).",
+            "event_id": "147795",
+            "event_title": "Eurozone Annual Inflation 2026",
+            "event_slug": "eurozone-2026-annual-inflation",
+            "detected_yes_price": 0.019,
+            "detected_no_price": 0.994,
+            "detected_at": 1782808203815,
+            "highest_price_change": 19,
+            "highest_yes_price": 0.38,
+            "highest_no_price": 0.994,
+            "first_moved_at": 1782808811870,
+            "moved_side": "yes",
+            "peaked_at": 1782892066696
+          }
+        ],
+        "topics": null,
+        "categories": [
+          "world"
+        ]
+      },
+      "related_market": {
+        "id": "1124262",
+        "slug": "eurozone-2026-annual-inflation",
+        "condition_id": "0xbeb692033effc758cea5b40a5b50a1f0cbb00c260afd1d3ed676bdb9e16c3c82",
+        "title": "2.2\u20132.4%",
+        "question": "Will the Eurozone's 2026 Annual Inflation be between 2.2% and 2.4%?",
+        "description": "This is a market about the variation of consumer prices in the Eurozone over the 12-month period ending December 2026 as reported by Eurostat.\n\nThis market will resolve according to the percentage change in the Harmonised Index of Consumer Prices (HICP) over the 12-month period ending December 2026, according to the monthly Eurostat report.\n\nThe resolution source for this market will be the Eurostat Harmonised Index of Consumer Prices monthly report released for December 2026, currently scheduled to be released on January 19, 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.\n\nYou can find this report on the Eurostat website (https://ec.europa.eu/eurostat/en/) by selecting the \"Database\" option from the \"Data\" dropdown, opening the \"Data navigation tree\" folder, then the \"Economy and finance\" folder, then the \"Prices (prc)\" folder, then the \"Harmonised index of consumer prices (HICP) (prc_hicp)\" folder, and opening the file named \"HICP - monthly data (annual rate of change) (prc_hicp_manr)\". The relevant figure can be found in the column for the relevant month in the row marked \"Euro area - 20 countries (from 2023)\".\n\nNote: the resolution source for this market will be the official monthly Eurostat HICP news release which reports inflation change over 12-month periods to only one decimal point (e.g. 1.9%). Thus, this is the level of precision that will be used when resolving the market. For the full release schedule, see: https://ec.europa.eu/eurostat/web/main/news/release-calendar or https://www.ecb.europa.eu/press/calendars/statscal/ges/html/sthicp.en.html",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/november-inflation-eu-monthly-zliDSBBeyriL.jpg",
+        "yes_token_id": "58155526801687139897110735197238473729941397636807683121985050669073731823865",
+        "yes_probability": 0.107,
+        "yes_best_bid": 0.038,
+        "yes_best_ask": 0.107,
+        "yes_spread": 0.069,
+        "no_token_id": "45061769366459385596807127798700809713937466759258960328291644703573116862430",
+        "no_probability": 0.962,
+        "no_best_bid": 0.893,
+        "no_best_ask": 0.962,
+        "no_spread": 0.06899999999999995,
+        "volume": 1139.2932609999998,
+        "liquidity": 84171.04000000004,
+        "neg_risk": true,
+        "end_date": "2027-01-19T00:00:00Z",
+        "categories": [
+          "economy"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "New steel duties could affect prices, impacting inflation (1 hop).",
+        "event_id": "147795",
+        "event_title": "Eurozone Annual Inflation 2026",
+        "event_slug": "eurozone-2026-annual-inflation",
+        "detected_yes_price": 0.019,
+        "detected_no_price": 0.994,
+        "detected_at": 1782808203815,
+        "highest_price_change": 19,
+        "highest_yes_price": 0.38,
+        "highest_no_price": 0.994,
+        "first_moved_at": 1782808811870,
+        "moved_side": "yes",
+        "peaked_at": 1782892066696
+      },
+      "_scraped_at": "2026-07-01T08:04:49.155722+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 2,
+      "feed_item": {
+        "id": "54788fb7-0b3d-4292-b6f4-a1b3bc983a54",
+        "timestamp": 1782873205575,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "54788fb7-0b3d-4292-b6f4-a1b3bc983a54",
+          "text": "Melat Kiros beats incumbent U.S. Rep. DeGette to secure Democratic primary in Colorado\u2019s 1st district: Decision Desk HQ projects|FJ",
+          "channel": "FinancialJuice",
+          "timestamp": 1782873205575,
+          "link": "https://t.me/FinancialJuice"
+        },
+        "osint": false,
+        "country": "US",
+        "countries": [
+          "US"
+        ],
+        "related_markets": [
+          {
+            "id": "2045400",
+            "slug": "co-01-democratic-primary-winner",
+            "condition_id": "0x80026e4a0a2aad15549a47671a54aa95afc86325c60481ca11c500025f68b926",
+            "title": "Melat Kiros",
+            "question": "Will Melat Kiros be the Democratic nominee for CO-01?",
+            "description": "This market will resolve according to the candidate who wins the nomination for the Democratic Party to contest the CO-01 congressional district seat in the U.S. House of Representatives in the 2026 midterm elections. The Democratic primary will take place on June 30, 2026.\n\nIf no nominee is announced by November 3, 2026, 11:59 PM ET, this market will resolve to \"Other\".\n\nThe resolution source for this market will be a consensus of official Democrat sources, including https://democrats.org/.\n\nAny replacement of the nominee before election day will not change the resolution of the market.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/who-will-be-the-democratic-nominee-for-co-08-w3Hor1DBoz-p.png",
+            "yes_token_id": "54248493054665270371339102065469470799944329749404077530182740354759453691862",
+            "yes_probability": 1,
+            "yes_best_bid": 0.999,
+            "yes_best_ask": 1,
+            "yes_spread": 0.0010000000000000009,
+            "no_token_id": "38992902454352364358887929901105765380288340807703261057608210090907678247398",
+            "no_probability": 0.001,
+            "no_best_bid": 0,
+            "no_best_ask": 0.001,
+            "no_spread": 0.001,
+            "volume": 205531.29975899975,
+            "liquidity": 856211.8699999999,
+            "neg_risk": true,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Kiros winning the primary indicates she is the nominee (1 hop).",
+            "event_id": "403574",
+            "event_title": "CO-01 Democratic Primary Winner",
+            "event_slug": "co-01-democratic-primary-winner",
+            "detected_yes_price": 0.995,
+            "detected_no_price": 0.009000000000000008,
+            "detected_at": 1782873289653,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.995,
+            "highest_no_price": 0.009000000000000008
+          },
+          {
+            "id": "2744036",
+            "slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "condition_id": "0x8a83990c3fb4edb553b1582acae9947deaab3f22b50c6fe7ddf2881ce31c095c",
+            "title": "DeGette <5%",
+            "question": "Will Diana DeGette win the CO-01 Democratic primary by less than 5%?",
+            "description": "The Colorado Democratic primary elections are scheduled for June 30, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the C0-01 Democratic primary election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official..\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Colorado, such as official statewide results published by the Colorado Secretary of State (https://www.sos.state.co.us/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "",
+            "yes_token_id": "105056731333627462661424835628770294852046130325867757858340480129759880207140",
+            "yes_probability": 0.86,
+            "yes_best_bid": 0,
+            "yes_best_ask": 0.86,
+            "yes_spread": 0.86,
+            "no_token_id": "34131285995844692220060946208314823459392130629100195600365171274964681382262",
+            "no_probability": 1,
+            "no_best_bid": 0.14,
+            "no_best_ask": 1,
+            "no_spread": 0.86,
+            "volume": 157,
+            "liquidity": 8698.04,
+            "neg_risk": true,
+            "end_date": "",
+            "categories": [
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Kiros winning indicates DeGette's margin is likely under 5% (1 hop).",
+            "event_id": "651731",
+            "event_title": "CO-01 Democratic Primary Margin of Victory",
+            "event_slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "detected_yes_price": 0.31,
+            "detected_no_price": 1,
+            "detected_at": 1782873289653,
+            "highest_price_change": 1.838709677419355,
+            "highest_yes_price": 0.88,
+            "highest_no_price": 1,
+            "first_moved_at": 1782873290174,
+            "moved_side": "yes",
+            "peaked_at": 1782886706280
+          },
+          {
+            "id": "2744033",
+            "slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "condition_id": "0xd43c1923fe24f02c2a9b5e78d27d1827f1506c26cea77d3110863ff5d99038bd",
+            "title": "Kiros 10\u201315%",
+            "question": "Will Melat Kiros win the CO-01 Democratic primary by 10\u201315%?",
+            "description": "The Colorado Democratic primary elections are scheduled for June 30, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the C0-01 Democratic primary election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official..\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Colorado, such as official statewide results published by the Colorado Secretary of State (https://www.sos.state.co.us/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "",
+            "yes_token_id": "1730056794100579039650535855419784537970748873006963142919826286950977367358",
+            "yes_probability": 0.86,
+            "yes_best_bid": 0.06,
+            "yes_best_ask": 0.86,
+            "yes_spread": 0.8,
+            "no_token_id": "52897544643713458196004833227505644574914003429358121851280011094617271958669",
+            "no_probability": 0.94,
+            "no_best_bid": 0.14,
+            "no_best_ask": 0.94,
+            "no_spread": 0.7999999999999999,
+            "volume": 315.5743983,
+            "liquidity": 1245.69,
+            "neg_risk": true,
+            "end_date": "",
+            "categories": [
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Kiros's victory suggests a margin of 10-15% (1 hop).",
+            "event_id": "651731",
+            "event_title": "CO-01 Democratic Primary Margin of Victory",
+            "event_slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "detected_yes_price": 0.42,
+            "detected_no_price": 0.91,
+            "detected_at": 1782873289653,
+            "highest_price_change": 1.0952380952380953,
+            "highest_yes_price": 0.88,
+            "highest_no_price": 0.99,
+            "first_moved_at": 1782874950369,
+            "moved_side": "yes",
+            "peaked_at": 1782886684451
+          },
+          {
+            "id": "2744032",
+            "slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "condition_id": "0x3da7d980d23c6f6b12ed4f0bcbea97612f8ea01c28bff629ca821248c9767c81",
+            "title": "Kiros 15\u201320%",
+            "question": "Will Melat Kiros win the CO-01 Democratic primary by 15\u201320%?",
+            "description": "The Colorado Democratic primary elections are scheduled for June 30, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the C0-01 Democratic primary election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official..\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Colorado, such as official statewide results published by the Colorado Secretary of State (https://www.sos.state.co.us/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "",
+            "yes_token_id": "69382787308111068106271795090370379662472056993464260454406295058105213220066",
+            "yes_probability": 0.01,
+            "yes_best_bid": 0.002,
+            "yes_best_ask": 0.01,
+            "yes_spread": 0.008,
+            "no_token_id": "90072350255367032030079953618920357549820686546707587264044385735629554310243",
+            "no_probability": 0.998,
+            "no_best_bid": 0.99,
+            "no_best_ask": 0.998,
+            "no_spread": 0.008000000000000007,
+            "volume": 162.803393,
+            "liquidity": 84846.75,
+            "neg_risk": true,
+            "end_date": "",
+            "categories": [
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Kiros's victory indicates a margin of 15-20% (1 hop).",
+            "event_id": "651731",
+            "event_title": "CO-01 Democratic Primary Margin of Victory",
+            "event_slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "detected_yes_price": 0.2,
+            "detected_no_price": 0.97,
+            "detected_at": 1782873289653,
+            "highest_price_change": 0.03092783505154642,
+            "highest_yes_price": 0.2,
+            "highest_no_price": 1,
+            "first_moved_at": 1782888383255,
+            "moved_side": "no",
+            "peaked_at": 1782889209093
+          },
+          {
+            "id": "2744034",
+            "slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "condition_id": "0xdf49974e4d67bb58dd7b53b740de7c9abf5f9853a3a58a3ab71988ec8e7e5391",
+            "title": "Kiros 5\u201310%",
+            "question": "Will Melat Kiros win the CO-01 Democratic primary by 5\u201310%?",
+            "description": "The Colorado Democratic primary elections are scheduled for June 30, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the C0-01 Democratic primary election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official..\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Colorado, such as official statewide results published by the Colorado Secretary of State (https://www.sos.state.co.us/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "",
+            "yes_token_id": "106434888785356472444985587173617308736440648478161195413601599961564413499947",
+            "yes_probability": 0.88,
+            "yes_best_bid": 0.2,
+            "yes_best_ask": 0.88,
+            "yes_spread": 0.6799999999999999,
+            "no_token_id": "31787658457450035733418336957064822935093328936219544273806440360577498950293",
+            "no_probability": 0.8,
+            "no_best_bid": 0.12,
+            "no_best_ask": 0.8,
+            "no_spread": 0.68,
+            "volume": 542.2528,
+            "liquidity": 838.35,
+            "neg_risk": true,
+            "end_date": "",
+            "categories": [
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Kiros's victory suggests a margin of 5-10% (1 hop).",
+            "event_id": "651731",
+            "event_title": "CO-01 Democratic Primary Margin of Victory",
+            "event_slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "detected_yes_price": 0.81,
+            "detected_no_price": 0.54,
+            "detected_at": 1782873289653,
+            "highest_price_change": 0.5370370370370369,
+            "highest_yes_price": 0.88,
+            "highest_no_price": 0.83,
+            "first_moved_at": 1782873300435,
+            "moved_side": "no",
+            "peaked_at": 1782890014926
+          }
+        ],
+        "topics": [
+          "shutdown",
+          "election-2028"
+        ],
+        "categories": [
+          "elections",
+          "politics"
+        ]
+      },
+      "related_market": {
+        "id": "2744036",
+        "slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+        "condition_id": "0x8a83990c3fb4edb553b1582acae9947deaab3f22b50c6fe7ddf2881ce31c095c",
+        "title": "DeGette <5%",
+        "question": "Will Diana DeGette win the CO-01 Democratic primary by less than 5%?",
+        "description": "The Colorado Democratic primary elections are scheduled for June 30, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the C0-01 Democratic primary election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official..\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Colorado, such as official statewide results published by the Colorado Secretary of State (https://www.sos.state.co.us/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+        "image": "",
+        "yes_token_id": "105056731333627462661424835628770294852046130325867757858340480129759880207140",
+        "yes_probability": 0.86,
+        "yes_best_bid": 0,
+        "yes_best_ask": 0.86,
+        "yes_spread": 0.86,
+        "no_token_id": "34131285995844692220060946208314823459392130629100195600365171274964681382262",
+        "no_probability": 1,
+        "no_best_bid": 0.14,
+        "no_best_ask": 1,
+        "no_spread": 0.86,
+        "volume": 157,
+        "liquidity": 8698.04,
+        "neg_risk": true,
+        "end_date": "",
+        "categories": [
+          "elections",
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Kiros winning indicates DeGette's margin is likely under 5% (1 hop).",
+        "event_id": "651731",
+        "event_title": "CO-01 Democratic Primary Margin of Victory",
+        "event_slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+        "detected_yes_price": 0.31,
+        "detected_no_price": 1,
+        "detected_at": 1782873289653,
+        "highest_price_change": 1.838709677419355,
+        "highest_yes_price": 0.88,
+        "highest_no_price": 1,
+        "first_moved_at": 1782873290174,
+        "moved_side": "yes",
+        "peaked_at": 1782886706280
+      },
+      "_scraped_at": "2026-07-01T08:04:49.155722+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "valid": false,
+      "_scraped_at": "2026-07-01T08:04:49.155722+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "global_tension_score": 42,
+      "global_tension_level": "ELEVATED",
+      "countries": [
+        {
+          "country": "UA",
+          "count": 13,
+          "recent": [
+            {
+              "id": "0edf0234-7c08-460e-8233-5cc229fc11f3",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782887764900
+            },
+            {
+              "id": "560a1779-1e68-4b8e-a347-1e95bfb6d741",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782886804714
+            },
+            {
+              "id": "40c199e2-59e3-4a38-b884-8f71402285f3",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782883353580
+            },
+            {
+              "id": "9a276cf7-9638-4496-8b5c-8cd4afe26e7d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782882485067
+            },
+            {
+              "id": "e02d3968-dfeb-4ff1-ba34-669a7184d97b",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782883800405
+            },
+            {
+              "id": "9c2f6ca0-74f7-461a-b2d5-3c78a33c2a3c",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782883800000
+            },
+            {
+              "id": "f0a76603-94b9-4195-a3f9-9d83c1f79609",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1782886684934
+            },
+            {
+              "id": "eb66afd3-72f9-49c4-a67f-67567648e057",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782885706574
+            },
+            {
+              "id": "5cc3513c-5d64-40e0-9cc6-5e41402e39a5",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1782878766797
+            },
+            {
+              "id": "9f5392fb-ed0e-4d30-87e1-0319ac6a62b8",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782888364906
+            },
+            {
+              "id": "001f08f1-a52e-4fb6-8ce8-90a42d0158e6",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782889201000
+            },
+            {
+              "id": "ef4aef19-2a10-4475-89d1-7b88e322dcd2",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782875225174
+            },
+            {
+              "id": "c7d1a165-ed9f-4011-9ffd-96a564e007cc",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782889519805
+            }
+          ],
+          "volume": 9658380.959383558,
+          "critical_signals": 1,
+          "high_signals": 12,
+          "low_signals": 0
+        },
+        {
+          "country": "RU",
+          "count": 10,
+          "recent": [
+            {
+              "id": "0edf0234-7c08-460e-8233-5cc229fc11f3",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782887764900
+            },
+            {
+              "id": "5c3d38bc-2fde-4d5a-8671-1061ff6c6414",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1782879125162
+            },
+            {
+              "id": "560a1779-1e68-4b8e-a347-1e95bfb6d741",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782886804714
+            },
+            {
+              "id": "40c199e2-59e3-4a38-b884-8f71402285f3",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782883353580
+            },
+            {
+              "id": "9a276cf7-9638-4496-8b5c-8cd4afe26e7d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782882485067
+            },
+            {
+              "id": "e02d3968-dfeb-4ff1-ba34-669a7184d97b",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782883800405
+            },
+            {
+              "id": "5cc3513c-5d64-40e0-9cc6-5e41402e39a5",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1782878766797
+            },
+            {
+              "id": "001f08f1-a52e-4fb6-8ce8-90a42d0158e6",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782889201000
+            },
+            {
+              "id": "98a55b27-49c2-43f3-9506-389214b586a5",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1782875225023
+            },
+            {
+              "id": "14521bde-4a61-400e-981b-d48cd49260d4",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782886144732
+            }
+          ],
+          "volume": 6926209.076626565,
+          "critical_signals": 0,
+          "high_signals": 8,
+          "low_signals": 2
+        },
+        {
+          "country": "GB",
+          "count": 10,
+          "recent": [
+            {
+              "id": "0edf0234-7c08-460e-8233-5cc229fc11f3",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782887764900
+            },
+            {
+              "id": "560a1779-1e68-4b8e-a347-1e95bfb6d741",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782886804714
+            },
+            {
+              "id": "40c199e2-59e3-4a38-b884-8f71402285f3",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782883353580
+            },
+            {
+              "id": "9a276cf7-9638-4496-8b5c-8cd4afe26e7d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782882485067
+            },
+            {
+              "id": "e02d3968-dfeb-4ff1-ba34-669a7184d97b",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782883800405
+            },
+            {
+              "id": "9c2f6ca0-74f7-461a-b2d5-3c78a33c2a3c",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782883800000
+            },
+            {
+              "id": "f0a76603-94b9-4195-a3f9-9d83c1f79609",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1782886684934
+            },
+            {
+              "id": "eb66afd3-72f9-49c4-a67f-67567648e057",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782885706574
+            },
+            {
+              "id": "5cc3513c-5d64-40e0-9cc6-5e41402e39a5",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1782878766797
+            },
+            {
+              "id": "ef4aef19-2a10-4475-89d1-7b88e322dcd2",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782875225174
+            }
+          ],
+          "volume": 6649389.560164527,
+          "critical_signals": 1,
+          "high_signals": 9,
+          "low_signals": 0
+        },
+        {
+          "country": "US",
+          "count": 5,
+          "recent": [
+            {
+              "id": "7d420a19-16e6-48ba-8e70-8a5af3c6b214",
+              "kind": "news",
+              "impact": "critical",
+              "timestamp": 1782875825980
+            },
+            {
+              "id": "54788fb7-0b3d-4292-b6f4-a1b3bc983a54",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782873205575
+            },
+            {
+              "id": "837c8a4f-38b7-4f3c-a65e-086d9bfaaafe",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1782890224621
+            },
+            {
+              "id": "c46636a3-83fe-4a21-bbea-3aa300f5c674",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782874361000
+            },
+            {
+              "id": "90c4aaff-c036-4109-9899-e5fd1c01f724",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1782879366000
+            }
+          ],
+          "volume": 597649.5904784501,
+          "critical_signals": 2,
+          "high_signals": 2,
+          "low_signals": 1
+        },
+        {
+          "country": "IR",
+          "count": 3,
+          "recent": [
+            {
+              "id": "837c8a4f-38b7-4f3c-a65e-086d9bfaaafe",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1782890224621
+            },
+            {
+              "id": "5d8c2352-918c-480b-a4c1-4444ac8602c9",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782891981112
+            },
+            {
+              "id": "2d8dac90-a3c0-42a8-b5a9-b6fb5c347bb3",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782891853354
+            }
+          ],
+          "volume": 852272.8302377091,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 1
+        },
+        {
+          "country": "FI",
+          "count": 1,
+          "recent": [
+            {
+              "id": "5c3d38bc-2fde-4d5a-8671-1061ff6c6414",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1782879125162
+            }
+          ],
+          "volume": 1174572.712403101,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "FR",
+          "count": 1,
+          "recent": [
+            {
+              "id": "5c3d38bc-2fde-4d5a-8671-1061ff6c6414",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1782879125162
+            }
+          ],
+          "volume": 1174572.712403101,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "TR",
+          "count": 1,
+          "recent": [
+            {
+              "id": "837c8a4f-38b7-4f3c-a65e-086d9bfaaafe",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1782890224621
+            }
+          ],
+          "volume": 100104.78214999996,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "SE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "5c3d38bc-2fde-4d5a-8671-1061ff6c6414",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1782879125162
+            }
+          ],
+          "volume": 1174572.712403101,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "LV",
+          "count": 1,
+          "recent": [
+            {
+              "id": "9a276cf7-9638-4496-8b5c-8cd4afe26e7d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782882485067
+            }
+          ],
+          "volume": 2084491.37038143,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "IL",
+          "count": 1,
+          "recent": [
+            {
+              "id": "837c8a4f-38b7-4f3c-a65e-086d9bfaaafe",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1782890224621
+            }
+          ],
+          "volume": 100104.78214999996,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "QA",
+          "count": 1,
+          "recent": [
+            {
+              "id": "2d8dac90-a3c0-42a8-b5a9-b6fb5c347bb3",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782891853354
+            }
+          ],
+          "volume": 814299.2736047091,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        }
+      ],
+      "_scraped_at": "2026-07-01T08:04:49.155722+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
