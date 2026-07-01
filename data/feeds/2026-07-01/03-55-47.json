@@ -1,0 +1,939 @@
+{
+  "scraped_at": "2026-07-01T03:55:40.545187+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 5,
+  "items": [
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "54788fb7-0b3d-4292-b6f4-a1b3bc983a54",
+        "timestamp": 1782873205575,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "54788fb7-0b3d-4292-b6f4-a1b3bc983a54",
+          "text": "Melat Kiros beats incumbent U.S. Rep. DeGette to secure Democratic primary in Colorado\u2019s 1st district: Decision Desk HQ projects|FJ",
+          "channel": "FinancialJuice",
+          "timestamp": 1782873205575,
+          "link": "https://t.me/FinancialJuice"
+        },
+        "osint": false,
+        "country": "US",
+        "countries": [
+          "US"
+        ],
+        "related_markets": [
+          {
+            "id": "2045400",
+            "slug": "co-01-democratic-primary-winner",
+            "condition_id": "0x80026e4a0a2aad15549a47671a54aa95afc86325c60481ca11c500025f68b926",
+            "title": "Melat Kiros",
+            "question": "Will Melat Kiros be the Democratic nominee for CO-01?",
+            "description": "This market will resolve according to the candidate who wins the nomination for the Democratic Party to contest the CO-01 congressional district seat in the U.S. House of Representatives in the 2026 midterm elections. The Democratic primary will take place on June 30, 2026.\n\nIf no nominee is announced by November 3, 2026, 11:59 PM ET, this market will resolve to \"Other\".\n\nThe resolution source for this market will be a consensus of official Democrat sources, including https://democrats.org/.\n\nAny replacement of the nominee before election day will not change the resolution of the market.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/who-will-be-the-democratic-nominee-for-co-08-w3Hor1DBoz-p.png",
+            "yes_token_id": "54248493054665270371339102065469470799944329749404077530182740354759453691862",
+            "yes_probability": 0.999,
+            "yes_best_bid": 0.998,
+            "yes_best_ask": 0.999,
+            "yes_spread": 0.0010000000000000009,
+            "no_token_id": "38992902454352364358887929901105765380288340807703261057608210090907678247398",
+            "no_probability": 0.002,
+            "no_best_bid": 0.001,
+            "no_best_ask": 0.002,
+            "no_spread": 0.001,
+            "volume": 203040.3733989998,
+            "liquidity": 463347.98999999993,
+            "neg_risk": true,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Kiros winning the primary indicates she is the nominee (1 hop).",
+            "event_id": "403574",
+            "event_title": "CO-01 Democratic Primary Winner",
+            "event_slug": "co-01-democratic-primary-winner",
+            "detected_yes_price": 0.995,
+            "detected_no_price": 0.009000000000000008,
+            "detected_at": 1782873289653,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.995,
+            "highest_no_price": 0.009000000000000008
+          },
+          {
+            "id": "2744036",
+            "slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "condition_id": "0x8a83990c3fb4edb553b1582acae9947deaab3f22b50c6fe7ddf2881ce31c095c",
+            "title": "DeGette <5%",
+            "question": "Will Diana DeGette win the CO-01 Democratic primary by less than 5%?",
+            "description": "The Colorado Democratic primary elections are scheduled for June 30, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the C0-01 Democratic primary election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official..\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Colorado, such as official statewide results published by the Colorado Secretary of State (https://www.sos.state.co.us/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "",
+            "yes_token_id": "105056731333627462661424835628770294852046130325867757858340480129759880207140",
+            "yes_probability": 0.42,
+            "yes_best_bid": 0,
+            "yes_best_ask": 0.42,
+            "yes_spread": 0.42,
+            "no_token_id": "34131285995844692220060946208314823459392130629100195600365171274964681382262",
+            "no_probability": 1,
+            "no_best_bid": 0.58,
+            "no_best_ask": 1,
+            "no_spread": 0.42000000000000004,
+            "volume": 157,
+            "liquidity": 9469.04,
+            "neg_risk": true,
+            "end_date": "",
+            "categories": [
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Kiros winning indicates DeGette's margin is likely under 5% (1 hop).",
+            "event_id": "651731",
+            "event_title": "CO-01 Democratic Primary Margin of Victory",
+            "event_slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "detected_yes_price": 0.31,
+            "detected_no_price": 1,
+            "detected_at": 1782873289653,
+            "highest_price_change": 0.3870967741935484,
+            "highest_yes_price": 0.43,
+            "highest_no_price": 1,
+            "first_moved_at": 1782873290174,
+            "moved_side": "yes",
+            "peaked_at": 1782875932996
+          },
+          {
+            "id": "2744033",
+            "slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "condition_id": "0xd43c1923fe24f02c2a9b5e78d27d1827f1506c26cea77d3110863ff5d99038bd",
+            "title": "Kiros 10\u201315%",
+            "question": "Will Melat Kiros win the CO-01 Democratic primary by 10\u201315%?",
+            "description": "The Colorado Democratic primary elections are scheduled for June 30, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the C0-01 Democratic primary election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official..\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Colorado, such as official statewide results published by the Colorado Secretary of State (https://www.sos.state.co.us/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "",
+            "yes_token_id": "1730056794100579039650535855419784537970748873006963142919826286950977367358",
+            "yes_probability": 0.43,
+            "yes_best_bid": 0.09,
+            "yes_best_ask": 0.43,
+            "yes_spread": 0.33999999999999997,
+            "no_token_id": "52897544643713458196004833227505644574914003429358121851280011094617271958669",
+            "no_probability": 0.91,
+            "no_best_bid": 0.57,
+            "no_best_ask": 0.91,
+            "no_spread": 0.3400000000000001,
+            "volume": 281.9899995,
+            "liquidity": 6373.5599999999995,
+            "neg_risk": true,
+            "end_date": "",
+            "categories": [
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Kiros's victory suggests a margin of 10-15% (1 hop).",
+            "event_id": "651731",
+            "event_title": "CO-01 Democratic Primary Margin of Victory",
+            "event_slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "detected_yes_price": 0.42,
+            "detected_no_price": 0.91,
+            "detected_at": 1782873289653,
+            "highest_price_change": 0.023809523809523832,
+            "highest_yes_price": 0.43,
+            "highest_no_price": 0.92,
+            "first_moved_at": 1782874950369,
+            "moved_side": "yes",
+            "peaked_at": 1782875924608
+          },
+          {
+            "id": "2744032",
+            "slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "condition_id": "0x3da7d980d23c6f6b12ed4f0bcbea97612f8ea01c28bff629ca821248c9767c81",
+            "title": "Kiros 15\u201320%",
+            "question": "Will Melat Kiros win the CO-01 Democratic primary by 15\u201320%?",
+            "description": "The Colorado Democratic primary elections are scheduled for June 30, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the C0-01 Democratic primary election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official..\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Colorado, such as official statewide results published by the Colorado Secretary of State (https://www.sos.state.co.us/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "",
+            "yes_token_id": "69382787308111068106271795090370379662472056993464260454406295058105213220066",
+            "yes_probability": 0.2,
+            "yes_best_bid": 0.04,
+            "yes_best_ask": 0.2,
+            "yes_spread": 0.16,
+            "no_token_id": "90072350255367032030079953618920357549820686546707587264044385735629554310243",
+            "no_probability": 0.96,
+            "no_best_bid": 0.8,
+            "no_best_ask": 0.96,
+            "no_spread": 0.15999999999999992,
+            "volume": 154.785713,
+            "liquidity": 4446.26,
+            "neg_risk": true,
+            "end_date": "",
+            "categories": [
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Kiros's victory indicates a margin of 15-20% (1 hop).",
+            "event_id": "651731",
+            "event_title": "CO-01 Democratic Primary Margin of Victory",
+            "event_slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "detected_yes_price": 0.2,
+            "detected_no_price": 0.97,
+            "detected_at": 1782873289653,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.2,
+            "highest_no_price": 0.97
+          },
+          {
+            "id": "2744034",
+            "slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "condition_id": "0xdf49974e4d67bb58dd7b53b740de7c9abf5f9853a3a58a3ab71988ec8e7e5391",
+            "title": "Kiros 5\u201310%",
+            "question": "Will Melat Kiros win the CO-01 Democratic primary by 5\u201310%?",
+            "description": "The Colorado Democratic primary elections are scheduled for June 30, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the C0-01 Democratic primary election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official..\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Colorado, such as official statewide results published by the Colorado Secretary of State (https://www.sos.state.co.us/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "",
+            "yes_token_id": "106434888785356472444985587173617308736440648478161195413601599961564413499947",
+            "yes_probability": 0.83,
+            "yes_best_bid": 0.46,
+            "yes_best_ask": 0.83,
+            "yes_spread": 0.36999999999999994,
+            "no_token_id": "31787658457450035733418336957064822935093328936219544273806440360577498950293",
+            "no_probability": 0.54,
+            "no_best_bid": 0.17,
+            "no_best_ask": 0.54,
+            "no_spread": 0.37,
+            "volume": 433,
+            "liquidity": 12682.999999999998,
+            "neg_risk": true,
+            "end_date": "",
+            "categories": [
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Kiros's victory suggests a margin of 5-10% (1 hop).",
+            "event_id": "651731",
+            "event_title": "CO-01 Democratic Primary Margin of Victory",
+            "event_slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "detected_yes_price": 0.81,
+            "detected_no_price": 0.54,
+            "detected_at": 1782873289653,
+            "highest_price_change": 0.08641975308641969,
+            "highest_yes_price": 0.88,
+            "highest_no_price": 0.54,
+            "first_moved_at": 1782873300435,
+            "moved_side": "yes",
+            "peaked_at": 1782876522790
+          }
+        ],
+        "topics": [
+          "shutdown",
+          "election-2028"
+        ],
+        "categories": [
+          "elections",
+          "politics"
+        ]
+      },
+      "related_market": {
+        "id": "2744036",
+        "slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+        "condition_id": "0x8a83990c3fb4edb553b1582acae9947deaab3f22b50c6fe7ddf2881ce31c095c",
+        "title": "DeGette <5%",
+        "question": "Will Diana DeGette win the CO-01 Democratic primary by less than 5%?",
+        "description": "The Colorado Democratic primary elections are scheduled for June 30, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the C0-01 Democratic primary election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official..\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Colorado, such as official statewide results published by the Colorado Secretary of State (https://www.sos.state.co.us/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+        "image": "",
+        "yes_token_id": "105056731333627462661424835628770294852046130325867757858340480129759880207140",
+        "yes_probability": 0.42,
+        "yes_best_bid": 0,
+        "yes_best_ask": 0.42,
+        "yes_spread": 0.42,
+        "no_token_id": "34131285995844692220060946208314823459392130629100195600365171274964681382262",
+        "no_probability": 1,
+        "no_best_bid": 0.58,
+        "no_best_ask": 1,
+        "no_spread": 0.42000000000000004,
+        "volume": 157,
+        "liquidity": 9469.04,
+        "neg_risk": true,
+        "end_date": "",
+        "categories": [
+          "elections",
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Kiros winning indicates DeGette's margin is likely under 5% (1 hop).",
+        "event_id": "651731",
+        "event_title": "CO-01 Democratic Primary Margin of Victory",
+        "event_slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+        "detected_yes_price": 0.31,
+        "detected_no_price": 1,
+        "detected_at": 1782873289653,
+        "highest_price_change": 0.3870967741935484,
+        "highest_yes_price": 0.43,
+        "highest_no_price": 1,
+        "first_moved_at": 1782873290174,
+        "moved_side": "yes",
+        "peaked_at": 1782875932996
+      },
+      "_scraped_at": "2026-07-01T03:55:40.545187+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 2,
+      "feed_item": {
+        "id": "2d88b8a9-4d8e-4554-a3a2-e234caca87e8",
+        "timestamp": 1782803034209,
+        "tweet": null,
+        "news": {
+          "feed_item_id": "2d88b8a9-4d8e-4554-a3a2-e234caca87e8",
+          "headline": "Trump Pauses Duties on Moroccan Fertilizer to Aid Farm Economy",
+          "description": "",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixOmDQ32XW6o/v1/-1x-1.webp",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-30/trump-pauses-duties-on-moroccan-fertilizer-to-aid-farm-economy",
+          "timestamp": 1782803034209,
+          "source": "bloomberg"
+        },
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "MA",
+        "countries": [
+          "MA",
+          "US"
+        ],
+        "related_markets": [
+          {
+            "id": "1436458",
+            "slug": "us-trade-deficit-in-2026",
+            "condition_id": "0xaaf3bc4e63735b3bfcc7a008e00ce7466a699584a50e92d94cd256a0ced72a7c",
+            "title": "<500B",
+            "question": "Will the 2026 trade deficit be less than 500B?",
+            "description": "This market will resolve according to the annual US Goods and Services Deficit for 2026, as reported by the US Bureau of Economic Analysis (BEA) and the US Census Bureau (USCB) in the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026, expected to be released in February 2027.\n\nUpon publication, the specified release will be made available at: https://www.bea.gov/news/current-releases\n\nThe relevant figure may be found in the annual summary under \u201cExports, Imports, and Balance (exhibit 1)\u201d. Changes in the BEA or USCB\u2019s reporting format will not disqualify a relevant published figure from counting.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe primary resolution source for this market will be the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 from the US Bureau of Economic Analysis and the US Census Bureau. If this release is not published by April 30, 2027 ET, another credible source on the annual US Goods and Services Deficit for 2026 will be chosen.\n\nNote: any revisions to the annual US Goods and Services Deficit for 2026 made after the publication of the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-trade-deficit-in-2026-Hn37ZN5inoET.jpg",
+            "yes_token_id": "78849497444444188157350698961362879013549528532372718983538139639352715072954",
+            "yes_probability": 0.05,
+            "yes_best_bid": 0.03,
+            "yes_best_ask": 0.05,
+            "yes_spread": 0.020000000000000004,
+            "no_token_id": "16702253457637369355512559909589950195972393433629954055252233038205090796405",
+            "no_probability": 0.97,
+            "no_best_bid": 0.95,
+            "no_best_ask": 0.97,
+            "no_spread": 0.020000000000000018,
+            "volume": 16813.295994999997,
+            "liquidity": 38392.369999999995,
+            "neg_risk": true,
+            "end_date": "2027-02-28T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Tariff pause directly affects trade balance, 1 hop.",
+            "event_id": "230330",
+            "event_title": "US Trade Deficit in 2026?",
+            "event_slug": "us-trade-deficit-in-2026",
+            "detected_yes_price": 0.05,
+            "detected_no_price": 0.97,
+            "detected_at": 1782803052650,
+            "highest_price_change": 0.1999999999999999,
+            "highest_yes_price": 0.06,
+            "highest_no_price": 0.97,
+            "first_moved_at": 1782803065222,
+            "moved_side": "yes",
+            "peaked_at": 1782803065222
+          },
+          {
+            "id": "1436460",
+            "slug": "us-trade-deficit-in-2026",
+            "condition_id": "0xac9d6105090f5e372ceb14422889be27f4a07a8b10497786d2df5946d0d7e9c7",
+            "title": "600\u2013700B",
+            "question": "Will the 2026 trade deficit be between 600B and 700B?",
+            "description": "This market will resolve according to the annual US Goods and Services Deficit for 2026, as reported by the US Bureau of Economic Analysis (BEA) and the US Census Bureau (USCB) in the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026, expected to be released in February 2027.\n\nUpon publication, the specified release will be made available at: https://www.bea.gov/news/current-releases\n\nThe relevant figure may be found in the annual summary under \u201cExports, Imports, and Balance (exhibit 1)\u201d. Changes in the BEA or USCB\u2019s reporting format will not disqualify a relevant published figure from counting.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe primary resolution source for this market will be the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 from the US Bureau of Economic Analysis and the US Census Bureau. If this release is not published by April 30, 2027 ET, another credible source on the annual US Goods and Services Deficit for 2026 will be chosen.\n\nNote: any revisions to the annual US Goods and Services Deficit for 2026 made after the publication of the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-trade-deficit-in-2026-Hn37ZN5inoET.jpg",
+            "yes_token_id": "27973691964766109836544315595854712262337866225236386768284652101613679398793",
+            "yes_probability": 0.139,
+            "yes_best_bid": 0.055,
+            "yes_best_ask": 0.139,
+            "yes_spread": 0.08400000000000002,
+            "no_token_id": "10172566073036860034393519395720286395513476290773008122020667669817961861000",
+            "no_probability": 0.945,
+            "no_best_bid": 0.861,
+            "no_best_ask": 0.945,
+            "no_spread": 0.08399999999999996,
+            "volume": 505.23353800000007,
+            "liquidity": 177060.55000000005,
+            "neg_risk": true,
+            "end_date": "2027-02-28T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Tariff pause directly affects trade balance, 1 hop.",
+            "event_id": "230330",
+            "event_title": "US Trade Deficit in 2026?",
+            "event_slug": "us-trade-deficit-in-2026",
+            "detected_yes_price": 0.149,
+            "detected_no_price": 0.935,
+            "detected_at": 1782803052650,
+            "highest_price_change": 0.013903743315507915,
+            "highest_yes_price": 0.15,
+            "highest_no_price": 0.948,
+            "first_moved_at": 1782860257014,
+            "moved_side": "no",
+            "peaked_at": 1782860257014
+          },
+          {
+            "id": "1436462",
+            "slug": "us-trade-deficit-in-2026",
+            "condition_id": "0xd3c6552a51528c74c28471aa0a5e13fbafdf84f02a40d11bf173b94032b7e7ef",
+            "title": "800\u2013900B",
+            "question": "Will the 2026 trade deficit be between 800B and 900B?",
+            "description": "This market will resolve according to the annual US Goods and Services Deficit for 2026, as reported by the US Bureau of Economic Analysis (BEA) and the US Census Bureau (USCB) in the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026, expected to be released in February 2027.\n\nUpon publication, the specified release will be made available at: https://www.bea.gov/news/current-releases\n\nThe relevant figure may be found in the annual summary under \u201cExports, Imports, and Balance (exhibit 1)\u201d. Changes in the BEA or USCB\u2019s reporting format will not disqualify a relevant published figure from counting.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe primary resolution source for this market will be the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 from the US Bureau of Economic Analysis and the US Census Bureau. If this release is not published by April 30, 2027 ET, another credible source on the annual US Goods and Services Deficit for 2026 will be chosen.\n\nNote: any revisions to the annual US Goods and Services Deficit for 2026 made after the publication of the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-trade-deficit-in-2026-Hn37ZN5inoET.jpg",
+            "yes_token_id": "44017019315782922634457300618919482744803730196875933928315824275516729043334",
+            "yes_probability": 0.43,
+            "yes_best_bid": 0.28,
+            "yes_best_ask": 0.43,
+            "yes_spread": 0.14999999999999997,
+            "no_token_id": "55867192153318522579011935519518933000287056983134864115793841072368253621603",
+            "no_probability": 0.72,
+            "no_best_bid": 0.57,
+            "no_best_ask": 0.72,
+            "no_spread": 0.15000000000000002,
+            "volume": 1007.858232,
+            "liquidity": 134025.90000000002,
+            "neg_risk": true,
+            "end_date": "2027-02-28T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 7,
+            "impact_level": "medium",
+            "impact_reason": "Tariff pause may indirectly affect trade balance, but less direct.",
+            "event_id": "230330",
+            "event_title": "US Trade Deficit in 2026?",
+            "event_slug": "us-trade-deficit-in-2026",
+            "detected_yes_price": 0.43,
+            "detected_no_price": 0.72,
+            "detected_at": 1782803052650,
+            "highest_price_change": 0.2558139534883722,
+            "highest_yes_price": 0.54,
+            "highest_no_price": 0.72,
+            "first_moved_at": 1782803163202,
+            "moved_side": "yes",
+            "peaked_at": 1782875164517
+          },
+          {
+            "id": "1436463",
+            "slug": "us-trade-deficit-in-2026",
+            "condition_id": "0x26b69058c1c2c53a8e439504a8755ce75d469ba3a1c82bca934ea7a46f26529e",
+            "title": "900B\u20131T",
+            "question": "Will the 2026 trade deficit be between 900B and 1T?",
+            "description": "This market will resolve according to the annual US Goods and Services Deficit for 2026, as reported by the US Bureau of Economic Analysis (BEA) and the US Census Bureau (USCB) in the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026, expected to be released in February 2027.\n\nUpon publication, the specified release will be made available at: https://www.bea.gov/news/current-releases\n\nThe relevant figure may be found in the annual summary under \u201cExports, Imports, and Balance (exhibit 1)\u201d. Changes in the BEA or USCB\u2019s reporting format will not disqualify a relevant published figure from counting.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe primary resolution source for this market will be the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 from the US Bureau of Economic Analysis and the US Census Bureau. If this release is not published by April 30, 2027 ET, another credible source on the annual US Goods and Services Deficit for 2026 will be chosen.\n\nNote: any revisions to the annual US Goods and Services Deficit for 2026 made after the publication of the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-trade-deficit-in-2026-Hn37ZN5inoET.jpg",
+            "yes_token_id": "106954541463172441153958311986648134847708254123222442997405232679090482865750",
+            "yes_probability": 0.16,
+            "yes_best_bid": 0.09,
+            "yes_best_ask": 0.16,
+            "yes_spread": 0.07,
+            "no_token_id": "61472080815013929868564565937575699345479156899354364969053537768689252061185",
+            "no_probability": 0.91,
+            "no_best_bid": 0.84,
+            "no_best_ask": 0.91,
+            "no_spread": 0.07000000000000006,
+            "volume": 1085.7941500000002,
+            "liquidity": 137600.63999999998,
+            "neg_risk": true,
+            "end_date": "2027-02-28T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 6,
+            "impact_level": "medium",
+            "impact_reason": "Tariff pause may have some impact on trade balance, but less direct.",
+            "event_id": "230330",
+            "event_title": "US Trade Deficit in 2026?",
+            "event_slug": "us-trade-deficit-in-2026",
+            "detected_yes_price": 0.16,
+            "detected_no_price": 0.91,
+            "detected_at": 1782803052650,
+            "highest_price_change": 0.1875,
+            "highest_yes_price": 0.19,
+            "highest_no_price": 0.94,
+            "first_moved_at": 1782803069899,
+            "moved_side": "yes",
+            "peaked_at": 1782803129870
+          }
+        ],
+        "topics": [
+          "ai-tech"
+        ],
+        "categories": [
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "1436462",
+        "slug": "us-trade-deficit-in-2026",
+        "condition_id": "0xd3c6552a51528c74c28471aa0a5e13fbafdf84f02a40d11bf173b94032b7e7ef",
+        "title": "800\u2013900B",
+        "question": "Will the 2026 trade deficit be between 800B and 900B?",
+        "description": "This market will resolve according to the annual US Goods and Services Deficit for 2026, as reported by the US Bureau of Economic Analysis (BEA) and the US Census Bureau (USCB) in the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026, expected to be released in February 2027.\n\nUpon publication, the specified release will be made available at: https://www.bea.gov/news/current-releases\n\nThe relevant figure may be found in the annual summary under \u201cExports, Imports, and Balance (exhibit 1)\u201d. Changes in the BEA or USCB\u2019s reporting format will not disqualify a relevant published figure from counting.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe primary resolution source for this market will be the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 from the US Bureau of Economic Analysis and the US Census Bureau. If this release is not published by April 30, 2027 ET, another credible source on the annual US Goods and Services Deficit for 2026 will be chosen.\n\nNote: any revisions to the annual US Goods and Services Deficit for 2026 made after the publication of the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 will not be considered.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-trade-deficit-in-2026-Hn37ZN5inoET.jpg",
+        "yes_token_id": "44017019315782922634457300618919482744803730196875933928315824275516729043334",
+        "yes_probability": 0.43,
+        "yes_best_bid": 0.28,
+        "yes_best_ask": 0.43,
+        "yes_spread": 0.14999999999999997,
+        "no_token_id": "55867192153318522579011935519518933000287056983134864115793841072368253621603",
+        "no_probability": 0.72,
+        "no_best_bid": 0.57,
+        "no_best_ask": 0.72,
+        "no_spread": 0.15000000000000002,
+        "volume": 1007.858232,
+        "liquidity": 134025.90000000002,
+        "neg_risk": true,
+        "end_date": "2027-02-28T00:00:00Z",
+        "categories": [
+          "economy"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 7,
+        "impact_level": "medium",
+        "impact_reason": "Tariff pause may indirectly affect trade balance, but less direct.",
+        "event_id": "230330",
+        "event_title": "US Trade Deficit in 2026?",
+        "event_slug": "us-trade-deficit-in-2026",
+        "detected_yes_price": 0.43,
+        "detected_no_price": 0.72,
+        "detected_at": 1782803052650,
+        "highest_price_change": 0.2558139534883722,
+        "highest_yes_price": 0.54,
+        "highest_no_price": 0.72,
+        "first_moved_at": 1782803163202,
+        "moved_side": "yes",
+        "peaked_at": 1782875164517
+      },
+      "_scraped_at": "2026-07-01T03:55:40.545187+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 3,
+      "feed_item": {
+        "id": "3d0e6c91-c31e-405c-8454-efa7913f7ecb",
+        "timestamp": 1782798213922,
+        "tweet": {
+          "feed_item_id": "3d0e6c91-c31e-405c-8454-efa7913f7ecb",
+          "post_id": "2071831990303944905",
+          "post_type": "tweet",
+          "created_at": 1782798213922,
+          "user": {
+            "uid": "3295423333",
+            "handle": "FirstSquawk",
+            "display_name": "First Squawk",
+            "pfp": "https://pbs.twimg.com/profile_images/1039778545738964992/6fl6RNN0.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "France will impose a total \u20ac5 tax on low-value parcels imported from outside the EU starting in November, says Minister Papin.",
+          "link": "https://twitter.com/FirstSquawk/status/2071831990303944905"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "FR",
+        "countries": [
+          "FR"
+        ],
+        "related_markets": [
+          {
+            "id": "1722538",
+            "slug": "will-france-pass-a-national-budget-by-december-31",
+            "condition_id": "0x68ad245cb933f6f43524215e2c54af2049c7fd6d187d48b0e6880fe81f27064b",
+            "title": "",
+            "question": "Will France pass a national budget by December 31?",
+            "description": "This market will resolve to \"Yes\" if the French parliament passes a 2027 national budget (Loi de Finances pour 2027) and it is published in the Official Journal of France (Journal Officiel) by December 31, 2026, 11:59 PM CET (UTC+01:00). Otherwise, this market will resolve to \u201cNo.\u201d\n\nA qualifying budget must provide funding for the entire year 2027. Special or emergency funding bills will not qualify.\n\nThe primary resolution source for this market will be official information from the French Government, specifically the Official Journal of France (Journal Officiel) (journal-officiel.gouv.fr). However, a consensus of credible reporting will also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/frnat-6ee7cd46e2.jpg",
+            "yes_token_id": "83366601025064914569346173587137003767309282287673123797445039836022857196088",
+            "yes_probability": 0.43,
+            "yes_best_bid": 0.3,
+            "yes_best_ask": 0.43,
+            "yes_spread": 0.13,
+            "no_token_id": "112821944796634935104382194373124637822900731387001381742805822694746211545590",
+            "no_probability": 0.7,
+            "no_best_bid": 0.57,
+            "no_best_ask": 0.7,
+            "no_spread": 0.13,
+            "volume": 6121.439762,
+            "liquidity": 48988.30000000001,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 4,
+            "impact_level": "low",
+            "impact_reason": "Tax on parcels is indirect context for budget passage.",
+            "event_id": "308357",
+            "event_title": "Will France pass a national budget by December 31?",
+            "event_slug": "will-france-pass-a-national-budget-by-december-31",
+            "detected_yes_price": 0.5,
+            "detected_no_price": 0.77,
+            "detected_at": 1782798388160,
+            "highest_price_change": 0.19480519480519484,
+            "highest_yes_price": 0.5,
+            "highest_no_price": 0.92,
+            "first_moved_at": 1782798396076,
+            "moved_side": "no",
+            "peaked_at": 1782798396076
+          }
+        ],
+        "topics": null,
+        "categories": [
+          "world"
+        ]
+      },
+      "related_market": {
+        "id": "1722538",
+        "slug": "will-france-pass-a-national-budget-by-december-31",
+        "condition_id": "0x68ad245cb933f6f43524215e2c54af2049c7fd6d187d48b0e6880fe81f27064b",
+        "title": "",
+        "question": "Will France pass a national budget by December 31?",
+        "description": "This market will resolve to \"Yes\" if the French parliament passes a 2027 national budget (Loi de Finances pour 2027) and it is published in the Official Journal of France (Journal Officiel) by December 31, 2026, 11:59 PM CET (UTC+01:00). Otherwise, this market will resolve to \u201cNo.\u201d\n\nA qualifying budget must provide funding for the entire year 2027. Special or emergency funding bills will not qualify.\n\nThe primary resolution source for this market will be official information from the French Government, specifically the Official Journal of France (Journal Officiel) (journal-officiel.gouv.fr). However, a consensus of credible reporting will also be used.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/frnat-6ee7cd46e2.jpg",
+        "yes_token_id": "83366601025064914569346173587137003767309282287673123797445039836022857196088",
+        "yes_probability": 0.43,
+        "yes_best_bid": 0.3,
+        "yes_best_ask": 0.43,
+        "yes_spread": 0.13,
+        "no_token_id": "112821944796634935104382194373124637822900731387001381742805822694746211545590",
+        "no_probability": 0.7,
+        "no_best_bid": 0.57,
+        "no_best_ask": 0.7,
+        "no_spread": 0.13,
+        "volume": 6121.439762,
+        "liquidity": 48988.30000000001,
+        "neg_risk": false,
+        "end_date": "2026-12-31T00:00:00Z",
+        "categories": [
+          "politics",
+          "economy"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 4,
+        "impact_level": "low",
+        "impact_reason": "Tax on parcels is indirect context for budget passage.",
+        "event_id": "308357",
+        "event_title": "Will France pass a national budget by December 31?",
+        "event_slug": "will-france-pass-a-national-budget-by-december-31",
+        "detected_yes_price": 0.5,
+        "detected_no_price": 0.77,
+        "detected_at": 1782798388160,
+        "highest_price_change": 0.19480519480519484,
+        "highest_yes_price": 0.5,
+        "highest_no_price": 0.92,
+        "first_moved_at": 1782798396076,
+        "moved_side": "no",
+        "peaked_at": 1782798396076
+      },
+      "_scraped_at": "2026-07-01T03:55:40.545187+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "valid": false,
+      "_scraped_at": "2026-07-01T03:55:40.545187+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "global_tension_score": 34,
+      "global_tension_level": "GUARDED",
+      "countries": [
+        {
+          "country": "US",
+          "count": 6,
+          "recent": [
+            {
+              "id": "a7616a22-dc3e-49ef-85c6-14cea8b7b8b9",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782869332929
+            },
+            {
+              "id": "7d420a19-16e6-48ba-8e70-8a5af3c6b214",
+              "kind": "news",
+              "impact": "critical",
+              "timestamp": 1782875825980
+            },
+            {
+              "id": "19645e23-8912-4c13-ae09-46a95d3e4859",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782863091085
+            },
+            {
+              "id": "c46636a3-83fe-4a21-bbea-3aa300f5c674",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782874361000
+            },
+            {
+              "id": "54788fb7-0b3d-4292-b6f4-a1b3bc983a54",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782873205575
+            },
+            {
+              "id": "25fa49db-21c6-4b6c-9766-d30b106394b1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782864125320
+            }
+          ],
+          "volume": 1131520.6562614997,
+          "critical_signals": 1,
+          "high_signals": 5,
+          "low_signals": 0
+        },
+        {
+          "country": "GB",
+          "count": 4,
+          "recent": [
+            {
+              "id": "2caf3aba-628a-4087-8efe-56777998c90a",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782860540809
+            },
+            {
+              "id": "69341f8c-c39e-4e39-aa89-f65b83e51fff",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1782857328871
+            },
+            {
+              "id": "744d980e-c55b-41c7-bfcc-99fa1f1f322c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782856956446
+            },
+            {
+              "id": "ef4aef19-2a10-4475-89d1-7b88e322dcd2",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782875225174
+            }
+          ],
+          "volume": 46040247.999502994,
+          "critical_signals": 1,
+          "high_signals": 3,
+          "low_signals": 0
+        },
+        {
+          "country": "IR",
+          "count": 3,
+          "recent": [
+            {
+              "id": "a7616a22-dc3e-49ef-85c6-14cea8b7b8b9",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782869332929
+            },
+            {
+              "id": "19645e23-8912-4c13-ae09-46a95d3e4859",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782863091085
+            },
+            {
+              "id": "69341f8c-c39e-4e39-aa89-f65b83e51fff",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1782857328871
+            }
+          ],
+          "volume": 40953112.72040233,
+          "critical_signals": 1,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "UA",
+          "count": 3,
+          "recent": [
+            {
+              "id": "2caf3aba-628a-4087-8efe-56777998c90a",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782860540809
+            },
+            {
+              "id": "744d980e-c55b-41c7-bfcc-99fa1f1f322c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782856956446
+            },
+            {
+              "id": "ef4aef19-2a10-4475-89d1-7b88e322dcd2",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782875225174
+            }
+          ],
+          "volume": 5705161.747974657,
+          "critical_signals": 0,
+          "high_signals": 3,
+          "low_signals": 0
+        },
+        {
+          "country": "IL",
+          "count": 2,
+          "recent": [
+            {
+              "id": "35db6c9c-0909-4197-87d4-3b1d59572672",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1782861992102
+            },
+            {
+              "id": "69341f8c-c39e-4e39-aa89-f65b83e51fff",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1782857328871
+            }
+          ],
+          "volume": 40661352.87120633,
+          "critical_signals": 2,
+          "high_signals": 0,
+          "low_signals": 0
+        },
+        {
+          "country": "RU",
+          "count": 2,
+          "recent": [
+            {
+              "id": "744d980e-c55b-41c7-bfcc-99fa1f1f322c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782856956446
+            },
+            {
+              "id": "98a55b27-49c2-43f3-9506-389214b586a5",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1782875225023
+            }
+          ],
+          "volume": 1800990.1438911026,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 1
+        },
+        {
+          "country": "PS",
+          "count": 1,
+          "recent": [
+            {
+              "id": "35db6c9c-0909-4197-87d4-3b1d59572672",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1782861992102
+            }
+          ],
+          "volume": 326266.61967799964,
+          "critical_signals": 1,
+          "high_signals": 0,
+          "low_signals": 0
+        },
+        {
+          "country": "IN",
+          "count": 1,
+          "recent": [
+            {
+              "id": "56bf4952-295b-4fc7-8095-4f6ad20d0739",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782866810877
+            }
+          ],
+          "volume": 298400.9706830008,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "IQ",
+          "count": 1,
+          "recent": [
+            {
+              "id": "25fa49db-21c6-4b6c-9766-d30b106394b1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782864125320
+            }
+          ],
+          "volume": 19474.297499999993,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "PK",
+          "count": 1,
+          "recent": [
+            {
+              "id": "56bf4952-295b-4fc7-8095-4f6ad20d0739",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782866810877
+            }
+          ],
+          "volume": 298400.9706830008,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        }
+      ],
+      "_scraped_at": "2026-07-01T03:55:40.545187+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
