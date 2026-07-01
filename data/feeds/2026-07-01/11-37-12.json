@@ -1,0 +1,1087 @@
+{
+  "scraped_at": "2026-07-01T11:37:02.202755+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 4,
+  "items": [
+    {
+      "valid": false,
+      "_scraped_at": "2026-07-01T11:37:02.202755+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "54788fb7-0b3d-4292-b6f4-a1b3bc983a54",
+        "timestamp": 1782873205575,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "54788fb7-0b3d-4292-b6f4-a1b3bc983a54",
+          "text": "Melat Kiros beats incumbent U.S. Rep. DeGette to secure Democratic primary in Colorado\u2019s 1st district: Decision Desk HQ projects|FJ",
+          "channel": "FinancialJuice",
+          "timestamp": 1782873205575,
+          "link": "https://t.me/FinancialJuice"
+        },
+        "osint": false,
+        "country": "US",
+        "countries": [
+          "US"
+        ],
+        "related_markets": [
+          {
+            "id": "2045400",
+            "slug": "co-01-democratic-primary-winner",
+            "condition_id": "0x80026e4a0a2aad15549a47671a54aa95afc86325c60481ca11c500025f68b926",
+            "title": "Melat Kiros",
+            "question": "Will Melat Kiros be the Democratic nominee for CO-01?",
+            "description": "This market will resolve according to the candidate who wins the nomination for the Democratic Party to contest the CO-01 congressional district seat in the U.S. House of Representatives in the 2026 midterm elections. The Democratic primary will take place on June 30, 2026.\n\nIf no nominee is announced by November 3, 2026, 11:59 PM ET, this market will resolve to \"Other\".\n\nThe resolution source for this market will be a consensus of official Democrat sources, including https://democrats.org/.\n\nAny replacement of the nominee before election day will not change the resolution of the market.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/who-will-be-the-democratic-nominee-for-co-08-w3Hor1DBoz-p.png",
+            "yes_token_id": "54248493054665270371339102065469470799944329749404077530182740354759453691862",
+            "yes_probability": 1,
+            "yes_best_bid": 0.999,
+            "yes_best_ask": 1,
+            "yes_spread": 0.0010000000000000009,
+            "no_token_id": "38992902454352364358887929901105765380288340807703261057608210090907678247398",
+            "no_probability": 0.001,
+            "no_best_bid": 0,
+            "no_best_ask": 0.001,
+            "no_spread": 0.001,
+            "volume": 205531.29975899975,
+            "liquidity": 856211.8699999999,
+            "neg_risk": true,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Kiros winning the primary indicates she is the nominee (1 hop).",
+            "event_id": "403574",
+            "event_title": "CO-01 Democratic Primary Winner",
+            "event_slug": "co-01-democratic-primary-winner",
+            "detected_yes_price": 0.995,
+            "detected_no_price": 0.009000000000000008,
+            "detected_at": 1782873289653,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.995,
+            "highest_no_price": 0.009000000000000008
+          },
+          {
+            "id": "2744036",
+            "slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "condition_id": "0x8a83990c3fb4edb553b1582acae9947deaab3f22b50c6fe7ddf2881ce31c095c",
+            "title": "DeGette <5%",
+            "question": "Will Diana DeGette win the CO-01 Democratic primary by less than 5%?",
+            "description": "The Colorado Democratic primary elections are scheduled for June 30, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the C0-01 Democratic primary election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official..\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Colorado, such as official statewide results published by the Colorado Secretary of State (https://www.sos.state.co.us/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "",
+            "yes_token_id": "105056731333627462661424835628770294852046130325867757858340480129759880207140",
+            "yes_probability": 0.018,
+            "yes_best_bid": 0.002,
+            "yes_best_ask": 0.018,
+            "yes_spread": 0.016,
+            "no_token_id": "34131285995844692220060946208314823459392130629100195600365171274964681382262",
+            "no_probability": 0.998,
+            "no_best_bid": 0.982,
+            "no_best_ask": 0.998,
+            "no_spread": 0.016000000000000014,
+            "volume": 236.22852700000004,
+            "liquidity": 88405.06,
+            "neg_risk": true,
+            "end_date": "",
+            "categories": [
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Kiros winning indicates DeGette's margin is likely under 5% (1 hop).",
+            "event_id": "651731",
+            "event_title": "CO-01 Democratic Primary Margin of Victory",
+            "event_slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "detected_yes_price": 0.31,
+            "detected_no_price": 1,
+            "detected_at": 1782873289653,
+            "highest_price_change": 1.838709677419355,
+            "highest_yes_price": 0.88,
+            "highest_no_price": 1,
+            "first_moved_at": 1782873290174,
+            "moved_side": "yes",
+            "peaked_at": 1782886706280
+          },
+          {
+            "id": "2744033",
+            "slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "condition_id": "0xd43c1923fe24f02c2a9b5e78d27d1827f1506c26cea77d3110863ff5d99038bd",
+            "title": "Kiros 10\u201315%",
+            "question": "Will Melat Kiros win the CO-01 Democratic primary by 10\u201315%?",
+            "description": "The Colorado Democratic primary elections are scheduled for June 30, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the C0-01 Democratic primary election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official..\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Colorado, such as official statewide results published by the Colorado Secretary of State (https://www.sos.state.co.us/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "",
+            "yes_token_id": "1730056794100579039650535855419784537970748873006963142919826286950977367358",
+            "yes_probability": 0.899,
+            "yes_best_bid": 0.89,
+            "yes_best_ask": 0.899,
+            "yes_spread": 0.009000000000000008,
+            "no_token_id": "52897544643713458196004833227505644574914003429358121851280011094617271958669",
+            "no_probability": 0.11,
+            "no_best_bid": 0.101,
+            "no_best_ask": 0.11,
+            "no_spread": 0.008999999999999994,
+            "volume": 459.09190530000006,
+            "liquidity": 132737.60000000003,
+            "neg_risk": true,
+            "end_date": "",
+            "categories": [
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Kiros's victory suggests a margin of 10-15% (1 hop).",
+            "event_id": "651731",
+            "event_title": "CO-01 Democratic Primary Margin of Victory",
+            "event_slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "detected_yes_price": 0.42,
+            "detected_no_price": 0.91,
+            "detected_at": 1782873289653,
+            "highest_price_change": 1.3333333333333335,
+            "highest_yes_price": 0.98,
+            "highest_no_price": 0.99,
+            "first_moved_at": 1782874950369,
+            "moved_side": "yes",
+            "peaked_at": 1782896546708
+          },
+          {
+            "id": "2744032",
+            "slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "condition_id": "0x3da7d980d23c6f6b12ed4f0bcbea97612f8ea01c28bff629ca821248c9767c81",
+            "title": "Kiros 15\u201320%",
+            "question": "Will Melat Kiros win the CO-01 Democratic primary by 15\u201320%?",
+            "description": "The Colorado Democratic primary elections are scheduled for June 30, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the C0-01 Democratic primary election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official..\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Colorado, such as official statewide results published by the Colorado Secretary of State (https://www.sos.state.co.us/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "",
+            "yes_token_id": "69382787308111068106271795090370379662472056993464260454406295058105213220066",
+            "yes_probability": 0.01,
+            "yes_best_bid": 0.002,
+            "yes_best_ask": 0.01,
+            "yes_spread": 0.008,
+            "no_token_id": "90072350255367032030079953618920357549820686546707587264044385735629554310243",
+            "no_probability": 0.998,
+            "no_best_bid": 0.99,
+            "no_best_ask": 0.998,
+            "no_spread": 0.008000000000000007,
+            "volume": 182.793393,
+            "liquidity": 84469.86999999998,
+            "neg_risk": true,
+            "end_date": "",
+            "categories": [
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Kiros's victory indicates a margin of 15-20% (1 hop).",
+            "event_id": "651731",
+            "event_title": "CO-01 Democratic Primary Margin of Victory",
+            "event_slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "detected_yes_price": 0.2,
+            "detected_no_price": 0.97,
+            "detected_at": 1782873289653,
+            "highest_price_change": 0.03092783505154642,
+            "highest_yes_price": 0.2,
+            "highest_no_price": 1,
+            "first_moved_at": 1782888383255,
+            "moved_side": "no",
+            "peaked_at": 1782889209093
+          },
+          {
+            "id": "2744034",
+            "slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "condition_id": "0xdf49974e4d67bb58dd7b53b740de7c9abf5f9853a3a58a3ab71988ec8e7e5391",
+            "title": "Kiros 5\u201310%",
+            "question": "Will Melat Kiros win the CO-01 Democratic primary by 5\u201310%?",
+            "description": "The Colorado Democratic primary elections are scheduled for June 30, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the C0-01 Democratic primary election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official..\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Colorado, such as official statewide results published by the Colorado Secretary of State (https://www.sos.state.co.us/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "",
+            "yes_token_id": "106434888785356472444985587173617308736440648478161195413601599961564413499947",
+            "yes_probability": 0.1,
+            "yes_best_bid": 0.09,
+            "yes_best_ask": 0.1,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "31787658457450035733418336957064822935093328936219544273806440360577498950293",
+            "no_probability": 0.91,
+            "no_best_bid": 0.9,
+            "no_best_ask": 0.91,
+            "no_spread": 0.010000000000000009,
+            "volume": 808.71056965,
+            "liquidity": 98508.61999999997,
+            "neg_risk": true,
+            "end_date": "",
+            "categories": [
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Kiros's victory suggests a margin of 5-10% (1 hop).",
+            "event_id": "651731",
+            "event_title": "CO-01 Democratic Primary Margin of Victory",
+            "event_slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "detected_yes_price": 0.81,
+            "detected_no_price": 0.54,
+            "detected_at": 1782873289653,
+            "highest_price_change": 0.8518518518518517,
+            "highest_yes_price": 0.88,
+            "highest_no_price": 1,
+            "first_moved_at": 1782873300435,
+            "moved_side": "no",
+            "peaked_at": 1782896520381
+          }
+        ],
+        "topics": [
+          "shutdown",
+          "election-2028"
+        ],
+        "categories": [
+          "elections",
+          "politics"
+        ]
+      },
+      "related_market": {
+        "id": "2744036",
+        "slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+        "condition_id": "0x8a83990c3fb4edb553b1582acae9947deaab3f22b50c6fe7ddf2881ce31c095c",
+        "title": "DeGette <5%",
+        "question": "Will Diana DeGette win the CO-01 Democratic primary by less than 5%?",
+        "description": "The Colorado Democratic primary elections are scheduled for June 30, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the C0-01 Democratic primary election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official..\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Colorado, such as official statewide results published by the Colorado Secretary of State (https://www.sos.state.co.us/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+        "image": "",
+        "yes_token_id": "105056731333627462661424835628770294852046130325867757858340480129759880207140",
+        "yes_probability": 0.018,
+        "yes_best_bid": 0.002,
+        "yes_best_ask": 0.018,
+        "yes_spread": 0.016,
+        "no_token_id": "34131285995844692220060946208314823459392130629100195600365171274964681382262",
+        "no_probability": 0.998,
+        "no_best_bid": 0.982,
+        "no_best_ask": 0.998,
+        "no_spread": 0.016000000000000014,
+        "volume": 236.22852700000004,
+        "liquidity": 88405.06,
+        "neg_risk": true,
+        "end_date": "",
+        "categories": [
+          "elections",
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Kiros winning indicates DeGette's margin is likely under 5% (1 hop).",
+        "event_id": "651731",
+        "event_title": "CO-01 Democratic Primary Margin of Victory",
+        "event_slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+        "detected_yes_price": 0.31,
+        "detected_no_price": 1,
+        "detected_at": 1782873289653,
+        "highest_price_change": 1.838709677419355,
+        "highest_yes_price": 0.88,
+        "highest_no_price": 1,
+        "first_moved_at": 1782873290174,
+        "moved_side": "yes",
+        "peaked_at": 1782886706280
+      },
+      "_scraped_at": "2026-07-01T11:37:02.202755+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 2,
+      "feed_item": {
+        "id": "c46636a3-83fe-4a21-bbea-3aa300f5c674",
+        "timestamp": 1782874361000,
+        "tweet": {
+          "feed_item_id": "c46636a3-83fe-4a21-bbea-3aa300f5c674",
+          "post_id": "2072151377401278732",
+          "post_type": "tweet",
+          "created_at": 1782874361000,
+          "user": {
+            "uid": "34713362",
+            "handle": "business",
+            "display_name": "Bloomberg",
+            "pfp": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "Democratic Socialist Melat Kiros ousted 15-term incumbent Representative Diana DeGette in Colorado\u2019s first congressional district, DDHQ projected, the latest evidence of a growing divide over the direction of the Democratic Party https://www.bloomberg.com/news/articles/2026-07-01/kiros-wins-colorado-democratic-house-primary-ddhq-projects?taid=6a4480f9c097b90001579708&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+          "link": "https://twitter.com/business/status/2072151377401278732"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "US",
+        "countries": [
+          "US"
+        ],
+        "related_markets": [
+          {
+            "id": "2744032",
+            "slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "condition_id": "0x3da7d980d23c6f6b12ed4f0bcbea97612f8ea01c28bff629ca821248c9767c81",
+            "title": "Kiros 15\u201320%",
+            "question": "Will Melat Kiros win the CO-01 Democratic primary by 15\u201320%?",
+            "description": "The Colorado Democratic primary elections are scheduled for June 30, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the C0-01 Democratic primary election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official..\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Colorado, such as official statewide results published by the Colorado Secretary of State (https://www.sos.state.co.us/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "",
+            "yes_token_id": "69382787308111068106271795090370379662472056993464260454406295058105213220066",
+            "yes_probability": 0.01,
+            "yes_best_bid": 0.002,
+            "yes_best_ask": 0.01,
+            "yes_spread": 0.008,
+            "no_token_id": "90072350255367032030079953618920357549820686546707587264044385735629554310243",
+            "no_probability": 0.998,
+            "no_best_bid": 0.99,
+            "no_best_ask": 0.998,
+            "no_spread": 0.008000000000000007,
+            "volume": 182.793393,
+            "liquidity": 84469.86999999998,
+            "neg_risk": true,
+            "end_date": "",
+            "categories": [
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Kiros's win margin directly indicates her support level (1 hop).",
+            "event_id": "651731",
+            "event_title": "CO-01 Democratic Primary Margin of Victory",
+            "event_slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "detected_yes_price": 0.2,
+            "detected_no_price": 0.97,
+            "detected_at": 1782874407838,
+            "highest_price_change": 0.03092783505154642,
+            "highest_yes_price": 0.2,
+            "highest_no_price": 1,
+            "first_moved_at": 1782888383255,
+            "moved_side": "no",
+            "peaked_at": 1782889209093
+          },
+          {
+            "id": "2744034",
+            "slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "condition_id": "0xdf49974e4d67bb58dd7b53b740de7c9abf5f9853a3a58a3ab71988ec8e7e5391",
+            "title": "Kiros 5\u201310%",
+            "question": "Will Melat Kiros win the CO-01 Democratic primary by 5\u201310%?",
+            "description": "The Colorado Democratic primary elections are scheduled for June 30, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the C0-01 Democratic primary election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official..\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Colorado, such as official statewide results published by the Colorado Secretary of State (https://www.sos.state.co.us/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "",
+            "yes_token_id": "106434888785356472444985587173617308736440648478161195413601599961564413499947",
+            "yes_probability": 0.1,
+            "yes_best_bid": 0.09,
+            "yes_best_ask": 0.1,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "31787658457450035733418336957064822935093328936219544273806440360577498950293",
+            "no_probability": 0.91,
+            "no_best_bid": 0.9,
+            "no_best_ask": 0.91,
+            "no_spread": 0.010000000000000009,
+            "volume": 808.71056965,
+            "liquidity": 98508.61999999997,
+            "neg_risk": true,
+            "end_date": "",
+            "categories": [
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Kiros's win margin directly indicates her support level (1 hop).",
+            "event_id": "651731",
+            "event_title": "CO-01 Democratic Primary Margin of Victory",
+            "event_slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "detected_yes_price": 0.83,
+            "detected_no_price": 0.54,
+            "detected_at": 1782874407838,
+            "highest_price_change": 0.8518518518518517,
+            "highest_yes_price": 0.88,
+            "highest_no_price": 1,
+            "first_moved_at": 1782874496091,
+            "moved_side": "no",
+            "peaked_at": 1782896520381
+          },
+          {
+            "id": "2045400",
+            "slug": "co-01-democratic-primary-winner",
+            "condition_id": "0x80026e4a0a2aad15549a47671a54aa95afc86325c60481ca11c500025f68b926",
+            "title": "Melat Kiros",
+            "question": "Will Melat Kiros be the Democratic nominee for CO-01?",
+            "description": "This market will resolve according to the candidate who wins the nomination for the Democratic Party to contest the CO-01 congressional district seat in the U.S. House of Representatives in the 2026 midterm elections. The Democratic primary will take place on June 30, 2026.\n\nIf no nominee is announced by November 3, 2026, 11:59 PM ET, this market will resolve to \"Other\".\n\nThe resolution source for this market will be a consensus of official Democrat sources, including https://democrats.org/.\n\nAny replacement of the nominee before election day will not change the resolution of the market.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/who-will-be-the-democratic-nominee-for-co-08-w3Hor1DBoz-p.png",
+            "yes_token_id": "54248493054665270371339102065469470799944329749404077530182740354759453691862",
+            "yes_probability": 1,
+            "yes_best_bid": 0.999,
+            "yes_best_ask": 1,
+            "yes_spread": 0.0010000000000000009,
+            "no_token_id": "38992902454352364358887929901105765380288340807703261057608210090907678247398",
+            "no_probability": 0.001,
+            "no_best_bid": 0,
+            "no_best_ask": 0.001,
+            "no_spread": 0.001,
+            "volume": 205531.29975899975,
+            "liquidity": 856211.8699999999,
+            "neg_risk": true,
+            "end_date": "2026-06-30T00:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Kiros winning the primary directly indicates her nomination likelihood (1 hop).",
+            "event_id": "403574",
+            "event_title": "CO-01 Democratic Primary Winner",
+            "event_slug": "co-01-democratic-primary-winner",
+            "detected_yes_price": 1,
+            "detected_no_price": 0.0010000000000000009,
+            "detected_at": 1782874407838,
+            "highest_price_change": 1.9999999999999973,
+            "highest_yes_price": 1,
+            "highest_no_price": 0.003,
+            "first_moved_at": 1782876828968,
+            "moved_side": "no",
+            "peaked_at": 1782876828968
+          },
+          {
+            "id": "2744033",
+            "slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "condition_id": "0xd43c1923fe24f02c2a9b5e78d27d1827f1506c26cea77d3110863ff5d99038bd",
+            "title": "Kiros 10\u201315%",
+            "question": "Will Melat Kiros win the CO-01 Democratic primary by 10\u201315%?",
+            "description": "The Colorado Democratic primary elections are scheduled for June 30, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the C0-01 Democratic primary election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official..\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Colorado, such as official statewide results published by the Colorado Secretary of State (https://www.sos.state.co.us/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "",
+            "yes_token_id": "1730056794100579039650535855419784537970748873006963142919826286950977367358",
+            "yes_probability": 0.899,
+            "yes_best_bid": 0.89,
+            "yes_best_ask": 0.899,
+            "yes_spread": 0.009000000000000008,
+            "no_token_id": "52897544643713458196004833227505644574914003429358121851280011094617271958669",
+            "no_probability": 0.11,
+            "no_best_bid": 0.101,
+            "no_best_ask": 0.11,
+            "no_spread": 0.008999999999999994,
+            "volume": 459.09190530000006,
+            "liquidity": 132737.60000000003,
+            "neg_risk": true,
+            "end_date": "",
+            "categories": [
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Kiros's win margin directly indicates her support level (1 hop).",
+            "event_id": "651731",
+            "event_title": "CO-01 Democratic Primary Margin of Victory",
+            "event_slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "detected_yes_price": 0.42,
+            "detected_no_price": 0.91,
+            "detected_at": 1782874407838,
+            "highest_price_change": 1.3333333333333335,
+            "highest_yes_price": 0.98,
+            "highest_no_price": 0.99,
+            "first_moved_at": 1782874950369,
+            "moved_side": "yes",
+            "peaked_at": 1782896546708
+          },
+          {
+            "id": "2744036",
+            "slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "condition_id": "0x8a83990c3fb4edb553b1582acae9947deaab3f22b50c6fe7ddf2881ce31c095c",
+            "title": "DeGette <5%",
+            "question": "Will Diana DeGette win the CO-01 Democratic primary by less than 5%?",
+            "description": "The Colorado Democratic primary elections are scheduled for June 30, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the C0-01 Democratic primary election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official..\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Colorado, such as official statewide results published by the Colorado Secretary of State (https://www.sos.state.co.us/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "",
+            "yes_token_id": "105056731333627462661424835628770294852046130325867757858340480129759880207140",
+            "yes_probability": 0.018,
+            "yes_best_bid": 0.002,
+            "yes_best_ask": 0.018,
+            "yes_spread": 0.016,
+            "no_token_id": "34131285995844692220060946208314823459392130629100195600365171274964681382262",
+            "no_probability": 0.998,
+            "no_best_bid": 0.982,
+            "no_best_ask": 0.998,
+            "no_spread": 0.016000000000000014,
+            "volume": 236.22852700000004,
+            "liquidity": 88405.06,
+            "neg_risk": true,
+            "end_date": "",
+            "categories": [
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Kiros's win implies DeGette's margin of victory is relevant (1 hop).",
+            "event_id": "651731",
+            "event_title": "CO-01 Democratic Primary Margin of Victory",
+            "event_slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "detected_yes_price": 0.39,
+            "detected_no_price": 1,
+            "detected_at": 1782874407838,
+            "highest_price_change": 1.2564102564102564,
+            "highest_yes_price": 0.88,
+            "highest_no_price": 1,
+            "first_moved_at": 1782874408586,
+            "moved_side": "yes",
+            "peaked_at": 1782886706280
+          }
+        ],
+        "topics": [
+          "elon-musk",
+          "shutdown",
+          "election-2028",
+          "ai-tech"
+        ],
+        "categories": [
+          "tech",
+          "climate",
+          "elections",
+          "politics"
+        ]
+      },
+      "related_market": {
+        "id": "2744033",
+        "slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+        "condition_id": "0xd43c1923fe24f02c2a9b5e78d27d1827f1506c26cea77d3110863ff5d99038bd",
+        "title": "Kiros 10\u201315%",
+        "question": "Will Melat Kiros win the CO-01 Democratic primary by 10\u201315%?",
+        "description": "The Colorado Democratic primary elections are scheduled for June 30, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the C0-01 Democratic primary election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official..\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Colorado, such as official statewide results published by the Colorado Secretary of State (https://www.sos.state.co.us/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+        "image": "",
+        "yes_token_id": "1730056794100579039650535855419784537970748873006963142919826286950977367358",
+        "yes_probability": 0.899,
+        "yes_best_bid": 0.89,
+        "yes_best_ask": 0.899,
+        "yes_spread": 0.009000000000000008,
+        "no_token_id": "52897544643713458196004833227505644574914003429358121851280011094617271958669",
+        "no_probability": 0.11,
+        "no_best_bid": 0.101,
+        "no_best_ask": 0.11,
+        "no_spread": 0.008999999999999994,
+        "volume": 459.09190530000006,
+        "liquidity": 132737.60000000003,
+        "neg_risk": true,
+        "end_date": "",
+        "categories": [
+          "elections",
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Kiros's win margin directly indicates her support level (1 hop).",
+        "event_id": "651731",
+        "event_title": "CO-01 Democratic Primary Margin of Victory",
+        "event_slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+        "detected_yes_price": 0.42,
+        "detected_no_price": 0.91,
+        "detected_at": 1782874407838,
+        "highest_price_change": 1.3333333333333335,
+        "highest_yes_price": 0.98,
+        "highest_no_price": 0.99,
+        "first_moved_at": 1782874950369,
+        "moved_side": "yes",
+        "peaked_at": 1782896546708
+      },
+      "_scraped_at": "2026-07-01T11:37:02.202755+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "global_tension_score": 46,
+      "global_tension_level": "ELEVATED",
+      "countries": [
+        {
+          "country": "UA",
+          "count": 17,
+          "recent": [
+            {
+              "id": "0edf0234-7c08-460e-8233-5cc229fc11f3",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782887764900
+            },
+            {
+              "id": "1101c17c-90c9-4202-8600-c5debd211565",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782889201407
+            },
+            {
+              "id": "560a1779-1e68-4b8e-a347-1e95bfb6d741",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782886804714
+            },
+            {
+              "id": "b782fa08-0799-4590-99a5-cb1b42c1956d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782902044307
+            },
+            {
+              "id": "f0a76603-94b9-4195-a3f9-9d83c1f79609",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1782886684934
+            },
+            {
+              "id": "eb66afd3-72f9-49c4-a67f-67567648e057",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782885706574
+            },
+            {
+              "id": "39b04f45-0952-4734-9972-6ba45005ce78",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1782900955982
+            },
+            {
+              "id": "5911127f-09ee-4362-a692-de778a7dd16b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782900124357
+            },
+            {
+              "id": "31e8b55a-868a-4f47-9c28-561b9dfbeaeb",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782901799000
+            },
+            {
+              "id": "82ed25e7-4f56-489c-b850-f8579686ea8a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782898012347
+            },
+            {
+              "id": "03a564eb-8bd4-451e-bf18-7354d5954453",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782904984227
+            },
+            {
+              "id": "9f5392fb-ed0e-4d30-87e1-0319ac6a62b8",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782888364906
+            },
+            {
+              "id": "10eb322d-4dc5-4281-b8e4-ab9b9166901b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782898084595
+            },
+            {
+              "id": "e140a90c-b0bb-40a2-a0e0-7b1e219d31bc",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782900194837
+            },
+            {
+              "id": "a06e3c19-9401-4f02-bed2-b9ba4bcdc3cd",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1782897319717
+            },
+            {
+              "id": "001f08f1-a52e-4fb6-8ce8-90a42d0158e6",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782889201000
+            },
+            {
+              "id": "c7d1a165-ed9f-4011-9ffd-96a564e007cc",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782889519805
+            }
+          ],
+          "volume": 8067055.772870895,
+          "critical_signals": 1,
+          "high_signals": 14,
+          "low_signals": 2
+        },
+        {
+          "country": "GB",
+          "count": 10,
+          "recent": [
+            {
+              "id": "0edf0234-7c08-460e-8233-5cc229fc11f3",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782887764900
+            },
+            {
+              "id": "560a1779-1e68-4b8e-a347-1e95bfb6d741",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782886804714
+            },
+            {
+              "id": "b782fa08-0799-4590-99a5-cb1b42c1956d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782902044307
+            },
+            {
+              "id": "f0a76603-94b9-4195-a3f9-9d83c1f79609",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1782886684934
+            },
+            {
+              "id": "eb66afd3-72f9-49c4-a67f-67567648e057",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782885706574
+            },
+            {
+              "id": "39b04f45-0952-4734-9972-6ba45005ce78",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1782900955982
+            },
+            {
+              "id": "5911127f-09ee-4362-a692-de778a7dd16b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782900124357
+            },
+            {
+              "id": "31e8b55a-868a-4f47-9c28-561b9dfbeaeb",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782901799000
+            },
+            {
+              "id": "82ed25e7-4f56-489c-b850-f8579686ea8a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782898012347
+            },
+            {
+              "id": "10eb322d-4dc5-4281-b8e4-ab9b9166901b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782898084595
+            }
+          ],
+          "volume": 8052911.515222545,
+          "critical_signals": 1,
+          "high_signals": 8,
+          "low_signals": 1
+        },
+        {
+          "country": "RU",
+          "count": 8,
+          "recent": [
+            {
+              "id": "0edf0234-7c08-460e-8233-5cc229fc11f3",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782887764900
+            },
+            {
+              "id": "1101c17c-90c9-4202-8600-c5debd211565",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782889201407
+            },
+            {
+              "id": "560a1779-1e68-4b8e-a347-1e95bfb6d741",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782886804714
+            },
+            {
+              "id": "82ed25e7-4f56-489c-b850-f8579686ea8a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782898012347
+            },
+            {
+              "id": "10eb322d-4dc5-4281-b8e4-ab9b9166901b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782898084595
+            },
+            {
+              "id": "e140a90c-b0bb-40a2-a0e0-7b1e219d31bc",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782900194837
+            },
+            {
+              "id": "001f08f1-a52e-4fb6-8ce8-90a42d0158e6",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782889201000
+            },
+            {
+              "id": "14521bde-4a61-400e-981b-d48cd49260d4",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782886144732
+            }
+          ],
+          "volume": 6039530.661392107,
+          "critical_signals": 0,
+          "high_signals": 8,
+          "low_signals": 0
+        },
+        {
+          "country": "IR",
+          "count": 7,
+          "recent": [
+            {
+              "id": "804bff7f-fc59-467f-ad73-9f9402e32917",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782902861000
+            },
+            {
+              "id": "837c8a4f-38b7-4f3c-a65e-086d9bfaaafe",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1782890224621
+            },
+            {
+              "id": "b0f82880-0a1a-42cc-82aa-b54e4630fc6a",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1782902727652
+            },
+            {
+              "id": "5d8c2352-918c-480b-a4c1-4444ac8602c9",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782891981112
+            },
+            {
+              "id": "5a2b93e3-f3ea-4976-ac84-6c5d7cbca8a1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782900064357
+            },
+            {
+              "id": "2d8dac90-a3c0-42a8-b5a9-b6fb5c347bb3",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782891853354
+            },
+            {
+              "id": "b299a7aa-425c-497b-873b-6d84d75c4dd3",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782897685185
+            }
+          ],
+          "volume": 45207190.12195059,
+          "critical_signals": 1,
+          "high_signals": 5,
+          "low_signals": 1
+        },
+        {
+          "country": "US",
+          "count": 4,
+          "recent": [
+            {
+              "id": "804bff7f-fc59-467f-ad73-9f9402e32917",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782902861000
+            },
+            {
+              "id": "837c8a4f-38b7-4f3c-a65e-086d9bfaaafe",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1782890224621
+            },
+            {
+              "id": "5a2b93e3-f3ea-4976-ac84-6c5d7cbca8a1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782900064357
+            },
+            {
+              "id": "b299a7aa-425c-497b-873b-6d84d75c4dd3",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782897685185
+            }
+          ],
+          "volume": 41662314.30879072,
+          "critical_signals": 0,
+          "high_signals": 3,
+          "low_signals": 1
+        },
+        {
+          "country": "QA",
+          "count": 2,
+          "recent": [
+            {
+              "id": "2d8dac90-a3c0-42a8-b5a9-b6fb5c347bb3",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782891853354
+            },
+            {
+              "id": "b299a7aa-425c-497b-873b-6d84d75c4dd3",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782897685185
+            }
+          ],
+          "volume": 868907.5359514487,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "TR",
+          "count": 2,
+          "recent": [
+            {
+              "id": "837c8a4f-38b7-4f3c-a65e-086d9bfaaafe",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1782890224621
+            },
+            {
+              "id": "45878b5b-6d9c-4f1e-8de7-37ce87536450",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1782901806549
+            }
+          ],
+          "volume": 463553.0404113212,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 2
+        },
+        {
+          "country": "IL",
+          "count": 2,
+          "recent": [
+            {
+              "id": "804bff7f-fc59-467f-ad73-9f9402e32917",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782902861000
+            },
+            {
+              "id": "837c8a4f-38b7-4f3c-a65e-086d9bfaaafe",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1782890224621
+            }
+          ],
+          "volume": 40442954.29537102,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 1
+        },
+        {
+          "country": "SY",
+          "count": 1,
+          "recent": [
+            {
+              "id": "5911127f-09ee-4362-a692-de778a7dd16b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782900124357
+            }
+          ],
+          "volume": 306444.5817672098,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "CN",
+          "count": 1,
+          "recent": [
+            {
+              "id": "8b373688-c26d-4532-a3f8-b9f9a0b04a18",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1782900234444
+            }
+          ],
+          "volume": 43092688.30961716,
+          "critical_signals": 1,
+          "high_signals": 0,
+          "low_signals": 0
+        },
+        {
+          "country": "PK",
+          "count": 1,
+          "recent": [
+            {
+              "id": "804bff7f-fc59-467f-ad73-9f9402e32917",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782902861000
+            }
+          ],
+          "volume": 40342839.94512101,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "TW",
+          "count": 1,
+          "recent": [
+            {
+              "id": "8b373688-c26d-4532-a3f8-b9f9a0b04a18",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1782900234444
+            }
+          ],
+          "volume": 43092688.30961716,
+          "critical_signals": 1,
+          "high_signals": 0,
+          "low_signals": 0
+        }
+      ],
+      "_scraped_at": "2026-07-01T11:37:02.202755+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
