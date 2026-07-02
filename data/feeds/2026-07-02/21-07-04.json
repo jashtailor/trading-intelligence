@@ -1,0 +1,1512 @@
+{
+  "scraped_at": "2026-07-02T21:06:57.524056+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 5,
+  "items": [
+    {
+      "valid": false,
+      "_scraped_at": "2026-07-02T21:06:57.524056+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "0840a8fd-de11-4b07-b291-56ade5e57471",
+        "timestamp": 1783008657000,
+        "tweet": {
+          "feed_item_id": "0840a8fd-de11-4b07-b291-56ade5e57471",
+          "post_id": "2072714656326537325",
+          "post_type": "tweet",
+          "created_at": 1783008657000,
+          "user": {
+            "uid": "34713362",
+            "handle": "business",
+            "display_name": "Bloomberg",
+            "pfp": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "Russia\u2019s war on Ukraine heated up again, with a missile and drone barrage on Kyiv killing 20 people: Here\u2019s your Evening Briefing https://www.bloomberg.com/news/newsletters/2026-07-02/russia-ukraine-exchange-missile-strikes-ahead-of-nato-summit?taid=6a468d9163792900018a2bf2&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+          "link": "https://twitter.com/business/status/2072714656326537325"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "UA",
+        "countries": [
+          "UA",
+          "RU",
+          "GB"
+        ],
+        "related_markets": [
+          {
+            "id": "2591184",
+            "slug": "russia-x-ukraine-peace-talks-byptptpt-20260609012540716",
+            "condition_id": "0x8e1e5c26dec73aee98230dc0ef93a294142587ca24190c4728d4b7ff831a22e0",
+            "title": "December 31",
+            "question": "Russia-Ukraine peace talks by December 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Russia and Ukraine aimed at discussing a ceasefire, peace agreement, or other substantive de-escalation of the ongoing conflict by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Russia-Ukraine relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nMeetings or talks limited to humanitarian issues will not qualify unless they also include substantive negotiation regarding broader Russia-Ukraine peace terms, such as a ceasefire, peace agreement, territorial issues, security guarantees, or similar.\n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of Russia and Ukraine, and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-diplomatic-meeting-by-2anNp08yc15i.jpg",
+            "yes_token_id": "114038073393175685070375877302821250190661708223658125394758492913778794477403",
+            "yes_probability": 0.52,
+            "yes_best_bid": 0.5,
+            "yes_best_ask": 0.52,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "41750771425854629959289349826538829467990870639746643500760657557812686111800",
+            "no_probability": 0.5,
+            "no_best_bid": 0.48,
+            "no_best_ask": 0.5,
+            "no_spread": 0.020000000000000018,
+            "volume": 16525.243105999998,
+            "liquidity": 908781.18,
+            "neg_risk": false,
+            "end_date": "2026-12-31T20:59:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Increased military action reduces likelihood of peace talks.",
+            "event_id": "606856",
+            "event_title": "Russia x Ukraine peace talks by...?",
+            "event_slug": "russia-x-ukraine-peace-talks-byptptpt-20260609012540716",
+            "detected_yes_price": 0.52,
+            "detected_no_price": 0.49,
+            "detected_at": 1783008709852,
+            "highest_price_change": 0.03846153846153849,
+            "highest_yes_price": 0.54,
+            "highest_no_price": 0.5,
+            "first_moved_at": 1783008722016,
+            "moved_side": "yes",
+            "peaked_at": 1783015073918
+          },
+          {
+            "id": "2732525",
+            "slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+            "condition_id": "0x5f4833193b8303cfa74a35571e1e05ab301d5804360aa03e5cd9cdc027add8fc",
+            "title": "July 31",
+            "question": "Will Russia and Ukraine hold any diplomatic meeting by July 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Russia and Ukraine by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Russia-Ukraine relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of Russia and Ukraine, and a consensus of credible reporting.",
+            "image": "",
+            "yes_token_id": "75664220377459757647456485621449233559415637505632291241092085394055106279391",
+            "yes_probability": 0.38,
+            "yes_best_bid": 0.31,
+            "yes_best_ask": 0.38,
+            "yes_spread": 0.07,
+            "no_token_id": "52298829000514702690941934727403416556502645325197720971946202060258322984264",
+            "no_probability": 0.69,
+            "no_best_bid": 0.62,
+            "no_best_ask": 0.69,
+            "no_spread": 0.06999999999999995,
+            "volume": 3634.7951470700004,
+            "liquidity": 114220.06000000003,
+            "neg_risk": false,
+            "end_date": "2026-07-31T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Missile strikes heighten tensions, making diplomatic meetings less likely.",
+            "event_id": "648380",
+            "event_title": "Russia x Ukraine any diplomatic meeting by...?",
+            "event_slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+            "detected_yes_price": 0.33,
+            "detected_no_price": 0.71,
+            "detected_at": 1783008709852,
+            "highest_price_change": 0.21212121212121213,
+            "highest_yes_price": 0.4,
+            "highest_no_price": 0.71,
+            "first_moved_at": 1783017985862,
+            "moved_side": "yes",
+            "peaked_at": 1783018014353
+          },
+          {
+            "id": "2732526",
+            "slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+            "condition_id": "0x4bda4a4df34e9929e7eecb7ee1adc0b6497ee79dddffe14be4b24237cd116cb7",
+            "title": "August 31",
+            "question": "Will Russia and Ukraine hold any diplomatic meeting by August 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Russia and Ukraine by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Russia-Ukraine relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of Russia and Ukraine, and a consensus of credible reporting.",
+            "image": "",
+            "yes_token_id": "63779162653681873245159865633000334437760662853972923572387274664225948677546",
+            "yes_probability": 0.64,
+            "yes_best_bid": 0.59,
+            "yes_best_ask": 0.64,
+            "yes_spread": 0.050000000000000044,
+            "no_token_id": "32498948505314576966704761143540900095142072751411430571598289128995809645377",
+            "no_probability": 0.41,
+            "no_best_bid": 0.36,
+            "no_best_ask": 0.41,
+            "no_spread": 0.04999999999999999,
+            "volume": 691.0694272299999,
+            "liquidity": 96394.53,
+            "neg_risk": false,
+            "end_date": "2026-08-31T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Increased military action reduces likelihood of diplomatic meetings.",
+            "event_id": "648380",
+            "event_title": "Russia x Ukraine any diplomatic meeting by...?",
+            "event_slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+            "detected_yes_price": 0.65,
+            "detected_no_price": 0.43000000000000005,
+            "detected_at": 1783008709852,
+            "highest_price_change": 0.46511627906976727,
+            "highest_yes_price": 0.65,
+            "highest_no_price": 0.63,
+            "first_moved_at": 1783009229327,
+            "moved_side": "no",
+            "peaked_at": 1783009229327
+          },
+          {
+            "id": "2591183",
+            "slug": "russia-x-ukraine-peace-talks-byptptpt-20260609012540716",
+            "condition_id": "0x77b0380be9f46471b5383fd5fd0730d666b852c3c1fcc61529e0699a62f45d47",
+            "title": "September 30",
+            "question": "Russia-Ukraine peace talks by September 30, 2026?",
+            "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Russia and Ukraine aimed at discussing a ceasefire, peace agreement, or other substantive de-escalation of the ongoing conflict by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Russia-Ukraine relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nMeetings or talks limited to humanitarian issues will not qualify unless they also include substantive negotiation regarding broader Russia-Ukraine peace terms, such as a ceasefire, peace agreement, territorial issues, security guarantees, or similar.\n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of Russia and Ukraine, and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-diplomatic-meeting-by-2anNp08yc15i.jpg",
+            "yes_token_id": "98396451299063535424001248770637521563809832785133239666640843440816692687869",
+            "yes_probability": 0.35,
+            "yes_best_bid": 0.34,
+            "yes_best_ask": 0.35,
+            "yes_spread": 0.009999999999999953,
+            "no_token_id": "77296121908679352434251847862979395356842679683122047698068091276062911570618",
+            "no_probability": 0.66,
+            "no_best_bid": 0.65,
+            "no_best_ask": 0.66,
+            "no_spread": 0.010000000000000009,
+            "volume": 14699.594159449996,
+            "liquidity": 653601.7000000002,
+            "neg_risk": false,
+            "end_date": "2026-09-30T19:59:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Missile strikes increase tensions, making peace talks less likely.",
+            "event_id": "606856",
+            "event_title": "Russia x Ukraine peace talks by...?",
+            "event_slug": "russia-x-ukraine-peace-talks-byptptpt-20260609012540716",
+            "detected_yes_price": 0.35,
+            "detected_no_price": 0.6599999999999999,
+            "detected_at": 1783008709852,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.35,
+            "highest_no_price": 0.6599999999999999
+          },
+          {
+            "id": "2243896",
+            "slug": "russia-x-ukraine-ceasefire-agreement-by",
+            "condition_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+            "title": "October 31",
+            "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if there is a ceasefire agreement between Russia and Ukraine by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA ceasefire agreement refers to any mutually-agreed suspension of direct military engagement between Russia and Ukraine, which is either officially announced by both countries or confirmed by a consensus of credible reporting to have been mutually agreed by both countries.\n\nA broader peace deal, normalization agreement, political framework, truce, or humanitarian pause will qualify if it includes a mutually agreed suspension of direct military engagement, to be effective on a specified date. Agreements that outline future negotiations or de-escalation measures without an explicit, dated commitment to stop fighting will not qualify.\n\nAny form of informal understanding, backchannel communication, de-escalation without an announced agreement, or unilateral pause in hostilities will not be considered a ceasefire agreement.\n\nOnly agreements which constitute a general pause in the conflict will qualify. Agreements which only apply to specific conflict categories (e.g. restrictions on certain target categories or certain locations) will not qualify.\n\nIf a qualifying agreement is officially reached before this market\u2019s end date, this market will resolve to \u201cYes,\u201d regardless of whether the ceasefire agreement officially takes effect after that date.\n\nThe primary resolution sources for this market will be official information from the governments of Russia and Ukraine and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-ceasefire-in-2025-w2voYOygx80B.jpg",
+            "yes_token_id": "10861802947610899379330568332287100318869035186187733531205554992019689450318",
+            "yes_probability": 0.25,
+            "yes_best_bid": 0.24,
+            "yes_best_ask": 0.25,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "39319769648132414476170103739900770633009012502056309868976886150530270219889",
+            "no_probability": 0.76,
+            "no_best_bid": 0.75,
+            "no_best_ask": 0.76,
+            "no_spread": 0.010000000000000009,
+            "volume": 613288.81584016,
+            "liquidity": 1663996.7700000003,
+            "neg_risk": false,
+            "end_date": "2026-10-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Missile strikes increase tensions, making ceasefire less likely.",
+            "event_id": "478472",
+            "event_title": "Russia x Ukraine ceasefire agreement by...?",
+            "event_slug": "russia-x-ukraine-ceasefire-agreement-by",
+            "detected_yes_price": 0.25,
+            "detected_no_price": 0.76,
+            "detected_at": 1783008709852,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.25,
+            "highest_no_price": 0.76
+          }
+        ],
+        "topics": [
+          "ukraine-war",
+          "elon-musk",
+          "ai-tech"
+        ],
+        "categories": [
+          "world",
+          "climate",
+          "elections",
+          "geopolitics",
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "2732526",
+        "slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+        "condition_id": "0x4bda4a4df34e9929e7eecb7ee1adc0b6497ee79dddffe14be4b24237cd116cb7",
+        "title": "August 31",
+        "question": "Will Russia and Ukraine hold any diplomatic meeting by August 31, 2026?",
+        "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Russia and Ukraine by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Russia-Ukraine relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of Russia and Ukraine, and a consensus of credible reporting.",
+        "image": "",
+        "yes_token_id": "63779162653681873245159865633000334437760662853972923572387274664225948677546",
+        "yes_probability": 0.64,
+        "yes_best_bid": 0.59,
+        "yes_best_ask": 0.64,
+        "yes_spread": 0.050000000000000044,
+        "no_token_id": "32498948505314576966704761143540900095142072751411430571598289128995809645377",
+        "no_probability": 0.41,
+        "no_best_bid": 0.36,
+        "no_best_ask": 0.41,
+        "no_spread": 0.04999999999999999,
+        "volume": 691.0694272299999,
+        "liquidity": 96394.53,
+        "neg_risk": false,
+        "end_date": "2026-08-31T23:59:00Z",
+        "categories": [
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 5,
+        "impact_level": "low",
+        "impact_reason": "Increased military action reduces likelihood of diplomatic meetings.",
+        "event_id": "648380",
+        "event_title": "Russia x Ukraine any diplomatic meeting by...?",
+        "event_slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+        "detected_yes_price": 0.65,
+        "detected_no_price": 0.43000000000000005,
+        "detected_at": 1783008709852,
+        "highest_price_change": 0.46511627906976727,
+        "highest_yes_price": 0.65,
+        "highest_no_price": 0.63,
+        "first_moved_at": 1783009229327,
+        "moved_side": "no",
+        "peaked_at": 1783009229327
+      },
+      "_scraped_at": "2026-07-02T21:06:57.524056+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 2,
+      "feed_item": {
+        "id": "ce52eddd-60c1-42dd-943c-bf0f29805b17",
+        "timestamp": 1782974700215,
+        "tweet": {
+          "feed_item_id": "ce52eddd-60c1-42dd-943c-bf0f29805b17",
+          "post_id": "2072572227468284297",
+          "post_type": "tweet",
+          "created_at": 1782974700215,
+          "user": {
+            "uid": "1115874631",
+            "handle": "CGTNOfficial",
+            "display_name": "CGTN",
+            "pfp": "https://pbs.twimg.com/profile_images/1246467745975156738/hicJQmq0.jpg"
+          },
+          "tags": [
+            "politics"
+          ],
+          "body": "Iran-US indirect talks in Doha conclude, covering frozen assets, Strait of Hormuz https://news.cgtn.com/news/2026-07-02/Iran-US-indirect-talks-in-Doha-conclude-covering-Strait-of-Hormuz-1OrAel9ex32/p.html",
+          "link": "https://twitter.com/CGTNOfficial/status/2072572227468284297",
+          "attachments": [
+            {
+              "kind": "photo",
+              "src": "https://pbs.twimg.com/card_img/2072520343021924353/-YJ58Hbb?format=jpg&name=orig"
+            }
+          ]
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "IR",
+        "countries": [
+          "IR",
+          "QA"
+        ],
+        "related_markets": [
+          {
+            "id": "2646849",
+            "slug": "next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+            "condition_id": "0x79c850d5dd022d89aaf4f92105657d7a2e0518d4e4d4cf6cdce44d385fe029a7",
+            "title": "July 10",
+            "question": "US x Iran diplomatic meeting by July 10, 2026?",
+            "description": "On June 22, the first round of U.S.-Iran diplomatic talks in Switzerland concluded, with mediators reporting progress toward a roadmap for a final deal and follow-on technical talks expected to continue.(see: https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks). \n\nThis market will resolve to \u201cYes\u201d if the next formal senior-level round of peace talks between representatives of the United States and Iran begins by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo.\u201d\n\nA qualifying round must be a deliberate in-person diplomatic meeting or negotiating round concerning US-Iran relations, involving senior representatives of both the United States and Iran who are acting in an official capacity and are authorized to conduct or materially direct diplomacy on behalf of their governments.\n\nIndirect in-person diplomacy through designated mediators, facilitators, or interlocutors will qualify, provided senior representatives of both the United States and Iran are participating in the same formal diplomatic process with the knowledge and authorization of their respective governments. The representatives need not be in the same room at the same time.\n\nFollow-on technical talks from the June 22 Switzerland round will not qualify by themselves. Technical, staff-level, working-group, implementation, monitoring, preparatory, or deconfliction meetings will not qualify unless they occur as part of a new formally convened senior-level U.S.-Iran peace-talks round.\n\nBrief greetings, chance encounters, photo opportunities, ceremonial appearances, or talks not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of the United States and Iran, and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-meeting-by-9btZGbUg-ikA.jpg",
+            "yes_token_id": "5146937358519020769008195118872413556730822166860975473115035755844494719521",
+            "yes_probability": 0.036,
+            "yes_best_bid": 0.033,
+            "yes_best_ask": 0.036,
+            "yes_spread": 0.0029999999999999957,
+            "no_token_id": "19480842479182390622363413357307365857330305295526757900461399761636587956987",
+            "no_probability": 0.967,
+            "no_best_bid": 0.964,
+            "no_best_ask": 0.967,
+            "no_spread": 0.0030000000000000027,
+            "volume": 517245.23435456096,
+            "liquidity": 770923.0500000003,
+            "neg_risk": false,
+            "end_date": "2026-07-10T23:59:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Direct conclusion of talks indicates likelihood of next meeting.",
+            "event_id": "624218",
+            "event_title": "Next round of US-Iran peace talks by...?",
+            "event_slug": "next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+            "detected_yes_price": 0.11,
+            "detected_no_price": 0.9,
+            "detected_at": 1782974773540,
+            "highest_price_change": 0.07777777777777772,
+            "highest_yes_price": 0.11,
+            "highest_no_price": 0.97,
+            "first_moved_at": 1782985707850,
+            "moved_side": "no",
+            "peaked_at": 1783016095857
+          },
+          {
+            "id": "2685911",
+            "slug": "next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+            "condition_id": "0x325d2f917428a0d39ac7563770ec519208666b8c926091de1a1934d8570b64cd",
+            "title": "July 17",
+            "question": "US x Iran diplomatic meeting by July 17, 2026?",
+            "description": "On June 22, the first round of U.S.-Iran diplomatic talks in Switzerland concluded, with mediators reporting progress toward a roadmap for a final deal and follow-on technical talks expected to continue.(see: https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks). \n\nThis market will resolve to \u201cYes\u201d if the next formal senior-level round of peace talks between representatives of the United States and Iran begins by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo.\u201d\n\nA qualifying round must be a deliberate in-person diplomatic meeting or negotiating round concerning US-Iran relations, involving senior representatives of both the United States and Iran who are acting in an official capacity and are authorized to conduct or materially direct diplomacy on behalf of their governments.\n\nIndirect in-person diplomacy through designated mediators, facilitators, or interlocutors will qualify, provided senior representatives of both the United States and Iran are participating in the same formal diplomatic process with the knowledge and authorization of their respective governments. The representatives need not be in the same room at the same time.\n\nFollow-on technical talks from the June 22 Switzerland round will not qualify by themselves. Technical, staff-level, working-group, implementation, monitoring, preparatory, or deconfliction meetings will not qualify unless they occur as part of a new formally convened senior-level U.S.-Iran peace-talks round.\n\nBrief greetings, chance encounters, photo opportunities, ceremonial appearances, or talks not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of the United States and Iran, and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-meeting-by-9btZGbUg-ikA.jpg",
+            "yes_token_id": "61185693373091340617494150277851514641770797636186465474956889484881632951438",
+            "yes_probability": 0.18,
+            "yes_best_bid": 0.16,
+            "yes_best_ask": 0.18,
+            "yes_spread": 0.01999999999999999,
+            "no_token_id": "12926245040899451804437509621465764609213522509461670123611024472259491643478",
+            "no_probability": 0.84,
+            "no_best_bid": 0.82,
+            "no_best_ask": 0.84,
+            "no_spread": 0.020000000000000018,
+            "volume": 100801.92862685007,
+            "liquidity": 406825.5,
+            "neg_risk": false,
+            "end_date": "2026-07-17T23:59:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Direct conclusion of talks indicates likelihood of next meeting.",
+            "event_id": "624218",
+            "event_title": "Next round of US-Iran peace talks by...?",
+            "event_slug": "next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+            "detected_yes_price": 0.32,
+            "detected_no_price": 0.7,
+            "detected_at": 1782974773540,
+            "highest_price_change": 0.22857142857142862,
+            "highest_yes_price": 0.32,
+            "highest_no_price": 0.86,
+            "first_moved_at": 1782974971092,
+            "moved_side": "no",
+            "peaked_at": 1783024346714
+          },
+          {
+            "id": "2646931",
+            "slug": "where-will-the-next-next-round-of-us-iran-peace-talks-beptptpt-20260623023740663",
+            "condition_id": "0x464af35d1def5794611bd957668aba74154d52296a3ac3be5f1beabeb3b927d9",
+            "title": "Other - Europe",
+            "question": "Will the next diplomatic US-Iran meeting be in another European country by September 30, 2026?",
+            "description": "On June 22, the first round of U.S.-Iran diplomatic talks in Switzerland concluded, with mediators reporting progress toward a roadmap for a final deal and follow-on technical talks expected to continue (see: https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks).\n\nThis market will resolve according to the country in which the next formal senior-level round of peace talks between representatives of the United States and Iran begins by September 30, 2026, 11:59 PM ET.\n\nA qualifying round must be a deliberate in-person diplomatic meeting or negotiating round concerning US-Iran relations, involving senior representatives of both the United States and Iran who are acting in an official capacity and are authorized to conduct or materially direct diplomacy on behalf of their governments.\n\nIndirect in-person diplomacy through designated mediators, facilitators, or interlocutors will qualify, provided senior representatives of both the United States and Iran are participating in the same formal diplomatic process with the knowledge and authorization of their respective governments. The representatives need not be in the same room at the same time.\n\nFollow-on technical talks from the June 22 Switzerland round will not qualify by themselves. Technical, staff-level, working-group, implementation, monitoring, preparatory, or deconfliction meetings will not qualify unless they occur as part of a new formally convened senior-level U.S.-Iran peace-talks round.\n\nBrief greetings, chance encounters, photo opportunities, ceremonial appearances, or talks not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nIf a qualifying round occurs in more than one country, resolution will be based on the country where the first qualifying senior-level diplomatic session begins.\n\nIf the next qualifying round begins in any country in the Middle East or North Africa other than the listed options, this market will resolve to \u201cOther - Middle East/North Africa.\u201d\n\nIf the next qualifying round begins in any country in Europe other than the listed options, this market will resolve to \u201cOther - Europe.\u201d\n\nFor purposes of this market, countries\u2019 regions will be determined based on the U.S. State Department\u2019s regional classifications in the \u201cCountries and Areas List\u201d (https://www.state.gov/countries-and-areas-list). Any country classified as part of \u201cEurope and Eurasia\u201d will be considered to be in Europe. Any country classified as part of \u201cNear East (Middle East and North Africa)\u201d will be considered to be in the Middle East/North Africa.\n\nIf the next qualifying round begins in any unlisted country that is not classified in either specified region, this market will resolve to \u201cOther.\u201d\n\nIf no qualifying round begins by September 30, 2026, 11:59 PM ET, this market will resolve to \u201cNo Meeting by September 30.\u201d\n\nThe resolution sources for this market will be official information from the governments of the United States and Iran, and a consensus of credible reporting.\n",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-meeting-by-9btZGbUg-ikA.jpg",
+            "yes_token_id": "67346562719574279270405703943399752967967222447235458604412270971799390510058",
+            "yes_probability": 0.008,
+            "yes_best_bid": 0.005,
+            "yes_best_ask": 0.008,
+            "yes_spread": 0.003,
+            "no_token_id": "81156671681926935132901184154631201365954018938295113074030131720928581227764",
+            "no_probability": 0.995,
+            "no_best_bid": 0.992,
+            "no_best_ask": 0.995,
+            "no_spread": 0.0030000000000000027,
+            "volume": 33963.44667299998,
+            "liquidity": 597461.9399999998,
+            "neg_risk": true,
+            "end_date": "2026-09-30T23:59:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Conclusion of talks suggests Europe as a potential venue.",
+            "event_id": "624242",
+            "event_title": "Where will the next next round of US-Iran peace talks be...?",
+            "event_slug": "where-will-the-next-next-round-of-us-iran-peace-talks-beptptpt-20260623023740663",
+            "detected_yes_price": 0.009,
+            "detected_no_price": 0.996,
+            "detected_at": 1782974773540,
+            "highest_price_change": 0.11111111111111122,
+            "highest_yes_price": 0.01,
+            "highest_no_price": 0.997,
+            "first_moved_at": 1782992000459,
+            "moved_side": "yes",
+            "peaked_at": 1782992000459
+          },
+          {
+            "id": "2672029",
+            "slug": "who-will-attend-a-round-of-us-iran-peace-by-august-31-20260623143114130",
+            "condition_id": "0x613bd4a97f627af4f9ba0dcfc806e865c956f2863be804956502998e4984cc03",
+            "title": "Donald Trump",
+            "question": "Will Donald Trump attend a US x Iran diplomatic meeting by August 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if the listed individual attends any formal senior-level round of peace talks between representatives of the United States and Iran between market creation and August 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA qualifying round must be a deliberate in-person diplomatic meeting or negotiating round concerning US-Iran relations, involving senior representatives of both the United States and Iran who are acting in an official capacity and are authorized to conduct or materially direct diplomacy on behalf of their governments.\n\nIndirect in-person diplomacy through designated mediators, facilitators, or interlocutors will qualify, provided senior representatives of both the United States and Iran are participating in the same formal diplomatic process with the knowledge and authorization of their respective governments. The representatives need not be in the same room at the same time.\n\nFollow-on technical talks from the June 22 Switzerland round will not qualify by themselves. Technical, staff-level, working-group, implementation, monitoring, preparatory, or deconfliction meetings will not qualify unless they occur as part of a new formally convened senior-level U.S.-Iran peace-talks round.\n\nBrief greetings, chance encounters, photo opportunities, ceremonial appearances, or talks not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nAttendance refers to the listed individual being physically present and actively participating.\n\nIf a formal senior-level round of peace talks between representatives of the United States and Iran takes place over multiple days, attendance at any part of the meeting will qualify.\n\nThe primary resolution source for this market will be official information from the listed individual and the governments of the United States and Iran; however, a consensus of credible reporting will also be used.",
+            "image": "",
+            "yes_token_id": "98395852483043868338635559200262807241274699328953672487641412616578572297444",
+            "yes_probability": 0.08,
+            "yes_best_bid": 0.07,
+            "yes_best_ask": 0.08,
+            "yes_spread": 0.009999999999999995,
+            "no_token_id": "73053764994707942754940267736151361963825134314597267536177587354614707105599",
+            "no_probability": 0.93,
+            "no_best_bid": 0.92,
+            "no_best_ask": 0.93,
+            "no_spread": 0.010000000000000009,
+            "volume": 80.75555,
+            "liquidity": 125553.6,
+            "neg_risk": false,
+            "end_date": "2026-08-31T23:59:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Conclusion of talks suggests potential attendance by Trump.",
+            "event_id": "630527",
+            "event_title": "Who will attend a round of US-Iran peace talks by August 31?",
+            "event_slug": "who-will-attend-a-round-of-us-iran-peace-by-august-31-20260623143114130",
+            "detected_yes_price": 0.14,
+            "detected_no_price": 0.9,
+            "detected_at": 1782974773540,
+            "highest_price_change": 0.07142857142857129,
+            "highest_yes_price": 0.15,
+            "highest_no_price": 0.94,
+            "first_moved_at": 1782974791607,
+            "moved_side": "yes",
+            "peaked_at": 1782974791607
+          },
+          {
+            "id": "2672039",
+            "slug": "who-will-attend-a-round-of-us-iran-peace-by-august-31-20260623143114130",
+            "condition_id": "0x2d9c9b1a8a4d17ba216a3c2d8a6e3e505e4fa93481e837b5fae7f3097be4fe4a",
+            "title": "Majid Takht-Ravanchi",
+            "question": "Will Majid Takht-Ravanchi attend a US x Iran diplomatic meeting by August 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if the listed individual attends any formal senior-level round of peace talks between representatives of the United States and Iran between market creation and August 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA qualifying round must be a deliberate in-person diplomatic meeting or negotiating round concerning US-Iran relations, involving senior representatives of both the United States and Iran who are acting in an official capacity and are authorized to conduct or materially direct diplomacy on behalf of their governments.\n\nIndirect in-person diplomacy through designated mediators, facilitators, or interlocutors will qualify, provided senior representatives of both the United States and Iran are participating in the same formal diplomatic process with the knowledge and authorization of their respective governments. The representatives need not be in the same room at the same time.\n\nFollow-on technical talks from the June 22 Switzerland round will not qualify by themselves. Technical, staff-level, working-group, implementation, monitoring, preparatory, or deconfliction meetings will not qualify unless they occur as part of a new formally convened senior-level U.S.-Iran peace-talks round.\n\nBrief greetings, chance encounters, photo opportunities, ceremonial appearances, or talks not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nAttendance refers to the listed individual being physically present and actively participating.\n\nIf a formal senior-level round of peace talks between representatives of the United States and Iran takes place over multiple days, attendance at any part of the meeting will qualify.\n\nThe primary resolution source for this market will be official information from the listed individual and the governments of the United States and Iran; however, a consensus of credible reporting will also be used.",
+            "image": "",
+            "yes_token_id": "38669300523655004222800770274354451511225852096250696330633542554488876514712",
+            "yes_probability": 0.49,
+            "yes_best_bid": 0.47,
+            "yes_best_ask": 0.49,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "33240770141935497505764950784505815998512055297960760694600260017205279326284",
+            "no_probability": 0.53,
+            "no_best_bid": 0.51,
+            "no_best_ask": 0.53,
+            "no_spread": 0.020000000000000018,
+            "volume": 191.08,
+            "liquidity": 1168.34,
+            "neg_risk": false,
+            "end_date": "2026-08-31T23:59:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Conclusion of talks suggests potential attendance by Takht-Ravanchi.",
+            "event_id": "630527",
+            "event_title": "Who will attend a round of US-Iran peace talks by August 31?",
+            "event_slug": "who-will-attend-a-round-of-us-iran-peace-by-august-31-20260623143114130",
+            "detected_yes_price": 0.49,
+            "detected_no_price": 0.53,
+            "detected_at": 1782974773540,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.49,
+            "highest_no_price": 0.53
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 9,
+            "price": 67.751
+          }
+        ],
+        "topics": [
+          "ai-tech",
+          "iran-regime"
+        ],
+        "categories": [
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "2685911",
+        "slug": "next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+        "condition_id": "0x325d2f917428a0d39ac7563770ec519208666b8c926091de1a1934d8570b64cd",
+        "title": "July 17",
+        "question": "US x Iran diplomatic meeting by July 17, 2026?",
+        "description": "On June 22, the first round of U.S.-Iran diplomatic talks in Switzerland concluded, with mediators reporting progress toward a roadmap for a final deal and follow-on technical talks expected to continue.(see: https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks). \n\nThis market will resolve to \u201cYes\u201d if the next formal senior-level round of peace talks between representatives of the United States and Iran begins by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo.\u201d\n\nA qualifying round must be a deliberate in-person diplomatic meeting or negotiating round concerning US-Iran relations, involving senior representatives of both the United States and Iran who are acting in an official capacity and are authorized to conduct or materially direct diplomacy on behalf of their governments.\n\nIndirect in-person diplomacy through designated mediators, facilitators, or interlocutors will qualify, provided senior representatives of both the United States and Iran are participating in the same formal diplomatic process with the knowledge and authorization of their respective governments. The representatives need not be in the same room at the same time.\n\nFollow-on technical talks from the June 22 Switzerland round will not qualify by themselves. Technical, staff-level, working-group, implementation, monitoring, preparatory, or deconfliction meetings will not qualify unless they occur as part of a new formally convened senior-level U.S.-Iran peace-talks round.\n\nBrief greetings, chance encounters, photo opportunities, ceremonial appearances, or talks not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of the United States and Iran, and a consensus of credible reporting.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-meeting-by-9btZGbUg-ikA.jpg",
+        "yes_token_id": "61185693373091340617494150277851514641770797636186465474956889484881632951438",
+        "yes_probability": 0.18,
+        "yes_best_bid": 0.16,
+        "yes_best_ask": 0.18,
+        "yes_spread": 0.01999999999999999,
+        "no_token_id": "12926245040899451804437509621465764609213522509461670123611024472259491643478",
+        "no_probability": 0.84,
+        "no_best_bid": 0.82,
+        "no_best_ask": 0.84,
+        "no_spread": 0.020000000000000018,
+        "volume": 100801.92862685007,
+        "liquidity": 406825.5,
+        "neg_risk": false,
+        "end_date": "2026-07-17T23:59:00Z",
+        "categories": [
+          "politics",
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Direct conclusion of talks indicates likelihood of next meeting.",
+        "event_id": "624218",
+        "event_title": "Next round of US-Iran peace talks by...?",
+        "event_slug": "next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+        "detected_yes_price": 0.32,
+        "detected_no_price": 0.7,
+        "detected_at": 1782974773540,
+        "highest_price_change": 0.22857142857142862,
+        "highest_yes_price": 0.32,
+        "highest_no_price": 0.86,
+        "first_moved_at": 1782974971092,
+        "moved_side": "no",
+        "peaked_at": 1783024346714
+      },
+      "_scraped_at": "2026-07-02T21:06:57.524056+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 3,
+      "feed_item": {
+        "id": "c0cef1f1-d595-4e46-8214-027ae97bb221",
+        "timestamp": 1782955866000,
+        "tweet": {
+          "feed_item_id": "c0cef1f1-d595-4e46-8214-027ae97bb221",
+          "post_id": "2072493234270478467",
+          "post_type": "tweet",
+          "created_at": 1782955866000,
+          "user": {
+            "uid": "28785486",
+            "handle": "ABC",
+            "display_name": "ABC News",
+            "pfp": "https://pbs.twimg.com/profile_images/1605211963096801282/3flU1i5o_normal.jpg"
+          },
+          "tags": [
+            "world"
+          ],
+          "body": "Kyiv came under attack from a barrage of Russian ballistic missiles and drones overnight, the city's mayor said, describing multiple explosions across the capital. https://abcnews.link/GkSV7ui",
+          "link": "https://twitter.com/ABC/status/2072493234270478467"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "RU",
+        "countries": [
+          "RU",
+          "UA"
+        ],
+        "related_markets": [
+          {
+            "id": "2591183",
+            "slug": "russia-x-ukraine-peace-talks-byptptpt-20260609012540716",
+            "condition_id": "0x77b0380be9f46471b5383fd5fd0730d666b852c3c1fcc61529e0699a62f45d47",
+            "title": "September 30",
+            "question": "Russia-Ukraine peace talks by September 30, 2026?",
+            "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Russia and Ukraine aimed at discussing a ceasefire, peace agreement, or other substantive de-escalation of the ongoing conflict by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Russia-Ukraine relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nMeetings or talks limited to humanitarian issues will not qualify unless they also include substantive negotiation regarding broader Russia-Ukraine peace terms, such as a ceasefire, peace agreement, territorial issues, security guarantees, or similar.\n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of Russia and Ukraine, and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-diplomatic-meeting-by-2anNp08yc15i.jpg",
+            "yes_token_id": "98396451299063535424001248770637521563809832785133239666640843440816692687869",
+            "yes_probability": 0.35,
+            "yes_best_bid": 0.34,
+            "yes_best_ask": 0.35,
+            "yes_spread": 0.009999999999999953,
+            "no_token_id": "77296121908679352434251847862979395356842679683122047698068091276062911570618",
+            "no_probability": 0.66,
+            "no_best_bid": 0.65,
+            "no_best_ask": 0.66,
+            "no_spread": 0.010000000000000009,
+            "volume": 14699.594159449996,
+            "liquidity": 653601.7000000002,
+            "neg_risk": false,
+            "end_date": "2026-09-30T19:59:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Ongoing missile attacks suggest reduced likelihood of peace talks.",
+            "event_id": "606856",
+            "event_title": "Russia x Ukraine peace talks by...?",
+            "event_slug": "russia-x-ukraine-peace-talks-byptptpt-20260609012540716",
+            "detected_yes_price": 0.36,
+            "detected_no_price": 0.6599999999999999,
+            "detected_at": 1782955942520,
+            "highest_price_change": 0.0454545454545455,
+            "highest_yes_price": 0.36,
+            "highest_no_price": 0.69,
+            "first_moved_at": 1782985714135,
+            "moved_side": "no",
+            "peaked_at": 1782986254822
+          },
+          {
+            "id": "2264327",
+            "slug": "russia-x-ukraine-ceasefire-by",
+            "condition_id": "0xde5c4c7f05b34f4774d07fec9aa9cf880555f95ddcce4c7830ab09daecc493c4",
+            "title": "October 31",
+            "question": "Russia x Ukraine ceasefire by October 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if a ceasefire between Russia and Ukraine goes into effect by 11:59 PM Eastern European Time (EET) on the specified date and remains continuously in effect for at least 10 calendar days. Otherwise, this market will resolve to \"No\".\n\nA ceasefire refers to any mutually agreed suspension of direct military engagement between Russia and Ukraine, which is officially announced by both countries or confirmed by a consensus of credible reporting to have been mutually agreed by both countries, and which constitutes a general suspension of direct kinetic military engagement across the primary theater of the overall conflict. A broader peace deal, normalization agreement, political framework, truce, or humanitarian pause (including holiday ceasefires) will count provided they otherwise qualify under this market\u2019s rules. \n\nAny form of informal understanding, backchannel communication, de-escalation without an announced agreement, or unilateral pause in hostilities will not be considered a ceasefire. Agreements which only apply to specific conflict categories (e.g. restrictions on certain target categories or certain locations) will not qualify.\n\nAny calendar day (EET) during which the ceasefire is in effect (including the first day of the ceasefire) will count towards the 10-day total. The required 10 day period will end at 11:59 PM EET on the 10th day (inclusive). If a qualifying ceasefire goes into effect prior to this market\u2019s end date, this market will remain open until the ceasefire is no longer in effect, or until the 10 calendar days have been reached. \n\nA ceasefire is considered no longer in effect when a consensus of credible reporting indicates the general suspension of hostilities has substantively ended across the primary theater. Temporary or technical lapses or expiration of a formal ceasefire term, isolated incidents, localized violations, or accusations alone will not invalidate the ceasefire provided the general suspension of hostilities across the primary theater continues. Where official government statements conflict with a consensus of credible field reporting, the reporting will take precedence over the government statements. \n\nThe resolution source for this market will be a consensus of credible sources.\n\nExamples of qualifying Ceasefires:\n\nApril 8, 2026 US\u2013Iran ceasefire: The United States and Iran publicly announced and implemented a mutually agreed ceasefire framework intended to broadly halt direct military hostilities between the two countries. Despite subsequent maritime confrontations, alleged violations, isolated retaliatory strikes, and disputes regarding compliance, the broader ceasefire framework continued to function and widescale fighting across the primary theater did not resume.\n\nNovember 27, 2024 Israel\u2013Hezbollah ceasefire: Israel and Hezbollah implemented a broadly operative ceasefire framework brokered through international mediators that substantially reduced hostilities across southern Lebanon and northern Israel, including the effective halt of Israel\u2019s major ground offensive into Lebanon and a significant reduction in Hezbollah rocket fire. Although the ceasefire was not formally announced through a single joint declaration by both parties and public statements differed in framing and characterization, a consensus of credible reporting confirmed the arrangement had been mutually agreed and implemented in practice. Despite continued isolated strikes, alleged violations, and disputes regarding compliance, credible reporting broadly treated the ceasefire as remaining operational and widescale fighting across the primary theater of the conflict did not resume.\n\nExamples of non qualifying Ceasefires:\n\nNovember 24, 2023 Israel\u2013Hamas humanitarian pause: Although it was a mutually agreed and publicly announced broad suspension of hostilities across Gaza, the ceasefire framework remained in effect for only approximately 7 days before wide-scale fighting resumed, failing the required 10-calendar-day duration requirement. Ceasefire violations prior to November 30, would not have invalidated the ceasefire. \n\nJuly 22, 2022 Black Sea Grain Initiative: Although Russia and Ukraine entered into internationally brokered agreements governing grain exports and reducing risks to commercial shipping in the Black Sea, the arrangement did not constitute a general suspension of direct military engagement across the primary theater of the war. Hostilities continued across Ukraine throughout the duration of the agreement and the arrangement applied only to specific categories of activity and geographic areas.\n\nMay 2023 Sudan ceasefires (SAF\u2013RSF): Although the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) publicly agreed to multiple internationally brokered ceasefires, a consensus of credible reporting indicated that the general suspension of hostilities across the primary theater never substantively took effect and large-scale fighting broadly continued throughout the ceasefire periods. While some temporary reductions in violence and localized humanitarian access reportedly occurred in certain areas, artillery fire, airstrikes, urban combat, troop movements, and offensive operations continued across major parts of Sudan almost immediately after implementation. Credible reporting broadly treated the ceasefires as having failed or collapsed in practice despite technically remaining in force on paper.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-ceasefire-in-2025-w2voYOygx80B.jpg",
+            "yes_token_id": "45485246012125503746429368791635888864303168609293442805366798912544304945187",
+            "yes_probability": 0.13,
+            "yes_best_bid": 0.11,
+            "yes_best_ask": 0.13,
+            "yes_spread": 0.020000000000000004,
+            "no_token_id": "66115275931876214717212754719566717986599297258235137414466645861814839112268",
+            "no_probability": 0.89,
+            "no_best_bid": 0.87,
+            "no_best_ask": 0.89,
+            "no_spread": 0.020000000000000018,
+            "volume": 177310.07565481996,
+            "liquidity": 1953832.0300000007,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Missile attacks indicate ongoing conflict, affecting ceasefire likelihood.",
+            "event_id": "486199",
+            "event_title": "Russia x Ukraine Ceasefire by...?",
+            "event_slug": "russia-x-ukraine-ceasefire-by",
+            "detected_yes_price": 0.14,
+            "detected_no_price": 0.87,
+            "detected_at": 1782955942520,
+            "highest_price_change": 0.022988505747126457,
+            "highest_yes_price": 0.14,
+            "highest_no_price": 0.89,
+            "first_moved_at": 1782956756225,
+            "moved_side": "no",
+            "peaked_at": 1783013771783
+          },
+          {
+            "id": "2243897",
+            "slug": "russia-x-ukraine-ceasefire-agreement-by",
+            "condition_id": "0x5c19f205507ce03ff5f3be08a8090a5969ea6870cc07b902a4ca2e61dfe48fdd",
+            "title": "December 31",
+            "question": "Russia x Ukraine ceasefire agreement by December 31, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if there is a ceasefire agreement between Russia and Ukraine by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA ceasefire agreement refers to any mutually-agreed suspension of direct military engagement between Russia and Ukraine, which is either officially announced by both countries or confirmed by a consensus of credible reporting to have been mutually agreed by both countries.\n\nA broader peace deal, normalization agreement, political framework, truce, or humanitarian pause will qualify if it includes a mutually agreed suspension of direct military engagement, to be effective on a specified date. Agreements that outline future negotiations or de-escalation measures without an explicit, dated commitment to stop fighting will not qualify.\n\nAny form of informal understanding, backchannel communication, de-escalation without an announced agreement, or unilateral pause in hostilities will not be considered a ceasefire agreement.\n\nOnly agreements which constitute a general pause in the conflict will qualify. Agreements which only apply to specific conflict categories (e.g. restrictions on certain target categories or certain locations) will not qualify.\n\nIf a qualifying agreement is officially reached before this market\u2019s end date, this market will resolve to \u201cYes,\u201d regardless of whether the ceasefire agreement officially takes effect after that date.\n\nThe primary resolution sources for this market will be official information from the governments of Russia and Ukraine and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-ceasefire-in-2025-w2voYOygx80B.jpg",
+            "yes_token_id": "99878393523957043401217108863095556720659532630565063651671026144852955005052",
+            "yes_probability": 0.42,
+            "yes_best_bid": 0.41,
+            "yes_best_ask": 0.42,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "69565284411089708271128692790745152090129066525382935764397092493923596997488",
+            "no_probability": 0.59,
+            "no_best_bid": 0.58,
+            "no_best_ask": 0.59,
+            "no_spread": 0.010000000000000009,
+            "volume": 1940113.7561587852,
+            "liquidity": 3486525.1800000006,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Missile attacks indicate ongoing conflict, affecting ceasefire likelihood.",
+            "event_id": "478472",
+            "event_title": "Russia x Ukraine ceasefire agreement by...?",
+            "event_slug": "russia-x-ukraine-ceasefire-agreement-by",
+            "detected_yes_price": 0.44,
+            "detected_no_price": 0.5700000000000001,
+            "detected_at": 1782955942520,
+            "highest_price_change": 0.052631578947368265,
+            "highest_yes_price": 0.44,
+            "highest_no_price": 0.6,
+            "first_moved_at": 1782956692474,
+            "moved_side": "no",
+            "peaked_at": 1783002943757
+          },
+          {
+            "id": "2264328",
+            "slug": "russia-x-ukraine-ceasefire-by",
+            "condition_id": "0x84c625fdccf5c5246a15e476361e4563033906ee225800e1136c0d737596a72f",
+            "title": "December 31",
+            "question": "Russia x Ukraine ceasefire by December 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if a ceasefire between Russia and Ukraine goes into effect by 11:59 PM Eastern European Time (EET) on the specified date and remains continuously in effect for at least 10 calendar days. Otherwise, this market will resolve to \"No\".\n\nA ceasefire refers to any mutually agreed suspension of direct military engagement between Russia and Ukraine, which is officially announced by both countries or confirmed by a consensus of credible reporting to have been mutually agreed by both countries, and which constitutes a general suspension of direct kinetic military engagement across the primary theater of the overall conflict. A broader peace deal, normalization agreement, political framework, truce, or humanitarian pause (including holiday ceasefires) will count provided they otherwise qualify under this market\u2019s rules. \n\nAny form of informal understanding, backchannel communication, de-escalation without an announced agreement, or unilateral pause in hostilities will not be considered a ceasefire. Agreements which only apply to specific conflict categories (e.g. restrictions on certain target categories or certain locations) will not qualify.\n\nAny calendar day (EET) during which the ceasefire is in effect (including the first day of the ceasefire) will count towards the 10-day total. The required 10 day period will end at 11:59 PM EET on the 10th day (inclusive). If a qualifying ceasefire goes into effect prior to this market\u2019s end date, this market will remain open until the ceasefire is no longer in effect, or until the 10 calendar days have been reached. \n\nA ceasefire is considered no longer in effect when a consensus of credible reporting indicates the general suspension of hostilities has substantively ended across the primary theater. Temporary or technical lapses or expiration of a formal ceasefire term, isolated incidents, localized violations, or accusations alone will not invalidate the ceasefire provided the general suspension of hostilities across the primary theater continues. Where official government statements conflict with a consensus of credible field reporting, the reporting will take precedence over the government statements. \n\nThe resolution source for this market will be a consensus of credible sources.\n\nExamples of qualifying Ceasefires:\n\nApril 8, 2026 US\u2013Iran ceasefire: The United States and Iran publicly announced and implemented a mutually agreed ceasefire framework intended to broadly halt direct military hostilities between the two countries. Despite subsequent maritime confrontations, alleged violations, isolated retaliatory strikes, and disputes regarding compliance, the broader ceasefire framework continued to function and widescale fighting across the primary theater did not resume.\n\nNovember 27, 2024 Israel\u2013Hezbollah ceasefire: Israel and Hezbollah implemented a broadly operative ceasefire framework brokered through international mediators that substantially reduced hostilities across southern Lebanon and northern Israel, including the effective halt of Israel\u2019s major ground offensive into Lebanon and a significant reduction in Hezbollah rocket fire. Although the ceasefire was not formally announced through a single joint declaration by both parties and public statements differed in framing and characterization, a consensus of credible reporting confirmed the arrangement had been mutually agreed and implemented in practice. Despite continued isolated strikes, alleged violations, and disputes regarding compliance, credible reporting broadly treated the ceasefire as remaining operational and widescale fighting across the primary theater of the conflict did not resume.\n\nExamples of non qualifying Ceasefires:\n\nNovember 24, 2023 Israel\u2013Hamas humanitarian pause: Although it was a mutually agreed and publicly announced broad suspension of hostilities across Gaza, the ceasefire framework remained in effect for only approximately 7 days before wide-scale fighting resumed, failing the required 10-calendar-day duration requirement. Ceasefire violations prior to November 30, would not have invalidated the ceasefire. \n\nJuly 22, 2022 Black Sea Grain Initiative: Although Russia and Ukraine entered into internationally brokered agreements governing grain exports and reducing risks to commercial shipping in the Black Sea, the arrangement did not constitute a general suspension of direct military engagement across the primary theater of the war. Hostilities continued across Ukraine throughout the duration of the agreement and the arrangement applied only to specific categories of activity and geographic areas.\n\nMay 2023 Sudan ceasefires (SAF\u2013RSF): Although the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) publicly agreed to multiple internationally brokered ceasefires, a consensus of credible reporting indicated that the general suspension of hostilities across the primary theater never substantively took effect and large-scale fighting broadly continued throughout the ceasefire periods. While some temporary reductions in violence and localized humanitarian access reportedly occurred in certain areas, artillery fire, airstrikes, urban combat, troop movements, and offensive operations continued across major parts of Sudan almost immediately after implementation. Credible reporting broadly treated the ceasefires as having failed or collapsed in practice despite technically remaining in force on paper.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-ceasefire-in-2025-w2voYOygx80B.jpg",
+            "yes_token_id": "51308444364217538450493615474295421156909090806486317984535574801660314569304",
+            "yes_probability": 0.23,
+            "yes_best_bid": 0.22,
+            "yes_best_ask": 0.23,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "74076568846866714142503847026760702713555643778038790220454009063912340064073",
+            "no_probability": 0.78,
+            "no_best_bid": 0.77,
+            "no_best_ask": 0.78,
+            "no_spread": 0.010000000000000009,
+            "volume": 180471.70803460004,
+            "liquidity": 3513302.04,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Ongoing missile attacks suggest reduced likelihood of ceasefire.",
+            "event_id": "486199",
+            "event_title": "Russia x Ukraine Ceasefire by...?",
+            "event_slug": "russia-x-ukraine-ceasefire-by",
+            "detected_yes_price": 0.26,
+            "detected_no_price": 0.75,
+            "detected_at": 1782955942520,
+            "highest_price_change": 0.040000000000000036,
+            "highest_yes_price": 0.26,
+            "highest_no_price": 0.78,
+            "first_moved_at": 1782956057944,
+            "moved_side": "no",
+            "peaked_at": 1782985717094
+          },
+          {
+            "id": "2732525",
+            "slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+            "condition_id": "0x5f4833193b8303cfa74a35571e1e05ab301d5804360aa03e5cd9cdc027add8fc",
+            "title": "July 31",
+            "question": "Will Russia and Ukraine hold any diplomatic meeting by July 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Russia and Ukraine by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Russia-Ukraine relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of Russia and Ukraine, and a consensus of credible reporting.",
+            "image": "",
+            "yes_token_id": "75664220377459757647456485621449233559415637505632291241092085394055106279391",
+            "yes_probability": 0.38,
+            "yes_best_bid": 0.31,
+            "yes_best_ask": 0.38,
+            "yes_spread": 0.07,
+            "no_token_id": "52298829000514702690941934727403416556502645325197720971946202060258322984264",
+            "no_probability": 0.69,
+            "no_best_bid": 0.62,
+            "no_best_ask": 0.69,
+            "no_spread": 0.06999999999999995,
+            "volume": 3634.7951470700004,
+            "liquidity": 114220.06000000003,
+            "neg_risk": false,
+            "end_date": "2026-07-31T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Missile attacks indicate ongoing conflict, affecting likelihood of diplomatic meetings.",
+            "event_id": "648380",
+            "event_title": "Russia x Ukraine any diplomatic meeting by...?",
+            "event_slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+            "detected_yes_price": 0.68,
+            "detected_no_price": 0.6599999999999999,
+            "detected_at": 1782955942520,
+            "highest_price_change": 0.19696969696969716,
+            "highest_yes_price": 0.68,
+            "highest_no_price": 0.79,
+            "first_moved_at": 1782955945064,
+            "moved_side": "no",
+            "peaked_at": 1782988430549
+          }
+        ],
+        "topics": [
+          "ai-tech",
+          "ukraine-war",
+          "shutdown"
+        ],
+        "categories": [
+          "geopolitics",
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "2732525",
+        "slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+        "condition_id": "0x5f4833193b8303cfa74a35571e1e05ab301d5804360aa03e5cd9cdc027add8fc",
+        "title": "July 31",
+        "question": "Will Russia and Ukraine hold any diplomatic meeting by July 31, 2026?",
+        "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Russia and Ukraine by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Russia-Ukraine relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of Russia and Ukraine, and a consensus of credible reporting.",
+        "image": "",
+        "yes_token_id": "75664220377459757647456485621449233559415637505632291241092085394055106279391",
+        "yes_probability": 0.38,
+        "yes_best_bid": 0.31,
+        "yes_best_ask": 0.38,
+        "yes_spread": 0.07,
+        "no_token_id": "52298829000514702690941934727403416556502645325197720971946202060258322984264",
+        "no_probability": 0.69,
+        "no_best_bid": 0.62,
+        "no_best_ask": 0.69,
+        "no_spread": 0.06999999999999995,
+        "volume": 3634.7951470700004,
+        "liquidity": 114220.06000000003,
+        "neg_risk": false,
+        "end_date": "2026-07-31T23:59:00Z",
+        "categories": [
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 5,
+        "impact_level": "low",
+        "impact_reason": "Missile attacks indicate ongoing conflict, affecting likelihood of diplomatic meetings.",
+        "event_id": "648380",
+        "event_title": "Russia x Ukraine any diplomatic meeting by...?",
+        "event_slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+        "detected_yes_price": 0.68,
+        "detected_no_price": 0.6599999999999999,
+        "detected_at": 1782955942520,
+        "highest_price_change": 0.19696969696969716,
+        "highest_yes_price": 0.68,
+        "highest_no_price": 0.79,
+        "first_moved_at": 1782955945064,
+        "moved_side": "no",
+        "peaked_at": 1782988430549
+      },
+      "_scraped_at": "2026-07-02T21:06:57.524056+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "global_tension_score": 59,
+      "global_tension_level": "ELEVATED",
+      "countries": [
+        {
+          "country": "RU",
+          "count": 12,
+          "recent": [
+            {
+              "id": "e9e72f61-bbe8-41bb-8bae-082948e70556",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783020198098
+            },
+            {
+              "id": "0840a8fd-de11-4b07-b291-56ade5e57471",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1783008657000
+            },
+            {
+              "id": "8fd70c16-fbf6-4643-a03e-7eb92d550dcc",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1783018842145
+            },
+            {
+              "id": "d574f3d1-3437-4628-b970-b21d80117019",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783014256360
+            },
+            {
+              "id": "30d2126e-6e96-497b-adf7-83304a393ae4",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783015166873
+            },
+            {
+              "id": "5f524931-30fe-4e8b-8bab-e8169a882a0e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783005386940
+            },
+            {
+              "id": "90890c0b-d23b-4340-a02b-91180c836cfd",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783006947095
+            },
+            {
+              "id": "eb951080-c5f1-4a6d-91fa-ddbe5b3a79c7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783020986525
+            },
+            {
+              "id": "634e0abe-0762-4061-b06b-70486222dab8",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783023386941
+            },
+            {
+              "id": "6ed2a192-0998-471d-993f-62a8d98958b5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783024526533
+            },
+            {
+              "id": "8acfb73a-3371-4a71-b76f-6626c848489a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783014477413
+            },
+            {
+              "id": "c42b8e75-fe29-42dd-a1cb-8e9083a8cef3",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783025186560
+            }
+          ],
+          "volume": 6284887.569613895,
+          "critical_signals": 0,
+          "high_signals": 8,
+          "low_signals": 4
+        },
+        {
+          "country": "UA",
+          "count": 10,
+          "recent": [
+            {
+              "id": "e9e72f61-bbe8-41bb-8bae-082948e70556",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783020198098
+            },
+            {
+              "id": "0840a8fd-de11-4b07-b291-56ade5e57471",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1783008657000
+            },
+            {
+              "id": "9ac5748c-46ac-4b41-8570-e9644d996309",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783014147119
+            },
+            {
+              "id": "8fd70c16-fbf6-4643-a03e-7eb92d550dcc",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1783018842145
+            },
+            {
+              "id": "d574f3d1-3437-4628-b970-b21d80117019",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783014256360
+            },
+            {
+              "id": "90890c0b-d23b-4340-a02b-91180c836cfd",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783006947095
+            },
+            {
+              "id": "eb951080-c5f1-4a6d-91fa-ddbe5b3a79c7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783020986525
+            },
+            {
+              "id": "5fb27dce-fc4c-4ce8-810c-135d38f7b946",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783015721668
+            },
+            {
+              "id": "634e0abe-0762-4061-b06b-70486222dab8",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783023386941
+            },
+            {
+              "id": "8acfb73a-3371-4a71-b76f-6626c848489a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783014477413
+            }
+          ],
+          "volume": 5118450.248410192,
+          "critical_signals": 0,
+          "high_signals": 6,
+          "low_signals": 4
+        },
+        {
+          "country": "GB",
+          "count": 10,
+          "recent": [
+            {
+              "id": "0840a8fd-de11-4b07-b291-56ade5e57471",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1783008657000
+            },
+            {
+              "id": "9ac5748c-46ac-4b41-8570-e9644d996309",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783014147119
+            },
+            {
+              "id": "8fd70c16-fbf6-4643-a03e-7eb92d550dcc",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1783018842145
+            },
+            {
+              "id": "d574f3d1-3437-4628-b970-b21d80117019",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783014256360
+            },
+            {
+              "id": "90890c0b-d23b-4340-a02b-91180c836cfd",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783006947095
+            },
+            {
+              "id": "eb951080-c5f1-4a6d-91fa-ddbe5b3a79c7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783020986525
+            },
+            {
+              "id": "5fb27dce-fc4c-4ce8-810c-135d38f7b946",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783015721668
+            },
+            {
+              "id": "634e0abe-0762-4061-b06b-70486222dab8",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783023386941
+            },
+            {
+              "id": "6ed2a192-0998-471d-993f-62a8d98958b5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783024526533
+            },
+            {
+              "id": "8acfb73a-3371-4a71-b76f-6626c848489a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783014477413
+            }
+          ],
+          "volume": 6286354.952145894,
+          "critical_signals": 0,
+          "high_signals": 6,
+          "low_signals": 4
+        },
+        {
+          "country": "IR",
+          "count": 5,
+          "recent": [
+            {
+              "id": "84f58463-38ef-4c95-9560-dd0e1975fb35",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1783011420192
+            },
+            {
+              "id": "7fe098a5-372b-4de8-af6f-9dc9795994e9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783025840251
+            },
+            {
+              "id": "29cb714c-ba3e-4a1f-b22c-2c66b94027a1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783007014985
+            },
+            {
+              "id": "d5b3584e-ff13-44b5-8170-91a8c10cf0ab",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1783020506537
+            },
+            {
+              "id": "c42b8e75-fe29-42dd-a1cb-8e9083a8cef3",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783025186560
+            }
+          ],
+          "volume": 7028573.959594927,
+          "critical_signals": 1,
+          "high_signals": 3,
+          "low_signals": 1
+        },
+        {
+          "country": "US",
+          "count": 4,
+          "recent": [
+            {
+              "id": "84f58463-38ef-4c95-9560-dd0e1975fb35",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1783011420192
+            },
+            {
+              "id": "29cb714c-ba3e-4a1f-b22c-2c66b94027a1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783007014985
+            },
+            {
+              "id": "d5b3584e-ff13-44b5-8170-91a8c10cf0ab",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1783020506537
+            },
+            {
+              "id": "6ed2a192-0998-471d-993f-62a8d98958b5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783024526533
+            }
+          ],
+          "volume": 8553585.15416943,
+          "critical_signals": 1,
+          "high_signals": 2,
+          "low_signals": 1
+        },
+        {
+          "country": "IL",
+          "count": 2,
+          "recent": [
+            {
+              "id": "7fe098a5-372b-4de8-af6f-9dc9795994e9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783025840251
+            },
+            {
+              "id": "d5b3584e-ff13-44b5-8170-91a8c10cf0ab",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1783020506537
+            }
+          ],
+          "volume": 53043.49752226204,
+          "critical_signals": 1,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "IQ",
+          "count": 1,
+          "recent": [
+            {
+              "id": "7fe098a5-372b-4de8-af6f-9dc9795994e9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783025840251
+            }
+          ],
+          "volume": 53043.49752226204,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "PL",
+          "count": 1,
+          "recent": [
+            {
+              "id": "5fb27dce-fc4c-4ce8-810c-135d38f7b946",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783015721668
+            }
+          ],
+          "volume": 1467.382532,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "PK",
+          "count": 1,
+          "recent": [
+            {
+              "id": "7fe098a5-372b-4de8-af6f-9dc9795994e9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783025840251
+            }
+          ],
+          "volume": 53043.49752226204,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "OM",
+          "count": 1,
+          "recent": [
+            {
+              "id": "29cb714c-ba3e-4a1f-b22c-2c66b94027a1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783007014985
+            }
+          ],
+          "volume": 139653.60454847998,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "TR",
+          "count": 1,
+          "recent": [
+            {
+              "id": "455dfbc4-7edd-4ee8-b238-a89a0412b829",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783015046682
+            }
+          ],
+          "volume": 41664.018923000025,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "SA",
+          "count": 1,
+          "recent": [
+            {
+              "id": "5f524931-30fe-4e8b-8bab-e8169a882a0e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783005386940
+            }
+          ],
+          "volume": 20297.915775799993,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "BY",
+          "count": 1,
+          "recent": [
+            {
+              "id": "eb951080-c5f1-4a6d-91fa-ddbe5b3a79c7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783020986525
+            }
+          ],
+          "volume": 842189.53489593,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "BE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "6ed2a192-0998-471d-993f-62a8d98958b5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783024526533
+            }
+          ],
+          "volume": 1545309.1103503031,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "NL",
+          "count": 1,
+          "recent": [
+            {
+              "id": "6ed2a192-0998-471d-993f-62a8d98958b5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783024526533
+            }
+          ],
+          "volume": 1545309.1103503031,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "FR",
+          "count": 1,
+          "recent": [
+            {
+              "id": "6ed2a192-0998-471d-993f-62a8d98958b5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783024526533
+            }
+          ],
+          "volume": 1545309.1103503031,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "SD",
+          "count": 1,
+          "recent": [
+            {
+              "id": "455dfbc4-7edd-4ee8-b238-a89a0412b829",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783015046682
+            }
+          ],
+          "volume": 41664.018923000025,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "AE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "455dfbc4-7edd-4ee8-b238-a89a0412b829",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783015046682
+            }
+          ],
+          "volume": 41664.018923000025,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "QA",
+          "count": 1,
+          "recent": [
+            {
+              "id": "7fe098a5-372b-4de8-af6f-9dc9795994e9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783025840251
+            }
+          ],
+          "volume": 53043.49752226204,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "LV",
+          "count": 1,
+          "recent": [
+            {
+              "id": "9ac5748c-46ac-4b41-8570-e9644d996309",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783014147119
+            }
+          ],
+          "volume": 659553.9485504008,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "PE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "9ac5748c-46ac-4b41-8570-e9644d996309",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783014147119
+            }
+          ],
+          "volume": 659553.9485504008,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        }
+      ],
+      "_scraped_at": "2026-07-02T21:06:57.524056+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
