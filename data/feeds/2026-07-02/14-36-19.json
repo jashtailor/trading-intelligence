@@ -1,0 +1,1911 @@
+{
+  "scraped_at": "2026-07-02T14:36:10.492891+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 6,
+  "items": [
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "88ddcf8e-d367-4162-98a2-51e73c914296",
+        "timestamp": 1782921907340,
+        "tweet": {
+          "feed_item_id": "88ddcf8e-d367-4162-98a2-51e73c914296",
+          "post_id": "2072350798101479608",
+          "post_type": "tweet",
+          "created_at": 1782921907340,
+          "user": {
+            "uid": "18856867",
+            "handle": "zerohedge",
+            "display_name": "zerohedge",
+            "pfp": "https://pbs.twimg.com/profile_images/72647502/tyler.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "Democratic Socialist Melat Kiros Ousts 15-Term Rep. Diana DeGette In Colorado Primary https://www.zerohedge.com/political/democratic-socialist-melat-kiros-ousts-15-term-rep-diana-degette-colorado-primary",
+          "link": "https://twitter.com/zerohedge/status/2072350798101479608"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "related_markets": [
+          {
+            "id": "2744032",
+            "slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "condition_id": "0x3da7d980d23c6f6b12ed4f0bcbea97612f8ea01c28bff629ca821248c9767c81",
+            "title": "Kiros 15\u201320%",
+            "question": "Will Melat Kiros win the CO-01 Democratic primary by 15\u201320%?",
+            "description": "The Colorado Democratic primary elections are scheduled for June 30, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the C0-01 Democratic primary election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official..\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Colorado, such as official statewide results published by the Colorado Secretary of State (https://www.sos.state.co.us/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "",
+            "yes_token_id": "69382787308111068106271795090370379662472056993464260454406295058105213220066",
+            "yes_probability": 0.599,
+            "yes_best_bid": 0.023,
+            "yes_best_ask": 0.599,
+            "yes_spread": 0.576,
+            "no_token_id": "90072350255367032030079953618920357549820686546707587264044385735629554310243",
+            "no_probability": 0.977,
+            "no_best_bid": 0.401,
+            "no_best_ask": 0.977,
+            "no_spread": 0.576,
+            "volume": 1380.476688017,
+            "liquidity": 37903.80999999998,
+            "neg_risk": true,
+            "end_date": "",
+            "categories": [
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Kiros ousting DeGette indicates strong victory margin (1 hop)",
+            "event_id": "651731",
+            "event_title": "CO-01 Democratic Primary Margin of Victory",
+            "event_slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "detected_yes_price": 0.149,
+            "detected_no_price": 0.996,
+            "detected_at": 1782921937958,
+            "highest_price_change": 4.899328859060403,
+            "highest_yes_price": 0.879,
+            "highest_no_price": 0.996,
+            "first_moved_at": 1782922206450,
+            "moved_side": "yes",
+            "peaked_at": 1782996516585
+          },
+          {
+            "id": "2744036",
+            "slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "condition_id": "0x8a83990c3fb4edb553b1582acae9947deaab3f22b50c6fe7ddf2881ce31c095c",
+            "title": "DeGette <5%",
+            "question": "Will Diana DeGette win the CO-01 Democratic primary by less than 5%?",
+            "description": "The Colorado Democratic primary elections are scheduled for June 30, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the C0-01 Democratic primary election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official..\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Colorado, such as official statewide results published by the Colorado Secretary of State (https://www.sos.state.co.us/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "",
+            "yes_token_id": "105056731333627462661424835628770294852046130325867757858340480129759880207140",
+            "yes_probability": 0.55,
+            "yes_best_bid": 0.006,
+            "yes_best_ask": 0.55,
+            "yes_spread": 0.544,
+            "no_token_id": "34131285995844692220060946208314823459392130629100195600365171274964681382262",
+            "no_probability": 0.994,
+            "no_best_bid": 0.45,
+            "no_best_ask": 0.994,
+            "no_spread": 0.544,
+            "volume": 472.552905004,
+            "liquidity": 28741.42999999999,
+            "neg_risk": true,
+            "end_date": "",
+            "categories": [
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Kiros winning means DeGette's margin is likely less than 5% (1 hop)",
+            "event_id": "651731",
+            "event_title": "CO-01 Democratic Primary Margin of Victory",
+            "event_slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "detected_yes_price": 0.02,
+            "detected_no_price": 0.998,
+            "detected_at": 1782921937958,
+            "highest_price_change": 42.949999999999996,
+            "highest_yes_price": 0.879,
+            "highest_no_price": 0.998,
+            "first_moved_at": 1782985805309,
+            "moved_side": "yes",
+            "peaked_at": 1782995229541
+          },
+          {
+            "id": "2744033",
+            "slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "condition_id": "0xd43c1923fe24f02c2a9b5e78d27d1827f1506c26cea77d3110863ff5d99038bd",
+            "title": "Kiros 10\u201315%",
+            "question": "Will Melat Kiros win the CO-01 Democratic primary by 10\u201315%?",
+            "description": "The Colorado Democratic primary elections are scheduled for June 30, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the C0-01 Democratic primary election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official..\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Colorado, such as official statewide results published by the Colorado Secretary of State (https://www.sos.state.co.us/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "",
+            "yes_token_id": "1730056794100579039650535855419784537970748873006963142919826286950977367358",
+            "yes_probability": 0.967,
+            "yes_best_bid": 0.414,
+            "yes_best_ask": 0.967,
+            "yes_spread": 0.5529999999999999,
+            "no_token_id": "52897544643713458196004833227505644574914003429358121851280011094617271958669",
+            "no_probability": 0.586,
+            "no_best_bid": 0.033,
+            "no_best_ask": 0.586,
+            "no_spread": 0.5529999999999999,
+            "volume": 3316.3144550000015,
+            "liquidity": 20798.729999999996,
+            "neg_risk": true,
+            "end_date": "",
+            "categories": [
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Kiros ousting DeGette indicates strong performance (1 hop)",
+            "event_id": "651731",
+            "event_title": "CO-01 Democratic Primary Margin of Victory",
+            "event_slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "detected_yes_price": 0.93,
+            "detected_no_price": 0.08199999999999996,
+            "detected_at": 1782921937958,
+            "highest_price_change": 9.09756097560976,
+            "highest_yes_price": 0.979,
+            "highest_no_price": 0.828,
+            "first_moved_at": 1782921951114,
+            "moved_side": "no",
+            "peaked_at": 1782985713794
+          },
+          {
+            "id": "2744034",
+            "slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "condition_id": "0xdf49974e4d67bb58dd7b53b740de7c9abf5f9853a3a58a3ab71988ec8e7e5391",
+            "title": "Kiros 5\u201310%",
+            "question": "Will Melat Kiros win the CO-01 Democratic primary by 5\u201310%?",
+            "description": "The Colorado Democratic primary elections are scheduled for June 30, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the C0-01 Democratic primary election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official..\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Colorado, such as official statewide results published by the Colorado Secretary of State (https://www.sos.state.co.us/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "",
+            "yes_token_id": "106434888785356472444985587173617308736440648478161195413601599961564413499947",
+            "yes_probability": 0.029,
+            "yes_best_bid": 0.003,
+            "yes_best_ask": 0.029,
+            "yes_spread": 0.026000000000000002,
+            "no_token_id": "31787658457450035733418336957064822935093328936219544273806440360577498950293",
+            "no_probability": 0.997,
+            "no_best_bid": 0.971,
+            "no_best_ask": 0.997,
+            "no_spread": 0.026000000000000023,
+            "volume": 2197.3641400000006,
+            "liquidity": 80870.45000000003,
+            "neg_risk": true,
+            "end_date": "",
+            "categories": [
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 7,
+            "impact_level": "medium",
+            "impact_reason": "Kiros ousting DeGette suggests competitive margin (1 hop)",
+            "event_id": "651731",
+            "event_title": "CO-01 Democratic Primary Margin of Victory",
+            "event_slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "detected_yes_price": 0.059,
+            "detected_no_price": 0.98,
+            "detected_at": 1782921937958,
+            "highest_price_change": 1.8813559322033901,
+            "highest_yes_price": 0.17,
+            "highest_no_price": 0.997,
+            "first_moved_at": 1782922122849,
+            "moved_side": "yes",
+            "peaked_at": 1782922181864
+          },
+          {
+            "id": "2744037",
+            "slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "condition_id": "0x4abc798be998d45cf0ceed296b85c67f69193859a0d7858d18a507ffab24928e",
+            "title": "DeGette 5%+",
+            "question": "Will Diana DeGette win the CO-01 Democratic primary by 5%+?",
+            "description": "The Colorado Democratic primary elections are scheduled for June 30, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the C0-01 Democratic primary election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official..\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Colorado, such as official statewide results published by the Colorado Secretary of State (https://www.sos.state.co.us/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+            "image": "",
+            "yes_token_id": "68405892235884724645511495478159780034131100350780444832305348896935073038817",
+            "yes_probability": 0.582,
+            "yes_best_bid": 0.006,
+            "yes_best_ask": 0.582,
+            "yes_spread": 0.576,
+            "no_token_id": "14109140637619420087373676555601698266505836126042998217662422325023620300266",
+            "no_probability": 0.994,
+            "no_best_bid": 0.418,
+            "no_best_ask": 0.994,
+            "no_spread": 0.5760000000000001,
+            "volume": 503.055905004,
+            "liquidity": 35072.409999999996,
+            "neg_risk": true,
+            "end_date": "",
+            "categories": [
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 6,
+            "impact_level": "medium",
+            "impact_reason": "DeGette's loss suggests her winning by 5%+ is unlikely.",
+            "event_id": "651731",
+            "event_title": "CO-01 Democratic Primary Margin of Victory",
+            "event_slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+            "detected_yes_price": 0.02,
+            "detected_no_price": 0.998,
+            "detected_at": 1782921937958,
+            "highest_price_change": 42.8,
+            "highest_yes_price": 0.876,
+            "highest_no_price": 0.998,
+            "first_moved_at": 1782985713850,
+            "moved_side": "yes",
+            "peaked_at": 1783002264644
+          }
+        ],
+        "topics": [
+          "election-2028",
+          "shutdown"
+        ],
+        "categories": [
+          "elections",
+          "politics"
+        ]
+      },
+      "related_market": {
+        "id": "2744033",
+        "slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+        "condition_id": "0xd43c1923fe24f02c2a9b5e78d27d1827f1506c26cea77d3110863ff5d99038bd",
+        "title": "Kiros 10\u201315%",
+        "question": "Will Melat Kiros win the CO-01 Democratic primary by 10\u201315%?",
+        "description": "The Colorado Democratic primary elections are scheduled for June 30, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the C0-01 Democratic primary election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to \u201cOther.\u201d\n\nThis market will resolve based on the official vote count once the count has been made official..\n\nIf the results of the specified election are not known definitively by November 30, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be information from the State of Colorado, such as official statewide results published by the Colorado Secretary of State (https://www.sos.state.co.us/); however, an overwhelming consensus of credible reporting may suffice.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.",
+        "image": "",
+        "yes_token_id": "1730056794100579039650535855419784537970748873006963142919826286950977367358",
+        "yes_probability": 0.967,
+        "yes_best_bid": 0.414,
+        "yes_best_ask": 0.967,
+        "yes_spread": 0.5529999999999999,
+        "no_token_id": "52897544643713458196004833227505644574914003429358121851280011094617271958669",
+        "no_probability": 0.586,
+        "no_best_bid": 0.033,
+        "no_best_ask": 0.586,
+        "no_spread": 0.5529999999999999,
+        "volume": 3316.3144550000015,
+        "liquidity": 20798.729999999996,
+        "neg_risk": true,
+        "end_date": "",
+        "categories": [
+          "elections",
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Kiros ousting DeGette indicates strong performance (1 hop)",
+        "event_id": "651731",
+        "event_title": "CO-01 Democratic Primary Margin of Victory",
+        "event_slug": "co-01-democratic-primary-margin-of-victory-20260630151427163",
+        "detected_yes_price": 0.93,
+        "detected_no_price": 0.08199999999999996,
+        "detected_at": 1782921937958,
+        "highest_price_change": 9.09756097560976,
+        "highest_yes_price": 0.979,
+        "highest_no_price": 0.828,
+        "first_moved_at": 1782921951114,
+        "moved_side": "no",
+        "peaked_at": 1782985713794
+      },
+      "_scraped_at": "2026-07-02T14:36:10.492891+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 2,
+      "feed_item": {
+        "id": "ee605d5b-570a-46cb-9f67-3b4cea793df8",
+        "timestamp": 1782938251630,
+        "tweet": {
+          "feed_item_id": "ee605d5b-570a-46cb-9f67-3b4cea793df8",
+          "post_id": "2072419351022710786",
+          "post_type": "tweet",
+          "created_at": 1782938251630,
+          "user": {
+            "uid": "3295423333",
+            "handle": "FirstSquawk",
+            "display_name": "First Squawk",
+            "pfp": "https://pbs.twimg.com/profile_images/1039778545738964992/6fl6RNN0.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "KYIV AIR DEFENCES REPEL RUSSIAN DRONE ASSAULT; DEBRIS STRIKES AT LEAST TWO DISTRICTS - OFFICIALS",
+          "link": "https://twitter.com/FirstSquawk/status/2072419351022710786"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "RU",
+        "countries": [
+          "RU",
+          "UA"
+        ],
+        "related_markets": [
+          {
+            "id": "2243896",
+            "slug": "russia-x-ukraine-ceasefire-agreement-by",
+            "condition_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+            "title": "October 31",
+            "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if there is a ceasefire agreement between Russia and Ukraine by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA ceasefire agreement refers to any mutually-agreed suspension of direct military engagement between Russia and Ukraine, which is either officially announced by both countries or confirmed by a consensus of credible reporting to have been mutually agreed by both countries.\n\nA broader peace deal, normalization agreement, political framework, truce, or humanitarian pause will qualify if it includes a mutually agreed suspension of direct military engagement, to be effective on a specified date. Agreements that outline future negotiations or de-escalation measures without an explicit, dated commitment to stop fighting will not qualify.\n\nAny form of informal understanding, backchannel communication, de-escalation without an announced agreement, or unilateral pause in hostilities will not be considered a ceasefire agreement.\n\nOnly agreements which constitute a general pause in the conflict will qualify. Agreements which only apply to specific conflict categories (e.g. restrictions on certain target categories or certain locations) will not qualify.\n\nIf a qualifying agreement is officially reached before this market\u2019s end date, this market will resolve to \u201cYes,\u201d regardless of whether the ceasefire agreement officially takes effect after that date.\n\nThe primary resolution sources for this market will be official information from the governments of Russia and Ukraine and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-ceasefire-in-2025-w2voYOygx80B.jpg",
+            "yes_token_id": "10861802947610899379330568332287100318869035186187733531205554992019689450318",
+            "yes_probability": 0.25,
+            "yes_best_bid": 0.24,
+            "yes_best_ask": 0.25,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "39319769648132414476170103739900770633009012502056309868976886150530270219889",
+            "no_probability": 0.76,
+            "no_best_bid": 0.75,
+            "no_best_ask": 0.76,
+            "no_spread": 0.010000000000000009,
+            "volume": 613069.25584408,
+            "liquidity": 1648327.69,
+            "neg_risk": false,
+            "end_date": "2026-10-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Military actions can affect negotiation dynamics (1 hop).",
+            "event_id": "478472",
+            "event_title": "Russia x Ukraine ceasefire agreement by...?",
+            "event_slug": "russia-x-ukraine-ceasefire-agreement-by",
+            "detected_yes_price": 0.26,
+            "detected_no_price": 0.76,
+            "detected_at": 1782938306422,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.26,
+            "highest_no_price": 0.76
+          },
+          {
+            "id": "2264328",
+            "slug": "russia-x-ukraine-ceasefire-by",
+            "condition_id": "0x84c625fdccf5c5246a15e476361e4563033906ee225800e1136c0d737596a72f",
+            "title": "December 31",
+            "question": "Russia x Ukraine ceasefire by December 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if a ceasefire between Russia and Ukraine goes into effect by 11:59 PM Eastern European Time (EET) on the specified date and remains continuously in effect for at least 10 calendar days. Otherwise, this market will resolve to \"No\".\n\nA ceasefire refers to any mutually agreed suspension of direct military engagement between Russia and Ukraine, which is officially announced by both countries or confirmed by a consensus of credible reporting to have been mutually agreed by both countries, and which constitutes a general suspension of direct kinetic military engagement across the primary theater of the overall conflict. A broader peace deal, normalization agreement, political framework, truce, or humanitarian pause (including holiday ceasefires) will count provided they otherwise qualify under this market\u2019s rules. \n\nAny form of informal understanding, backchannel communication, de-escalation without an announced agreement, or unilateral pause in hostilities will not be considered a ceasefire. Agreements which only apply to specific conflict categories (e.g. restrictions on certain target categories or certain locations) will not qualify.\n\nAny calendar day (EET) during which the ceasefire is in effect (including the first day of the ceasefire) will count towards the 10-day total. The required 10 day period will end at 11:59 PM EET on the 10th day (inclusive). If a qualifying ceasefire goes into effect prior to this market\u2019s end date, this market will remain open until the ceasefire is no longer in effect, or until the 10 calendar days have been reached. \n\nA ceasefire is considered no longer in effect when a consensus of credible reporting indicates the general suspension of hostilities has substantively ended across the primary theater. Temporary or technical lapses or expiration of a formal ceasefire term, isolated incidents, localized violations, or accusations alone will not invalidate the ceasefire provided the general suspension of hostilities across the primary theater continues. Where official government statements conflict with a consensus of credible field reporting, the reporting will take precedence over the government statements. \n\nThe resolution source for this market will be a consensus of credible sources.\n\nExamples of qualifying Ceasefires:\n\nApril 8, 2026 US\u2013Iran ceasefire: The United States and Iran publicly announced and implemented a mutually agreed ceasefire framework intended to broadly halt direct military hostilities between the two countries. Despite subsequent maritime confrontations, alleged violations, isolated retaliatory strikes, and disputes regarding compliance, the broader ceasefire framework continued to function and widescale fighting across the primary theater did not resume.\n\nNovember 27, 2024 Israel\u2013Hezbollah ceasefire: Israel and Hezbollah implemented a broadly operative ceasefire framework brokered through international mediators that substantially reduced hostilities across southern Lebanon and northern Israel, including the effective halt of Israel\u2019s major ground offensive into Lebanon and a significant reduction in Hezbollah rocket fire. Although the ceasefire was not formally announced through a single joint declaration by both parties and public statements differed in framing and characterization, a consensus of credible reporting confirmed the arrangement had been mutually agreed and implemented in practice. Despite continued isolated strikes, alleged violations, and disputes regarding compliance, credible reporting broadly treated the ceasefire as remaining operational and widescale fighting across the primary theater of the conflict did not resume.\n\nExamples of non qualifying Ceasefires:\n\nNovember 24, 2023 Israel\u2013Hamas humanitarian pause: Although it was a mutually agreed and publicly announced broad suspension of hostilities across Gaza, the ceasefire framework remained in effect for only approximately 7 days before wide-scale fighting resumed, failing the required 10-calendar-day duration requirement. Ceasefire violations prior to November 30, would not have invalidated the ceasefire. \n\nJuly 22, 2022 Black Sea Grain Initiative: Although Russia and Ukraine entered into internationally brokered agreements governing grain exports and reducing risks to commercial shipping in the Black Sea, the arrangement did not constitute a general suspension of direct military engagement across the primary theater of the war. Hostilities continued across Ukraine throughout the duration of the agreement and the arrangement applied only to specific categories of activity and geographic areas.\n\nMay 2023 Sudan ceasefires (SAF\u2013RSF): Although the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) publicly agreed to multiple internationally brokered ceasefires, a consensus of credible reporting indicated that the general suspension of hostilities across the primary theater never substantively took effect and large-scale fighting broadly continued throughout the ceasefire periods. While some temporary reductions in violence and localized humanitarian access reportedly occurred in certain areas, artillery fire, airstrikes, urban combat, troop movements, and offensive operations continued across major parts of Sudan almost immediately after implementation. Credible reporting broadly treated the ceasefires as having failed or collapsed in practice despite technically remaining in force on paper.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-ceasefire-in-2025-w2voYOygx80B.jpg",
+            "yes_token_id": "51308444364217538450493615474295421156909090806486317984535574801660314569304",
+            "yes_probability": 0.23,
+            "yes_best_bid": 0.22,
+            "yes_best_ask": 0.23,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "74076568846866714142503847026760702713555643778038790220454009063912340064073",
+            "no_probability": 0.78,
+            "no_best_bid": 0.77,
+            "no_best_ask": 0.78,
+            "no_spread": 0.010000000000000009,
+            "volume": 180471.70803460004,
+            "liquidity": 3489575.9699999993,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Military actions can affect negotiation dynamics (1 hop).",
+            "event_id": "486199",
+            "event_title": "Russia x Ukraine Ceasefire by...?",
+            "event_slug": "russia-x-ukraine-ceasefire-by",
+            "detected_yes_price": 0.26,
+            "detected_no_price": 0.75,
+            "detected_at": 1782938306422,
+            "highest_price_change": 0.040000000000000036,
+            "highest_yes_price": 0.26,
+            "highest_no_price": 0.78,
+            "first_moved_at": 1782985717094,
+            "moved_side": "no",
+            "peaked_at": 1782985717094
+          },
+          {
+            "id": "2264327",
+            "slug": "russia-x-ukraine-ceasefire-by",
+            "condition_id": "0xde5c4c7f05b34f4774d07fec9aa9cf880555f95ddcce4c7830ab09daecc493c4",
+            "title": "October 31",
+            "question": "Russia x Ukraine ceasefire by October 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if a ceasefire between Russia and Ukraine goes into effect by 11:59 PM Eastern European Time (EET) on the specified date and remains continuously in effect for at least 10 calendar days. Otherwise, this market will resolve to \"No\".\n\nA ceasefire refers to any mutually agreed suspension of direct military engagement between Russia and Ukraine, which is officially announced by both countries or confirmed by a consensus of credible reporting to have been mutually agreed by both countries, and which constitutes a general suspension of direct kinetic military engagement across the primary theater of the overall conflict. A broader peace deal, normalization agreement, political framework, truce, or humanitarian pause (including holiday ceasefires) will count provided they otherwise qualify under this market\u2019s rules. \n\nAny form of informal understanding, backchannel communication, de-escalation without an announced agreement, or unilateral pause in hostilities will not be considered a ceasefire. Agreements which only apply to specific conflict categories (e.g. restrictions on certain target categories or certain locations) will not qualify.\n\nAny calendar day (EET) during which the ceasefire is in effect (including the first day of the ceasefire) will count towards the 10-day total. The required 10 day period will end at 11:59 PM EET on the 10th day (inclusive). If a qualifying ceasefire goes into effect prior to this market\u2019s end date, this market will remain open until the ceasefire is no longer in effect, or until the 10 calendar days have been reached. \n\nA ceasefire is considered no longer in effect when a consensus of credible reporting indicates the general suspension of hostilities has substantively ended across the primary theater. Temporary or technical lapses or expiration of a formal ceasefire term, isolated incidents, localized violations, or accusations alone will not invalidate the ceasefire provided the general suspension of hostilities across the primary theater continues. Where official government statements conflict with a consensus of credible field reporting, the reporting will take precedence over the government statements. \n\nThe resolution source for this market will be a consensus of credible sources.\n\nExamples of qualifying Ceasefires:\n\nApril 8, 2026 US\u2013Iran ceasefire: The United States and Iran publicly announced and implemented a mutually agreed ceasefire framework intended to broadly halt direct military hostilities between the two countries. Despite subsequent maritime confrontations, alleged violations, isolated retaliatory strikes, and disputes regarding compliance, the broader ceasefire framework continued to function and widescale fighting across the primary theater did not resume.\n\nNovember 27, 2024 Israel\u2013Hezbollah ceasefire: Israel and Hezbollah implemented a broadly operative ceasefire framework brokered through international mediators that substantially reduced hostilities across southern Lebanon and northern Israel, including the effective halt of Israel\u2019s major ground offensive into Lebanon and a significant reduction in Hezbollah rocket fire. Although the ceasefire was not formally announced through a single joint declaration by both parties and public statements differed in framing and characterization, a consensus of credible reporting confirmed the arrangement had been mutually agreed and implemented in practice. Despite continued isolated strikes, alleged violations, and disputes regarding compliance, credible reporting broadly treated the ceasefire as remaining operational and widescale fighting across the primary theater of the conflict did not resume.\n\nExamples of non qualifying Ceasefires:\n\nNovember 24, 2023 Israel\u2013Hamas humanitarian pause: Although it was a mutually agreed and publicly announced broad suspension of hostilities across Gaza, the ceasefire framework remained in effect for only approximately 7 days before wide-scale fighting resumed, failing the required 10-calendar-day duration requirement. Ceasefire violations prior to November 30, would not have invalidated the ceasefire. \n\nJuly 22, 2022 Black Sea Grain Initiative: Although Russia and Ukraine entered into internationally brokered agreements governing grain exports and reducing risks to commercial shipping in the Black Sea, the arrangement did not constitute a general suspension of direct military engagement across the primary theater of the war. Hostilities continued across Ukraine throughout the duration of the agreement and the arrangement applied only to specific categories of activity and geographic areas.\n\nMay 2023 Sudan ceasefires (SAF\u2013RSF): Although the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) publicly agreed to multiple internationally brokered ceasefires, a consensus of credible reporting indicated that the general suspension of hostilities across the primary theater never substantively took effect and large-scale fighting broadly continued throughout the ceasefire periods. While some temporary reductions in violence and localized humanitarian access reportedly occurred in certain areas, artillery fire, airstrikes, urban combat, troop movements, and offensive operations continued across major parts of Sudan almost immediately after implementation. Credible reporting broadly treated the ceasefires as having failed or collapsed in practice despite technically remaining in force on paper.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-ceasefire-in-2025-w2voYOygx80B.jpg",
+            "yes_token_id": "45485246012125503746429368791635888864303168609293442805366798912544304945187",
+            "yes_probability": 0.13,
+            "yes_best_bid": 0.12,
+            "yes_best_ask": 0.13,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "66115275931876214717212754719566717986599297258235137414466645861814839112268",
+            "no_probability": 0.88,
+            "no_best_bid": 0.87,
+            "no_best_ask": 0.88,
+            "no_spread": 0.010000000000000009,
+            "volume": 177090.84626077994,
+            "liquidity": 1944188.69,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Military actions can affect negotiation dynamics (1 hop).",
+            "event_id": "486199",
+            "event_title": "Russia x Ukraine Ceasefire by...?",
+            "event_slug": "russia-x-ukraine-ceasefire-by",
+            "detected_yes_price": 0.14,
+            "detected_no_price": 0.87,
+            "detected_at": 1782938306422,
+            "highest_price_change": 0.011494252873563229,
+            "highest_yes_price": 0.14,
+            "highest_no_price": 0.88,
+            "first_moved_at": 1782985711812,
+            "moved_side": "no",
+            "peaked_at": 1782985711812
+          },
+          {
+            "id": "2732525",
+            "slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+            "condition_id": "0x5f4833193b8303cfa74a35571e1e05ab301d5804360aa03e5cd9cdc027add8fc",
+            "title": "July 31",
+            "question": "Will Russia and Ukraine hold any diplomatic meeting by July 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Russia and Ukraine by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Russia-Ukraine relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of Russia and Ukraine, and a consensus of credible reporting.",
+            "image": "",
+            "yes_token_id": "75664220377459757647456485621449233559415637505632291241092085394055106279391",
+            "yes_probability": 0.33,
+            "yes_best_bid": 0.3,
+            "yes_best_ask": 0.33,
+            "yes_spread": 0.030000000000000027,
+            "no_token_id": "52298829000514702690941934727403416556502645325197720971946202060258322984264",
+            "no_probability": 0.7,
+            "no_best_bid": 0.67,
+            "no_best_ask": 0.7,
+            "no_spread": 0.029999999999999916,
+            "volume": 3627.6951470700005,
+            "liquidity": 116493.61000000002,
+            "neg_risk": false,
+            "end_date": "2026-07-31T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Military actions can affect negotiation dynamics (1 hop).",
+            "event_id": "648380",
+            "event_title": "Russia x Ukraine any diplomatic meeting by...?",
+            "event_slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+            "detected_yes_price": 0.12,
+            "detected_no_price": 0.9,
+            "detected_at": 1782938306422,
+            "highest_price_change": 2.3333333333333335,
+            "highest_yes_price": 0.4,
+            "highest_no_price": 0.91,
+            "first_moved_at": 1782938495023,
+            "moved_side": "yes",
+            "peaked_at": 1782995147643
+          },
+          {
+            "id": "2732526",
+            "slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+            "condition_id": "0x4bda4a4df34e9929e7eecb7ee1adc0b6497ee79dddffe14be4b24237cd116cb7",
+            "title": "August 31",
+            "question": "Will Russia and Ukraine hold any diplomatic meeting by August 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Russia and Ukraine by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Russia-Ukraine relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of Russia and Ukraine, and a consensus of credible reporting.",
+            "image": "",
+            "yes_token_id": "63779162653681873245159865633000334437760662853972923572387274664225948677546",
+            "yes_probability": 0.66,
+            "yes_best_bid": 0.58,
+            "yes_best_ask": 0.66,
+            "yes_spread": 0.08000000000000007,
+            "no_token_id": "32498948505314576966704761143540900095142072751411430571598289128995809645377",
+            "no_probability": 0.42,
+            "no_best_bid": 0.34,
+            "no_best_ask": 0.42,
+            "no_spread": 0.07999999999999996,
+            "volume": 682.769428,
+            "liquidity": 107237.79000000004,
+            "neg_risk": false,
+            "end_date": "2026-08-31T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Military actions can affect negotiation dynamics (1 hop).",
+            "event_id": "648380",
+            "event_title": "Russia x Ukraine any diplomatic meeting by...?",
+            "event_slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+            "detected_yes_price": 0.39,
+            "detected_no_price": 0.64,
+            "detected_at": 1782938306422,
+            "highest_price_change": 0.717948717948718,
+            "highest_yes_price": 0.67,
+            "highest_no_price": 0.64,
+            "first_moved_at": 1782985725693,
+            "moved_side": "yes",
+            "peaked_at": 1782987700288
+          }
+        ],
+        "topics": [
+          "ai-tech",
+          "ukraine-war"
+        ],
+        "categories": [
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "2732525",
+        "slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+        "condition_id": "0x5f4833193b8303cfa74a35571e1e05ab301d5804360aa03e5cd9cdc027add8fc",
+        "title": "July 31",
+        "question": "Will Russia and Ukraine hold any diplomatic meeting by July 31, 2026?",
+        "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Russia and Ukraine by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Russia-Ukraine relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of Russia and Ukraine, and a consensus of credible reporting.",
+        "image": "",
+        "yes_token_id": "75664220377459757647456485621449233559415637505632291241092085394055106279391",
+        "yes_probability": 0.33,
+        "yes_best_bid": 0.3,
+        "yes_best_ask": 0.33,
+        "yes_spread": 0.030000000000000027,
+        "no_token_id": "52298829000514702690941934727403416556502645325197720971946202060258322984264",
+        "no_probability": 0.7,
+        "no_best_bid": 0.67,
+        "no_best_ask": 0.7,
+        "no_spread": 0.029999999999999916,
+        "volume": 3627.6951470700005,
+        "liquidity": 116493.61000000002,
+        "neg_risk": false,
+        "end_date": "2026-07-31T23:59:00Z",
+        "categories": [
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Military actions can affect negotiation dynamics (1 hop).",
+        "event_id": "648380",
+        "event_title": "Russia x Ukraine any diplomatic meeting by...?",
+        "event_slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+        "detected_yes_price": 0.12,
+        "detected_no_price": 0.9,
+        "detected_at": 1782938306422,
+        "highest_price_change": 2.3333333333333335,
+        "highest_yes_price": 0.4,
+        "highest_no_price": 0.91,
+        "first_moved_at": 1782938495023,
+        "moved_side": "yes",
+        "peaked_at": 1782995147643
+      },
+      "_scraped_at": "2026-07-02T14:36:10.492891+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 3,
+      "feed_item": {
+        "id": "c8878661-105f-47d8-9c89-ba4306754810",
+        "timestamp": 1782929836658,
+        "tweet": {
+          "feed_item_id": "c8878661-105f-47d8-9c89-ba4306754810",
+          "post_id": "2072384056071700765",
+          "post_type": "tweet",
+          "created_at": 1782929836658,
+          "user": {
+            "uid": "3108351",
+            "handle": "WSJ",
+            "display_name": "The Wall Street Journal",
+            "pfp": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "The U.S. declined to extend its signature trade pact with Mexico and Canada, setting up a decadelong review process that casts uncertainty over businesses https://on.wsj.com/4eBteSs",
+          "link": "https://twitter.com/WSJ/status/2072384056071700765"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "MX",
+        "countries": [
+          "MX",
+          "CA",
+          "US"
+        ],
+        "related_markets": [
+          {
+            "id": "1436462",
+            "slug": "us-trade-deficit-in-2026",
+            "condition_id": "0xd3c6552a51528c74c28471aa0a5e13fbafdf84f02a40d11bf173b94032b7e7ef",
+            "title": "800\u2013900B",
+            "question": "Will the 2026 trade deficit be between 800B and 900B?",
+            "description": "This market will resolve according to the annual US Goods and Services Deficit for 2026, as reported by the US Bureau of Economic Analysis (BEA) and the US Census Bureau (USCB) in the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026, expected to be released in February 2027.\n\nUpon publication, the specified release will be made available at: https://www.bea.gov/news/current-releases\n\nThe relevant figure may be found in the annual summary under \u201cExports, Imports, and Balance (exhibit 1)\u201d. Changes in the BEA or USCB\u2019s reporting format will not disqualify a relevant published figure from counting.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe primary resolution source for this market will be the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 from the US Bureau of Economic Analysis and the US Census Bureau. If this release is not published by April 30, 2027 ET, another credible source on the annual US Goods and Services Deficit for 2026 will be chosen.\n\nNote: any revisions to the annual US Goods and Services Deficit for 2026 made after the publication of the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-trade-deficit-in-2026-Hn37ZN5inoET.jpg",
+            "yes_token_id": "44017019315782922634457300618919482744803730196875933928315824275516729043334",
+            "yes_probability": 0.49,
+            "yes_best_bid": 0.3,
+            "yes_best_ask": 0.49,
+            "yes_spread": 0.19,
+            "no_token_id": "55867192153318522579011935519518933000287056983134864115793841072368253621603",
+            "no_probability": 0.7,
+            "no_best_bid": 0.51,
+            "no_best_ask": 0.7,
+            "no_spread": 0.18999999999999995,
+            "volume": 1007.858232,
+            "liquidity": 136982.89000000004,
+            "neg_risk": true,
+            "end_date": "2027-02-28T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Declining trade pact directly impacts trade deficit expectations (1 hop).",
+            "event_id": "230330",
+            "event_title": "US Trade Deficit in 2026?",
+            "event_slug": "us-trade-deficit-in-2026",
+            "detected_yes_price": 0.43,
+            "detected_no_price": 0.72,
+            "detected_at": 1782929922252,
+            "highest_price_change": 0.2558139534883722,
+            "highest_yes_price": 0.54,
+            "highest_no_price": 0.72,
+            "first_moved_at": 1782930127082,
+            "moved_side": "yes",
+            "peaked_at": 1782985710673
+          },
+          {
+            "id": "1436465",
+            "slug": "us-trade-deficit-in-2026",
+            "condition_id": "0x306b01a825a423668beec573456610843ad4c47f72d1fb70d880f55b10109d91",
+            "title": "1.1T+",
+            "question": "Will the 2026 trade deficit be 1.1T or more?",
+            "description": "This market will resolve according to the annual US Goods and Services Deficit for 2026, as reported by the US Bureau of Economic Analysis (BEA) and the US Census Bureau (USCB) in the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026, expected to be released in February 2027.\n\nUpon publication, the specified release will be made available at: https://www.bea.gov/news/current-releases\n\nThe relevant figure may be found in the annual summary under \u201cExports, Imports, and Balance (exhibit 1)\u201d. Changes in the BEA or USCB\u2019s reporting format will not disqualify a relevant published figure from counting.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe primary resolution source for this market will be the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 from the US Bureau of Economic Analysis and the US Census Bureau. If this release is not published by April 30, 2027 ET, another credible source on the annual US Goods and Services Deficit for 2026 will be chosen.\n\nNote: any revisions to the annual US Goods and Services Deficit for 2026 made after the publication of the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-trade-deficit-in-2026-Hn37ZN5inoET.jpg",
+            "yes_token_id": "5719638015015095021777253576720314166686827284908160443837910371323865840881",
+            "yes_probability": 0.047,
+            "yes_best_bid": 0.011,
+            "yes_best_ask": 0.047,
+            "yes_spread": 0.036000000000000004,
+            "no_token_id": "81041681824483581150311469351093877024153338807206649092878012100346498915016",
+            "no_probability": 0.989,
+            "no_best_bid": 0.953,
+            "no_best_ask": 0.989,
+            "no_spread": 0.03600000000000003,
+            "volume": 645.9066340000002,
+            "liquidity": 95924.1,
+            "neg_risk": true,
+            "end_date": "2027-02-28T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Declining trade pact directly impacts trade deficit expectations (1 hop).",
+            "event_id": "230330",
+            "event_title": "US Trade Deficit in 2026?",
+            "event_slug": "us-trade-deficit-in-2026",
+            "detected_yes_price": 0.039,
+            "detected_no_price": 0.988,
+            "detected_at": 1782929922252,
+            "highest_price_change": 0.6923076923076924,
+            "highest_yes_price": 0.066,
+            "highest_no_price": 0.99,
+            "first_moved_at": 1782985723469,
+            "moved_side": "yes",
+            "peaked_at": 1782991748081
+          },
+          {
+            "id": "1436458",
+            "slug": "us-trade-deficit-in-2026",
+            "condition_id": "0xaaf3bc4e63735b3bfcc7a008e00ce7466a699584a50e92d94cd256a0ced72a7c",
+            "title": "<500B",
+            "question": "Will the 2026 trade deficit be less than 500B?",
+            "description": "This market will resolve according to the annual US Goods and Services Deficit for 2026, as reported by the US Bureau of Economic Analysis (BEA) and the US Census Bureau (USCB) in the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026, expected to be released in February 2027.\n\nUpon publication, the specified release will be made available at: https://www.bea.gov/news/current-releases\n\nThe relevant figure may be found in the annual summary under \u201cExports, Imports, and Balance (exhibit 1)\u201d. Changes in the BEA or USCB\u2019s reporting format will not disqualify a relevant published figure from counting.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe primary resolution source for this market will be the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 from the US Bureau of Economic Analysis and the US Census Bureau. If this release is not published by April 30, 2027 ET, another credible source on the annual US Goods and Services Deficit for 2026 will be chosen.\n\nNote: any revisions to the annual US Goods and Services Deficit for 2026 made after the publication of the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-trade-deficit-in-2026-Hn37ZN5inoET.jpg",
+            "yes_token_id": "78849497444444188157350698961362879013549528532372718983538139639352715072954",
+            "yes_probability": 0.05,
+            "yes_best_bid": 0.03,
+            "yes_best_ask": 0.05,
+            "yes_spread": 0.020000000000000004,
+            "no_token_id": "16702253457637369355512559909589950195972393433629954055252233038205090796405",
+            "no_probability": 0.97,
+            "no_best_bid": 0.95,
+            "no_best_ask": 0.97,
+            "no_spread": 0.020000000000000018,
+            "volume": 16813.295994999997,
+            "liquidity": 40909.590000000004,
+            "neg_risk": true,
+            "end_date": "2027-02-28T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Declining trade pact directly impacts trade deficit expectations (1 hop).",
+            "event_id": "230330",
+            "event_title": "US Trade Deficit in 2026?",
+            "event_slug": "us-trade-deficit-in-2026",
+            "detected_yes_price": 0.05,
+            "detected_no_price": 0.97,
+            "detected_at": 1782929922252,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.05,
+            "highest_no_price": 0.97
+          },
+          {
+            "id": "1436460",
+            "slug": "us-trade-deficit-in-2026",
+            "condition_id": "0xac9d6105090f5e372ceb14422889be27f4a07a8b10497786d2df5946d0d7e9c7",
+            "title": "600\u2013700B",
+            "question": "Will the 2026 trade deficit be between 600B and 700B?",
+            "description": "This market will resolve according to the annual US Goods and Services Deficit for 2026, as reported by the US Bureau of Economic Analysis (BEA) and the US Census Bureau (USCB) in the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026, expected to be released in February 2027.\n\nUpon publication, the specified release will be made available at: https://www.bea.gov/news/current-releases\n\nThe relevant figure may be found in the annual summary under \u201cExports, Imports, and Balance (exhibit 1)\u201d. Changes in the BEA or USCB\u2019s reporting format will not disqualify a relevant published figure from counting.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe primary resolution source for this market will be the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 from the US Bureau of Economic Analysis and the US Census Bureau. If this release is not published by April 30, 2027 ET, another credible source on the annual US Goods and Services Deficit for 2026 will be chosen.\n\nNote: any revisions to the annual US Goods and Services Deficit for 2026 made after the publication of the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-trade-deficit-in-2026-Hn37ZN5inoET.jpg",
+            "yes_token_id": "27973691964766109836544315595854712262337866225236386768284652101613679398793",
+            "yes_probability": 0.149,
+            "yes_best_bid": 0.068,
+            "yes_best_ask": 0.149,
+            "yes_spread": 0.08099999999999999,
+            "no_token_id": "10172566073036860034393519395720286395513476290773008122020667669817961861000",
+            "no_probability": 0.932,
+            "no_best_bid": 0.851,
+            "no_best_ask": 0.932,
+            "no_spread": 0.08100000000000007,
+            "volume": 505.23353800000007,
+            "liquidity": 174703.63000000018,
+            "neg_risk": true,
+            "end_date": "2027-02-28T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Declining trade pact directly impacts trade deficit expectations (1 hop).",
+            "event_id": "230330",
+            "event_title": "US Trade Deficit in 2026?",
+            "event_slug": "us-trade-deficit-in-2026",
+            "detected_yes_price": 0.148,
+            "detected_no_price": 0.94,
+            "detected_at": 1782929922252,
+            "highest_price_change": 0.013513513513513526,
+            "highest_yes_price": 0.15,
+            "highest_no_price": 0.948,
+            "first_moved_at": 1782986362145,
+            "moved_side": "yes",
+            "peaked_at": 1782986362145
+          },
+          {
+            "id": "1436463",
+            "slug": "us-trade-deficit-in-2026",
+            "condition_id": "0x26b69058c1c2c53a8e439504a8755ce75d469ba3a1c82bca934ea7a46f26529e",
+            "title": "900B\u20131T",
+            "question": "Will the 2026 trade deficit be between 900B and 1T?",
+            "description": "This market will resolve according to the annual US Goods and Services Deficit for 2026, as reported by the US Bureau of Economic Analysis (BEA) and the US Census Bureau (USCB) in the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026, expected to be released in February 2027.\n\nUpon publication, the specified release will be made available at: https://www.bea.gov/news/current-releases\n\nThe relevant figure may be found in the annual summary under \u201cExports, Imports, and Balance (exhibit 1)\u201d. Changes in the BEA or USCB\u2019s reporting format will not disqualify a relevant published figure from counting.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe primary resolution source for this market will be the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 from the US Bureau of Economic Analysis and the US Census Bureau. If this release is not published by April 30, 2027 ET, another credible source on the annual US Goods and Services Deficit for 2026 will be chosen.\n\nNote: any revisions to the annual US Goods and Services Deficit for 2026 made after the publication of the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-trade-deficit-in-2026-Hn37ZN5inoET.jpg",
+            "yes_token_id": "106954541463172441153958311986648134847708254123222442997405232679090482865750",
+            "yes_probability": 0.15,
+            "yes_best_bid": 0.07,
+            "yes_best_ask": 0.15,
+            "yes_spread": 0.07999999999999999,
+            "no_token_id": "61472080815013929868564565937575699345479156899354364969053537768689252061185",
+            "no_probability": 0.93,
+            "no_best_bid": 0.85,
+            "no_best_ask": 0.93,
+            "no_spread": 0.08000000000000007,
+            "volume": 1085.7941500000002,
+            "liquidity": 141032.12000000002,
+            "neg_risk": true,
+            "end_date": "2027-02-28T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Declining trade pact directly impacts trade deficit expectations (1 hop).",
+            "event_id": "230330",
+            "event_title": "US Trade Deficit in 2026?",
+            "event_slug": "us-trade-deficit-in-2026",
+            "detected_yes_price": 0.17,
+            "detected_no_price": 0.9,
+            "detected_at": 1782929922252,
+            "highest_price_change": 0.058823529411764594,
+            "highest_yes_price": 0.18,
+            "highest_no_price": 0.93,
+            "first_moved_at": 1782929929794,
+            "moved_side": "yes",
+            "peaked_at": 1782986796049
+          }
+        ],
+        "topics": [
+          "elon-musk",
+          "ai-tech"
+        ],
+        "categories": [
+          "tech",
+          "climate"
+        ]
+      },
+      "related_market": {
+        "id": "1436462",
+        "slug": "us-trade-deficit-in-2026",
+        "condition_id": "0xd3c6552a51528c74c28471aa0a5e13fbafdf84f02a40d11bf173b94032b7e7ef",
+        "title": "800\u2013900B",
+        "question": "Will the 2026 trade deficit be between 800B and 900B?",
+        "description": "This market will resolve according to the annual US Goods and Services Deficit for 2026, as reported by the US Bureau of Economic Analysis (BEA) and the US Census Bureau (USCB) in the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026, expected to be released in February 2027.\n\nUpon publication, the specified release will be made available at: https://www.bea.gov/news/current-releases\n\nThe relevant figure may be found in the annual summary under \u201cExports, Imports, and Balance (exhibit 1)\u201d. Changes in the BEA or USCB\u2019s reporting format will not disqualify a relevant published figure from counting.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe primary resolution source for this market will be the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 from the US Bureau of Economic Analysis and the US Census Bureau. If this release is not published by April 30, 2027 ET, another credible source on the annual US Goods and Services Deficit for 2026 will be chosen.\n\nNote: any revisions to the annual US Goods and Services Deficit for 2026 made after the publication of the \u201cU.S. International Trade in Goods and Services\u201d release for December and Annual 2026 will not be considered.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-trade-deficit-in-2026-Hn37ZN5inoET.jpg",
+        "yes_token_id": "44017019315782922634457300618919482744803730196875933928315824275516729043334",
+        "yes_probability": 0.49,
+        "yes_best_bid": 0.3,
+        "yes_best_ask": 0.49,
+        "yes_spread": 0.19,
+        "no_token_id": "55867192153318522579011935519518933000287056983134864115793841072368253621603",
+        "no_probability": 0.7,
+        "no_best_bid": 0.51,
+        "no_best_ask": 0.7,
+        "no_spread": 0.18999999999999995,
+        "volume": 1007.858232,
+        "liquidity": 136982.89000000004,
+        "neg_risk": true,
+        "end_date": "2027-02-28T00:00:00Z",
+        "categories": [
+          "economy"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Declining trade pact directly impacts trade deficit expectations (1 hop).",
+        "event_id": "230330",
+        "event_title": "US Trade Deficit in 2026?",
+        "event_slug": "us-trade-deficit-in-2026",
+        "detected_yes_price": 0.43,
+        "detected_no_price": 0.72,
+        "detected_at": 1782929922252,
+        "highest_price_change": 0.2558139534883722,
+        "highest_yes_price": 0.54,
+        "highest_no_price": 0.72,
+        "first_moved_at": 1782930127082,
+        "moved_side": "yes",
+        "peaked_at": 1782985710673
+      },
+      "_scraped_at": "2026-07-02T14:36:10.492891+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 4,
+      "feed_item": {
+        "id": "ce52eddd-60c1-42dd-943c-bf0f29805b17",
+        "timestamp": 1782974700215,
+        "tweet": {
+          "feed_item_id": "ce52eddd-60c1-42dd-943c-bf0f29805b17",
+          "post_id": "2072572227468284297",
+          "post_type": "tweet",
+          "created_at": 1782974700215,
+          "user": {
+            "uid": "1115874631",
+            "handle": "CGTNOfficial",
+            "display_name": "CGTN",
+            "pfp": "https://pbs.twimg.com/profile_images/1246467745975156738/hicJQmq0.jpg"
+          },
+          "tags": [
+            "politics"
+          ],
+          "body": "Iran-US indirect talks in Doha conclude, covering frozen assets, Strait of Hormuz https://news.cgtn.com/news/2026-07-02/Iran-US-indirect-talks-in-Doha-conclude-covering-Strait-of-Hormuz-1OrAel9ex32/p.html",
+          "link": "https://twitter.com/CGTNOfficial/status/2072572227468284297",
+          "attachments": [
+            {
+              "kind": "photo",
+              "src": "https://pbs.twimg.com/card_img/2072520343021924353/-YJ58Hbb?format=jpg&name=orig"
+            }
+          ]
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "IR",
+        "countries": [
+          "IR",
+          "QA"
+        ],
+        "related_markets": [
+          {
+            "id": "2646849",
+            "slug": "next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+            "condition_id": "0x79c850d5dd022d89aaf4f92105657d7a2e0518d4e4d4cf6cdce44d385fe029a7",
+            "title": "July 10",
+            "question": "US x Iran diplomatic meeting by July 10, 2026?",
+            "description": "On June 22, the first round of U.S.-Iran diplomatic talks in Switzerland concluded, with mediators reporting progress toward a roadmap for a final deal and follow-on technical talks expected to continue.(see: https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks). \n\nThis market will resolve to \u201cYes\u201d if the next formal senior-level round of peace talks between representatives of the United States and Iran begins by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo.\u201d\n\nA qualifying round must be a deliberate in-person diplomatic meeting or negotiating round concerning US-Iran relations, involving senior representatives of both the United States and Iran who are acting in an official capacity and are authorized to conduct or materially direct diplomacy on behalf of their governments.\n\nIndirect in-person diplomacy through designated mediators, facilitators, or interlocutors will qualify, provided senior representatives of both the United States and Iran are participating in the same formal diplomatic process with the knowledge and authorization of their respective governments. The representatives need not be in the same room at the same time.\n\nFollow-on technical talks from the June 22 Switzerland round will not qualify by themselves. Technical, staff-level, working-group, implementation, monitoring, preparatory, or deconfliction meetings will not qualify unless they occur as part of a new formally convened senior-level U.S.-Iran peace-talks round.\n\nBrief greetings, chance encounters, photo opportunities, ceremonial appearances, or talks not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of the United States and Iran, and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-meeting-by-9btZGbUg-ikA.jpg",
+            "yes_token_id": "5146937358519020769008195118872413556730822166860975473115035755844494719521",
+            "yes_probability": 0.06,
+            "yes_best_bid": 0.05,
+            "yes_best_ask": 0.06,
+            "yes_spread": 0.009999999999999995,
+            "no_token_id": "19480842479182390622363413357307365857330305295526757900461399761636587956987",
+            "no_probability": 0.95,
+            "no_best_bid": 0.94,
+            "no_best_ask": 0.95,
+            "no_spread": 0.010000000000000009,
+            "volume": 502189.69897668913,
+            "liquidity": 443746.63,
+            "neg_risk": false,
+            "end_date": "2026-07-10T23:59:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Direct conclusion of talks indicates likelihood of next meeting.",
+            "event_id": "624218",
+            "event_title": "Next round of US-Iran peace talks by...?",
+            "event_slug": "next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+            "detected_yes_price": 0.11,
+            "detected_no_price": 0.9,
+            "detected_at": 1782974773540,
+            "highest_price_change": 0.05555555555555548,
+            "highest_yes_price": 0.11,
+            "highest_no_price": 0.95,
+            "first_moved_at": 1782985707850,
+            "moved_side": "no",
+            "peaked_at": 1782995230317
+          },
+          {
+            "id": "2685911",
+            "slug": "next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+            "condition_id": "0x325d2f917428a0d39ac7563770ec519208666b8c926091de1a1934d8570b64cd",
+            "title": "July 17",
+            "question": "US x Iran diplomatic meeting by July 17, 2026?",
+            "description": "On June 22, the first round of U.S.-Iran diplomatic talks in Switzerland concluded, with mediators reporting progress toward a roadmap for a final deal and follow-on technical talks expected to continue.(see: https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks). \n\nThis market will resolve to \u201cYes\u201d if the next formal senior-level round of peace talks between representatives of the United States and Iran begins by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo.\u201d\n\nA qualifying round must be a deliberate in-person diplomatic meeting or negotiating round concerning US-Iran relations, involving senior representatives of both the United States and Iran who are acting in an official capacity and are authorized to conduct or materially direct diplomacy on behalf of their governments.\n\nIndirect in-person diplomacy through designated mediators, facilitators, or interlocutors will qualify, provided senior representatives of both the United States and Iran are participating in the same formal diplomatic process with the knowledge and authorization of their respective governments. The representatives need not be in the same room at the same time.\n\nFollow-on technical talks from the June 22 Switzerland round will not qualify by themselves. Technical, staff-level, working-group, implementation, monitoring, preparatory, or deconfliction meetings will not qualify unless they occur as part of a new formally convened senior-level U.S.-Iran peace-talks round.\n\nBrief greetings, chance encounters, photo opportunities, ceremonial appearances, or talks not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of the United States and Iran, and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-meeting-by-9btZGbUg-ikA.jpg",
+            "yes_token_id": "61185693373091340617494150277851514641770797636186465474956889484881632951438",
+            "yes_probability": 0.21,
+            "yes_best_bid": 0.19,
+            "yes_best_ask": 0.21,
+            "yes_spread": 0.01999999999999999,
+            "no_token_id": "12926245040899451804437509621465764609213522509461670123611024472259491643478",
+            "no_probability": 0.81,
+            "no_best_bid": 0.79,
+            "no_best_ask": 0.81,
+            "no_spread": 0.020000000000000018,
+            "volume": 92823.77983219003,
+            "liquidity": 397534.81999999995,
+            "neg_risk": false,
+            "end_date": "2026-07-17T23:59:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Direct conclusion of talks indicates likelihood of next meeting.",
+            "event_id": "624218",
+            "event_title": "Next round of US-Iran peace talks by...?",
+            "event_slug": "next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+            "detected_yes_price": 0.32,
+            "detected_no_price": 0.7,
+            "detected_at": 1782974773540,
+            "highest_price_change": 0.18571428571428572,
+            "highest_yes_price": 0.32,
+            "highest_no_price": 0.83,
+            "first_moved_at": 1782974971092,
+            "moved_side": "no",
+            "peaked_at": 1782998583021
+          },
+          {
+            "id": "2646931",
+            "slug": "where-will-the-next-next-round-of-us-iran-peace-talks-beptptpt-20260623023740663",
+            "condition_id": "0x464af35d1def5794611bd957668aba74154d52296a3ac3be5f1beabeb3b927d9",
+            "title": "Other - Europe",
+            "question": "Will the next diplomatic US-Iran meeting be in another European country by September 30, 2026?",
+            "description": "On June 22, the first round of U.S.-Iran diplomatic talks in Switzerland concluded, with mediators reporting progress toward a roadmap for a final deal and follow-on technical talks expected to continue (see: https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks).\n\nThis market will resolve according to the country in which the next formal senior-level round of peace talks between representatives of the United States and Iran begins by September 30, 2026, 11:59 PM ET.\n\nA qualifying round must be a deliberate in-person diplomatic meeting or negotiating round concerning US-Iran relations, involving senior representatives of both the United States and Iran who are acting in an official capacity and are authorized to conduct or materially direct diplomacy on behalf of their governments.\n\nIndirect in-person diplomacy through designated mediators, facilitators, or interlocutors will qualify, provided senior representatives of both the United States and Iran are participating in the same formal diplomatic process with the knowledge and authorization of their respective governments. The representatives need not be in the same room at the same time.\n\nFollow-on technical talks from the June 22 Switzerland round will not qualify by themselves. Technical, staff-level, working-group, implementation, monitoring, preparatory, or deconfliction meetings will not qualify unless they occur as part of a new formally convened senior-level U.S.-Iran peace-talks round.\n\nBrief greetings, chance encounters, photo opportunities, ceremonial appearances, or talks not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nIf a qualifying round occurs in more than one country, resolution will be based on the country where the first qualifying senior-level diplomatic session begins.\n\nIf the next qualifying round begins in any country in the Middle East or North Africa other than the listed options, this market will resolve to \u201cOther - Middle East/North Africa.\u201d\n\nIf the next qualifying round begins in any country in Europe other than the listed options, this market will resolve to \u201cOther - Europe.\u201d\n\nFor purposes of this market, countries\u2019 regions will be determined based on the U.S. State Department\u2019s regional classifications in the \u201cCountries and Areas List\u201d (https://www.state.gov/countries-and-areas-list). Any country classified as part of \u201cEurope and Eurasia\u201d will be considered to be in Europe. Any country classified as part of \u201cNear East (Middle East and North Africa)\u201d will be considered to be in the Middle East/North Africa.\n\nIf the next qualifying round begins in any unlisted country that is not classified in either specified region, this market will resolve to \u201cOther.\u201d\n\nIf no qualifying round begins by September 30, 2026, 11:59 PM ET, this market will resolve to \u201cNo Meeting by September 30.\u201d\n\nThe resolution sources for this market will be official information from the governments of the United States and Iran, and a consensus of credible reporting.\n",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-meeting-by-9btZGbUg-ikA.jpg",
+            "yes_token_id": "67346562719574279270405703943399752967967222447235458604412270971799390510058",
+            "yes_probability": 0.009,
+            "yes_best_bid": 0.005,
+            "yes_best_ask": 0.009,
+            "yes_spread": 0.003999999999999999,
+            "no_token_id": "81156671681926935132901184154631201365954018938295113074030131720928581227764",
+            "no_probability": 0.995,
+            "no_best_bid": 0.991,
+            "no_best_ask": 0.995,
+            "no_spread": 0.0040000000000000036,
+            "volume": 33963.44667299998,
+            "liquidity": 515016.22,
+            "neg_risk": true,
+            "end_date": "2026-09-30T23:59:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Conclusion of talks suggests Europe as a potential venue.",
+            "event_id": "624242",
+            "event_title": "Where will the next next round of US-Iran peace talks be...?",
+            "event_slug": "where-will-the-next-next-round-of-us-iran-peace-talks-beptptpt-20260623023740663",
+            "detected_yes_price": 0.009,
+            "detected_no_price": 0.996,
+            "detected_at": 1782974773540,
+            "highest_price_change": 0.11111111111111122,
+            "highest_yes_price": 0.01,
+            "highest_no_price": 0.997,
+            "first_moved_at": 1782992000459,
+            "moved_side": "yes",
+            "peaked_at": 1782992000459
+          },
+          {
+            "id": "2672029",
+            "slug": "who-will-attend-a-round-of-us-iran-peace-by-august-31-20260623143114130",
+            "condition_id": "0x613bd4a97f627af4f9ba0dcfc806e865c956f2863be804956502998e4984cc03",
+            "title": "Donald Trump",
+            "question": "Will Donald Trump attend a US x Iran diplomatic meeting by August 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if the listed individual attends any formal senior-level round of peace talks between representatives of the United States and Iran between market creation and August 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA qualifying round must be a deliberate in-person diplomatic meeting or negotiating round concerning US-Iran relations, involving senior representatives of both the United States and Iran who are acting in an official capacity and are authorized to conduct or materially direct diplomacy on behalf of their governments.\n\nIndirect in-person diplomacy through designated mediators, facilitators, or interlocutors will qualify, provided senior representatives of both the United States and Iran are participating in the same formal diplomatic process with the knowledge and authorization of their respective governments. The representatives need not be in the same room at the same time.\n\nFollow-on technical talks from the June 22 Switzerland round will not qualify by themselves. Technical, staff-level, working-group, implementation, monitoring, preparatory, or deconfliction meetings will not qualify unless they occur as part of a new formally convened senior-level U.S.-Iran peace-talks round.\n\nBrief greetings, chance encounters, photo opportunities, ceremonial appearances, or talks not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nAttendance refers to the listed individual being physically present and actively participating.\n\nIf a formal senior-level round of peace talks between representatives of the United States and Iran takes place over multiple days, attendance at any part of the meeting will qualify.\n\nThe primary resolution source for this market will be official information from the listed individual and the governments of the United States and Iran; however, a consensus of credible reporting will also be used.",
+            "image": "",
+            "yes_token_id": "98395852483043868338635559200262807241274699328953672487641412616578572297444",
+            "yes_probability": 0.08,
+            "yes_best_bid": 0.07,
+            "yes_best_ask": 0.08,
+            "yes_spread": 0.009999999999999995,
+            "no_token_id": "73053764994707942754940267736151361963825134314597267536177587354614707105599",
+            "no_probability": 0.93,
+            "no_best_bid": 0.92,
+            "no_best_ask": 0.93,
+            "no_spread": 0.010000000000000009,
+            "volume": 80.75555,
+            "liquidity": 127906.77,
+            "neg_risk": false,
+            "end_date": "2026-08-31T23:59:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Conclusion of talks suggests potential attendance by Trump.",
+            "event_id": "630527",
+            "event_title": "Who will attend a round of US-Iran peace talks by August 31?",
+            "event_slug": "who-will-attend-a-round-of-us-iran-peace-by-august-31-20260623143114130",
+            "detected_yes_price": 0.14,
+            "detected_no_price": 0.9,
+            "detected_at": 1782974773540,
+            "highest_price_change": 0.07142857142857129,
+            "highest_yes_price": 0.15,
+            "highest_no_price": 0.93,
+            "first_moved_at": 1782974791607,
+            "moved_side": "yes",
+            "peaked_at": 1782974791607
+          },
+          {
+            "id": "2672039",
+            "slug": "who-will-attend-a-round-of-us-iran-peace-by-august-31-20260623143114130",
+            "condition_id": "0x2d9c9b1a8a4d17ba216a3c2d8a6e3e505e4fa93481e837b5fae7f3097be4fe4a",
+            "title": "Majid Takht-Ravanchi",
+            "question": "Will Majid Takht-Ravanchi attend a US x Iran diplomatic meeting by August 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if the listed individual attends any formal senior-level round of peace talks between representatives of the United States and Iran between market creation and August 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA qualifying round must be a deliberate in-person diplomatic meeting or negotiating round concerning US-Iran relations, involving senior representatives of both the United States and Iran who are acting in an official capacity and are authorized to conduct or materially direct diplomacy on behalf of their governments.\n\nIndirect in-person diplomacy through designated mediators, facilitators, or interlocutors will qualify, provided senior representatives of both the United States and Iran are participating in the same formal diplomatic process with the knowledge and authorization of their respective governments. The representatives need not be in the same room at the same time.\n\nFollow-on technical talks from the June 22 Switzerland round will not qualify by themselves. Technical, staff-level, working-group, implementation, monitoring, preparatory, or deconfliction meetings will not qualify unless they occur as part of a new formally convened senior-level U.S.-Iran peace-talks round.\n\nBrief greetings, chance encounters, photo opportunities, ceremonial appearances, or talks not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nAttendance refers to the listed individual being physically present and actively participating.\n\nIf a formal senior-level round of peace talks between representatives of the United States and Iran takes place over multiple days, attendance at any part of the meeting will qualify.\n\nThe primary resolution source for this market will be official information from the listed individual and the governments of the United States and Iran; however, a consensus of credible reporting will also be used.",
+            "image": "",
+            "yes_token_id": "38669300523655004222800770274354451511225852096250696330633542554488876514712",
+            "yes_probability": 0.49,
+            "yes_best_bid": 0.47,
+            "yes_best_ask": 0.49,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "33240770141935497505764950784505815998512055297960760694600260017205279326284",
+            "no_probability": 0.53,
+            "no_best_bid": 0.51,
+            "no_best_ask": 0.53,
+            "no_spread": 0.020000000000000018,
+            "volume": 191.08,
+            "liquidity": 2754.5400000000004,
+            "neg_risk": false,
+            "end_date": "2026-08-31T23:59:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Conclusion of talks suggests potential attendance by Takht-Ravanchi.",
+            "event_id": "630527",
+            "event_title": "Who will attend a round of US-Iran peace talks by August 31?",
+            "event_slug": "who-will-attend-a-round-of-us-iran-peace-by-august-31-20260623143114130",
+            "detected_yes_price": 0.49,
+            "detected_no_price": 0.53,
+            "detected_at": 1782974773540,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.49,
+            "highest_no_price": 0.53
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 9,
+            "price": 67.751
+          }
+        ],
+        "topics": [
+          "ai-tech",
+          "iran-regime"
+        ],
+        "categories": [
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "2685911",
+        "slug": "next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+        "condition_id": "0x325d2f917428a0d39ac7563770ec519208666b8c926091de1a1934d8570b64cd",
+        "title": "July 17",
+        "question": "US x Iran diplomatic meeting by July 17, 2026?",
+        "description": "On June 22, the first round of U.S.-Iran diplomatic talks in Switzerland concluded, with mediators reporting progress toward a roadmap for a final deal and follow-on technical talks expected to continue.(see: https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks). \n\nThis market will resolve to \u201cYes\u201d if the next formal senior-level round of peace talks between representatives of the United States and Iran begins by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo.\u201d\n\nA qualifying round must be a deliberate in-person diplomatic meeting or negotiating round concerning US-Iran relations, involving senior representatives of both the United States and Iran who are acting in an official capacity and are authorized to conduct or materially direct diplomacy on behalf of their governments.\n\nIndirect in-person diplomacy through designated mediators, facilitators, or interlocutors will qualify, provided senior representatives of both the United States and Iran are participating in the same formal diplomatic process with the knowledge and authorization of their respective governments. The representatives need not be in the same room at the same time.\n\nFollow-on technical talks from the June 22 Switzerland round will not qualify by themselves. Technical, staff-level, working-group, implementation, monitoring, preparatory, or deconfliction meetings will not qualify unless they occur as part of a new formally convened senior-level U.S.-Iran peace-talks round.\n\nBrief greetings, chance encounters, photo opportunities, ceremonial appearances, or talks not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of the United States and Iran, and a consensus of credible reporting.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-meeting-by-9btZGbUg-ikA.jpg",
+        "yes_token_id": "61185693373091340617494150277851514641770797636186465474956889484881632951438",
+        "yes_probability": 0.21,
+        "yes_best_bid": 0.19,
+        "yes_best_ask": 0.21,
+        "yes_spread": 0.01999999999999999,
+        "no_token_id": "12926245040899451804437509621465764609213522509461670123611024472259491643478",
+        "no_probability": 0.81,
+        "no_best_bid": 0.79,
+        "no_best_ask": 0.81,
+        "no_spread": 0.020000000000000018,
+        "volume": 92823.77983219003,
+        "liquidity": 397534.81999999995,
+        "neg_risk": false,
+        "end_date": "2026-07-17T23:59:00Z",
+        "categories": [
+          "politics",
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Direct conclusion of talks indicates likelihood of next meeting.",
+        "event_id": "624218",
+        "event_title": "Next round of US-Iran peace talks by...?",
+        "event_slug": "next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+        "detected_yes_price": 0.32,
+        "detected_no_price": 0.7,
+        "detected_at": 1782974773540,
+        "highest_price_change": 0.18571428571428572,
+        "highest_yes_price": 0.32,
+        "highest_no_price": 0.83,
+        "first_moved_at": 1782974971092,
+        "moved_side": "no",
+        "peaked_at": 1782998583021
+      },
+      "_scraped_at": "2026-07-02T14:36:10.492891+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "valid": false,
+      "_scraped_at": "2026-07-02T14:36:10.492891+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "global_tension_score": 59,
+      "global_tension_level": "ELEVATED",
+      "countries": [
+        {
+          "country": "RU",
+          "count": 30,
+          "recent": [
+            {
+              "id": "675d976e-e589-4894-a7e9-d44ba7995965",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782994739017
+            },
+            {
+              "id": "f151ce60-60cc-442d-a1f4-505e9dce110e",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1782984991446
+            },
+            {
+              "id": "e3ca5087-4200-4de9-8e80-952d929780d2",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782992187294
+            },
+            {
+              "id": "7223fca6-2c52-4d34-b254-a8e55c7fb608",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782985268826
+            },
+            {
+              "id": "3502ea30-d01f-46f3-a8ea-361a73d6ee0f",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1782985291081
+            },
+            {
+              "id": "0e67e448-2b77-4b79-8e25-5c62b3ee0f9e",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1782983077000
+            },
+            {
+              "id": "64c7ce65-6406-4097-a5eb-7ad5c9baa06a",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1782981651000
+            },
+            {
+              "id": "5c856e8b-79c0-40de-8d0e-17b3462d0099",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1782987207430
+            },
+            {
+              "id": "3a9e0e5d-08ce-45ed-8d40-c4552e8fe62e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782992502428
+            },
+            {
+              "id": "3b0b6bf2-120a-486a-ad8c-421cef9b7553",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1782988110577
+            },
+            {
+              "id": "bbeff112-912d-4a39-99aa-3c2eeebd9db4",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782989344000
+            },
+            {
+              "id": "fab085a3-55a9-4201-ba81-f33de83ff8b9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783000416644
+            },
+            {
+              "id": "f53ca3b4-e1ab-47f4-a7cc-f56ceaace12a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782990415000
+            },
+            {
+              "id": "4a0fb551-316f-42e8-a8c1-0d279aa244c9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782988347518
+            },
+            {
+              "id": "865bcc3e-597e-43ab-a807-7b14c4ba8b3e",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782985384973
+            },
+            {
+              "id": "a48d1b8e-8338-4676-82a3-642ec3ef4e27",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782982330000
+            },
+            {
+              "id": "f0b7731c-e759-4a3e-b1b7-487a53f9a3fc",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782996267185
+            },
+            {
+              "id": "05c9f571-57cf-4a72-b5c0-5efa89d013ce",
+              "kind": "news",
+              "impact": "low",
+              "timestamp": 1782984398431
+            },
+            {
+              "id": "b428414c-42e6-4d39-9bf3-e8317827b1a9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782982471433
+            },
+            {
+              "id": "e8ad29f3-14b5-4287-b7b6-117c980364c4",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782987987407
+            },
+            {
+              "id": "dff7dfbc-9ece-494e-a9e7-948c6be3abee",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782985236754
+            },
+            {
+              "id": "90a19629-0e1e-4955-974f-cb8a7f63b3cf",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782997707204
+            },
+            {
+              "id": "1274d588-d0bc-43df-ad87-1bf04b3d2320",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1782984330136
+            },
+            {
+              "id": "fa12ebf5-500d-4f5a-9df6-a83c5638607f",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1782987745354
+            },
+            {
+              "id": "a380e7bb-26f6-4d9c-a174-d0414cb67196",
+              "kind": "news",
+              "impact": "low",
+              "timestamp": 1782982117664
+            }
+          ],
+          "volume": 5022346.555643156,
+          "critical_signals": 2,
+          "high_signals": 23,
+          "low_signals": 5
+        },
+        {
+          "country": "UA",
+          "count": 27,
+          "recent": [
+            {
+              "id": "675d976e-e589-4894-a7e9-d44ba7995965",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782994739017
+            },
+            {
+              "id": "f151ce60-60cc-442d-a1f4-505e9dce110e",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1782984991446
+            },
+            {
+              "id": "e3ca5087-4200-4de9-8e80-952d929780d2",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782992187294
+            },
+            {
+              "id": "7223fca6-2c52-4d34-b254-a8e55c7fb608",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782985268826
+            },
+            {
+              "id": "0e67e448-2b77-4b79-8e25-5c62b3ee0f9e",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1782983077000
+            },
+            {
+              "id": "5c856e8b-79c0-40de-8d0e-17b3462d0099",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1782987207430
+            },
+            {
+              "id": "3a9e0e5d-08ce-45ed-8d40-c4552e8fe62e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782992502428
+            },
+            {
+              "id": "2d337795-34e6-4122-87e1-2608a0f2cb65",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782989547365
+            },
+            {
+              "id": "3b0b6bf2-120a-486a-ad8c-421cef9b7553",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1782988110577
+            },
+            {
+              "id": "bbeff112-912d-4a39-99aa-3c2eeebd9db4",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782989344000
+            },
+            {
+              "id": "fab085a3-55a9-4201-ba81-f33de83ff8b9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783000416644
+            },
+            {
+              "id": "f53ca3b4-e1ab-47f4-a7cc-f56ceaace12a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782990415000
+            },
+            {
+              "id": "a12a6cb1-80fa-4597-b156-625eeca30596",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782993283000
+            },
+            {
+              "id": "4a0fb551-316f-42e8-a8c1-0d279aa244c9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782988347518
+            },
+            {
+              "id": "865bcc3e-597e-43ab-a807-7b14c4ba8b3e",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782985384973
+            },
+            {
+              "id": "a48d1b8e-8338-4676-82a3-642ec3ef4e27",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782982330000
+            },
+            {
+              "id": "f0b7731c-e759-4a3e-b1b7-487a53f9a3fc",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782996267185
+            },
+            {
+              "id": "05c9f571-57cf-4a72-b5c0-5efa89d013ce",
+              "kind": "news",
+              "impact": "low",
+              "timestamp": 1782984398431
+            },
+            {
+              "id": "b428414c-42e6-4d39-9bf3-e8317827b1a9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782982471433
+            },
+            {
+              "id": "ba58e5ce-9f9f-4400-84c0-3dd7d0427a93",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782991227320
+            },
+            {
+              "id": "dff7dfbc-9ece-494e-a9e7-948c6be3abee",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782985236754
+            },
+            {
+              "id": "fa12ebf5-500d-4f5a-9df6-a83c5638607f",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1782987745354
+            },
+            {
+              "id": "a380e7bb-26f6-4d9c-a174-d0414cb67196",
+              "kind": "news",
+              "impact": "low",
+              "timestamp": 1782982117664
+            },
+            {
+              "id": "a74af2b1-87e8-436a-9b2a-0119324bd1a6",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782985268000
+            },
+            {
+              "id": "f53b2a38-a157-4bf3-85ce-667affc64ddf",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782999056000
+            }
+          ],
+          "volume": 4952834.317382117,
+          "critical_signals": 2,
+          "high_signals": 21,
+          "low_signals": 4
+        },
+        {
+          "country": "GB",
+          "count": 21,
+          "recent": [
+            {
+              "id": "675d976e-e589-4894-a7e9-d44ba7995965",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782994739017
+            },
+            {
+              "id": "e3ca5087-4200-4de9-8e80-952d929780d2",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782992187294
+            },
+            {
+              "id": "7223fca6-2c52-4d34-b254-a8e55c7fb608",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782985268826
+            },
+            {
+              "id": "5c856e8b-79c0-40de-8d0e-17b3462d0099",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1782987207430
+            },
+            {
+              "id": "3a9e0e5d-08ce-45ed-8d40-c4552e8fe62e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782992502428
+            },
+            {
+              "id": "3b0b6bf2-120a-486a-ad8c-421cef9b7553",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1782988110577
+            },
+            {
+              "id": "bbeff112-912d-4a39-99aa-3c2eeebd9db4",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782989344000
+            },
+            {
+              "id": "f53ca3b4-e1ab-47f4-a7cc-f56ceaace12a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782990415000
+            },
+            {
+              "id": "4a0fb551-316f-42e8-a8c1-0d279aa244c9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782988347518
+            },
+            {
+              "id": "865bcc3e-597e-43ab-a807-7b14c4ba8b3e",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782985384973
+            },
+            {
+              "id": "f0b7731c-e759-4a3e-b1b7-487a53f9a3fc",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782996267185
+            },
+            {
+              "id": "05c9f571-57cf-4a72-b5c0-5efa89d013ce",
+              "kind": "news",
+              "impact": "low",
+              "timestamp": 1782984398431
+            },
+            {
+              "id": "b428414c-42e6-4d39-9bf3-e8317827b1a9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782982471433
+            },
+            {
+              "id": "ba58e5ce-9f9f-4400-84c0-3dd7d0427a93",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782991227320
+            },
+            {
+              "id": "dff7dfbc-9ece-494e-a9e7-948c6be3abee",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782985236754
+            },
+            {
+              "id": "90a19629-0e1e-4955-974f-cb8a7f63b3cf",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782997707204
+            },
+            {
+              "id": "a380e7bb-26f6-4d9c-a174-d0414cb67196",
+              "kind": "news",
+              "impact": "low",
+              "timestamp": 1782982117664
+            },
+            {
+              "id": "a74af2b1-87e8-436a-9b2a-0119324bd1a6",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782985268000
+            },
+            {
+              "id": "f53b2a38-a157-4bf3-85ce-667affc64ddf",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782999056000
+            },
+            {
+              "id": "8563f076-4056-4515-a6e4-70c06c781316",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783000929733
+            },
+            {
+              "id": "ffc44a48-8a7a-49f2-835a-ebd91507c475",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782988827725
+            }
+          ],
+          "volume": 5022346.555643157,
+          "critical_signals": 1,
+          "high_signals": 18,
+          "low_signals": 2
+        },
+        {
+          "country": "IR",
+          "count": 3,
+          "recent": [
+            {
+              "id": "fd7c1f0f-249f-463a-971b-8881f41cf5a4",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1782981812394
+            },
+            {
+              "id": "f0b7731c-e759-4a3e-b1b7-487a53f9a3fc",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782996267185
+            },
+            {
+              "id": "8563f076-4056-4515-a6e4-70c06c781316",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783000929733
+            }
+          ],
+          "volume": 1900311.178353682,
+          "critical_signals": 0,
+          "high_signals": 3,
+          "low_signals": 0
+        },
+        {
+          "country": "IL",
+          "count": 2,
+          "recent": [
+            {
+              "id": "fdeedd6b-ecf8-48cd-80c2-121300131a77",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782998103000
+            },
+            {
+              "id": "f0b7731c-e759-4a3e-b1b7-487a53f9a3fc",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782996267185
+            }
+          ],
+          "volume": 1416872.2254620008,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "DE",
+          "count": 2,
+          "recent": [
+            {
+              "id": "58f0e6ae-32b6-443e-b62d-1b0d4d9321a6",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782997119425
+            },
+            {
+              "id": "90a19629-0e1e-4955-974f-cb8a7f63b3cf",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782997707204
+            }
+          ],
+          "volume": 446697.50490572123,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "PE",
+          "count": 2,
+          "recent": [
+            {
+              "id": "e3ca5087-4200-4de9-8e80-952d929780d2",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782992187294
+            },
+            {
+              "id": "ecc8331c-becb-4183-bf2d-dee64e8d4a71",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782986307665
+            }
+          ],
+          "volume": 393446.0280216812,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "NL",
+          "count": 1,
+          "recent": [
+            {
+              "id": "90a19629-0e1e-4955-974f-cb8a7f63b3cf",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782997707204
+            }
+          ],
+          "volume": 446531.4225997212,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "LB",
+          "count": 1,
+          "recent": [
+            {
+              "id": "fdeedd6b-ecf8-48cd-80c2-121300131a77",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1782998103000
+            }
+          ],
+          "volume": 79080.03209600005,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "US",
+          "count": 1,
+          "recent": [
+            {
+              "id": "f0a5e0d0-98ee-4894-81c9-dd7403c39799",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1782983851133
+            }
+          ],
+          "volume": 446447.4231767212,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "BE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "90a19629-0e1e-4955-974f-cb8a7f63b3cf",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1782997707204
+            }
+          ],
+          "volume": 446531.4225997212,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "TR",
+          "count": 1,
+          "recent": [
+            {
+              "id": "f0a5e0d0-98ee-4894-81c9-dd7403c39799",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1782983851133
+            }
+          ],
+          "volume": 446447.4231767212,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "FI",
+          "count": 1,
+          "recent": [
+            {
+              "id": "3b0b6bf2-120a-486a-ad8c-421cef9b7553",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1782988110577
+            }
+          ],
+          "volume": 1762925.9510636819,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "PL",
+          "count": 1,
+          "recent": [
+            {
+              "id": "3b0b6bf2-120a-486a-ad8c-421cef9b7553",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1782988110577
+            }
+          ],
+          "volume": 1762925.9510636819,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        }
+      ],
+      "_scraped_at": "2026-07-02T14:36:10.492891+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
