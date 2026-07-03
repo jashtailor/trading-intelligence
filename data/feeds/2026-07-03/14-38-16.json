@@ -1,0 +1,910 @@
+{
+  "scraped_at": "2026-07-03T14:38:07.804221+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 4,
+  "items": [
+    {
+      "valid": false,
+      "_scraped_at": "2026-07-03T14:38:07.804221+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "d574f3d1-3437-4628-b970-b21d80117019",
+        "timestamp": 1783014256360,
+        "tweet": {
+          "feed_item_id": "d574f3d1-3437-4628-b970-b21d80117019",
+          "post_id": "2072738137965490578",
+          "post_type": "tweet",
+          "created_at": 1783014256360,
+          "user": {
+            "uid": "3247652319",
+            "handle": "clashreport",
+            "display_name": "Clash Report",
+            "pfp": "https://pbs.twimg.com/profile_images/1942576646457868288/gOMYVVRf.jpg"
+          },
+          "tags": [
+            "politics"
+          ],
+          "body": "\ud83d\udcf8 Russian military command held a staff exercise called \"Crimean Wake-Up Call\" (\u041a\u0440\u044b\u043c\u0441\u043a\u0430\u044f \u043f\u043e\u0431\u0443\u0434\u043a\u0430) simulating a Ukra\u2026 https://x.com/i/web/status/2072738137965490578",
+          "link": "https://twitter.com/clashreport/status/2072738137965490578"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "RU",
+        "countries": [
+          "RU",
+          "UA",
+          "GB"
+        ],
+        "related_markets": [
+          {
+            "id": "2373817",
+            "slug": "will-russia-capture-all-of-kupiansk-by",
+            "condition_id": "0xa72d5a239c10ac6cb67f109b05513ae3a23db39ab7c5d4e2afa93719f20471ba",
+            "title": "December 31",
+            "question": "Will Russia capture all of Kupiansk by December 31?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the entirety of Kupiansk by December 31, 2026, at 11:59 PM ET.\n\nKupiansk will be considered captured if the entirety of the municipality is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by December 31, 2026, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nThe territory of the municipality is shaded in light grey and is distinguished from bordering municipalities such as \"Moskovka\" with a darker grey line. If all area within the municipality is shaded in red, but the shading does not precisely match up with the border, such that there is a tiny amount of grey along the border of the city, this will still qualify for a \"Yes\" resolution.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nFor the purpose of this market, areas separated from the main municipality through a darker grey line, such as in the southeast of Kupiansk (https://polymarket-upload.s3.us-east-2.amazonaws.com/h-b99a52275d.png), will not count towards the municipality.\n\nOnce Russia captures Kupiansk, any subsequent loss of control will not be considered towards the resolution of this market.\n\nKupiansk Location: https://polymarket-upload.s3.us-east-2.amazonaws.com/Kupiansk+location.jpeg\nLocation on Google maps: https://maps.app.goo.gl/ngCjTi39GSjbzaC46 \n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map which will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of whether it is shaded red in the ISW map. An announcement of a negotiated settlement that gives Russia de jure control will not qualify. Actual control must be established.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-kupiansk-by-june-30-y9hxbGPduBlF.jpg",
+            "yes_token_id": "16620263983815473572619609020950896548271326777722860283515181418520860963393",
+            "yes_probability": 0.12,
+            "yes_best_bid": 0.1,
+            "yes_best_ask": 0.12,
+            "yes_spread": 0.01999999999999999,
+            "no_token_id": "55823320781564825042492633966056498284958282665806983910625268814384693770509",
+            "no_probability": 0.9,
+            "no_best_bid": 0.88,
+            "no_best_ask": 0.9,
+            "no_spread": 0.020000000000000018,
+            "volume": 20316.219775639995,
+            "liquidity": 39164.649999999994,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "world",
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Military exercise simulating conflict = 1 hop to capture likelihood.",
+            "event_id": "72352",
+            "event_title": "Will Russia capture all of Kupiansk by...?",
+            "event_slug": "will-russia-capture-all-of-kupiansk-by",
+            "detected_yes_price": 0.12,
+            "detected_no_price": 0.89,
+            "detected_at": 1783014282586,
+            "highest_price_change": 0.03370786516853935,
+            "highest_yes_price": 0.12,
+            "highest_no_price": 0.92,
+            "first_moved_at": 1783049979283,
+            "moved_side": "no",
+            "peaked_at": 1783060507237
+          },
+          {
+            "id": "2246417",
+            "slug": "will-russia-capture-all-of-donetsk-oblast-by",
+            "condition_id": "0xec4366aa6a191c8dc392e2b3bc874d5ce9a22637a60f33e72e869ce39c89ef4e",
+            "title": "December 31",
+            "question": "Will Russia capture all of Donetsk Oblast by December 31, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia militarily captures the entirety of Donetsk Oblast by the specified date, 11:59 PM ET.\n\nDonetsk Oblast will be considered captured when the entirety of the below-specified municipalities is simultaneously shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If those areas are not simultaneously shaded red by the resolution date, this market will resolve to \u201cNo\u201d.\n\nThe relevant municipalities in Donetsk Oblast that must be simultaneously captured in their entirety are: Kramatorsk, Sloviansk, Kostiantynivka, Druzhkivka, Pokrovsk, Dobropillia, Oleksandrivka, Cherkaske, and Sviatohirsk.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nThe territory of a municipality is shaded in light grey and is distinguished from bordering municipalities with a darker grey line. If all area within a municipality is shaded in red, however, the shading does not precisely match up with the border such that there is a tiny amount of grey along the border of the city, this may still qualify.\n\nOnce Russia has captured the entirety of the above-specified municipalities simultaneously, any subsequent loss of control will not be considered towards the resolution of this market.\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap is rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will not qualify, regardless of whether it is shaded red in the ISW map. Similarly, an announcement of a negotiated settlement that gives Russia de jure control will not qualify. Control must be established through military conquest.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-donetsk-oblast-by-june-30-2026-atOWkXn1rrer.jpg",
+            "yes_token_id": "10286739223877237963651252562288085155553554709402511784236867878518615784105",
+            "yes_probability": 0.052,
+            "yes_best_bid": 0.051,
+            "yes_best_ask": 0.052,
+            "yes_spread": 0.0010000000000000009,
+            "no_token_id": "12437301957681593661655850243500948043259775360852942759416335317104883454330",
+            "no_probability": 0.949,
+            "no_best_bid": 0.948,
+            "no_best_ask": 0.949,
+            "no_spread": 0.0010000000000000009,
+            "volume": 156624.05778402375,
+            "liquidity": 320530.46999999974,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Military exercise simulating action = 1 hop to capture probability.",
+            "event_id": "139550",
+            "event_title": "Will Russia capture all of Donetsk Oblast by...?",
+            "event_slug": "will-russia-capture-all-of-donetsk-oblast-by",
+            "detected_yes_price": 0.05,
+            "detected_no_price": 0.954,
+            "detected_at": 1783014282586,
+            "highest_price_change": 0.0399999999999999,
+            "highest_yes_price": 0.052,
+            "highest_no_price": 0.954,
+            "first_moved_at": 1783014843092,
+            "moved_side": "yes",
+            "peaked_at": 1783078494251
+          },
+          {
+            "id": "1090496",
+            "slug": "nato-x-russia-military-clash-in-2025",
+            "condition_id": "0xf2bf04609e7458df56c9bb4b1e051286dea11da1c944bbc1dafbcc6b76904e52",
+            "title": "December 31",
+            "question": "NATO x Russia military clash by December 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if there is a military encounter between the military forces of a NATO country and Russia between January 2, and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nA \"military encounter\" is defined as any incident involving the use of force such as missile strikes, artillery fire, exchange of gunfire, or other forms of direct military engagement between NATO and Russian military forces. Non-violent actions, such as airspace violations, firing of warning shots (such as the June, 2021 Black Sea Confrontations between Russian forces and HMS Defender), or cyberattacks will not qualify.\n\nInterception of missiles or other one-way attack or loitering munitions (e.g. Shahed drones) which are targeting a 3rd party other than the listed countries or their respective forces will not alone qualify. Shooting down UAVs which are not munitions (e.g. MQ-9, Orlan 10, Orion, Bayraktar TB2, etc.) will qualify.\n\nIntentional physical collisions, including aerial interceptions and naval ramming without the direct use of weaponry, such as the 2023 Black Sea incident\u2014where a Russian Su-27 damaged a U.S. MQ-9 Reaper drone's propeller, leading to its crash\u2014 will not qualify regardless of damage.\n\nMilitary contractors will qualify only if confirmed to be operating under the direct command or coordination of the respective state\u2019s armed forces (e.g. the Battle of Khasham would not qualify).\n\nThe resolution source for this market will be a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nato-x-russia-military-clash-in-2025-DteCDkmbVLj_.jpg",
+            "yes_token_id": "105031123790227090351610621121319179238510007553875150023320472711583933704999",
+            "yes_probability": 0.23,
+            "yes_best_bid": 0.22,
+            "yes_best_ask": 0.23,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "76326875711147697076353707331532227929486722415800396469798548611383212234361",
+            "no_probability": 0.78,
+            "no_best_bid": 0.77,
+            "no_best_ask": 0.78,
+            "no_spread": 0.010000000000000009,
+            "volume": 406483.1139411308,
+            "liquidity": 506293.70999999996,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Military exercise simulating conflict = 1 hop to clash probability.",
+            "event_id": "48930",
+            "event_title": "NATO x Russia military clash by...?",
+            "event_slug": "nato-x-russia-military-clash-in-2025",
+            "detected_yes_price": 0.14,
+            "detected_no_price": 0.87,
+            "detected_at": 1783014282586,
+            "highest_price_change": 0.7857142857142856,
+            "highest_yes_price": 0.25,
+            "highest_no_price": 0.89,
+            "first_moved_at": 1783015091029,
+            "moved_side": "yes",
+            "peaked_at": 1783069565332
+          },
+          {
+            "id": "2125379",
+            "slug": "will-russia-capture-all-of-prymorske-by",
+            "condition_id": "0x27f3e18c14d722d384fdc20f7ed0f7038b19d56d191b36da72762ebbf17f3081",
+            "title": "September 30",
+            "question": "Will Russia capture all of Prymorske by September 30, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the entirety of Prymorske, Zaporizhzhia Oblast, by September 30, 2026, 11:59 PM ET.\n\nPrymorske will be considered captured if the entirety of the municipality is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by September 30, 2026, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nThe territory of the municipality is shaded in light grey and is distinguished from bordering municipalities such as \"Stepnohirsk\" with a darker grey line. If all area within the municipality is shaded in red, however, the shading does not precisely match up with the border such that there is a tiny amount of grey along the border of the city, this will still qualify for a \"Yes\" resolution.\n\nOnce Russia captures the entirety of Prymorske, any subsequent loss of control will not be considered towards the resolution of this market.\n\nLocation on Google maps: https://maps.app.goo.gl/K7mS2YU7bZoVVHga9\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map which will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of if it is shaded red in the ISW map. An announcement of a negotiated settlement which gives Russia de jure control will not qualify. Actual control must be established.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-prymorske-by-april-30-2026-DpHD61x_Ap_N.jpg",
+            "yes_token_id": "62144742210971208278696936141611556807905696657920695628150040740104692189206",
+            "yes_probability": 0.054,
+            "yes_best_bid": 0.049,
+            "yes_best_ask": 0.054,
+            "yes_spread": 0.0049999999999999975,
+            "no_token_id": "98944918857405606137810340449921239097996041419914154134190979719169266881957",
+            "no_probability": 0.951,
+            "no_best_bid": 0.946,
+            "no_best_ask": 0.951,
+            "no_spread": 0.0050000000000000044,
+            "volume": 71165.69623900001,
+            "liquidity": 599484.2400000001,
+            "neg_risk": false,
+            "end_date": "2026-09-30T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Exercise simulating military action = 1 hop to capture likelihood.",
+            "event_id": "131623",
+            "event_title": "Will Russia capture all of Prymorske by...?",
+            "event_slug": "will-russia-capture-all-of-prymorske-by",
+            "detected_yes_price": 0.065,
+            "detected_no_price": 0.952,
+            "detected_at": 1783014282586,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.065,
+            "highest_no_price": 0.952
+          },
+          {
+            "id": "2125383",
+            "slug": "will-russia-capture-all-of-prymorske-by",
+            "condition_id": "0x9051c339493374b28c5348337a3928890127228cac85dc270b928c805789052e",
+            "title": "December 31",
+            "question": "Will Russia capture all of Prymorske by December 31, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the entirety of Prymorske, Zaporizhzhia Oblast, by December 31, 2026, 11:59 PM ET.\n\nPrymorske will be considered captured if the entirety of the municipality is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by December 31, 2026, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nThe territory of the municipality is shaded in light grey and is distinguished from bordering municipalities such as \"Stepnohirsk\" with a darker grey line. If all area within the municipality is shaded in red, however, the shading does not precisely match up with the border such that there is a tiny amount of grey along the border of the city, this will still qualify for a \"Yes\" resolution.\n\nOnce Russia captures the entirety of Prymorske, any subsequent loss of control will not be considered towards the resolution of this market.\n\nLocation on Google maps: https://maps.app.goo.gl/K7mS2YU7bZoVVHga9\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map which will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of if it is shaded red in the ISW map. An announcement of a negotiated settlement which gives Russia de jure control will not qualify. Actual control must be established.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-prymorske-by-april-30-2026-DpHD61x_Ap_N.jpg",
+            "yes_token_id": "28973723560426996031408842976019851055790661167079359472177710649429036274394",
+            "yes_probability": 0.1,
+            "yes_best_bid": 0.08,
+            "yes_best_ask": 0.1,
+            "yes_spread": 0.020000000000000004,
+            "no_token_id": "60723272638491203222333518330527122876237274459371689952180825288347810204632",
+            "no_probability": 0.92,
+            "no_best_bid": 0.9,
+            "no_best_ask": 0.92,
+            "no_spread": 0.020000000000000018,
+            "volume": 34123.60056300001,
+            "liquidity": 59615.75999999999,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Military exercise simulating action = 1 hop to capture probability.",
+            "event_id": "131623",
+            "event_title": "Will Russia capture all of Prymorske by...?",
+            "event_slug": "will-russia-capture-all-of-prymorske-by",
+            "detected_yes_price": 0.09,
+            "detected_no_price": 0.92,
+            "detected_at": 1783014282586,
+            "highest_price_change": 0.11111111111111122,
+            "highest_yes_price": 0.1,
+            "highest_no_price": 0.93,
+            "first_moved_at": 1783015642791,
+            "moved_side": "yes",
+            "peaked_at": 1783015642791
+          }
+        ],
+        "topics": [
+          "ukraine-war",
+          "elon-musk",
+          "shutdown"
+        ],
+        "categories": [
+          "geopolitics"
+        ]
+      },
+      "related_market": {
+        "id": "1090496",
+        "slug": "nato-x-russia-military-clash-in-2025",
+        "condition_id": "0xf2bf04609e7458df56c9bb4b1e051286dea11da1c944bbc1dafbcc6b76904e52",
+        "title": "December 31",
+        "question": "NATO x Russia military clash by December 31, 2026?",
+        "description": "This market will resolve to \"Yes\" if there is a military encounter between the military forces of a NATO country and Russia between January 2, and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nA \"military encounter\" is defined as any incident involving the use of force such as missile strikes, artillery fire, exchange of gunfire, or other forms of direct military engagement between NATO and Russian military forces. Non-violent actions, such as airspace violations, firing of warning shots (such as the June, 2021 Black Sea Confrontations between Russian forces and HMS Defender), or cyberattacks will not qualify.\n\nInterception of missiles or other one-way attack or loitering munitions (e.g. Shahed drones) which are targeting a 3rd party other than the listed countries or their respective forces will not alone qualify. Shooting down UAVs which are not munitions (e.g. MQ-9, Orlan 10, Orion, Bayraktar TB2, etc.) will qualify.\n\nIntentional physical collisions, including aerial interceptions and naval ramming without the direct use of weaponry, such as the 2023 Black Sea incident\u2014where a Russian Su-27 damaged a U.S. MQ-9 Reaper drone's propeller, leading to its crash\u2014 will not qualify regardless of damage.\n\nMilitary contractors will qualify only if confirmed to be operating under the direct command or coordination of the respective state\u2019s armed forces (e.g. the Battle of Khasham would not qualify).\n\nThe resolution source for this market will be a consensus of credible reporting.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nato-x-russia-military-clash-in-2025-DteCDkmbVLj_.jpg",
+        "yes_token_id": "105031123790227090351610621121319179238510007553875150023320472711583933704999",
+        "yes_probability": 0.23,
+        "yes_best_bid": 0.22,
+        "yes_best_ask": 0.23,
+        "yes_spread": 0.010000000000000009,
+        "no_token_id": "76326875711147697076353707331532227929486722415800396469798548611383212234361",
+        "no_probability": 0.78,
+        "no_best_bid": 0.77,
+        "no_best_ask": 0.78,
+        "no_spread": 0.010000000000000009,
+        "volume": 406483.1139411308,
+        "liquidity": 506293.70999999996,
+        "neg_risk": false,
+        "end_date": "2026-12-31T00:00:00Z",
+        "categories": [
+          "geopolitics",
+          "world"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Military exercise simulating conflict = 1 hop to clash probability.",
+        "event_id": "48930",
+        "event_title": "NATO x Russia military clash by...?",
+        "event_slug": "nato-x-russia-military-clash-in-2025",
+        "detected_yes_price": 0.14,
+        "detected_no_price": 0.87,
+        "detected_at": 1783014282586,
+        "highest_price_change": 0.7857142857142856,
+        "highest_yes_price": 0.25,
+        "highest_no_price": 0.89,
+        "first_moved_at": 1783015091029,
+        "moved_side": "yes",
+        "peaked_at": 1783069565332
+      },
+      "_scraped_at": "2026-07-03T14:38:07.804221+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 2,
+      "feed_item": {
+        "id": "0840a8fd-de11-4b07-b291-56ade5e57471",
+        "timestamp": 1783008657000,
+        "tweet": {
+          "feed_item_id": "0840a8fd-de11-4b07-b291-56ade5e57471",
+          "post_id": "2072714656326537325",
+          "post_type": "tweet",
+          "created_at": 1783008657000,
+          "user": {
+            "uid": "34713362",
+            "handle": "business",
+            "display_name": "Bloomberg",
+            "pfp": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "Russia\u2019s war on Ukraine heated up again, with a missile and drone barrage on Kyiv killing 20 people: Here\u2019s your Evening Briefing https://www.bloomberg.com/news/newsletters/2026-07-02/russia-ukraine-exchange-missile-strikes-ahead-of-nato-summit?taid=6a468d9163792900018a2bf2&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+          "link": "https://twitter.com/business/status/2072714656326537325"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "UA",
+        "countries": [
+          "UA",
+          "RU",
+          "GB"
+        ],
+        "related_markets": [
+          {
+            "id": "2591184",
+            "slug": "russia-x-ukraine-peace-talks-byptptpt-20260609012540716",
+            "condition_id": "0x8e1e5c26dec73aee98230dc0ef93a294142587ca24190c4728d4b7ff831a22e0",
+            "title": "December 31",
+            "question": "Russia-Ukraine peace talks by December 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Russia and Ukraine aimed at discussing a ceasefire, peace agreement, or other substantive de-escalation of the ongoing conflict by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Russia-Ukraine relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nMeetings or talks limited to humanitarian issues will not qualify unless they also include substantive negotiation regarding broader Russia-Ukraine peace terms, such as a ceasefire, peace agreement, territorial issues, security guarantees, or similar.\n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of Russia and Ukraine, and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-diplomatic-meeting-by-2anNp08yc15i.jpg",
+            "yes_token_id": "114038073393175685070375877302821250190661708223658125394758492913778794477403",
+            "yes_probability": 0.52,
+            "yes_best_bid": 0.51,
+            "yes_best_ask": 0.52,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "41750771425854629959289349826538829467990870639746643500760657557812686111800",
+            "no_probability": 0.49,
+            "no_best_bid": 0.48,
+            "no_best_ask": 0.49,
+            "no_spread": 0.010000000000000009,
+            "volume": 17450.193106000137,
+            "liquidity": 905545.49,
+            "neg_risk": false,
+            "end_date": "2026-12-31T20:59:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Increased military action reduces likelihood of peace talks.",
+            "event_id": "606856",
+            "event_title": "Russia x Ukraine peace talks by...?",
+            "event_slug": "russia-x-ukraine-peace-talks-byptptpt-20260609012540716",
+            "detected_yes_price": 0.52,
+            "detected_no_price": 0.49,
+            "detected_at": 1783008709852,
+            "highest_price_change": 0.03846153846153849,
+            "highest_yes_price": 0.54,
+            "highest_no_price": 0.5,
+            "first_moved_at": 1783008722016,
+            "moved_side": "yes",
+            "peaked_at": 1783015073918
+          },
+          {
+            "id": "2732525",
+            "slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+            "condition_id": "0x5f4833193b8303cfa74a35571e1e05ab301d5804360aa03e5cd9cdc027add8fc",
+            "title": "July 31",
+            "question": "Will Russia and Ukraine hold any diplomatic meeting by July 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Russia and Ukraine by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Russia-Ukraine relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of Russia and Ukraine, and a consensus of credible reporting.",
+            "image": "",
+            "yes_token_id": "75664220377459757647456485621449233559415637505632291241092085394055106279391",
+            "yes_probability": 0.31,
+            "yes_best_bid": 0.29,
+            "yes_best_ask": 0.31,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "52298829000514702690941934727403416556502645325197720971946202060258322984264",
+            "no_probability": 0.71,
+            "no_best_bid": 0.69,
+            "no_best_ask": 0.71,
+            "no_spread": 0.020000000000000018,
+            "volume": 4061.2389447,
+            "liquidity": 345974.5,
+            "neg_risk": false,
+            "end_date": "2026-07-31T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Missile strikes heighten tensions, making diplomatic meetings less likely.",
+            "event_id": "648380",
+            "event_title": "Russia x Ukraine any diplomatic meeting by...?",
+            "event_slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+            "detected_yes_price": 0.33,
+            "detected_no_price": 0.71,
+            "detected_at": 1783008709852,
+            "highest_price_change": 0.21212121212121213,
+            "highest_yes_price": 0.4,
+            "highest_no_price": 0.71,
+            "first_moved_at": 1783017985862,
+            "moved_side": "yes",
+            "peaked_at": 1783018014353
+          },
+          {
+            "id": "2732526",
+            "slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+            "condition_id": "0x4bda4a4df34e9929e7eecb7ee1adc0b6497ee79dddffe14be4b24237cd116cb7",
+            "title": "August 31",
+            "question": "Will Russia and Ukraine hold any diplomatic meeting by August 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Russia and Ukraine by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Russia-Ukraine relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of Russia and Ukraine, and a consensus of credible reporting.",
+            "image": "",
+            "yes_token_id": "63779162653681873245159865633000334437760662853972923572387274664225948677546",
+            "yes_probability": 0.65,
+            "yes_best_bid": 0.52,
+            "yes_best_ask": 0.65,
+            "yes_spread": 0.13,
+            "no_token_id": "32498948505314576966704761143540900095142072751411430571598289128995809645377",
+            "no_probability": 0.48,
+            "no_best_bid": 0.35,
+            "no_best_ask": 0.48,
+            "no_spread": 0.13,
+            "volume": 888.6654250799999,
+            "liquidity": 102845.29999999999,
+            "neg_risk": false,
+            "end_date": "2026-08-31T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Increased military action reduces likelihood of diplomatic meetings.",
+            "event_id": "648380",
+            "event_title": "Russia x Ukraine any diplomatic meeting by...?",
+            "event_slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+            "detected_yes_price": 0.65,
+            "detected_no_price": 0.43000000000000005,
+            "detected_at": 1783008709852,
+            "highest_price_change": 0.46511627906976727,
+            "highest_yes_price": 0.67,
+            "highest_no_price": 0.63,
+            "first_moved_at": 1783009229327,
+            "moved_side": "no",
+            "peaked_at": 1783009229327
+          },
+          {
+            "id": "2591183",
+            "slug": "russia-x-ukraine-peace-talks-byptptpt-20260609012540716",
+            "condition_id": "0x77b0380be9f46471b5383fd5fd0730d666b852c3c1fcc61529e0699a62f45d47",
+            "title": "September 30",
+            "question": "Russia-Ukraine peace talks by September 30, 2026?",
+            "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Russia and Ukraine aimed at discussing a ceasefire, peace agreement, or other substantive de-escalation of the ongoing conflict by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Russia-Ukraine relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nMeetings or talks limited to humanitarian issues will not qualify unless they also include substantive negotiation regarding broader Russia-Ukraine peace terms, such as a ceasefire, peace agreement, territorial issues, security guarantees, or similar.\n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of Russia and Ukraine, and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-diplomatic-meeting-by-2anNp08yc15i.jpg",
+            "yes_token_id": "98396451299063535424001248770637521563809832785133239666640843440816692687869",
+            "yes_probability": 0.33,
+            "yes_best_bid": 0.32,
+            "yes_best_ask": 0.33,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "77296121908679352434251847862979395356842679683122047698068091276062911570618",
+            "no_probability": 0.68,
+            "no_best_bid": 0.67,
+            "no_best_ask": 0.68,
+            "no_spread": 0.010000000000000009,
+            "volume": 14894.940959449981,
+            "liquidity": 603641.36,
+            "neg_risk": false,
+            "end_date": "2026-09-30T19:59:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Missile strikes increase tensions, making peace talks less likely.",
+            "event_id": "606856",
+            "event_title": "Russia x Ukraine peace talks by...?",
+            "event_slug": "russia-x-ukraine-peace-talks-byptptpt-20260609012540716",
+            "detected_yes_price": 0.35,
+            "detected_no_price": 0.6599999999999999,
+            "detected_at": 1783008709852,
+            "highest_price_change": 0.0303030303030305,
+            "highest_yes_price": 0.35,
+            "highest_no_price": 0.68,
+            "first_moved_at": 1783048364970,
+            "moved_side": "no",
+            "peaked_at": 1783048364970
+          },
+          {
+            "id": "2243896",
+            "slug": "russia-x-ukraine-ceasefire-agreement-by",
+            "condition_id": "0x6c3f1009a0c91ba9f7aae44aeadf86863b0d433b60f7a090fd00c945019aa32f",
+            "title": "October 31",
+            "question": "Russia x Ukraine ceasefire agreement by October 31, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if there is a ceasefire agreement between Russia and Ukraine by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA ceasefire agreement refers to any mutually-agreed suspension of direct military engagement between Russia and Ukraine, which is either officially announced by both countries or confirmed by a consensus of credible reporting to have been mutually agreed by both countries.\n\nA broader peace deal, normalization agreement, political framework, truce, or humanitarian pause will qualify if it includes a mutually agreed suspension of direct military engagement, to be effective on a specified date. Agreements that outline future negotiations or de-escalation measures without an explicit, dated commitment to stop fighting will not qualify.\n\nAny form of informal understanding, backchannel communication, de-escalation without an announced agreement, or unilateral pause in hostilities will not be considered a ceasefire agreement.\n\nOnly agreements which constitute a general pause in the conflict will qualify. Agreements which only apply to specific conflict categories (e.g. restrictions on certain target categories or certain locations) will not qualify.\n\nIf a qualifying agreement is officially reached before this market\u2019s end date, this market will resolve to \u201cYes,\u201d regardless of whether the ceasefire agreement officially takes effect after that date.\n\nThe primary resolution sources for this market will be official information from the governments of Russia and Ukraine and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-ceasefire-in-2025-w2voYOygx80B.jpg",
+            "yes_token_id": "10861802947610899379330568332287100318869035186187733531205554992019689450318",
+            "yes_probability": 0.25,
+            "yes_best_bid": 0.24,
+            "yes_best_ask": 0.25,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "39319769648132414476170103739900770633009012502056309868976886150530270219889",
+            "no_probability": 0.76,
+            "no_best_bid": 0.75,
+            "no_best_ask": 0.76,
+            "no_spread": 0.010000000000000009,
+            "volume": 615269.84513828,
+            "liquidity": 1655296.86,
+            "neg_risk": false,
+            "end_date": "2026-10-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Missile strikes increase tensions, making ceasefire less likely.",
+            "event_id": "478472",
+            "event_title": "Russia x Ukraine ceasefire agreement by...?",
+            "event_slug": "russia-x-ukraine-ceasefire-agreement-by",
+            "detected_yes_price": 0.25,
+            "detected_no_price": 0.76,
+            "detected_at": 1783008709852,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.25,
+            "highest_no_price": 0.76
+          }
+        ],
+        "topics": [
+          "ukraine-war",
+          "elon-musk",
+          "ai-tech"
+        ],
+        "categories": [
+          "world",
+          "climate",
+          "elections",
+          "geopolitics",
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "2732526",
+        "slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+        "condition_id": "0x4bda4a4df34e9929e7eecb7ee1adc0b6497ee79dddffe14be4b24237cd116cb7",
+        "title": "August 31",
+        "question": "Will Russia and Ukraine hold any diplomatic meeting by August 31, 2026?",
+        "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Russia and Ukraine by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Russia-Ukraine relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of Russia and Ukraine, and a consensus of credible reporting.",
+        "image": "",
+        "yes_token_id": "63779162653681873245159865633000334437760662853972923572387274664225948677546",
+        "yes_probability": 0.65,
+        "yes_best_bid": 0.52,
+        "yes_best_ask": 0.65,
+        "yes_spread": 0.13,
+        "no_token_id": "32498948505314576966704761143540900095142072751411430571598289128995809645377",
+        "no_probability": 0.48,
+        "no_best_bid": 0.35,
+        "no_best_ask": 0.48,
+        "no_spread": 0.13,
+        "volume": 888.6654250799999,
+        "liquidity": 102845.29999999999,
+        "neg_risk": false,
+        "end_date": "2026-08-31T23:59:00Z",
+        "categories": [
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 5,
+        "impact_level": "low",
+        "impact_reason": "Increased military action reduces likelihood of diplomatic meetings.",
+        "event_id": "648380",
+        "event_title": "Russia x Ukraine any diplomatic meeting by...?",
+        "event_slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+        "detected_yes_price": 0.65,
+        "detected_no_price": 0.43000000000000005,
+        "detected_at": 1783008709852,
+        "highest_price_change": 0.46511627906976727,
+        "highest_yes_price": 0.67,
+        "highest_no_price": 0.63,
+        "first_moved_at": 1783009229327,
+        "moved_side": "no",
+        "peaked_at": 1783009229327
+      },
+      "_scraped_at": "2026-07-03T14:38:07.804221+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "global_tension_score": 21,
+      "global_tension_level": "GUARDED",
+      "countries": [
+        {
+          "country": "UA",
+          "count": 8,
+          "recent": [
+            {
+              "id": "a40439c9-4415-4d1f-8761-a1ae89cfe3aa",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783069416626
+            },
+            {
+              "id": "bbf6a68c-50e7-4ee2-9f8b-9b3b794d5c24",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783077352860
+            },
+            {
+              "id": "a308e313-6420-407f-82d8-1a5a8e6d44f8",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1783071266866
+            },
+            {
+              "id": "eac14787-471e-477a-bbb6-8fdd4ff375c7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783082153315
+            },
+            {
+              "id": "53248a56-e469-4098-a49b-cc5f9896be4d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783082847076
+            },
+            {
+              "id": "6d9d13dd-44dc-47bd-9e70-08aea33a9e34",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783073488000
+            },
+            {
+              "id": "feb40af4-f6b5-4eb2-b2e7-29e133678df6",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783076572886
+            },
+            {
+              "id": "cb9571ed-c084-4203-bc53-856ba975d0c7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783085587976
+            }
+          ],
+          "volume": 5540989.16513786,
+          "critical_signals": 0,
+          "high_signals": 5,
+          "low_signals": 3
+        },
+        {
+          "country": "GB",
+          "count": 7,
+          "recent": [
+            {
+              "id": "a40439c9-4415-4d1f-8761-a1ae89cfe3aa",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783069416626
+            },
+            {
+              "id": "a308e313-6420-407f-82d8-1a5a8e6d44f8",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1783071266866
+            },
+            {
+              "id": "eac14787-471e-477a-bbb6-8fdd4ff375c7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783082153315
+            },
+            {
+              "id": "53248a56-e469-4098-a49b-cc5f9896be4d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783082847076
+            },
+            {
+              "id": "6d9d13dd-44dc-47bd-9e70-08aea33a9e34",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783073488000
+            },
+            {
+              "id": "feb40af4-f6b5-4eb2-b2e7-29e133678df6",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783076572886
+            },
+            {
+              "id": "cb9571ed-c084-4203-bc53-856ba975d0c7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783085587976
+            }
+          ],
+          "volume": 4261463.852421971,
+          "critical_signals": 0,
+          "high_signals": 4,
+          "low_signals": 3
+        },
+        {
+          "country": "RU",
+          "count": 7,
+          "recent": [
+            {
+              "id": "60b02cc4-5887-4960-9c92-b55526ae4e31",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783070633042
+            },
+            {
+              "id": "bbf6a68c-50e7-4ee2-9f8b-9b3b794d5c24",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783077352860
+            },
+            {
+              "id": "a308e313-6420-407f-82d8-1a5a8e6d44f8",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1783071266866
+            },
+            {
+              "id": "53248a56-e469-4098-a49b-cc5f9896be4d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783082847076
+            },
+            {
+              "id": "6d9d13dd-44dc-47bd-9e70-08aea33a9e34",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783073488000
+            },
+            {
+              "id": "feb40af4-f6b5-4eb2-b2e7-29e133678df6",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783076572886
+            },
+            {
+              "id": "8d407d6a-487b-43a7-83d1-ef3e45b28af9",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783078996267
+            }
+          ],
+          "volume": 5420408.940166879,
+          "critical_signals": 0,
+          "high_signals": 6,
+          "low_signals": 1
+        },
+        {
+          "country": "PE",
+          "count": 2,
+          "recent": [
+            {
+              "id": "a40439c9-4415-4d1f-8761-a1ae89cfe3aa",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783069416626
+            },
+            {
+              "id": "eac14787-471e-477a-bbb6-8fdd4ff375c7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783082153315
+            }
+          ],
+          "volume": 266012.59491838375,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 1
+        },
+        {
+          "country": "LV",
+          "count": 2,
+          "recent": [
+            {
+              "id": "a40439c9-4415-4d1f-8761-a1ae89cfe3aa",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783069416626
+            },
+            {
+              "id": "eac14787-471e-477a-bbb6-8fdd4ff375c7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783082153315
+            }
+          ],
+          "volume": 266012.59491838375,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 1
+        },
+        {
+          "country": "LB",
+          "count": 1,
+          "recent": [
+            {
+              "id": "caad3fdc-d248-433a-834d-ce3e86883a00",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783076788357
+            }
+          ],
+          "volume": 193412.61024200026,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "IL",
+          "count": 1,
+          "recent": [
+            {
+              "id": "caad3fdc-d248-433a-834d-ce3e86883a00",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783076788357
+            }
+          ],
+          "volume": 193412.61024200026,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "DE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "feb40af4-f6b5-4eb2-b2e7-29e133678df6",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783076572886
+            }
+          ],
+          "volume": 83.99942300000001,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "PL",
+          "count": 1,
+          "recent": [
+            {
+              "id": "cb9571ed-c084-4203-bc53-856ba975d0c7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783085587976
+            }
+          ],
+          "volume": 69924.33410798,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        }
+      ],
+      "_scraped_at": "2026-07-03T14:38:07.804221+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
