@@ -1,0 +1,1477 @@
+{
+  "scraped_at": "2026-07-03T16:20:18.672291+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 5,
+  "items": [
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "d574f3d1-3437-4628-b970-b21d80117019",
+        "timestamp": 1783014256360,
+        "tweet": {
+          "feed_item_id": "d574f3d1-3437-4628-b970-b21d80117019",
+          "post_id": "2072738137965490578",
+          "post_type": "tweet",
+          "created_at": 1783014256360,
+          "user": {
+            "uid": "3247652319",
+            "handle": "clashreport",
+            "display_name": "Clash Report",
+            "pfp": "https://pbs.twimg.com/profile_images/1942576646457868288/gOMYVVRf.jpg"
+          },
+          "tags": [
+            "politics"
+          ],
+          "body": "\ud83d\udcf8 Russian military command held a staff exercise called \"Crimean Wake-Up Call\" (\u041a\u0440\u044b\u043c\u0441\u043a\u0430\u044f \u043f\u043e\u0431\u0443\u0434\u043a\u0430) simulating a Ukra\u2026 https://x.com/i/web/status/2072738137965490578",
+          "link": "https://twitter.com/clashreport/status/2072738137965490578"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "RU",
+        "countries": [
+          "RU",
+          "UA",
+          "GB"
+        ],
+        "related_markets": [
+          {
+            "id": "2373817",
+            "slug": "will-russia-capture-all-of-kupiansk-by",
+            "condition_id": "0xa72d5a239c10ac6cb67f109b05513ae3a23db39ab7c5d4e2afa93719f20471ba",
+            "title": "December 31",
+            "question": "Will Russia capture all of Kupiansk by December 31?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the entirety of Kupiansk by December 31, 2026, at 11:59 PM ET.\n\nKupiansk will be considered captured if the entirety of the municipality is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by December 31, 2026, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nThe territory of the municipality is shaded in light grey and is distinguished from bordering municipalities such as \"Moskovka\" with a darker grey line. If all area within the municipality is shaded in red, but the shading does not precisely match up with the border, such that there is a tiny amount of grey along the border of the city, this will still qualify for a \"Yes\" resolution.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nFor the purpose of this market, areas separated from the main municipality through a darker grey line, such as in the southeast of Kupiansk (https://polymarket-upload.s3.us-east-2.amazonaws.com/h-b99a52275d.png), will not count towards the municipality.\n\nOnce Russia captures Kupiansk, any subsequent loss of control will not be considered towards the resolution of this market.\n\nKupiansk Location: https://polymarket-upload.s3.us-east-2.amazonaws.com/Kupiansk+location.jpeg\nLocation on Google maps: https://maps.app.goo.gl/ngCjTi39GSjbzaC46 \n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map which will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of whether it is shaded red in the ISW map. An announcement of a negotiated settlement that gives Russia de jure control will not qualify. Actual control must be established.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-kupiansk-by-june-30-y9hxbGPduBlF.jpg",
+            "yes_token_id": "16620263983815473572619609020950896548271326777722860283515181418520860963393",
+            "yes_probability": 0.12,
+            "yes_best_bid": 0.1,
+            "yes_best_ask": 0.12,
+            "yes_spread": 0.01999999999999999,
+            "no_token_id": "55823320781564825042492633966056498284958282665806983910625268814384693770509",
+            "no_probability": 0.9,
+            "no_best_bid": 0.88,
+            "no_best_ask": 0.9,
+            "no_spread": 0.020000000000000018,
+            "volume": 20316.219775639995,
+            "liquidity": 53706.31999999999,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "world",
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Military exercise simulating conflict = 1 hop to capture likelihood.",
+            "event_id": "72352",
+            "event_title": "Will Russia capture all of Kupiansk by...?",
+            "event_slug": "will-russia-capture-all-of-kupiansk-by",
+            "detected_yes_price": 0.12,
+            "detected_no_price": 0.89,
+            "detected_at": 1783014282586,
+            "highest_price_change": 0.03370786516853935,
+            "highest_yes_price": 0.12,
+            "highest_no_price": 0.92,
+            "first_moved_at": 1783049979283,
+            "moved_side": "no",
+            "peaked_at": 1783060507237
+          },
+          {
+            "id": "2246417",
+            "slug": "will-russia-capture-all-of-donetsk-oblast-by",
+            "condition_id": "0xec4366aa6a191c8dc392e2b3bc874d5ce9a22637a60f33e72e869ce39c89ef4e",
+            "title": "December 31",
+            "question": "Will Russia capture all of Donetsk Oblast by December 31, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia militarily captures the entirety of Donetsk Oblast by the specified date, 11:59 PM ET.\n\nDonetsk Oblast will be considered captured when the entirety of the below-specified municipalities is simultaneously shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If those areas are not simultaneously shaded red by the resolution date, this market will resolve to \u201cNo\u201d.\n\nThe relevant municipalities in Donetsk Oblast that must be simultaneously captured in their entirety are: Kramatorsk, Sloviansk, Kostiantynivka, Druzhkivka, Pokrovsk, Dobropillia, Oleksandrivka, Cherkaske, and Sviatohirsk.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nThe territory of a municipality is shaded in light grey and is distinguished from bordering municipalities with a darker grey line. If all area within a municipality is shaded in red, however, the shading does not precisely match up with the border such that there is a tiny amount of grey along the border of the city, this may still qualify.\n\nOnce Russia has captured the entirety of the above-specified municipalities simultaneously, any subsequent loss of control will not be considered towards the resolution of this market.\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap is rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will not qualify, regardless of whether it is shaded red in the ISW map. Similarly, an announcement of a negotiated settlement that gives Russia de jure control will not qualify. Control must be established through military conquest.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-donetsk-oblast-by-june-30-2026-atOWkXn1rrer.jpg",
+            "yes_token_id": "10286739223877237963651252562288085155553554709402511784236867878518615784105",
+            "yes_probability": 0.052,
+            "yes_best_bid": 0.051,
+            "yes_best_ask": 0.052,
+            "yes_spread": 0.0010000000000000009,
+            "no_token_id": "12437301957681593661655850243500948043259775360852942759416335317104883454330",
+            "no_probability": 0.949,
+            "no_best_bid": 0.948,
+            "no_best_ask": 0.949,
+            "no_spread": 0.0010000000000000009,
+            "volume": 156624.05778402375,
+            "liquidity": 320448.69999999984,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Military exercise simulating action = 1 hop to capture probability.",
+            "event_id": "139550",
+            "event_title": "Will Russia capture all of Donetsk Oblast by...?",
+            "event_slug": "will-russia-capture-all-of-donetsk-oblast-by",
+            "detected_yes_price": 0.05,
+            "detected_no_price": 0.954,
+            "detected_at": 1783014282586,
+            "highest_price_change": 0.0399999999999999,
+            "highest_yes_price": 0.052,
+            "highest_no_price": 0.954,
+            "first_moved_at": 1783014843092,
+            "moved_side": "yes",
+            "peaked_at": 1783078494251
+          },
+          {
+            "id": "1090496",
+            "slug": "nato-x-russia-military-clash-in-2025",
+            "condition_id": "0xf2bf04609e7458df56c9bb4b1e051286dea11da1c944bbc1dafbcc6b76904e52",
+            "title": "December 31",
+            "question": "NATO x Russia military clash by December 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if there is a military encounter between the military forces of a NATO country and Russia between January 2, and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nA \"military encounter\" is defined as any incident involving the use of force such as missile strikes, artillery fire, exchange of gunfire, or other forms of direct military engagement between NATO and Russian military forces. Non-violent actions, such as airspace violations, firing of warning shots (such as the June, 2021 Black Sea Confrontations between Russian forces and HMS Defender), or cyberattacks will not qualify.\n\nInterception of missiles or other one-way attack or loitering munitions (e.g. Shahed drones) which are targeting a 3rd party other than the listed countries or their respective forces will not alone qualify. Shooting down UAVs which are not munitions (e.g. MQ-9, Orlan 10, Orion, Bayraktar TB2, etc.) will qualify.\n\nIntentional physical collisions, including aerial interceptions and naval ramming without the direct use of weaponry, such as the 2023 Black Sea incident\u2014where a Russian Su-27 damaged a U.S. MQ-9 Reaper drone's propeller, leading to its crash\u2014 will not qualify regardless of damage.\n\nMilitary contractors will qualify only if confirmed to be operating under the direct command or coordination of the respective state\u2019s armed forces (e.g. the Battle of Khasham would not qualify).\n\nThe resolution source for this market will be a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nato-x-russia-military-clash-in-2025-DteCDkmbVLj_.jpg",
+            "yes_token_id": "105031123790227090351610621121319179238510007553875150023320472711583933704999",
+            "yes_probability": 0.22,
+            "yes_best_bid": 0.21,
+            "yes_best_ask": 0.22,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "76326875711147697076353707331532227929486722415800396469798548611383212234361",
+            "no_probability": 0.79,
+            "no_best_bid": 0.78,
+            "no_best_ask": 0.79,
+            "no_spread": 0.010000000000000009,
+            "volume": 407288.37893740076,
+            "liquidity": 466303.68,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Military exercise simulating conflict = 1 hop to clash probability.",
+            "event_id": "48930",
+            "event_title": "NATO x Russia military clash by...?",
+            "event_slug": "nato-x-russia-military-clash-in-2025",
+            "detected_yes_price": 0.14,
+            "detected_no_price": 0.87,
+            "detected_at": 1783014282586,
+            "highest_price_change": 0.7857142857142856,
+            "highest_yes_price": 0.25,
+            "highest_no_price": 0.89,
+            "first_moved_at": 1783015091029,
+            "moved_side": "yes",
+            "peaked_at": 1783069565332
+          },
+          {
+            "id": "2125379",
+            "slug": "will-russia-capture-all-of-prymorske-by",
+            "condition_id": "0x27f3e18c14d722d384fdc20f7ed0f7038b19d56d191b36da72762ebbf17f3081",
+            "title": "September 30",
+            "question": "Will Russia capture all of Prymorske by September 30, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the entirety of Prymorske, Zaporizhzhia Oblast, by September 30, 2026, 11:59 PM ET.\n\nPrymorske will be considered captured if the entirety of the municipality is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by September 30, 2026, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nThe territory of the municipality is shaded in light grey and is distinguished from bordering municipalities such as \"Stepnohirsk\" with a darker grey line. If all area within the municipality is shaded in red, however, the shading does not precisely match up with the border such that there is a tiny amount of grey along the border of the city, this will still qualify for a \"Yes\" resolution.\n\nOnce Russia captures the entirety of Prymorske, any subsequent loss of control will not be considered towards the resolution of this market.\n\nLocation on Google maps: https://maps.app.goo.gl/K7mS2YU7bZoVVHga9\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map which will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of if it is shaded red in the ISW map. An announcement of a negotiated settlement which gives Russia de jure control will not qualify. Actual control must be established.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-prymorske-by-april-30-2026-DpHD61x_Ap_N.jpg",
+            "yes_token_id": "62144742210971208278696936141611556807905696657920695628150040740104692189206",
+            "yes_probability": 0.054,
+            "yes_best_bid": 0.049,
+            "yes_best_ask": 0.054,
+            "yes_spread": 0.0049999999999999975,
+            "no_token_id": "98944918857405606137810340449921239097996041419914154134190979719169266881957",
+            "no_probability": 0.951,
+            "no_best_bid": 0.946,
+            "no_best_ask": 0.951,
+            "no_spread": 0.0050000000000000044,
+            "volume": 71165.69623900001,
+            "liquidity": 610444.9100000001,
+            "neg_risk": false,
+            "end_date": "2026-09-30T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Exercise simulating military action = 1 hop to capture likelihood.",
+            "event_id": "131623",
+            "event_title": "Will Russia capture all of Prymorske by...?",
+            "event_slug": "will-russia-capture-all-of-prymorske-by",
+            "detected_yes_price": 0.065,
+            "detected_no_price": 0.952,
+            "detected_at": 1783014282586,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.065,
+            "highest_no_price": 0.952
+          },
+          {
+            "id": "2125383",
+            "slug": "will-russia-capture-all-of-prymorske-by",
+            "condition_id": "0x9051c339493374b28c5348337a3928890127228cac85dc270b928c805789052e",
+            "title": "December 31",
+            "question": "Will Russia capture all of Prymorske by December 31, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the entirety of Prymorske, Zaporizhzhia Oblast, by December 31, 2026, 11:59 PM ET.\n\nPrymorske will be considered captured if the entirety of the municipality is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by December 31, 2026, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nThe territory of the municipality is shaded in light grey and is distinguished from bordering municipalities such as \"Stepnohirsk\" with a darker grey line. If all area within the municipality is shaded in red, however, the shading does not precisely match up with the border such that there is a tiny amount of grey along the border of the city, this will still qualify for a \"Yes\" resolution.\n\nOnce Russia captures the entirety of Prymorske, any subsequent loss of control will not be considered towards the resolution of this market.\n\nLocation on Google maps: https://maps.app.goo.gl/K7mS2YU7bZoVVHga9\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map which will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of if it is shaded red in the ISW map. An announcement of a negotiated settlement which gives Russia de jure control will not qualify. Actual control must be established.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-prymorske-by-april-30-2026-DpHD61x_Ap_N.jpg",
+            "yes_token_id": "28973723560426996031408842976019851055790661167079359472177710649429036274394",
+            "yes_probability": 0.1,
+            "yes_best_bid": 0.08,
+            "yes_best_ask": 0.1,
+            "yes_spread": 0.020000000000000004,
+            "no_token_id": "60723272638491203222333518330527122876237274459371689952180825288347810204632",
+            "no_probability": 0.92,
+            "no_best_bid": 0.9,
+            "no_best_ask": 0.92,
+            "no_spread": 0.020000000000000018,
+            "volume": 34123.60056300001,
+            "liquidity": 63628.26,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Military exercise simulating action = 1 hop to capture probability.",
+            "event_id": "131623",
+            "event_title": "Will Russia capture all of Prymorske by...?",
+            "event_slug": "will-russia-capture-all-of-prymorske-by",
+            "detected_yes_price": 0.09,
+            "detected_no_price": 0.92,
+            "detected_at": 1783014282586,
+            "highest_price_change": 0.11111111111111122,
+            "highest_yes_price": 0.1,
+            "highest_no_price": 0.93,
+            "first_moved_at": 1783015642791,
+            "moved_side": "yes",
+            "peaked_at": 1783015642791
+          }
+        ],
+        "topics": [
+          "ukraine-war",
+          "elon-musk",
+          "shutdown"
+        ],
+        "categories": [
+          "geopolitics"
+        ]
+      },
+      "related_market": {
+        "id": "1090496",
+        "slug": "nato-x-russia-military-clash-in-2025",
+        "condition_id": "0xf2bf04609e7458df56c9bb4b1e051286dea11da1c944bbc1dafbcc6b76904e52",
+        "title": "December 31",
+        "question": "NATO x Russia military clash by December 31, 2026?",
+        "description": "This market will resolve to \"Yes\" if there is a military encounter between the military forces of a NATO country and Russia between January 2, and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nA \"military encounter\" is defined as any incident involving the use of force such as missile strikes, artillery fire, exchange of gunfire, or other forms of direct military engagement between NATO and Russian military forces. Non-violent actions, such as airspace violations, firing of warning shots (such as the June, 2021 Black Sea Confrontations between Russian forces and HMS Defender), or cyberattacks will not qualify.\n\nInterception of missiles or other one-way attack or loitering munitions (e.g. Shahed drones) which are targeting a 3rd party other than the listed countries or their respective forces will not alone qualify. Shooting down UAVs which are not munitions (e.g. MQ-9, Orlan 10, Orion, Bayraktar TB2, etc.) will qualify.\n\nIntentional physical collisions, including aerial interceptions and naval ramming without the direct use of weaponry, such as the 2023 Black Sea incident\u2014where a Russian Su-27 damaged a U.S. MQ-9 Reaper drone's propeller, leading to its crash\u2014 will not qualify regardless of damage.\n\nMilitary contractors will qualify only if confirmed to be operating under the direct command or coordination of the respective state\u2019s armed forces (e.g. the Battle of Khasham would not qualify).\n\nThe resolution source for this market will be a consensus of credible reporting.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nato-x-russia-military-clash-in-2025-DteCDkmbVLj_.jpg",
+        "yes_token_id": "105031123790227090351610621121319179238510007553875150023320472711583933704999",
+        "yes_probability": 0.22,
+        "yes_best_bid": 0.21,
+        "yes_best_ask": 0.22,
+        "yes_spread": 0.010000000000000009,
+        "no_token_id": "76326875711147697076353707331532227929486722415800396469798548611383212234361",
+        "no_probability": 0.79,
+        "no_best_bid": 0.78,
+        "no_best_ask": 0.79,
+        "no_spread": 0.010000000000000009,
+        "volume": 407288.37893740076,
+        "liquidity": 466303.68,
+        "neg_risk": false,
+        "end_date": "2026-12-31T00:00:00Z",
+        "categories": [
+          "geopolitics",
+          "world"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Military exercise simulating conflict = 1 hop to clash probability.",
+        "event_id": "48930",
+        "event_title": "NATO x Russia military clash by...?",
+        "event_slug": "nato-x-russia-military-clash-in-2025",
+        "detected_yes_price": 0.14,
+        "detected_no_price": 0.87,
+        "detected_at": 1783014282586,
+        "highest_price_change": 0.7857142857142856,
+        "highest_yes_price": 0.25,
+        "highest_no_price": 0.89,
+        "first_moved_at": 1783015091029,
+        "moved_side": "yes",
+        "peaked_at": 1783069565332
+      },
+      "_scraped_at": "2026-07-03T16:20:18.672291+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "valid": false,
+      "_scraped_at": "2026-07-03T16:20:18.672291+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "global_tension_score": 21,
+      "global_tension_level": "GUARDED",
+      "countries": [
+        {
+          "country": "UA",
+          "count": 9,
+          "recent": [
+            {
+              "id": "277b9d15-8994-4f5b-9abf-2027102862f0",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783091032494
+            },
+            {
+              "id": "bbf6a68c-50e7-4ee2-9f8b-9b3b794d5c24",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783077352860
+            },
+            {
+              "id": "eac14787-471e-477a-bbb6-8fdd4ff375c7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783082153315
+            },
+            {
+              "id": "aefff0f3-b313-4522-8b2e-1f66417b8fa7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783092592452
+            },
+            {
+              "id": "53248a56-e469-4098-a49b-cc5f9896be4d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783082847076
+            },
+            {
+              "id": "feb40af4-f6b5-4eb2-b2e7-29e133678df6",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783076572886
+            },
+            {
+              "id": "4f35612b-08ce-4b50-8811-b61447c44d1d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783092232465
+            },
+            {
+              "id": "cb9571ed-c084-4203-bc53-856ba975d0c7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783085587976
+            },
+            {
+              "id": "ef135643-6a3a-48b8-a5df-32daed1a6bba",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783091752475
+            }
+          ],
+          "volume": 3803575.347792471,
+          "critical_signals": 0,
+          "high_signals": 4,
+          "low_signals": 5
+        },
+        {
+          "country": "GB",
+          "count": 8,
+          "recent": [
+            {
+              "id": "277b9d15-8994-4f5b-9abf-2027102862f0",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783091032494
+            },
+            {
+              "id": "eac14787-471e-477a-bbb6-8fdd4ff375c7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783082153315
+            },
+            {
+              "id": "aefff0f3-b313-4522-8b2e-1f66417b8fa7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783092592452
+            },
+            {
+              "id": "53248a56-e469-4098-a49b-cc5f9896be4d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783082847076
+            },
+            {
+              "id": "feb40af4-f6b5-4eb2-b2e7-29e133678df6",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783076572886
+            },
+            {
+              "id": "4f35612b-08ce-4b50-8811-b61447c44d1d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783092232465
+            },
+            {
+              "id": "cb9571ed-c084-4203-bc53-856ba975d0c7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783085587976
+            },
+            {
+              "id": "ef135643-6a3a-48b8-a5df-32daed1a6bba",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783091752475
+            }
+          ],
+          "volume": 3803575.347792471,
+          "critical_signals": 0,
+          "high_signals": 3,
+          "low_signals": 5
+        },
+        {
+          "country": "RU",
+          "count": 7,
+          "recent": [
+            {
+              "id": "277b9d15-8994-4f5b-9abf-2027102862f0",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783091032494
+            },
+            {
+              "id": "bbf6a68c-50e7-4ee2-9f8b-9b3b794d5c24",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783077352860
+            },
+            {
+              "id": "aefff0f3-b313-4522-8b2e-1f66417b8fa7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783092592452
+            },
+            {
+              "id": "53248a56-e469-4098-a49b-cc5f9896be4d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783082847076
+            },
+            {
+              "id": "feb40af4-f6b5-4eb2-b2e7-29e133678df6",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783076572886
+            },
+            {
+              "id": "4f35612b-08ce-4b50-8811-b61447c44d1d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783092232465
+            },
+            {
+              "id": "8d407d6a-487b-43a7-83d1-ef3e45b28af9",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783078996267
+            }
+          ],
+          "volume": 3379993.2607517443,
+          "critical_signals": 0,
+          "high_signals": 5,
+          "low_signals": 2
+        },
+        {
+          "country": "SA",
+          "count": 4,
+          "recent": [
+            {
+              "id": "277b9d15-8994-4f5b-9abf-2027102862f0",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783091032494
+            },
+            {
+              "id": "4a3fbc97-8bd6-46ee-b481-d4de7b3e22a1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783091199638
+            },
+            {
+              "id": "cd8ea197-aeb8-4794-becc-31384e789c63",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1783091144217
+            },
+            {
+              "id": "bb1308bf-2816-46f2-af19-01966e9047c3",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783091441639
+            }
+          ],
+          "volume": 3384060.6252240096,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 2
+        },
+        {
+          "country": "IR",
+          "count": 3,
+          "recent": [
+            {
+              "id": "1112e6a0-f45f-47b2-abae-0172f513e2ff",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783093905886
+            },
+            {
+              "id": "cd8ea197-aeb8-4794-becc-31384e789c63",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1783091144217
+            },
+            {
+              "id": "bb1308bf-2816-46f2-af19-01966e9047c3",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783091441639
+            }
+          ],
+          "volume": 2201195.11543596,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 1
+        },
+        {
+          "country": "YE",
+          "count": 3,
+          "recent": [
+            {
+              "id": "4a3fbc97-8bd6-46ee-b481-d4de7b3e22a1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783091199638
+            },
+            {
+              "id": "cd8ea197-aeb8-4794-becc-31384e789c63",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1783091144217
+            },
+            {
+              "id": "bb1308bf-2816-46f2-af19-01966e9047c3",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783091441639
+            }
+          ],
+          "volume": 1658823.5532750003,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 1
+        },
+        {
+          "country": "PL",
+          "count": 2,
+          "recent": [
+            {
+              "id": "aefff0f3-b313-4522-8b2e-1f66417b8fa7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783092592452
+            },
+            {
+              "id": "cb9571ed-c084-4203-bc53-856ba975d0c7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783085587976
+            }
+          ],
+          "volume": 69924.33410798,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 1
+        },
+        {
+          "country": "DE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "feb40af4-f6b5-4eb2-b2e7-29e133678df6",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783076572886
+            }
+          ],
+          "volume": 83.99942300000001,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "LB",
+          "count": 1,
+          "recent": [
+            {
+              "id": "caad3fdc-d248-433a-834d-ce3e86883a00",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783076788357
+            }
+          ],
+          "volume": 193453.28952200027,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "LV",
+          "count": 1,
+          "recent": [
+            {
+              "id": "eac14787-471e-477a-bbb6-8fdd4ff375c7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783082153315
+            }
+          ],
+          "volume": 50655.89086300001,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "US",
+          "count": 1,
+          "recent": [
+            {
+              "id": "aefff0f3-b313-4522-8b2e-1f66417b8fa7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783092592452
+            }
+          ],
+          "volume": 69924.33410798,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "IL",
+          "count": 1,
+          "recent": [
+            {
+              "id": "caad3fdc-d248-433a-834d-ce3e86883a00",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783076788357
+            }
+          ],
+          "volume": 193453.28952200027,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "PE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "eac14787-471e-477a-bbb6-8fdd4ff375c7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783082153315
+            }
+          ],
+          "volume": 50655.89086300001,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "BY",
+          "count": 1,
+          "recent": [
+            {
+              "id": "aefff0f3-b313-4522-8b2e-1f66417b8fa7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783092592452
+            }
+          ],
+          "volume": 69924.33410798,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "OM",
+          "count": 1,
+          "recent": [
+            {
+              "id": "1112e6a0-f45f-47b2-abae-0172f513e2ff",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783093905886
+            }
+          ],
+          "volume": 542371.5621609595,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        }
+      ],
+      "_scraped_at": "2026-07-03T16:20:18.672291+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    },
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "d574f3d1-3437-4628-b970-b21d80117019",
+        "timestamp": 1783014256360,
+        "tweet": {
+          "feed_item_id": "d574f3d1-3437-4628-b970-b21d80117019",
+          "post_id": "2072738137965490578",
+          "post_type": "tweet",
+          "created_at": 1783014256360,
+          "user": {
+            "uid": "3247652319",
+            "handle": "clashreport",
+            "display_name": "Clash Report",
+            "pfp": "https://pbs.twimg.com/profile_images/1942576646457868288/gOMYVVRf.jpg"
+          },
+          "tags": [
+            "politics"
+          ],
+          "body": "\ud83d\udcf8 Russian military command held a staff exercise called \"Crimean Wake-Up Call\" (\u041a\u0440\u044b\u043c\u0441\u043a\u0430\u044f \u043f\u043e\u0431\u0443\u0434\u043a\u0430) simulating a Ukra\u2026 https://x.com/i/web/status/2072738137965490578",
+          "link": "https://twitter.com/clashreport/status/2072738137965490578"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "RU",
+        "countries": [
+          "RU",
+          "UA",
+          "GB"
+        ],
+        "related_markets": [
+          {
+            "id": "2373817",
+            "slug": "will-russia-capture-all-of-kupiansk-by",
+            "condition_id": "0xa72d5a239c10ac6cb67f109b05513ae3a23db39ab7c5d4e2afa93719f20471ba",
+            "title": "December 31",
+            "question": "Will Russia capture all of Kupiansk by December 31?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the entirety of Kupiansk by December 31, 2026, at 11:59 PM ET.\n\nKupiansk will be considered captured if the entirety of the municipality is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by December 31, 2026, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nThe territory of the municipality is shaded in light grey and is distinguished from bordering municipalities such as \"Moskovka\" with a darker grey line. If all area within the municipality is shaded in red, but the shading does not precisely match up with the border, such that there is a tiny amount of grey along the border of the city, this will still qualify for a \"Yes\" resolution.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nFor the purpose of this market, areas separated from the main municipality through a darker grey line, such as in the southeast of Kupiansk (https://polymarket-upload.s3.us-east-2.amazonaws.com/h-b99a52275d.png), will not count towards the municipality.\n\nOnce Russia captures Kupiansk, any subsequent loss of control will not be considered towards the resolution of this market.\n\nKupiansk Location: https://polymarket-upload.s3.us-east-2.amazonaws.com/Kupiansk+location.jpeg\nLocation on Google maps: https://maps.app.goo.gl/ngCjTi39GSjbzaC46 \n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map which will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of whether it is shaded red in the ISW map. An announcement of a negotiated settlement that gives Russia de jure control will not qualify. Actual control must be established.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-kupiansk-by-june-30-y9hxbGPduBlF.jpg",
+            "yes_token_id": "16620263983815473572619609020950896548271326777722860283515181418520860963393",
+            "yes_probability": 0.12,
+            "yes_best_bid": 0.1,
+            "yes_best_ask": 0.12,
+            "yes_spread": 0.01999999999999999,
+            "no_token_id": "55823320781564825042492633966056498284958282665806983910625268814384693770509",
+            "no_probability": 0.9,
+            "no_best_bid": 0.88,
+            "no_best_ask": 0.9,
+            "no_spread": 0.020000000000000018,
+            "volume": 20316.219775639995,
+            "liquidity": 53563.41999999999,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "world",
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Military exercise simulating conflict = 1 hop to capture likelihood.",
+            "event_id": "72352",
+            "event_title": "Will Russia capture all of Kupiansk by...?",
+            "event_slug": "will-russia-capture-all-of-kupiansk-by",
+            "detected_yes_price": 0.12,
+            "detected_no_price": 0.89,
+            "detected_at": 1783014282586,
+            "highest_price_change": 0.03370786516853935,
+            "highest_yes_price": 0.12,
+            "highest_no_price": 0.92,
+            "first_moved_at": 1783049979283,
+            "moved_side": "no",
+            "peaked_at": 1783060507237
+          },
+          {
+            "id": "2246417",
+            "slug": "will-russia-capture-all-of-donetsk-oblast-by",
+            "condition_id": "0xec4366aa6a191c8dc392e2b3bc874d5ce9a22637a60f33e72e869ce39c89ef4e",
+            "title": "December 31",
+            "question": "Will Russia capture all of Donetsk Oblast by December 31, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia militarily captures the entirety of Donetsk Oblast by the specified date, 11:59 PM ET.\n\nDonetsk Oblast will be considered captured when the entirety of the below-specified municipalities is simultaneously shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If those areas are not simultaneously shaded red by the resolution date, this market will resolve to \u201cNo\u201d.\n\nThe relevant municipalities in Donetsk Oblast that must be simultaneously captured in their entirety are: Kramatorsk, Sloviansk, Kostiantynivka, Druzhkivka, Pokrovsk, Dobropillia, Oleksandrivka, Cherkaske, and Sviatohirsk.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nThe territory of a municipality is shaded in light grey and is distinguished from bordering municipalities with a darker grey line. If all area within a municipality is shaded in red, however, the shading does not precisely match up with the border such that there is a tiny amount of grey along the border of the city, this may still qualify.\n\nOnce Russia has captured the entirety of the above-specified municipalities simultaneously, any subsequent loss of control will not be considered towards the resolution of this market.\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap is rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will not qualify, regardless of whether it is shaded red in the ISW map. Similarly, an announcement of a negotiated settlement that gives Russia de jure control will not qualify. Control must be established through military conquest.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-donetsk-oblast-by-june-30-2026-atOWkXn1rrer.jpg",
+            "yes_token_id": "10286739223877237963651252562288085155553554709402511784236867878518615784105",
+            "yes_probability": 0.052,
+            "yes_best_bid": 0.051,
+            "yes_best_ask": 0.052,
+            "yes_spread": 0.0010000000000000009,
+            "no_token_id": "12437301957681593661655850243500948043259775360852942759416335317104883454330",
+            "no_probability": 0.949,
+            "no_best_bid": 0.948,
+            "no_best_ask": 0.949,
+            "no_spread": 0.0010000000000000009,
+            "volume": 156624.05778402375,
+            "liquidity": 320448.69999999984,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Military exercise simulating action = 1 hop to capture probability.",
+            "event_id": "139550",
+            "event_title": "Will Russia capture all of Donetsk Oblast by...?",
+            "event_slug": "will-russia-capture-all-of-donetsk-oblast-by",
+            "detected_yes_price": 0.05,
+            "detected_no_price": 0.954,
+            "detected_at": 1783014282586,
+            "highest_price_change": 0.0399999999999999,
+            "highest_yes_price": 0.052,
+            "highest_no_price": 0.954,
+            "first_moved_at": 1783014843092,
+            "moved_side": "yes",
+            "peaked_at": 1783078494251
+          },
+          {
+            "id": "1090496",
+            "slug": "nato-x-russia-military-clash-in-2025",
+            "condition_id": "0xf2bf04609e7458df56c9bb4b1e051286dea11da1c944bbc1dafbcc6b76904e52",
+            "title": "December 31",
+            "question": "NATO x Russia military clash by December 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if there is a military encounter between the military forces of a NATO country and Russia between January 2, and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nA \"military encounter\" is defined as any incident involving the use of force such as missile strikes, artillery fire, exchange of gunfire, or other forms of direct military engagement between NATO and Russian military forces. Non-violent actions, such as airspace violations, firing of warning shots (such as the June, 2021 Black Sea Confrontations between Russian forces and HMS Defender), or cyberattacks will not qualify.\n\nInterception of missiles or other one-way attack or loitering munitions (e.g. Shahed drones) which are targeting a 3rd party other than the listed countries or their respective forces will not alone qualify. Shooting down UAVs which are not munitions (e.g. MQ-9, Orlan 10, Orion, Bayraktar TB2, etc.) will qualify.\n\nIntentional physical collisions, including aerial interceptions and naval ramming without the direct use of weaponry, such as the 2023 Black Sea incident\u2014where a Russian Su-27 damaged a U.S. MQ-9 Reaper drone's propeller, leading to its crash\u2014 will not qualify regardless of damage.\n\nMilitary contractors will qualify only if confirmed to be operating under the direct command or coordination of the respective state\u2019s armed forces (e.g. the Battle of Khasham would not qualify).\n\nThe resolution source for this market will be a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nato-x-russia-military-clash-in-2025-DteCDkmbVLj_.jpg",
+            "yes_token_id": "105031123790227090351610621121319179238510007553875150023320472711583933704999",
+            "yes_probability": 0.22,
+            "yes_best_bid": 0.21,
+            "yes_best_ask": 0.22,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "76326875711147697076353707331532227929486722415800396469798548611383212234361",
+            "no_probability": 0.79,
+            "no_best_bid": 0.78,
+            "no_best_ask": 0.79,
+            "no_spread": 0.010000000000000009,
+            "volume": 407288.37893740076,
+            "liquidity": 466969.68000000005,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "world"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Military exercise simulating conflict = 1 hop to clash probability.",
+            "event_id": "48930",
+            "event_title": "NATO x Russia military clash by...?",
+            "event_slug": "nato-x-russia-military-clash-in-2025",
+            "detected_yes_price": 0.14,
+            "detected_no_price": 0.87,
+            "detected_at": 1783014282586,
+            "highest_price_change": 0.7857142857142856,
+            "highest_yes_price": 0.25,
+            "highest_no_price": 0.89,
+            "first_moved_at": 1783015091029,
+            "moved_side": "yes",
+            "peaked_at": 1783069565332
+          },
+          {
+            "id": "2125379",
+            "slug": "will-russia-capture-all-of-prymorske-by",
+            "condition_id": "0x27f3e18c14d722d384fdc20f7ed0f7038b19d56d191b36da72762ebbf17f3081",
+            "title": "September 30",
+            "question": "Will Russia capture all of Prymorske by September 30, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the entirety of Prymorske, Zaporizhzhia Oblast, by September 30, 2026, 11:59 PM ET.\n\nPrymorske will be considered captured if the entirety of the municipality is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by September 30, 2026, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nThe territory of the municipality is shaded in light grey and is distinguished from bordering municipalities such as \"Stepnohirsk\" with a darker grey line. If all area within the municipality is shaded in red, however, the shading does not precisely match up with the border such that there is a tiny amount of grey along the border of the city, this will still qualify for a \"Yes\" resolution.\n\nOnce Russia captures the entirety of Prymorske, any subsequent loss of control will not be considered towards the resolution of this market.\n\nLocation on Google maps: https://maps.app.goo.gl/K7mS2YU7bZoVVHga9\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map which will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of if it is shaded red in the ISW map. An announcement of a negotiated settlement which gives Russia de jure control will not qualify. Actual control must be established.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-prymorske-by-april-30-2026-DpHD61x_Ap_N.jpg",
+            "yes_token_id": "62144742210971208278696936141611556807905696657920695628150040740104692189206",
+            "yes_probability": 0.054,
+            "yes_best_bid": 0.049,
+            "yes_best_ask": 0.054,
+            "yes_spread": 0.0049999999999999975,
+            "no_token_id": "98944918857405606137810340449921239097996041419914154134190979719169266881957",
+            "no_probability": 0.951,
+            "no_best_bid": 0.946,
+            "no_best_ask": 0.951,
+            "no_spread": 0.0050000000000000044,
+            "volume": 71165.69623900001,
+            "liquidity": 608992.8600000001,
+            "neg_risk": false,
+            "end_date": "2026-09-30T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Exercise simulating military action = 1 hop to capture likelihood.",
+            "event_id": "131623",
+            "event_title": "Will Russia capture all of Prymorske by...?",
+            "event_slug": "will-russia-capture-all-of-prymorske-by",
+            "detected_yes_price": 0.065,
+            "detected_no_price": 0.952,
+            "detected_at": 1783014282586,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.065,
+            "highest_no_price": 0.952
+          },
+          {
+            "id": "2125383",
+            "slug": "will-russia-capture-all-of-prymorske-by",
+            "condition_id": "0x9051c339493374b28c5348337a3928890127228cac85dc270b928c805789052e",
+            "title": "December 31",
+            "question": "Will Russia capture all of Prymorske by December 31, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the entirety of Prymorske, Zaporizhzhia Oblast, by December 31, 2026, 11:59 PM ET.\n\nPrymorske will be considered captured if the entirety of the municipality is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by December 31, 2026, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nThe territory of the municipality is shaded in light grey and is distinguished from bordering municipalities such as \"Stepnohirsk\" with a darker grey line. If all area within the municipality is shaded in red, however, the shading does not precisely match up with the border such that there is a tiny amount of grey along the border of the city, this will still qualify for a \"Yes\" resolution.\n\nOnce Russia captures the entirety of Prymorske, any subsequent loss of control will not be considered towards the resolution of this market.\n\nLocation on Google maps: https://maps.app.goo.gl/K7mS2YU7bZoVVHga9\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map which will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of if it is shaded red in the ISW map. An announcement of a negotiated settlement which gives Russia de jure control will not qualify. Actual control must be established.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-prymorske-by-april-30-2026-DpHD61x_Ap_N.jpg",
+            "yes_token_id": "28973723560426996031408842976019851055790661167079359472177710649429036274394",
+            "yes_probability": 0.1,
+            "yes_best_bid": 0.08,
+            "yes_best_ask": 0.1,
+            "yes_spread": 0.020000000000000004,
+            "no_token_id": "60723272638491203222333518330527122876237274459371689952180825288347810204632",
+            "no_probability": 0.92,
+            "no_best_bid": 0.9,
+            "no_best_ask": 0.92,
+            "no_spread": 0.020000000000000018,
+            "volume": 34123.60056300001,
+            "liquidity": 63628.26,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Military exercise simulating action = 1 hop to capture probability.",
+            "event_id": "131623",
+            "event_title": "Will Russia capture all of Prymorske by...?",
+            "event_slug": "will-russia-capture-all-of-prymorske-by",
+            "detected_yes_price": 0.09,
+            "detected_no_price": 0.92,
+            "detected_at": 1783014282586,
+            "highest_price_change": 0.11111111111111122,
+            "highest_yes_price": 0.1,
+            "highest_no_price": 0.93,
+            "first_moved_at": 1783015642791,
+            "moved_side": "yes",
+            "peaked_at": 1783015642791
+          }
+        ],
+        "topics": [
+          "ukraine-war",
+          "elon-musk",
+          "shutdown"
+        ],
+        "categories": [
+          "geopolitics"
+        ]
+      },
+      "related_market": {
+        "id": "1090496",
+        "slug": "nato-x-russia-military-clash-in-2025",
+        "condition_id": "0xf2bf04609e7458df56c9bb4b1e051286dea11da1c944bbc1dafbcc6b76904e52",
+        "title": "December 31",
+        "question": "NATO x Russia military clash by December 31, 2026?",
+        "description": "This market will resolve to \"Yes\" if there is a military encounter between the military forces of a NATO country and Russia between January 2, and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nA \"military encounter\" is defined as any incident involving the use of force such as missile strikes, artillery fire, exchange of gunfire, or other forms of direct military engagement between NATO and Russian military forces. Non-violent actions, such as airspace violations, firing of warning shots (such as the June, 2021 Black Sea Confrontations between Russian forces and HMS Defender), or cyberattacks will not qualify.\n\nInterception of missiles or other one-way attack or loitering munitions (e.g. Shahed drones) which are targeting a 3rd party other than the listed countries or their respective forces will not alone qualify. Shooting down UAVs which are not munitions (e.g. MQ-9, Orlan 10, Orion, Bayraktar TB2, etc.) will qualify.\n\nIntentional physical collisions, including aerial interceptions and naval ramming without the direct use of weaponry, such as the 2023 Black Sea incident\u2014where a Russian Su-27 damaged a U.S. MQ-9 Reaper drone's propeller, leading to its crash\u2014 will not qualify regardless of damage.\n\nMilitary contractors will qualify only if confirmed to be operating under the direct command or coordination of the respective state\u2019s armed forces (e.g. the Battle of Khasham would not qualify).\n\nThe resolution source for this market will be a consensus of credible reporting.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nato-x-russia-military-clash-in-2025-DteCDkmbVLj_.jpg",
+        "yes_token_id": "105031123790227090351610621121319179238510007553875150023320472711583933704999",
+        "yes_probability": 0.22,
+        "yes_best_bid": 0.21,
+        "yes_best_ask": 0.22,
+        "yes_spread": 0.010000000000000009,
+        "no_token_id": "76326875711147697076353707331532227929486722415800396469798548611383212234361",
+        "no_probability": 0.79,
+        "no_best_bid": 0.78,
+        "no_best_ask": 0.79,
+        "no_spread": 0.010000000000000009,
+        "volume": 407288.37893740076,
+        "liquidity": 466969.68000000005,
+        "neg_risk": false,
+        "end_date": "2026-12-31T00:00:00Z",
+        "categories": [
+          "geopolitics",
+          "world"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Military exercise simulating conflict = 1 hop to clash probability.",
+        "event_id": "48930",
+        "event_title": "NATO x Russia military clash by...?",
+        "event_slug": "nato-x-russia-military-clash-in-2025",
+        "detected_yes_price": 0.14,
+        "detected_no_price": 0.87,
+        "detected_at": 1783014282586,
+        "highest_price_change": 0.7857142857142856,
+        "highest_yes_price": 0.25,
+        "highest_no_price": 0.89,
+        "first_moved_at": 1783015091029,
+        "moved_side": "yes",
+        "peaked_at": 1783069565332
+      },
+      "_scraped_at": "2026-07-03T16:20:18.672291+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "global_tension_score": 21,
+      "global_tension_level": "GUARDED",
+      "countries": [
+        {
+          "country": "UA",
+          "count": 9,
+          "recent": [
+            {
+              "id": "277b9d15-8994-4f5b-9abf-2027102862f0",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783091032494
+            },
+            {
+              "id": "bbf6a68c-50e7-4ee2-9f8b-9b3b794d5c24",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783077352860
+            },
+            {
+              "id": "eac14787-471e-477a-bbb6-8fdd4ff375c7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783082153315
+            },
+            {
+              "id": "aefff0f3-b313-4522-8b2e-1f66417b8fa7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783092592452
+            },
+            {
+              "id": "53248a56-e469-4098-a49b-cc5f9896be4d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783082847076
+            },
+            {
+              "id": "feb40af4-f6b5-4eb2-b2e7-29e133678df6",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783076572886
+            },
+            {
+              "id": "4f35612b-08ce-4b50-8811-b61447c44d1d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783092232465
+            },
+            {
+              "id": "cb9571ed-c084-4203-bc53-856ba975d0c7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783085587976
+            },
+            {
+              "id": "ef135643-6a3a-48b8-a5df-32daed1a6bba",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783091752475
+            }
+          ],
+          "volume": 3803575.347792471,
+          "critical_signals": 0,
+          "high_signals": 4,
+          "low_signals": 5
+        },
+        {
+          "country": "GB",
+          "count": 8,
+          "recent": [
+            {
+              "id": "277b9d15-8994-4f5b-9abf-2027102862f0",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783091032494
+            },
+            {
+              "id": "eac14787-471e-477a-bbb6-8fdd4ff375c7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783082153315
+            },
+            {
+              "id": "aefff0f3-b313-4522-8b2e-1f66417b8fa7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783092592452
+            },
+            {
+              "id": "53248a56-e469-4098-a49b-cc5f9896be4d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783082847076
+            },
+            {
+              "id": "feb40af4-f6b5-4eb2-b2e7-29e133678df6",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783076572886
+            },
+            {
+              "id": "4f35612b-08ce-4b50-8811-b61447c44d1d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783092232465
+            },
+            {
+              "id": "cb9571ed-c084-4203-bc53-856ba975d0c7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783085587976
+            },
+            {
+              "id": "ef135643-6a3a-48b8-a5df-32daed1a6bba",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783091752475
+            }
+          ],
+          "volume": 3803575.347792471,
+          "critical_signals": 0,
+          "high_signals": 3,
+          "low_signals": 5
+        },
+        {
+          "country": "RU",
+          "count": 7,
+          "recent": [
+            {
+              "id": "277b9d15-8994-4f5b-9abf-2027102862f0",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783091032494
+            },
+            {
+              "id": "bbf6a68c-50e7-4ee2-9f8b-9b3b794d5c24",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783077352860
+            },
+            {
+              "id": "aefff0f3-b313-4522-8b2e-1f66417b8fa7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783092592452
+            },
+            {
+              "id": "53248a56-e469-4098-a49b-cc5f9896be4d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783082847076
+            },
+            {
+              "id": "feb40af4-f6b5-4eb2-b2e7-29e133678df6",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783076572886
+            },
+            {
+              "id": "4f35612b-08ce-4b50-8811-b61447c44d1d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783092232465
+            },
+            {
+              "id": "8d407d6a-487b-43a7-83d1-ef3e45b28af9",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783078996267
+            }
+          ],
+          "volume": 3379993.2607517443,
+          "critical_signals": 0,
+          "high_signals": 5,
+          "low_signals": 2
+        },
+        {
+          "country": "SA",
+          "count": 4,
+          "recent": [
+            {
+              "id": "277b9d15-8994-4f5b-9abf-2027102862f0",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783091032494
+            },
+            {
+              "id": "4a3fbc97-8bd6-46ee-b481-d4de7b3e22a1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783091199638
+            },
+            {
+              "id": "cd8ea197-aeb8-4794-becc-31384e789c63",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1783091144217
+            },
+            {
+              "id": "bb1308bf-2816-46f2-af19-01966e9047c3",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783091441639
+            }
+          ],
+          "volume": 3384060.6252240096,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 2
+        },
+        {
+          "country": "YE",
+          "count": 3,
+          "recent": [
+            {
+              "id": "4a3fbc97-8bd6-46ee-b481-d4de7b3e22a1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783091199638
+            },
+            {
+              "id": "cd8ea197-aeb8-4794-becc-31384e789c63",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1783091144217
+            },
+            {
+              "id": "bb1308bf-2816-46f2-af19-01966e9047c3",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783091441639
+            }
+          ],
+          "volume": 1658823.5532750003,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 1
+        },
+        {
+          "country": "IR",
+          "count": 3,
+          "recent": [
+            {
+              "id": "1112e6a0-f45f-47b2-abae-0172f513e2ff",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783093905886
+            },
+            {
+              "id": "cd8ea197-aeb8-4794-becc-31384e789c63",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1783091144217
+            },
+            {
+              "id": "bb1308bf-2816-46f2-af19-01966e9047c3",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783091441639
+            }
+          ],
+          "volume": 2201195.11543596,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 1
+        },
+        {
+          "country": "PL",
+          "count": 2,
+          "recent": [
+            {
+              "id": "aefff0f3-b313-4522-8b2e-1f66417b8fa7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783092592452
+            },
+            {
+              "id": "cb9571ed-c084-4203-bc53-856ba975d0c7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783085587976
+            }
+          ],
+          "volume": 69924.33410798,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 1
+        },
+        {
+          "country": "BY",
+          "count": 1,
+          "recent": [
+            {
+              "id": "aefff0f3-b313-4522-8b2e-1f66417b8fa7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783092592452
+            }
+          ],
+          "volume": 69924.33410798,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "DE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "feb40af4-f6b5-4eb2-b2e7-29e133678df6",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783076572886
+            }
+          ],
+          "volume": 83.99942300000001,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "US",
+          "count": 1,
+          "recent": [
+            {
+              "id": "aefff0f3-b313-4522-8b2e-1f66417b8fa7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783092592452
+            }
+          ],
+          "volume": 69924.33410798,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "LB",
+          "count": 1,
+          "recent": [
+            {
+              "id": "caad3fdc-d248-433a-834d-ce3e86883a00",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783076788357
+            }
+          ],
+          "volume": 193453.28952200027,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "IL",
+          "count": 1,
+          "recent": [
+            {
+              "id": "caad3fdc-d248-433a-834d-ce3e86883a00",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783076788357
+            }
+          ],
+          "volume": 193453.28952200027,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "PE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "eac14787-471e-477a-bbb6-8fdd4ff375c7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783082153315
+            }
+          ],
+          "volume": 50655.89086300001,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "LV",
+          "count": 1,
+          "recent": [
+            {
+              "id": "eac14787-471e-477a-bbb6-8fdd4ff375c7",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783082153315
+            }
+          ],
+          "volume": 50655.89086300001,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "OM",
+          "count": 1,
+          "recent": [
+            {
+              "id": "1112e6a0-f45f-47b2-abae-0172f513e2ff",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783093905886
+            }
+          ],
+          "volume": 542371.5621609595,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        }
+      ],
+      "_scraped_at": "2026-07-03T16:20:18.672291+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
