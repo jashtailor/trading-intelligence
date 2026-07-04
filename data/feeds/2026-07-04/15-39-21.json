@@ -1,0 +1,756 @@
+{
+  "scraped_at": "2026-07-04T15:39:15.076405+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 3,
+  "items": [
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "9569dd27-aa27-410e-b421-96c8923b3361",
+        "timestamp": 1783177204635,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "9569dd27-aa27-410e-b421-96c8923b3361",
+          "text": "\ud83c\uddf7\ud83c\uddfa\ud83d\udcac\ud83c\uddfa\ud83c\udde6 The Kremlin responded to Zelensky's statement about his readiness to meet with Putin in Konstantinovka.\n\n\"If Mr. Zelensky is expressing his readiness to come to Russia in this way, we welcome it. But we want to remind you that Putin spoke about his readiness to receive him in Moscow. After all, the capital of Russia is Moscow, not Konstantinovka. Therefore, he can come to Moscow as soon as he is ready to make important and responsible decisions,\" Peskov said.\n\n\ud83d\udd34@DDGeopolitics",
+          "channel": "DD Geopolitics",
+          "timestamp": 1783177204635,
+          "link": "https://t.me/DDGeopolitics"
+        },
+        "osint": false,
+        "country": "UA",
+        "countries": [
+          "UA",
+          "RU"
+        ],
+        "related_markets": [
+          {
+            "id": "2732525",
+            "slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+            "condition_id": "0x5f4833193b8303cfa74a35571e1e05ab301d5804360aa03e5cd9cdc027add8fc",
+            "title": "July 31",
+            "question": "Will Russia and Ukraine hold any diplomatic meeting by July 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Russia and Ukraine by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Russia-Ukraine relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of Russia and Ukraine, and a consensus of credible reporting.",
+            "image": "",
+            "yes_token_id": "75664220377459757647456485621449233559415637505632291241092085394055106279391",
+            "yes_probability": 0.36,
+            "yes_best_bid": 0.34,
+            "yes_best_ask": 0.36,
+            "yes_spread": 0.019999999999999962,
+            "no_token_id": "52298829000514702690941934727403416556502645325197720971946202060258322984264",
+            "no_probability": 0.66,
+            "no_best_bid": 0.64,
+            "no_best_ask": 0.66,
+            "no_spread": 0.020000000000000018,
+            "volume": 5502.349481799999,
+            "liquidity": 124651.26000000001,
+            "neg_risk": false,
+            "end_date": "2026-07-31T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Official statement from Kremlin indicates openness to diplomatic meeting (1 hop)",
+            "event_id": "648380",
+            "event_title": "Russia x Ukraine any diplomatic meeting by...?",
+            "event_slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+            "detected_yes_price": 0.3,
+            "detected_no_price": 0.72,
+            "detected_at": 1783177213386,
+            "highest_price_change": 0.2,
+            "highest_yes_price": 0.36,
+            "highest_no_price": 0.72,
+            "first_moved_at": 1783178908222,
+            "moved_side": "yes",
+            "peaked_at": 1783178925603
+          },
+          {
+            "id": "2732526",
+            "slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+            "condition_id": "0x4bda4a4df34e9929e7eecb7ee1adc0b6497ee79dddffe14be4b24237cd116cb7",
+            "title": "August 31",
+            "question": "Will Russia and Ukraine hold any diplomatic meeting by August 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Russia and Ukraine by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Russia-Ukraine relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of Russia and Ukraine, and a consensus of credible reporting.",
+            "image": "",
+            "yes_token_id": "63779162653681873245159865633000334437760662853972923572387274664225948677546",
+            "yes_probability": 0.81,
+            "yes_best_bid": 0.47,
+            "yes_best_ask": 0.81,
+            "yes_spread": 0.3400000000000001,
+            "no_token_id": "32498948505314576966704761143540900095142072751411430571598289128995809645377",
+            "no_probability": 0.53,
+            "no_best_bid": 0.19,
+            "no_best_ask": 0.53,
+            "no_spread": 0.34,
+            "volume": 2278.13724232,
+            "liquidity": 90417.98000000003,
+            "neg_risk": false,
+            "end_date": "2026-08-31T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Kremlin's statement shows willingness for diplomatic engagement (1 hop)",
+            "event_id": "648380",
+            "event_title": "Russia x Ukraine any diplomatic meeting by...?",
+            "event_slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+            "detected_yes_price": 0.54,
+            "detected_no_price": 0.5900000000000001,
+            "detected_at": 1783177213386,
+            "highest_price_change": 0.5370370370370369,
+            "highest_yes_price": 0.83,
+            "highest_no_price": 0.63,
+            "first_moved_at": 1783177401159,
+            "moved_side": "yes",
+            "peaked_at": 1783179160562
+          }
+        ],
+        "topics": [
+          "ai-tech",
+          "ukraine-war"
+        ],
+        "categories": [
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "2732526",
+        "slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+        "condition_id": "0x4bda4a4df34e9929e7eecb7ee1adc0b6497ee79dddffe14be4b24237cd116cb7",
+        "title": "August 31",
+        "question": "Will Russia and Ukraine hold any diplomatic meeting by August 31, 2026?",
+        "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Russia and Ukraine by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Russia-Ukraine relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of Russia and Ukraine, and a consensus of credible reporting.",
+        "image": "",
+        "yes_token_id": "63779162653681873245159865633000334437760662853972923572387274664225948677546",
+        "yes_probability": 0.81,
+        "yes_best_bid": 0.47,
+        "yes_best_ask": 0.81,
+        "yes_spread": 0.3400000000000001,
+        "no_token_id": "32498948505314576966704761143540900095142072751411430571598289128995809645377",
+        "no_probability": 0.53,
+        "no_best_bid": 0.19,
+        "no_best_ask": 0.53,
+        "no_spread": 0.34,
+        "volume": 2278.13724232,
+        "liquidity": 90417.98000000003,
+        "neg_risk": false,
+        "end_date": "2026-08-31T23:59:00Z",
+        "categories": [
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 9,
+        "impact_level": "critical",
+        "impact_reason": "Kremlin's statement shows willingness for diplomatic engagement (1 hop)",
+        "event_id": "648380",
+        "event_title": "Russia x Ukraine any diplomatic meeting by...?",
+        "event_slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+        "detected_yes_price": 0.54,
+        "detected_no_price": 0.5900000000000001,
+        "detected_at": 1783177213386,
+        "highest_price_change": 0.5370370370370369,
+        "highest_yes_price": 0.83,
+        "highest_no_price": 0.63,
+        "first_moved_at": 1783177401159,
+        "moved_side": "yes",
+        "peaked_at": 1783179160562
+      },
+      "_scraped_at": "2026-07-04T15:39:15.076405+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "valid": false,
+      "_scraped_at": "2026-07-04T15:39:15.076405+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "global_tension_score": 33,
+      "global_tension_level": "GUARDED",
+      "countries": [
+        {
+          "country": "RU",
+          "count": 21,
+          "recent": [
+            {
+              "id": "4d9c0843-dc16-4e69-a534-ba62ca91b7d9",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1783177302236
+            },
+            {
+              "id": "e2907ad2-a174-473d-8a4b-07facd0a1ce1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783173415326
+            },
+            {
+              "id": "1e4b6f16-af9c-4c50-ba3f-db91549f2cfb",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783160707000
+            },
+            {
+              "id": "709ff9d5-1567-4b03-ad0f-ed02cccd6373",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783171924777
+            },
+            {
+              "id": "d6ae292d-b114-4296-93c0-c503ad4bc9b2",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783175621661
+            },
+            {
+              "id": "e8e3a45c-6358-4c14-bcbd-8aac0c8e0355",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783163680280
+            },
+            {
+              "id": "bc9fb434-0ca0-4f71-a6ee-96b7402980fe",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783172925656
+            },
+            {
+              "id": "30071faf-b9dd-4f1c-80dc-1ebd48a6ef49",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783158548643
+            },
+            {
+              "id": "e5b6a83b-eee0-468a-b2e1-f413590c554f",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783178344604
+            },
+            {
+              "id": "c083b549-bad6-4e6c-a98d-2950146166b5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783171324793
+            },
+            {
+              "id": "046a822e-05dd-40da-94c0-605ca97e43d3",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783167364923
+            },
+            {
+              "id": "94dca290-142c-4c87-b2de-36f9a6c1dff3",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1783172749754
+            },
+            {
+              "id": "9569dd27-aa27-410e-b421-96c8923b3361",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1783177204635
+            },
+            {
+              "id": "0dacabd6-21d7-4668-9fd9-1b3964bb6094",
+              "kind": "news",
+              "impact": "low",
+              "timestamp": 1783158846455
+            },
+            {
+              "id": "0b5aba79-7742-45e3-9540-da54cc87554a",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783166860195
+            },
+            {
+              "id": "6ce372a0-e0b1-4485-8072-b8938fed8867",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1783158160750
+            },
+            {
+              "id": "82f0b0f1-2c4b-40c7-8cff-602869e197bd",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783172874978
+            },
+            {
+              "id": "d53ec177-ac5d-453f-ad0a-1a3ae1fde220",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783167365185
+            },
+            {
+              "id": "896ed0b8-b411-42be-a832-a4085b67aaa5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783173319871
+            },
+            {
+              "id": "4ed5f0a6-6f49-4359-9685-b52385c2abb4",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1783173402087
+            },
+            {
+              "id": "8113183e-15e9-4795-bbe3-2c622c2749a1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783159611000
+            }
+          ],
+          "volume": 5154074.879545083,
+          "critical_signals": 5,
+          "high_signals": 13,
+          "low_signals": 3
+        },
+        {
+          "country": "UA",
+          "count": 19,
+          "recent": [
+            {
+              "id": "4d9c0843-dc16-4e69-a534-ba62ca91b7d9",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1783177302236
+            },
+            {
+              "id": "e2907ad2-a174-473d-8a4b-07facd0a1ce1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783173415326
+            },
+            {
+              "id": "1e4b6f16-af9c-4c50-ba3f-db91549f2cfb",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783160707000
+            },
+            {
+              "id": "709ff9d5-1567-4b03-ad0f-ed02cccd6373",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783171924777
+            },
+            {
+              "id": "bc9fb434-0ca0-4f71-a6ee-96b7402980fe",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783172925656
+            },
+            {
+              "id": "96958141-f2fa-4f08-aa14-5a6c6cc9b9a7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783173845062
+            },
+            {
+              "id": "30071faf-b9dd-4f1c-80dc-1ebd48a6ef49",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783158548643
+            },
+            {
+              "id": "c083b549-bad6-4e6c-a98d-2950146166b5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783171324793
+            },
+            {
+              "id": "046a822e-05dd-40da-94c0-605ca97e43d3",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783167364923
+            },
+            {
+              "id": "94dca290-142c-4c87-b2de-36f9a6c1dff3",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1783172749754
+            },
+            {
+              "id": "9569dd27-aa27-410e-b421-96c8923b3361",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1783177204635
+            },
+            {
+              "id": "0dacabd6-21d7-4668-9fd9-1b3964bb6094",
+              "kind": "news",
+              "impact": "low",
+              "timestamp": 1783158846455
+            },
+            {
+              "id": "0b5aba79-7742-45e3-9540-da54cc87554a",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783166860195
+            },
+            {
+              "id": "6ce372a0-e0b1-4485-8072-b8938fed8867",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1783158160750
+            },
+            {
+              "id": "82f0b0f1-2c4b-40c7-8cff-602869e197bd",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783172874978
+            },
+            {
+              "id": "d53ec177-ac5d-453f-ad0a-1a3ae1fde220",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783167365185
+            },
+            {
+              "id": "896ed0b8-b411-42be-a832-a4085b67aaa5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783173319871
+            },
+            {
+              "id": "4ed5f0a6-6f49-4359-9685-b52385c2abb4",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1783173402087
+            },
+            {
+              "id": "8113183e-15e9-4795-bbe3-2c622c2749a1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783159611000
+            }
+          ],
+          "volume": 4737017.771864077,
+          "critical_signals": 5,
+          "high_signals": 12,
+          "low_signals": 2
+        },
+        {
+          "country": "GB",
+          "count": 15,
+          "recent": [
+            {
+              "id": "e2907ad2-a174-473d-8a4b-07facd0a1ce1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783173415326
+            },
+            {
+              "id": "1e4b6f16-af9c-4c50-ba3f-db91549f2cfb",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783160707000
+            },
+            {
+              "id": "709ff9d5-1567-4b03-ad0f-ed02cccd6373",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783171924777
+            },
+            {
+              "id": "bc9fb434-0ca0-4f71-a6ee-96b7402980fe",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783172925656
+            },
+            {
+              "id": "30071faf-b9dd-4f1c-80dc-1ebd48a6ef49",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783158548643
+            },
+            {
+              "id": "c083b549-bad6-4e6c-a98d-2950146166b5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783171324793
+            },
+            {
+              "id": "046a822e-05dd-40da-94c0-605ca97e43d3",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783167364923
+            },
+            {
+              "id": "94dca290-142c-4c87-b2de-36f9a6c1dff3",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1783172749754
+            },
+            {
+              "id": "0dacabd6-21d7-4668-9fd9-1b3964bb6094",
+              "kind": "news",
+              "impact": "low",
+              "timestamp": 1783158846455
+            },
+            {
+              "id": "0b5aba79-7742-45e3-9540-da54cc87554a",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783166860195
+            },
+            {
+              "id": "6ce372a0-e0b1-4485-8072-b8938fed8867",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1783158160750
+            },
+            {
+              "id": "82f0b0f1-2c4b-40c7-8cff-602869e197bd",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783172874978
+            },
+            {
+              "id": "d53ec177-ac5d-453f-ad0a-1a3ae1fde220",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783167365185
+            },
+            {
+              "id": "4ed5f0a6-6f49-4359-9685-b52385c2abb4",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1783173402087
+            },
+            {
+              "id": "8113183e-15e9-4795-bbe3-2c622c2749a1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783159611000
+            }
+          ],
+          "volume": 4590941.088542957,
+          "critical_signals": 3,
+          "high_signals": 10,
+          "low_signals": 2
+        },
+        {
+          "country": "PE",
+          "count": 3,
+          "recent": [
+            {
+              "id": "e2907ad2-a174-473d-8a4b-07facd0a1ce1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783173415326
+            },
+            {
+              "id": "bc9fb434-0ca0-4f71-a6ee-96b7402980fe",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783172925656
+            },
+            {
+              "id": "93e21c77-5a7b-40ae-85cf-ff62727107a4",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783173844725
+            }
+          ],
+          "volume": 4292830.240964809,
+          "critical_signals": 0,
+          "high_signals": 3,
+          "low_signals": 0
+        },
+        {
+          "country": "IR",
+          "count": 2,
+          "recent": [
+            {
+              "id": "7f74ae9d-d09f-4fb1-8387-5355dc988c37",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783177506000
+            },
+            {
+              "id": "aefa3bac-4c54-4ddd-9858-7a6f9b901cf9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783175734674
+            }
+          ],
+          "volume": 2582976.9543009065,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "FR",
+          "count": 1,
+          "recent": [
+            {
+              "id": "89130234-836f-43cc-97c0-d0638d9ceff0",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783162960298
+            }
+          ],
+          "volume": 242091.10054276057,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "IL",
+          "count": 1,
+          "recent": [
+            {
+              "id": "89130234-836f-43cc-97c0-d0638d9ceff0",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783162960298
+            }
+          ],
+          "volume": 242091.10054276057,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "GR",
+          "count": 1,
+          "recent": [
+            {
+              "id": "099954d8-c412-4caf-bcb0-2c63e296995f",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783169938000
+            }
+          ],
+          "volume": 201.941235,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "SO",
+          "count": 1,
+          "recent": [
+            {
+              "id": "89130234-836f-43cc-97c0-d0638d9ceff0",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783162960298
+            }
+          ],
+          "volume": 242091.10054276057,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "TR",
+          "count": 1,
+          "recent": [
+            {
+              "id": "89130234-836f-43cc-97c0-d0638d9ceff0",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783162960298
+            }
+          ],
+          "volume": 242091.10054276057,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "LV",
+          "count": 1,
+          "recent": [
+            {
+              "id": "d6ae292d-b114-4296-93c0-c503ad4bc9b2",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783175621661
+            }
+          ],
+          "volume": 370858.8304990073,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "TW",
+          "count": 1,
+          "recent": [
+            {
+              "id": "2a917d5f-e9fc-4a55-a5e7-0120c3d619be",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783176265592
+            }
+          ],
+          "volume": 2685928.6096795024,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "SA",
+          "count": 1,
+          "recent": [
+            {
+              "id": "d6ae292d-b114-4296-93c0-c503ad4bc9b2",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783175621661
+            }
+          ],
+          "volume": 370858.8304990073,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "OM",
+          "count": 1,
+          "recent": [
+            {
+              "id": "aefa3bac-4c54-4ddd-9858-7a6f9b901cf9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783175734674
+            }
+          ],
+          "volume": 2345067.4718340067,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "CN",
+          "count": 1,
+          "recent": [
+            {
+              "id": "2a917d5f-e9fc-4a55-a5e7-0120c3d619be",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783176265592
+            }
+          ],
+          "volume": 2685928.6096795024,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        }
+      ],
+      "_scraped_at": "2026-07-04T15:39:15.076405+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
