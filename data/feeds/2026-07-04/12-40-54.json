@@ -1,0 +1,496 @@
+{
+  "scraped_at": "2026-07-04T12:40:50.442493+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 2,
+  "items": [
+    {
+      "valid": false,
+      "_scraped_at": "2026-07-04T12:40:50.442493+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "global_tension_score": 25,
+      "global_tension_level": "GUARDED",
+      "countries": [
+        {
+          "country": "GB",
+          "count": 16,
+          "recent": [
+            {
+              "id": "92fcc061-15eb-4576-95af-f21c27941968",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783147744976
+            },
+            {
+              "id": "30071faf-b9dd-4f1c-80dc-1ebd48a6ef49",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783158548643
+            },
+            {
+              "id": "0dacabd6-21d7-4668-9fd9-1b3964bb6094",
+              "kind": "news",
+              "impact": "low",
+              "timestamp": 1783158846455
+            },
+            {
+              "id": "0b5aba79-7742-45e3-9540-da54cc87554a",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783166860195
+            },
+            {
+              "id": "046a822e-05dd-40da-94c0-605ca97e43d3",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783167364923
+            },
+            {
+              "id": "6f65bf6e-9657-438b-91e1-bbabd74a470b",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1783155729863
+            },
+            {
+              "id": "4c43cacf-0c27-4499-b034-94b054347467",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783148524956
+            },
+            {
+              "id": "d64ce89c-734d-484c-9925-abd64fe79a95",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783152760573
+            },
+            {
+              "id": "afb0280e-6b40-4155-9e61-df27e61458f2",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783153507679
+            },
+            {
+              "id": "6ce372a0-e0b1-4485-8072-b8938fed8867",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1783158160750
+            },
+            {
+              "id": "0b5b459c-ece3-438a-9f0b-13d535ac2f85",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1783153960540
+            },
+            {
+              "id": "aaf11336-8bd4-4edf-846d-96befb686b93",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783148581563
+            },
+            {
+              "id": "d53ec177-ac5d-453f-ad0a-1a3ae1fde220",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783167365185
+            },
+            {
+              "id": "8113183e-15e9-4795-bbe3-2c622c2749a1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783159611000
+            },
+            {
+              "id": "4281dcef-5556-47a0-a7e8-bcf33884c3c9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783152760914
+            },
+            {
+              "id": "1e4b6f16-af9c-4c50-ba3f-db91549f2cfb",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783160707000
+            }
+          ],
+          "volume": 72179078.38815174,
+          "critical_signals": 2,
+          "high_signals": 11,
+          "low_signals": 3
+        },
+        {
+          "country": "RU",
+          "count": 15,
+          "recent": [
+            {
+              "id": "30071faf-b9dd-4f1c-80dc-1ebd48a6ef49",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783158548643
+            },
+            {
+              "id": "15395ab4-cf47-4378-a9fd-0d51961d46e2",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1783150807000
+            },
+            {
+              "id": "0dacabd6-21d7-4668-9fd9-1b3964bb6094",
+              "kind": "news",
+              "impact": "low",
+              "timestamp": 1783158846455
+            },
+            {
+              "id": "74883611-ae86-44d0-ae15-099b8d296aa7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783154860814
+            },
+            {
+              "id": "0b5aba79-7742-45e3-9540-da54cc87554a",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783166860195
+            },
+            {
+              "id": "046a822e-05dd-40da-94c0-605ca97e43d3",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783167364923
+            },
+            {
+              "id": "afb0280e-6b40-4155-9e61-df27e61458f2",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783153507679
+            },
+            {
+              "id": "6ce372a0-e0b1-4485-8072-b8938fed8867",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1783158160750
+            },
+            {
+              "id": "e8e3a45c-6358-4c14-bcbd-8aac0c8e0355",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783163680280
+            },
+            {
+              "id": "aaf11336-8bd4-4edf-846d-96befb686b93",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783148581563
+            },
+            {
+              "id": "d53ec177-ac5d-453f-ad0a-1a3ae1fde220",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783167365185
+            },
+            {
+              "id": "8113183e-15e9-4795-bbe3-2c622c2749a1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783159611000
+            },
+            {
+              "id": "4281dcef-5556-47a0-a7e8-bcf33884c3c9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783152760914
+            },
+            {
+              "id": "1e4b6f16-af9c-4c50-ba3f-db91549f2cfb",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783160707000
+            },
+            {
+              "id": "453784e9-3e97-49f9-8113-caf9a0c65321",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783153872933
+            }
+          ],
+          "volume": 4573940.6464767745,
+          "critical_signals": 1,
+          "high_signals": 11,
+          "low_signals": 3
+        },
+        {
+          "country": "UA",
+          "count": 15,
+          "recent": [
+            {
+              "id": "92fcc061-15eb-4576-95af-f21c27941968",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783147744976
+            },
+            {
+              "id": "30071faf-b9dd-4f1c-80dc-1ebd48a6ef49",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783158548643
+            },
+            {
+              "id": "0dacabd6-21d7-4668-9fd9-1b3964bb6094",
+              "kind": "news",
+              "impact": "low",
+              "timestamp": 1783158846455
+            },
+            {
+              "id": "0b5aba79-7742-45e3-9540-da54cc87554a",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783166860195
+            },
+            {
+              "id": "046a822e-05dd-40da-94c0-605ca97e43d3",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783167364923
+            },
+            {
+              "id": "6f65bf6e-9657-438b-91e1-bbabd74a470b",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1783155729863
+            },
+            {
+              "id": "4c43cacf-0c27-4499-b034-94b054347467",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783148524956
+            },
+            {
+              "id": "afb0280e-6b40-4155-9e61-df27e61458f2",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783153507679
+            },
+            {
+              "id": "6ce372a0-e0b1-4485-8072-b8938fed8867",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1783158160750
+            },
+            {
+              "id": "0b5b459c-ece3-438a-9f0b-13d535ac2f85",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1783153960540
+            },
+            {
+              "id": "aaf11336-8bd4-4edf-846d-96befb686b93",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783148581563
+            },
+            {
+              "id": "d53ec177-ac5d-453f-ad0a-1a3ae1fde220",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783167365185
+            },
+            {
+              "id": "8113183e-15e9-4795-bbe3-2c622c2749a1",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783159611000
+            },
+            {
+              "id": "4281dcef-5556-47a0-a7e8-bcf33884c3c9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783152760914
+            },
+            {
+              "id": "1e4b6f16-af9c-4c50-ba3f-db91549f2cfb",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783160707000
+            }
+          ],
+          "volume": 6447915.316713104,
+          "critical_signals": 2,
+          "high_signals": 10,
+          "low_signals": 3
+        },
+        {
+          "country": "SO",
+          "count": 2,
+          "recent": [
+            {
+              "id": "89130234-836f-43cc-97c0-d0638d9ceff0",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783162960298
+            },
+            {
+              "id": "7cfa2f43-3c93-487f-81a7-f040e3deaae8",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783151860600
+            }
+          ],
+          "volume": 310755.0424560006,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "FR",
+          "count": 2,
+          "recent": [
+            {
+              "id": "89130234-836f-43cc-97c0-d0638d9ceff0",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783162960298
+            },
+            {
+              "id": "d64ce89c-734d-484c-9925-abd64fe79a95",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783152760573
+            }
+          ],
+          "volume": 65973235.667081624,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "CN",
+          "count": 2,
+          "recent": [
+            {
+              "id": "44b326c3-5141-4285-ba96-05949c2132d6",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783154613797
+            },
+            {
+              "id": "0d2bcccf-36f9-4575-8481-2f585656b143",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783147384986
+            }
+          ],
+          "volume": 44665753.43002844,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "LV",
+          "count": 2,
+          "recent": [
+            {
+              "id": "4c43cacf-0c27-4499-b034-94b054347467",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783148524956
+            },
+            {
+              "id": "0b5b459c-ece3-438a-9f0b-13d535ac2f85",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1783153960540
+            }
+          ],
+          "volume": 58615.238456,
+          "critical_signals": 1,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "TW",
+          "count": 1,
+          "recent": [
+            {
+              "id": "44b326c3-5141-4285-ba96-05949c2132d6",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783154613797
+            }
+          ],
+          "volume": 42293565.549825124,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "IR",
+          "count": 1,
+          "recent": [
+            {
+              "id": "d64ce89c-734d-484c-9925-abd64fe79a95",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783152760573
+            }
+          ],
+          "volume": 65731163.07143862,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "YE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "7cfa2f43-3c93-487f-81a7-f040e3deaae8",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783151860600
+            }
+          ],
+          "volume": 68682.446813,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "IL",
+          "count": 1,
+          "recent": [
+            {
+              "id": "89130234-836f-43cc-97c0-d0638d9ceff0",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783162960298
+            }
+          ],
+          "volume": 242072.59564300056,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "TR",
+          "count": 1,
+          "recent": [
+            {
+              "id": "89130234-836f-43cc-97c0-d0638d9ceff0",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783162960298
+            }
+          ],
+          "volume": 242072.59564300056,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        }
+      ],
+      "_scraped_at": "2026-07-04T12:40:50.442493+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
