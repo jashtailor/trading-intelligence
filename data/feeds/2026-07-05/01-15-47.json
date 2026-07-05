@@ -1,0 +1,809 @@
+{
+  "scraped_at": "2026-07-05T01:15:41.043587+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 4,
+  "items": [
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "9569dd27-aa27-410e-b421-96c8923b3361",
+        "timestamp": 1783177204635,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "9569dd27-aa27-410e-b421-96c8923b3361",
+          "text": "\ud83c\uddf7\ud83c\uddfa\ud83d\udcac\ud83c\uddfa\ud83c\udde6 The Kremlin responded to Zelensky's statement about his readiness to meet with Putin in Konstantinovka.\n\n\"If Mr. Zelensky is expressing his readiness to come to Russia in this way, we welcome it. But we want to remind you that Putin spoke about his readiness to receive him in Moscow. After all, the capital of Russia is Moscow, not Konstantinovka. Therefore, he can come to Moscow as soon as he is ready to make important and responsible decisions,\" Peskov said.\n\n\ud83d\udd34@DDGeopolitics",
+          "channel": "DD Geopolitics",
+          "timestamp": 1783177204635,
+          "link": "https://t.me/DDGeopolitics"
+        },
+        "osint": false,
+        "country": "UA",
+        "countries": [
+          "UA",
+          "RU"
+        ],
+        "related_markets": [
+          {
+            "id": "2732525",
+            "slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+            "condition_id": "0x5f4833193b8303cfa74a35571e1e05ab301d5804360aa03e5cd9cdc027add8fc",
+            "title": "July 31",
+            "question": "Will Russia and Ukraine hold any diplomatic meeting by July 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Russia and Ukraine by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Russia-Ukraine relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of Russia and Ukraine, and a consensus of credible reporting.",
+            "image": "",
+            "yes_token_id": "75664220377459757647456485621449233559415637505632291241092085394055106279391",
+            "yes_probability": 0.45,
+            "yes_best_bid": 0.38,
+            "yes_best_ask": 0.45,
+            "yes_spread": 0.07,
+            "no_token_id": "52298829000514702690941934727403416556502645325197720971946202060258322984264",
+            "no_probability": 0.62,
+            "no_best_bid": 0.55,
+            "no_best_ask": 0.62,
+            "no_spread": 0.06999999999999995,
+            "volume": 9252.635166999999,
+            "liquidity": 138760.55000000005,
+            "neg_risk": false,
+            "end_date": "2026-07-31T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Official statement from Kremlin indicates openness to diplomatic meeting (1 hop)",
+            "event_id": "648380",
+            "event_title": "Russia x Ukraine any diplomatic meeting by...?",
+            "event_slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+            "detected_yes_price": 0.3,
+            "detected_no_price": 0.72,
+            "detected_at": 1783177213386,
+            "highest_price_change": 1.0666666666666667,
+            "highest_yes_price": 0.62,
+            "highest_no_price": 0.72,
+            "first_moved_at": 1783198678318,
+            "moved_side": "yes",
+            "peaked_at": 1783203677702
+          },
+          {
+            "id": "2732526",
+            "slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+            "condition_id": "0x4bda4a4df34e9929e7eecb7ee1adc0b6497ee79dddffe14be4b24237cd116cb7",
+            "title": "August 31",
+            "question": "Will Russia and Ukraine hold any diplomatic meeting by August 31, 2026?",
+            "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Russia and Ukraine by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Russia-Ukraine relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of Russia and Ukraine, and a consensus of credible reporting.",
+            "image": "",
+            "yes_token_id": "63779162653681873245159865633000334437760662853972923572387274664225948677546",
+            "yes_probability": 0.6,
+            "yes_best_bid": 0.58,
+            "yes_best_ask": 0.6,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "32498948505314576966704761143540900095142072751411430571598289128995809645377",
+            "no_probability": 0.42,
+            "no_best_bid": 0.4,
+            "no_best_ask": 0.42,
+            "no_spread": 0.019999999999999962,
+            "volume": 3274.188165,
+            "liquidity": 230290.37000000002,
+            "neg_risk": false,
+            "end_date": "2026-08-31T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Kremlin's statement shows willingness for diplomatic engagement (1 hop)",
+            "event_id": "648380",
+            "event_title": "Russia x Ukraine any diplomatic meeting by...?",
+            "event_slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+            "detected_yes_price": 0.54,
+            "detected_no_price": 0.5900000000000001,
+            "detected_at": 1783177213386,
+            "highest_price_change": 0.27777777777777757,
+            "highest_yes_price": 0.69,
+            "highest_no_price": 0.6,
+            "first_moved_at": 1783177401159,
+            "moved_side": "yes",
+            "peaked_at": 1783199497992
+          }
+        ],
+        "topics": [
+          "ai-tech",
+          "ukraine-war"
+        ],
+        "categories": [
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "2732526",
+        "slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+        "condition_id": "0x4bda4a4df34e9929e7eecb7ee1adc0b6497ee79dddffe14be4b24237cd116cb7",
+        "title": "August 31",
+        "question": "Will Russia and Ukraine hold any diplomatic meeting by August 31, 2026?",
+        "description": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Russia and Ukraine by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Russia-Ukraine relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of Russia and Ukraine, and a consensus of credible reporting.",
+        "image": "",
+        "yes_token_id": "63779162653681873245159865633000334437760662853972923572387274664225948677546",
+        "yes_probability": 0.6,
+        "yes_best_bid": 0.58,
+        "yes_best_ask": 0.6,
+        "yes_spread": 0.020000000000000018,
+        "no_token_id": "32498948505314576966704761143540900095142072751411430571598289128995809645377",
+        "no_probability": 0.42,
+        "no_best_bid": 0.4,
+        "no_best_ask": 0.42,
+        "no_spread": 0.019999999999999962,
+        "volume": 3274.188165,
+        "liquidity": 230290.37000000002,
+        "neg_risk": false,
+        "end_date": "2026-08-31T23:59:00Z",
+        "categories": [
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 9,
+        "impact_level": "critical",
+        "impact_reason": "Kremlin's statement shows willingness for diplomatic engagement (1 hop)",
+        "event_id": "648380",
+        "event_title": "Russia x Ukraine any diplomatic meeting by...?",
+        "event_slug": "russia-x-ukraine-any-diplomatic-meeting-byptptpt-20260629155934230",
+        "detected_yes_price": 0.54,
+        "detected_no_price": 0.5900000000000001,
+        "detected_at": 1783177213386,
+        "highest_price_change": 0.27777777777777757,
+        "highest_yes_price": 0.69,
+        "highest_no_price": 0.6,
+        "first_moved_at": 1783177401159,
+        "moved_side": "yes",
+        "peaked_at": 1783199497992
+      },
+      "_scraped_at": "2026-07-05T01:15:41.043587+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 2,
+      "feed_item": {
+        "id": "aaf11336-8bd4-4edf-846d-96befb686b93",
+        "timestamp": 1783148581563,
+        "tweet": {
+          "feed_item_id": "aaf11336-8bd4-4edf-846d-96befb686b93",
+          "post_id": "2073301538702086417",
+          "post_type": "tweet",
+          "created_at": 1783148581563,
+          "user": {
+            "uid": "3295423333",
+            "handle": "FirstSquawk",
+            "display_name": "First Squawk",
+            "pfp": "https://pbs.twimg.com/profile_images/1039778545738964992/6fl6RNN0.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "Ukrainian Military Refutes Russian Claims of Control Over Kostiantynivka",
+          "link": "https://twitter.com/FirstSquawk/status/2073301538702086417"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "UA",
+        "countries": [
+          "UA",
+          "RU",
+          "GB"
+        ],
+        "related_markets": [
+          {
+            "id": "2159718",
+            "slug": "will-russia-capture-kostyantynivka-by",
+            "condition_id": "0x271e1d96693db79b42a277dc5f64b61a72bc1a0fad85586fd28c7d89b9b96231",
+            "title": "September 30, 2026",
+            "question": "Will Russia capture Kostyantynivka by September 30?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the Kostyantynivka railroad station located on Pravoberezhna vulytsia by September 30, 2026 at 11:59 PM ET.\n\nThe railroad station will be considered captured if any part of the train station icon is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by September 30, 2026, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of if it is shaded red in the ISW map. An announcement of a negotiated settlement which gives Russia de jure control will not qualify. Actual control must be established.\n\nOnce Russia captures the railroad station, any subsequent loss of control will not be considered towards the resolution of this market.\n\nTrain Station Location: https://polymarket-upload.s3.us-east-2.amazonaws.com/Kostyantynivka3.jpg\n\nTrain Station Location in Kostyantynivka: https://polymarket-upload.s3.us-east-2.amazonaws.com/Kostyantynivka2.jpg\n\nKostyantynivka Location: https://polymarket-upload.s3.us-east-2.amazonaws.com/Kostyantynivka1.jpg\n\nLocation on Google maps: https://maps.app.goo.gl/hZ6ch5jVRvkNFY317\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map which will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-kostyantynivka-by-38lHU3PVeM7C.jpg",
+            "yes_token_id": "55628874182306186050631811887515133881663823417535899038376461448048315313936",
+            "yes_probability": 0.89,
+            "yes_best_bid": 0.88,
+            "yes_best_ask": 0.89,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "63712527751974257201038440220031691363508120012860375402898424160848105925111",
+            "no_probability": 0.12,
+            "no_best_bid": 0.11,
+            "no_best_ask": 0.12,
+            "no_spread": 0.009999999999999995,
+            "volume": 169637.62409270986,
+            "liquidity": 214301.42999999996,
+            "neg_risk": false,
+            "end_date": "2026-09-30T12:00:00Z",
+            "categories": [
+              "politics",
+              "world",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Ukrainian military's denial of control = 1 hop to capture odds.",
+            "event_id": "25036",
+            "event_title": "Will Russia capture Kostyantynivka by...?",
+            "event_slug": "will-russia-capture-kostyantynivka-by",
+            "detected_yes_price": 0.89,
+            "detected_no_price": 0.12,
+            "detected_at": 1783148615247,
+            "highest_price_change": 0.25,
+            "highest_yes_price": 0.9,
+            "highest_no_price": 0.15,
+            "first_moved_at": 1783149127812,
+            "moved_side": "no",
+            "peaked_at": 1783149156282
+          },
+          {
+            "id": "2608935",
+            "slug": "will-russia-capture-kostyantynivka-by",
+            "condition_id": "0x06c901b3983cd58bec34252a72a74d4a2f2a64e6ad359967a864dc424997967a",
+            "title": "July 31, 2026",
+            "question": "Will Russia capture Kostyantynivka by July 31?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the Kostyantynivka railroad station located on Pravoberezhna vulytsia by July 31, 2026 at 11:59 PM ET.\n\nThe railroad station will be considered captured if any part of the train station icon is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by July 31, 2026, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of if it is shaded red in the ISW map. An announcement of a negotiated settlement which gives Russia de jure control will not qualify. Actual control must be established.\n\nOnce Russia captures the railroad station, any subsequent loss of control will not be considered towards the resolution of this market.\n\nTrain Station Location: https://polymarket-upload.s3.us-east-2.amazonaws.com/Kostyantynivka3.jpg\n\nTrain Station Location in Kostyantynivka: https://polymarket-upload.s3.us-east-2.amazonaws.com/Kostyantynivka2.jpg\n\nKostyantynivka Location: https://polymarket-upload.s3.us-east-2.amazonaws.com/Kostyantynivka1.jpg\n\nLocation on Google maps: https://maps.app.goo.gl/hZ6ch5jVRvkNFY317\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map which will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-kostyantynivka-by-38lHU3PVeM7C.jpg",
+            "yes_token_id": "74262568044285840417555465910703355991632422692108408453199177956025235702892",
+            "yes_probability": 0.64,
+            "yes_best_bid": 0.62,
+            "yes_best_ask": 0.64,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "27439106235775318645595032971458838971379139916658536272028798702332813745098",
+            "no_probability": 0.38,
+            "no_best_bid": 0.36,
+            "no_best_ask": 0.38,
+            "no_spread": 0.020000000000000018,
+            "volume": 57517.65948372998,
+            "liquidity": 121450.73999999999,
+            "neg_risk": false,
+            "end_date": "2026-07-31T12:00:00Z",
+            "categories": [
+              "politics",
+              "world",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Ukrainian military's denial of control = 1 hop to capture odds.",
+            "event_id": "25036",
+            "event_title": "Will Russia capture Kostyantynivka by...?",
+            "event_slug": "will-russia-capture-kostyantynivka-by",
+            "detected_yes_price": 0.53,
+            "detected_no_price": 0.48,
+            "detected_at": 1783148615247,
+            "highest_price_change": 0.22641509433962262,
+            "highest_yes_price": 0.65,
+            "highest_no_price": 0.48,
+            "first_moved_at": 1783149451669,
+            "moved_side": "yes",
+            "peaked_at": 1783205980723
+          },
+          {
+            "id": "677366",
+            "slug": "will-russia-capture-kostyantynivka-by",
+            "condition_id": "0x7e50b661a2bedc670bcf32fc9ece12616f6fc4fba5dbe8526292bf3447374009",
+            "title": "December 31, 2026",
+            "question": "Will Russia capture Kostyantynivka by December 31, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the Kostyantynivka railroad station located on Pravoberezhna vulytsia by December 31, 2026 at 11:59 PM ET.\n\nThe railroad station will be considered captured if any part of the train station icon is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by December 31, 2026, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of if it is shaded red in the ISW map. An announcement of a negotiated settlement which gives Russia de jure control will not qualify. Actual control must be established.\n\nOnce Russia captures the railroad station, any subsequent loss of control will not be considered towards the resolution of this market.\n\nTrain Station Location: https://polymarket-upload.s3.us-east-2.amazonaws.com/Kostyantynivka3.jpg\n\nTrain Station Location in Kostyantynivka: https://polymarket-upload.s3.us-east-2.amazonaws.com/Kostyantynivka2.jpg\n\nKostyantynivka Location: https://polymarket-upload.s3.us-east-2.amazonaws.com/Kostyantynivka1.jpg\n\nLocation on Google maps: https://maps.app.goo.gl/hZ6ch5jVRvkNFY317\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map which will not be considered.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-kostyantynivka-by-38lHU3PVeM7C.jpg",
+            "yes_token_id": "83552904656813968939383082097054433404653657244784709614448703928529504455469",
+            "yes_probability": 0.95,
+            "yes_best_bid": 0.942,
+            "yes_best_ask": 0.95,
+            "yes_spread": 0.008000000000000007,
+            "no_token_id": "47029152085101973226255505664149277121974669906212969183902148537312535402801",
+            "no_probability": 0.058,
+            "no_best_bid": 0.05,
+            "no_best_ask": 0.058,
+            "no_spread": 0.008,
+            "volume": 755030.5406927266,
+            "liquidity": 319449.0299999999,
+            "neg_risk": false,
+            "end_date": "2026-12-31T12:00:00Z",
+            "categories": [
+              "politics",
+              "world",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Ukrainian military's denial of control = 1 hop to capture odds.",
+            "event_id": "25036",
+            "event_title": "Will Russia capture Kostyantynivka by...?",
+            "event_slug": "will-russia-capture-kostyantynivka-by",
+            "detected_yes_price": 0.93,
+            "detected_no_price": 0.08999999999999997,
+            "detected_at": 1783148615247,
+            "highest_price_change": 0.02150537634408592,
+            "highest_yes_price": 0.95,
+            "highest_no_price": 0.08999999999999997,
+            "first_moved_at": 1783205980982,
+            "moved_side": "yes",
+            "peaked_at": 1783205981189
+          },
+          {
+            "id": "2676498",
+            "slug": "will-russia-capture-all-of-kostyantynivka-by",
+            "condition_id": "0x8d9b48b0279eeb24bda82d4e8065b0ac4a236c3d1467722522fa4bf7452387da",
+            "title": "July 31",
+            "question": "Will Russia capture all of Kostyantynivka by July 31, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the entirety of Kostyantynivka, Donetsk Oblast, (48.528896\u00b0 N, 37.702514\u00b0 E) by the specified date, 11:59 PM ET.\n\nKostyantynivka will be considered captured if the entirety of the municipality is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by the resolution date, the market will resolve to \u201cNo\u201d.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nThe territory of the municipality is shaded in light grey and is distinguished from bordering municipalities with a darker grey line. If all area within the municipality is shaded in red, however, the shading does not precisely match up with the border such that there is a tiny amount of grey along the border of the city, this will still qualify for a \"Yes\" resolution.\n\nOnce Russia captures the entirety of the specified area, any subsequent loss of control will not be considered towards the resolution of this market.\n\nLocation on Google maps: https://maps.app.goo.gl/p9N3w6yRVfjx6cuZ8\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of whether it is shaded red in the ISW map. An announcement of a negotiated settlement that gives Russia de jure control will not qualify. Actual control must be established.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-kostyantynivka-by-june-30-2026-grxHK_Uj3Vv9.jpg",
+            "yes_token_id": "81265613177530789089561486285637450380451172964269796324193802440285628055035",
+            "yes_probability": 0.06,
+            "yes_best_bid": 0.059,
+            "yes_best_ask": 0.06,
+            "yes_spread": 0.0010000000000000009,
+            "no_token_id": "102777432438490105744589381277043536919119181248567483971648498029151805825022",
+            "no_probability": 0.941,
+            "no_best_bid": 0.94,
+            "no_best_ask": 0.941,
+            "no_spread": 0.0010000000000000009,
+            "volume": 79642.95474551493,
+            "liquidity": 314057.2799999999,
+            "neg_risk": false,
+            "end_date": "2026-07-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Ukrainian military's denial of control = 1 hop to capture odds.",
+            "event_id": "216716",
+            "event_title": "Will Russia capture all of Kostyantynivka by...?",
+            "event_slug": "will-russia-capture-all-of-kostyantynivka-by",
+            "detected_yes_price": 0.07,
+            "detected_no_price": 0.9359999999999999,
+            "detected_at": 1783148615247,
+            "highest_price_change": 0.05714285714285699,
+            "highest_yes_price": 0.074,
+            "highest_no_price": 0.95,
+            "first_moved_at": 1783198671269,
+            "moved_side": "yes",
+            "peaked_at": 1783200303682
+          },
+          {
+            "id": "2676506",
+            "slug": "will-russia-capture-all-of-kostyantynivka-by",
+            "condition_id": "0x11b5073c5821aaea68401dc0f3f5d8a76d8ea24047d573a070b1f3e5a37e3396",
+            "title": "September 30",
+            "question": "Will Russia capture all of Kostyantynivka by September 30, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the entirety of Kostyantynivka, Donetsk Oblast, (48.528896\u00b0 N, 37.702514\u00b0 E) by the specified date, 11:59 PM ET.\n\nKostyantynivka will be considered captured if the entirety of the municipality is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by the resolution date, the market will resolve to \u201cNo\u201d.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nThe territory of the municipality is shaded in light grey and is distinguished from bordering municipalities with a darker grey line. If all area within the municipality is shaded in red, however, the shading does not precisely match up with the border such that there is a tiny amount of grey along the border of the city, this will still qualify for a \"Yes\" resolution.\n\nOnce Russia captures the entirety of the specified area, any subsequent loss of control will not be considered towards the resolution of this market.\n\nLocation on Google maps: https://maps.app.goo.gl/p9N3w6yRVfjx6cuZ8\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of whether it is shaded red in the ISW map. An announcement of a negotiated settlement that gives Russia de jure control will not qualify. Actual control must be established.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-kostyantynivka-by-june-30-2026-grxHK_Uj3Vv9.jpg",
+            "yes_token_id": "39215093907090950148144130723849992081011804245397427262749438484031259879910",
+            "yes_probability": 0.24,
+            "yes_best_bid": 0.23,
+            "yes_best_ask": 0.24,
+            "yes_spread": 0.009999999999999981,
+            "no_token_id": "41661640119428010672209405631675822949021531925536748505084313964699409974180",
+            "no_probability": 0.77,
+            "no_best_bid": 0.76,
+            "no_best_ask": 0.77,
+            "no_spread": 0.010000000000000009,
+            "volume": 28504.00675197002,
+            "liquidity": 150886.71999999997,
+            "neg_risk": false,
+            "end_date": "2026-09-30T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Ukrainian military's denial of control = 1 hop to capture odds.",
+            "event_id": "216716",
+            "event_title": "Will Russia capture all of Kostyantynivka by...?",
+            "event_slug": "will-russia-capture-all-of-kostyantynivka-by",
+            "detected_yes_price": 0.23,
+            "detected_no_price": 0.78,
+            "detected_at": 1783148615247,
+            "highest_price_change": 0.04347826086956513,
+            "highest_yes_price": 0.24,
+            "highest_no_price": 0.78,
+            "first_moved_at": 1783200624353,
+            "moved_side": "yes",
+            "peaked_at": 1783200624353
+          }
+        ],
+        "topics": [
+          "ai-tech",
+          "ukraine-war"
+        ],
+        "categories": [
+          "geopolitics",
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "2608935",
+        "slug": "will-russia-capture-kostyantynivka-by",
+        "condition_id": "0x06c901b3983cd58bec34252a72a74d4a2f2a64e6ad359967a864dc424997967a",
+        "title": "July 31, 2026",
+        "question": "Will Russia capture Kostyantynivka by July 31?",
+        "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the Kostyantynivka railroad station located on Pravoberezhna vulytsia by July 31, 2026 at 11:59 PM ET.\n\nThe railroad station will be considered captured if any part of the train station icon is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by July 31, 2026, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of if it is shaded red in the ISW map. An announcement of a negotiated settlement which gives Russia de jure control will not qualify. Actual control must be established.\n\nOnce Russia captures the railroad station, any subsequent loss of control will not be considered towards the resolution of this market.\n\nTrain Station Location: https://polymarket-upload.s3.us-east-2.amazonaws.com/Kostyantynivka3.jpg\n\nTrain Station Location in Kostyantynivka: https://polymarket-upload.s3.us-east-2.amazonaws.com/Kostyantynivka2.jpg\n\nKostyantynivka Location: https://polymarket-upload.s3.us-east-2.amazonaws.com/Kostyantynivka1.jpg\n\nLocation on Google maps: https://maps.app.goo.gl/hZ6ch5jVRvkNFY317\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map which will not be considered.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-kostyantynivka-by-38lHU3PVeM7C.jpg",
+        "yes_token_id": "74262568044285840417555465910703355991632422692108408453199177956025235702892",
+        "yes_probability": 0.64,
+        "yes_best_bid": 0.62,
+        "yes_best_ask": 0.64,
+        "yes_spread": 0.020000000000000018,
+        "no_token_id": "27439106235775318645595032971458838971379139916658536272028798702332813745098",
+        "no_probability": 0.38,
+        "no_best_bid": 0.36,
+        "no_best_ask": 0.38,
+        "no_spread": 0.020000000000000018,
+        "volume": 57517.65948372998,
+        "liquidity": 121450.73999999999,
+        "neg_risk": false,
+        "end_date": "2026-07-31T12:00:00Z",
+        "categories": [
+          "politics",
+          "world",
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Ukrainian military's denial of control = 1 hop to capture odds.",
+        "event_id": "25036",
+        "event_title": "Will Russia capture Kostyantynivka by...?",
+        "event_slug": "will-russia-capture-kostyantynivka-by",
+        "detected_yes_price": 0.53,
+        "detected_no_price": 0.48,
+        "detected_at": 1783148615247,
+        "highest_price_change": 0.22641509433962262,
+        "highest_yes_price": 0.65,
+        "highest_no_price": 0.48,
+        "first_moved_at": 1783149451669,
+        "moved_side": "yes",
+        "peaked_at": 1783205980723
+      },
+      "_scraped_at": "2026-07-05T01:15:41.043587+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "valid": false,
+      "_scraped_at": "2026-07-05T01:15:41.043587+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "global_tension_score": 27,
+      "global_tension_level": "GUARDED",
+      "countries": [
+        {
+          "country": "UA",
+          "count": 6,
+          "recent": [
+            {
+              "id": "2ccf4049-a339-4e86-bf2e-cd5182df43ec",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783195384275
+            },
+            {
+              "id": "dce9b1ef-5ace-49f8-b086-5b7f58e7fefe",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1783197311438
+            },
+            {
+              "id": "dacab890-f1f7-4db1-9ebc-bcfdeb681d73",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783195384276
+            },
+            {
+              "id": "4596c2c8-5957-46f1-b8b0-ab053d4d8f22",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783200948462
+            },
+            {
+              "id": "8e7336b8-d69a-4620-acdc-c7ca7dc4d157",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783202628415
+            },
+            {
+              "id": "c96a9049-341e-4900-89df-cd6e5ff827f1",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1783200577716
+            }
+          ],
+          "volume": 2323777.7200021837,
+          "critical_signals": 1,
+          "high_signals": 5,
+          "low_signals": 0
+        },
+        {
+          "country": "GB",
+          "count": 5,
+          "recent": [
+            {
+              "id": "2ccf4049-a339-4e86-bf2e-cd5182df43ec",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783195384275
+            },
+            {
+              "id": "dce9b1ef-5ace-49f8-b086-5b7f58e7fefe",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1783197311438
+            },
+            {
+              "id": "dacab890-f1f7-4db1-9ebc-bcfdeb681d73",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783195384276
+            },
+            {
+              "id": "8e7336b8-d69a-4620-acdc-c7ca7dc4d157",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783202628415
+            },
+            {
+              "id": "c96a9049-341e-4900-89df-cd6e5ff827f1",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1783200577716
+            }
+          ],
+          "volume": 2200612.1610195236,
+          "critical_signals": 1,
+          "high_signals": 4,
+          "low_signals": 0
+        },
+        {
+          "country": "RU",
+          "count": 5,
+          "recent": [
+            {
+              "id": "2ccf4049-a339-4e86-bf2e-cd5182df43ec",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783195384275
+            },
+            {
+              "id": "c397f9de-cca1-422e-8b85-95dc35a7afa8",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783195564402
+            },
+            {
+              "id": "dce9b1ef-5ace-49f8-b086-5b7f58e7fefe",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1783197311438
+            },
+            {
+              "id": "dacab890-f1f7-4db1-9ebc-bcfdeb681d73",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783195384276
+            },
+            {
+              "id": "4596c2c8-5957-46f1-b8b0-ab053d4d8f22",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783200948462
+            }
+          ],
+          "volume": 2254025.8227631836,
+          "critical_signals": 0,
+          "high_signals": 5,
+          "low_signals": 0
+        },
+        {
+          "country": "TR",
+          "count": 2,
+          "recent": [
+            {
+              "id": "dacab890-f1f7-4db1-9ebc-bcfdeb681d73",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783195384276
+            },
+            {
+              "id": "c96a9049-341e-4900-89df-cd6e5ff827f1",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1783200577716
+            }
+          ],
+          "volume": 702669.4589035229,
+          "critical_signals": 1,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "YE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "574df8a5-b5f9-411d-af26-1a19eae390cc",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1783209007326
+            }
+          ],
+          "volume": 1665619.6711300001,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "PE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "dacab890-f1f7-4db1-9ebc-bcfdeb681d73",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783195384276
+            }
+          ],
+          "volume": 856.316604,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "CN",
+          "count": 1,
+          "recent": [
+            {
+              "id": "4596c2c8-5957-46f1-b8b0-ab053d4d8f22",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783200948462
+            }
+          ],
+          "volume": 123165.55898265993,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "US",
+          "count": 1,
+          "recent": [
+            {
+              "id": "c96a9049-341e-4900-89df-cd6e5ff827f1",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1783200577716
+            }
+          ],
+          "volume": 701813.1422995229,
+          "critical_signals": 1,
+          "high_signals": 0,
+          "low_signals": 0
+        },
+        {
+          "country": "SA",
+          "count": 1,
+          "recent": [
+            {
+              "id": "574df8a5-b5f9-411d-af26-1a19eae390cc",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1783209007326
+            }
+          ],
+          "volume": 1665619.6711300001,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "FI",
+          "count": 1,
+          "recent": [
+            {
+              "id": "dacab890-f1f7-4db1-9ebc-bcfdeb681d73",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783195384276
+            }
+          ],
+          "volume": 856.316604,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "IR",
+          "count": 1,
+          "recent": [
+            {
+              "id": "574df8a5-b5f9-411d-af26-1a19eae390cc",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1783209007326
+            }
+          ],
+          "volume": 1665619.6711300001,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "CA",
+          "count": 1,
+          "recent": [
+            {
+              "id": "dacab890-f1f7-4db1-9ebc-bcfdeb681d73",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783195384276
+            }
+          ],
+          "volume": 856.316604,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "IL",
+          "count": 1,
+          "recent": [
+            {
+              "id": "40f72899-7653-42cf-af27-43f21995796e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783206168396
+            }
+          ],
+          "volume": 50345.840957290035,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "PS",
+          "count": 1,
+          "recent": [
+            {
+              "id": "40f72899-7653-42cf-af27-43f21995796e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783206168396
+            }
+          ],
+          "volume": 50345.840957290035,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        }
+      ],
+      "_scraped_at": "2026-07-05T01:15:41.043587+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
