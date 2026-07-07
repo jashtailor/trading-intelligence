@@ -1,0 +1,1016 @@
+{
+  "scraped_at": "2026-07-07T10:37:23.784897+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 4,
+  "items": [
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "59ed20e6-7fac-4f14-b106-6a246553dc7d",
+        "timestamp": 1783346400188,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "59ed20e6-7fac-4f14-b106-6a246553dc7d",
+          "text": "Germany is going to borrow \u20ac800 bln for rearmament in historic shift - FT.|FJ",
+          "channel": "FinancialJuice",
+          "timestamp": 1783346400188,
+          "link": "https://t.me/FinancialJuice"
+        },
+        "osint": false,
+        "country": "DE",
+        "countries": [
+          "DE"
+        ],
+        "related_markets": [
+          {
+            "id": "2129291",
+            "slug": "germany-gdp-growth-in-q2-2026",
+            "condition_id": "0xb895a712418096470dd93b6a400958ad8dc8f6a918fea84ed5406d573c6f71ca",
+            "title": "\u22640.0%",
+            "question": "Will Germany GDP growth in Q2 2026 be less than or equal to 0.0%?",
+            "description": "This market will resolve according to the German GDP growth rate (% change) on the same quarter a year earlier, price adjusted, as reported in the first release of the Destatis Gross Domestic Product press release for Q2 of 2026, expected to be released on July 30, 2026.\n\nThe GDP release will be made available here: https://www.destatis.de/EN/Themes/Economy/National-Accounts-Domestic-Product/_node.html\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nIf no data for the specified quarter is released by the date the next quarter's data is scheduled to be released, this market will resolve based on data from the last available quarter.\n\nThe resolution source for this market reports GDP growth rates to only one decimal point (e.g. 0.3%). Thus, this is the level of precision that will be used when resolving the market.\n\nNote: data from the initial release of the referenced GDP report is what will be used to resolve this market. Data may be revised during the following quarter, or as a part of the next estimate's publication; however, any revisions to GDP report data made after the initial release of the specified report will not be considered for this market's resolution.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/germany-gdp-growth-in-q4-2025--yc9KkWjSfAN.jpg",
+            "yes_token_id": "44702828512184574462590393280656337537666204335857189084952597136744118178776",
+            "yes_probability": 0.131,
+            "yes_best_bid": 0.011,
+            "yes_best_ask": 0.131,
+            "yes_spread": 0.12000000000000001,
+            "no_token_id": "96941977780070123266003439866185474467017580944164632950721966362751113156115",
+            "no_probability": 0.989,
+            "no_best_bid": 0.869,
+            "no_best_ask": 0.989,
+            "no_spread": 0.12,
+            "volume": 458.17239800000004,
+            "liquidity": 19160.250000000004,
+            "neg_risk": true,
+            "end_date": "2026-07-30T06:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Borrowing for rearmament indicates potential economic strain, affecting GDP.",
+            "event_id": "436462",
+            "event_title": "Germany GDP growth in Q2 2026?",
+            "event_slug": "germany-gdp-growth-in-q2-2026",
+            "detected_yes_price": 0.089,
+            "detected_no_price": 0.989,
+            "detected_at": 1783346461649,
+            "highest_price_change": 4.820224719101124,
+            "highest_yes_price": 0.518,
+            "highest_no_price": 0.989,
+            "first_moved_at": 1783346628460,
+            "moved_side": "yes",
+            "peaked_at": 1783418199008
+          },
+          {
+            "id": "2129294",
+            "slug": "germany-gdp-growth-in-q2-2026",
+            "condition_id": "0x5cfd72a3e92385652cf8ec8802a66bfd73164175cf7f0c3d5ffc2a911fff8cf1",
+            "title": "0.7-0.9%",
+            "question": "Will Germany GDP growth in Q2 2026 be between 0.7% and 0.9%?",
+            "description": "This market will resolve according to the German GDP growth rate (% change) on the same quarter a year earlier, price adjusted, as reported in the first release of the Destatis Gross Domestic Product press release for Q2 of 2026, expected to be released on July 30, 2026.\n\nThe GDP release will be made available here: https://www.destatis.de/EN/Themes/Economy/National-Accounts-Domestic-Product/_node.html\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nIf no data for the specified quarter is released by the date the next quarter's data is scheduled to be released, this market will resolve based on data from the last available quarter.\n\nThe resolution source for this market reports GDP growth rates to only one decimal point (e.g. 0.3%). Thus, this is the level of precision that will be used when resolving the market.\n\nNote: data from the initial release of the referenced GDP report is what will be used to resolve this market. Data may be revised during the following quarter, or as a part of the next estimate's publication; however, any revisions to GDP report data made after the initial release of the specified report will not be considered for this market's resolution.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/germany-gdp-growth-in-q4-2025--yc9KkWjSfAN.jpg",
+            "yes_token_id": "10925222309564833005378819691885965564984376584241562143646792772148335728362",
+            "yes_probability": 0.2,
+            "yes_best_bid": 0.08,
+            "yes_best_ask": 0.2,
+            "yes_spread": 0.12000000000000001,
+            "no_token_id": "1478199542604640566250636327816456438495151618127840728549939801466895103893",
+            "no_probability": 0.92,
+            "no_best_bid": 0.8,
+            "no_best_ask": 0.92,
+            "no_spread": 0.12,
+            "volume": 5465.4400000000005,
+            "liquidity": 3854.879999999999,
+            "neg_risk": true,
+            "end_date": "2026-07-30T06:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 7,
+            "impact_level": "medium",
+            "impact_reason": "Borrowing for rearmament could support GDP growth in this range.",
+            "event_id": "436462",
+            "event_title": "Germany GDP growth in Q2 2026?",
+            "event_slug": "germany-gdp-growth-in-q2-2026",
+            "detected_yes_price": 0.23,
+            "detected_no_price": 0.88,
+            "detected_at": 1783346461649,
+            "highest_price_change": 0.0454545454545455,
+            "highest_yes_price": 0.23,
+            "highest_no_price": 0.92,
+            "first_moved_at": 1783418387211,
+            "moved_side": "no",
+            "peaked_at": 1783418387211
+          },
+          {
+            "id": "2129293",
+            "slug": "germany-gdp-growth-in-q2-2026",
+            "condition_id": "0xb3db298098bcb999dc9c91a4515f55ef191b1a9810488e68273d0ffed5faa56e",
+            "title": "0.4-0.6%",
+            "question": "Will Germany GDP growth in Q2 2026 be between 0.4% and 0.6%?",
+            "description": "This market will resolve according to the German GDP growth rate (% change) on the same quarter a year earlier, price adjusted, as reported in the first release of the Destatis Gross Domestic Product press release for Q2 of 2026, expected to be released on July 30, 2026.\n\nThe GDP release will be made available here: https://www.destatis.de/EN/Themes/Economy/National-Accounts-Domestic-Product/_node.html\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nIf no data for the specified quarter is released by the date the next quarter's data is scheduled to be released, this market will resolve based on data from the last available quarter.\n\nThe resolution source for this market reports GDP growth rates to only one decimal point (e.g. 0.3%). Thus, this is the level of precision that will be used when resolving the market.\n\nNote: data from the initial release of the referenced GDP report is what will be used to resolve this market. Data may be revised during the following quarter, or as a part of the next estimate's publication; however, any revisions to GDP report data made after the initial release of the specified report will not be considered for this market's resolution.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/germany-gdp-growth-in-q4-2025--yc9KkWjSfAN.jpg",
+            "yes_token_id": "75349407260606559636960558114835399843779541269793381283024341311509402535923",
+            "yes_probability": 0.44,
+            "yes_best_bid": 0.25,
+            "yes_best_ask": 0.44,
+            "yes_spread": 0.19,
+            "no_token_id": "64469183589800876556093667300825390177835410491932121260326812485731760532279",
+            "no_probability": 0.75,
+            "no_best_bid": 0.56,
+            "no_best_ask": 0.75,
+            "no_spread": 0.18999999999999995,
+            "volume": 930.871567,
+            "liquidity": 1432.19,
+            "neg_risk": true,
+            "end_date": "2026-07-30T06:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 7,
+            "impact_level": "medium",
+            "impact_reason": "Increased borrowing may lead to moderate GDP growth.",
+            "event_id": "436462",
+            "event_title": "Germany GDP growth in Q2 2026?",
+            "event_slug": "germany-gdp-growth-in-q2-2026",
+            "detected_yes_price": 0.71,
+            "detected_no_price": 0.88,
+            "detected_at": 1783346461649,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.71,
+            "highest_no_price": 0.88
+          },
+          {
+            "id": "2129295",
+            "slug": "germany-gdp-growth-in-q2-2026",
+            "condition_id": "0x0df2be93c060d50d769dcceed5af845bf73c16ea1c3bbfe1d08374767f1a2668",
+            "title": "1.0-1.2%",
+            "question": "Will Germany GDP growth in Q2 2026 be between 1.0% and 1.2%?",
+            "description": "This market will resolve according to the German GDP growth rate (% change) on the same quarter a year earlier, price adjusted, as reported in the first release of the Destatis Gross Domestic Product press release for Q2 of 2026, expected to be released on July 30, 2026.\n\nThe GDP release will be made available here: https://www.destatis.de/EN/Themes/Economy/National-Accounts-Domestic-Product/_node.html\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nIf no data for the specified quarter is released by the date the next quarter's data is scheduled to be released, this market will resolve based on data from the last available quarter.\n\nThe resolution source for this market reports GDP growth rates to only one decimal point (e.g. 0.3%). Thus, this is the level of precision that will be used when resolving the market.\n\nNote: data from the initial release of the referenced GDP report is what will be used to resolve this market. Data may be revised during the following quarter, or as a part of the next estimate's publication; however, any revisions to GDP report data made after the initial release of the specified report will not be considered for this market's resolution.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/germany-gdp-growth-in-q4-2025--yc9KkWjSfAN.jpg",
+            "yes_token_id": "82364074575382545133653274627130226902396503541467136346742674300490915889228",
+            "yes_probability": 0.06,
+            "yes_best_bid": 0.021,
+            "yes_best_ask": 0.06,
+            "yes_spread": 0.03899999999999999,
+            "no_token_id": "54843235949529456871838103338959899604681281792037219354037935943152767585266",
+            "no_probability": 0.979,
+            "no_best_bid": 0.94,
+            "no_best_ask": 0.979,
+            "no_spread": 0.039000000000000035,
+            "volume": 198.98888000000002,
+            "liquidity": 4838.210000000001,
+            "neg_risk": true,
+            "end_date": "2026-07-30T06:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 7,
+            "impact_level": "medium",
+            "impact_reason": "Increased borrowing may lead to higher GDP growth in this range.",
+            "event_id": "436462",
+            "event_title": "Germany GDP growth in Q2 2026?",
+            "event_slug": "germany-gdp-growth-in-q2-2026",
+            "detected_yes_price": 0.06,
+            "detected_no_price": 0.979,
+            "detected_at": 1783346461649,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.06,
+            "highest_no_price": 0.979
+          },
+          {
+            "id": "2129292",
+            "slug": "germany-gdp-growth-in-q2-2026",
+            "condition_id": "0x00139748aa8dfe595589a72f959b9522235939d0e8b5e488372438a45da2e681",
+            "title": "0.1-0.3%",
+            "question": "Will Germany GDP growth in Q2 2026 be between 0.1% and 0.3%?",
+            "description": "This market will resolve according to the German GDP growth rate (% change) on the same quarter a year earlier, price adjusted, as reported in the first release of the Destatis Gross Domestic Product press release for Q2 of 2026, expected to be released on July 30, 2026.\n\nThe GDP release will be made available here: https://www.destatis.de/EN/Themes/Economy/National-Accounts-Domestic-Product/_node.html\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nIf no data for the specified quarter is released by the date the next quarter's data is scheduled to be released, this market will resolve based on data from the last available quarter.\n\nThe resolution source for this market reports GDP growth rates to only one decimal point (e.g. 0.3%). Thus, this is the level of precision that will be used when resolving the market.\n\nNote: data from the initial release of the referenced GDP report is what will be used to resolve this market. Data may be revised during the following quarter, or as a part of the next estimate's publication; however, any revisions to GDP report data made after the initial release of the specified report will not be considered for this market's resolution.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/germany-gdp-growth-in-q4-2025--yc9KkWjSfAN.jpg",
+            "yes_token_id": "2697340178116193352755571874189608135860638818490849894476104692949206325883",
+            "yes_probability": 0.31,
+            "yes_best_bid": 0.09,
+            "yes_best_ask": 0.31,
+            "yes_spread": 0.22,
+            "no_token_id": "30800390194182859686957519654270355577672644113789328834057036745983487411963",
+            "no_probability": 0.91,
+            "no_best_bid": 0.69,
+            "no_best_ask": 0.91,
+            "no_spread": 0.22000000000000008,
+            "volume": 5910.911419,
+            "liquidity": 50377.78999999999,
+            "neg_risk": true,
+            "end_date": "2026-07-30T06:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 7,
+            "impact_level": "medium",
+            "impact_reason": "GDP growth may be affected by increased borrowing for rearmament.",
+            "event_id": "436462",
+            "event_title": "Germany GDP growth in Q2 2026?",
+            "event_slug": "germany-gdp-growth-in-q2-2026",
+            "detected_yes_price": 0.31,
+            "detected_no_price": 0.81,
+            "detected_at": 1783346461649,
+            "highest_price_change": 0.12345679012345676,
+            "highest_yes_price": 0.32,
+            "highest_no_price": 0.91,
+            "first_moved_at": 1783417950345,
+            "moved_side": "no",
+            "peaked_at": 1783419133490
+          }
+        ],
+        "topics": null,
+        "categories": null
+      },
+      "related_market": {
+        "id": "2129291",
+        "slug": "germany-gdp-growth-in-q2-2026",
+        "condition_id": "0xb895a712418096470dd93b6a400958ad8dc8f6a918fea84ed5406d573c6f71ca",
+        "title": "\u22640.0%",
+        "question": "Will Germany GDP growth in Q2 2026 be less than or equal to 0.0%?",
+        "description": "This market will resolve according to the German GDP growth rate (% change) on the same quarter a year earlier, price adjusted, as reported in the first release of the Destatis Gross Domestic Product press release for Q2 of 2026, expected to be released on July 30, 2026.\n\nThe GDP release will be made available here: https://www.destatis.de/EN/Themes/Economy/National-Accounts-Domestic-Product/_node.html\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nIf no data for the specified quarter is released by the date the next quarter's data is scheduled to be released, this market will resolve based on data from the last available quarter.\n\nThe resolution source for this market reports GDP growth rates to only one decimal point (e.g. 0.3%). Thus, this is the level of precision that will be used when resolving the market.\n\nNote: data from the initial release of the referenced GDP report is what will be used to resolve this market. Data may be revised during the following quarter, or as a part of the next estimate's publication; however, any revisions to GDP report data made after the initial release of the specified report will not be considered for this market's resolution.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/germany-gdp-growth-in-q4-2025--yc9KkWjSfAN.jpg",
+        "yes_token_id": "44702828512184574462590393280656337537666204335857189084952597136744118178776",
+        "yes_probability": 0.131,
+        "yes_best_bid": 0.011,
+        "yes_best_ask": 0.131,
+        "yes_spread": 0.12000000000000001,
+        "no_token_id": "96941977780070123266003439866185474467017580944164632950721966362751113156115",
+        "no_probability": 0.989,
+        "no_best_bid": 0.869,
+        "no_best_ask": 0.989,
+        "no_spread": 0.12,
+        "volume": 458.17239800000004,
+        "liquidity": 19160.250000000004,
+        "neg_risk": true,
+        "end_date": "2026-07-30T06:00:00Z",
+        "categories": [
+          "economy"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Borrowing for rearmament indicates potential economic strain, affecting GDP.",
+        "event_id": "436462",
+        "event_title": "Germany GDP growth in Q2 2026?",
+        "event_slug": "germany-gdp-growth-in-q2-2026",
+        "detected_yes_price": 0.089,
+        "detected_no_price": 0.989,
+        "detected_at": 1783346461649,
+        "highest_price_change": 4.820224719101124,
+        "highest_yes_price": 0.518,
+        "highest_no_price": 0.989,
+        "first_moved_at": 1783346628460,
+        "moved_side": "yes",
+        "peaked_at": 1783418199008
+      },
+      "_scraped_at": "2026-07-07T10:37:23.784897+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 2,
+      "feed_item": {
+        "id": "5f36e03b-8456-4e49-aa79-1ae446bd56d5",
+        "timestamp": 1783403466853,
+        "tweet": null,
+        "news": {
+          "feed_item_id": "5f36e03b-8456-4e49-aa79-1ae446bd56d5",
+          "headline": "Marine Le Pen\u2019s political future at stake with ruling on electoral ban imminent",
+          "description": "Leader of France\u2019s far-right National Rally and a contender for the presidency to get appeal decision on Tuesday",
+          "image": "https://i.guim.co.uk/img/media/3f6e82b55ab1c867e7c62711f411ead18ccebfca/267_0_2664_2132/master/2664.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0e6bae0fde174b09b1dba412ea92c333",
+          "url": "https://www.theguardian.com/world/2026/jul/07/marine-le-pen-political-future-waits-electoral-ban-upheld",
+          "timestamp": 1783403466853,
+          "source": "guardian"
+        },
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "FR",
+        "countries": [
+          "FR"
+        ],
+        "related_markets": [
+          {
+            "id": "1199759",
+            "slug": "will-marine-le-pen-win-her-appeal-to-lift-ineligibility-ban",
+            "condition_id": "0x286a4aab5b6374b155ac54b0eec6775e46a180ffa627f8b6ba00af794dfca41a",
+            "title": "",
+            "question": "Will Marine Le Pen win her appeal to lift ineligibility ban in 2026?",
+            "description": "On March 31, 2025, Marine Le Pen was sentenced to a five-year ban from public office for embezzlement of public funds, potentially blocking her from the 2027 presidential race. The appeal focuses on this penalty, with hearings currently scheduled to run from January 13 to February 12. You can read more about that here: https://www.lemonde.fr/en/les-decodeurs/article/2026/01/13/understanding-marine-le-pen-s-crucial-appeals-trial_6749363_8.html.\n\nThis market will resolve to \u201cYes\u201d if the Paris Court of Appeal issues an initial appeal decision, lifting, annulling, suspending, or otherwise removing Marine Le Pen\u2019s ineligibility penalty such that she is legally permitted to run for public office again, by December 31, 2026, 11:59 PM CET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve immediately based on the first merits judgment rendered by the Paris Court of Appeal in this appeal, regardless of any subsequent appeals or legal proceedings. Procedural or interim rulings that do not decide the merits of the appeal will not qualify toward resolution.\n\nThe primary resolution source for this market will be official rulings from the Paris Court of Appeal (Cour d\u2019appel de Paris); however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-marine-le-pen-win-her-appeal-to-lift-her-ineligibility-ban-4FUZJVuAqCby.jpg",
+            "yes_token_id": "17301185725826012176762365783264801980149346236078762779876974686542967261600",
+            "yes_probability": 0.23,
+            "yes_best_bid": 0.21,
+            "yes_best_ask": 0.23,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "9223973343670458063012496767949006186262020184728648497100995665483334226692",
+            "no_probability": 0.79,
+            "no_best_bid": 0.77,
+            "no_best_ask": 0.79,
+            "no_spread": 0.020000000000000018,
+            "volume": 28457.63097900001,
+            "liquidity": 140747.86,
+            "neg_risk": false,
+            "end_date": "2026-03-31T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Ruling on ineligibility ban impacts appeal outcome (1 hop).",
+            "event_id": "168607",
+            "event_title": "Will Marine Le Pen win her appeal to lift ineligibility ban in 2026?",
+            "event_slug": "will-marine-le-pen-win-her-appeal-to-lift-ineligibility-ban",
+            "detected_yes_price": 0.19,
+            "detected_no_price": 0.8200000000000001,
+            "detected_at": 1783403516572,
+            "highest_price_change": 0.5789473684210525,
+            "highest_yes_price": 0.3,
+            "highest_no_price": 0.8200000000000001,
+            "first_moved_at": 1783404106642,
+            "moved_side": "yes",
+            "peaked_at": 1783404106642
+          },
+          {
+            "id": "2054223",
+            "slug": "2027-french-presidential-election-who-will-be-on-the-ballot",
+            "condition_id": "0xa4a28a02e05eae793b93bd30cc7eb203525804435d5bcfe4889ffce8d94adcff",
+            "title": "Marine Le Pen",
+            "question": "Will Marine Le Pen be on the ballot for the 2027 French presidential election?",
+            "description": "The next French presidential election is currently expected to be held in April 2027. Prior to the election, the French Constitutional Council is expected to publish the official list of candidates to be included on the ballot for the first round of this election.\n\nThis market will resolve to \u201cYes\u201d if the listed individual is included on the official candidate list for the first round of the 2027 French presidential election. Otherwise, this market will resolve to \u201cNo\u201d.\n\nIf no such candidate list is published prior to the election, this market will resolve based on which candidates actually appear on the ballot when the election takes place. If no list is published and the specified election does not take place by June 30, 2027, 11:59 PM ET, this market will resolve to \u201cNo\u201d.\n\nThe primary resolution source for this market will be the official candidate list published by the French Constitutional Council; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-marine-le-pen-win-the-2027-french-presidential-election-8hg67PHSk27M.jpg",
+            "yes_token_id": "7754512371734273015215938178714173418935846391326977358390432779966177844819",
+            "yes_probability": 0.23,
+            "yes_best_bid": 0.2,
+            "yes_best_ask": 0.23,
+            "yes_spread": 0.03,
+            "no_token_id": "108449310026281098219666849639200747424450133056842631664918675889154878073660",
+            "no_probability": 0.8,
+            "no_best_bid": 0.77,
+            "no_best_ask": 0.8,
+            "no_spread": 0.030000000000000027,
+            "volume": 6251.081824,
+            "liquidity": 165056.61000000004,
+            "neg_risk": false,
+            "end_date": "2027-04-17T00:00:00Z",
+            "categories": [
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Ruling on ineligibility ban impacts ballot status (1 hop).",
+            "event_id": "407284",
+            "event_title": "2027 French Presidential Election: who will be on the ballot?",
+            "event_slug": "2027-french-presidential-election-who-will-be-on-the-ballot",
+            "detected_yes_price": 0.21,
+            "detected_no_price": 0.81,
+            "detected_at": 1783403516572,
+            "highest_price_change": 0.14285714285714285,
+            "highest_yes_price": 0.24,
+            "highest_no_price": 0.81,
+            "first_moved_at": 1783418061737,
+            "moved_side": "yes",
+            "peaked_at": 1783419562303
+          },
+          {
+            "id": "2061468",
+            "slug": "2027-french-presidential-election-national-rally-candidate",
+            "condition_id": "0xd1271b5ccea9be296cead24eb97e0402424a3eac997e94e2f9c49154cc54da9e",
+            "title": "Marine Le Pen",
+            "question": "Will Marine Le Pen be the National Rally\u2019s candidate for the 2027 French Presidential election?",
+            "description": "The next French presidential election is currently expected to be held in April 2027. \n\nThis market will resolve according to the first individual publicly announced as the chosen candidate of the National Rally (Rassemblement National, RN) party for the 2027 French presidential election.\n\nA qualifying announcement must explicitly identify the relevant individual as the National Rally Party\u2019s candidate for the 2027 French presidential election.\n\nIf the National Rally party simultaneously announces multiple individuals as its candidates for the 2027 French presidential election, this market will resolve to \u201cMultiple Candidates\u201d.\n\nIf no qualifying announcement is made by the time the official candidate list for the first round of the 2027 French presidential election is released, this market will resolve to the National Rally candidate included on that list. If multiple National Rally candidates are included on that list, this market will resolve to \u201cMultiple Candidates\u201d. If no National Rally candidate is included on that list, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be official information from the National Rally party; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/france-presidential-election-2027-U5QY3acvfubZ.png",
+            "yes_token_id": "2200082549638494641230699109352151034620813714203920014101125143821883292113",
+            "yes_probability": 0.21,
+            "yes_best_bid": 0.19,
+            "yes_best_ask": 0.21,
+            "yes_spread": 0.01999999999999999,
+            "no_token_id": "6891668364273623915227145314050971698701474543588642911595878292594559266585",
+            "no_probability": 0.81,
+            "no_best_bid": 0.79,
+            "no_best_ask": 0.81,
+            "no_spread": 0.020000000000000018,
+            "volume": 7234.028738670001,
+            "liquidity": 213654.48000000004,
+            "neg_risk": true,
+            "end_date": "2027-04-23T00:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Appeal decision directly influences candidacy (1 hop).",
+            "event_id": "410410",
+            "event_title": "2027 French Presidential Election: National Rally Candidate",
+            "event_slug": "2027-french-presidential-election-national-rally-candidate",
+            "detected_yes_price": 0.21,
+            "detected_no_price": 0.8,
+            "detected_at": 1783403516572,
+            "highest_price_change": 0.012500000000000011,
+            "highest_yes_price": 0.21,
+            "highest_no_price": 0.81,
+            "first_moved_at": 1783417938264,
+            "moved_side": "no",
+            "peaked_at": 1783417938264
+          }
+        ],
+        "topics": null,
+        "categories": [
+          "finance",
+          "elections",
+          "politics"
+        ]
+      },
+      "related_market": {
+        "id": "1199759",
+        "slug": "will-marine-le-pen-win-her-appeal-to-lift-ineligibility-ban",
+        "condition_id": "0x286a4aab5b6374b155ac54b0eec6775e46a180ffa627f8b6ba00af794dfca41a",
+        "title": "",
+        "question": "Will Marine Le Pen win her appeal to lift ineligibility ban in 2026?",
+        "description": "On March 31, 2025, Marine Le Pen was sentenced to a five-year ban from public office for embezzlement of public funds, potentially blocking her from the 2027 presidential race. The appeal focuses on this penalty, with hearings currently scheduled to run from January 13 to February 12. You can read more about that here: https://www.lemonde.fr/en/les-decodeurs/article/2026/01/13/understanding-marine-le-pen-s-crucial-appeals-trial_6749363_8.html.\n\nThis market will resolve to \u201cYes\u201d if the Paris Court of Appeal issues an initial appeal decision, lifting, annulling, suspending, or otherwise removing Marine Le Pen\u2019s ineligibility penalty such that she is legally permitted to run for public office again, by December 31, 2026, 11:59 PM CET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve immediately based on the first merits judgment rendered by the Paris Court of Appeal in this appeal, regardless of any subsequent appeals or legal proceedings. Procedural or interim rulings that do not decide the merits of the appeal will not qualify toward resolution.\n\nThe primary resolution source for this market will be official rulings from the Paris Court of Appeal (Cour d\u2019appel de Paris); however, a consensus of credible reporting may also be used.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-marine-le-pen-win-her-appeal-to-lift-her-ineligibility-ban-4FUZJVuAqCby.jpg",
+        "yes_token_id": "17301185725826012176762365783264801980149346236078762779876974686542967261600",
+        "yes_probability": 0.23,
+        "yes_best_bid": 0.21,
+        "yes_best_ask": 0.23,
+        "yes_spread": 0.020000000000000018,
+        "no_token_id": "9223973343670458063012496767949006186262020184728648497100995665483334226692",
+        "no_probability": 0.79,
+        "no_best_bid": 0.77,
+        "no_best_ask": 0.79,
+        "no_spread": 0.020000000000000018,
+        "volume": 28457.63097900001,
+        "liquidity": 140747.86,
+        "neg_risk": false,
+        "end_date": "2026-03-31T00:00:00Z",
+        "categories": [
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 9,
+        "impact_level": "critical",
+        "impact_reason": "Ruling on ineligibility ban impacts appeal outcome (1 hop).",
+        "event_id": "168607",
+        "event_title": "Will Marine Le Pen win her appeal to lift ineligibility ban in 2026?",
+        "event_slug": "will-marine-le-pen-win-her-appeal-to-lift-ineligibility-ban",
+        "detected_yes_price": 0.19,
+        "detected_no_price": 0.8200000000000001,
+        "detected_at": 1783403516572,
+        "highest_price_change": 0.5789473684210525,
+        "highest_yes_price": 0.3,
+        "highest_no_price": 0.8200000000000001,
+        "first_moved_at": 1783404106642,
+        "moved_side": "yes",
+        "peaked_at": 1783404106642
+      },
+      "_scraped_at": "2026-07-07T10:37:23.784897+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "valid": false,
+      "_scraped_at": "2026-07-07T10:37:23.784897+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "global_tension_score": 33,
+      "global_tension_level": "GUARDED",
+      "countries": [
+        {
+          "country": "UA",
+          "count": 11,
+          "recent": [
+            {
+              "id": "cb23ef8b-b0f0-498e-bd5a-fae9ce6427b1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783410119074
+            },
+            {
+              "id": "4a5cf5f1-37d3-4389-a9e4-d44d9505668c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783414919099
+            },
+            {
+              "id": "08f8b9f6-10df-4b12-8028-a0e8fa4fb7e6",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783420394579
+            },
+            {
+              "id": "798b2871-9fda-4a73-b58f-9896b7903f86",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783414801998
+            },
+            {
+              "id": "9faaa37d-1fb4-46ef-bed6-9ccc0e30ff69",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1783416615000
+            },
+            {
+              "id": "284be9ea-b2a2-4518-b2e1-47317e75595c",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783402741760
+            },
+            {
+              "id": "0737c28d-e505-4ab5-92ba-0d19aa6d5a4c",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783406355922
+            },
+            {
+              "id": "6c76aa67-0395-4855-b778-301bd9afd1e6",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783419781864
+            },
+            {
+              "id": "3a8ad036-2d81-4f72-ac18-2cb2f88e220f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783407778853
+            },
+            {
+              "id": "8770321a-3fe2-4874-b4ce-883bcce9cbc5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783413719125
+            },
+            {
+              "id": "4c58e7fa-b289-44d8-9892-6d8bcf28ec0a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783403026258
+            }
+          ],
+          "volume": 4744061.365586804,
+          "critical_signals": 1,
+          "high_signals": 10,
+          "low_signals": 0
+        },
+        {
+          "country": "GB",
+          "count": 11,
+          "recent": [
+            {
+              "id": "cb23ef8b-b0f0-498e-bd5a-fae9ce6427b1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783410119074
+            },
+            {
+              "id": "4a5cf5f1-37d3-4389-a9e4-d44d9505668c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783414919099
+            },
+            {
+              "id": "08f8b9f6-10df-4b12-8028-a0e8fa4fb7e6",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783420394579
+            },
+            {
+              "id": "798b2871-9fda-4a73-b58f-9896b7903f86",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783414801998
+            },
+            {
+              "id": "9faaa37d-1fb4-46ef-bed6-9ccc0e30ff69",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1783416615000
+            },
+            {
+              "id": "284be9ea-b2a2-4518-b2e1-47317e75595c",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783402741760
+            },
+            {
+              "id": "6c76aa67-0395-4855-b778-301bd9afd1e6",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783419781864
+            },
+            {
+              "id": "3a8ad036-2d81-4f72-ac18-2cb2f88e220f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783407778853
+            },
+            {
+              "id": "629381b2-2924-4ed7-8b59-799bae99a7e0",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783420326000
+            },
+            {
+              "id": "8770321a-3fe2-4874-b4ce-883bcce9cbc5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783413719125
+            },
+            {
+              "id": "4c58e7fa-b289-44d8-9892-6d8bcf28ec0a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783403026258
+            }
+          ],
+          "volume": 4887750.832712804,
+          "critical_signals": 1,
+          "high_signals": 10,
+          "low_signals": 0
+        },
+        {
+          "country": "RU",
+          "count": 10,
+          "recent": [
+            {
+              "id": "08f8b9f6-10df-4b12-8028-a0e8fa4fb7e6",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783420394579
+            },
+            {
+              "id": "798b2871-9fda-4a73-b58f-9896b7903f86",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783414801998
+            },
+            {
+              "id": "f7aafa1c-356a-43cc-bc2d-f13b9ca20d28",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783416778622
+            },
+            {
+              "id": "07872f8c-e403-4c19-961e-3c50bb7086f9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783416178628
+            },
+            {
+              "id": "284be9ea-b2a2-4518-b2e1-47317e75595c",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783402741760
+            },
+            {
+              "id": "0737c28d-e505-4ab5-92ba-0d19aa6d5a4c",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783406355922
+            },
+            {
+              "id": "76c20c65-4d87-43f0-be43-c79bd9eee9ca",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1783414706000
+            },
+            {
+              "id": "6c76aa67-0395-4855-b778-301bd9afd1e6",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783419781864
+            },
+            {
+              "id": "3a8ad036-2d81-4f72-ac18-2cb2f88e220f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783407778853
+            },
+            {
+              "id": "4c58e7fa-b289-44d8-9892-6d8bcf28ec0a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783403026258
+            }
+          ],
+          "volume": 3508991.5882888003,
+          "critical_signals": 0,
+          "high_signals": 9,
+          "low_signals": 1
+        },
+        {
+          "country": "US",
+          "count": 7,
+          "recent": [
+            {
+              "id": "8c3d2a12-bc3e-4413-afaa-eab141ba07fb",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783417078603
+            },
+            {
+              "id": "798b2871-9fda-4a73-b58f-9896b7903f86",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783414801998
+            },
+            {
+              "id": "cdd7c568-0381-49a3-8b83-71554f3df963",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783413351896
+            },
+            {
+              "id": "1a7cd692-8748-4200-97b1-978d9544c621",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783411078814
+            },
+            {
+              "id": "3a8ad036-2d81-4f72-ac18-2cb2f88e220f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783407778853
+            },
+            {
+              "id": "629381b2-2924-4ed7-8b59-799bae99a7e0",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783420326000
+            },
+            {
+              "id": "fa6335a3-9e98-48fd-8249-b5ae1b2df0d6",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783417438595
+            }
+          ],
+          "volume": 111599017.86586222,
+          "critical_signals": 0,
+          "high_signals": 6,
+          "low_signals": 1
+        },
+        {
+          "country": "FR",
+          "count": 6,
+          "recent": [
+            {
+              "id": "0ab7d461-acb9-454f-9f05-4d7d095aea8b",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783407307554
+            },
+            {
+              "id": "328cce20-6986-4c03-96ee-aaaecca6eef8",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1783410059877
+            },
+            {
+              "id": "d458896d-68b3-4548-8b6f-eaa76702020e",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1783401180759
+            },
+            {
+              "id": "8ddfd6db-85f8-47ee-b70c-1dd6f20a5037",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783412459092
+            },
+            {
+              "id": "fb8ed7ae-b417-4abe-bee9-875f5620eb6e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783409893797
+            },
+            {
+              "id": "5f36e03b-8456-4e49-aa79-1ae446bd56d5",
+              "kind": "news",
+              "impact": "critical",
+              "timestamp": 1783403466853
+            }
+          ],
+          "volume": 1078775.3022755499,
+          "critical_signals": 1,
+          "high_signals": 5,
+          "low_signals": 0
+        },
+        {
+          "country": "CN",
+          "count": 6,
+          "recent": [
+            {
+              "id": "2c0cf460-4300-41e9-a59a-6c0b8244d7fd",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783414889243
+            },
+            {
+              "id": "8c3d2a12-bc3e-4413-afaa-eab141ba07fb",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783417078603
+            },
+            {
+              "id": "a25427ac-4a7b-47b6-9df2-9256c4c5fde0",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783411202000
+            },
+            {
+              "id": "629381b2-2924-4ed7-8b59-799bae99a7e0",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783420326000
+            },
+            {
+              "id": "875968c5-ff68-47d9-9871-4acddf3a67d3",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1783408267227
+            },
+            {
+              "id": "a11f315d-cd74-46fb-85d6-a1233a94da0e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783411319298
+            }
+          ],
+          "volume": 3810597.27432489,
+          "critical_signals": 0,
+          "high_signals": 6,
+          "low_signals": 0
+        },
+        {
+          "country": "IR",
+          "count": 4,
+          "recent": [
+            {
+              "id": "cdd7c568-0381-49a3-8b83-71554f3df963",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783413351896
+            },
+            {
+              "id": "dd8a3059-8767-40be-8ea8-77c0ca6de657",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783416296721
+            },
+            {
+              "id": "1a7cd692-8748-4200-97b1-978d9544c621",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783411078814
+            },
+            {
+              "id": "a30794c3-8359-4bf1-8f70-28f9eeac104a",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1783415294378
+            }
+          ],
+          "volume": 111335863.05145442,
+          "critical_signals": 0,
+          "high_signals": 3,
+          "low_signals": 1
+        },
+        {
+          "country": "FI",
+          "count": 2,
+          "recent": [
+            {
+              "id": "284be9ea-b2a2-4518-b2e1-47317e75595c",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783402741760
+            },
+            {
+              "id": "4c58e7fa-b289-44d8-9892-6d8bcf28ec0a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783403026258
+            }
+          ],
+          "volume": 655312.1563788026,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "SY",
+          "count": 2,
+          "recent": [
+            {
+              "id": "8ddfd6db-85f8-47ee-b70c-1dd6f20a5037",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783412459092
+            },
+            {
+              "id": "fb8ed7ae-b417-4abe-bee9-875f5620eb6e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783409893797
+            }
+          ],
+          "volume": 136963.98548099998,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "TR",
+          "count": 2,
+          "recent": [
+            {
+              "id": "9faaa37d-1fb4-46ef-bed6-9ccc0e30ff69",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1783416615000
+            },
+            {
+              "id": "fa6335a3-9e98-48fd-8249-b5ae1b2df0d6",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783417438595
+            }
+          ],
+          "volume": 1758738.6739968057,
+          "critical_signals": 1,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "JP",
+          "count": 2,
+          "recent": [
+            {
+              "id": "a25427ac-4a7b-47b6-9df2-9256c4c5fde0",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783411202000
+            },
+            {
+              "id": "a11f315d-cd74-46fb-85d6-a1233a94da0e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783411319298
+            }
+          ],
+          "volume": 3666907.80719889,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "AU",
+          "count": 1,
+          "recent": [
+            {
+              "id": "875968c5-ff68-47d9-9871-4acddf3a67d3",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1783408267227
+            }
+          ],
+          "volume": 143689.46712599986,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        }
+      ],
+      "_scraped_at": "2026-07-07T10:37:23.784897+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
