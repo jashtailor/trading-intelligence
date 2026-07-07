@@ -1,0 +1,2412 @@
+{
+  "scraped_at": "2026-07-07T13:11:59.164779+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 8,
+  "items": [
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "35e2835b-cb26-4162-a783-30d439b26066",
+        "timestamp": 1783346363987,
+        "tweet": {
+          "feed_item_id": "35e2835b-cb26-4162-a783-30d439b26066",
+          "post_id": "2074131098313880019",
+          "post_type": "tweet",
+          "created_at": 1783346363987,
+          "user": {
+            "uid": "2704294333",
+            "handle": "DeItaone",
+            "display_name": "*Walter Bloomberg",
+            "pfp": "https://pbs.twimg.com/profile_images/1282648991348527104/A8HCjqZk.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "GERMANY TO BORROW \u20ac800BN FOR REARMAMENT IN HISTORIC SHIFT - FT",
+          "link": "https://twitter.com/DeItaone/status/2074131098313880019"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "DE",
+        "countries": [
+          "DE"
+        ],
+        "related_markets": [
+          {
+            "id": "2129294",
+            "slug": "germany-gdp-growth-in-q2-2026",
+            "condition_id": "0x5cfd72a3e92385652cf8ec8802a66bfd73164175cf7f0c3d5ffc2a911fff8cf1",
+            "title": "0.7-0.9%",
+            "question": "Will Germany GDP growth in Q2 2026 be between 0.7% and 0.9%?",
+            "description": "This market will resolve according to the German GDP growth rate (% change) on the same quarter a year earlier, price adjusted, as reported in the first release of the Destatis Gross Domestic Product press release for Q2 of 2026, expected to be released on July 30, 2026.\n\nThe GDP release will be made available here: https://www.destatis.de/EN/Themes/Economy/National-Accounts-Domestic-Product/_node.html\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nIf no data for the specified quarter is released by the date the next quarter's data is scheduled to be released, this market will resolve based on data from the last available quarter.\n\nThe resolution source for this market reports GDP growth rates to only one decimal point (e.g. 0.3%). Thus, this is the level of precision that will be used when resolving the market.\n\nNote: data from the initial release of the referenced GDP report is what will be used to resolve this market. Data may be revised during the following quarter, or as a part of the next estimate's publication; however, any revisions to GDP report data made after the initial release of the specified report will not be considered for this market's resolution.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/germany-gdp-growth-in-q4-2025--yc9KkWjSfAN.jpg",
+            "yes_token_id": "10925222309564833005378819691885965564984376584241562143646792772148335728362",
+            "yes_probability": 0.23,
+            "yes_best_bid": 0.1,
+            "yes_best_ask": 0.23,
+            "yes_spread": 0.13,
+            "no_token_id": "1478199542604640566250636327816456438495151618127840728549939801466895103893",
+            "no_probability": 0.9,
+            "no_best_bid": 0.77,
+            "no_best_ask": 0.9,
+            "no_spread": 0.13,
+            "volume": 5465.4400000000005,
+            "liquidity": 33154.340000000004,
+            "neg_risk": true,
+            "end_date": "2026-07-30T06:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Germany's historic borrowing for rearmament is a direct signal affecting GDP.",
+            "event_id": "436462",
+            "event_title": "Germany GDP growth in Q2 2026?",
+            "event_slug": "germany-gdp-growth-in-q2-2026",
+            "detected_yes_price": 0.23,
+            "detected_no_price": 0.88,
+            "detected_at": 1783346410137,
+            "highest_price_change": 0.0454545454545455,
+            "highest_yes_price": 0.23,
+            "highest_no_price": 0.92,
+            "first_moved_at": 1783418387211,
+            "moved_side": "no",
+            "peaked_at": 1783418387211
+          },
+          {
+            "id": "2129291",
+            "slug": "germany-gdp-growth-in-q2-2026",
+            "condition_id": "0xb895a712418096470dd93b6a400958ad8dc8f6a918fea84ed5406d573c6f71ca",
+            "title": "\u22640.0%",
+            "question": "Will Germany GDP growth in Q2 2026 be less than or equal to 0.0%?",
+            "description": "This market will resolve according to the German GDP growth rate (% change) on the same quarter a year earlier, price adjusted, as reported in the first release of the Destatis Gross Domestic Product press release for Q2 of 2026, expected to be released on July 30, 2026.\n\nThe GDP release will be made available here: https://www.destatis.de/EN/Themes/Economy/National-Accounts-Domestic-Product/_node.html\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nIf no data for the specified quarter is released by the date the next quarter's data is scheduled to be released, this market will resolve based on data from the last available quarter.\n\nThe resolution source for this market reports GDP growth rates to only one decimal point (e.g. 0.3%). Thus, this is the level of precision that will be used when resolving the market.\n\nNote: data from the initial release of the referenced GDP report is what will be used to resolve this market. Data may be revised during the following quarter, or as a part of the next estimate's publication; however, any revisions to GDP report data made after the initial release of the specified report will not be considered for this market's resolution.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/germany-gdp-growth-in-q4-2025--yc9KkWjSfAN.jpg",
+            "yes_token_id": "44702828512184574462590393280656337537666204335857189084952597136744118178776",
+            "yes_probability": 0.145,
+            "yes_best_bid": 0.011,
+            "yes_best_ask": 0.145,
+            "yes_spread": 0.13399999999999998,
+            "no_token_id": "96941977780070123266003439866185474467017580944164632950721966362751113156115",
+            "no_probability": 0.989,
+            "no_best_bid": 0.855,
+            "no_best_ask": 0.989,
+            "no_spread": 0.134,
+            "volume": 458.17239800000004,
+            "liquidity": 33376.46000000001,
+            "neg_risk": true,
+            "end_date": "2026-07-30T06:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Germany's historic borrowing for rearmament is a direct signal affecting GDP.",
+            "event_id": "436462",
+            "event_title": "Germany GDP growth in Q2 2026?",
+            "event_slug": "germany-gdp-growth-in-q2-2026",
+            "detected_yes_price": 0.089,
+            "detected_no_price": 0.989,
+            "detected_at": 1783346410137,
+            "highest_price_change": 4.820224719101124,
+            "highest_yes_price": 0.518,
+            "highest_no_price": 0.989,
+            "first_moved_at": 1783346628460,
+            "moved_side": "yes",
+            "peaked_at": 1783418199008
+          },
+          {
+            "id": "2129293",
+            "slug": "germany-gdp-growth-in-q2-2026",
+            "condition_id": "0xb3db298098bcb999dc9c91a4515f55ef191b1a9810488e68273d0ffed5faa56e",
+            "title": "0.4-0.6%",
+            "question": "Will Germany GDP growth in Q2 2026 be between 0.4% and 0.6%?",
+            "description": "This market will resolve according to the German GDP growth rate (% change) on the same quarter a year earlier, price adjusted, as reported in the first release of the Destatis Gross Domestic Product press release for Q2 of 2026, expected to be released on July 30, 2026.\n\nThe GDP release will be made available here: https://www.destatis.de/EN/Themes/Economy/National-Accounts-Domestic-Product/_node.html\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nIf no data for the specified quarter is released by the date the next quarter's data is scheduled to be released, this market will resolve based on data from the last available quarter.\n\nThe resolution source for this market reports GDP growth rates to only one decimal point (e.g. 0.3%). Thus, this is the level of precision that will be used when resolving the market.\n\nNote: data from the initial release of the referenced GDP report is what will be used to resolve this market. Data may be revised during the following quarter, or as a part of the next estimate's publication; however, any revisions to GDP report data made after the initial release of the specified report will not be considered for this market's resolution.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/germany-gdp-growth-in-q4-2025--yc9KkWjSfAN.jpg",
+            "yes_token_id": "75349407260606559636960558114835399843779541269793381283024341311509402535923",
+            "yes_probability": 0.35,
+            "yes_best_bid": 0.16,
+            "yes_best_ask": 0.35,
+            "yes_spread": 0.18999999999999997,
+            "no_token_id": "64469183589800876556093667300825390177835410491932121260326812485731760532279",
+            "no_probability": 0.84,
+            "no_best_bid": 0.65,
+            "no_best_ask": 0.84,
+            "no_spread": 0.18999999999999995,
+            "volume": 930.871567,
+            "liquidity": 8649.550000000001,
+            "neg_risk": true,
+            "end_date": "2026-07-30T06:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Germany's historic borrowing for rearmament is a direct signal affecting GDP.",
+            "event_id": "436462",
+            "event_title": "Germany GDP growth in Q2 2026?",
+            "event_slug": "germany-gdp-growth-in-q2-2026",
+            "detected_yes_price": 0.71,
+            "detected_no_price": 0.88,
+            "detected_at": 1783346410137,
+            "highest_price_change": 0.011363636363636374,
+            "highest_yes_price": 0.71,
+            "highest_no_price": 0.89,
+            "first_moved_at": 1783423947301,
+            "moved_side": "no",
+            "peaked_at": 1783423947301
+          },
+          {
+            "id": "2129295",
+            "slug": "germany-gdp-growth-in-q2-2026",
+            "condition_id": "0x0df2be93c060d50d769dcceed5af845bf73c16ea1c3bbfe1d08374767f1a2668",
+            "title": "1.0-1.2%",
+            "question": "Will Germany GDP growth in Q2 2026 be between 1.0% and 1.2%?",
+            "description": "This market will resolve according to the German GDP growth rate (% change) on the same quarter a year earlier, price adjusted, as reported in the first release of the Destatis Gross Domestic Product press release for Q2 of 2026, expected to be released on July 30, 2026.\n\nThe GDP release will be made available here: https://www.destatis.de/EN/Themes/Economy/National-Accounts-Domestic-Product/_node.html\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nIf no data for the specified quarter is released by the date the next quarter's data is scheduled to be released, this market will resolve based on data from the last available quarter.\n\nThe resolution source for this market reports GDP growth rates to only one decimal point (e.g. 0.3%). Thus, this is the level of precision that will be used when resolving the market.\n\nNote: data from the initial release of the referenced GDP report is what will be used to resolve this market. Data may be revised during the following quarter, or as a part of the next estimate's publication; however, any revisions to GDP report data made after the initial release of the specified report will not be considered for this market's resolution.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/germany-gdp-growth-in-q4-2025--yc9KkWjSfAN.jpg",
+            "yes_token_id": "82364074575382545133653274627130226902396503541467136346742674300490915889228",
+            "yes_probability": 0.06,
+            "yes_best_bid": 0.021,
+            "yes_best_ask": 0.06,
+            "yes_spread": 0.03899999999999999,
+            "no_token_id": "54843235949529456871838103338959899604681281792037219354037935943152767585266",
+            "no_probability": 0.979,
+            "no_best_bid": 0.94,
+            "no_best_ask": 0.979,
+            "no_spread": 0.039000000000000035,
+            "volume": 198.98888000000002,
+            "liquidity": 7833.65,
+            "neg_risk": true,
+            "end_date": "2026-07-30T06:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Germany's historic borrowing for rearmament is a direct signal affecting GDP.",
+            "event_id": "436462",
+            "event_title": "Germany GDP growth in Q2 2026?",
+            "event_slug": "germany-gdp-growth-in-q2-2026",
+            "detected_yes_price": 0.06,
+            "detected_no_price": 0.979,
+            "detected_at": 1783346410137,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.06,
+            "highest_no_price": 0.979
+          },
+          {
+            "id": "2129292",
+            "slug": "germany-gdp-growth-in-q2-2026",
+            "condition_id": "0x00139748aa8dfe595589a72f959b9522235939d0e8b5e488372438a45da2e681",
+            "title": "0.1-0.3%",
+            "question": "Will Germany GDP growth in Q2 2026 be between 0.1% and 0.3%?",
+            "description": "This market will resolve according to the German GDP growth rate (% change) on the same quarter a year earlier, price adjusted, as reported in the first release of the Destatis Gross Domestic Product press release for Q2 of 2026, expected to be released on July 30, 2026.\n\nThe GDP release will be made available here: https://www.destatis.de/EN/Themes/Economy/National-Accounts-Domestic-Product/_node.html\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nIf no data for the specified quarter is released by the date the next quarter's data is scheduled to be released, this market will resolve based on data from the last available quarter.\n\nThe resolution source for this market reports GDP growth rates to only one decimal point (e.g. 0.3%). Thus, this is the level of precision that will be used when resolving the market.\n\nNote: data from the initial release of the referenced GDP report is what will be used to resolve this market. Data may be revised during the following quarter, or as a part of the next estimate's publication; however, any revisions to GDP report data made after the initial release of the specified report will not be considered for this market's resolution.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/germany-gdp-growth-in-q4-2025--yc9KkWjSfAN.jpg",
+            "yes_token_id": "2697340178116193352755571874189608135860638818490849894476104692949206325883",
+            "yes_probability": 0.31,
+            "yes_best_bid": 0.15,
+            "yes_best_ask": 0.31,
+            "yes_spread": 0.16,
+            "no_token_id": "30800390194182859686957519654270355577672644113789328834057036745983487411963",
+            "no_probability": 0.85,
+            "no_best_bid": 0.69,
+            "no_best_ask": 0.85,
+            "no_spread": 0.16000000000000003,
+            "volume": 5910.911419,
+            "liquidity": 38386.06,
+            "neg_risk": true,
+            "end_date": "2026-07-30T06:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Germany's historic borrowing for rearmament is a direct signal affecting GDP.",
+            "event_id": "436462",
+            "event_title": "Germany GDP growth in Q2 2026?",
+            "event_slug": "germany-gdp-growth-in-q2-2026",
+            "detected_yes_price": 0.31,
+            "detected_no_price": 0.81,
+            "detected_at": 1783346410137,
+            "highest_price_change": 0.12345679012345676,
+            "highest_yes_price": 0.32,
+            "highest_no_price": 0.91,
+            "first_moved_at": 1783417950345,
+            "moved_side": "no",
+            "peaked_at": 1783419133490
+          }
+        ],
+        "topics": null,
+        "categories": null
+      },
+      "related_market": {
+        "id": "2129291",
+        "slug": "germany-gdp-growth-in-q2-2026",
+        "condition_id": "0xb895a712418096470dd93b6a400958ad8dc8f6a918fea84ed5406d573c6f71ca",
+        "title": "\u22640.0%",
+        "question": "Will Germany GDP growth in Q2 2026 be less than or equal to 0.0%?",
+        "description": "This market will resolve according to the German GDP growth rate (% change) on the same quarter a year earlier, price adjusted, as reported in the first release of the Destatis Gross Domestic Product press release for Q2 of 2026, expected to be released on July 30, 2026.\n\nThe GDP release will be made available here: https://www.destatis.de/EN/Themes/Economy/National-Accounts-Domestic-Product/_node.html\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nIf no data for the specified quarter is released by the date the next quarter's data is scheduled to be released, this market will resolve based on data from the last available quarter.\n\nThe resolution source for this market reports GDP growth rates to only one decimal point (e.g. 0.3%). Thus, this is the level of precision that will be used when resolving the market.\n\nNote: data from the initial release of the referenced GDP report is what will be used to resolve this market. Data may be revised during the following quarter, or as a part of the next estimate's publication; however, any revisions to GDP report data made after the initial release of the specified report will not be considered for this market's resolution.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/germany-gdp-growth-in-q4-2025--yc9KkWjSfAN.jpg",
+        "yes_token_id": "44702828512184574462590393280656337537666204335857189084952597136744118178776",
+        "yes_probability": 0.145,
+        "yes_best_bid": 0.011,
+        "yes_best_ask": 0.145,
+        "yes_spread": 0.13399999999999998,
+        "no_token_id": "96941977780070123266003439866185474467017580944164632950721966362751113156115",
+        "no_probability": 0.989,
+        "no_best_bid": 0.855,
+        "no_best_ask": 0.989,
+        "no_spread": 0.134,
+        "volume": 458.17239800000004,
+        "liquidity": 33376.46000000001,
+        "neg_risk": true,
+        "end_date": "2026-07-30T06:00:00Z",
+        "categories": [
+          "economy"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Germany's historic borrowing for rearmament is a direct signal affecting GDP.",
+        "event_id": "436462",
+        "event_title": "Germany GDP growth in Q2 2026?",
+        "event_slug": "germany-gdp-growth-in-q2-2026",
+        "detected_yes_price": 0.089,
+        "detected_no_price": 0.989,
+        "detected_at": 1783346410137,
+        "highest_price_change": 4.820224719101124,
+        "highest_yes_price": 0.518,
+        "highest_no_price": 0.989,
+        "first_moved_at": 1783346628460,
+        "moved_side": "yes",
+        "peaked_at": 1783418199008
+      },
+      "_scraped_at": "2026-07-07T13:11:59.164779+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 2,
+      "feed_item": {
+        "id": "5f36e03b-8456-4e49-aa79-1ae446bd56d5",
+        "timestamp": 1783403466853,
+        "tweet": null,
+        "news": {
+          "feed_item_id": "5f36e03b-8456-4e49-aa79-1ae446bd56d5",
+          "headline": "Marine Le Pen\u2019s political future at stake with ruling on electoral ban imminent",
+          "description": "Leader of France\u2019s far-right National Rally and a contender for the presidency to get appeal decision on Tuesday",
+          "image": "https://i.guim.co.uk/img/media/3f6e82b55ab1c867e7c62711f411ead18ccebfca/267_0_2664_2132/master/2664.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0e6bae0fde174b09b1dba412ea92c333",
+          "url": "https://www.theguardian.com/world/2026/jul/07/marine-le-pen-political-future-waits-electoral-ban-upheld",
+          "timestamp": 1783403466853,
+          "source": "guardian"
+        },
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "FR",
+        "countries": [
+          "FR"
+        ],
+        "related_markets": [
+          {
+            "id": "1199759",
+            "slug": "will-marine-le-pen-win-her-appeal-to-lift-ineligibility-ban",
+            "condition_id": "0x286a4aab5b6374b155ac54b0eec6775e46a180ffa627f8b6ba00af794dfca41a",
+            "title": "",
+            "question": "Will Marine Le Pen win her appeal to lift ineligibility ban in 2026?",
+            "description": "On March 31, 2025, Marine Le Pen was sentenced to a five-year ban from public office for embezzlement of public funds, potentially blocking her from the 2027 presidential race. The appeal focuses on this penalty, with hearings currently scheduled to run from January 13 to February 12. You can read more about that here: https://www.lemonde.fr/en/les-decodeurs/article/2026/01/13/understanding-marine-le-pen-s-crucial-appeals-trial_6749363_8.html.\n\nThis market will resolve to \u201cYes\u201d if the Paris Court of Appeal issues an initial appeal decision, lifting, annulling, suspending, or otherwise removing Marine Le Pen\u2019s ineligibility penalty such that she is legally permitted to run for public office again, by December 31, 2026, 11:59 PM CET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve immediately based on the first merits judgment rendered by the Paris Court of Appeal in this appeal, regardless of any subsequent appeals or legal proceedings. Procedural or interim rulings that do not decide the merits of the appeal will not qualify toward resolution.\n\nThe primary resolution source for this market will be official rulings from the Paris Court of Appeal (Cour d\u2019appel de Paris); however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-marine-le-pen-win-her-appeal-to-lift-her-ineligibility-ban-4FUZJVuAqCby.jpg",
+            "yes_token_id": "17301185725826012176762365783264801980149346236078762779876974686542967261600",
+            "yes_probability": 0.979,
+            "yes_best_bid": 0.971,
+            "yes_best_ask": 0.979,
+            "yes_spread": 0.008000000000000007,
+            "no_token_id": "9223973343670458063012496767949006186262020184728648497100995665483334226692",
+            "no_probability": 0.029,
+            "no_best_bid": 0.021,
+            "no_best_ask": 0.029,
+            "no_spread": 0.008,
+            "volume": 52240.17171819004,
+            "liquidity": 271958.0800000001,
+            "neg_risk": false,
+            "end_date": "2026-03-31T00:00:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Ruling on ineligibility ban impacts appeal outcome (1 hop).",
+            "event_id": "168607",
+            "event_title": "Will Marine Le Pen win her appeal to lift ineligibility ban in 2026?",
+            "event_slug": "will-marine-le-pen-win-her-appeal-to-lift-ineligibility-ban",
+            "detected_yes_price": 0.19,
+            "detected_no_price": 0.8200000000000001,
+            "detected_at": 1783403516572,
+            "highest_price_change": 4.2631578947368425,
+            "highest_yes_price": 1,
+            "highest_no_price": 0.91,
+            "first_moved_at": 1783404106642,
+            "moved_side": "yes",
+            "peaked_at": 1783425567230
+          },
+          {
+            "id": "2054223",
+            "slug": "2027-french-presidential-election-who-will-be-on-the-ballot",
+            "condition_id": "0xa4a28a02e05eae793b93bd30cc7eb203525804435d5bcfe4889ffce8d94adcff",
+            "title": "Marine Le Pen",
+            "question": "Will Marine Le Pen be on the ballot for the 2027 French presidential election?",
+            "description": "The next French presidential election is currently expected to be held in April 2027. Prior to the election, the French Constitutional Council is expected to publish the official list of candidates to be included on the ballot for the first round of this election.\n\nThis market will resolve to \u201cYes\u201d if the listed individual is included on the official candidate list for the first round of the 2027 French presidential election. Otherwise, this market will resolve to \u201cNo\u201d.\n\nIf no such candidate list is published prior to the election, this market will resolve based on which candidates actually appear on the ballot when the election takes place. If no list is published and the specified election does not take place by June 30, 2027, 11:59 PM ET, this market will resolve to \u201cNo\u201d.\n\nThe primary resolution source for this market will be the official candidate list published by the French Constitutional Council; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-marine-le-pen-win-the-2027-french-presidential-election-8hg67PHSk27M.jpg",
+            "yes_token_id": "7754512371734273015215938178714173418935846391326977358390432779966177844819",
+            "yes_probability": 0.26,
+            "yes_best_bid": 0.25,
+            "yes_best_ask": 0.26,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "108449310026281098219666849639200747424450133056842631664918675889154878073660",
+            "no_probability": 0.75,
+            "no_best_bid": 0.74,
+            "no_best_ask": 0.75,
+            "no_spread": 0.010000000000000009,
+            "volume": 8006.791908869997,
+            "liquidity": 121589.82,
+            "neg_risk": false,
+            "end_date": "2027-04-17T00:00:00Z",
+            "categories": [
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Ruling on ineligibility ban impacts ballot status (1 hop).",
+            "event_id": "407284",
+            "event_title": "2027 French Presidential Election: who will be on the ballot?",
+            "event_slug": "2027-french-presidential-election-who-will-be-on-the-ballot",
+            "detected_yes_price": 0.21,
+            "detected_no_price": 0.81,
+            "detected_at": 1783403516572,
+            "highest_price_change": 1.0952380952380953,
+            "highest_yes_price": 0.44,
+            "highest_no_price": 0.9,
+            "first_moved_at": 1783418061737,
+            "moved_side": "yes",
+            "peaked_at": 1783428434440
+          },
+          {
+            "id": "2061468",
+            "slug": "2027-french-presidential-election-national-rally-candidate",
+            "condition_id": "0xd1271b5ccea9be296cead24eb97e0402424a3eac997e94e2f9c49154cc54da9e",
+            "title": "Marine Le Pen",
+            "question": "Will Marine Le Pen be the National Rally\u2019s candidate for the 2027 French Presidential election?",
+            "description": "The next French presidential election is currently expected to be held in April 2027. \n\nThis market will resolve according to the first individual publicly announced as the chosen candidate of the National Rally (Rassemblement National, RN) party for the 2027 French presidential election.\n\nA qualifying announcement must explicitly identify the relevant individual as the National Rally Party\u2019s candidate for the 2027 French presidential election.\n\nIf the National Rally party simultaneously announces multiple individuals as its candidates for the 2027 French presidential election, this market will resolve to \u201cMultiple Candidates\u201d.\n\nIf no qualifying announcement is made by the time the official candidate list for the first round of the 2027 French presidential election is released, this market will resolve to the National Rally candidate included on that list. If multiple National Rally candidates are included on that list, this market will resolve to \u201cMultiple Candidates\u201d. If no National Rally candidate is included on that list, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be official information from the National Rally party; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/france-presidential-election-2027-U5QY3acvfubZ.png",
+            "yes_token_id": "2200082549638494641230699109352151034620813714203920014101125143821883292113",
+            "yes_probability": 0.21,
+            "yes_best_bid": 0.19,
+            "yes_best_ask": 0.21,
+            "yes_spread": 0.01999999999999999,
+            "no_token_id": "6891668364273623915227145314050971698701474543588642911595878292594559266585",
+            "no_probability": 0.81,
+            "no_best_bid": 0.79,
+            "no_best_ask": 0.81,
+            "no_spread": 0.020000000000000018,
+            "volume": 12399.573538410015,
+            "liquidity": 177541.55,
+            "neg_risk": true,
+            "end_date": "2027-04-23T00:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Appeal decision directly influences candidacy (1 hop).",
+            "event_id": "410410",
+            "event_title": "2027 French Presidential Election: National Rally Candidate",
+            "event_slug": "2027-french-presidential-election-national-rally-candidate",
+            "detected_yes_price": 0.21,
+            "detected_no_price": 0.8,
+            "detected_at": 1783403516572,
+            "highest_price_change": 2.095238095238096,
+            "highest_yes_price": 0.65,
+            "highest_no_price": 0.91,
+            "first_moved_at": 1783417938264,
+            "moved_side": "yes",
+            "peaked_at": 1783425384924
+          }
+        ],
+        "topics": null,
+        "categories": [
+          "finance",
+          "elections",
+          "politics"
+        ]
+      },
+      "related_market": {
+        "id": "1199759",
+        "slug": "will-marine-le-pen-win-her-appeal-to-lift-ineligibility-ban",
+        "condition_id": "0x286a4aab5b6374b155ac54b0eec6775e46a180ffa627f8b6ba00af794dfca41a",
+        "title": "",
+        "question": "Will Marine Le Pen win her appeal to lift ineligibility ban in 2026?",
+        "description": "On March 31, 2025, Marine Le Pen was sentenced to a five-year ban from public office for embezzlement of public funds, potentially blocking her from the 2027 presidential race. The appeal focuses on this penalty, with hearings currently scheduled to run from January 13 to February 12. You can read more about that here: https://www.lemonde.fr/en/les-decodeurs/article/2026/01/13/understanding-marine-le-pen-s-crucial-appeals-trial_6749363_8.html.\n\nThis market will resolve to \u201cYes\u201d if the Paris Court of Appeal issues an initial appeal decision, lifting, annulling, suspending, or otherwise removing Marine Le Pen\u2019s ineligibility penalty such that she is legally permitted to run for public office again, by December 31, 2026, 11:59 PM CET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve immediately based on the first merits judgment rendered by the Paris Court of Appeal in this appeal, regardless of any subsequent appeals or legal proceedings. Procedural or interim rulings that do not decide the merits of the appeal will not qualify toward resolution.\n\nThe primary resolution source for this market will be official rulings from the Paris Court of Appeal (Cour d\u2019appel de Paris); however, a consensus of credible reporting may also be used.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-marine-le-pen-win-her-appeal-to-lift-her-ineligibility-ban-4FUZJVuAqCby.jpg",
+        "yes_token_id": "17301185725826012176762365783264801980149346236078762779876974686542967261600",
+        "yes_probability": 0.979,
+        "yes_best_bid": 0.971,
+        "yes_best_ask": 0.979,
+        "yes_spread": 0.008000000000000007,
+        "no_token_id": "9223973343670458063012496767949006186262020184728648497100995665483334226692",
+        "no_probability": 0.029,
+        "no_best_bid": 0.021,
+        "no_best_ask": 0.029,
+        "no_spread": 0.008,
+        "volume": 52240.17171819004,
+        "liquidity": 271958.0800000001,
+        "neg_risk": false,
+        "end_date": "2026-03-31T00:00:00Z",
+        "categories": [
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 9,
+        "impact_level": "critical",
+        "impact_reason": "Ruling on ineligibility ban impacts appeal outcome (1 hop).",
+        "event_id": "168607",
+        "event_title": "Will Marine Le Pen win her appeal to lift ineligibility ban in 2026?",
+        "event_slug": "will-marine-le-pen-win-her-appeal-to-lift-ineligibility-ban",
+        "detected_yes_price": 0.19,
+        "detected_no_price": 0.8200000000000001,
+        "detected_at": 1783403516572,
+        "highest_price_change": 4.2631578947368425,
+        "highest_yes_price": 1,
+        "highest_no_price": 0.91,
+        "first_moved_at": 1783404106642,
+        "moved_side": "yes",
+        "peaked_at": 1783425567230
+      },
+      "_scraped_at": "2026-07-07T13:11:59.164779+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 3,
+      "feed_item": {
+        "id": "b6f48a9b-ac46-4cf7-9aed-95512e5117db",
+        "timestamp": 1783424894732,
+        "tweet": null,
+        "news": {
+          "feed_item_id": "b6f48a9b-ac46-4cf7-9aed-95512e5117db",
+          "headline": "Le Pen at court to learn if she can run for French presidency as appeal judges rule on conviction",
+          "description": "The French hard-right leader was banned from standing for public office for five years after she was found guilty last year of embezzling EU funds.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/484a/live/4e9b91d0-79f6-11f1-bee8-53ce494e1abc.jpg",
+          "url": "https://www.bbc.com/news/live/c70yk5xjyl1t",
+          "timestamp": 1783424894732,
+          "source": "bbc"
+        },
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "FR",
+        "countries": [
+          "FR"
+        ],
+        "related_markets": [
+          {
+            "id": "2054223",
+            "slug": "2027-french-presidential-election-who-will-be-on-the-ballot",
+            "condition_id": "0xa4a28a02e05eae793b93bd30cc7eb203525804435d5bcfe4889ffce8d94adcff",
+            "title": "Marine Le Pen",
+            "question": "Will Marine Le Pen be on the ballot for the 2027 French presidential election?",
+            "description": "The next French presidential election is currently expected to be held in April 2027. Prior to the election, the French Constitutional Council is expected to publish the official list of candidates to be included on the ballot for the first round of this election.\n\nThis market will resolve to \u201cYes\u201d if the listed individual is included on the official candidate list for the first round of the 2027 French presidential election. Otherwise, this market will resolve to \u201cNo\u201d.\n\nIf no such candidate list is published prior to the election, this market will resolve based on which candidates actually appear on the ballot when the election takes place. If no list is published and the specified election does not take place by June 30, 2027, 11:59 PM ET, this market will resolve to \u201cNo\u201d.\n\nThe primary resolution source for this market will be the official candidate list published by the French Constitutional Council; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-marine-le-pen-win-the-2027-french-presidential-election-8hg67PHSk27M.jpg",
+            "yes_token_id": "7754512371734273015215938178714173418935846391326977358390432779966177844819",
+            "yes_probability": 0.26,
+            "yes_best_bid": 0.25,
+            "yes_best_ask": 0.26,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "108449310026281098219666849639200747424450133056842631664918675889154878073660",
+            "no_probability": 0.75,
+            "no_best_bid": 0.74,
+            "no_best_ask": 0.75,
+            "no_spread": 0.010000000000000009,
+            "volume": 8006.791908869997,
+            "liquidity": 121589.82,
+            "neg_risk": false,
+            "end_date": "2027-04-17T00:00:00Z",
+            "categories": [
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Court ruling on Le Pen's eligibility directly impacts her presence on the ballot.",
+            "event_id": "407284",
+            "event_title": "2027 French Presidential Election: who will be on the ballot?",
+            "event_slug": "2027-french-presidential-election-who-will-be-on-the-ballot",
+            "detected_yes_price": 0.25,
+            "detected_no_price": 0.8,
+            "detected_at": 1783424949270,
+            "highest_price_change": 0.76,
+            "highest_yes_price": 0.44,
+            "highest_no_price": 0.9,
+            "first_moved_at": 1783424949484,
+            "moved_side": "yes",
+            "peaked_at": 1783428434440
+          },
+          {
+            "id": "2061468",
+            "slug": "2027-french-presidential-election-national-rally-candidate",
+            "condition_id": "0xd1271b5ccea9be296cead24eb97e0402424a3eac997e94e2f9c49154cc54da9e",
+            "title": "Marine Le Pen",
+            "question": "Will Marine Le Pen be the National Rally\u2019s candidate for the 2027 French Presidential election?",
+            "description": "The next French presidential election is currently expected to be held in April 2027. \n\nThis market will resolve according to the first individual publicly announced as the chosen candidate of the National Rally (Rassemblement National, RN) party for the 2027 French presidential election.\n\nA qualifying announcement must explicitly identify the relevant individual as the National Rally Party\u2019s candidate for the 2027 French presidential election.\n\nIf the National Rally party simultaneously announces multiple individuals as its candidates for the 2027 French presidential election, this market will resolve to \u201cMultiple Candidates\u201d.\n\nIf no qualifying announcement is made by the time the official candidate list for the first round of the 2027 French presidential election is released, this market will resolve to the National Rally candidate included on that list. If multiple National Rally candidates are included on that list, this market will resolve to \u201cMultiple Candidates\u201d. If no National Rally candidate is included on that list, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be official information from the National Rally party; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/france-presidential-election-2027-U5QY3acvfubZ.png",
+            "yes_token_id": "2200082549638494641230699109352151034620813714203920014101125143821883292113",
+            "yes_probability": 0.21,
+            "yes_best_bid": 0.19,
+            "yes_best_ask": 0.21,
+            "yes_spread": 0.01999999999999999,
+            "no_token_id": "6891668364273623915227145314050971698701474543588642911595878292594559266585",
+            "no_probability": 0.81,
+            "no_best_bid": 0.79,
+            "no_best_ask": 0.81,
+            "no_spread": 0.020000000000000018,
+            "volume": 12399.573538410015,
+            "liquidity": 177541.55,
+            "neg_risk": true,
+            "end_date": "2027-04-23T00:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Court ruling on Le Pen's eligibility directly impacts her candidacy for National Rally.",
+            "event_id": "410410",
+            "event_title": "2027 French Presidential Election: National Rally Candidate",
+            "event_slug": "2027-french-presidential-election-national-rally-candidate",
+            "detected_yes_price": 0.16,
+            "detected_no_price": 0.86,
+            "detected_at": 1783424949270,
+            "highest_price_change": 3.0625,
+            "highest_yes_price": 0.65,
+            "highest_no_price": 0.91,
+            "first_moved_at": 1783425137937,
+            "moved_side": "yes",
+            "peaked_at": 1783425384924
+          },
+          {
+            "id": "679018",
+            "slug": "next-french-presidential-election",
+            "condition_id": "0x8126317d621047fb13d508a2651eecc8d38305904671822a62309c5aabd353aa",
+            "title": "Marine Le Pen",
+            "question": "Will Marine Le Pen win the 2027 French presidential election?",
+            "description": "The next French presidential election is currently expected to be held around April 2027.  This market pertains to the outcome of the next French presidential election, regardless of whether it follows the scheduled end of the current term or is held earlier. \n\nThe President of France is elected via a two-round system; a candidate must secure over 50% of the vote to win outright in the first round. If no candidate achieves this, the top two contenders advance to a runoff.\n\nThis market will resolve according to the candidate who wins this election.\n\nThis market includes any potential second round. If, for any reason, the results of the election are not known by December 31, 2027, 11:59 PM ET, this market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the French Government, specifically the Ministry of the Interior (https://www.interieur.gouv.fr/).",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-marine-le-pen-win-the-2027-french-presidential-election-8hg67PHSk27M.jpg",
+            "yes_token_id": "55764212211467781322980371912612507865974994976253196346176314491480419639168",
+            "yes_probability": 0.106,
+            "yes_best_bid": 0.1,
+            "yes_best_ask": 0.106,
+            "yes_spread": 0.0059999999999999915,
+            "no_token_id": "5649717099758674861276159343380402289083378331461490840325685141994171250523",
+            "no_probability": 0.9,
+            "no_best_bid": 0.894,
+            "no_best_ask": 0.9,
+            "no_spread": 0.006000000000000005,
+            "volume": 929641.4929636162,
+            "liquidity": 1966072.2799999989,
+            "neg_risk": true,
+            "end_date": "2027-04-30T00:00:00Z",
+            "categories": [
+              "elections",
+              "world",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Court ruling on Le Pen's eligibility directly impacts her presidential run.",
+            "event_id": "79987",
+            "event_title": "Next French Presidential Election",
+            "event_slug": "next-french-presidential-election",
+            "detected_yes_price": 0.07,
+            "detected_no_price": 0.94,
+            "detected_at": 1783424949270,
+            "highest_price_change": 1.5571428571428567,
+            "highest_yes_price": 0.179,
+            "highest_no_price": 1,
+            "first_moved_at": 1783424951026,
+            "moved_side": "yes",
+            "peaked_at": 1783427684958
+          },
+          {
+            "id": "2371045",
+            "slug": "next-french-presidential-election-who-will-advance-to-the-2nd-round",
+            "condition_id": "0x4de07f3b6b1220c2406e5807d30588fc6cbd5b938310835524106d05d20a9b4a",
+            "title": "Marine Le Pen",
+            "question": "Will Marine Le Pen advance to the second round of the next French presidential election?",
+            "description": "The next French presidential election is currently expected to be held around April 2027. This market pertains to the outcome of the next French presidential election, regardless of whether it follows the scheduled end of the current term or is held earlier.\n\nThe President of France is elected via a two-round system; a candidate must secure over 50% of the vote to win outright in the first round. If no candidate achieves this, the top two contenders advance to a runoff second round.\n\nThis market will resolve to \"Yes\" if the listed candidate advances to the second round of the next French presidential election or wins the election outright in the first round. Otherwise, this market will resolve to \"No\".\n\nIf no such election occurs or the results of the first round of this election are not known by December 31, 2027, 11:59 PM ET, this market will resolve to \"No\".\n\nThis market will resolve based on the result of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the French Government, specifically the Ministry of the Interior (https://www.interieur.gouv.fr/).",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-marine-le-pen-win-the-2027-french-presidential-election-8hg67PHSk27M.jpg",
+            "yes_token_id": "68877280424127404550238129876288207007515294835359870585560693961915529618517",
+            "yes_probability": 0.31,
+            "yes_best_bid": 0.17,
+            "yes_best_ask": 0.31,
+            "yes_spread": 0.13999999999999999,
+            "no_token_id": "113455138099346966526144300158157092351171481264737154198173218366905372083794",
+            "no_probability": 0.83,
+            "no_best_bid": 0.69,
+            "no_best_ask": 0.83,
+            "no_spread": 0.14,
+            "volume": 465.48734200000007,
+            "liquidity": 103065.28000000001,
+            "neg_risk": false,
+            "end_date": "2027-04-30T00:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Court ruling on Le Pen's eligibility directly impacts her chances to advance.",
+            "event_id": "531333",
+            "event_title": "Next French Presidential Election: who will advance to the 2nd round?",
+            "event_slug": "next-french-presidential-election-who-will-advance-to-the-2nd-round",
+            "detected_yes_price": 0.23,
+            "detected_no_price": 0.81,
+            "detected_at": 1783424949270,
+            "highest_price_change": 0.4782608695652174,
+            "highest_yes_price": 0.34,
+            "highest_no_price": 0.83,
+            "first_moved_at": 1783425341650,
+            "moved_side": "yes",
+            "peaked_at": 1783425516435
+          }
+        ],
+        "topics": null,
+        "categories": [
+          "world"
+        ]
+      },
+      "related_market": {
+        "id": "2061468",
+        "slug": "2027-french-presidential-election-national-rally-candidate",
+        "condition_id": "0xd1271b5ccea9be296cead24eb97e0402424a3eac997e94e2f9c49154cc54da9e",
+        "title": "Marine Le Pen",
+        "question": "Will Marine Le Pen be the National Rally\u2019s candidate for the 2027 French Presidential election?",
+        "description": "The next French presidential election is currently expected to be held in April 2027. \n\nThis market will resolve according to the first individual publicly announced as the chosen candidate of the National Rally (Rassemblement National, RN) party for the 2027 French presidential election.\n\nA qualifying announcement must explicitly identify the relevant individual as the National Rally Party\u2019s candidate for the 2027 French presidential election.\n\nIf the National Rally party simultaneously announces multiple individuals as its candidates for the 2027 French presidential election, this market will resolve to \u201cMultiple Candidates\u201d.\n\nIf no qualifying announcement is made by the time the official candidate list for the first round of the 2027 French presidential election is released, this market will resolve to the National Rally candidate included on that list. If multiple National Rally candidates are included on that list, this market will resolve to \u201cMultiple Candidates\u201d. If no National Rally candidate is included on that list, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be official information from the National Rally party; however, a consensus of credible reporting may also be used.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/france-presidential-election-2027-U5QY3acvfubZ.png",
+        "yes_token_id": "2200082549638494641230699109352151034620813714203920014101125143821883292113",
+        "yes_probability": 0.21,
+        "yes_best_bid": 0.19,
+        "yes_best_ask": 0.21,
+        "yes_spread": 0.01999999999999999,
+        "no_token_id": "6891668364273623915227145314050971698701474543588642911595878292594559266585",
+        "no_probability": 0.81,
+        "no_best_bid": 0.79,
+        "no_best_ask": 0.81,
+        "no_spread": 0.020000000000000018,
+        "volume": 12399.573538410015,
+        "liquidity": 177541.55,
+        "neg_risk": true,
+        "end_date": "2027-04-23T00:00:00Z",
+        "categories": [
+          "politics",
+          "elections"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Court ruling on Le Pen's eligibility directly impacts her candidacy for National Rally.",
+        "event_id": "410410",
+        "event_title": "2027 French Presidential Election: National Rally Candidate",
+        "event_slug": "2027-french-presidential-election-national-rally-candidate",
+        "detected_yes_price": 0.16,
+        "detected_no_price": 0.86,
+        "detected_at": 1783424949270,
+        "highest_price_change": 3.0625,
+        "highest_yes_price": 0.65,
+        "highest_no_price": 0.91,
+        "first_moved_at": 1783425137937,
+        "moved_side": "yes",
+        "peaked_at": 1783425384924
+      },
+      "_scraped_at": "2026-07-07T13:11:59.164779+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 4,
+      "feed_item": {
+        "id": "7f47e4ae-4385-4e85-b1d2-1f4dde0f9735",
+        "timestamp": 1783426516803,
+        "tweet": {
+          "feed_item_id": "7f47e4ae-4385-4e85-b1d2-1f4dde0f9735",
+          "post_id": "2074467283590692929",
+          "post_type": "tweet",
+          "created_at": 1783426516803,
+          "user": {
+            "uid": "3247652319",
+            "handle": "clashreport",
+            "display_name": "Clash Report",
+            "pfp": "https://pbs.twimg.com/profile_images/1942576646457868288/gOMYVVRf.jpg"
+          },
+          "tags": [
+            "politics"
+          ],
+          "body": "An appeals court has cleared Marine Le Pen to run in the 2027 French presidential election by shortening her ban fr\u2026 https://x.com/i/web/status/2074467283590692929",
+          "link": "https://twitter.com/clashreport/status/2074467283590692929"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "FR",
+        "countries": [
+          "FR"
+        ],
+        "related_markets": [
+          {
+            "id": "679018",
+            "slug": "next-french-presidential-election",
+            "condition_id": "0x8126317d621047fb13d508a2651eecc8d38305904671822a62309c5aabd353aa",
+            "title": "Marine Le Pen",
+            "question": "Will Marine Le Pen win the 2027 French presidential election?",
+            "description": "The next French presidential election is currently expected to be held around April 2027.  This market pertains to the outcome of the next French presidential election, regardless of whether it follows the scheduled end of the current term or is held earlier. \n\nThe President of France is elected via a two-round system; a candidate must secure over 50% of the vote to win outright in the first round. If no candidate achieves this, the top two contenders advance to a runoff.\n\nThis market will resolve according to the candidate who wins this election.\n\nThis market includes any potential second round. If, for any reason, the results of the election are not known by December 31, 2027, 11:59 PM ET, this market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the French Government, specifically the Ministry of the Interior (https://www.interieur.gouv.fr/).",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-marine-le-pen-win-the-2027-french-presidential-election-8hg67PHSk27M.jpg",
+            "yes_token_id": "55764212211467781322980371912612507865974994976253196346176314491480419639168",
+            "yes_probability": 0.106,
+            "yes_best_bid": 0.1,
+            "yes_best_ask": 0.106,
+            "yes_spread": 0.0059999999999999915,
+            "no_token_id": "5649717099758674861276159343380402289083378331461490840325685141994171250523",
+            "no_probability": 0.9,
+            "no_best_bid": 0.894,
+            "no_best_ask": 0.9,
+            "no_spread": 0.006000000000000005,
+            "volume": 929641.4929636162,
+            "liquidity": 1966072.2799999989,
+            "neg_risk": true,
+            "end_date": "2027-04-30T00:00:00Z",
+            "categories": [
+              "elections",
+              "world",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Court ruling allows Le Pen to run, directly impacting her candidacy.",
+            "event_id": "79987",
+            "event_title": "Next French Presidential Election",
+            "event_slug": "next-french-presidential-election",
+            "detected_yes_price": 0.059,
+            "detected_no_price": 0.947,
+            "detected_at": 1783426572297,
+            "highest_price_change": 2.0338983050847457,
+            "highest_yes_price": 0.179,
+            "highest_no_price": 0.947,
+            "first_moved_at": 1783426572579,
+            "moved_side": "yes",
+            "peaked_at": 1783427684958
+          },
+          {
+            "id": "2061468",
+            "slug": "2027-french-presidential-election-national-rally-candidate",
+            "condition_id": "0xd1271b5ccea9be296cead24eb97e0402424a3eac997e94e2f9c49154cc54da9e",
+            "title": "Marine Le Pen",
+            "question": "Will Marine Le Pen be the National Rally\u2019s candidate for the 2027 French Presidential election?",
+            "description": "The next French presidential election is currently expected to be held in April 2027. \n\nThis market will resolve according to the first individual publicly announced as the chosen candidate of the National Rally (Rassemblement National, RN) party for the 2027 French presidential election.\n\nA qualifying announcement must explicitly identify the relevant individual as the National Rally Party\u2019s candidate for the 2027 French presidential election.\n\nIf the National Rally party simultaneously announces multiple individuals as its candidates for the 2027 French presidential election, this market will resolve to \u201cMultiple Candidates\u201d.\n\nIf no qualifying announcement is made by the time the official candidate list for the first round of the 2027 French presidential election is released, this market will resolve to the National Rally candidate included on that list. If multiple National Rally candidates are included on that list, this market will resolve to \u201cMultiple Candidates\u201d. If no National Rally candidate is included on that list, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be official information from the National Rally party; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/france-presidential-election-2027-U5QY3acvfubZ.png",
+            "yes_token_id": "2200082549638494641230699109352151034620813714203920014101125143821883292113",
+            "yes_probability": 0.21,
+            "yes_best_bid": 0.19,
+            "yes_best_ask": 0.21,
+            "yes_spread": 0.01999999999999999,
+            "no_token_id": "6891668364273623915227145314050971698701474543588642911595878292594559266585",
+            "no_probability": 0.81,
+            "no_best_bid": 0.79,
+            "no_best_ask": 0.81,
+            "no_spread": 0.020000000000000018,
+            "volume": 12399.573538410015,
+            "liquidity": 177541.55,
+            "neg_risk": true,
+            "end_date": "2027-04-23T00:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Court ruling confirms Le Pen's candidacy for National Rally.",
+            "event_id": "410410",
+            "event_title": "2027 French Presidential Election: National Rally Candidate",
+            "event_slug": "2027-french-presidential-election-national-rally-candidate",
+            "detected_yes_price": 0.19,
+            "detected_no_price": 0.85,
+            "detected_at": 1783426572297,
+            "highest_price_change": 0.26315789473684204,
+            "highest_yes_price": 0.24,
+            "highest_no_price": 0.89,
+            "first_moved_at": 1783426572339,
+            "moved_side": "yes",
+            "peaked_at": 1783429280321
+          },
+          {
+            "id": "2054223",
+            "slug": "2027-french-presidential-election-who-will-be-on-the-ballot",
+            "condition_id": "0xa4a28a02e05eae793b93bd30cc7eb203525804435d5bcfe4889ffce8d94adcff",
+            "title": "Marine Le Pen",
+            "question": "Will Marine Le Pen be on the ballot for the 2027 French presidential election?",
+            "description": "The next French presidential election is currently expected to be held in April 2027. Prior to the election, the French Constitutional Council is expected to publish the official list of candidates to be included on the ballot for the first round of this election.\n\nThis market will resolve to \u201cYes\u201d if the listed individual is included on the official candidate list for the first round of the 2027 French presidential election. Otherwise, this market will resolve to \u201cNo\u201d.\n\nIf no such candidate list is published prior to the election, this market will resolve based on which candidates actually appear on the ballot when the election takes place. If no list is published and the specified election does not take place by June 30, 2027, 11:59 PM ET, this market will resolve to \u201cNo\u201d.\n\nThe primary resolution source for this market will be the official candidate list published by the French Constitutional Council; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-marine-le-pen-win-the-2027-french-presidential-election-8hg67PHSk27M.jpg",
+            "yes_token_id": "7754512371734273015215938178714173418935846391326977358390432779966177844819",
+            "yes_probability": 0.26,
+            "yes_best_bid": 0.25,
+            "yes_best_ask": 0.26,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "108449310026281098219666849639200747424450133056842631664918675889154878073660",
+            "no_probability": 0.75,
+            "no_best_bid": 0.74,
+            "no_best_ask": 0.75,
+            "no_spread": 0.010000000000000009,
+            "volume": 8006.791908869997,
+            "liquidity": 121589.82,
+            "neg_risk": false,
+            "end_date": "2027-04-17T00:00:00Z",
+            "categories": [
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Court ruling confirms Le Pen's eligibility for the election.",
+            "event_id": "407284",
+            "event_title": "2027 French Presidential Election: who will be on the ballot?",
+            "event_slug": "2027-french-presidential-election-who-will-be-on-the-ballot",
+            "detected_yes_price": 0.16,
+            "detected_no_price": 0.85,
+            "detected_at": 1783426572297,
+            "highest_price_change": 1.7500000000000002,
+            "highest_yes_price": 0.44,
+            "highest_no_price": 0.88,
+            "first_moved_at": 1783426573321,
+            "moved_side": "yes",
+            "peaked_at": 1783428434440
+          }
+        ],
+        "topics": [
+          "elon-musk"
+        ],
+        "categories": [
+          "elections",
+          "politics"
+        ]
+      },
+      "related_market": {
+        "id": "679018",
+        "slug": "next-french-presidential-election",
+        "condition_id": "0x8126317d621047fb13d508a2651eecc8d38305904671822a62309c5aabd353aa",
+        "title": "Marine Le Pen",
+        "question": "Will Marine Le Pen win the 2027 French presidential election?",
+        "description": "The next French presidential election is currently expected to be held around April 2027.  This market pertains to the outcome of the next French presidential election, regardless of whether it follows the scheduled end of the current term or is held earlier. \n\nThe President of France is elected via a two-round system; a candidate must secure over 50% of the vote to win outright in the first round. If no candidate achieves this, the top two contenders advance to a runoff.\n\nThis market will resolve according to the candidate who wins this election.\n\nThis market includes any potential second round. If, for any reason, the results of the election are not known by December 31, 2027, 11:59 PM ET, this market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the French Government, specifically the Ministry of the Interior (https://www.interieur.gouv.fr/).",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-marine-le-pen-win-the-2027-french-presidential-election-8hg67PHSk27M.jpg",
+        "yes_token_id": "55764212211467781322980371912612507865974994976253196346176314491480419639168",
+        "yes_probability": 0.106,
+        "yes_best_bid": 0.1,
+        "yes_best_ask": 0.106,
+        "yes_spread": 0.0059999999999999915,
+        "no_token_id": "5649717099758674861276159343380402289083378331461490840325685141994171250523",
+        "no_probability": 0.9,
+        "no_best_bid": 0.894,
+        "no_best_ask": 0.9,
+        "no_spread": 0.006000000000000005,
+        "volume": 929641.4929636162,
+        "liquidity": 1966072.2799999989,
+        "neg_risk": true,
+        "end_date": "2027-04-30T00:00:00Z",
+        "categories": [
+          "elections",
+          "world",
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 9,
+        "impact_level": "critical",
+        "impact_reason": "Court ruling allows Le Pen to run, directly impacting her candidacy.",
+        "event_id": "79987",
+        "event_title": "Next French Presidential Election",
+        "event_slug": "next-french-presidential-election",
+        "detected_yes_price": 0.059,
+        "detected_no_price": 0.947,
+        "detected_at": 1783426572297,
+        "highest_price_change": 2.0338983050847457,
+        "highest_yes_price": 0.179,
+        "highest_no_price": 0.947,
+        "first_moved_at": 1783426572579,
+        "moved_side": "yes",
+        "peaked_at": 1783427684958
+      },
+      "_scraped_at": "2026-07-07T13:11:59.164779+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 5,
+      "feed_item": {
+        "id": "f91ecc85-af28-44f2-ac9f-acbd19572a83",
+        "timestamp": 1783426838000,
+        "tweet": {
+          "feed_item_id": "f91ecc85-af28-44f2-ac9f-acbd19572a83",
+          "post_id": "2074468634664034565",
+          "post_type": "tweet",
+          "created_at": 1783426838000,
+          "user": {
+            "uid": "1222773302441148416",
+            "handle": "visegrad24",
+            "display_name": "Visegr\u00e1d 24",
+            "pfp": "https://pbs.twimg.com/profile_images/1875625827674591232/OBzjRIZ4_normal.jpg"
+          },
+          "tags": [
+            "politics"
+          ],
+          "body": "BREAKING: Marine Le Pen just lost her appeal in the embezzlement case and has been sentenced to 3 years imprisonment, 2 suspended and 1 year with an ankle monitor She has previously stated that she won\u2019t run for president next year if she is forced to campaign with the monitor\u2026",
+          "link": "https://twitter.com/visegrad24/status/2074468634664034565",
+          "attachments": [
+            {
+              "kind": "photo",
+              "src": "https://pbs.twimg.com/media/HMn-OnQXwAALtp1.jpg"
+            }
+          ]
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "related_markets": [
+          {
+            "id": "2061468",
+            "slug": "2027-french-presidential-election-national-rally-candidate",
+            "condition_id": "0xd1271b5ccea9be296cead24eb97e0402424a3eac997e94e2f9c49154cc54da9e",
+            "title": "Marine Le Pen",
+            "question": "Will Marine Le Pen be the National Rally\u2019s candidate for the 2027 French Presidential election?",
+            "description": "The next French presidential election is currently expected to be held in April 2027. \n\nThis market will resolve according to the first individual publicly announced as the chosen candidate of the National Rally (Rassemblement National, RN) party for the 2027 French presidential election.\n\nA qualifying announcement must explicitly identify the relevant individual as the National Rally Party\u2019s candidate for the 2027 French presidential election.\n\nIf the National Rally party simultaneously announces multiple individuals as its candidates for the 2027 French presidential election, this market will resolve to \u201cMultiple Candidates\u201d.\n\nIf no qualifying announcement is made by the time the official candidate list for the first round of the 2027 French presidential election is released, this market will resolve to the National Rally candidate included on that list. If multiple National Rally candidates are included on that list, this market will resolve to \u201cMultiple Candidates\u201d. If no National Rally candidate is included on that list, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be official information from the National Rally party; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/france-presidential-election-2027-U5QY3acvfubZ.png",
+            "yes_token_id": "2200082549638494641230699109352151034620813714203920014101125143821883292113",
+            "yes_probability": 0.21,
+            "yes_best_bid": 0.19,
+            "yes_best_ask": 0.21,
+            "yes_spread": 0.01999999999999999,
+            "no_token_id": "6891668364273623915227145314050971698701474543588642911595878292594559266585",
+            "no_probability": 0.81,
+            "no_best_bid": 0.79,
+            "no_best_ask": 0.81,
+            "no_spread": 0.020000000000000018,
+            "volume": 12399.573538410015,
+            "liquidity": 177541.55,
+            "neg_risk": true,
+            "end_date": "2027-04-23T00:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Imprisonment affects her ability to run (1 hop).",
+            "event_id": "410410",
+            "event_title": "2027 French Presidential Election: National Rally Candidate",
+            "event_slug": "2027-french-presidential-election-national-rally-candidate",
+            "detected_yes_price": 0.18,
+            "detected_no_price": 0.86,
+            "detected_at": 1783426898739,
+            "highest_price_change": 0.3333333333333333,
+            "highest_yes_price": 0.24,
+            "highest_no_price": 0.89,
+            "first_moved_at": 1783427234920,
+            "moved_side": "yes",
+            "peaked_at": 1783429280321
+          },
+          {
+            "id": "2371045",
+            "slug": "next-french-presidential-election-who-will-advance-to-the-2nd-round",
+            "condition_id": "0x4de07f3b6b1220c2406e5807d30588fc6cbd5b938310835524106d05d20a9b4a",
+            "title": "Marine Le Pen",
+            "question": "Will Marine Le Pen advance to the second round of the next French presidential election?",
+            "description": "The next French presidential election is currently expected to be held around April 2027. This market pertains to the outcome of the next French presidential election, regardless of whether it follows the scheduled end of the current term or is held earlier.\n\nThe President of France is elected via a two-round system; a candidate must secure over 50% of the vote to win outright in the first round. If no candidate achieves this, the top two contenders advance to a runoff second round.\n\nThis market will resolve to \"Yes\" if the listed candidate advances to the second round of the next French presidential election or wins the election outright in the first round. Otherwise, this market will resolve to \"No\".\n\nIf no such election occurs or the results of the first round of this election are not known by December 31, 2027, 11:59 PM ET, this market will resolve to \"No\".\n\nThis market will resolve based on the result of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the French Government, specifically the Ministry of the Interior (https://www.interieur.gouv.fr/).",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-marine-le-pen-win-the-2027-french-presidential-election-8hg67PHSk27M.jpg",
+            "yes_token_id": "68877280424127404550238129876288207007515294835359870585560693961915529618517",
+            "yes_probability": 0.31,
+            "yes_best_bid": 0.17,
+            "yes_best_ask": 0.31,
+            "yes_spread": 0.13999999999999999,
+            "no_token_id": "113455138099346966526144300158157092351171481264737154198173218366905372083794",
+            "no_probability": 0.83,
+            "no_best_bid": 0.69,
+            "no_best_ask": 0.83,
+            "no_spread": 0.14,
+            "volume": 465.48734200000007,
+            "liquidity": 103065.28000000001,
+            "neg_risk": false,
+            "end_date": "2027-04-30T00:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Imprisonment affects her ability to advance (1 hop).",
+            "event_id": "531333",
+            "event_title": "Next French Presidential Election: who will advance to the 2nd round?",
+            "event_slug": "next-french-presidential-election-who-will-advance-to-the-2nd-round",
+            "detected_yes_price": 0.31,
+            "detected_no_price": 0.79,
+            "detected_at": 1783426898739,
+            "highest_price_change": 0.06451612903225812,
+            "highest_yes_price": 0.33,
+            "highest_no_price": 0.83,
+            "first_moved_at": 1783426914475,
+            "moved_side": "yes",
+            "peaked_at": 1783428645850
+          },
+          {
+            "id": "2054223",
+            "slug": "2027-french-presidential-election-who-will-be-on-the-ballot",
+            "condition_id": "0xa4a28a02e05eae793b93bd30cc7eb203525804435d5bcfe4889ffce8d94adcff",
+            "title": "Marine Le Pen",
+            "question": "Will Marine Le Pen be on the ballot for the 2027 French presidential election?",
+            "description": "The next French presidential election is currently expected to be held in April 2027. Prior to the election, the French Constitutional Council is expected to publish the official list of candidates to be included on the ballot for the first round of this election.\n\nThis market will resolve to \u201cYes\u201d if the listed individual is included on the official candidate list for the first round of the 2027 French presidential election. Otherwise, this market will resolve to \u201cNo\u201d.\n\nIf no such candidate list is published prior to the election, this market will resolve based on which candidates actually appear on the ballot when the election takes place. If no list is published and the specified election does not take place by June 30, 2027, 11:59 PM ET, this market will resolve to \u201cNo\u201d.\n\nThe primary resolution source for this market will be the official candidate list published by the French Constitutional Council; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-marine-le-pen-win-the-2027-french-presidential-election-8hg67PHSk27M.jpg",
+            "yes_token_id": "7754512371734273015215938178714173418935846391326977358390432779966177844819",
+            "yes_probability": 0.26,
+            "yes_best_bid": 0.25,
+            "yes_best_ask": 0.26,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "108449310026281098219666849639200747424450133056842631664918675889154878073660",
+            "no_probability": 0.75,
+            "no_best_bid": 0.74,
+            "no_best_ask": 0.75,
+            "no_spread": 0.010000000000000009,
+            "volume": 8006.791908869997,
+            "liquidity": 121589.82,
+            "neg_risk": false,
+            "end_date": "2027-04-17T00:00:00Z",
+            "categories": [
+              "elections",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Imprisonment affects her ability to be on the ballot (1 hop).",
+            "event_id": "407284",
+            "event_title": "2027 French Presidential Election: who will be on the ballot?",
+            "event_slug": "2027-french-presidential-election-who-will-be-on-the-ballot",
+            "detected_yes_price": 0.17,
+            "detected_no_price": 0.84,
+            "detected_at": 1783426898739,
+            "highest_price_change": 1.588235294117647,
+            "highest_yes_price": 0.44,
+            "highest_no_price": 0.88,
+            "first_moved_at": 1783426898746,
+            "moved_side": "yes",
+            "peaked_at": 1783428434440
+          },
+          {
+            "id": "679018",
+            "slug": "next-french-presidential-election",
+            "condition_id": "0x8126317d621047fb13d508a2651eecc8d38305904671822a62309c5aabd353aa",
+            "title": "Marine Le Pen",
+            "question": "Will Marine Le Pen win the 2027 French presidential election?",
+            "description": "The next French presidential election is currently expected to be held around April 2027.  This market pertains to the outcome of the next French presidential election, regardless of whether it follows the scheduled end of the current term or is held earlier. \n\nThe President of France is elected via a two-round system; a candidate must secure over 50% of the vote to win outright in the first round. If no candidate achieves this, the top two contenders advance to a runoff.\n\nThis market will resolve according to the candidate who wins this election.\n\nThis market includes any potential second round. If, for any reason, the results of the election are not known by December 31, 2027, 11:59 PM ET, this market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the French Government, specifically the Ministry of the Interior (https://www.interieur.gouv.fr/).",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-marine-le-pen-win-the-2027-french-presidential-election-8hg67PHSk27M.jpg",
+            "yes_token_id": "55764212211467781322980371912612507865974994976253196346176314491480419639168",
+            "yes_probability": 0.106,
+            "yes_best_bid": 0.1,
+            "yes_best_ask": 0.106,
+            "yes_spread": 0.0059999999999999915,
+            "no_token_id": "5649717099758674861276159343380402289083378331461490840325685141994171250523",
+            "no_probability": 0.9,
+            "no_best_bid": 0.894,
+            "no_best_ask": 0.9,
+            "no_spread": 0.006000000000000005,
+            "volume": 929641.4929636162,
+            "liquidity": 1966072.2799999989,
+            "neg_risk": true,
+            "end_date": "2027-04-30T00:00:00Z",
+            "categories": [
+              "elections",
+              "world",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Imprisonment affects candidacy and campaign viability (1 hop).",
+            "event_id": "79987",
+            "event_title": "Next French Presidential Election",
+            "event_slug": "next-french-presidential-election",
+            "detected_yes_price": 0.09,
+            "detected_no_price": 0.921,
+            "detected_at": 1783426898739,
+            "highest_price_change": 0.9888888888888889,
+            "highest_yes_price": 0.179,
+            "highest_no_price": 0.921,
+            "first_moved_at": 1783426901766,
+            "moved_side": "yes",
+            "peaked_at": 1783427684958
+          },
+          {
+            "id": "2061469",
+            "slug": "2027-french-presidential-election-national-rally-candidate",
+            "condition_id": "0x41caad92e4885a7b28b8487cae926ae2de0705a39e885fa328beb45dd74599da",
+            "title": "Jordan Bardella",
+            "question": "Will Jordan Bardella be the National Rally\u2019s candidate for the 2027 French Presidential election?",
+            "description": "The next French presidential election is currently expected to be held in April 2027. \n\nThis market will resolve according to the first individual publicly announced as the chosen candidate of the National Rally (Rassemblement National, RN) party for the 2027 French presidential election.\n\nA qualifying announcement must explicitly identify the relevant individual as the National Rally Party\u2019s candidate for the 2027 French presidential election.\n\nIf the National Rally party simultaneously announces multiple individuals as its candidates for the 2027 French presidential election, this market will resolve to \u201cMultiple Candidates\u201d.\n\nIf no qualifying announcement is made by the time the official candidate list for the first round of the 2027 French presidential election is released, this market will resolve to the National Rally candidate included on that list. If multiple National Rally candidates are included on that list, this market will resolve to \u201cMultiple Candidates\u201d. If no National Rally candidate is included on that list, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be official information from the National Rally party; however, a consensus of credible reporting may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/france-presidential-election-2027-U5QY3acvfubZ.png",
+            "yes_token_id": "73513841395852783113612096882585774029058295155101066669225058424350026816720",
+            "yes_probability": 0.7,
+            "yes_best_bid": 0.67,
+            "yes_best_ask": 0.7,
+            "yes_spread": 0.029999999999999916,
+            "no_token_id": "108208262127963807843101026511755478460852841531384183595546371335745814935154",
+            "no_probability": 0.33,
+            "no_best_bid": 0.3,
+            "no_best_ask": 0.33,
+            "no_spread": 0.030000000000000027,
+            "volume": 18785.172323450002,
+            "liquidity": 108689.51000000001,
+            "neg_risk": true,
+            "end_date": "2027-04-23T00:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 7,
+            "impact_level": "medium",
+            "impact_reason": "Le Pen's legal issues could lead to Bardella's nomination (1 hop).",
+            "event_id": "410410",
+            "event_title": "2027 French Presidential Election: National Rally Candidate",
+            "event_slug": "2027-french-presidential-election-national-rally-candidate",
+            "detected_yes_price": 0.81,
+            "detected_no_price": 0.20999999999999996,
+            "detected_at": 1783426898739,
+            "highest_price_change": 0.7619047619047622,
+            "highest_yes_price": 0.83,
+            "highest_no_price": 0.37,
+            "first_moved_at": 1783426899527,
+            "moved_side": "no",
+            "peaked_at": 1783428525574
+          }
+        ],
+        "topics": [
+          "ai-tech"
+        ],
+        "categories": [
+          "climate",
+          "elections",
+          "politics",
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "2054223",
+        "slug": "2027-french-presidential-election-who-will-be-on-the-ballot",
+        "condition_id": "0xa4a28a02e05eae793b93bd30cc7eb203525804435d5bcfe4889ffce8d94adcff",
+        "title": "Marine Le Pen",
+        "question": "Will Marine Le Pen be on the ballot for the 2027 French presidential election?",
+        "description": "The next French presidential election is currently expected to be held in April 2027. Prior to the election, the French Constitutional Council is expected to publish the official list of candidates to be included on the ballot for the first round of this election.\n\nThis market will resolve to \u201cYes\u201d if the listed individual is included on the official candidate list for the first round of the 2027 French presidential election. Otherwise, this market will resolve to \u201cNo\u201d.\n\nIf no such candidate list is published prior to the election, this market will resolve based on which candidates actually appear on the ballot when the election takes place. If no list is published and the specified election does not take place by June 30, 2027, 11:59 PM ET, this market will resolve to \u201cNo\u201d.\n\nThe primary resolution source for this market will be the official candidate list published by the French Constitutional Council; however, a consensus of credible reporting may also be used.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-marine-le-pen-win-the-2027-french-presidential-election-8hg67PHSk27M.jpg",
+        "yes_token_id": "7754512371734273015215938178714173418935846391326977358390432779966177844819",
+        "yes_probability": 0.26,
+        "yes_best_bid": 0.25,
+        "yes_best_ask": 0.26,
+        "yes_spread": 0.010000000000000009,
+        "no_token_id": "108449310026281098219666849639200747424450133056842631664918675889154878073660",
+        "no_probability": 0.75,
+        "no_best_bid": 0.74,
+        "no_best_ask": 0.75,
+        "no_spread": 0.010000000000000009,
+        "volume": 8006.791908869997,
+        "liquidity": 121589.82,
+        "neg_risk": false,
+        "end_date": "2027-04-17T00:00:00Z",
+        "categories": [
+          "elections",
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Imprisonment affects her ability to be on the ballot (1 hop).",
+        "event_id": "407284",
+        "event_title": "2027 French Presidential Election: who will be on the ballot?",
+        "event_slug": "2027-french-presidential-election-who-will-be-on-the-ballot",
+        "detected_yes_price": 0.17,
+        "detected_no_price": 0.84,
+        "detected_at": 1783426898739,
+        "highest_price_change": 1.588235294117647,
+        "highest_yes_price": 0.44,
+        "highest_no_price": 0.88,
+        "first_moved_at": 1783426898746,
+        "moved_side": "yes",
+        "peaked_at": 1783428434440
+      },
+      "_scraped_at": "2026-07-07T13:11:59.164779+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 6,
+      "feed_item": {
+        "id": "88434e85-a916-4b70-8c64-8c7242d0ba6b",
+        "timestamp": 1783421602419,
+        "tweet": null,
+        "news": {
+          "feed_item_id": "88434e85-a916-4b70-8c64-8c7242d0ba6b",
+          "headline": "Tanker set on fire after being struck in Strait of Hormuz, British military says ",
+          "description": "The ship was struck with a projectile near Oman, a British maritime monitor said. No casualties were reported and Iran and the U.S. did not immediately comment.",
+          "image": "https://cloudfront-us-east-1.images.arcpublishing.com/wapo/F26UV6RLADSC3ZDJHPQIZV5KGI.JPG",
+          "url": "https://www.washingtonpost.com/world/2026/07/07/tanker-fire-after-being-struck-strait-hormuz-british-military-says/",
+          "timestamp": 1783421602419,
+          "source": "washingtonpost"
+        },
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "GB",
+        "countries": [
+          "GB",
+          "US",
+          "OM",
+          "IR"
+        ],
+        "related_markets": [
+          {
+            "id": "2789985",
+            "slug": "how-many-ships-transit-the-strait-of-hormuz-week-of-july-6-20260703173313706",
+            "condition_id": "0x37305d414c6c0f25296e1436282ff1c63f0cdfaef024efa83254766c32a526dc",
+            "title": "150-174",
+            "question": "Will 150-174 ships transit the Strait of Hormuz between July 6-July 12?",
+            "description": "This market will resolve according to the finalized total number of transit calls that IMF Portwatch reports for the Strait of Hormuz for all days from July 6, 2026, through July 12, 2026, inclusive.\n\nTransit calls include container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nData for a specific date must be finalized before it is considered for this market (namely, once the next date's data point is available, the previous one is finalized). \n\nThis market will resolve as soon as data has been finalized for the final date in the specified period. If the data for the final date of the specified period has not been finalized by the end of the third calendar day (ET) after the day on which such data is released, this market will resolve based on data published up to that point. Additionally, if not all relevant data has been released and finalized within 14 calendar days of the end of the specified period, this market will resolve based on data published up to that point.\n\nIn case of obvious data integrity issues (i.e., erroneous data), the market may remain open until the end of the third calendar day (ET) after the date on which such data is first released to allow for corrections. Data integrity issues refer only to clerical or other similar errors in the underlying data, and do not include cases where IMF Portwatch differs from alternative sources.\n\nOnly revisions to previously published data points made before the applicable resolution time will be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+            "image": "",
+            "yes_token_id": "76705187355202833037980400475879698259542667308414360846496807127641773275421",
+            "yes_probability": 0.19,
+            "yes_best_bid": 0.15,
+            "yes_best_ask": 0.19,
+            "yes_spread": 0.04000000000000001,
+            "no_token_id": "38036911716778127366011874614317409090491355704081159910719997235165890387618",
+            "no_probability": 0.85,
+            "no_best_bid": 0.81,
+            "no_best_ask": 0.85,
+            "no_spread": 0.039999999999999925,
+            "volume": 4299.556892999999,
+            "liquidity": 236702.32000000015,
+            "neg_risk": true,
+            "end_date": "2026-07-12T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Incident in Strait of Hormuz likely affects shipping volume (1 hop).",
+            "event_id": "664342",
+            "event_title": "How many ships transit the Strait of Hormuz week of July 6?",
+            "event_slug": "how-many-ships-transit-the-strait-of-hormuz-week-of-july-6-20260703173313706",
+            "detected_yes_price": 0.19,
+            "detected_no_price": 0.85,
+            "detected_at": 1783421631147,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.19,
+            "highest_no_price": 0.85
+          },
+          {
+            "id": "2789986",
+            "slug": "how-many-ships-transit-the-strait-of-hormuz-week-of-july-6-20260703173313706",
+            "condition_id": "0x6cb1cf489efeaadb37459312ca4775e5ede191515f7bc8eacfec6d8e3abd6859",
+            "title": "175-199",
+            "question": "Will 175-199 ships transit the Strait of Hormuz between July 6-July 12?",
+            "description": "This market will resolve according to the finalized total number of transit calls that IMF Portwatch reports for the Strait of Hormuz for all days from July 6, 2026, through July 12, 2026, inclusive.\n\nTransit calls include container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nData for a specific date must be finalized before it is considered for this market (namely, once the next date's data point is available, the previous one is finalized). \n\nThis market will resolve as soon as data has been finalized for the final date in the specified period. If the data for the final date of the specified period has not been finalized by the end of the third calendar day (ET) after the day on which such data is released, this market will resolve based on data published up to that point. Additionally, if not all relevant data has been released and finalized within 14 calendar days of the end of the specified period, this market will resolve based on data published up to that point.\n\nIn case of obvious data integrity issues (i.e., erroneous data), the market may remain open until the end of the third calendar day (ET) after the date on which such data is first released to allow for corrections. Data integrity issues refer only to clerical or other similar errors in the underlying data, and do not include cases where IMF Portwatch differs from alternative sources.\n\nOnly revisions to previously published data points made before the applicable resolution time will be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+            "image": "",
+            "yes_token_id": "45398590556710981108443815793821276248261888397143664782731568218255765719374",
+            "yes_probability": 0.38,
+            "yes_best_bid": 0.33,
+            "yes_best_ask": 0.38,
+            "yes_spread": 0.04999999999999999,
+            "no_token_id": "111766941279762874715769858388272543934142894630556529095443588507000861551478",
+            "no_probability": 0.67,
+            "no_best_bid": 0.62,
+            "no_best_ask": 0.67,
+            "no_spread": 0.050000000000000044,
+            "volume": 3513.97925003,
+            "liquidity": 560785.29,
+            "neg_risk": true,
+            "end_date": "2026-07-12T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Incident in Strait of Hormuz likely affects shipping volume (1 hop).",
+            "event_id": "664342",
+            "event_title": "How many ships transit the Strait of Hormuz week of July 6?",
+            "event_slug": "how-many-ships-transit-the-strait-of-hormuz-week-of-july-6-20260703173313706",
+            "detected_yes_price": 0.38,
+            "detected_no_price": 0.6599999999999999,
+            "detected_at": 1783421631147,
+            "highest_price_change": 0.0303030303030305,
+            "highest_yes_price": 0.38,
+            "highest_no_price": 0.68,
+            "first_moved_at": 1783421891611,
+            "moved_side": "no",
+            "peaked_at": 1783429712532
+          },
+          {
+            "id": "2789987",
+            "slug": "how-many-ships-transit-the-strait-of-hormuz-week-of-july-6-20260703173313706",
+            "condition_id": "0x855e356cc076b8d454598e8efb6c022d7b2bdf2a2cd3cf7625c22015e5785f46",
+            "title": "200-224",
+            "question": "Will 200-224 ships transit the Strait of Hormuz between July 6-July 12?",
+            "description": "This market will resolve according to the finalized total number of transit calls that IMF Portwatch reports for the Strait of Hormuz for all days from July 6, 2026, through July 12, 2026, inclusive.\n\nTransit calls include container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nData for a specific date must be finalized before it is considered for this market (namely, once the next date's data point is available, the previous one is finalized). \n\nThis market will resolve as soon as data has been finalized for the final date in the specified period. If the data for the final date of the specified period has not been finalized by the end of the third calendar day (ET) after the day on which such data is released, this market will resolve based on data published up to that point. Additionally, if not all relevant data has been released and finalized within 14 calendar days of the end of the specified period, this market will resolve based on data published up to that point.\n\nIn case of obvious data integrity issues (i.e., erroneous data), the market may remain open until the end of the third calendar day (ET) after the date on which such data is first released to allow for corrections. Data integrity issues refer only to clerical or other similar errors in the underlying data, and do not include cases where IMF Portwatch differs from alternative sources.\n\nOnly revisions to previously published data points made before the applicable resolution time will be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+            "image": "",
+            "yes_token_id": "17492843592384563210858837353221700056125071723084469575014937230667942500086",
+            "yes_probability": 0.23,
+            "yes_best_bid": 0.21,
+            "yes_best_ask": 0.23,
+            "yes_spread": 0.020000000000000018,
+            "no_token_id": "58314196301817791340257217499601714347492564319088521223251492008362852129780",
+            "no_probability": 0.79,
+            "no_best_bid": 0.77,
+            "no_best_ask": 0.79,
+            "no_spread": 0.020000000000000018,
+            "volume": 3450.6503406400006,
+            "liquidity": 275948.44,
+            "neg_risk": true,
+            "end_date": "2026-07-12T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Incident in Strait of Hormuz likely affects shipping volume (1 hop).",
+            "event_id": "664342",
+            "event_title": "How many ships transit the Strait of Hormuz week of July 6?",
+            "event_slug": "how-many-ships-transit-the-strait-of-hormuz-week-of-july-6-20260703173313706",
+            "detected_yes_price": 0.24,
+            "detected_no_price": 0.78,
+            "detected_at": 1783421631147,
+            "highest_price_change": 0.025641025641025664,
+            "highest_yes_price": 0.24,
+            "highest_no_price": 0.8,
+            "first_moved_at": 1783425003939,
+            "moved_side": "no",
+            "peaked_at": 1783425023256
+          },
+          {
+            "id": "2789988",
+            "slug": "how-many-ships-transit-the-strait-of-hormuz-week-of-july-6-20260703173313706",
+            "condition_id": "0x1a1b42c8b539ff4bfed50921f7b7dd8df659f68adbce3b4b89a7da6cb8e8883b",
+            "title": "225+",
+            "question": "Will 225 or more ships transit the Strait of Hormuz between July 6-July 12?",
+            "description": "This market will resolve according to the finalized total number of transit calls that IMF Portwatch reports for the Strait of Hormuz for all days from July 6, 2026, through July 12, 2026, inclusive.\n\nTransit calls include container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nData for a specific date must be finalized before it is considered for this market (namely, once the next date's data point is available, the previous one is finalized). \n\nThis market will resolve as soon as data has been finalized for the final date in the specified period. If the data for the final date of the specified period has not been finalized by the end of the third calendar day (ET) after the day on which such data is released, this market will resolve based on data published up to that point. Additionally, if not all relevant data has been released and finalized within 14 calendar days of the end of the specified period, this market will resolve based on data published up to that point.\n\nIn case of obvious data integrity issues (i.e., erroneous data), the market may remain open until the end of the third calendar day (ET) after the date on which such data is first released to allow for corrections. Data integrity issues refer only to clerical or other similar errors in the underlying data, and do not include cases where IMF Portwatch differs from alternative sources.\n\nOnly revisions to previously published data points made before the applicable resolution time will be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+            "image": "",
+            "yes_token_id": "62200072611256101994047009806395160744397800735659077059151732679073345015419",
+            "yes_probability": 0.24,
+            "yes_best_bid": 0.13,
+            "yes_best_ask": 0.24,
+            "yes_spread": 0.10999999999999999,
+            "no_token_id": "52477231029856005221905746901559407816426391468755852545059269322076729725932",
+            "no_probability": 0.87,
+            "no_best_bid": 0.76,
+            "no_best_ask": 0.87,
+            "no_spread": 0.10999999999999999,
+            "volume": 5876.4451359999985,
+            "liquidity": 77800.36999999997,
+            "neg_risk": true,
+            "end_date": "2026-07-12T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Incident in Strait of Hormuz likely affects shipping volume (1 hop).",
+            "event_id": "664342",
+            "event_title": "How many ships transit the Strait of Hormuz week of July 6?",
+            "event_slug": "how-many-ships-transit-the-strait-of-hormuz-week-of-july-6-20260703173313706",
+            "detected_yes_price": 0.14,
+            "detected_no_price": 0.88,
+            "detected_at": 1783421631147,
+            "highest_price_change": 1,
+            "highest_yes_price": 0.28,
+            "highest_no_price": 0.89,
+            "first_moved_at": 1783421891643,
+            "moved_side": "yes",
+            "peaked_at": 1783429874658
+          },
+          {
+            "id": "2176262",
+            "slug": "strait-of-hormuz-traffic-returns-to-normal-by-july-31",
+            "condition_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+            "title": "",
+            "question": "Strait of Hormuz traffic returns to normal by July 31?",
+            "description": "This market will resolve to \u201cYes\u201d if IMF Portwatch publishes a 7-day moving average of transit calls (\u201cArrivals of Ships\u201d) for the Strait of Hormuz equal to or above 60 for any date between market creation and July 31, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nDaily transit calls include container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nThis market will resolve as soon as IMF Portwatch publishes a 7-day moving average of transit calls equal to or above the specified level, or once data has been published for the final date in the specified period and no such value has been published. If no data has been published for the final date of the specified period within 14 calendar days (ET) after the end of that period, this market will resolve based on data published up to that point.\n\nRevisions to previously published data points made within this market\u2019s timeframe will be considered. However, they will not disqualify a previously published data point from qualifying. Revisions to previously published data points after data is published for July 31, 2026, however, will not be considered.\n\nIn case of obvious data integrity issues (i.e., erroneous data), the market may remain open until the end of the third calendar day (ET) after the date on which such data is first released to allow for corrections. Data integrity issues refer only to clerical or other similar errors in the underlying data, and do not include cases where IMF Portwatch differs from alternative sources.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ships-transit-the-strait-of-hormuz-on-any-day-in-march-ERARnetK0FJm.jpg",
+            "yes_token_id": "106929013576622300718402895513457875547556389240247806666273814836599548721421",
+            "yes_probability": 0.08,
+            "yes_best_bid": 0.07,
+            "yes_best_ask": 0.08,
+            "yes_spread": 0.009999999999999995,
+            "no_token_id": "35600405023007026690792769618276046675588493623969149550929635257490271313011",
+            "no_probability": 0.93,
+            "no_best_bid": 0.92,
+            "no_best_ask": 0.93,
+            "no_spread": 0.010000000000000009,
+            "volume": 12614383.846004434,
+            "liquidity": 4608745.88,
+            "neg_risk": false,
+            "end_date": "2026-07-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "economy",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Incident in Strait of Hormuz likely affects shipping volume (1 hop).",
+            "event_id": "455867",
+            "event_title": "Strait of Hormuz traffic returns to normal by July 31?",
+            "event_slug": "strait-of-hormuz-traffic-returns-to-normal-by-july-31",
+            "detected_yes_price": 0.08,
+            "detected_no_price": 0.9299999999999999,
+            "detected_at": 1783421631147,
+            "highest_price_change": 0.01075268817204302,
+            "highest_yes_price": 0.08,
+            "highest_no_price": 0.94,
+            "first_moved_at": 1783427844696,
+            "moved_side": "no",
+            "peaked_at": 1783427844696
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 9,
+            "price": 69.363
+          }
+        ],
+        "topics": [
+          "iran-regime",
+          "ai-tech"
+        ],
+        "categories": [
+          "geopolitics",
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "2789988",
+        "slug": "how-many-ships-transit-the-strait-of-hormuz-week-of-july-6-20260703173313706",
+        "condition_id": "0x1a1b42c8b539ff4bfed50921f7b7dd8df659f68adbce3b4b89a7da6cb8e8883b",
+        "title": "225+",
+        "question": "Will 225 or more ships transit the Strait of Hormuz between July 6-July 12?",
+        "description": "This market will resolve according to the finalized total number of transit calls that IMF Portwatch reports for the Strait of Hormuz for all days from July 6, 2026, through July 12, 2026, inclusive.\n\nTransit calls include container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nData for a specific date must be finalized before it is considered for this market (namely, once the next date's data point is available, the previous one is finalized). \n\nThis market will resolve as soon as data has been finalized for the final date in the specified period. If the data for the final date of the specified period has not been finalized by the end of the third calendar day (ET) after the day on which such data is released, this market will resolve based on data published up to that point. Additionally, if not all relevant data has been released and finalized within 14 calendar days of the end of the specified period, this market will resolve based on data published up to that point.\n\nIn case of obvious data integrity issues (i.e., erroneous data), the market may remain open until the end of the third calendar day (ET) after the date on which such data is first released to allow for corrections. Data integrity issues refer only to clerical or other similar errors in the underlying data, and do not include cases where IMF Portwatch differs from alternative sources.\n\nOnly revisions to previously published data points made before the applicable resolution time will be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+        "image": "",
+        "yes_token_id": "62200072611256101994047009806395160744397800735659077059151732679073345015419",
+        "yes_probability": 0.24,
+        "yes_best_bid": 0.13,
+        "yes_best_ask": 0.24,
+        "yes_spread": 0.10999999999999999,
+        "no_token_id": "52477231029856005221905746901559407816426391468755852545059269322076729725932",
+        "no_probability": 0.87,
+        "no_best_bid": 0.76,
+        "no_best_ask": 0.87,
+        "no_spread": 0.10999999999999999,
+        "volume": 5876.4451359999985,
+        "liquidity": 77800.36999999997,
+        "neg_risk": true,
+        "end_date": "2026-07-12T23:59:00Z",
+        "categories": [
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Incident in Strait of Hormuz likely affects shipping volume (1 hop).",
+        "event_id": "664342",
+        "event_title": "How many ships transit the Strait of Hormuz week of July 6?",
+        "event_slug": "how-many-ships-transit-the-strait-of-hormuz-week-of-july-6-20260703173313706",
+        "detected_yes_price": 0.14,
+        "detected_no_price": 0.88,
+        "detected_at": 1783421631147,
+        "highest_price_change": 1,
+        "highest_yes_price": 0.28,
+        "highest_no_price": 0.89,
+        "first_moved_at": 1783421891643,
+        "moved_side": "yes",
+        "peaked_at": 1783429874658
+      },
+      "_scraped_at": "2026-07-07T13:11:59.164779+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "valid": false,
+      "_scraped_at": "2026-07-07T13:11:59.164779+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "global_tension_score": 44,
+      "global_tension_level": "ELEVATED",
+      "countries": [
+        {
+          "country": "US",
+          "count": 17,
+          "recent": [
+            {
+              "id": "88434e85-a916-4b70-8c64-8c7242d0ba6b",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1783421602419
+            },
+            {
+              "id": "5886c415-14f8-4785-b319-7358de3b87bf",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1783429424000
+            },
+            {
+              "id": "a71a29db-e132-4371-b160-dd0767e4c713",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1783422183735
+            },
+            {
+              "id": "12703823-168e-4bfa-8233-28347aa8c3eb",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783429367725
+            },
+            {
+              "id": "1a7cd692-8748-4200-97b1-978d9544c621",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783411078814
+            },
+            {
+              "id": "629381b2-2924-4ed7-8b59-799bae99a7e0",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783420326000
+            },
+            {
+              "id": "8c3d2a12-bc3e-4413-afaa-eab141ba07fb",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783417078603
+            },
+            {
+              "id": "67b1ba23-5805-42f1-aaa8-acfee81ed10a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783423798000
+            },
+            {
+              "id": "fa6335a3-9e98-48fd-8249-b5ae1b2df0d6",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783417438595
+            },
+            {
+              "id": "002631a9-ee36-483c-a5be-b08defce76ac",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783426949050
+            },
+            {
+              "id": "c01be8a8-0597-4be6-8e27-6af373dc626c",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1783423200000
+            },
+            {
+              "id": "1e2ccba0-fd2e-467b-bccc-21e23f4603b0",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783427081000
+            },
+            {
+              "id": "cdd7c568-0381-49a3-8b83-71554f3df963",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783413351896
+            },
+            {
+              "id": "d327a403-d47f-4385-ae23-88e70a44a80f",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783426974367
+            },
+            {
+              "id": "27c45a17-9f30-41de-9c49-3566ffe6c015",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783423874486
+            },
+            {
+              "id": "798b2871-9fda-4a73-b58f-9896b7903f86",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783414801998
+            },
+            {
+              "id": "3511d7d3-f871-4a65-af05-a4f957e20566",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783423403000
+            }
+          ],
+          "volume": 113015664.63968211,
+          "critical_signals": 2,
+          "high_signals": 13,
+          "low_signals": 2
+        },
+        {
+          "country": "GB",
+          "count": 16,
+          "recent": [
+            {
+              "id": "88434e85-a916-4b70-8c64-8c7242d0ba6b",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1783421602419
+            },
+            {
+              "id": "9faaa37d-1fb4-46ef-bed6-9ccc0e30ff69",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1783416615000
+            },
+            {
+              "id": "629381b2-2924-4ed7-8b59-799bae99a7e0",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783420326000
+            },
+            {
+              "id": "8770321a-3fe2-4874-b4ce-883bcce9cbc5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783413719125
+            },
+            {
+              "id": "b9f7d025-cb36-412f-b0a2-04a5e7c448e3",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783429298711
+            },
+            {
+              "id": "cb23ef8b-b0f0-498e-bd5a-fae9ce6427b1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783410119074
+            },
+            {
+              "id": "4a5cf5f1-37d3-4389-a9e4-d44d9505668c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783414919099
+            },
+            {
+              "id": "ad54e21c-1d40-41cb-9a14-f86ece4be356",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783424174478
+            },
+            {
+              "id": "610b8c4e-a1a9-45f2-b196-c73397aa7abe",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783424664868
+            },
+            {
+              "id": "798fd437-5b98-4c6d-b5fd-f3ae1ea6ef31",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783425554648
+            },
+            {
+              "id": "08f8b9f6-10df-4b12-8028-a0e8fa4fb7e6",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783420394579
+            },
+            {
+              "id": "3e33369d-0956-4978-8c9c-1eedbc9a8606",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783422134532
+            },
+            {
+              "id": "27c45a17-9f30-41de-9c49-3566ffe6c015",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783423874486
+            },
+            {
+              "id": "798b2871-9fda-4a73-b58f-9896b7903f86",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783414801998
+            },
+            {
+              "id": "7b95b5b7-edd3-4501-8171-c069741efc77",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1783423804575
+            },
+            {
+              "id": "6c76aa67-0395-4855-b778-301bd9afd1e6",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783419781864
+            }
+          ],
+          "volume": 57680558.157594495,
+          "critical_signals": 1,
+          "high_signals": 14,
+          "low_signals": 1
+        },
+        {
+          "country": "UA",
+          "count": 13,
+          "recent": [
+            {
+              "id": "9faaa37d-1fb4-46ef-bed6-9ccc0e30ff69",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1783416615000
+            },
+            {
+              "id": "8770321a-3fe2-4874-b4ce-883bcce9cbc5",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783413719125
+            },
+            {
+              "id": "b9f7d025-cb36-412f-b0a2-04a5e7c448e3",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783429298711
+            },
+            {
+              "id": "cb23ef8b-b0f0-498e-bd5a-fae9ce6427b1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783410119074
+            },
+            {
+              "id": "4a5cf5f1-37d3-4389-a9e4-d44d9505668c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783414919099
+            },
+            {
+              "id": "67b1ba23-5805-42f1-aaa8-acfee81ed10a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783423798000
+            },
+            {
+              "id": "ad54e21c-1d40-41cb-9a14-f86ece4be356",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783424174478
+            },
+            {
+              "id": "798fd437-5b98-4c6d-b5fd-f3ae1ea6ef31",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783425554648
+            },
+            {
+              "id": "08f8b9f6-10df-4b12-8028-a0e8fa4fb7e6",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783420394579
+            },
+            {
+              "id": "3e33369d-0956-4978-8c9c-1eedbc9a8606",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783422134532
+            },
+            {
+              "id": "27c45a17-9f30-41de-9c49-3566ffe6c015",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783423874486
+            },
+            {
+              "id": "798b2871-9fda-4a73-b58f-9896b7903f86",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783414801998
+            },
+            {
+              "id": "6c76aa67-0395-4855-b778-301bd9afd1e6",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783419781864
+            }
+          ],
+          "volume": 4607570.484112504,
+          "critical_signals": 1,
+          "high_signals": 12,
+          "low_signals": 0
+        },
+        {
+          "country": "RU",
+          "count": 11,
+          "recent": [
+            {
+              "id": "b9f7d025-cb36-412f-b0a2-04a5e7c448e3",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783429298711
+            },
+            {
+              "id": "67b1ba23-5805-42f1-aaa8-acfee81ed10a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783423798000
+            },
+            {
+              "id": "610b8c4e-a1a9-45f2-b196-c73397aa7abe",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783424664868
+            },
+            {
+              "id": "798fd437-5b98-4c6d-b5fd-f3ae1ea6ef31",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783425554648
+            },
+            {
+              "id": "08f8b9f6-10df-4b12-8028-a0e8fa4fb7e6",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783420394579
+            },
+            {
+              "id": "27c45a17-9f30-41de-9c49-3566ffe6c015",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783423874486
+            },
+            {
+              "id": "798b2871-9fda-4a73-b58f-9896b7903f86",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783414801998
+            },
+            {
+              "id": "f7aafa1c-356a-43cc-bc2d-f13b9ca20d28",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783416778622
+            },
+            {
+              "id": "07872f8c-e403-4c19-961e-3c50bb7086f9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783416178628
+            },
+            {
+              "id": "76c20c65-4d87-43f0-be43-c79bd9eee9ca",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1783414706000
+            },
+            {
+              "id": "6c76aa67-0395-4855-b778-301bd9afd1e6",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783419781864
+            }
+          ],
+          "volume": 5639834.421475506,
+          "critical_signals": 0,
+          "high_signals": 10,
+          "low_signals": 1
+        },
+        {
+          "country": "FR",
+          "count": 9,
+          "recent": [
+            {
+              "id": "8ddfd6db-85f8-47ee-b70c-1dd6f20a5037",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783412459092
+            },
+            {
+              "id": "5e50b187-c230-4489-a3e0-821afd3b5f0d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783425194570
+            },
+            {
+              "id": "7f47e4ae-4385-4e85-b1d2-1f4dde0f9735",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1783426516803
+            },
+            {
+              "id": "b6f48a9b-ac46-4cf7-9aed-95512e5117db",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1783424894732
+            },
+            {
+              "id": "328cce20-6986-4c03-96ee-aaaecca6eef8",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1783410059877
+            },
+            {
+              "id": "11e9e1d8-eb55-4538-b9d6-fbe59193704a",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1783425308046
+            },
+            {
+              "id": "fb8ed7ae-b417-4abe-bee9-875f5620eb6e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783409893797
+            },
+            {
+              "id": "f16cf5ad-37e3-4d37-b17b-bc5a13ee9791",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1783426238743
+            },
+            {
+              "id": "4fa87ae2-43db-4381-b612-6a5e3a7f3fef",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783426516000
+            }
+          ],
+          "volume": 1166515.6574915522,
+          "critical_signals": 2,
+          "high_signals": 7,
+          "low_signals": 0
+        },
+        {
+          "country": "TR",
+          "count": 8,
+          "recent": [
+            {
+              "id": "9faaa37d-1fb4-46ef-bed6-9ccc0e30ff69",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1783416615000
+            },
+            {
+              "id": "e36e1425-42eb-418a-8c13-6391dcc8c3a4",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783423908840
+            },
+            {
+              "id": "67b1ba23-5805-42f1-aaa8-acfee81ed10a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783423798000
+            },
+            {
+              "id": "fa6335a3-9e98-48fd-8249-b5ae1b2df0d6",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783417438595
+            },
+            {
+              "id": "ad54e21c-1d40-41cb-9a14-f86ece4be356",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783424174478
+            },
+            {
+              "id": "798fd437-5b98-4c6d-b5fd-f3ae1ea6ef31",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783425554648
+            },
+            {
+              "id": "7d5e64ba-0eeb-4320-aec0-b4a012738dbf",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783429574332
+            },
+            {
+              "id": "3511d7d3-f871-4a65-af05-a4f957e20566",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783423403000
+            }
+          ],
+          "volume": 2328351.6102629104,
+          "critical_signals": 1,
+          "high_signals": 6,
+          "low_signals": 1
+        },
+        {
+          "country": "CN",
+          "count": 7,
+          "recent": [
+            {
+              "id": "2c0cf460-4300-41e9-a59a-6c0b8244d7fd",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783414889243
+            },
+            {
+              "id": "629381b2-2924-4ed7-8b59-799bae99a7e0",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783420326000
+            },
+            {
+              "id": "8c3d2a12-bc3e-4413-afaa-eab141ba07fb",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783417078603
+            },
+            {
+              "id": "507362d5-bb10-4ce2-a013-aebc8198497d",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783420865000
+            },
+            {
+              "id": "a25427ac-4a7b-47b6-9df2-9256c4c5fde0",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783411202000
+            },
+            {
+              "id": "22c32ba1-a31c-42fb-9f89-1edbf4f0dec5",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783424159573
+            },
+            {
+              "id": "a11f315d-cd74-46fb-85d6-a1233a94da0e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783411319298
+            }
+          ],
+          "volume": 45075932.414528504,
+          "critical_signals": 0,
+          "high_signals": 7,
+          "low_signals": 0
+        },
+        {
+          "country": "IR",
+          "count": 7,
+          "recent": [
+            {
+              "id": "88434e85-a916-4b70-8c64-8c7242d0ba6b",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1783421602419
+            },
+            {
+              "id": "1a7cd692-8748-4200-97b1-978d9544c621",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783411078814
+            },
+            {
+              "id": "d34deff6-f760-42cc-a5c3-51f204965d4f",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1783423207229
+            },
+            {
+              "id": "dd8a3059-8767-40be-8ea8-77c0ca6de657",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783416296721
+            },
+            {
+              "id": "c01be8a8-0597-4be6-8e27-6af373dc626c",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1783423200000
+            },
+            {
+              "id": "cdd7c568-0381-49a3-8b83-71554f3df963",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783413351896
+            },
+            {
+              "id": "a30794c3-8359-4bf1-8f70-28f9eeac104a",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1783415294378
+            }
+          ],
+          "volume": 112231313.91369848,
+          "critical_signals": 0,
+          "high_signals": 4,
+          "low_signals": 3
+        },
+        {
+          "country": "MX",
+          "count": 4,
+          "recent": [
+            {
+              "id": "5886c415-14f8-4785-b319-7358de3b87bf",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1783429424000
+            },
+            {
+              "id": "002631a9-ee36-483c-a5be-b08defce76ac",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783426949050
+            },
+            {
+              "id": "1e2ccba0-fd2e-467b-bccc-21e23f4603b0",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783427081000
+            },
+            {
+              "id": "d327a403-d47f-4385-ae23-88e70a44a80f",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783426974367
+            }
+          ],
+          "volume": 19742.052506999997,
+          "critical_signals": 1,
+          "high_signals": 3,
+          "low_signals": 0
+        },
+        {
+          "country": "OM",
+          "count": 2,
+          "recent": [
+            {
+              "id": "88434e85-a916-4b70-8c64-8c7242d0ba6b",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1783421602419
+            },
+            {
+              "id": "12703823-168e-4bfa-8233-28347aa8c3eb",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783429367725
+            }
+          ],
+          "volume": 12635772.769574104,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "SY",
+          "count": 2,
+          "recent": [
+            {
+              "id": "8ddfd6db-85f8-47ee-b70c-1dd6f20a5037",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783412459092
+            },
+            {
+              "id": "fb8ed7ae-b417-4abe-bee9-875f5620eb6e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783409893797
+            }
+          ],
+          "volume": 137209.576241011,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "JP",
+          "count": 2,
+          "recent": [
+            {
+              "id": "a25427ac-4a7b-47b6-9df2-9256c4c5fde0",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783411202000
+            },
+            {
+              "id": "a11f315d-cd74-46fb-85d6-a1233a94da0e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783411319298
+            }
+          ],
+          "volume": 3667053.6952688224,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "QA",
+          "count": 2,
+          "recent": [
+            {
+              "id": "d34deff6-f760-42cc-a5c3-51f204965d4f",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1783423207229
+            },
+            {
+              "id": "01875d83-5d3f-4d61-a9e3-5bc6b6b9650a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783427673000
+            }
+          ],
+          "volume": 854941.6759389106,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 1
+        },
+        {
+          "country": "LV",
+          "count": 1,
+          "recent": [
+            {
+              "id": "b9f7d025-cb36-412f-b0a2-04a5e7c448e3",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783429298711
+            }
+          ],
+          "volume": 1501569.6601160394,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "PE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "b9f7d025-cb36-412f-b0a2-04a5e7c448e3",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783429298711
+            }
+          ],
+          "volume": 1501569.6601160394,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "SA",
+          "count": 1,
+          "recent": [
+            {
+              "id": "b9f7d025-cb36-412f-b0a2-04a5e7c448e3",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783429298711
+            }
+          ],
+          "volume": 1501569.6601160394,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "IL",
+          "count": 1,
+          "recent": [
+            {
+              "id": "7d5e64ba-0eeb-4320-aec0-b4a012738dbf",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783429574332
+            }
+          ],
+          "volume": 264234.6610490005,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        }
+      ],
+      "_scraped_at": "2026-07-07T13:11:59.164779+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
