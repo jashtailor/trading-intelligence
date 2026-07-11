@@ -1,0 +1,2454 @@
+{
+  "scraped_at": "2026-07-11T23:44:55.173850+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 9,
+  "items": [
+    {
+      "valid": false,
+      "_scraped_at": "2026-07-11T23:44:55.173850+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "e5c2905b-c210-49cd-8da5-c2ce80dd932c",
+        "timestamp": 1783730175489,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "e5c2905b-c210-49cd-8da5-c2ce80dd932c",
+          "text": "\ud83d\udea8\ud83d\udde3 Iran says NO to inspections \u2014 after years of compliance got them bombed\n\nIran's Foreign Ministry spokesman Esmail Baghaei made clear that the country will not allow IAEA inspections of nuclear sites damaged by US and Israeli strikes, while also declaring that UN Security Council Resolution 2231 has \"effectively lost its legal validity.\"\n\n\ud83c\udf0f Iran allowed IAEA inspections under the JCPOA \u2014 and kept doing so even after Trump killed the deal\n\n\ud83c\udf0f That compliance didn't stop false WMD accusations from Israel and the US \u2014 which led to strikes and war\n\n\ud83c\udf0f Now Iran says the rules have changed: sovereignty must be respected\n\nThe double standard:\n\n\ud83d\udd34 Israel is NOT a member of the NPT\n\n\ud83d\udd34 Israel has NOT allowed IAEA inspections of its nuclear sites\n\n\ud83d\udd34 Israel faces no consequences \u2014 while Iran is bombed and sanctioned\n\nVance said Iran's willingness to allow inspections \"in return for mechanisms on frozen assets and ceasefires\" is a \"good foundation\" for peace. But Iran's calculation is clear: compliance didn't prevent war \u2014 so why reward a broken system?\n\n\ud83d\udc4d Boost us | Chat | @geopolitics_prime",
+          "channel": "Geopolitics Prime | War News Updates",
+          "timestamp": 1783730175489,
+          "link": "https://t.me/geopolitics_prime"
+        },
+        "osint": false,
+        "country": "IL",
+        "countries": [
+          "IL",
+          "US",
+          "IR"
+        ],
+        "related_markets": [
+          {
+            "id": "2853114",
+            "slug": "iaea-visits-isfahan-fordow-or-natanz-nuclear-site-by-july-31-20260624040209014",
+            "condition_id": "0x73dd54214430d1d67ddf59ad22fdf62e00e71e273b229dc0040da504e5281b6f",
+            "title": "October 31",
+            "question": "IAEA visits Isfahan, Fordow, or Natanz nuclear site by October 31?",
+            "description": "This market will resolve to \"Yes\" if one or more International Atomic Energy Agency (IAEA) officials physically visit the Isfahan Nuclear Technology Center, Fordow Fuel Enrichment Plant, or Natanz Nuclear Facility in Iran between market creation and the specified date, 11:59 PM ET. Otherwise, this market will resolve to \"No.\"\n\nPickaxe Mountain is not considered part of the Natanz Nuclear Facility. \n\nIAEA officials refers to individuals acting in an official capacity on behalf of the IAEA, including IAEA inspectors, staff, and the Director General.\n\nA qualifying visit must include physical presence within the recognized boundaries of one of the listed sites. Visits to other sites in Iran, or virtual inspections of the sites, will not qualify. \n\nThe resolution sources for this market will be the IAEA and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/iaea-visits-isfahan-fordow-or-natanz-nuclear-site-by-july-31-20260624040209014-IG4q2gaakaZi.jpg",
+            "yes_token_id": "100533112439619746354289028296398483950720842225128756964108690731124876463339",
+            "yes_probability": 0.41,
+            "yes_best_bid": 0.4,
+            "yes_best_ask": 0.41,
+            "yes_spread": 0.009999999999999953,
+            "no_token_id": "112398855248126389642334724080634566219399886008841203075173521868162852635909",
+            "no_probability": 0.6,
+            "no_best_bid": 0.59,
+            "no_best_ask": 0.6,
+            "no_spread": 0.010000000000000009,
+            "volume": 641.227796,
+            "liquidity": 7780.83,
+            "neg_risk": false,
+            "end_date": "2026-10-31T23:59:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Iran's statement on inspections directly impacts IAEA visit probabilities (1 hop).",
+            "event_id": "628275",
+            "event_title": "IAEA visits Isfahan, Fordow, or Natanz nuclear site by...?",
+            "event_slug": "iaea-visits-isfahan-fordow-or-natanz-nuclear-site-by-july-31-20260624040209014",
+            "detected_yes_price": 0.28,
+            "detected_no_price": 0.83,
+            "detected_at": 1783730191524,
+            "highest_price_change": 1.9999999999999996,
+            "highest_yes_price": 0.84,
+            "highest_no_price": 0.88,
+            "first_moved_at": 1783730927270,
+            "moved_side": "yes",
+            "peaked_at": 1783791902847
+          },
+          {
+            "id": "2663391",
+            "slug": "iaea-visits-isfahan-fordow-or-natanz-nuclear-site-by-july-31-20260624040209014",
+            "condition_id": "0x6e7afb2692233605869c7f3e791250eb28edfc1a859b7ce5ef752328fd215c07",
+            "title": "July 31",
+            "question": "IAEA visits Isfahan, Fordow, or Natanz nuclear site by July 31?",
+            "description": "This market will resolve to \"Yes\" if one or more International Atomic Energy Agency (IAEA) officials physically visit the Isfahan Nuclear Technology Center, Fordow Fuel Enrichment Plant, or Natanz Nuclear Facility in Iran between market creation and the specified date, 11:59 PM ET. Otherwise, this market will resolve to \"No.\"\n\nPickaxe Mountain is not considered part of the Natanz Nuclear Facility. \n\nIAEA officials refers to individuals acting in an official capacity on behalf of the IAEA, including IAEA inspectors, staff, and the Director General.\n\nA qualifying visit must include physical presence within the recognized boundaries of one of the listed sites. Visits to other sites in Iran, or virtual inspections of the sites, will not qualify. \n\nThe resolution sources for this market will be the IAEA and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/iaea-visits-isfahan-fordow-or-natanz-nuclear-site-by-july-31-20260624040209014-IG4q2gaakaZi.jpg",
+            "yes_token_id": "81403584309921843925973035552769885157880582661695761486536489885071709948135",
+            "yes_probability": 0.02,
+            "yes_best_bid": 0.016,
+            "yes_best_ask": 0.02,
+            "yes_spread": 0.004,
+            "no_token_id": "76830348801508007796127589292728329156654374363041269539970018108958427100931",
+            "no_probability": 0.984,
+            "no_best_bid": 0.98,
+            "no_best_ask": 0.984,
+            "no_spread": 0.0040000000000000036,
+            "volume": 152621.28286000004,
+            "liquidity": 1675666.1599999997,
+            "neg_risk": false,
+            "end_date": "2026-07-31T23:59:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Iran's statement on inspections directly impacts IAEA visit probabilities (1 hop).",
+            "event_id": "628275",
+            "event_title": "IAEA visits Isfahan, Fordow, or Natanz nuclear site by...?",
+            "event_slug": "iaea-visits-isfahan-fordow-or-natanz-nuclear-site-by-july-31-20260624040209014",
+            "detected_yes_price": 0.021,
+            "detected_no_price": 0.98,
+            "detected_at": 1783730191524,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.021,
+            "highest_no_price": 0.98
+          },
+          {
+            "id": "2749365",
+            "slug": "iaea-visits-isfahan-fordow-or-natanz-nuclear-site-by-july-31-20260624040209014",
+            "condition_id": "0x6c783a56758368cb7ebdd383a368ab39728d3475d36a561626176657faaeb564",
+            "title": "December 31",
+            "question": "IAEA visits Isfahan, Fordow, or Natanz nuclear site by December 31?",
+            "description": "This market will resolve to \"Yes\" if one or more International Atomic Energy Agency (IAEA) officials physically visit the Isfahan Nuclear Technology Center, Fordow Fuel Enrichment Plant, or Natanz Nuclear Facility in Iran between market creation and the specified date, 11:59 PM ET. Otherwise, this market will resolve to \"No.\"\n\nPickaxe Mountain is not considered part of the Natanz Nuclear Facility. \n\nIAEA officials refers to individuals acting in an official capacity on behalf of the IAEA, including IAEA inspectors, staff, and the Director General.\n\nA qualifying visit must include physical presence within the recognized boundaries of one of the listed sites. Visits to other sites in Iran, or virtual inspections of the sites, will not qualify. \n\nThe resolution sources for this market will be the IAEA and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/iaea-visits-isfahan-fordow-or-natanz-nuclear-site-by-july-31-20260624040209014-IG4q2gaakaZi.jpg",
+            "yes_token_id": "13662583235320132426949657391276078470832417600424257304394004178395357669251",
+            "yes_probability": 0.3,
+            "yes_best_bid": 0.29,
+            "yes_best_ask": 0.3,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "57303683300235633467352123311510727764721996550160508311927096333029708208881",
+            "no_probability": 0.71,
+            "no_best_bid": 0.7,
+            "no_best_ask": 0.71,
+            "no_spread": 0.010000000000000009,
+            "volume": 1738.604869,
+            "liquidity": 191667.28999999998,
+            "neg_risk": false,
+            "end_date": "2026-12-31T23:59:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Iran's refusal of inspections directly affects IAEA visit probabilities (1 hop).",
+            "event_id": "628275",
+            "event_title": "IAEA visits Isfahan, Fordow, or Natanz nuclear site by...?",
+            "event_slug": "iaea-visits-isfahan-fordow-or-natanz-nuclear-site-by-july-31-20260624040209014",
+            "detected_yes_price": 0.38,
+            "detected_no_price": 0.6699999999999999,
+            "detected_at": 1783730191524,
+            "highest_price_change": 0.08955223880597024,
+            "highest_yes_price": 0.38,
+            "highest_no_price": 0.73,
+            "first_moved_at": 1783812170784,
+            "moved_side": "no",
+            "peaked_at": 1783812170784
+          },
+          {
+            "id": "2853113",
+            "slug": "iaea-visits-isfahan-fordow-or-natanz-nuclear-site-by-july-31-20260624040209014",
+            "condition_id": "0x1db767f9a120d6155447976e3199556592951e72e63981173cb743d24121329c",
+            "title": "August 31",
+            "question": "IAEA visits Isfahan, Fordow, or Natanz nuclear site by August 31?",
+            "description": "This market will resolve to \"Yes\" if one or more International Atomic Energy Agency (IAEA) officials physically visit the Isfahan Nuclear Technology Center, Fordow Fuel Enrichment Plant, or Natanz Nuclear Facility in Iran between market creation and the specified date, 11:59 PM ET. Otherwise, this market will resolve to \"No.\"\n\nPickaxe Mountain is not considered part of the Natanz Nuclear Facility. \n\nIAEA officials refers to individuals acting in an official capacity on behalf of the IAEA, including IAEA inspectors, staff, and the Director General.\n\nA qualifying visit must include physical presence within the recognized boundaries of one of the listed sites. Visits to other sites in Iran, or virtual inspections of the sites, will not qualify. \n\nThe resolution sources for this market will be the IAEA and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/iaea-visits-isfahan-fordow-or-natanz-nuclear-site-by-july-31-20260624040209014-IG4q2gaakaZi.jpg",
+            "yes_token_id": "102224651490483115342048869686045967016935625917419853459621786541209335847010",
+            "yes_probability": 0.07,
+            "yes_best_bid": 0.05,
+            "yes_best_ask": 0.07,
+            "yes_spread": 0.020000000000000004,
+            "no_token_id": "2222448276404298667283207034919904582254981044737008228585676145054902344524",
+            "no_probability": 0.95,
+            "no_best_bid": 0.93,
+            "no_best_ask": 0.95,
+            "no_spread": 0.019999999999999907,
+            "volume": 10884.816926,
+            "liquidity": 164995.07,
+            "neg_risk": false,
+            "end_date": "2026-08-31T23:59:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Iran's statement on inspections directly impacts IAEA visit probabilities (1 hop).",
+            "event_id": "628275",
+            "event_title": "IAEA visits Isfahan, Fordow, or Natanz nuclear site by...?",
+            "event_slug": "iaea-visits-isfahan-fordow-or-natanz-nuclear-site-by-july-31-20260624040209014",
+            "detected_yes_price": 0.15,
+            "detected_no_price": 0.91,
+            "detected_at": 1783730191524,
+            "highest_price_change": 0.04395604395604387,
+            "highest_yes_price": 0.15,
+            "highest_no_price": 0.95,
+            "first_moved_at": 1783783158361,
+            "moved_side": "no",
+            "peaked_at": 1783803169578
+          }
+        ],
+        "topics": [
+          "ai-tech",
+          "ukraine-war",
+          "iran-regime",
+          "bitcoin"
+        ],
+        "categories": [
+          "crypto",
+          "geopolitics",
+          "tech",
+          "climate"
+        ]
+      },
+      "related_market": {
+        "id": "2853114",
+        "slug": "iaea-visits-isfahan-fordow-or-natanz-nuclear-site-by-july-31-20260624040209014",
+        "condition_id": "0x73dd54214430d1d67ddf59ad22fdf62e00e71e273b229dc0040da504e5281b6f",
+        "title": "October 31",
+        "question": "IAEA visits Isfahan, Fordow, or Natanz nuclear site by October 31?",
+        "description": "This market will resolve to \"Yes\" if one or more International Atomic Energy Agency (IAEA) officials physically visit the Isfahan Nuclear Technology Center, Fordow Fuel Enrichment Plant, or Natanz Nuclear Facility in Iran between market creation and the specified date, 11:59 PM ET. Otherwise, this market will resolve to \"No.\"\n\nPickaxe Mountain is not considered part of the Natanz Nuclear Facility. \n\nIAEA officials refers to individuals acting in an official capacity on behalf of the IAEA, including IAEA inspectors, staff, and the Director General.\n\nA qualifying visit must include physical presence within the recognized boundaries of one of the listed sites. Visits to other sites in Iran, or virtual inspections of the sites, will not qualify. \n\nThe resolution sources for this market will be the IAEA and a consensus of credible reporting.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/iaea-visits-isfahan-fordow-or-natanz-nuclear-site-by-july-31-20260624040209014-IG4q2gaakaZi.jpg",
+        "yes_token_id": "100533112439619746354289028296398483950720842225128756964108690731124876463339",
+        "yes_probability": 0.41,
+        "yes_best_bid": 0.4,
+        "yes_best_ask": 0.41,
+        "yes_spread": 0.009999999999999953,
+        "no_token_id": "112398855248126389642334724080634566219399886008841203075173521868162852635909",
+        "no_probability": 0.6,
+        "no_best_bid": 0.59,
+        "no_best_ask": 0.6,
+        "no_spread": 0.010000000000000009,
+        "volume": 641.227796,
+        "liquidity": 7780.83,
+        "neg_risk": false,
+        "end_date": "2026-10-31T23:59:00Z",
+        "categories": [
+          "politics",
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Iran's statement on inspections directly impacts IAEA visit probabilities (1 hop).",
+        "event_id": "628275",
+        "event_title": "IAEA visits Isfahan, Fordow, or Natanz nuclear site by...?",
+        "event_slug": "iaea-visits-isfahan-fordow-or-natanz-nuclear-site-by-july-31-20260624040209014",
+        "detected_yes_price": 0.28,
+        "detected_no_price": 0.83,
+        "detected_at": 1783730191524,
+        "highest_price_change": 1.9999999999999996,
+        "highest_yes_price": 0.84,
+        "highest_no_price": 0.88,
+        "first_moved_at": 1783730927270,
+        "moved_side": "yes",
+        "peaked_at": 1783791902847
+      },
+      "_scraped_at": "2026-07-11T23:44:55.173850+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 2,
+      "feed_item": {
+        "id": "5bb4fbc7-4dc3-455e-982e-d173f7e1e7dd",
+        "timestamp": 1783811947666,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "5bb4fbc7-4dc3-455e-982e-d173f7e1e7dd",
+          "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f- Initial reports of explosions in Asaluyeh, southern Iran.",
+          "channel": "Rerum Novarum // Intel, Breaking News, and Alerts \ud83c\uddfa\ud83c\uddf8",
+          "timestamp": 1783811947666,
+          "link": "https://t.me/rnintel"
+        },
+        "osint": false,
+        "country": "IR",
+        "countries": [
+          "IR"
+        ],
+        "related_markets": [
+          {
+            "id": "2851416",
+            "slug": "iran-military-action-against-a-gulf-state-onptptpt-20260708212328295",
+            "condition_id": "0xaacb2d891e50062ab341f0ea450adef245e1a44f502207accbc07ce5dbf307e9",
+            "title": "July 11",
+            "question": "Iran military action against a Gulf State on July 11?",
+            "description": "This market will resolve to \u201cYes\u201d if Iran takes a qualifying military action against a Gulf State on the specified date Arabia Standard Time (AST). Otherwise this market will resolve to \u201cNo.\u201d\n\nQualifying Gulf States are as follows: Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates.\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by Iran, that directly impacts a Gulf State. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones over 50 kg in total weight and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action: \nMunitions destroyed or intercepted before impact;\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including loitering munitions and FPV drones under 50 kg, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nAny munition that is intercepted or destroyed before impact does not constitute a qualifying military action. Debris, fragments, or any wreckage from intercepted munitions that land on a Gulf State do not constitute a military action regardless of any damage incurred.\n\nA military action will be considered to impact a Gulf State if it directly impacts the terrestrial territory of a Gulf State, including any internal waters. Maritime territory and airspace are not encompassed. Where territorial borders are disputed, all territory claimed by and under the de facto control of the relevant state as of market creation will qualify.\n\nThe occurrence, attribution, and timing of a qualifying military action will be primarily determined based on a consensus of information available from the resolution sources. Where multiple sources conflict regarding the occurrence, attribution, or timing of a relevant military action, this market will remain open until the earlier of:  i) the confirmation of the occurrence, attribution, and timing of the action based on a consensus of information available from the resolution sources or ii) 3 full calendar days (AST) from the date of the first credibly reported evidence of the action. If this period would extend past the end date, this market will remain open to allow for 3 full calendar days to pass. If, at the end of the third calendar day, conflicting reports remain as to the occurrence, attribution, or timing of the action, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the governments and militaries of Iran and the relevant Gulf States and a consensus of credible reporting.\n",
+            "image": "",
+            "yes_token_id": "89252596722278675063490859986518869736887103855589660585321055731925559384917",
+            "yes_probability": 0.059,
+            "yes_best_bid": 0.04,
+            "yes_best_ask": 0.059,
+            "yes_spread": 0.018999999999999996,
+            "no_token_id": "18767955555435343594056762042569363912413848899795532702514177456730609589083",
+            "no_probability": 0.96,
+            "no_best_bid": 0.941,
+            "no_best_ask": 0.96,
+            "no_spread": 0.019000000000000017,
+            "volume": 10943.453505816002,
+            "liquidity": 92627.75000000006,
+            "neg_risk": false,
+            "end_date": "2026-07-11T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Initial reports of explosions suggest potential military escalation (1 hop).",
+            "event_id": "682091",
+            "event_title": "Iran military action against a gulf state on...?",
+            "event_slug": "iran-military-action-against-a-gulf-state-onptptpt-20260708212328295",
+            "detected_yes_price": 0.044,
+            "detected_no_price": 0.97,
+            "detected_at": 1783811974350,
+            "highest_price_change": 0.36363636363636365,
+            "highest_yes_price": 0.06,
+            "highest_no_price": 0.975,
+            "first_moved_at": 1783811988246,
+            "moved_side": "yes",
+            "peaked_at": 1783812153530
+          },
+          {
+            "id": "2851418",
+            "slug": "iran-military-action-against-a-gulf-state-onptptpt-20260708212328295",
+            "condition_id": "0x83a77ebdd51de03302e736ba66c9d2285da508f7b282814a84ab5129b3098e4f",
+            "title": "July 13",
+            "question": "Iran military action against a Gulf State on July 13?",
+            "description": "This market will resolve to \u201cYes\u201d if Iran takes a qualifying military action against a Gulf State on the specified date Arabia Standard Time (AST). Otherwise this market will resolve to \u201cNo.\u201d\n\nQualifying Gulf States are as follows: Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates.\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by Iran, that directly impacts a Gulf State. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones over 50 kg in total weight and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action: \nMunitions destroyed or intercepted before impact;\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including loitering munitions and FPV drones under 50 kg, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nAny munition that is intercepted or destroyed before impact does not constitute a qualifying military action. Debris, fragments, or any wreckage from intercepted munitions that land on a Gulf State do not constitute a military action regardless of any damage incurred.\n\nA military action will be considered to impact a Gulf State if it directly impacts the terrestrial territory of a Gulf State, including any internal waters. Maritime territory and airspace are not encompassed. Where territorial borders are disputed, all territory claimed by and under the de facto control of the relevant state as of market creation will qualify.\n\nThe occurrence, attribution, and timing of a qualifying military action will be primarily determined based on a consensus of information available from the resolution sources. Where multiple sources conflict regarding the occurrence, attribution, or timing of a relevant military action, this market will remain open until the earlier of:  i) the confirmation of the occurrence, attribution, and timing of the action based on a consensus of information available from the resolution sources or ii) 3 full calendar days (AST) from the date of the first credibly reported evidence of the action. If this period would extend past the end date, this market will remain open to allow for 3 full calendar days to pass. If, at the end of the third calendar day, conflicting reports remain as to the occurrence, attribution, or timing of the action, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the governments and militaries of Iran and the relevant Gulf States and a consensus of credible reporting.\n",
+            "image": "",
+            "yes_token_id": "86235953329386432460672469030315509538354077418001466432980979104051625649671",
+            "yes_probability": 0.51,
+            "yes_best_bid": 0.5,
+            "yes_best_ask": 0.51,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "36398173413921360033964103461538189256774748277034257367087078747601866036118",
+            "no_probability": 0.5,
+            "no_best_bid": 0.49,
+            "no_best_ask": 0.5,
+            "no_spread": 0.010000000000000009,
+            "volume": 5135.473003539999,
+            "liquidity": 85882.56000000001,
+            "neg_risk": false,
+            "end_date": "2026-07-13T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Initial reports of explosions suggest potential military escalation (1 hop).",
+            "event_id": "682091",
+            "event_title": "Iran military action against a gulf state on...?",
+            "event_slug": "iran-military-action-against-a-gulf-state-onptptpt-20260708212328295",
+            "detected_yes_price": 0.54,
+            "detected_no_price": 0.54,
+            "detected_at": 1783811974350,
+            "highest_price_change": 0.03703703703703707,
+            "highest_yes_price": 0.56,
+            "highest_no_price": 0.54,
+            "first_moved_at": 1783812277888,
+            "moved_side": "yes",
+            "peaked_at": 1783812277888
+          },
+          {
+            "id": "2851417",
+            "slug": "iran-military-action-against-a-gulf-state-onptptpt-20260708212328295",
+            "condition_id": "0xbea088d2cfa887c5985be2b3feea2ea5ef8fdede3933ec0a415d1de3813a48a1",
+            "title": "July 12",
+            "question": "Iran military action against a Gulf State on July 12?",
+            "description": "This market will resolve to \u201cYes\u201d if Iran takes a qualifying military action against a Gulf State on the specified date Arabia Standard Time (AST). Otherwise this market will resolve to \u201cNo.\u201d\n\nQualifying Gulf States are as follows: Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates.\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by Iran, that directly impacts a Gulf State. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones over 50 kg in total weight and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action: \nMunitions destroyed or intercepted before impact;\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including loitering munitions and FPV drones under 50 kg, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nAny munition that is intercepted or destroyed before impact does not constitute a qualifying military action. Debris, fragments, or any wreckage from intercepted munitions that land on a Gulf State do not constitute a military action regardless of any damage incurred.\n\nA military action will be considered to impact a Gulf State if it directly impacts the terrestrial territory of a Gulf State, including any internal waters. Maritime territory and airspace are not encompassed. Where territorial borders are disputed, all territory claimed by and under the de facto control of the relevant state as of market creation will qualify.\n\nThe occurrence, attribution, and timing of a qualifying military action will be primarily determined based on a consensus of information available from the resolution sources. Where multiple sources conflict regarding the occurrence, attribution, or timing of a relevant military action, this market will remain open until the earlier of:  i) the confirmation of the occurrence, attribution, and timing of the action based on a consensus of information available from the resolution sources or ii) 3 full calendar days (AST) from the date of the first credibly reported evidence of the action. If this period would extend past the end date, this market will remain open to allow for 3 full calendar days to pass. If, at the end of the third calendar day, conflicting reports remain as to the occurrence, attribution, or timing of the action, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the governments and militaries of Iran and the relevant Gulf States and a consensus of credible reporting.\n",
+            "image": "",
+            "yes_token_id": "8709035425304608717633078221679777301318104015900761735264882237273152358903",
+            "yes_probability": 0.6,
+            "yes_best_bid": 0.59,
+            "yes_best_ask": 0.6,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "10704884697649005085524657976090584908643325317140881720937947937733396768613",
+            "no_probability": 0.41,
+            "no_best_bid": 0.4,
+            "no_best_ask": 0.41,
+            "no_spread": 0.009999999999999953,
+            "volume": 6638.498267529999,
+            "liquidity": 82865.15,
+            "neg_risk": false,
+            "end_date": "2026-07-12T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Initial reports of explosions suggest potential military escalation (1 hop).",
+            "event_id": "682091",
+            "event_title": "Iran military action against a gulf state on...?",
+            "event_slug": "iran-military-action-against-a-gulf-state-onptptpt-20260708212328295",
+            "detected_yes_price": 0.37,
+            "detected_no_price": 0.6599999999999999,
+            "detected_at": 1783811974350,
+            "highest_price_change": 1.3513513513513513,
+            "highest_yes_price": 0.87,
+            "highest_no_price": 0.66,
+            "first_moved_at": 1783812016921,
+            "moved_side": "yes",
+            "peaked_at": 1783812187386
+          },
+          {
+            "id": "2851414",
+            "slug": "iran-military-action-against-a-gulf-state-onptptpt-20260708212328295",
+            "condition_id": "0xeb9f5707eabf3c272097196b137d841fda958ec64aecff36283cc448a7e3e40b",
+            "title": "July 9",
+            "question": "Iran military action against a Gulf State on July 9?",
+            "description": "This market will resolve to \u201cYes\u201d if Iran takes a qualifying military action against a Gulf State on the specified date Arabia Standard Time (AST). Otherwise this market will resolve to \u201cNo.\u201d\n\nQualifying Gulf States are as follows: Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates.\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by Iran, that directly impacts a Gulf State. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones over 50 kg in total weight and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action: \nMunitions destroyed or intercepted before impact;\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including loitering munitions and FPV drones under 50 kg, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nAny munition that is intercepted or destroyed before impact does not constitute a qualifying military action. Debris, fragments, or any wreckage from intercepted munitions that land on a Gulf State do not constitute a military action regardless of any damage incurred.\n\nA military action will be considered to impact a Gulf State if it directly impacts the terrestrial territory of a Gulf State, including any internal waters. Maritime territory and airspace are not encompassed. Where territorial borders are disputed, all territory claimed by and under the de facto control of the relevant state as of market creation will qualify.\n\nThe occurrence, attribution, and timing of a qualifying military action will be primarily determined based on a consensus of information available from the resolution sources. Where multiple sources conflict regarding the occurrence, attribution, or timing of a relevant military action, this market will remain open until the earlier of:  i) the confirmation of the occurrence, attribution, and timing of the action based on a consensus of information available from the resolution sources or ii) 3 full calendar days (AST) from the date of the first credibly reported evidence of the action. If this period would extend past the end date, this market will remain open to allow for 3 full calendar days to pass. If, at the end of the third calendar day, conflicting reports remain as to the occurrence, attribution, or timing of the action, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the governments and militaries of Iran and the relevant Gulf States and a consensus of credible reporting.\n",
+            "image": "",
+            "yes_token_id": "115147204977117737874154803841181012449146941275699745556479997448531136943728",
+            "yes_probability": 0.192,
+            "yes_best_bid": 0.169,
+            "yes_best_ask": 0.192,
+            "yes_spread": 0.022999999999999993,
+            "no_token_id": "57735052456855662469680638991345252822075573241262899451505016817218542639621",
+            "no_probability": 0.831,
+            "no_best_bid": 0.808,
+            "no_best_ask": 0.831,
+            "no_spread": 0.02299999999999991,
+            "volume": 74853.9853957931,
+            "liquidity": 36572.15,
+            "neg_risk": false,
+            "end_date": "2026-07-09T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Initial reports of explosions suggest potential military escalation (1 hop).",
+            "event_id": "682091",
+            "event_title": "Iran military action against a gulf state on...?",
+            "event_slug": "iran-military-action-against-a-gulf-state-onptptpt-20260708212328295",
+            "detected_yes_price": 0.205,
+            "detected_no_price": 0.86,
+            "detected_at": 1783811974350,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.205,
+            "highest_no_price": 0.86
+          },
+          {
+            "id": "2851415",
+            "slug": "iran-military-action-against-a-gulf-state-onptptpt-20260708212328295",
+            "condition_id": "0x18c398c97deddabe1f3900e0d4c58472a19c7c33ffcb7d09ea6979cdda3eb0ac",
+            "title": "July 10",
+            "question": "Iran military action against a Gulf State on July 10?",
+            "description": "This market will resolve to \u201cYes\u201d if Iran takes a qualifying military action against a Gulf State on the specified date Arabia Standard Time (AST). Otherwise this market will resolve to \u201cNo.\u201d\n\nQualifying Gulf States are as follows: Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates.\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by Iran, that directly impacts a Gulf State. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones over 50 kg in total weight and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action: \nMunitions destroyed or intercepted before impact;\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including loitering munitions and FPV drones under 50 kg, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nAny munition that is intercepted or destroyed before impact does not constitute a qualifying military action. Debris, fragments, or any wreckage from intercepted munitions that land on a Gulf State do not constitute a military action regardless of any damage incurred.\n\nA military action will be considered to impact a Gulf State if it directly impacts the terrestrial territory of a Gulf State, including any internal waters. Maritime territory and airspace are not encompassed. Where territorial borders are disputed, all territory claimed by and under the de facto control of the relevant state as of market creation will qualify.\n\nThe occurrence, attribution, and timing of a qualifying military action will be primarily determined based on a consensus of information available from the resolution sources. Where multiple sources conflict regarding the occurrence, attribution, or timing of a relevant military action, this market will remain open until the earlier of:  i) the confirmation of the occurrence, attribution, and timing of the action based on a consensus of information available from the resolution sources or ii) 3 full calendar days (AST) from the date of the first credibly reported evidence of the action. If this period would extend past the end date, this market will remain open to allow for 3 full calendar days to pass. If, at the end of the third calendar day, conflicting reports remain as to the occurrence, attribution, or timing of the action, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the governments and militaries of Iran and the relevant Gulf States and a consensus of credible reporting.\n",
+            "image": "",
+            "yes_token_id": "22470067561511105858172189470447344013815256872133753171887542599472470489508",
+            "yes_probability": 0.025,
+            "yes_best_bid": 0.02,
+            "yes_best_ask": 0.025,
+            "yes_spread": 0.005000000000000001,
+            "no_token_id": "88213467491636871218400069037311720848632737749261329227688911835172465095520",
+            "no_probability": 0.98,
+            "no_best_bid": 0.975,
+            "no_best_ask": 0.98,
+            "no_spread": 0.0050000000000000044,
+            "volume": 28796.717062118994,
+            "liquidity": 289560.44000000006,
+            "neg_risk": false,
+            "end_date": "2026-07-10T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Initial reports of explosions suggest potential military escalation (1 hop).",
+            "event_id": "682091",
+            "event_title": "Iran military action against a gulf state on...?",
+            "event_slug": "iran-military-action-against-a-gulf-state-onptptpt-20260708212328295",
+            "detected_yes_price": 0.025,
+            "detected_no_price": 0.98,
+            "detected_at": 1783811974350,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.025,
+            "highest_no_price": 0.98
+          }
+        ],
+        "topics": [
+          "iran-regime"
+        ],
+        "categories": null
+      },
+      "related_market": {
+        "id": "2851417",
+        "slug": "iran-military-action-against-a-gulf-state-onptptpt-20260708212328295",
+        "condition_id": "0xbea088d2cfa887c5985be2b3feea2ea5ef8fdede3933ec0a415d1de3813a48a1",
+        "title": "July 12",
+        "question": "Iran military action against a Gulf State on July 12?",
+        "description": "This market will resolve to \u201cYes\u201d if Iran takes a qualifying military action against a Gulf State on the specified date Arabia Standard Time (AST). Otherwise this market will resolve to \u201cNo.\u201d\n\nQualifying Gulf States are as follows: Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates.\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by Iran, that directly impacts a Gulf State. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones over 50 kg in total weight and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action: \nMunitions destroyed or intercepted before impact;\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including loitering munitions and FPV drones under 50 kg, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nAny munition that is intercepted or destroyed before impact does not constitute a qualifying military action. Debris, fragments, or any wreckage from intercepted munitions that land on a Gulf State do not constitute a military action regardless of any damage incurred.\n\nA military action will be considered to impact a Gulf State if it directly impacts the terrestrial territory of a Gulf State, including any internal waters. Maritime territory and airspace are not encompassed. Where territorial borders are disputed, all territory claimed by and under the de facto control of the relevant state as of market creation will qualify.\n\nThe occurrence, attribution, and timing of a qualifying military action will be primarily determined based on a consensus of information available from the resolution sources. Where multiple sources conflict regarding the occurrence, attribution, or timing of a relevant military action, this market will remain open until the earlier of:  i) the confirmation of the occurrence, attribution, and timing of the action based on a consensus of information available from the resolution sources or ii) 3 full calendar days (AST) from the date of the first credibly reported evidence of the action. If this period would extend past the end date, this market will remain open to allow for 3 full calendar days to pass. If, at the end of the third calendar day, conflicting reports remain as to the occurrence, attribution, or timing of the action, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the governments and militaries of Iran and the relevant Gulf States and a consensus of credible reporting.\n",
+        "image": "",
+        "yes_token_id": "8709035425304608717633078221679777301318104015900761735264882237273152358903",
+        "yes_probability": 0.6,
+        "yes_best_bid": 0.59,
+        "yes_best_ask": 0.6,
+        "yes_spread": 0.010000000000000009,
+        "no_token_id": "10704884697649005085524657976090584908643325317140881720937947937733396768613",
+        "no_probability": 0.41,
+        "no_best_bid": 0.4,
+        "no_best_ask": 0.41,
+        "no_spread": 0.009999999999999953,
+        "volume": 6638.498267529999,
+        "liquidity": 82865.15,
+        "neg_risk": false,
+        "end_date": "2026-07-12T23:59:00Z",
+        "categories": [
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Initial reports of explosions suggest potential military escalation (1 hop).",
+        "event_id": "682091",
+        "event_title": "Iran military action against a gulf state on...?",
+        "event_slug": "iran-military-action-against-a-gulf-state-onptptpt-20260708212328295",
+        "detected_yes_price": 0.37,
+        "detected_no_price": 0.6599999999999999,
+        "detected_at": 1783811974350,
+        "highest_price_change": 1.3513513513513513,
+        "highest_yes_price": 0.87,
+        "highest_no_price": 0.66,
+        "first_moved_at": 1783812016921,
+        "moved_side": "yes",
+        "peaked_at": 1783812187386
+      },
+      "_scraped_at": "2026-07-11T23:44:55.173850+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 3,
+      "feed_item": {
+        "id": "a94c3541-abc4-4784-9016-48b29d881ef4",
+        "timestamp": 1783732494933,
+        "tweet": {
+          "feed_item_id": "a94c3541-abc4-4784-9016-48b29d881ef4",
+          "post_id": "2075750648885453247",
+          "post_type": "tweet",
+          "created_at": 1783732494933,
+          "user": {
+            "uid": "3295423333",
+            "handle": "FirstSquawk",
+            "display_name": "First Squawk",
+            "pfp": "https://pbs.twimg.com/profile_images/1039778545738964992/6fl6RNN0.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "U.S. Officials Say Iran Must Declare End to Ship Attacks in Strait of Hormuz",
+          "link": "https://twitter.com/FirstSquawk/status/2075750648885453247"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "IR",
+        "countries": [
+          "IR",
+          "US"
+        ],
+        "related_markets": [
+          {
+            "id": "2874930",
+            "slug": "iran-commits-not-to-attack-ships-in-hormuz-by-sunday-20260710215434348",
+            "condition_id": "0x1aedc159eae1d147930fddb11ae1a9ad4e079cd13e18d6ac0558965d08dcd53c",
+            "title": "",
+            "question": "Iran commits not to attack ships in Hormuz by Sunday?",
+            "description": "This market will resolve to \u201cYes\u201d if the Iranian government, or an authorized representative of the Iranian government, publicly and officially announces a commitment not to attack ships transiting the Strait of Hormuz, between market creation and July 12, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA qualifying announcement must be a declarative statement of Iran\u2019s present or future policy not to attack ships transiting the Strait of Hormuz.\n\nA qualifying announcement must clearly and unambiguously identify a commitment not to attack ships transiting the Strait. Statements that merely allude to, reference, or describe such a policy, without clearly communicating it, do not qualify. The announcement need not use specific terminology; an announcement of a resumption of prior obligations, the maintenance of a status quo, or a return to a previously agreed baseline qualifies, provided the substantive policy not to attack ships transiting the Strait of Hormuz is clearly and unambiguously communicated.\n\nA qualifying announcement must be made through official channels, by an individual acting in an official capacity. Statements made incidentally or informally in a context not intended for official communication do not qualify.\n\nThe following do not qualify:\nAnonymous, unattributed, or leaked statements not confirmed as official;\nStatements by persons not authorized to speak for the Iranian government;\nThird-party speculation, analysis, or predictions that Iran will make such an announcement; \nSatirical, fabricated, hacked, or impersonated communications; and \nStatements that describe a prospective, contingent, probable, or conditional policy rather than announcing a present and decided position.\n\nOnce a qualifying announcement is made, this market will resolve to \u201cYes\u201d regardless of whether it is later reversed, or whether a the policy is ever actually implemented.\n\nResolution will be based on official information from the Iranian government, including the Iranian military, and its authorized representatives.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/iran-commits-not-to-attack-ships-in-hormuz-by-sunday-20260710215434348-XA8qnOxZs-Ue.jpg",
+            "yes_token_id": "73428998938286819831706120179965315959791728804395685991831347688498759685199",
+            "yes_probability": 0.024,
+            "yes_best_bid": 0.017,
+            "yes_best_ask": 0.024,
+            "yes_spread": 0.006999999999999999,
+            "no_token_id": "102471895692582101402744105028120438624141629469830932964443726671020883508177",
+            "no_probability": 0.983,
+            "no_best_bid": 0.976,
+            "no_best_ask": 0.983,
+            "no_spread": 0.007000000000000006,
+            "volume": 134348.74383884607,
+            "liquidity": 521793.32,
+            "neg_risk": false,
+            "end_date": "2026-07-12T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "U.S. officials' statement directly relates to Iran's commitment (1 hop).",
+            "event_id": "689406",
+            "event_title": "Iran commits not to attack ships in Hormuz by Sunday?",
+            "event_slug": "iran-commits-not-to-attack-ships-in-hormuz-by-sunday-20260710215434348",
+            "detected_yes_price": 0.14,
+            "detected_no_price": 0.87,
+            "detected_at": 1783732500737,
+            "highest_price_change": 0.7142857142857141,
+            "highest_yes_price": 0.24,
+            "highest_no_price": 0.99,
+            "first_moved_at": 1783732775222,
+            "moved_side": "yes",
+            "peaked_at": 1783783413283
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 9,
+            "price": 71.564
+          }
+        ],
+        "topics": [
+          "iran-regime",
+          "ai-tech"
+        ],
+        "categories": [
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "2874930",
+        "slug": "iran-commits-not-to-attack-ships-in-hormuz-by-sunday-20260710215434348",
+        "condition_id": "0x1aedc159eae1d147930fddb11ae1a9ad4e079cd13e18d6ac0558965d08dcd53c",
+        "title": "",
+        "question": "Iran commits not to attack ships in Hormuz by Sunday?",
+        "description": "This market will resolve to \u201cYes\u201d if the Iranian government, or an authorized representative of the Iranian government, publicly and officially announces a commitment not to attack ships transiting the Strait of Hormuz, between market creation and July 12, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA qualifying announcement must be a declarative statement of Iran\u2019s present or future policy not to attack ships transiting the Strait of Hormuz.\n\nA qualifying announcement must clearly and unambiguously identify a commitment not to attack ships transiting the Strait. Statements that merely allude to, reference, or describe such a policy, without clearly communicating it, do not qualify. The announcement need not use specific terminology; an announcement of a resumption of prior obligations, the maintenance of a status quo, or a return to a previously agreed baseline qualifies, provided the substantive policy not to attack ships transiting the Strait of Hormuz is clearly and unambiguously communicated.\n\nA qualifying announcement must be made through official channels, by an individual acting in an official capacity. Statements made incidentally or informally in a context not intended for official communication do not qualify.\n\nThe following do not qualify:\nAnonymous, unattributed, or leaked statements not confirmed as official;\nStatements by persons not authorized to speak for the Iranian government;\nThird-party speculation, analysis, or predictions that Iran will make such an announcement; \nSatirical, fabricated, hacked, or impersonated communications; and \nStatements that describe a prospective, contingent, probable, or conditional policy rather than announcing a present and decided position.\n\nOnce a qualifying announcement is made, this market will resolve to \u201cYes\u201d regardless of whether it is later reversed, or whether a the policy is ever actually implemented.\n\nResolution will be based on official information from the Iranian government, including the Iranian military, and its authorized representatives.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/iran-commits-not-to-attack-ships-in-hormuz-by-sunday-20260710215434348-XA8qnOxZs-Ue.jpg",
+        "yes_token_id": "73428998938286819831706120179965315959791728804395685991831347688498759685199",
+        "yes_probability": 0.024,
+        "yes_best_bid": 0.017,
+        "yes_best_ask": 0.024,
+        "yes_spread": 0.006999999999999999,
+        "no_token_id": "102471895692582101402744105028120438624141629469830932964443726671020883508177",
+        "no_probability": 0.983,
+        "no_best_bid": 0.976,
+        "no_best_ask": 0.983,
+        "no_spread": 0.007000000000000006,
+        "volume": 134348.74383884607,
+        "liquidity": 521793.32,
+        "neg_risk": false,
+        "end_date": "2026-07-12T23:59:00Z",
+        "categories": [
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 9,
+        "impact_level": "critical",
+        "impact_reason": "U.S. officials' statement directly relates to Iran's commitment (1 hop).",
+        "event_id": "689406",
+        "event_title": "Iran commits not to attack ships in Hormuz by Sunday?",
+        "event_slug": "iran-commits-not-to-attack-ships-in-hormuz-by-sunday-20260710215434348",
+        "detected_yes_price": 0.14,
+        "detected_no_price": 0.87,
+        "detected_at": 1783732500737,
+        "highest_price_change": 0.7142857142857141,
+        "highest_yes_price": 0.24,
+        "highest_no_price": 0.99,
+        "first_moved_at": 1783732775222,
+        "moved_side": "yes",
+        "peaked_at": 1783783413283
+      },
+      "_scraped_at": "2026-07-11T23:44:55.173850+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 4,
+      "feed_item": {
+        "id": "312cf7aa-b1a1-4f61-a2f8-a589a74c2f57",
+        "timestamp": 1783810627704,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "312cf7aa-b1a1-4f61-a2f8-a589a74c2f57",
+          "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Iranian special forces are deploying mines in the Oman-designated shipping lane\n\n@Middle_East_Spectator",
+          "channel": "Middle East Spectator \u2014 MES",
+          "timestamp": 1783810627704,
+          "link": "https://t.me/Middle_East_Spectator"
+        },
+        "osint": false,
+        "country": "IR",
+        "countries": [
+          "IR",
+          "OM"
+        ],
+        "related_markets": [
+          {
+            "id": "2851414",
+            "slug": "iran-military-action-against-a-gulf-state-onptptpt-20260708212328295",
+            "condition_id": "0xeb9f5707eabf3c272097196b137d841fda958ec64aecff36283cc448a7e3e40b",
+            "title": "July 9",
+            "question": "Iran military action against a Gulf State on July 9?",
+            "description": "This market will resolve to \u201cYes\u201d if Iran takes a qualifying military action against a Gulf State on the specified date Arabia Standard Time (AST). Otherwise this market will resolve to \u201cNo.\u201d\n\nQualifying Gulf States are as follows: Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates.\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by Iran, that directly impacts a Gulf State. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones over 50 kg in total weight and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action: \nMunitions destroyed or intercepted before impact;\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including loitering munitions and FPV drones under 50 kg, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nAny munition that is intercepted or destroyed before impact does not constitute a qualifying military action. Debris, fragments, or any wreckage from intercepted munitions that land on a Gulf State do not constitute a military action regardless of any damage incurred.\n\nA military action will be considered to impact a Gulf State if it directly impacts the terrestrial territory of a Gulf State, including any internal waters. Maritime territory and airspace are not encompassed. Where territorial borders are disputed, all territory claimed by and under the de facto control of the relevant state as of market creation will qualify.\n\nThe occurrence, attribution, and timing of a qualifying military action will be primarily determined based on a consensus of information available from the resolution sources. Where multiple sources conflict regarding the occurrence, attribution, or timing of a relevant military action, this market will remain open until the earlier of:  i) the confirmation of the occurrence, attribution, and timing of the action based on a consensus of information available from the resolution sources or ii) 3 full calendar days (AST) from the date of the first credibly reported evidence of the action. If this period would extend past the end date, this market will remain open to allow for 3 full calendar days to pass. If, at the end of the third calendar day, conflicting reports remain as to the occurrence, attribution, or timing of the action, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the governments and militaries of Iran and the relevant Gulf States and a consensus of credible reporting.\n",
+            "image": "",
+            "yes_token_id": "115147204977117737874154803841181012449146941275699745556479997448531136943728",
+            "yes_probability": 0.192,
+            "yes_best_bid": 0.169,
+            "yes_best_ask": 0.192,
+            "yes_spread": 0.022999999999999993,
+            "no_token_id": "57735052456855662469680638991345252822075573241262899451505016817218542639621",
+            "no_probability": 0.831,
+            "no_best_bid": 0.808,
+            "no_best_ask": 0.831,
+            "no_spread": 0.02299999999999991,
+            "volume": 74853.9853957931,
+            "liquidity": 36572.15,
+            "neg_risk": false,
+            "end_date": "2026-07-09T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Deployment of mines indicates imminent military action (1 hop).",
+            "event_id": "682091",
+            "event_title": "Iran military action against a gulf state on...?",
+            "event_slug": "iran-military-action-against-a-gulf-state-onptptpt-20260708212328295",
+            "detected_yes_price": 0.205,
+            "detected_no_price": 0.86,
+            "detected_at": 1783810655679,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.205,
+            "highest_no_price": 0.86
+          },
+          {
+            "id": "2851416",
+            "slug": "iran-military-action-against-a-gulf-state-onptptpt-20260708212328295",
+            "condition_id": "0xaacb2d891e50062ab341f0ea450adef245e1a44f502207accbc07ce5dbf307e9",
+            "title": "July 11",
+            "question": "Iran military action against a Gulf State on July 11?",
+            "description": "This market will resolve to \u201cYes\u201d if Iran takes a qualifying military action against a Gulf State on the specified date Arabia Standard Time (AST). Otherwise this market will resolve to \u201cNo.\u201d\n\nQualifying Gulf States are as follows: Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates.\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by Iran, that directly impacts a Gulf State. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones over 50 kg in total weight and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action: \nMunitions destroyed or intercepted before impact;\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including loitering munitions and FPV drones under 50 kg, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nAny munition that is intercepted or destroyed before impact does not constitute a qualifying military action. Debris, fragments, or any wreckage from intercepted munitions that land on a Gulf State do not constitute a military action regardless of any damage incurred.\n\nA military action will be considered to impact a Gulf State if it directly impacts the terrestrial territory of a Gulf State, including any internal waters. Maritime territory and airspace are not encompassed. Where territorial borders are disputed, all territory claimed by and under the de facto control of the relevant state as of market creation will qualify.\n\nThe occurrence, attribution, and timing of a qualifying military action will be primarily determined based on a consensus of information available from the resolution sources. Where multiple sources conflict regarding the occurrence, attribution, or timing of a relevant military action, this market will remain open until the earlier of:  i) the confirmation of the occurrence, attribution, and timing of the action based on a consensus of information available from the resolution sources or ii) 3 full calendar days (AST) from the date of the first credibly reported evidence of the action. If this period would extend past the end date, this market will remain open to allow for 3 full calendar days to pass. If, at the end of the third calendar day, conflicting reports remain as to the occurrence, attribution, or timing of the action, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the governments and militaries of Iran and the relevant Gulf States and a consensus of credible reporting.\n",
+            "image": "",
+            "yes_token_id": "89252596722278675063490859986518869736887103855589660585321055731925559384917",
+            "yes_probability": 0.059,
+            "yes_best_bid": 0.04,
+            "yes_best_ask": 0.059,
+            "yes_spread": 0.018999999999999996,
+            "no_token_id": "18767955555435343594056762042569363912413848899795532702514177456730609589083",
+            "no_probability": 0.96,
+            "no_best_bid": 0.941,
+            "no_best_ask": 0.96,
+            "no_spread": 0.019000000000000017,
+            "volume": 10943.453505816002,
+            "liquidity": 92627.75000000006,
+            "neg_risk": false,
+            "end_date": "2026-07-11T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Deployment of mines indicates imminent military action (1 hop).",
+            "event_id": "682091",
+            "event_title": "Iran military action against a gulf state on...?",
+            "event_slug": "iran-military-action-against-a-gulf-state-onptptpt-20260708212328295",
+            "detected_yes_price": 0.05,
+            "detected_no_price": 0.97,
+            "detected_at": 1783810655679,
+            "highest_price_change": 0.1999999999999999,
+            "highest_yes_price": 0.06,
+            "highest_no_price": 0.975,
+            "first_moved_at": 1783812153530,
+            "moved_side": "yes",
+            "peaked_at": 1783812153530
+          },
+          {
+            "id": "2851417",
+            "slug": "iran-military-action-against-a-gulf-state-onptptpt-20260708212328295",
+            "condition_id": "0xbea088d2cfa887c5985be2b3feea2ea5ef8fdede3933ec0a415d1de3813a48a1",
+            "title": "July 12",
+            "question": "Iran military action against a Gulf State on July 12?",
+            "description": "This market will resolve to \u201cYes\u201d if Iran takes a qualifying military action against a Gulf State on the specified date Arabia Standard Time (AST). Otherwise this market will resolve to \u201cNo.\u201d\n\nQualifying Gulf States are as follows: Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates.\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by Iran, that directly impacts a Gulf State. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones over 50 kg in total weight and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action: \nMunitions destroyed or intercepted before impact;\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including loitering munitions and FPV drones under 50 kg, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nAny munition that is intercepted or destroyed before impact does not constitute a qualifying military action. Debris, fragments, or any wreckage from intercepted munitions that land on a Gulf State do not constitute a military action regardless of any damage incurred.\n\nA military action will be considered to impact a Gulf State if it directly impacts the terrestrial territory of a Gulf State, including any internal waters. Maritime territory and airspace are not encompassed. Where territorial borders are disputed, all territory claimed by and under the de facto control of the relevant state as of market creation will qualify.\n\nThe occurrence, attribution, and timing of a qualifying military action will be primarily determined based on a consensus of information available from the resolution sources. Where multiple sources conflict regarding the occurrence, attribution, or timing of a relevant military action, this market will remain open until the earlier of:  i) the confirmation of the occurrence, attribution, and timing of the action based on a consensus of information available from the resolution sources or ii) 3 full calendar days (AST) from the date of the first credibly reported evidence of the action. If this period would extend past the end date, this market will remain open to allow for 3 full calendar days to pass. If, at the end of the third calendar day, conflicting reports remain as to the occurrence, attribution, or timing of the action, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the governments and militaries of Iran and the relevant Gulf States and a consensus of credible reporting.\n",
+            "image": "",
+            "yes_token_id": "8709035425304608717633078221679777301318104015900761735264882237273152358903",
+            "yes_probability": 0.6,
+            "yes_best_bid": 0.59,
+            "yes_best_ask": 0.6,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "10704884697649005085524657976090584908643325317140881720937947937733396768613",
+            "no_probability": 0.41,
+            "no_best_bid": 0.4,
+            "no_best_ask": 0.41,
+            "no_spread": 0.009999999999999953,
+            "volume": 6638.498267529999,
+            "liquidity": 82865.15,
+            "neg_risk": false,
+            "end_date": "2026-07-12T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Deployment of mines indicates imminent military action (1 hop).",
+            "event_id": "682091",
+            "event_title": "Iran military action against a gulf state on...?",
+            "event_slug": "iran-military-action-against-a-gulf-state-onptptpt-20260708212328295",
+            "detected_yes_price": 0.7,
+            "detected_no_price": 0.55,
+            "detected_at": 1783810655679,
+            "highest_price_change": 0.34545454545454535,
+            "highest_yes_price": 0.87,
+            "highest_no_price": 0.74,
+            "first_moved_at": 1783810684182,
+            "moved_side": "no",
+            "peaked_at": 1783811168067
+          },
+          {
+            "id": "2851415",
+            "slug": "iran-military-action-against-a-gulf-state-onptptpt-20260708212328295",
+            "condition_id": "0x18c398c97deddabe1f3900e0d4c58472a19c7c33ffcb7d09ea6979cdda3eb0ac",
+            "title": "July 10",
+            "question": "Iran military action against a Gulf State on July 10?",
+            "description": "This market will resolve to \u201cYes\u201d if Iran takes a qualifying military action against a Gulf State on the specified date Arabia Standard Time (AST). Otherwise this market will resolve to \u201cNo.\u201d\n\nQualifying Gulf States are as follows: Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates.\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by Iran, that directly impacts a Gulf State. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones over 50 kg in total weight and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action: \nMunitions destroyed or intercepted before impact;\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including loitering munitions and FPV drones under 50 kg, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nAny munition that is intercepted or destroyed before impact does not constitute a qualifying military action. Debris, fragments, or any wreckage from intercepted munitions that land on a Gulf State do not constitute a military action regardless of any damage incurred.\n\nA military action will be considered to impact a Gulf State if it directly impacts the terrestrial territory of a Gulf State, including any internal waters. Maritime territory and airspace are not encompassed. Where territorial borders are disputed, all territory claimed by and under the de facto control of the relevant state as of market creation will qualify.\n\nThe occurrence, attribution, and timing of a qualifying military action will be primarily determined based on a consensus of information available from the resolution sources. Where multiple sources conflict regarding the occurrence, attribution, or timing of a relevant military action, this market will remain open until the earlier of:  i) the confirmation of the occurrence, attribution, and timing of the action based on a consensus of information available from the resolution sources or ii) 3 full calendar days (AST) from the date of the first credibly reported evidence of the action. If this period would extend past the end date, this market will remain open to allow for 3 full calendar days to pass. If, at the end of the third calendar day, conflicting reports remain as to the occurrence, attribution, or timing of the action, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the governments and militaries of Iran and the relevant Gulf States and a consensus of credible reporting.\n",
+            "image": "",
+            "yes_token_id": "22470067561511105858172189470447344013815256872133753171887542599472470489508",
+            "yes_probability": 0.025,
+            "yes_best_bid": 0.02,
+            "yes_best_ask": 0.025,
+            "yes_spread": 0.005000000000000001,
+            "no_token_id": "88213467491636871218400069037311720848632737749261329227688911835172465095520",
+            "no_probability": 0.98,
+            "no_best_bid": 0.975,
+            "no_best_ask": 0.98,
+            "no_spread": 0.0050000000000000044,
+            "volume": 28796.717062118994,
+            "liquidity": 289560.44000000006,
+            "neg_risk": false,
+            "end_date": "2026-07-10T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Deployment of mines indicates imminent military action (1 hop).",
+            "event_id": "682091",
+            "event_title": "Iran military action against a gulf state on...?",
+            "event_slug": "iran-military-action-against-a-gulf-state-onptptpt-20260708212328295",
+            "detected_yes_price": 0.025,
+            "detected_no_price": 0.98,
+            "detected_at": 1783810655679,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.025,
+            "highest_no_price": 0.98
+          },
+          {
+            "id": "2851418",
+            "slug": "iran-military-action-against-a-gulf-state-onptptpt-20260708212328295",
+            "condition_id": "0x83a77ebdd51de03302e736ba66c9d2285da508f7b282814a84ab5129b3098e4f",
+            "title": "July 13",
+            "question": "Iran military action against a Gulf State on July 13?",
+            "description": "This market will resolve to \u201cYes\u201d if Iran takes a qualifying military action against a Gulf State on the specified date Arabia Standard Time (AST). Otherwise this market will resolve to \u201cNo.\u201d\n\nQualifying Gulf States are as follows: Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates.\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by Iran, that directly impacts a Gulf State. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones over 50 kg in total weight and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action: \nMunitions destroyed or intercepted before impact;\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including loitering munitions and FPV drones under 50 kg, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nAny munition that is intercepted or destroyed before impact does not constitute a qualifying military action. Debris, fragments, or any wreckage from intercepted munitions that land on a Gulf State do not constitute a military action regardless of any damage incurred.\n\nA military action will be considered to impact a Gulf State if it directly impacts the terrestrial territory of a Gulf State, including any internal waters. Maritime territory and airspace are not encompassed. Where territorial borders are disputed, all territory claimed by and under the de facto control of the relevant state as of market creation will qualify.\n\nThe occurrence, attribution, and timing of a qualifying military action will be primarily determined based on a consensus of information available from the resolution sources. Where multiple sources conflict regarding the occurrence, attribution, or timing of a relevant military action, this market will remain open until the earlier of:  i) the confirmation of the occurrence, attribution, and timing of the action based on a consensus of information available from the resolution sources or ii) 3 full calendar days (AST) from the date of the first credibly reported evidence of the action. If this period would extend past the end date, this market will remain open to allow for 3 full calendar days to pass. If, at the end of the third calendar day, conflicting reports remain as to the occurrence, attribution, or timing of the action, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the governments and militaries of Iran and the relevant Gulf States and a consensus of credible reporting.\n",
+            "image": "",
+            "yes_token_id": "86235953329386432460672469030315509538354077418001466432980979104051625649671",
+            "yes_probability": 0.51,
+            "yes_best_bid": 0.5,
+            "yes_best_ask": 0.51,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "36398173413921360033964103461538189256774748277034257367087078747601866036118",
+            "no_probability": 0.5,
+            "no_best_bid": 0.49,
+            "no_best_ask": 0.5,
+            "no_spread": 0.010000000000000009,
+            "volume": 5135.473003539999,
+            "liquidity": 85882.56000000001,
+            "neg_risk": false,
+            "end_date": "2026-07-13T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Deployment of mines indicates imminent military action (1 hop).",
+            "event_id": "682091",
+            "event_title": "Iran military action against a gulf state on...?",
+            "event_slug": "iran-military-action-against-a-gulf-state-onptptpt-20260708212328295",
+            "detected_yes_price": 0.55,
+            "detected_no_price": 0.45999999999999996,
+            "detected_at": 1783810655679,
+            "highest_price_change": 0.47826086956521763,
+            "highest_yes_price": 0.56,
+            "highest_no_price": 0.68,
+            "first_moved_at": 1783810770705,
+            "moved_side": "no",
+            "peaked_at": 1783811263815
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 9,
+            "price": 72.822
+          }
+        ],
+        "topics": [
+          "iran-regime"
+        ],
+        "categories": [
+          "economy"
+        ]
+      },
+      "related_market": {
+        "id": "2851418",
+        "slug": "iran-military-action-against-a-gulf-state-onptptpt-20260708212328295",
+        "condition_id": "0x83a77ebdd51de03302e736ba66c9d2285da508f7b282814a84ab5129b3098e4f",
+        "title": "July 13",
+        "question": "Iran military action against a Gulf State on July 13?",
+        "description": "This market will resolve to \u201cYes\u201d if Iran takes a qualifying military action against a Gulf State on the specified date Arabia Standard Time (AST). Otherwise this market will resolve to \u201cNo.\u201d\n\nQualifying Gulf States are as follows: Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates.\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by Iran, that directly impacts a Gulf State. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones over 50 kg in total weight and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action: \nMunitions destroyed or intercepted before impact;\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including loitering munitions and FPV drones under 50 kg, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nAny munition that is intercepted or destroyed before impact does not constitute a qualifying military action. Debris, fragments, or any wreckage from intercepted munitions that land on a Gulf State do not constitute a military action regardless of any damage incurred.\n\nA military action will be considered to impact a Gulf State if it directly impacts the terrestrial territory of a Gulf State, including any internal waters. Maritime territory and airspace are not encompassed. Where territorial borders are disputed, all territory claimed by and under the de facto control of the relevant state as of market creation will qualify.\n\nThe occurrence, attribution, and timing of a qualifying military action will be primarily determined based on a consensus of information available from the resolution sources. Where multiple sources conflict regarding the occurrence, attribution, or timing of a relevant military action, this market will remain open until the earlier of:  i) the confirmation of the occurrence, attribution, and timing of the action based on a consensus of information available from the resolution sources or ii) 3 full calendar days (AST) from the date of the first credibly reported evidence of the action. If this period would extend past the end date, this market will remain open to allow for 3 full calendar days to pass. If, at the end of the third calendar day, conflicting reports remain as to the occurrence, attribution, or timing of the action, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the governments and militaries of Iran and the relevant Gulf States and a consensus of credible reporting.\n",
+        "image": "",
+        "yes_token_id": "86235953329386432460672469030315509538354077418001466432980979104051625649671",
+        "yes_probability": 0.51,
+        "yes_best_bid": 0.5,
+        "yes_best_ask": 0.51,
+        "yes_spread": 0.010000000000000009,
+        "no_token_id": "36398173413921360033964103461538189256774748277034257367087078747601866036118",
+        "no_probability": 0.5,
+        "no_best_bid": 0.49,
+        "no_best_ask": 0.5,
+        "no_spread": 0.010000000000000009,
+        "volume": 5135.473003539999,
+        "liquidity": 85882.56000000001,
+        "neg_risk": false,
+        "end_date": "2026-07-13T23:59:00Z",
+        "categories": [
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Deployment of mines indicates imminent military action (1 hop).",
+        "event_id": "682091",
+        "event_title": "Iran military action against a gulf state on...?",
+        "event_slug": "iran-military-action-against-a-gulf-state-onptptpt-20260708212328295",
+        "detected_yes_price": 0.55,
+        "detected_no_price": 0.45999999999999996,
+        "detected_at": 1783810655679,
+        "highest_price_change": 0.47826086956521763,
+        "highest_yes_price": 0.56,
+        "highest_no_price": 0.68,
+        "first_moved_at": 1783810770705,
+        "moved_side": "no",
+        "peaked_at": 1783811263815
+      },
+      "_scraped_at": "2026-07-11T23:44:55.173850+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 5,
+      "feed_item": {
+        "id": "4edbd360-f01f-40ea-b22b-a97188a137cf",
+        "timestamp": 1783771426316,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "4edbd360-f01f-40ea-b22b-a97188a137cf",
+          "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddef\ud83c\uddf4/\ud83c\uddee\ud83c\uddf7 NEW: Satellite imagery from yesterday shows at least two new impact craters at Muwaffaq Salti Airbase, Jordan, following Iran\u2019s attack\n\n@Middle_East_Spectator",
+          "channel": "Middle East Spectator \u2014 MES",
+          "timestamp": 1783771426316,
+          "link": "https://t.me/Middle_East_Spectator"
+        },
+        "osint": false,
+        "country": "JO",
+        "countries": [
+          "JO",
+          "IR"
+        ],
+        "related_markets": [
+          {
+            "id": "2633427",
+            "slug": "us-iran-final-nuclear-deal-by-20260621201254412",
+            "condition_id": "0x61dcae8107169382527c8dac1fcd0e214b4b4267b65d0e6fd4872736d373f360",
+            "title": "July 31",
+            "question": "US-Iran Final Nuclear Deal by July 31, 2026?",
+            "description": "On June 14, 2026, the United States and Iran announced a written diplomatic agreement, including a 60-day extendable period in which both countries committed to negotiate toward a \u201cfinal deal\u201d regarding Iran\u2019s nuclear program and other topics.\n\nThis market resolves to \u201cYes\u201d if a qualifying written diplomatic instrument between the United States and Iran has been mutually signed or adopted by the specified date, 11:59 PM ET. Otherwise, this market resolves to \u201cNo.\u201d\n\nUnless the written instrument is formally adopted without signature as described below, the instrument must be signed by both the United States and Iran. Both parties must either sign the same document or sign individual documents that substantively and directly indicate acceptance of the same underlying instrument, regardless of minor formatting, wording, or translation differences between the signed versions. Both physical signatures and officially-issued electronic signatures will qualify as signatures.\n\nIf the written instrument is recognized by the United States and Iran as not requiring signature for execution, formal adoption of the instrument by both countries without signature will qualify. Formal adoption may be established by official actions, including:\n\n(i) an official joint statement announcing that the United States and Iran have adopted, approved, executed, concluded, or otherwise finalized the instrument;\n(ii) mutual official confirmation that the same published instrument has been agreed to, adopted, approved, executed, or concluded by both countries;\n(iii) adoption, approval, or endorsement through an official resolution, ministerial decision, executive decision, or equivalent institutional act, where that act is the mechanism by which the relevant country adopts the instrument; or\n(iv) an exchange of official diplomatic notes or letters confirming acceptance of the same instrument.\n\nA qualifying written diplomatic instrument must:\n\n(i) Be identified as the final deal contemplated by the June 14, 2026, memorandum of understanding, either in official United States or Iranian communications, or by a consensus of credible reporting;\n(ii) Establish at least one specific obligation limiting Iran's nuclear program through a concrete, measurable benchmark against which compliance could be tested, which may take the form of a defined limit, prohibition, or quantity (e.g., a specific cap on the purity level to which Iran may enrich uranium, or an explicit commitment for Iran to surrender, destroy, or dilute its enriched uranium stockpile). Non-specific or vague restrictions, with no defined metric (e.g., a pledge not to pursue nuclear weapons, a commitment to maintain the status quo, or an agreement to abide IAEA monitoring or inspections requirements that do not specifically restrict Iran\u2019s nuclear program) will not qualify.\n\nThe content of the qualifying instrument must be expressed as an agreed obligation to be implemented. The following do not qualify: \n\n(i) a provision the substantive obligation of which remains explicitly subject to a future agreement, negotiation process, or mutually agreed follow-on instrument; \n(ii) a provision explicitly framed as a minimum requirement for a future negotiation, rather than a present obligation; \n(iii) a floor, placeholder, or minimum standard established explicitly for the purpose of structuring ongoing or future talks. \n\nA definite and unconditional obligation may qualify, even if technical or procedural details, including the exact implementation date, timeframe, or sequencing, remain subject to future arrangements, provided that the obligation still establishes a concrete, measurable benchmark against which compliance could be tested. Conditional obligations do not qualify.\n\nWhether an instrument qualifies will be primarily determined by its officially released text. A qualifying instrument must be signed or formally adopted by both the United States and Iran by the specified date, 11:59 PM ET. If such an instrument is signed or formally adopted by that time, but the complete text has not been released, and genuine material ambiguity remains as to whether it satisfies this market\u2019s requirements, this market may remain open for up to 28 calendar days after the specified date pending release of the text. If the text has still not been released after 28 calendar days, official and definitive announcements from the United States or Iran, and a consensus of credible reporting, will be used to determine whether the instrument qualifies.\n\nAn instrument to which parties other than the United States and Iran are also party will qualify, provided that both the United States and Iran are parties to the instrument and all other requirements are satisfied. \n\nOnce a diplomatic instrument has been signed or formally adopted without signature by both the United States and Iran and confirmed to satisfy the requirements of a qualifying written diplomatic instrument, this market\u2019s condition is met, regardless of whether the instrument later enters into force, is ratified, receives legislative or treaty consent, or is subsequently repudiated, withdrawn from, or not implemented by the United States or Iran.\n\nThe primary resolution sources for this market will be official communications from the governments of the United States and Iran, or their authorized representatives. A consensus of credible reporting from major news agencies of record may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-iran-final-nuclear-deal-by-20260621201254412-2M_GeQ8diXxj.jpg",
+            "yes_token_id": "59540726726105191759377646221923566586595020352558312380615459160189274262446",
+            "yes_probability": 0.015,
+            "yes_best_bid": 0.012,
+            "yes_best_ask": 0.015,
+            "yes_spread": 0.002999999999999999,
+            "no_token_id": "107829615395930134590785039912266494110425242574243460473016157222501660881900",
+            "no_probability": 0.988,
+            "no_best_bid": 0.985,
+            "no_best_ask": 0.988,
+            "no_spread": 0.0030000000000000027,
+            "volume": 888947.0669987128,
+            "liquidity": 2076467.0600000005,
+            "neg_risk": false,
+            "end_date": "2026-07-31T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Iran's attack creates a direct need for diplomatic engagement (1 hop).",
+            "event_id": "620025",
+            "event_title": "US-Iran Final Nuclear Deal by\u2026?",
+            "event_slug": "us-iran-final-nuclear-deal-by-20260621201254412",
+            "detected_yes_price": 0.02,
+            "detected_no_price": 0.984,
+            "detected_at": 1783771476006,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.02,
+            "highest_no_price": 0.984
+          },
+          {
+            "id": "2646916",
+            "slug": "where-will-the-next-next-round-of-us-iran-peace-talks-beptptpt-20260623023740663",
+            "condition_id": "0x189e1fc1645c57b86a849ca1680aa9cd748aa1cab72c7e05b3a92be8d0977111",
+            "title": "UAE",
+            "question": "Will the next diplomatic US-Iran meeting be in the UAE by September 30, 2026?",
+            "description": "On June 22, the first round of U.S.-Iran diplomatic talks in Switzerland concluded, with mediators reporting progress toward a roadmap for a final deal and follow-on technical talks expected to continue (see: https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks).\n\nThis market will resolve according to the country in which the next formal senior-level round of peace talks between representatives of the United States and Iran begins by September 30, 2026, 11:59 PM ET.\n\nA qualifying round must be a deliberate in-person diplomatic meeting or negotiating round concerning US-Iran relations, involving senior representatives of both the United States and Iran who are acting in an official capacity and are authorized to conduct or materially direct diplomacy on behalf of their governments.\n\nIndirect in-person diplomacy through designated mediators, facilitators, or interlocutors will qualify, provided senior representatives of both the United States and Iran are participating in the same formal diplomatic process with the knowledge and authorization of their respective governments. The representatives need not be in the same room at the same time.\n\nFollow-on technical talks from the June 22 Switzerland round will not qualify by themselves. Technical, staff-level, working-group, implementation, monitoring, preparatory, or deconfliction meetings will not qualify unless they occur as part of a new formally convened senior-level U.S.-Iran peace-talks round.\n\nBrief greetings, chance encounters, photo opportunities, ceremonial appearances, or talks not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nIf a qualifying round occurs in more than one country, resolution will be based on the country where the first qualifying senior-level diplomatic session begins.\n\nIf the next qualifying round begins in any country in the Middle East or North Africa other than the listed options, this market will resolve to \u201cOther - Middle East/North Africa.\u201d\n\nIf the next qualifying round begins in any country in Europe other than the listed options, this market will resolve to \u201cOther - Europe.\u201d\n\nFor purposes of this market, countries\u2019 regions will be determined based on the U.S. State Department\u2019s regional classifications in the \u201cCountries and Areas List\u201d (https://www.state.gov/countries-and-areas-list). Any country classified as part of \u201cEurope and Eurasia\u201d will be considered to be in Europe. Any country classified as part of \u201cNear East (Middle East and North Africa)\u201d will be considered to be in the Middle East/North Africa.\n\nIf the next qualifying round begins in any unlisted country that is not classified in either specified region, this market will resolve to \u201cOther.\u201d\n\nIf no qualifying round begins by September 30, 2026, 11:59 PM ET, this market will resolve to \u201cNo Meeting by September 30.\u201d\n\nThe resolution sources for this market will be official information from the governments of the United States and Iran, and a consensus of credible reporting.\n",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-meeting-by-9btZGbUg-ikA.jpg",
+            "yes_token_id": "22380229442917794927086169575089512266282171303590949714167876001942645905216",
+            "yes_probability": 0.008,
+            "yes_best_bid": 0.002,
+            "yes_best_ask": 0.008,
+            "yes_spread": 0.006,
+            "no_token_id": "95101927668338752841193471907502294533828718684925959813808340686012856007997",
+            "no_probability": 0.998,
+            "no_best_bid": 0.992,
+            "no_best_ask": 0.998,
+            "no_spread": 0.006000000000000005,
+            "volume": 52216.58416499996,
+            "liquidity": 381158.19999999955,
+            "neg_risk": true,
+            "end_date": "2026-09-30T23:59:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Iran's attack creates a direct need for diplomatic engagement (1 hop).",
+            "event_id": "624242",
+            "event_title": "Where will the next next round of US-Iran peace talks be...?",
+            "event_slug": "where-will-the-next-next-round-of-us-iran-peace-talks-beptptpt-20260623023740663",
+            "detected_yes_price": 0.008,
+            "detected_no_price": 0.998,
+            "detected_at": 1783771476006,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.008,
+            "highest_no_price": 0.998
+          },
+          {
+            "id": "2646917",
+            "slug": "where-will-the-next-next-round-of-us-iran-peace-talks-beptptpt-20260623023740663",
+            "condition_id": "0x55b51fa092cbeec95defc5445110b8bbcad2fe4a97e20f9f16166f2f38f2259e",
+            "title": "Saudi Arabia",
+            "question": "Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?",
+            "description": "On June 22, the first round of U.S.-Iran diplomatic talks in Switzerland concluded, with mediators reporting progress toward a roadmap for a final deal and follow-on technical talks expected to continue (see: https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks).\n\nThis market will resolve according to the country in which the next formal senior-level round of peace talks between representatives of the United States and Iran begins by September 30, 2026, 11:59 PM ET.\n\nA qualifying round must be a deliberate in-person diplomatic meeting or negotiating round concerning US-Iran relations, involving senior representatives of both the United States and Iran who are acting in an official capacity and are authorized to conduct or materially direct diplomacy on behalf of their governments.\n\nIndirect in-person diplomacy through designated mediators, facilitators, or interlocutors will qualify, provided senior representatives of both the United States and Iran are participating in the same formal diplomatic process with the knowledge and authorization of their respective governments. The representatives need not be in the same room at the same time.\n\nFollow-on technical talks from the June 22 Switzerland round will not qualify by themselves. Technical, staff-level, working-group, implementation, monitoring, preparatory, or deconfliction meetings will not qualify unless they occur as part of a new formally convened senior-level U.S.-Iran peace-talks round.\n\nBrief greetings, chance encounters, photo opportunities, ceremonial appearances, or talks not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nIf a qualifying round occurs in more than one country, resolution will be based on the country where the first qualifying senior-level diplomatic session begins.\n\nIf the next qualifying round begins in any country in the Middle East or North Africa other than the listed options, this market will resolve to \u201cOther - Middle East/North Africa.\u201d\n\nIf the next qualifying round begins in any country in Europe other than the listed options, this market will resolve to \u201cOther - Europe.\u201d\n\nFor purposes of this market, countries\u2019 regions will be determined based on the U.S. State Department\u2019s regional classifications in the \u201cCountries and Areas List\u201d (https://www.state.gov/countries-and-areas-list). Any country classified as part of \u201cEurope and Eurasia\u201d will be considered to be in Europe. Any country classified as part of \u201cNear East (Middle East and North Africa)\u201d will be considered to be in the Middle East/North Africa.\n\nIf the next qualifying round begins in any unlisted country that is not classified in either specified region, this market will resolve to \u201cOther.\u201d\n\nIf no qualifying round begins by September 30, 2026, 11:59 PM ET, this market will resolve to \u201cNo Meeting by September 30.\u201d\n\nThe resolution sources for this market will be official information from the governments of the United States and Iran, and a consensus of credible reporting.\n",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-meeting-by-9btZGbUg-ikA.jpg",
+            "yes_token_id": "107523124132372283644769807934735893728549188984130286890524409336235096888629",
+            "yes_probability": 0.01,
+            "yes_best_bid": 0.003,
+            "yes_best_ask": 0.01,
+            "yes_spread": 0.007,
+            "no_token_id": "47725862297566640336714598824643813860163538097143542953058926051588297125780",
+            "no_probability": 0.997,
+            "no_best_bid": 0.99,
+            "no_best_ask": 0.997,
+            "no_spread": 0.007000000000000006,
+            "volume": 58864.455754999944,
+            "liquidity": 184407.94999999992,
+            "neg_risk": true,
+            "end_date": "2026-09-30T23:59:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Iran's attack creates a direct need for diplomatic engagement (1 hop).",
+            "event_id": "624242",
+            "event_title": "Where will the next next round of US-Iran peace talks be...?",
+            "event_slug": "where-will-the-next-next-round-of-us-iran-peace-talks-beptptpt-20260623023740663",
+            "detected_yes_price": 0.011,
+            "detected_no_price": 0.996,
+            "detected_at": 1783771476006,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.011,
+            "highest_no_price": 0.996
+          },
+          {
+            "id": "2646850",
+            "slug": "next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+            "condition_id": "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec",
+            "title": "July 31",
+            "question": "US x Iran diplomatic meeting by July 31, 2026?",
+            "description": "On June 22, the first round of U.S.-Iran diplomatic talks in Switzerland concluded, with mediators reporting progress toward a roadmap for a final deal and follow-on technical talks expected to continue.(see: https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks). \n\nThis market will resolve to \u201cYes\u201d if the next formal senior-level round of peace talks between representatives of the United States and Iran begins by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo.\u201d\n\nA qualifying round must be a deliberate in-person diplomatic meeting or negotiating round concerning US-Iran relations, involving senior representatives of both the United States and Iran who are acting in an official capacity and are authorized to conduct or materially direct diplomacy on behalf of their governments.\n\nIndirect in-person diplomacy through designated mediators, facilitators, or interlocutors will qualify, provided senior representatives of both the United States and Iran are participating in the same formal diplomatic process with the knowledge and authorization of their respective governments. The representatives need not be in the same room at the same time.\n\nFollow-on technical talks from the June 22 Switzerland round will not qualify by themselves. Technical, staff-level, working-group, implementation, monitoring, preparatory, or deconfliction meetings will not qualify unless they occur as part of a new formally convened senior-level U.S.-Iran peace-talks round.\n\nBrief greetings, chance encounters, photo opportunities, ceremonial appearances, or talks not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of the United States and Iran, and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-meeting-by-9btZGbUg-ikA.jpg",
+            "yes_token_id": "95676548525614691656970153001244738030704823210041753577158504248850005676647",
+            "yes_probability": 0.34,
+            "yes_best_bid": 0.33,
+            "yes_best_ask": 0.34,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "25763685223319524083191986935913634904809447145745901125985995347509432734794",
+            "no_probability": 0.67,
+            "no_best_bid": 0.66,
+            "no_best_ask": 0.67,
+            "no_spread": 0.010000000000000009,
+            "volume": 923090.7214777188,
+            "liquidity": 1277985.55,
+            "neg_risk": false,
+            "end_date": "2026-07-31T23:59:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Iran's attack creates a direct need for diplomatic engagement (1 hop).",
+            "event_id": "624218",
+            "event_title": "Next round of US-Iran peace talks by...?",
+            "event_slug": "next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+            "detected_yes_price": 0.47,
+            "detected_no_price": 0.54,
+            "detected_at": 1783771476006,
+            "highest_price_change": 0.27777777777777757,
+            "highest_yes_price": 0.47,
+            "highest_no_price": 0.69,
+            "first_moved_at": 1783771485626,
+            "moved_side": "no",
+            "peaked_at": 1783809014303
+          },
+          {
+            "id": "2633429",
+            "slug": "us-iran-final-nuclear-deal-by-20260621201254412",
+            "condition_id": "0xc0aed6d5d893988b4bef5a8242435bbc7c3b45b1e438bcffc9e9bf71d173ae46",
+            "title": "August 18",
+            "question": "US-Iran Final Nuclear Deal by August 18, 2026?",
+            "description": "On June 14, 2026, the United States and Iran announced a written diplomatic agreement, including a 60-day extendable period in which both countries committed to negotiate toward a \u201cfinal deal\u201d regarding Iran\u2019s nuclear program and other topics.\n\nThis market resolves to \u201cYes\u201d if a qualifying written diplomatic instrument between the United States and Iran has been mutually signed or adopted by the specified date, 11:59 PM ET. Otherwise, this market resolves to \u201cNo.\u201d\n\nUnless the written instrument is formally adopted without signature as described below, the instrument must be signed by both the United States and Iran. Both parties must either sign the same document or sign individual documents that substantively and directly indicate acceptance of the same underlying instrument, regardless of minor formatting, wording, or translation differences between the signed versions. Both physical signatures and officially-issued electronic signatures will qualify as signatures.\n\nIf the written instrument is recognized by the United States and Iran as not requiring signature for execution, formal adoption of the instrument by both countries without signature will qualify. Formal adoption may be established by official actions, including:\n\n(i) an official joint statement announcing that the United States and Iran have adopted, approved, executed, concluded, or otherwise finalized the instrument;\n(ii) mutual official confirmation that the same published instrument has been agreed to, adopted, approved, executed, or concluded by both countries;\n(iii) adoption, approval, or endorsement through an official resolution, ministerial decision, executive decision, or equivalent institutional act, where that act is the mechanism by which the relevant country adopts the instrument; or\n(iv) an exchange of official diplomatic notes or letters confirming acceptance of the same instrument.\n\nA qualifying written diplomatic instrument must:\n\n(i) Be identified as the final deal contemplated by the June 14, 2026, memorandum of understanding, either in official United States or Iranian communications, or by a consensus of credible reporting;\n(ii) Establish at least one specific obligation limiting Iran's nuclear program through a concrete, measurable benchmark against which compliance could be tested, which may take the form of a defined limit, prohibition, or quantity (e.g., a specific cap on the purity level to which Iran may enrich uranium, or an explicit commitment for Iran to surrender, destroy, or dilute its enriched uranium stockpile). Non-specific or vague restrictions, with no defined metric (e.g., a pledge not to pursue nuclear weapons, a commitment to maintain the status quo, or an agreement to abide IAEA monitoring or inspections requirements that do not specifically restrict Iran\u2019s nuclear program) will not qualify.\n\nThe content of the qualifying instrument must be expressed as an agreed obligation to be implemented. The following do not qualify: \n\n(i) a provision the substantive obligation of which remains explicitly subject to a future agreement, negotiation process, or mutually agreed follow-on instrument; \n(ii) a provision explicitly framed as a minimum requirement for a future negotiation, rather than a present obligation; \n(iii) a floor, placeholder, or minimum standard established explicitly for the purpose of structuring ongoing or future talks. \n\nA definite and unconditional obligation may qualify, even if technical or procedural details, including the exact implementation date, timeframe, or sequencing, remain subject to future arrangements, provided that the obligation still establishes a concrete, measurable benchmark against which compliance could be tested. Conditional obligations do not qualify.\n\nWhether an instrument qualifies will be primarily determined by its officially released text. A qualifying instrument must be signed or formally adopted by both the United States and Iran by the specified date, 11:59 PM ET. If such an instrument is signed or formally adopted by that time, but the complete text has not been released, and genuine material ambiguity remains as to whether it satisfies this market\u2019s requirements, this market may remain open for up to 28 calendar days after the specified date pending release of the text. If the text has still not been released after 28 calendar days, official and definitive announcements from the United States or Iran, and a consensus of credible reporting, will be used to determine whether the instrument qualifies.\n\nAn instrument to which parties other than the United States and Iran are also party will qualify, provided that both the United States and Iran are parties to the instrument and all other requirements are satisfied. \n\nOnce a diplomatic instrument has been signed or formally adopted without signature by both the United States and Iran and confirmed to satisfy the requirements of a qualifying written diplomatic instrument, this market\u2019s condition is met, regardless of whether the instrument later enters into force, is ratified, receives legislative or treaty consent, or is subsequently repudiated, withdrawn from, or not implemented by the United States or Iran.\n\nThe primary resolution sources for this market will be official communications from the governments of the United States and Iran, or their authorized representatives. A consensus of credible reporting from major news agencies of record may also be used.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-iran-final-nuclear-deal-by-20260621201254412-2M_GeQ8diXxj.jpg",
+            "yes_token_id": "43309871302492165728353651979262158707997256645855453970045994908642223910419",
+            "yes_probability": 0.09,
+            "yes_best_bid": 0.08,
+            "yes_best_ask": 0.09,
+            "yes_spread": 0.009999999999999995,
+            "no_token_id": "24789279481705812837057932935693826732883239464040323924510539194300325407682",
+            "no_probability": 0.92,
+            "no_best_bid": 0.91,
+            "no_best_ask": 0.92,
+            "no_spread": 0.010000000000000009,
+            "volume": 1173466.9914753507,
+            "liquidity": 1529928.4,
+            "neg_risk": false,
+            "end_date": "2026-08-18T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Iran's attack creates a direct need for diplomatic engagement (1 hop).",
+            "event_id": "620025",
+            "event_title": "US-Iran Final Nuclear Deal by\u2026?",
+            "event_slug": "us-iran-final-nuclear-deal-by-20260621201254412",
+            "detected_yes_price": 0.1,
+            "detected_no_price": 0.91,
+            "detected_at": 1783771476006,
+            "highest_price_change": 0.010989010989010999,
+            "highest_yes_price": 0.1,
+            "highest_no_price": 0.92,
+            "first_moved_at": 1783783944579,
+            "moved_side": "no",
+            "peaked_at": 1783783944579
+          }
+        ],
+        "topics": [
+          "ai-tech",
+          "iran-regime",
+          "shutdown"
+        ],
+        "categories": [
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "2646850",
+        "slug": "next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+        "condition_id": "0xb838caec0354e09985f2c228c54ba190cb284f390beda5ffd58d163ba00648ec",
+        "title": "July 31",
+        "question": "US x Iran diplomatic meeting by July 31, 2026?",
+        "description": "On June 22, the first round of U.S.-Iran diplomatic talks in Switzerland concluded, with mediators reporting progress toward a roadmap for a final deal and follow-on technical talks expected to continue.(see: https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks). \n\nThis market will resolve to \u201cYes\u201d if the next formal senior-level round of peace talks between representatives of the United States and Iran begins by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo.\u201d\n\nA qualifying round must be a deliberate in-person diplomatic meeting or negotiating round concerning US-Iran relations, involving senior representatives of both the United States and Iran who are acting in an official capacity and are authorized to conduct or materially direct diplomacy on behalf of their governments.\n\nIndirect in-person diplomacy through designated mediators, facilitators, or interlocutors will qualify, provided senior representatives of both the United States and Iran are participating in the same formal diplomatic process with the knowledge and authorization of their respective governments. The representatives need not be in the same room at the same time.\n\nFollow-on technical talks from the June 22 Switzerland round will not qualify by themselves. Technical, staff-level, working-group, implementation, monitoring, preparatory, or deconfliction meetings will not qualify unless they occur as part of a new formally convened senior-level U.S.-Iran peace-talks round.\n\nBrief greetings, chance encounters, photo opportunities, ceremonial appearances, or talks not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nThe resolution sources for this market will be official information from the governments of the United States and Iran, and a consensus of credible reporting.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-meeting-by-9btZGbUg-ikA.jpg",
+        "yes_token_id": "95676548525614691656970153001244738030704823210041753577158504248850005676647",
+        "yes_probability": 0.34,
+        "yes_best_bid": 0.33,
+        "yes_best_ask": 0.34,
+        "yes_spread": 0.010000000000000009,
+        "no_token_id": "25763685223319524083191986935913634904809447145745901125985995347509432734794",
+        "no_probability": 0.67,
+        "no_best_bid": 0.66,
+        "no_best_ask": 0.67,
+        "no_spread": 0.010000000000000009,
+        "volume": 923090.7214777188,
+        "liquidity": 1277985.55,
+        "neg_risk": false,
+        "end_date": "2026-07-31T23:59:00Z",
+        "categories": [
+          "politics",
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Iran's attack creates a direct need for diplomatic engagement (1 hop).",
+        "event_id": "624218",
+        "event_title": "Next round of US-Iran peace talks by...?",
+        "event_slug": "next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+        "detected_yes_price": 0.47,
+        "detected_no_price": 0.54,
+        "detected_at": 1783771476006,
+        "highest_price_change": 0.27777777777777757,
+        "highest_yes_price": 0.47,
+        "highest_no_price": 0.69,
+        "first_moved_at": 1783771485626,
+        "moved_side": "no",
+        "peaked_at": 1783809014303
+      },
+      "_scraped_at": "2026-07-11T23:44:55.173850+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 6,
+      "feed_item": {
+        "id": "ceef3655-bef6-42b3-b08b-41e62eb539ea",
+        "timestamp": 1783729741029,
+        "tweet": null,
+        "news": {
+          "feed_item_id": "ceef3655-bef6-42b3-b08b-41e62eb539ea",
+          "headline": "US pain at the pump worsens after more US-Iran fighting lifts oil prices",
+          "description": "U.S. drivers have seen gasoline prices climb again after weeks \u200bof steady declines, as renewed fighting between the U.S. and Iran lifted crudeoilprices to their biggest weekly rise in eight weeks.",
+          "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/HS3AJ4P54ROEDJB22SMU5STQBQ.jpg",
+          "url": "https://www.reuters.com/business/energy/us-pain-pump-worsens-after-more-us-iran-fighting-lifts-oil-prices-2026-07-10/",
+          "timestamp": 1783729741029,
+          "source": "reuters"
+        },
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "IR",
+        "countries": [
+          "IR",
+          "US"
+        ],
+        "related_markets": [
+          {
+            "id": "2849355",
+            "slug": "us-reissues-iran-oil-sales-sanction-relief-byptptpt-20260708142359046",
+            "condition_id": "0x8a0beb83f19c24d8682e63ec020d689e4b0582fe830cd9416bd041644153a6d6",
+            "title": "July 31",
+            "question": "US reissues Iran oil sanction relief by July 31?",
+            "description": "On July 7, 2026, the United States revoked a sanctions waiver, \u201cGeneral License X,\u201d which allowed for the sale of Iranian oil (see: https://thehill.com/policy/energy-environment/5957647-iran-oil-sanctions-waiver-strait-of-hormuz/).\n\nThis market will resolve to \u201cYes\u201d if the United States federal government issues a waiver, license, or equivalent sanctions-relief mechanism lifting US sanctions on the sale of Iranian oil, petrochemical products, or petroleum products by the specified date, 11:59 PM ET. Otherwise this market will resolve to \u201cNo\u201d.\n\nActions which direct partial or full sanction relief will both qualify. However, qualifying actions must reverse, remove, waive, or suspend US penalties on the sale of Iranian oil, petrochemical products, or petroleum products, in whole or in part.\n\nQualifying actions need not be permanent; temporary suspensions of sanctions will qualify. Relief issued for either primary or secondary sanctions will qualify. A re-issuance of the initial waiver will qualify. The full removal of any sanction on the sale of Iranian oil, petrochemical products, or petroleum products will also qualify.\n\nContinued sales of Iranian oil allowed during the wind-down period under this revocation order will not qualify. Mere extensions of the wind-down period, without issuance of a new qualifying sanctions-relief action, will not qualify.\n\nOnce a qualifying sanctions relief action has been taken, this market will resolve to \u201cYes,\u201d regardless of any subsequent revocation.\n\nThe primary resolution source for this market will be official information from the United States federal government.",
+            "image": "",
+            "yes_token_id": "91110126423816430289398495588626024873419709802525199838107827741036242920463",
+            "yes_probability": 0.2,
+            "yes_best_bid": 0.19,
+            "yes_best_ask": 0.2,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "99799316356087336773336214313587714534023981587877819751412539238991640378135",
+            "no_probability": 0.81,
+            "no_best_bid": 0.8,
+            "no_best_ask": 0.81,
+            "no_spread": 0.010000000000000009,
+            "volume": 4432.0899475,
+            "liquidity": 293660,
+            "neg_risk": false,
+            "end_date": "2026-07-31T23:59:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "US-Iran fighting affects oil prices, which may influence sanction relief decisions.",
+            "event_id": "681382",
+            "event_title": "US reissues Iran oil sales sanction relief by...?",
+            "event_slug": "us-reissues-iran-oil-sales-sanction-relief-byptptpt-20260708142359046",
+            "detected_yes_price": 0.22,
+            "detected_no_price": 0.81,
+            "detected_at": 1783729747882,
+            "highest_price_change": 2.0909090909090913,
+            "highest_yes_price": 0.68,
+            "highest_no_price": 0.81,
+            "first_moved_at": 1783783057424,
+            "moved_side": "yes",
+            "peaked_at": 1783785909776
+          },
+          {
+            "id": "2849356",
+            "slug": "us-reissues-iran-oil-sales-sanction-relief-byptptpt-20260708142359046",
+            "condition_id": "0x7de40f0990c2598fdaff0d259d0b2bad2dc284d74c510530c740f18394a6771d",
+            "title": "August 31",
+            "question": "US reissues Iran oil sanction relief by August 31?",
+            "description": "On July 7, 2026, the United States revoked a sanctions waiver, \u201cGeneral License X,\u201d which allowed for the sale of Iranian oil (see: https://thehill.com/policy/energy-environment/5957647-iran-oil-sanctions-waiver-strait-of-hormuz/).\n\nThis market will resolve to \u201cYes\u201d if the United States federal government issues a waiver, license, or equivalent sanctions-relief mechanism lifting US sanctions on the sale of Iranian oil, petrochemical products, or petroleum products by the specified date, 11:59 PM ET. Otherwise this market will resolve to \u201cNo\u201d.\n\nActions which direct partial or full sanction relief will both qualify. However, qualifying actions must reverse, remove, waive, or suspend US penalties on the sale of Iranian oil, petrochemical products, or petroleum products, in whole or in part.\n\nQualifying actions need not be permanent; temporary suspensions of sanctions will qualify. Relief issued for either primary or secondary sanctions will qualify. A re-issuance of the initial waiver will qualify. The full removal of any sanction on the sale of Iranian oil, petrochemical products, or petroleum products will also qualify.\n\nContinued sales of Iranian oil allowed during the wind-down period under this revocation order will not qualify. Mere extensions of the wind-down period, without issuance of a new qualifying sanctions-relief action, will not qualify.\n\nOnce a qualifying sanctions relief action has been taken, this market will resolve to \u201cYes,\u201d regardless of any subsequent revocation.\n\nThe primary resolution source for this market will be official information from the United States federal government.",
+            "image": "",
+            "yes_token_id": "3973224149087240647803856257676739686601799580849908129582454306490811754905",
+            "yes_probability": 0.33,
+            "yes_best_bid": 0.32,
+            "yes_best_ask": 0.33,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "80400842851987225680167932398422663044133793733584459608822552602210158145232",
+            "no_probability": 0.68,
+            "no_best_bid": 0.67,
+            "no_best_ask": 0.68,
+            "no_spread": 0.010000000000000009,
+            "volume": 1085.9131994500005,
+            "liquidity": 290233.8199999999,
+            "neg_risk": false,
+            "end_date": "2026-08-31T23:59:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 5,
+            "impact_level": "low",
+            "impact_reason": "Renewed fighting impacts oil prices, potentially affecting sanction relief timelines.",
+            "event_id": "681382",
+            "event_title": "US reissues Iran oil sales sanction relief by...?",
+            "event_slug": "us-reissues-iran-oil-sales-sanction-relief-byptptpt-20260708142359046",
+            "detected_yes_price": 0.42,
+            "detected_no_price": 0.5900000000000001,
+            "detected_at": 1783729747882,
+            "highest_price_change": 0.21428571428571436,
+            "highest_yes_price": 0.51,
+            "highest_no_price": 0.7,
+            "first_moved_at": 1783730358772,
+            "moved_side": "yes",
+            "peaked_at": 1783787438937
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 10,
+            "price": 71.575
+          }
+        ],
+        "topics": [
+          "ai-tech",
+          "shutdown",
+          "iran-regime",
+          "bitcoin"
+        ],
+        "categories": [
+          "finance",
+          "tech",
+          "climate",
+          "crypto"
+        ]
+      },
+      "related_market": {
+        "id": "2849356",
+        "slug": "us-reissues-iran-oil-sales-sanction-relief-byptptpt-20260708142359046",
+        "condition_id": "0x7de40f0990c2598fdaff0d259d0b2bad2dc284d74c510530c740f18394a6771d",
+        "title": "August 31",
+        "question": "US reissues Iran oil sanction relief by August 31?",
+        "description": "On July 7, 2026, the United States revoked a sanctions waiver, \u201cGeneral License X,\u201d which allowed for the sale of Iranian oil (see: https://thehill.com/policy/energy-environment/5957647-iran-oil-sanctions-waiver-strait-of-hormuz/).\n\nThis market will resolve to \u201cYes\u201d if the United States federal government issues a waiver, license, or equivalent sanctions-relief mechanism lifting US sanctions on the sale of Iranian oil, petrochemical products, or petroleum products by the specified date, 11:59 PM ET. Otherwise this market will resolve to \u201cNo\u201d.\n\nActions which direct partial or full sanction relief will both qualify. However, qualifying actions must reverse, remove, waive, or suspend US penalties on the sale of Iranian oil, petrochemical products, or petroleum products, in whole or in part.\n\nQualifying actions need not be permanent; temporary suspensions of sanctions will qualify. Relief issued for either primary or secondary sanctions will qualify. A re-issuance of the initial waiver will qualify. The full removal of any sanction on the sale of Iranian oil, petrochemical products, or petroleum products will also qualify.\n\nContinued sales of Iranian oil allowed during the wind-down period under this revocation order will not qualify. Mere extensions of the wind-down period, without issuance of a new qualifying sanctions-relief action, will not qualify.\n\nOnce a qualifying sanctions relief action has been taken, this market will resolve to \u201cYes,\u201d regardless of any subsequent revocation.\n\nThe primary resolution source for this market will be official information from the United States federal government.",
+        "image": "",
+        "yes_token_id": "3973224149087240647803856257676739686601799580849908129582454306490811754905",
+        "yes_probability": 0.33,
+        "yes_best_bid": 0.32,
+        "yes_best_ask": 0.33,
+        "yes_spread": 0.010000000000000009,
+        "no_token_id": "80400842851987225680167932398422663044133793733584459608822552602210158145232",
+        "no_probability": 0.68,
+        "no_best_bid": 0.67,
+        "no_best_ask": 0.68,
+        "no_spread": 0.010000000000000009,
+        "volume": 1085.9131994500005,
+        "liquidity": 290233.8199999999,
+        "neg_risk": false,
+        "end_date": "2026-08-31T23:59:00Z",
+        "categories": [
+          "politics",
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 5,
+        "impact_level": "low",
+        "impact_reason": "Renewed fighting impacts oil prices, potentially affecting sanction relief timelines.",
+        "event_id": "681382",
+        "event_title": "US reissues Iran oil sales sanction relief by...?",
+        "event_slug": "us-reissues-iran-oil-sales-sanction-relief-byptptpt-20260708142359046",
+        "detected_yes_price": 0.42,
+        "detected_no_price": 0.5900000000000001,
+        "detected_at": 1783729747882,
+        "highest_price_change": 0.21428571428571436,
+        "highest_yes_price": 0.51,
+        "highest_no_price": 0.7,
+        "first_moved_at": 1783730358772,
+        "moved_side": "yes",
+        "peaked_at": 1783787438937
+      },
+      "_scraped_at": "2026-07-11T23:44:55.173850+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 7,
+      "feed_item": {
+        "id": "d90f90bb-6c5d-4a40-a587-d2588df96e52",
+        "timestamp": 1783755720994,
+        "tweet": {
+          "feed_item_id": "d90f90bb-6c5d-4a40-a587-d2588df96e52",
+          "post_id": "2075848066045817097",
+          "post_type": "tweet",
+          "created_at": 1783755720994,
+          "user": {
+            "uid": "3295423333",
+            "handle": "FirstSquawk",
+            "display_name": "First Squawk",
+            "pfp": "https://pbs.twimg.com/profile_images/1039778545738964992/6fl6RNN0.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "Washington demanded written and announced commitments from Iran not to target tankers again",
+          "link": "https://twitter.com/FirstSquawk/status/2075848066045817097"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "US",
+        "countries": [
+          "US",
+          "IR"
+        ],
+        "related_markets": [
+          {
+            "id": "2695629",
+            "slug": "how-many-ships-transit-the-strait-of-hormuz-week-of-june-29-20260626161457728",
+            "condition_id": "0x6217832beaa946eb9532fee7062675c0b3105398428bcee51a04b9171e303733",
+            "title": "125-149",
+            "question": "Will 125-149 ships transit the Strait of Hormuz between June 29-July 5?",
+            "description": "This market will resolve according to the finalized total number of transit calls that IMF Portwatch reports for the Strait of Hormuz for all days from June 29, 2026, through July 5, 2026, inclusive.\n\nTransit calls include container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nData for a specific date must be finalized before it is considered for this market (namely, once the next date's data point is available, the previous one is finalized). \n\nThis market will resolve as soon as data has been finalized for the final date in the specified period. If the data for the final date of the specified period has not been finalized by the end of the third calendar day (ET) after the day on which such data is released, this market will resolve based on data published up to that point. Additionally, if not all relevant data has been released and finalized within 14 calendar days of the end of the specified period, this market will resolve based on data published up to that point.\n\nIn case of obvious data integrity issues (i.e., erroneous data), the market may remain open until the end of the third calendar day (ET) after the date on which such data is first released to allow for corrections. Data integrity issues refer only to clerical or other similar errors in the underlying data, and do not include cases where IMF Portwatch differs from alternative sources.\n\nOnly revisions to previously published data points made before the applicable resolution time will be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+            "image": "",
+            "yes_token_id": "58857495930458745486898752148910352818389273942412090736871263924730334808900",
+            "yes_probability": 0.001,
+            "yes_best_bid": 0,
+            "yes_best_ask": 0.001,
+            "yes_spread": 0.001,
+            "no_token_id": "104275252760713307135535154717021128240953593318122161129350050413491247992415",
+            "no_probability": 1,
+            "no_best_bid": 0.999,
+            "no_best_ask": 1,
+            "no_spread": 0.0010000000000000009,
+            "volume": 5228.975547,
+            "liquidity": 0,
+            "neg_risk": true,
+            "end_date": "2026-07-05T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Washington's demand for commitments directly affects shipping safety (1 hop).",
+            "event_id": "637432",
+            "event_title": "How many ships transit the Strait of Hormuz week of June 29?",
+            "event_slug": "how-many-ships-transit-the-strait-of-hormuz-week-of-june-29-20260626161457728",
+            "detected_yes_price": 0.012,
+            "detected_no_price": 1,
+            "detected_at": 1783755759656,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.012,
+            "highest_no_price": 1
+          },
+          {
+            "id": "2695626",
+            "slug": "how-many-ships-transit-the-strait-of-hormuz-week-of-june-29-20260626161457728",
+            "condition_id": "0x898a76397cab06fd1c14fe6c41b14b7bdd1a2a81c32e2a57cac3e6f8efbeca3e",
+            "title": "<75",
+            "question": "Will fewer than 75 ships transit the Strait of Hormuz between June 29-July 5?",
+            "description": "This market will resolve according to the finalized total number of transit calls that IMF Portwatch reports for the Strait of Hormuz for all days from June 29, 2026, through July 5, 2026, inclusive.\n\nTransit calls include container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nData for a specific date must be finalized before it is considered for this market (namely, once the next date's data point is available, the previous one is finalized). \n\nThis market will resolve as soon as data has been finalized for the final date in the specified period. If the data for the final date of the specified period has not been finalized by the end of the third calendar day (ET) after the day on which such data is released, this market will resolve based on data published up to that point. Additionally, if not all relevant data has been released and finalized within 14 calendar days of the end of the specified period, this market will resolve based on data published up to that point.\n\nIn case of obvious data integrity issues (i.e., erroneous data), the market may remain open until the end of the third calendar day (ET) after the date on which such data is first released to allow for corrections. Data integrity issues refer only to clerical or other similar errors in the underlying data, and do not include cases where IMF Portwatch differs from alternative sources.\n\nOnly revisions to previously published data points made before the applicable resolution time will be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+            "image": "",
+            "yes_token_id": "86645421609276181883191584259759053884879946599002954495406536534333840546218",
+            "yes_probability": 0.001,
+            "yes_best_bid": 0,
+            "yes_best_ask": 0.001,
+            "yes_spread": 0.001,
+            "no_token_id": "44947898507326735614444115460292936887068529399180846949662944511122146372382",
+            "no_probability": 1,
+            "no_best_bid": 0.999,
+            "no_best_ask": 1,
+            "no_spread": 0.0010000000000000009,
+            "volume": 2523.0129250000005,
+            "liquidity": 0,
+            "neg_risk": true,
+            "end_date": "2026-07-05T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Washington's demand for commitments directly affects shipping safety (1 hop).",
+            "event_id": "637432",
+            "event_title": "How many ships transit the Strait of Hormuz week of June 29?",
+            "event_slug": "how-many-ships-transit-the-strait-of-hormuz-week-of-june-29-20260626161457728",
+            "detected_yes_price": 0.001,
+            "detected_no_price": 1,
+            "detected_at": 1783755759656,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.001,
+            "highest_no_price": 1
+          },
+          {
+            "id": "2789985",
+            "slug": "how-many-ships-transit-the-strait-of-hormuz-week-of-july-6-20260703173313706",
+            "condition_id": "0x37305d414c6c0f25296e1436282ff1c63f0cdfaef024efa83254766c32a526dc",
+            "title": "150-174",
+            "question": "Will 150-174 ships transit the Strait of Hormuz between July 6-July 12?",
+            "description": "This market will resolve according to the finalized total number of transit calls that IMF Portwatch reports for the Strait of Hormuz for all days from July 6, 2026, through July 12, 2026, inclusive.\n\nTransit calls include container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nData for a specific date must be finalized before it is considered for this market (namely, once the next date's data point is available, the previous one is finalized). \n\nThis market will resolve as soon as data has been finalized for the final date in the specified period. If the data for the final date of the specified period has not been finalized by the end of the third calendar day (ET) after the day on which such data is released, this market will resolve based on data published up to that point. Additionally, if not all relevant data has been released and finalized within 14 calendar days of the end of the specified period, this market will resolve based on data published up to that point.\n\nIn case of obvious data integrity issues (i.e., erroneous data), the market may remain open until the end of the third calendar day (ET) after the date on which such data is first released to allow for corrections. Data integrity issues refer only to clerical or other similar errors in the underlying data, and do not include cases where IMF Portwatch differs from alternative sources.\n\nOnly revisions to previously published data points made before the applicable resolution time will be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+            "image": "",
+            "yes_token_id": "76705187355202833037980400475879698259542667308414360846496807127641773275421",
+            "yes_probability": 0.2,
+            "yes_best_bid": 0.19,
+            "yes_best_ask": 0.2,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "38036911716778127366011874614317409090491355704081159910719997235165890387618",
+            "no_probability": 0.81,
+            "no_best_bid": 0.8,
+            "no_best_ask": 0.81,
+            "no_spread": 0.010000000000000009,
+            "volume": 22709.48846381998,
+            "liquidity": 495931.99000000005,
+            "neg_risk": true,
+            "end_date": "2026-07-12T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Washington's demand for commitments directly affects shipping safety (1 hop).",
+            "event_id": "664342",
+            "event_title": "How many ships transit the Strait of Hormuz week of July 6?",
+            "event_slug": "how-many-ships-transit-the-strait-of-hormuz-week-of-july-6-20260703173313706",
+            "detected_yes_price": 0.37,
+            "detected_no_price": 0.6799999999999999,
+            "detected_at": 1783755759656,
+            "highest_price_change": 0.20588235294117652,
+            "highest_yes_price": 0.39,
+            "highest_no_price": 0.82,
+            "first_moved_at": 1783756102271,
+            "moved_side": "no",
+            "peaked_at": 1783793902015
+          },
+          {
+            "id": "2789988",
+            "slug": "how-many-ships-transit-the-strait-of-hormuz-week-of-july-6-20260703173313706",
+            "condition_id": "0x1a1b42c8b539ff4bfed50921f7b7dd8df659f68adbce3b4b89a7da6cb8e8883b",
+            "title": "225+",
+            "question": "Will 225 or more ships transit the Strait of Hormuz between July 6-July 12?",
+            "description": "This market will resolve according to the finalized total number of transit calls that IMF Portwatch reports for the Strait of Hormuz for all days from July 6, 2026, through July 12, 2026, inclusive.\n\nTransit calls include container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nData for a specific date must be finalized before it is considered for this market (namely, once the next date's data point is available, the previous one is finalized). \n\nThis market will resolve as soon as data has been finalized for the final date in the specified period. If the data for the final date of the specified period has not been finalized by the end of the third calendar day (ET) after the day on which such data is released, this market will resolve based on data published up to that point. Additionally, if not all relevant data has been released and finalized within 14 calendar days of the end of the specified period, this market will resolve based on data published up to that point.\n\nIn case of obvious data integrity issues (i.e., erroneous data), the market may remain open until the end of the third calendar day (ET) after the date on which such data is first released to allow for corrections. Data integrity issues refer only to clerical or other similar errors in the underlying data, and do not include cases where IMF Portwatch differs from alternative sources.\n\nOnly revisions to previously published data points made before the applicable resolution time will be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+            "image": "",
+            "yes_token_id": "62200072611256101994047009806395160744397800735659077059151732679073345015419",
+            "yes_probability": 0.03,
+            "yes_best_bid": 0.014,
+            "yes_best_ask": 0.03,
+            "yes_spread": 0.016,
+            "no_token_id": "52477231029856005221905746901559407816426391468755852545059269322076729725932",
+            "no_probability": 0.986,
+            "no_best_bid": 0.97,
+            "no_best_ask": 0.986,
+            "no_spread": 0.016000000000000014,
+            "volume": 31053.77349993401,
+            "liquidity": 207934.32999999984,
+            "neg_risk": true,
+            "end_date": "2026-07-12T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Washington's demand for commitments directly affects shipping safety (1 hop).",
+            "event_id": "664342",
+            "event_title": "How many ships transit the Strait of Hormuz week of July 6?",
+            "event_slug": "how-many-ships-transit-the-strait-of-hormuz-week-of-july-6-20260703173313706",
+            "detected_yes_price": 0.009,
+            "detected_no_price": 0.993,
+            "detected_at": 1783755759656,
+            "highest_price_change": 2.4444444444444446,
+            "highest_yes_price": 0.031,
+            "highest_no_price": 0.993,
+            "first_moved_at": 1783783037719,
+            "moved_side": "yes",
+            "peaked_at": 1783796532495
+          },
+          {
+            "id": "2875049",
+            "slug": "how-many-ships-transit-the-strait-of-hormuz-week-of-july-13-20260710152651089",
+            "condition_id": "0x50d04b119c61ded5d0edbcddc78f6ebf6b3e0b6378262c20f2df5f8bae33c992",
+            "title": "175+",
+            "question": "Will 175 or more ships transit the Strait of Hormuz between July 13-July 19?",
+            "description": "This market will resolve according to the finalized total number of transit calls that IMF Portwatch reports for the Strait of Hormuz for all days from July 13, 2026, through July 19, 2026, inclusive.\n\nTransit calls include container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nData for a specific date must be finalized before it is considered for this market (namely, once the next date's data point is available, the previous one is finalized). \n\nThis market will resolve as soon as data has been finalized for the final date in the specified period. If the data for the final date of the specified period has not been finalized by the end of the third calendar day (ET) after the day on which such data is released, this market will resolve based on data published up to that point. Additionally, if not all relevant data has been released and finalized within 14 calendar days of the end of the specified period, this market will resolve based on data published up to that point.\n\nIn case of obvious data integrity issues (i.e., erroneous data), the market may remain open until the end of the third calendar day (ET) after the date on which such data is first released to allow for corrections. Data integrity issues refer only to clerical or other similar errors in the underlying data, and do not include cases where IMF Portwatch differs from alternative sources.\n\nOnly revisions to previously published data points made before the applicable resolution time will be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+            "image": "",
+            "yes_token_id": "13666343277782063430749517937376211040346559551149887243977683506598392215351",
+            "yes_probability": 0.39,
+            "yes_best_bid": 0.06,
+            "yes_best_ask": 0.39,
+            "yes_spread": 0.33,
+            "no_token_id": "13050135319650724221627498360918205078434976548397916848721497035628193274398",
+            "no_probability": 0.94,
+            "no_best_bid": 0.61,
+            "no_best_ask": 0.94,
+            "no_spread": 0.32999999999999996,
+            "volume": 81.78000000000002,
+            "liquidity": 5787.67,
+            "neg_risk": true,
+            "end_date": "2026-07-19T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Washington's demand for commitments directly affects shipping safety (1 hop).",
+            "event_id": "689463",
+            "event_title": "How many ships transit the Strait of Hormuz week of July 13?",
+            "event_slug": "how-many-ships-transit-the-strait-of-hormuz-week-of-july-13-20260710152651089",
+            "detected_yes_price": 0.64,
+            "detected_no_price": 0.92,
+            "detected_at": 1783755759656,
+            "highest_price_change": 0.021739130434782507,
+            "highest_yes_price": 0.64,
+            "highest_no_price": 0.94,
+            "first_moved_at": 1783813064603,
+            "moved_side": "no",
+            "peaked_at": 1783813064603
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 8,
+            "price": 71.459
+          }
+        ],
+        "topics": [
+          "ai-tech",
+          "iran-regime"
+        ],
+        "categories": [
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "2789985",
+        "slug": "how-many-ships-transit-the-strait-of-hormuz-week-of-july-6-20260703173313706",
+        "condition_id": "0x37305d414c6c0f25296e1436282ff1c63f0cdfaef024efa83254766c32a526dc",
+        "title": "150-174",
+        "question": "Will 150-174 ships transit the Strait of Hormuz between July 6-July 12?",
+        "description": "This market will resolve according to the finalized total number of transit calls that IMF Portwatch reports for the Strait of Hormuz for all days from July 6, 2026, through July 12, 2026, inclusive.\n\nTransit calls include container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.\n\nData for a specific date must be finalized before it is considered for this market (namely, once the next date's data point is available, the previous one is finalized). \n\nThis market will resolve as soon as data has been finalized for the final date in the specified period. If the data for the final date of the specified period has not been finalized by the end of the third calendar day (ET) after the day on which such data is released, this market will resolve based on data published up to that point. Additionally, if not all relevant data has been released and finalized within 14 calendar days of the end of the specified period, this market will resolve based on data published up to that point.\n\nIn case of obvious data integrity issues (i.e., erroneous data), the market may remain open until the end of the third calendar day (ET) after the date on which such data is first released to allow for corrections. Data integrity issues refer only to clerical or other similar errors in the underlying data, and do not include cases where IMF Portwatch differs from alternative sources.\n\nOnly revisions to previously published data points made before the applicable resolution time will be considered.\n\nThe resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files.",
+        "image": "",
+        "yes_token_id": "76705187355202833037980400475879698259542667308414360846496807127641773275421",
+        "yes_probability": 0.2,
+        "yes_best_bid": 0.19,
+        "yes_best_ask": 0.2,
+        "yes_spread": 0.010000000000000009,
+        "no_token_id": "38036911716778127366011874614317409090491355704081159910719997235165890387618",
+        "no_probability": 0.81,
+        "no_best_bid": 0.8,
+        "no_best_ask": 0.81,
+        "no_spread": 0.010000000000000009,
+        "volume": 22709.48846381998,
+        "liquidity": 495931.99000000005,
+        "neg_risk": true,
+        "end_date": "2026-07-12T23:59:00Z",
+        "categories": [
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Washington's demand for commitments directly affects shipping safety (1 hop).",
+        "event_id": "664342",
+        "event_title": "How many ships transit the Strait of Hormuz week of July 6?",
+        "event_slug": "how-many-ships-transit-the-strait-of-hormuz-week-of-july-6-20260703173313706",
+        "detected_yes_price": 0.37,
+        "detected_no_price": 0.6799999999999999,
+        "detected_at": 1783755759656,
+        "highest_price_change": 0.20588235294117652,
+        "highest_yes_price": 0.39,
+        "highest_no_price": 0.82,
+        "first_moved_at": 1783756102271,
+        "moved_side": "no",
+        "peaked_at": 1783793902015
+      },
+      "_scraped_at": "2026-07-11T23:44:55.173850+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "global_tension_score": 70,
+      "global_tension_level": "HIGH",
+      "countries": [
+        {
+          "country": "IR",
+          "count": 42,
+          "recent": [
+            {
+              "id": "93c2ba92-b06a-45b7-8606-4249671406d7",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783812727342
+            },
+            {
+              "id": "75117760-92cb-4230-a92d-16e7dea64710",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1783794189300
+            },
+            {
+              "id": "03dbbaa5-26e6-49e7-b336-d4c66717fcc7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783813147630
+            },
+            {
+              "id": "5ebf4007-6db9-47f0-9f39-cf697d1649f5",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1783813342625
+            },
+            {
+              "id": "cbb44db6-45cb-4c90-bc5e-974e5c89cb09",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783808167778
+            },
+            {
+              "id": "2bff4a2f-5ffe-44f6-be6e-5698030aa04c",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1783813325766
+            },
+            {
+              "id": "087c6c40-06fa-4b12-a635-18539b24a27a",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783812847644
+            },
+            {
+              "id": "1049a3d4-7578-462b-aa68-fbb8df50f90f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783813207628
+            },
+            {
+              "id": "7c0ff108-a749-46d8-ad80-7309b04ac08c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783809157748
+            },
+            {
+              "id": "312cf7aa-b1a1-4f61-a2f8-a589a74c2f57",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783810627704
+            },
+            {
+              "id": "456fb3bd-4370-4661-b68f-d7de0d5a4342",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783811662824
+            },
+            {
+              "id": "d8131d4c-fe65-494c-b3a4-a03645a22c44",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783812442770
+            },
+            {
+              "id": "2d73d532-b0b1-44fb-a015-d974c5554eca",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783811407899
+            },
+            {
+              "id": "358bbcf0-1305-4631-b68e-b424760459f8",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783813434259
+            },
+            {
+              "id": "5bb4fbc7-4dc3-455e-982e-d173f7e1e7dd",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783811947666
+            },
+            {
+              "id": "388d8b9a-5105-40ad-9451-0ce8384614b3",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783812427660
+            },
+            {
+              "id": "c73611e9-108f-4908-a44a-398fc8b1d201",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783812967635
+            },
+            {
+              "id": "c4db9171-4a6d-427d-8c08-ac0c9d5b96aa",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783808481624
+            },
+            {
+              "id": "125db8ce-57e7-4f4a-9780-abbc31985cf0",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783792114251
+            },
+            {
+              "id": "bda2fe94-2a0d-4a53-9fc3-c73371809546",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783812442653
+            },
+            {
+              "id": "1f325de6-3af7-4d14-9888-c9e574b25f5b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783812127660
+            },
+            {
+              "id": "56a31128-c8d5-48b9-b459-d5659642f674",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783813147630
+            },
+            {
+              "id": "2c18ebf3-b025-4a81-ad8f-dae4fe42a04e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783809367740
+            },
+            {
+              "id": "8b4e1fe9-3487-4543-82d7-b4d43a337b0a",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783812187659
+            },
+            {
+              "id": "b6702f30-f22a-48c0-8878-79bd6890e071",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783802558668
+            }
+          ],
+          "volume": 81473091.21308054,
+          "critical_signals": 4,
+          "high_signals": 35,
+          "low_signals": 3
+        },
+        {
+          "country": "US",
+          "count": 20,
+          "recent": [
+            {
+              "id": "94de3d24-64b5-464c-8ee8-8e5f9109beae",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783811167689
+            },
+            {
+              "id": "75117760-92cb-4230-a92d-16e7dea64710",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1783794189300
+            },
+            {
+              "id": "5ebf4007-6db9-47f0-9f39-cf697d1649f5",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1783813342625
+            },
+            {
+              "id": "cbb44db6-45cb-4c90-bc5e-974e5c89cb09",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783808167778
+            },
+            {
+              "id": "2bff4a2f-5ffe-44f6-be6e-5698030aa04c",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1783813325766
+            },
+            {
+              "id": "9df4ea81-7457-436d-9ded-b32cd24026a7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783813267628
+            },
+            {
+              "id": "c4db9171-4a6d-427d-8c08-ac0c9d5b96aa",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783808481624
+            },
+            {
+              "id": "125db8ce-57e7-4f4a-9780-abbc31985cf0",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783792114251
+            },
+            {
+              "id": "56a31128-c8d5-48b9-b459-d5659642f674",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783813147630
+            },
+            {
+              "id": "2c18ebf3-b025-4a81-ad8f-dae4fe42a04e",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783809367740
+            },
+            {
+              "id": "b6702f30-f22a-48c0-8878-79bd6890e071",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783802558668
+            },
+            {
+              "id": "beba77db-a32f-44b8-b34c-4abd55fa3f04",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783808353047
+            },
+            {
+              "id": "5c405a30-af2f-48b2-9d63-d8c4929af92b",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783812205575
+            },
+            {
+              "id": "91cc61ad-e7b3-4de2-81b4-e77857dd47c7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783813328582
+            },
+            {
+              "id": "37c7bec1-4e97-4f5b-a21c-687f962b9d70",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783813081500
+            },
+            {
+              "id": "20b01d7b-59c6-4a88-bb4b-14be58f24f1a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783813146238
+            },
+            {
+              "id": "ebc562ed-44cf-46c5-b5fc-ae7bc7bd79f9",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1783808467767
+            },
+            {
+              "id": "fd90efec-8e91-4363-a3bd-8bd32144710c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783804987869
+            },
+            {
+              "id": "0d204e7e-c365-4e81-aefa-8c7643d1b87a",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783809367741
+            },
+            {
+              "id": "60e864f6-62a0-4a03-a94c-03c4ccb813bc",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1783813297626
+            }
+          ],
+          "volume": 78917377.33684139,
+          "critical_signals": 4,
+          "high_signals": 15,
+          "low_signals": 1
+        },
+        {
+          "country": "UA",
+          "count": 7,
+          "recent": [
+            {
+              "id": "a5d3a231-973a-4c49-ad6a-a5da55fe2aca",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783796589170
+            },
+            {
+              "id": "c74dca82-ab0b-42dd-b271-e08ccd770fb9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783800548002
+            },
+            {
+              "id": "e9775377-91cb-476d-a6ff-b2899c925971",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783792988433
+            },
+            {
+              "id": "142bc72e-eb1b-40d4-a8f5-1aa1b7d270e8",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783792688235
+            },
+            {
+              "id": "a116e177-ae42-4502-856c-aca65af6c44f",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783798448183
+            },
+            {
+              "id": "af689c01-d367-4b08-862d-26d394019b45",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783802527943
+            },
+            {
+              "id": "c8f2ad18-7163-46fa-89f5-7dc79aa34d90",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783802123183
+            }
+          ],
+          "volume": 2267640.7472732626,
+          "critical_signals": 0,
+          "high_signals": 6,
+          "low_signals": 1
+        },
+        {
+          "country": "OM",
+          "count": 6,
+          "recent": [
+            {
+              "id": "75117760-92cb-4230-a92d-16e7dea64710",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1783794189300
+            },
+            {
+              "id": "312cf7aa-b1a1-4f61-a2f8-a589a74c2f57",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783810627704
+            },
+            {
+              "id": "c4db9171-4a6d-427d-8c08-ac0c9d5b96aa",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783808481624
+            },
+            {
+              "id": "13c2e7d5-f6d1-4871-8aa7-9d14a4ca7792",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783801567970
+            },
+            {
+              "id": "1fcbb575-a749-41a0-b532-31472bb94386",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783799468034
+            },
+            {
+              "id": "1cbabd58-dead-4e41-ba4f-84bcbbe86417",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783796497794
+            }
+          ],
+          "volume": 731174.9210797914,
+          "critical_signals": 0,
+          "high_signals": 6,
+          "low_signals": 0
+        },
+        {
+          "country": "GB",
+          "count": 6,
+          "recent": [
+            {
+              "id": "a5d3a231-973a-4c49-ad6a-a5da55fe2aca",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783796589170
+            },
+            {
+              "id": "c74dca82-ab0b-42dd-b271-e08ccd770fb9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783800548002
+            },
+            {
+              "id": "e9775377-91cb-476d-a6ff-b2899c925971",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783792988433
+            },
+            {
+              "id": "142bc72e-eb1b-40d4-a8f5-1aa1b7d270e8",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783792688235
+            },
+            {
+              "id": "af689c01-d367-4b08-862d-26d394019b45",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783802527943
+            },
+            {
+              "id": "c8f2ad18-7163-46fa-89f5-7dc79aa34d90",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783802123183
+            }
+          ],
+          "volume": 2267640.7472732626,
+          "critical_signals": 0,
+          "high_signals": 5,
+          "low_signals": 1
+        },
+        {
+          "country": "RU",
+          "count": 6,
+          "recent": [
+            {
+              "id": "a5d3a231-973a-4c49-ad6a-a5da55fe2aca",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783796589170
+            },
+            {
+              "id": "c74dca82-ab0b-42dd-b271-e08ccd770fb9",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783800548002
+            },
+            {
+              "id": "e9775377-91cb-476d-a6ff-b2899c925971",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783792988433
+            },
+            {
+              "id": "142bc72e-eb1b-40d4-a8f5-1aa1b7d270e8",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783792688235
+            },
+            {
+              "id": "af689c01-d367-4b08-862d-26d394019b45",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1783802527943
+            },
+            {
+              "id": "c8f2ad18-7163-46fa-89f5-7dc79aa34d90",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783802123183
+            }
+          ],
+          "volume": 2267640.7472732626,
+          "critical_signals": 0,
+          "high_signals": 5,
+          "low_signals": 1
+        },
+        {
+          "country": "IL",
+          "count": 5,
+          "recent": [
+            {
+              "id": "3f26a6d7-50f9-475f-9fc8-b5fc06f915ae",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1783808978009
+            },
+            {
+              "id": "1dbdefca-001d-41fc-ac03-c4d73f7bbfd3",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1783793327453
+            },
+            {
+              "id": "00a53211-dd6b-4b58-b668-c9c55af242f3",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783797188106
+            },
+            {
+              "id": "27c58909-b2b1-4a73-b01c-d294c5999b83",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1783809413951
+            },
+            {
+              "id": "fd90efec-8e91-4363-a3bd-8bd32144710c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783804987869
+            }
+          ],
+          "volume": 155591.14812314697,
+          "critical_signals": 3,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "BH",
+          "count": 4,
+          "recent": [
+            {
+              "id": "03dbbaa5-26e6-49e7-b336-d4c66717fcc7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783813147630
+            },
+            {
+              "id": "087c6c40-06fa-4b12-a635-18539b24a27a",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783812847644
+            },
+            {
+              "id": "388d8b9a-5105-40ad-9451-0ce8384614b3",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783812427660
+            },
+            {
+              "id": "bda2fe94-2a0d-4a53-9fc3-c73371809546",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783812442653
+            }
+          ],
+          "volume": 43227103.1965046,
+          "critical_signals": 0,
+          "high_signals": 4,
+          "low_signals": 0
+        },
+        {
+          "country": "LB",
+          "count": 3,
+          "recent": [
+            {
+              "id": "1dbdefca-001d-41fc-ac03-c4d73f7bbfd3",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1783793327453
+            },
+            {
+              "id": "00a53211-dd6b-4b58-b668-c9c55af242f3",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783797188106
+            },
+            {
+              "id": "27c58909-b2b1-4a73-b01c-d294c5999b83",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1783809413951
+            }
+          ],
+          "volume": 20548.219816546996,
+          "critical_signals": 2,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "PS",
+          "count": 3,
+          "recent": [
+            {
+              "id": "3f26a6d7-50f9-475f-9fc8-b5fc06f915ae",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1783808978009
+            },
+            {
+              "id": "27c58909-b2b1-4a73-b01c-d294c5999b83",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1783809413951
+            },
+            {
+              "id": "fd90efec-8e91-4363-a3bd-8bd32144710c",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783804987869
+            }
+          ],
+          "volume": 155591.14812314697,
+          "critical_signals": 2,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "CY",
+          "count": 3,
+          "recent": [
+            {
+              "id": "2bff4a2f-5ffe-44f6-be6e-5698030aa04c",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1783813325766
+            },
+            {
+              "id": "91cc61ad-e7b3-4de2-81b4-e77857dd47c7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783813328582
+            },
+            {
+              "id": "60e864f6-62a0-4a03-a94c-03c4ccb813bc",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1783813297626
+            }
+          ],
+          "volume": 40460727.14278954,
+          "critical_signals": 2,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "CN",
+          "count": 1,
+          "recent": [
+            {
+              "id": "4b40ee1d-922a-413a-850c-cf8f749baaea",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783794908362
+            }
+          ],
+          "volume": 2992022.681781002,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "FR",
+          "count": 1,
+          "recent": [
+            {
+              "id": "0001e032-674f-42b7-a2ba-a344131d3dd4",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1783797372373
+            }
+          ],
+          "volume": 1504227.8664283876,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "KW",
+          "count": 1,
+          "recent": [
+            {
+              "id": "03dbbaa5-26e6-49e7-b336-d4c66717fcc7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1783813147630
+            }
+          ],
+          "volume": 923090.7214777188,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        }
+      ],
+      "_scraped_at": "2026-07-11T23:44:55.173850+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
