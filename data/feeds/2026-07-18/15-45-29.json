@@ -1,0 +1,21 @@
+{
+  "scraped_at": "2026-07-18T15:45:19.578127+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 2,
+  "items": [
+    {
+      "valid": false,
+      "_scraped_at": "2026-07-18T15:45:19.578127+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "global_tension_score": 0,
+      "global_tension_level": "LOW",
+      "countries": null,
+      "_scraped_at": "2026-07-18T15:45:19.578127+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
