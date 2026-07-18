@@ -1,0 +1,1058 @@
+{
+  "scraped_at": "2026-07-18T18:48:47.059990+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 4,
+  "items": [
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "23233974-ccf3-4b88-8adb-11d38afe61c6",
+        "timestamp": 1784397879221,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "23233974-ccf3-4b88-8adb-11d38afe61c6",
+          "text": "\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea\ud83c\uddef\ud83c\uddf4\u26a1- Despite Saudi efforts to de-escalate tensions with Sana'a, the Saudi-backed Yemeni Presidential Leadership Council, PLC, has announced a ban on all aircraft entering Yemeni airspace unless they coordinate entry through Aden rather than the Ansarullah government in Sana'a.",
+          "channel": "Rerum Novarum // Intel, Breaking News, and Alerts \ud83c\uddfa\ud83c\uddf8",
+          "timestamp": 1784397879221,
+          "link": "https://t.me/rnintel"
+        },
+        "osint": false,
+        "country": "YE",
+        "countries": [
+          "YE",
+          "SA"
+        ],
+        "related_markets": [
+          {
+            "id": "2929595",
+            "slug": "houthi-military-action-against-saudi-arabia-byptptpt-20260714212508550",
+            "condition_id": "0xad5873e68e236470c7ada70a48e4a1d846e68a5703f352695ea62418781fc9bf",
+            "title": "July 31",
+            "question": "Will there be Houthi military action against Saudi Arabia by July 31, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if the Houthis take a qualifying military action against Saudi Arabia by the specified date, 11:59 PM Arabia Standard Time (AST). Otherwise this market will resolve to \u201cNo.\u201d\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by the Houthis, that directly impacts Saudi Arabia. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action:\nMunitions destroyed or intercepted before impact;\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including short range loitering munitions, FPV drones, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nAny munition that is intercepted or destroyed before impact does not constitute a qualifying military action. Debris, fragments, or any wreckage from intercepted munitions that land on Yemen do not constitute a military action regardless of any damage incurred.\n\n\u201cSaudi Arabia\u201d refers to the terrestrial territory of Saudi Arabia, including its internal waters. Saudi Arabia\u2019s maritime territory and airspace are not encompassed. Where territorial borders are disputed, all territory claimed by and under the de facto control of Saudi Arabia as of market creation will qualify.\n\nThe occurrence, attribution, and timing of a qualifying military action will be primarily determined based on a consensus of information available from the resolution sources. Where multiple sources conflict regarding the occurrence, attribution, or timing of a relevant military action, this market will remain open until the earlier of: i) the confirmation of the occurrence, attribution, and timing of the action based on a consensus of information available from the resolution sources or ii) 3 full calendar days (AST) from the date of the first credibly reported evidence of the action. If this period would extend past the end date, this market will remain open to allow for 3 full calendar days to pass. If, at the end of the third calendar day, conflicting reports remain as to the occurrence, attribution, or timing of the action, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the government and military of Saudi Arabia, the Houthis and credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/houthi-strike-on-saudi-arabia-by-UkTo6z3BxOZT.jpg",
+            "yes_token_id": "2720277783721923206648877398460634256159488478230220767967160628341163139758",
+            "yes_probability": 0.3,
+            "yes_best_bid": 0.23,
+            "yes_best_ask": 0.3,
+            "yes_spread": 0.06999999999999998,
+            "no_token_id": "73302334995295437886594436517335367322797183477276783312655487413369645750966",
+            "no_probability": 0.77,
+            "no_best_bid": 0.7,
+            "no_best_ask": 0.77,
+            "no_spread": 0.07000000000000006,
+            "volume": 3301.54558,
+            "liquidity": 47087.51,
+            "neg_risk": false,
+            "end_date": "2026-07-31T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Ban on aircraft entering Yemen indicates increased military tensions (1 hop).",
+            "event_id": "704760",
+            "event_title": "Houthi military action against Saudi Arabia by...?",
+            "event_slug": "houthi-military-action-against-saudi-arabia-byptptpt-20260714212508550",
+            "detected_yes_price": 0.31,
+            "detected_no_price": 0.74,
+            "detected_at": 1784397908205,
+            "highest_price_change": 0.04054054054054058,
+            "highest_yes_price": 0.32,
+            "highest_no_price": 0.77,
+            "first_moved_at": 1784397914496,
+            "moved_side": "no",
+            "peaked_at": 1784398352755
+          },
+          {
+            "id": "2928900",
+            "slug": "saudi-arabia-military-action-against-yemen-byptptpt-20260714210903830",
+            "condition_id": "0x8887cae11bae1bd8ded449fffdfa581f9dc1c6920ec5fef17239b07287013c98",
+            "title": "July 17",
+            "question": "Will there be Saudi Arabian military action against Yemen by July 17, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if Saudi Arabia takes a qualifying military action against Yemen by the specified date, 11:59 PM Arabia Standard Time (AST). Otherwise this market will resolve to \u201cNo.\u201d\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by Saudi Arabia, that directly impacts Yemen. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action:\nMunitions destroyed or intercepted before impact;\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including short range loitering munitions, FPV drones, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nAny munition that is intercepted or destroyed before impact does not constitute a qualifying military action. Debris, fragments, or any wreckage from intercepted munitions that land on Yemen do not constitute a military action regardless of any damage incurred.\n\n\u201cYemen\u201d refers to the territory within the internationally recognized borders of Yemen. If the precise location of a strike cannot be clearly attributed to the defined territory, it will not qualify.\n\nThe occurrence, attribution, and timing of a qualifying military action will be primarily determined based on a consensus of information available from the resolution sources. Where multiple sources conflict regarding the occurrence, attribution, or timing of a relevant military action, this market will remain open until the earlier of: i) the confirmation of the occurrence, attribution, and timing of the action based on a consensus of information available from the resolution sources or ii) 3 full calendar days (AST) from the date of the first credibly reported evidence of the action. If this period would extend past the end date, this market will remain open to allow for 3 full calendar days to pass. If, at the end of the third calendar day, conflicting reports remain as to the occurrence, attribution, or timing of the action, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the governments and militaries of Saudi Arabia and Yemen and credible reporting.\n",
+            "image": "",
+            "yes_token_id": "113884261722007107488475755438979893688415601491791845629290403089403329483418",
+            "yes_probability": 0.083,
+            "yes_best_bid": 0.009,
+            "yes_best_ask": 0.083,
+            "yes_spread": 0.07400000000000001,
+            "no_token_id": "49625697483185909094391065849563419424366528084989769684110852877341002495474",
+            "no_probability": 0.991,
+            "no_best_bid": 0.917,
+            "no_best_ask": 0.991,
+            "no_spread": 0.07399999999999995,
+            "volume": 2022.210521,
+            "liquidity": 49170.32000000002,
+            "neg_risk": false,
+            "end_date": "2026-07-17T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Ban on aircraft entering Yemen indicates increased military tensions (1 hop).",
+            "event_id": "704543",
+            "event_title": "Saudi Arabia military action against Yemen by...?",
+            "event_slug": "saudi-arabia-military-action-against-yemen-byptptpt-20260714210903830",
+            "detected_yes_price": 0.015,
+            "detected_no_price": 0.999,
+            "detected_at": 1784397908205,
+            "highest_price_change": 4.533333333333334,
+            "highest_yes_price": 0.083,
+            "highest_no_price": 0.999,
+            "first_moved_at": 1784397909097,
+            "moved_side": "yes",
+            "peaked_at": 1784397909097
+          },
+          {
+            "id": "2929593",
+            "slug": "houthi-military-action-against-saudi-arabia-byptptpt-20260714212508550",
+            "condition_id": "0x31edde7553de5acfafc51962d3d2bb825bfee3b07b6c266f7478a8f063830b22",
+            "title": "July 17",
+            "question": "Will there be Houthi military action against Saudi Arabia by July 17, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if the Houthis take a qualifying military action against Saudi Arabia by the specified date, 11:59 PM Arabia Standard Time (AST). Otherwise this market will resolve to \u201cNo.\u201d\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by the Houthis, that directly impacts Saudi Arabia. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action:\nMunitions destroyed or intercepted before impact;\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including short range loitering munitions, FPV drones, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nAny munition that is intercepted or destroyed before impact does not constitute a qualifying military action. Debris, fragments, or any wreckage from intercepted munitions that land on Yemen do not constitute a military action regardless of any damage incurred.\n\n\u201cSaudi Arabia\u201d refers to the terrestrial territory of Saudi Arabia, including its internal waters. Saudi Arabia\u2019s maritime territory and airspace are not encompassed. Where territorial borders are disputed, all territory claimed by and under the de facto control of Saudi Arabia as of market creation will qualify.\n\nThe occurrence, attribution, and timing of a qualifying military action will be primarily determined based on a consensus of information available from the resolution sources. Where multiple sources conflict regarding the occurrence, attribution, or timing of a relevant military action, this market will remain open until the earlier of: i) the confirmation of the occurrence, attribution, and timing of the action based on a consensus of information available from the resolution sources or ii) 3 full calendar days (AST) from the date of the first credibly reported evidence of the action. If this period would extend past the end date, this market will remain open to allow for 3 full calendar days to pass. If, at the end of the third calendar day, conflicting reports remain as to the occurrence, attribution, or timing of the action, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the government and military of Saudi Arabia, the Houthis and credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/houthi-strike-on-saudi-arabia-by-UkTo6z3BxOZT.jpg",
+            "yes_token_id": "2389652668935213422423810659497636143685416910098691028514543560002992710097",
+            "yes_probability": 0.624,
+            "yes_best_bid": 0.004,
+            "yes_best_ask": 0.624,
+            "yes_spread": 0.62,
+            "no_token_id": "19238962010809461024893187389113525471383849794704927511120034179480188145430",
+            "no_probability": 0.996,
+            "no_best_bid": 0.376,
+            "no_best_ask": 0.996,
+            "no_spread": 0.62,
+            "volume": 818.0287730000003,
+            "liquidity": 52131.07000000003,
+            "neg_risk": false,
+            "end_date": "2026-07-17T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Ban on aircraft entering Yemen indicates increased military tensions (1 hop).",
+            "event_id": "704760",
+            "event_title": "Houthi military action against Saudi Arabia by...?",
+            "event_slug": "houthi-military-action-against-saudi-arabia-byptptpt-20260714212508550",
+            "detected_yes_price": 0.183,
+            "detected_no_price": 0.995,
+            "detected_at": 1784397908205,
+            "highest_price_change": 3.0819672131147544,
+            "highest_yes_price": 0.747,
+            "highest_no_price": 0.997,
+            "first_moved_at": 1784397910998,
+            "moved_side": "yes",
+            "peaked_at": 1784399589908
+          },
+          {
+            "id": "2929594",
+            "slug": "houthi-military-action-against-saudi-arabia-byptptpt-20260714212508550",
+            "condition_id": "0xdd43b704a6d32ca6578c870b76b93e4b493d149db0af6293bebf9732265b2fdf",
+            "title": "July 24",
+            "question": "Will there be Houthi military action against Saudi Arabia by July 24, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if the Houthis take a qualifying military action against Saudi Arabia by the specified date, 11:59 PM Arabia Standard Time (AST). Otherwise this market will resolve to \u201cNo.\u201d\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by the Houthis, that directly impacts Saudi Arabia. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action:\nMunitions destroyed or intercepted before impact;\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including short range loitering munitions, FPV drones, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nAny munition that is intercepted or destroyed before impact does not constitute a qualifying military action. Debris, fragments, or any wreckage from intercepted munitions that land on Yemen do not constitute a military action regardless of any damage incurred.\n\n\u201cSaudi Arabia\u201d refers to the terrestrial territory of Saudi Arabia, including its internal waters. Saudi Arabia\u2019s maritime territory and airspace are not encompassed. Where territorial borders are disputed, all territory claimed by and under the de facto control of Saudi Arabia as of market creation will qualify.\n\nThe occurrence, attribution, and timing of a qualifying military action will be primarily determined based on a consensus of information available from the resolution sources. Where multiple sources conflict regarding the occurrence, attribution, or timing of a relevant military action, this market will remain open until the earlier of: i) the confirmation of the occurrence, attribution, and timing of the action based on a consensus of information available from the resolution sources or ii) 3 full calendar days (AST) from the date of the first credibly reported evidence of the action. If this period would extend past the end date, this market will remain open to allow for 3 full calendar days to pass. If, at the end of the third calendar day, conflicting reports remain as to the occurrence, attribution, or timing of the action, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the government and military of Saudi Arabia, the Houthis and credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/houthi-strike-on-saudi-arabia-by-UkTo6z3BxOZT.jpg",
+            "yes_token_id": "53463045150758545897192204463963233164277093545266592436259576986157141071738",
+            "yes_probability": 0.21,
+            "yes_best_bid": 0.19,
+            "yes_best_ask": 0.21,
+            "yes_spread": 0.01999999999999999,
+            "no_token_id": "45445487667336482188435928949791705774139393716505495858145505301871194748194",
+            "no_probability": 0.81,
+            "no_best_bid": 0.79,
+            "no_best_ask": 0.81,
+            "no_spread": 0.020000000000000018,
+            "volume": 4131.693832000001,
+            "liquidity": 155420.58,
+            "neg_risk": false,
+            "end_date": "2026-07-24T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Ban on aircraft entering Yemen indicates increased military tensions (1 hop).",
+            "event_id": "704760",
+            "event_title": "Houthi military action against Saudi Arabia by...?",
+            "event_slug": "houthi-military-action-against-saudi-arabia-byptptpt-20260714212508550",
+            "detected_yes_price": 0.21,
+            "detected_no_price": 0.81,
+            "detected_at": 1784397908205,
+            "highest_price_change": 0.047619047619047665,
+            "highest_yes_price": 0.22,
+            "highest_no_price": 0.81,
+            "first_moved_at": 1784398389406,
+            "moved_side": "yes",
+            "peaked_at": 1784398389406
+          },
+          {
+            "id": "2928901",
+            "slug": "saudi-arabia-military-action-against-yemen-byptptpt-20260714210903830",
+            "condition_id": "0x16ce89b404293cc019f030b6dec70db23dcbe9430349064b8c26c10ebeb63197",
+            "title": "July 24",
+            "question": "Will there be Saudi Arabian military action against Yemen by July 24, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if Saudi Arabia takes a qualifying military action against Yemen by the specified date, 11:59 PM Arabia Standard Time (AST). Otherwise this market will resolve to \u201cNo.\u201d\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by Saudi Arabia, that directly impacts Yemen. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action:\nMunitions destroyed or intercepted before impact;\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including short range loitering munitions, FPV drones, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nAny munition that is intercepted or destroyed before impact does not constitute a qualifying military action. Debris, fragments, or any wreckage from intercepted munitions that land on Yemen do not constitute a military action regardless of any damage incurred.\n\n\u201cYemen\u201d refers to the territory within the internationally recognized borders of Yemen. If the precise location of a strike cannot be clearly attributed to the defined territory, it will not qualify.\n\nThe occurrence, attribution, and timing of a qualifying military action will be primarily determined based on a consensus of information available from the resolution sources. Where multiple sources conflict regarding the occurrence, attribution, or timing of a relevant military action, this market will remain open until the earlier of: i) the confirmation of the occurrence, attribution, and timing of the action based on a consensus of information available from the resolution sources or ii) 3 full calendar days (AST) from the date of the first credibly reported evidence of the action. If this period would extend past the end date, this market will remain open to allow for 3 full calendar days to pass. If, at the end of the third calendar day, conflicting reports remain as to the occurrence, attribution, or timing of the action, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the governments and militaries of Saudi Arabia and Yemen and credible reporting.\n",
+            "image": "",
+            "yes_token_id": "29497945718969650842179396397615913163503995560506695414286063682954447298744",
+            "yes_probability": 0.28,
+            "yes_best_bid": 0.25,
+            "yes_best_ask": 0.28,
+            "yes_spread": 0.030000000000000027,
+            "no_token_id": "54563519961820746786320836500165047401026689577886362706800258870231594899293",
+            "no_probability": 0.75,
+            "no_best_bid": 0.72,
+            "no_best_ask": 0.75,
+            "no_spread": 0.030000000000000027,
+            "volume": 5136.064428999998,
+            "liquidity": 81989.78,
+            "neg_risk": false,
+            "end_date": "2026-07-24T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Ban on aircraft entering Yemen indicates increased military tensions (1 hop).",
+            "event_id": "704543",
+            "event_title": "Saudi Arabia military action against Yemen by...?",
+            "event_slug": "saudi-arabia-military-action-against-yemen-byptptpt-20260714210903830",
+            "detected_yes_price": 0.26,
+            "detected_no_price": 0.76,
+            "detected_at": 1784397908205,
+            "highest_price_change": 0.07692307692307698,
+            "highest_yes_price": 0.28,
+            "highest_no_price": 0.76,
+            "first_moved_at": 1784398285386,
+            "moved_side": "yes",
+            "peaked_at": 1784398285386
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 8,
+            "price": 83.391
+          }
+        ],
+        "topics": [
+          "ai-tech",
+          "shutdown"
+        ],
+        "categories": [
+          "politics",
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "2929593",
+        "slug": "houthi-military-action-against-saudi-arabia-byptptpt-20260714212508550",
+        "condition_id": "0x31edde7553de5acfafc51962d3d2bb825bfee3b07b6c266f7478a8f063830b22",
+        "title": "July 17",
+        "question": "Will there be Houthi military action against Saudi Arabia by July 17, 2026?",
+        "description": "This market will resolve to \u201cYes\u201d if the Houthis take a qualifying military action against Saudi Arabia by the specified date, 11:59 PM Arabia Standard Time (AST). Otherwise this market will resolve to \u201cNo.\u201d\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by the Houthis, that directly impacts Saudi Arabia. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action:\nMunitions destroyed or intercepted before impact;\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including short range loitering munitions, FPV drones, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nAny munition that is intercepted or destroyed before impact does not constitute a qualifying military action. Debris, fragments, or any wreckage from intercepted munitions that land on Yemen do not constitute a military action regardless of any damage incurred.\n\n\u201cSaudi Arabia\u201d refers to the terrestrial territory of Saudi Arabia, including its internal waters. Saudi Arabia\u2019s maritime territory and airspace are not encompassed. Where territorial borders are disputed, all territory claimed by and under the de facto control of Saudi Arabia as of market creation will qualify.\n\nThe occurrence, attribution, and timing of a qualifying military action will be primarily determined based on a consensus of information available from the resolution sources. Where multiple sources conflict regarding the occurrence, attribution, or timing of a relevant military action, this market will remain open until the earlier of: i) the confirmation of the occurrence, attribution, and timing of the action based on a consensus of information available from the resolution sources or ii) 3 full calendar days (AST) from the date of the first credibly reported evidence of the action. If this period would extend past the end date, this market will remain open to allow for 3 full calendar days to pass. If, at the end of the third calendar day, conflicting reports remain as to the occurrence, attribution, or timing of the action, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the government and military of Saudi Arabia, the Houthis and credible reporting.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/houthi-strike-on-saudi-arabia-by-UkTo6z3BxOZT.jpg",
+        "yes_token_id": "2389652668935213422423810659497636143685416910098691028514543560002992710097",
+        "yes_probability": 0.624,
+        "yes_best_bid": 0.004,
+        "yes_best_ask": 0.624,
+        "yes_spread": 0.62,
+        "no_token_id": "19238962010809461024893187389113525471383849794704927511120034179480188145430",
+        "no_probability": 0.996,
+        "no_best_bid": 0.376,
+        "no_best_ask": 0.996,
+        "no_spread": 0.62,
+        "volume": 818.0287730000003,
+        "liquidity": 52131.07000000003,
+        "neg_risk": false,
+        "end_date": "2026-07-17T23:59:00Z",
+        "categories": [
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Ban on aircraft entering Yemen indicates increased military tensions (1 hop).",
+        "event_id": "704760",
+        "event_title": "Houthi military action against Saudi Arabia by...?",
+        "event_slug": "houthi-military-action-against-saudi-arabia-byptptpt-20260714212508550",
+        "detected_yes_price": 0.183,
+        "detected_no_price": 0.995,
+        "detected_at": 1784397908205,
+        "highest_price_change": 3.0819672131147544,
+        "highest_yes_price": 0.747,
+        "highest_no_price": 0.997,
+        "first_moved_at": 1784397910998,
+        "moved_side": "yes",
+        "peaked_at": 1784399589908
+      },
+      "_scraped_at": "2026-07-18T18:48:47.059990+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 2,
+      "feed_item": {
+        "id": "370bb8fc-f330-4d9b-adc3-213a3bf76d30",
+        "timestamp": 1784394024334,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "370bb8fc-f330-4d9b-adc3-213a3bf76d30",
+          "text": "Iran hits Gulf states and Jordan after seventh night of US strikes\n\nIran launched more attacks on Washington's Gulf allies and \u200bJordan on Saturday after a seventh straight night of U.S. strikes on Iranian military targets, escalating the war one week after a ceasefire collapsed.\n\nKuwait came under sustained attack, with a \u200cdesalination plant hit and operations at Kuwait International Airport suspended due to repeated missile and drone threats.\n\nread more",
+          "channel": "Reuters: World",
+          "timestamp": 1784394024334,
+          "link": "https://t.me/ReutersWorldChannel"
+        },
+        "osint": false,
+        "country": "US",
+        "countries": [
+          "US",
+          "IR",
+          "JO",
+          "KW"
+        ],
+        "related_markets": [
+          {
+            "id": "2851424",
+            "slug": "iran-military-action-against-a-gulf-state-onptptpt-20260708212328295",
+            "condition_id": "0x27712cb667d3e589ae890dd01ccb744c5346741a1361d37025b55ae78bd8d97a",
+            "title": "July 19",
+            "question": "Iran military action against a Gulf State on July 19?",
+            "description": "This market will resolve to \u201cYes\u201d if Iran takes a qualifying military action against a Gulf State on the specified date Arabia Standard Time (AST). Otherwise this market will resolve to \u201cNo.\u201d\n\nQualifying Gulf States are as follows: Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates.\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by Iran, that directly impacts a Gulf State. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action:\nMunitions destroyed or intercepted before impact;\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including short range loitering munitions, FPV drones, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nAny munition that is intercepted or destroyed before impact does not constitute a qualifying military action. Debris, fragments, or any wreckage from intercepted munitions that land on a Gulf State do not constitute a military action regardless of any damage incurred.\n\nA military action will be considered to impact a Gulf State if it directly impacts the terrestrial territory of a Gulf State, including any internal waters. Maritime territory and airspace are not encompassed. Where territorial borders are disputed, all territory claimed by and under the de facto control of the relevant state as of market creation will qualify.\n\nThe occurrence, attribution, and timing of a qualifying military action will be primarily determined based on a consensus of information available from the resolution sources. Where multiple sources conflict regarding the occurrence, attribution, or timing of a relevant military action, this market will remain open until the earlier of: i) the confirmation of the occurrence, attribution, and timing of the action based on a consensus of information available from the resolution sources or ii) 3 full calendar days (AST) from the date of the first credibly reported evidence of the action. If this period would extend past the end date, this market will remain open to allow for 3 full calendar days to pass. If, at the end of the third calendar day, conflicting reports remain as to the occurrence, attribution, or timing of the action, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the governments and militaries of Iran and the relevant Gulf States and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-iran-strike-a-gulf-state-on-dw7980wl77hu.jpg",
+            "yes_token_id": "60575817539806759941846705720372810649523436439614823841552698526493799390035",
+            "yes_probability": 0.86,
+            "yes_best_bid": 0.79,
+            "yes_best_ask": 0.86,
+            "yes_spread": 0.06999999999999995,
+            "no_token_id": "29712432541386151395497526987675256547181503740186382119990706836501276997669",
+            "no_probability": 0.21,
+            "no_best_bid": 0.14,
+            "no_best_ask": 0.21,
+            "no_spread": 0.06999999999999998,
+            "volume": 19646.484376310003,
+            "liquidity": 85601.19999999998,
+            "neg_risk": false,
+            "end_date": "2026-07-19T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Escalation in military actions indicates a high probability of further strikes (1 hop).",
+            "event_id": "682091",
+            "event_title": "Iran military action against a gulf state on...?",
+            "event_slug": "iran-military-action-against-a-gulf-state-onptptpt-20260708212328295",
+            "detected_yes_price": 0.75,
+            "detected_no_price": 0.26,
+            "detected_at": 1784394041272,
+            "highest_price_change": 0.17333333333333334,
+            "highest_yes_price": 0.88,
+            "highest_no_price": 0.29,
+            "first_moved_at": 1784394273511,
+            "moved_side": "yes",
+            "peaked_at": 1784400416072
+          },
+          {
+            "id": "2851425",
+            "slug": "iran-military-action-against-a-gulf-state-onptptpt-20260708212328295",
+            "condition_id": "0xe1392afa5a8528ed21382736dd808c190019b7d638e619c1f97f0258ada7a2df",
+            "title": "July 20",
+            "question": "Iran military action against a Gulf State on July 20?",
+            "description": "This market will resolve to \u201cYes\u201d if Iran takes a qualifying military action against a Gulf State on the specified date Arabia Standard Time (AST). Otherwise this market will resolve to \u201cNo.\u201d\n\nQualifying Gulf States are as follows: Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates.\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by Iran, that directly impacts a Gulf State. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action:\nMunitions destroyed or intercepted before impact;\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including short range loitering munitions, FPV drones, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nAny munition that is intercepted or destroyed before impact does not constitute a qualifying military action. Debris, fragments, or any wreckage from intercepted munitions that land on a Gulf State do not constitute a military action regardless of any damage incurred.\n\nA military action will be considered to impact a Gulf State if it directly impacts the terrestrial territory of a Gulf State, including any internal waters. Maritime territory and airspace are not encompassed. Where territorial borders are disputed, all territory claimed by and under the de facto control of the relevant state as of market creation will qualify.\n\nThe occurrence, attribution, and timing of a qualifying military action will be primarily determined based on a consensus of information available from the resolution sources. Where multiple sources conflict regarding the occurrence, attribution, or timing of a relevant military action, this market will remain open until the earlier of: i) the confirmation of the occurrence, attribution, and timing of the action based on a consensus of information available from the resolution sources or ii) 3 full calendar days (AST) from the date of the first credibly reported evidence of the action. If this period would extend past the end date, this market will remain open to allow for 3 full calendar days to pass. If, at the end of the third calendar day, conflicting reports remain as to the occurrence, attribution, or timing of the action, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the governments and militaries of Iran and the relevant Gulf States and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-iran-strike-a-gulf-state-on-dw7980wl77hu.jpg",
+            "yes_token_id": "26200848093962890271666876148218993995385329651543834868496581438376329103946",
+            "yes_probability": 0.71,
+            "yes_best_bid": 0.7,
+            "yes_best_ask": 0.71,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "70752534070173123983607648700450031377021698438725710874720922239392290964423",
+            "no_probability": 0.3,
+            "no_best_bid": 0.29,
+            "no_best_ask": 0.3,
+            "no_spread": 0.010000000000000009,
+            "volume": 12339.686430000003,
+            "liquidity": 74453.20999999999,
+            "neg_risk": false,
+            "end_date": "2026-07-20T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Continued military escalation indicates a strong possibility of further strikes (1 hop).",
+            "event_id": "682091",
+            "event_title": "Iran military action against a gulf state on...?",
+            "event_slug": "iran-military-action-against-a-gulf-state-onptptpt-20260708212328295",
+            "detected_yes_price": 0.7,
+            "detected_no_price": 0.31999999999999995,
+            "detected_at": 1784394041272,
+            "highest_price_change": 0.0142857142857143,
+            "highest_yes_price": 0.71,
+            "highest_no_price": 0.32,
+            "first_moved_at": 1784394778766,
+            "moved_side": "yes",
+            "peaked_at": 1784394778766
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 9,
+            "price": 82.816
+          }
+        ],
+        "topics": [
+          "ukraine-war",
+          "ai-tech",
+          "iran-regime"
+        ],
+        "categories": [
+          "tech",
+          "world",
+          "climate",
+          "geopolitics"
+        ]
+      },
+      "related_market": {
+        "id": "2851424",
+        "slug": "iran-military-action-against-a-gulf-state-onptptpt-20260708212328295",
+        "condition_id": "0x27712cb667d3e589ae890dd01ccb744c5346741a1361d37025b55ae78bd8d97a",
+        "title": "July 19",
+        "question": "Iran military action against a Gulf State on July 19?",
+        "description": "This market will resolve to \u201cYes\u201d if Iran takes a qualifying military action against a Gulf State on the specified date Arabia Standard Time (AST). Otherwise this market will resolve to \u201cNo.\u201d\n\nQualifying Gulf States are as follows: Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates.\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by Iran, that directly impacts a Gulf State. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action:\nMunitions destroyed or intercepted before impact;\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including short range loitering munitions, FPV drones, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nAny munition that is intercepted or destroyed before impact does not constitute a qualifying military action. Debris, fragments, or any wreckage from intercepted munitions that land on a Gulf State do not constitute a military action regardless of any damage incurred.\n\nA military action will be considered to impact a Gulf State if it directly impacts the terrestrial territory of a Gulf State, including any internal waters. Maritime territory and airspace are not encompassed. Where territorial borders are disputed, all territory claimed by and under the de facto control of the relevant state as of market creation will qualify.\n\nThe occurrence, attribution, and timing of a qualifying military action will be primarily determined based on a consensus of information available from the resolution sources. Where multiple sources conflict regarding the occurrence, attribution, or timing of a relevant military action, this market will remain open until the earlier of: i) the confirmation of the occurrence, attribution, and timing of the action based on a consensus of information available from the resolution sources or ii) 3 full calendar days (AST) from the date of the first credibly reported evidence of the action. If this period would extend past the end date, this market will remain open to allow for 3 full calendar days to pass. If, at the end of the third calendar day, conflicting reports remain as to the occurrence, attribution, or timing of the action, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the governments and militaries of Iran and the relevant Gulf States and a consensus of credible reporting.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-iran-strike-a-gulf-state-on-dw7980wl77hu.jpg",
+        "yes_token_id": "60575817539806759941846705720372810649523436439614823841552698526493799390035",
+        "yes_probability": 0.86,
+        "yes_best_bid": 0.79,
+        "yes_best_ask": 0.86,
+        "yes_spread": 0.06999999999999995,
+        "no_token_id": "29712432541386151395497526987675256547181503740186382119990706836501276997669",
+        "no_probability": 0.21,
+        "no_best_bid": 0.14,
+        "no_best_ask": 0.21,
+        "no_spread": 0.06999999999999998,
+        "volume": 19646.484376310003,
+        "liquidity": 85601.19999999998,
+        "neg_risk": false,
+        "end_date": "2026-07-19T23:59:00Z",
+        "categories": [
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Escalation in military actions indicates a high probability of further strikes (1 hop).",
+        "event_id": "682091",
+        "event_title": "Iran military action against a gulf state on...?",
+        "event_slug": "iran-military-action-against-a-gulf-state-onptptpt-20260708212328295",
+        "detected_yes_price": 0.75,
+        "detected_no_price": 0.26,
+        "detected_at": 1784394041272,
+        "highest_price_change": 0.17333333333333334,
+        "highest_yes_price": 0.88,
+        "highest_no_price": 0.29,
+        "first_moved_at": 1784394273511,
+        "moved_side": "yes",
+        "peaked_at": 1784400416072
+      },
+      "_scraped_at": "2026-07-18T18:48:47.059990+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "valid": false,
+      "_scraped_at": "2026-07-18T18:48:47.059990+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "global_tension_score": 16,
+      "global_tension_level": "LOW",
+      "countries": [
+        {
+          "country": "IR",
+          "count": 18,
+          "recent": [
+            {
+              "id": "dbbe7be7-6a79-4bff-8978-b0c0a2129b92",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784400444144
+            },
+            {
+              "id": "3009efac-9673-49a5-ad09-ff4190daa182",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784400444144
+            },
+            {
+              "id": "69826976-92dc-489d-ba64-015ac01a9268",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784398284208
+            },
+            {
+              "id": "12a3634a-2937-48e1-a6b2-764a83c6ef4b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784397684225
+            },
+            {
+              "id": "a67a8f32-e64a-471f-bd1c-3733f5b89dec",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784396665049
+            },
+            {
+              "id": "5d7151dd-f231-4de1-8392-8a523ccfa6af",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784394185073
+            },
+            {
+              "id": "c5a003eb-939d-45d9-9996-ad658502ed13",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784396662300
+            },
+            {
+              "id": "056ccbed-f343-4d6b-b92d-fba4803969da",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784396111031
+            },
+            {
+              "id": "abc932b8-e365-420d-a0da-767320f36935",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784398644201
+            },
+            {
+              "id": "d76d7401-83da-49d1-9fc5-5c9f649d0f97",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784397510204
+            },
+            {
+              "id": "7b872b2f-8c62-4e5e-8de4-8d6558300102",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784395464849
+            },
+            {
+              "id": "9829f5e3-af39-4ff3-9171-cd654c390d8a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784396099036
+            },
+            {
+              "id": "f7ca3109-5733-4fed-8bdd-dab11ca798aa",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784389926398
+            },
+            {
+              "id": "225a28b7-a8bb-48b1-b5bc-7df7c3b4d491",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784399304177
+            },
+            {
+              "id": "fb811b52-7ff7-4e14-9828-369d71aec661",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784395224299
+            },
+            {
+              "id": "9b7eff4a-67ff-4baf-9612-3d89352d21a5",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784396911379
+            },
+            {
+              "id": "370bb8fc-f330-4d9b-adc3-213a3bf76d30",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784394024334
+            },
+            {
+              "id": "3a82a619-9085-4675-a8e8-8ea4a21d2b07",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784398104214
+            }
+          ],
+          "volume": 51373231.30279135,
+          "critical_signals": 0,
+          "high_signals": 18,
+          "low_signals": 0
+        },
+        {
+          "country": "US",
+          "count": 13,
+          "recent": [
+            {
+              "id": "b656c5dc-52c8-442e-8d30-903d7ed74632",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784396124271
+            },
+            {
+              "id": "69826976-92dc-489d-ba64-015ac01a9268",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784398284208
+            },
+            {
+              "id": "a67a8f32-e64a-471f-bd1c-3733f5b89dec",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784396665049
+            },
+            {
+              "id": "5d7151dd-f231-4de1-8392-8a523ccfa6af",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784394185073
+            },
+            {
+              "id": "c5a003eb-939d-45d9-9996-ad658502ed13",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784396662300
+            },
+            {
+              "id": "7bf61f06-6147-462f-8379-c385ad90a31c",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1784400312248
+            },
+            {
+              "id": "d76d7401-83da-49d1-9fc5-5c9f649d0f97",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784397510204
+            },
+            {
+              "id": "7b872b2f-8c62-4e5e-8de4-8d6558300102",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784395464849
+            },
+            {
+              "id": "9829f5e3-af39-4ff3-9171-cd654c390d8a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784396099036
+            },
+            {
+              "id": "225a28b7-a8bb-48b1-b5bc-7df7c3b4d491",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784399304177
+            },
+            {
+              "id": "fb811b52-7ff7-4e14-9828-369d71aec661",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784395224299
+            },
+            {
+              "id": "9b7eff4a-67ff-4baf-9612-3d89352d21a5",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784396911379
+            },
+            {
+              "id": "370bb8fc-f330-4d9b-adc3-213a3bf76d30",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784394024334
+            }
+          ],
+          "volume": 5071029.760034241,
+          "critical_signals": 1,
+          "high_signals": 12,
+          "low_signals": 0
+        },
+        {
+          "country": "JO",
+          "count": 11,
+          "recent": [
+            {
+              "id": "69826976-92dc-489d-ba64-015ac01a9268",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784398284208
+            },
+            {
+              "id": "a67a8f32-e64a-471f-bd1c-3733f5b89dec",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784396665049
+            },
+            {
+              "id": "c5a003eb-939d-45d9-9996-ad658502ed13",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784396662300
+            },
+            {
+              "id": "056ccbed-f343-4d6b-b92d-fba4803969da",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784396111031
+            },
+            {
+              "id": "abc932b8-e365-420d-a0da-767320f36935",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784398644201
+            },
+            {
+              "id": "d76d7401-83da-49d1-9fc5-5c9f649d0f97",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784397510204
+            },
+            {
+              "id": "7b872b2f-8c62-4e5e-8de4-8d6558300102",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784395464849
+            },
+            {
+              "id": "9829f5e3-af39-4ff3-9171-cd654c390d8a",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784396099036
+            },
+            {
+              "id": "fb811b52-7ff7-4e14-9828-369d71aec661",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784395224299
+            },
+            {
+              "id": "9b7eff4a-67ff-4baf-9612-3d89352d21a5",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784396911379
+            },
+            {
+              "id": "370bb8fc-f330-4d9b-adc3-213a3bf76d30",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784394024334
+            }
+          ],
+          "volume": 6775117.295183264,
+          "critical_signals": 0,
+          "high_signals": 11,
+          "low_signals": 0
+        },
+        {
+          "country": "IL",
+          "count": 11,
+          "recent": [
+            {
+              "id": "12a3634a-2937-48e1-a6b2-764a83c6ef4b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784397684225
+            },
+            {
+              "id": "7a3a1570-0ea3-45b8-8fad-d8ef5f42557c",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1784398404203
+            },
+            {
+              "id": "d39aa245-ed97-414b-b7d5-3febb7bcbae2",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784400006847
+            },
+            {
+              "id": "5d9c3c4a-b3b4-4846-b127-974a1d9a06e3",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784391813883
+            },
+            {
+              "id": "9def0c48-c538-477e-855e-87a3bbe60f50",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784396922792
+            },
+            {
+              "id": "d238fcf4-1e3a-4c35-9ebe-a060511a5648",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784398868706
+            },
+            {
+              "id": "7ef72989-4884-46f9-bfed-27658e44ed6e",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1784390964517
+            },
+            {
+              "id": "ff85a446-d305-4ff9-a450-2a18a8a18908",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784390916686
+            },
+            {
+              "id": "225a28b7-a8bb-48b1-b5bc-7df7c3b4d491",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784399304177
+            },
+            {
+              "id": "745f0c8e-4708-404e-a931-d9f9a362191d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784390853098
+            },
+            {
+              "id": "ab3599ab-ae45-4ffe-bc51-fd854c19c098",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784392319865
+            }
+          ],
+          "volume": 1402375.6582172227,
+          "critical_signals": 2,
+          "high_signals": 9,
+          "low_signals": 0
+        },
+        {
+          "country": "LB",
+          "count": 7,
+          "recent": [
+            {
+              "id": "d39aa245-ed97-414b-b7d5-3febb7bcbae2",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784400006847
+            },
+            {
+              "id": "5d9c3c4a-b3b4-4846-b127-974a1d9a06e3",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784391813883
+            },
+            {
+              "id": "d238fcf4-1e3a-4c35-9ebe-a060511a5648",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784398868706
+            },
+            {
+              "id": "7ef72989-4884-46f9-bfed-27658e44ed6e",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1784390964517
+            },
+            {
+              "id": "ff85a446-d305-4ff9-a450-2a18a8a18908",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784390916686
+            },
+            {
+              "id": "745f0c8e-4708-404e-a931-d9f9a362191d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784390853098
+            },
+            {
+              "id": "ab3599ab-ae45-4ffe-bc51-fd854c19c098",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784392319865
+            }
+          ],
+          "volume": 82228.20871559999,
+          "critical_signals": 1,
+          "high_signals": 6,
+          "low_signals": 0
+        },
+        {
+          "country": "UA",
+          "count": 3,
+          "recent": [
+            {
+              "id": "c7d263c2-1d20-4e83-8eea-443af8fc0947",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784395524451
+            },
+            {
+              "id": "b656c5dc-52c8-442e-8d30-903d7ed74632",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784396124271
+            },
+            {
+              "id": "625b7a72-6a86-4e53-af5b-f948b13fa514",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1784390004592
+            }
+          ],
+          "volume": 895860.3175500028,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 1
+        },
+        {
+          "country": "SA",
+          "count": 2,
+          "recent": [
+            {
+              "id": "12a3634a-2937-48e1-a6b2-764a83c6ef4b",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784397684225
+            },
+            {
+              "id": "23233974-ccf3-4b88-8adb-11d38afe61c6",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784397879221
+            }
+          ],
+          "volume": 203490.01620731002,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "RU",
+          "count": 2,
+          "recent": [
+            {
+              "id": "b656c5dc-52c8-442e-8d30-903d7ed74632",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784396124271
+            },
+            {
+              "id": "d32d58f6-2f2a-4282-9592-a1a0c90d9195",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1784392524586
+            }
+          ],
+          "volume": 1088520.6000870029,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 1
+        },
+        {
+          "country": "GB",
+          "count": 2,
+          "recent": [
+            {
+              "id": "c7d263c2-1d20-4e83-8eea-443af8fc0947",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784395524451
+            },
+            {
+              "id": "b656c5dc-52c8-442e-8d30-903d7ed74632",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784396124271
+            }
+          ],
+          "volume": 893016.9036170029,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "KW",
+          "count": 2,
+          "recent": [
+            {
+              "id": "3009efac-9673-49a5-ad09-ff4190daa182",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784400444144
+            },
+            {
+              "id": "370bb8fc-f330-4d9b-adc3-213a3bf76d30",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784394024334
+            }
+          ],
+          "volume": 44474005.8761484,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "PS",
+          "count": 1,
+          "recent": [
+            {
+              "id": "9def0c48-c538-477e-855e-87a3bbe60f50",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784396922792
+            }
+          ],
+          "volume": 27186.756230999996,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "YE",
+          "count": 1,
+          "recent": [
+            {
+              "id": "23233974-ccf3-4b88-8adb-11d38afe61c6",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784397879221
+            }
+          ],
+          "volume": 15409.543135,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        }
+      ],
+      "_scraped_at": "2026-07-18T18:48:47.059990+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
