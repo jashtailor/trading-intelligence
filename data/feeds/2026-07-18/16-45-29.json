@@ -1,0 +1,150 @@
+{
+  "scraped_at": "2026-07-18T16:45:24.148013+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 2,
+  "items": [
+    {
+      "valid": false,
+      "_scraped_at": "2026-07-18T16:45:24.148013+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "global_tension_score": 4,
+      "global_tension_level": "LOW",
+      "countries": [
+        {
+          "country": "LB",
+          "count": 5,
+          "recent": [
+            {
+              "id": "ff85a446-d305-4ff9-a450-2a18a8a18908",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784390916686
+            },
+            {
+              "id": "745f0c8e-4708-404e-a931-d9f9a362191d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784390853098
+            },
+            {
+              "id": "7ef72989-4884-46f9-bfed-27658e44ed6e",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1784390964517
+            },
+            {
+              "id": "ab3599ab-ae45-4ffe-bc51-fd854c19c098",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784392319865
+            },
+            {
+              "id": "5d9c3c4a-b3b4-4846-b127-974a1d9a06e3",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784391813883
+            }
+          ],
+          "volume": 82213.20871559998,
+          "critical_signals": 1,
+          "high_signals": 4,
+          "low_signals": 0
+        },
+        {
+          "country": "IL",
+          "count": 5,
+          "recent": [
+            {
+              "id": "ff85a446-d305-4ff9-a450-2a18a8a18908",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784390916686
+            },
+            {
+              "id": "745f0c8e-4708-404e-a931-d9f9a362191d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1784390853098
+            },
+            {
+              "id": "7ef72989-4884-46f9-bfed-27658e44ed6e",
+              "kind": "telegram",
+              "impact": "critical",
+              "timestamp": 1784390964517
+            },
+            {
+              "id": "ab3599ab-ae45-4ffe-bc51-fd854c19c098",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784392319865
+            },
+            {
+              "id": "5d9c3c4a-b3b4-4846-b127-974a1d9a06e3",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784391813883
+            }
+          ],
+          "volume": 82213.20871559998,
+          "critical_signals": 1,
+          "high_signals": 4,
+          "low_signals": 0
+        },
+        {
+          "country": "IR",
+          "count": 1,
+          "recent": [
+            {
+              "id": "f7ca3109-5733-4fed-8bdd-dab11ca798aa",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1784389926398
+            }
+          ],
+          "volume": 44406090.045574196,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        },
+        {
+          "country": "UA",
+          "count": 1,
+          "recent": [
+            {
+              "id": "625b7a72-6a86-4e53-af5b-f948b13fa514",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1784390004592
+            }
+          ],
+          "volume": 685318.199161003,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "RU",
+          "count": 1,
+          "recent": [
+            {
+              "id": "d32d58f6-2f2a-4282-9592-a1a0c90d9195",
+              "kind": "telegram",
+              "impact": "low",
+              "timestamp": 1784392524586
+            }
+          ],
+          "volume": 195503.6964699999,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        }
+      ],
+      "_scraped_at": "2026-07-18T16:45:24.148013+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
