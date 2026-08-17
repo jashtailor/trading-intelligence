@@ -1,0 +1,2151 @@
+{
+  "scraped_at": "2026-08-17T11:47:55.282699+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 7,
+  "items": [
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "b3cadd19-07fc-42f1-ad04-df3d9eaec2b7",
+        "timestamp": 1786964284767,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "b3cadd19-07fc-42f1-ad04-df3d9eaec2b7",
+          "text": "\u203c\ufe0f\ud83c\uddf1\ud83c\uddfb\ud83c\uddea\ud83c\uddfa\ud83c\uddf7\ud83c\uddfa Latvia demands $8 BILLION in compensation from EU to cover expenses for cutting ties with Russia\n\nSignificant financial losses struck Riga as trade with Russia is currently placed on halt due to imposed sanctions\n\nYou reap what you sow\n\n@worldpravda",
+          "channel": "World Pravda",
+          "timestamp": 1786964284767,
+          "link": "https://t.me/worldpravda"
+        },
+        "osint": false,
+        "country": "LV",
+        "countries": [
+          "LV",
+          "RU"
+        ],
+        "related_markets": [
+          {
+            "id": "950428",
+            "slug": "latvian-parliamentary-election-winner",
+            "condition_id": "0x48ec3524f7a9cff57d242904dab60158a7df7c5d4e945d40b1335121c2a83e02",
+            "title": "JV",
+            "question": "Will Jaun\u0101 Vienot\u012bba (JV) win the most seats in the 2026 Latvian parliamentary election?",
+            "description": "Parliamentary elections are expected to be held in Latvia on October 3, 2026.\n\nThis market will resolve according to the listed political party or coalition that wins the greatest number of seats in the Latvian Parliament (Saeima) in the next Latvian Parliamentary election. \n\nIn the event of a tie between multiple parties/coalitions for the most seats won, this market will resolve in favor of the party or coalition that received a greater number of valid votes. In the event that results in a tie, this market will resolve in favor of the party or coalition whose listed abbreviation appears first in alphabetical order.\n\nThis market's resolution will be based solely on the number of seats won by the named party or coalition in the Latvian Parliament. If a named coalition dissolves and does not contest this election, the corresponding market will resolve based on the number of seats won by the constituent party within that coalition that held the largest number of seats before the election.\n\nIf the results of this election are not known definitively by June 30, 2027 11:59 PM ET, this market will resolve to \"Other\".\n\nThis market will resolve based on the results of this election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Latvian government, specifically the Latvian Central Election Commission (https://www.cvk.lv/lv).",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/latvian-parliamentary-election-winner-8zD5T-GVOE75.jpg",
+            "yes_token_id": "107344949022881705756108014074686379092436508555603262043897376780923659634728",
+            "yes_probability": 0.017,
+            "yes_best_bid": 0.005,
+            "yes_best_ask": 0.017,
+            "yes_spread": 0.012,
+            "no_token_id": "84368319967241720781930849816884976227397063227339256894190608592030944679882",
+            "no_probability": 0.995,
+            "no_best_bid": 0.983,
+            "no_best_ask": 0.995,
+            "no_spread": 0.01200000000000001,
+            "volume": 12396.610950000008,
+            "liquidity": 184050.80000000008,
+            "neg_risk": true,
+            "end_date": "2026-10-03T00:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Financial losses and demands could shift political dynamics in Latvia's elections.",
+            "event_id": "106954",
+            "event_title": "Latvian Parliamentary Election Winner",
+            "event_slug": "latvian-parliamentary-election-winner",
+            "detected_yes_price": 0.017,
+            "detected_no_price": 0.995,
+            "detected_at": 1786964328124,
+            "highest_price_change": 0.5294117647058821,
+            "highest_yes_price": 0.026,
+            "highest_no_price": 0.995,
+            "first_moved_at": 1786965546591,
+            "moved_side": "yes",
+            "peaked_at": 1786965546591
+          },
+          {
+            "id": "950432",
+            "slug": "latvian-parliamentary-election-winner",
+            "condition_id": "0x1921324ea6280a52493942c2dfe1717abb5d64d4a1c7bac157d13fb549ae1d07",
+            "title": "ST!",
+            "question": "Will Stabilit\u0101tei! (ST!) win the most seats in the 2026 Latvian parliamentary election?",
+            "description": "Parliamentary elections are expected to be held in Latvia on October 3, 2026.\n\nThis market will resolve according to the listed political party or coalition that wins the greatest number of seats in the Latvian Parliament (Saeima) in the next Latvian Parliamentary election. \n\nIn the event of a tie between multiple parties/coalitions for the most seats won, this market will resolve in favor of the party or coalition that received a greater number of valid votes. In the event that results in a tie, this market will resolve in favor of the party or coalition whose listed abbreviation appears first in alphabetical order.\n\nThis market's resolution will be based solely on the number of seats won by the named party or coalition in the Latvian Parliament. If a named coalition dissolves and does not contest this election, the corresponding market will resolve based on the number of seats won by the constituent party within that coalition that held the largest number of seats before the election.\n\nIf the results of this election are not known definitively by June 30, 2027 11:59 PM ET, this market will resolve to \"Other\".\n\nThis market will resolve based on the results of this election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Latvian government, specifically the Latvian Central Election Commission (https://www.cvk.lv/lv).",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/latvian-parliamentary-election-winner-8zD5T-GVOE75.jpg",
+            "yes_token_id": "77755715290154552044157844701270819437720948176500540030755467558533003011891",
+            "yes_probability": 0.003,
+            "yes_best_bid": 0.002,
+            "yes_best_ask": 0.003,
+            "yes_spread": 0.001,
+            "no_token_id": "99666478226674289127496240952770166897456672737686900031478153122509540570648",
+            "no_probability": 0.998,
+            "no_best_bid": 0.997,
+            "no_best_ask": 0.998,
+            "no_spread": 0.0010000000000000009,
+            "volume": 3404.2210869999994,
+            "liquidity": 384158.1899999998,
+            "neg_risk": true,
+            "end_date": "2026-10-03T00:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Financial losses could affect political dynamics in the upcoming elections.",
+            "event_id": "106954",
+            "event_title": "Latvian Parliamentary Election Winner",
+            "event_slug": "latvian-parliamentary-election-winner",
+            "detected_yes_price": 0.003,
+            "detected_no_price": 0.998,
+            "detected_at": 1786964328124,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.003,
+            "highest_no_price": 0.998
+          },
+          {
+            "id": "3358825",
+            "slug": "latvian-parliamentary-election-2nd-place",
+            "condition_id": "0xcccff77578f0b81b11ccfcf3a3a6387182974621b8b4958968a35a367e597dec",
+            "title": "SC",
+            "question": "Will SC come 2nd place in the next Latvian parliamentary elections?",
+            "description": "Parliamentary elections are expected to be held in Latvia on October 3, 2026.\n\nThis market will resolve according to the listed political party or coalition that wins the second-greatest number of seats in the Latvian Parliament (Saeima) in the next Latvian Parliamentary election.\n\nThe named parties and coalitions will be primarily ranked by the number of seats won in the specified election. If two or more parties or coalitions are tied on seats, ties will be broken by the total number of valid votes received by each party or coalition, with higher vote totals ranking higher. If parties or coalitions remain tied, ties will be broken by alphabetical order of the listed party or coalition abbreviations. This market will resolve to the party or coalition that occupies the second finishing position after applying this ranking.\n\nThis market's resolution will be based solely on the number of seats won by the named party or coalition in the Latvian Parliament. If a named coalition dissolves and does not contest this election, the corresponding market will resolve based on the number of seats won by the constituent party within that coalition that held the largest number of seats before the election.\n\nIf the results of this election are not known definitively by June 30, 2027 11:59 PM ET, this market will resolve to \"Other\".\n\nThis market will resolve based on the results of this election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Latvian government, specifically the Latvian Central Election Commission (https://www.cvk.lv/lv).",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/latvia-saeima-2026-sc-b381699bf0.jpg",
+            "yes_token_id": "41274123889979341227276672676866635269668126257802124630041194373771861460137",
+            "yes_probability": 0.002,
+            "yes_best_bid": 0.001,
+            "yes_best_ask": 0.002,
+            "yes_spread": 0.001,
+            "no_token_id": "17383636187611398109242547653777634962594382068686954326123188958525420668271",
+            "no_probability": 0.999,
+            "no_best_bid": 0.998,
+            "no_best_ask": 0.999,
+            "no_spread": 0.0010000000000000009,
+            "volume": 413.84999999999997,
+            "liquidity": 70358.31,
+            "neg_risk": true,
+            "end_date": "2026-10-03T23:59:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Compensation claims could shift voter sentiment in the upcoming elections.",
+            "event_id": "800837",
+            "event_title": "Latvian Parliamentary Election: 2nd Place",
+            "event_slug": "latvian-parliamentary-election-2nd-place",
+            "detected_yes_price": 0.002,
+            "detected_no_price": 0.999,
+            "detected_at": 1786964328124,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.002,
+            "highest_no_price": 0.999
+          },
+          {
+            "id": "3358827",
+            "slug": "latvian-parliamentary-election-2nd-place",
+            "condition_id": "0xb2f8f1c9b5750b7d99d1c62b060b4dffac5b30082fd6b52234b5e9a90b0c15fc",
+            "title": "NA",
+            "question": "Will NA come 2nd place in the next Latvian parliamentary elections?",
+            "description": "Parliamentary elections are expected to be held in Latvia on October 3, 2026.\n\nThis market will resolve according to the listed political party or coalition that wins the second-greatest number of seats in the Latvian Parliament (Saeima) in the next Latvian Parliamentary election.\n\nThe named parties and coalitions will be primarily ranked by the number of seats won in the specified election. If two or more parties or coalitions are tied on seats, ties will be broken by the total number of valid votes received by each party or coalition, with higher vote totals ranking higher. If parties or coalitions remain tied, ties will be broken by alphabetical order of the listed party or coalition abbreviations. This market will resolve to the party or coalition that occupies the second finishing position after applying this ranking.\n\nThis market's resolution will be based solely on the number of seats won by the named party or coalition in the Latvian Parliament. If a named coalition dissolves and does not contest this election, the corresponding market will resolve based on the number of seats won by the constituent party within that coalition that held the largest number of seats before the election.\n\nIf the results of this election are not known definitively by June 30, 2027 11:59 PM ET, this market will resolve to \"Other\".\n\nThis market will resolve based on the results of this election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Latvian government, specifically the Latvian Central Election Commission (https://www.cvk.lv/lv).",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/latvia-saeima-2026-na-6d855afc75.jpg",
+            "yes_token_id": "104897616191143207819257499812395297962967313623564768241929812873055043724630",
+            "yes_probability": 0.092,
+            "yes_best_bid": 0.007,
+            "yes_best_ask": 0.092,
+            "yes_spread": 0.08499999999999999,
+            "no_token_id": "111954456982581654338757469826108459119139268907178241068864125823045790109061",
+            "no_probability": 0.993,
+            "no_best_bid": 0.908,
+            "no_best_ask": 0.993,
+            "no_spread": 0.08499999999999996,
+            "volume": 364.528153,
+            "liquidity": 47631.030000000006,
+            "neg_risk": true,
+            "end_date": "2026-10-03T23:59:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Compensation claims could shift voter sentiment in the upcoming elections.",
+            "event_id": "800837",
+            "event_title": "Latvian Parliamentary Election: 2nd Place",
+            "event_slug": "latvian-parliamentary-election-2nd-place",
+            "detected_yes_price": 0.013,
+            "detected_no_price": 0.997,
+            "detected_at": 1786964328124,
+            "highest_price_change": 16.23076923076923,
+            "highest_yes_price": 0.224,
+            "highest_no_price": 0.997,
+            "first_moved_at": 1786964988121,
+            "moved_side": "yes",
+            "peaked_at": 1786964988121
+          },
+          {
+            "id": "950431",
+            "slug": "latvian-parliamentary-election-winner",
+            "condition_id": "0x212c63d9ac16ea1863f7df52d32e50926de881ea7eaf2bda10ef66139e3c37fc",
+            "title": "NA",
+            "question": "Will Nacion\u0101l\u0101 Apvien\u012bba (NA) win the most seats in the 2026 Latvian parliamentary election?",
+            "description": "Parliamentary elections are expected to be held in Latvia on October 3, 2026.\n\nThis market will resolve according to the listed political party or coalition that wins the greatest number of seats in the Latvian Parliament (Saeima) in the next Latvian Parliamentary election. \n\nIn the event of a tie between multiple parties/coalitions for the most seats won, this market will resolve in favor of the party or coalition that received a greater number of valid votes. In the event that results in a tie, this market will resolve in favor of the party or coalition whose listed abbreviation appears first in alphabetical order.\n\nThis market's resolution will be based solely on the number of seats won by the named party or coalition in the Latvian Parliament. If a named coalition dissolves and does not contest this election, the corresponding market will resolve based on the number of seats won by the constituent party within that coalition that held the largest number of seats before the election.\n\nIf the results of this election are not known definitively by June 30, 2027 11:59 PM ET, this market will resolve to \"Other\".\n\nThis market will resolve based on the results of this election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Latvian government, specifically the Latvian Central Election Commission (https://www.cvk.lv/lv).",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/latvian-parliamentary-election-winner-8zD5T-GVOE75.jpg",
+            "yes_token_id": "111960579183182275277335129263502118647315939517621774235808480436684249082541",
+            "yes_probability": 0.023,
+            "yes_best_bid": 0.014,
+            "yes_best_ask": 0.023,
+            "yes_spread": 0.009,
+            "no_token_id": "81471775915914761268922301368428467580513242759754670138842167470451092646396",
+            "no_probability": 0.986,
+            "no_best_bid": 0.977,
+            "no_best_ask": 0.986,
+            "no_spread": 0.009000000000000008,
+            "volume": 8064.972775999998,
+            "liquidity": 204261.92000000004,
+            "neg_risk": true,
+            "end_date": "2026-10-03T00:00:00Z",
+            "categories": [
+              "politics",
+              "elections"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Compensation demands could shift voter sentiment in the elections.",
+            "event_id": "106954",
+            "event_title": "Latvian Parliamentary Election Winner",
+            "event_slug": "latvian-parliamentary-election-winner",
+            "detected_yes_price": 0.023,
+            "detected_no_price": 0.986,
+            "detected_at": 1786964328124,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.023,
+            "highest_no_price": 0.986
+          }
+        ],
+        "topics": [
+          "ukraine-war"
+        ],
+        "categories": [
+          "world",
+          "geopolitics",
+          "earnings"
+        ]
+      },
+      "related_market": {
+        "id": "3358827",
+        "slug": "latvian-parliamentary-election-2nd-place",
+        "condition_id": "0xb2f8f1c9b5750b7d99d1c62b060b4dffac5b30082fd6b52234b5e9a90b0c15fc",
+        "title": "NA",
+        "question": "Will NA come 2nd place in the next Latvian parliamentary elections?",
+        "description": "Parliamentary elections are expected to be held in Latvia on October 3, 2026.\n\nThis market will resolve according to the listed political party or coalition that wins the second-greatest number of seats in the Latvian Parliament (Saeima) in the next Latvian Parliamentary election.\n\nThe named parties and coalitions will be primarily ranked by the number of seats won in the specified election. If two or more parties or coalitions are tied on seats, ties will be broken by the total number of valid votes received by each party or coalition, with higher vote totals ranking higher. If parties or coalitions remain tied, ties will be broken by alphabetical order of the listed party or coalition abbreviations. This market will resolve to the party or coalition that occupies the second finishing position after applying this ranking.\n\nThis market's resolution will be based solely on the number of seats won by the named party or coalition in the Latvian Parliament. If a named coalition dissolves and does not contest this election, the corresponding market will resolve based on the number of seats won by the constituent party within that coalition that held the largest number of seats before the election.\n\nIf the results of this election are not known definitively by June 30, 2027 11:59 PM ET, this market will resolve to \"Other\".\n\nThis market will resolve based on the results of this election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Latvian government, specifically the Latvian Central Election Commission (https://www.cvk.lv/lv).",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/latvia-saeima-2026-na-6d855afc75.jpg",
+        "yes_token_id": "104897616191143207819257499812395297962967313623564768241929812873055043724630",
+        "yes_probability": 0.092,
+        "yes_best_bid": 0.007,
+        "yes_best_ask": 0.092,
+        "yes_spread": 0.08499999999999999,
+        "no_token_id": "111954456982581654338757469826108459119139268907178241068864125823045790109061",
+        "no_probability": 0.993,
+        "no_best_bid": 0.908,
+        "no_best_ask": 0.993,
+        "no_spread": 0.08499999999999996,
+        "volume": 364.528153,
+        "liquidity": 47631.030000000006,
+        "neg_risk": true,
+        "end_date": "2026-10-03T23:59:00Z",
+        "categories": [
+          "politics",
+          "elections"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Compensation claims could shift voter sentiment in the upcoming elections.",
+        "event_id": "800837",
+        "event_title": "Latvian Parliamentary Election: 2nd Place",
+        "event_slug": "latvian-parliamentary-election-2nd-place",
+        "detected_yes_price": 0.013,
+        "detected_no_price": 0.997,
+        "detected_at": 1786964328124,
+        "highest_price_change": 16.23076923076923,
+        "highest_yes_price": 0.224,
+        "highest_no_price": 0.997,
+        "first_moved_at": 1786964988121,
+        "moved_side": "yes",
+        "peaked_at": 1786964988121
+      },
+      "_scraped_at": "2026-08-17T11:47:55.282699+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 2,
+      "feed_item": {
+        "id": "59687df1-2429-4184-a492-747e2566003e",
+        "timestamp": 1786952565494,
+        "tweet": {
+          "feed_item_id": "59687df1-2429-4184-a492-747e2566003e",
+          "post_id": "2089256603719749851",
+          "post_type": "tweet",
+          "created_at": 1786952565494,
+          "user": {
+            "uid": "3295423333",
+            "handle": "FirstSquawk",
+            "display_name": "First Squawk",
+            "pfp": "https://pbs.twimg.com/profile_images/1039778545738964992/6fl6RNN0_400x400.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "IRAN: INTENSIVE TALKS WITH OMAN CONTINUE ON STRAIT OF HORMUZ",
+          "link": "https://twitter.com/FirstSquawk/status/2089256603719749851"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "OM",
+        "countries": [
+          "OM",
+          "IR"
+        ],
+        "related_markets": [
+          {
+            "id": "3348047",
+            "slug": "iran-oman-hormuz-management-agreement-byptptpt-20260804222725871",
+            "condition_id": "0xf1568f444e1e341e3aceb0e975cb1f88da832301ae54a4fa8e85138072265b7e",
+            "title": "August 15",
+            "question": "Iran-Oman Hormuz Agreement by August 15?",
+            "description": "This market will resolve to \u201cYes\u201d if a diplomatic agreement between Oman and Iran over traffic in the strait of Hormuz is announced by the specified date, 11:59 PM ET.\n\nA diplomatic agreement refers to an official agreement, treaty, deal, or substantially similar diplomatic instrument that establishes agreed actions, policies, obligations, or commitments between Oman and Iran.\n\nA qualifying diplomatic agreement must establish Iranian or Omani policies, obligations, or commitments aimed at managing, permitting, restoring, or increasing vessel or shipping traffic through the Strait of Hormuz, including agreements defining vessel traffic corridors, fee collection policies, or other management policies.\n\nAll listed countries must announce their acceptance of the same qualifying diplomatic agreement for the Payout Condition to be met. A joint announcement will qualify, as will separate announcements from each entity of its own acceptance of an agreement which, taken together, directly indicate that all the listed countries accepted the same agreement. Separate announcements of individual policies will not qualify if the policies are not announced as part of a diplomatic agreement.\n\nEach announcement must be a declarative statement that clearly and unambiguously communicates acceptance of an agreement. Statements that reference ongoing negotiations or a prospective agreement, or that allude to or express support for an agreement without confirming acceptance of the agreement, do not qualify. A qualifying announcement need not reference the agreement by name or use specific terminology, provided it clearly communicates acceptance of an agreement.\n \nWhether announcements from the listed countries represent a diplomatic agreement and whether such an agreement qualifies will be primarily determined through the announcements themselves. Where an announcement is made by all listed countries but, based on the announcements, it remains ambiguous whether the announcements represent a qualifying diplomatic agreement between the countries, this market will remain open until either i) definitive confirmation that the announcements represent a qualifying diplomatic agreement between the listed entities is achieved through further announcements from the listed countries or a consensus of credible reporting or ii) 14 calendar days (ET) have passed after the date that the last country made their first potentially qualifying announcement. If, at the end of the fourteenth calendar day, no definitive confirmation has been achieved, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the governments of Oman and Iran and a consensus of credible reporting.\n",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/iran-oman-hormuz-agreement-byptptpt-20260804222546205-sBj_3dnyimNp.jpg",
+            "yes_token_id": "71291515246065865697464881673640533460377825060659760338752842130576525141987",
+            "yes_probability": 0.004,
+            "yes_best_bid": 0.003,
+            "yes_best_ask": 0.004,
+            "yes_spread": 0.001,
+            "no_token_id": "7042438516335491087880643687919274235663245364683817747286605181481090230485",
+            "no_probability": 0.997,
+            "no_best_bid": 0.996,
+            "no_best_ask": 0.997,
+            "no_spread": 0.0010000000000000009,
+            "volume": 248762.4672602279,
+            "liquidity": 220931.1300000001,
+            "neg_risk": false,
+            "end_date": "2026-08-15T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Ongoing negotiations suggest a strong possibility of reaching an agreement (1 hop).",
+            "event_id": "798490",
+            "event_title": "Iran-Oman Hormuz Management Agreement by...?",
+            "event_slug": "iran-oman-hormuz-management-agreement-byptptpt-20260804222725871",
+            "detected_yes_price": 0.005,
+            "detected_no_price": 0.997,
+            "detected_at": 1786952577573,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.005,
+            "highest_no_price": 0.997
+          },
+          {
+            "id": "3348048",
+            "slug": "iran-oman-hormuz-management-agreement-byptptpt-20260804222725871",
+            "condition_id": "0x1c38a64c494e01c9bd81362cfadeadb3b87023d1d9ffae1df5a428c03152fc74",
+            "title": "August 31",
+            "question": "Iran-Oman Hormuz Agreement by August 31?",
+            "description": "This market will resolve to \u201cYes\u201d if a diplomatic agreement between Oman and Iran over traffic in the strait of Hormuz is announced by the specified date, 11:59 PM ET.\n\nA diplomatic agreement refers to an official agreement, treaty, deal, or substantially similar diplomatic instrument that establishes agreed actions, policies, obligations, or commitments between Oman and Iran.\n\nA qualifying diplomatic agreement must establish Iranian or Omani policies, obligations, or commitments aimed at managing, permitting, restoring, or increasing vessel or shipping traffic through the Strait of Hormuz, including agreements defining vessel traffic corridors, fee collection policies, or other management policies.\n\nAll listed countries must announce their acceptance of the same qualifying diplomatic agreement for the Payout Condition to be met. A joint announcement will qualify, as will separate announcements from each entity of its own acceptance of an agreement which, taken together, directly indicate that all the listed countries accepted the same agreement. Separate announcements of individual policies will not qualify if the policies are not announced as part of a diplomatic agreement.\n\nEach announcement must be a declarative statement that clearly and unambiguously communicates acceptance of an agreement. Statements that reference ongoing negotiations or a prospective agreement, or that allude to or express support for an agreement without confirming acceptance of the agreement, do not qualify. A qualifying announcement need not reference the agreement by name or use specific terminology, provided it clearly communicates acceptance of an agreement.\n \nWhether announcements from the listed countries represent a diplomatic agreement and whether such an agreement qualifies will be primarily determined through the announcements themselves. Where an announcement is made by all listed countries but, based on the announcements, it remains ambiguous whether the announcements represent a qualifying diplomatic agreement between the countries, this market will remain open until either i) definitive confirmation that the announcements represent a qualifying diplomatic agreement between the listed entities is achieved through further announcements from the listed countries or a consensus of credible reporting or ii) 14 calendar days (ET) have passed after the date that the last country made their first potentially qualifying announcement. If, at the end of the fourteenth calendar day, no definitive confirmation has been achieved, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the governments of Oman and Iran and a consensus of credible reporting.\n",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/iran-oman-hormuz-agreement-byptptpt-20260804222546205-sBj_3dnyimNp.jpg",
+            "yes_token_id": "71542982741394376771627006689338880117415417908788827680925028639627563224055",
+            "yes_probability": 0.29,
+            "yes_best_bid": 0.26,
+            "yes_best_ask": 0.29,
+            "yes_spread": 0.02999999999999997,
+            "no_token_id": "113290158504719818380155053167741933704470184032323399548222946211117519667687",
+            "no_probability": 0.74,
+            "no_best_bid": 0.71,
+            "no_best_ask": 0.74,
+            "no_spread": 0.030000000000000027,
+            "volume": 180897.02073959,
+            "liquidity": 286688.35,
+            "neg_risk": false,
+            "end_date": "2026-08-31T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Negotiations are ongoing, indicating a high likelihood of reaching an agreement (1 hop).",
+            "event_id": "798490",
+            "event_title": "Iran-Oman Hormuz Management Agreement by...?",
+            "event_slug": "iran-oman-hormuz-management-agreement-byptptpt-20260804222725871",
+            "detected_yes_price": 0.21,
+            "detected_no_price": 0.8,
+            "detected_at": 1786952577573,
+            "highest_price_change": 1.5714285714285718,
+            "highest_yes_price": 0.54,
+            "highest_no_price": 0.81,
+            "first_moved_at": 1786953258834,
+            "moved_side": "yes",
+            "peaked_at": 1786962584849
+          },
+          {
+            "id": "3491474",
+            "slug": "iran-oman-hormuz-management-agreement-byptptpt-20260804222725871",
+            "condition_id": "0xde64f0c49c7b26baa1ed2ebb7097574de5532c2237b779ab9b415e822c12a0a0",
+            "title": "September 30",
+            "question": "Iran-Oman Hormuz Agreement by September 30?",
+            "description": "This market will resolve to \u201cYes\u201d if a diplomatic agreement between Oman and Iran over traffic in the strait of Hormuz is announced by the specified date, 11:59 PM ET.\n\nA diplomatic agreement refers to an official agreement, treaty, deal, or substantially similar diplomatic instrument that establishes agreed actions, policies, obligations, or commitments between Oman and Iran.\n\nA qualifying diplomatic agreement must establish Iranian or Omani policies, obligations, or commitments aimed at managing, permitting, restoring, or increasing vessel or shipping traffic through the Strait of Hormuz, including agreements defining vessel traffic corridors, fee collection policies, or other management policies.\n\nAll listed countries must announce their acceptance of the same qualifying diplomatic agreement for the Payout Condition to be met. A joint announcement will qualify, as will separate announcements from each entity of its own acceptance of an agreement which, taken together, directly indicate that all the listed countries accepted the same agreement. Separate announcements of individual policies will not qualify if the policies are not announced as part of a diplomatic agreement.\n\nEach announcement must be a declarative statement that clearly and unambiguously communicates acceptance of an agreement. Statements that reference ongoing negotiations or a prospective agreement, or that allude to or express support for an agreement without confirming acceptance of the agreement, do not qualify. A qualifying announcement need not reference the agreement by name or use specific terminology, provided it clearly communicates acceptance of an agreement.\n \nWhether announcements from the listed countries represent a diplomatic agreement and whether such an agreement qualifies will be primarily determined through the announcements themselves. Where an announcement is made by all listed countries but, based on the announcements, it remains ambiguous whether the announcements represent a qualifying diplomatic agreement between the countries, this market will remain open until either i) definitive confirmation that the announcements represent a qualifying diplomatic agreement between the listed entities is achieved through further announcements from the listed countries or a consensus of credible reporting or ii) 14 calendar days (ET) have passed after the date that the last country made their first potentially qualifying announcement. If, at the end of the fourteenth calendar day, no definitive confirmation has been achieved, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the governments of Oman and Iran and a consensus of credible reporting.\n",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/iran-oman-hormuz-agreement-byptptpt-20260804222546205-sBj_3dnyimNp.jpg",
+            "yes_token_id": "68003608521015222679268138757769131071496782683879354114198876947977145147842",
+            "yes_probability": 0.63,
+            "yes_best_bid": 0.6,
+            "yes_best_ask": 0.63,
+            "yes_spread": 0.030000000000000027,
+            "no_token_id": "54535939936252494990237723579988336237910336281008291808351435211825298252708",
+            "no_probability": 0.4,
+            "no_best_bid": 0.37,
+            "no_best_ask": 0.4,
+            "no_spread": 0.030000000000000027,
+            "volume": 23003.38472317001,
+            "liquidity": 598266.73,
+            "neg_risk": false,
+            "end_date": "2026-09-30T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "The ongoing discussions enhance the probability of an agreement being reached (1 hop).",
+            "event_id": "798490",
+            "event_title": "Iran-Oman Hormuz Management Agreement by...?",
+            "event_slug": "iran-oman-hormuz-management-agreement-byptptpt-20260804222725871",
+            "detected_yes_price": 0.61,
+            "detected_no_price": 0.4,
+            "detected_at": 1786952577573,
+            "highest_price_change": 0.1999999999999999,
+            "highest_yes_price": 0.65,
+            "highest_no_price": 0.48,
+            "first_moved_at": 1786954481776,
+            "moved_side": "no",
+            "peaked_at": 1786954527472
+          },
+          {
+            "id": "3491476",
+            "slug": "iran-oman-hormuz-management-agreement-byptptpt-20260804222725871",
+            "condition_id": "0xd50f1f997b6c720551ee0e028df58617bfe82fe42d6a3f221b8d3926ec9b312c",
+            "title": "August 22",
+            "question": "Iran-Oman Hormuz Agreement by August 22?",
+            "description": "This market will resolve to \u201cYes\u201d if a diplomatic agreement between Oman and Iran over traffic in the strait of Hormuz is announced by the specified date, 11:59 PM ET.\n\nA diplomatic agreement refers to an official agreement, treaty, deal, or substantially similar diplomatic instrument that establishes agreed actions, policies, obligations, or commitments between Oman and Iran.\n\nA qualifying diplomatic agreement must establish Iranian or Omani policies, obligations, or commitments aimed at managing, permitting, restoring, or increasing vessel or shipping traffic through the Strait of Hormuz, including agreements defining vessel traffic corridors, fee collection policies, or other management policies.\n\nAll listed countries must announce their acceptance of the same qualifying diplomatic agreement for the Payout Condition to be met. A joint announcement will qualify, as will separate announcements from each entity of its own acceptance of an agreement which, taken together, directly indicate that all the listed countries accepted the same agreement. Separate announcements of individual policies will not qualify if the policies are not announced as part of a diplomatic agreement.\n\nEach announcement must be a declarative statement that clearly and unambiguously communicates acceptance of an agreement. Statements that reference ongoing negotiations or a prospective agreement, or that allude to or express support for an agreement without confirming acceptance of the agreement, do not qualify. A qualifying announcement need not reference the agreement by name or use specific terminology, provided it clearly communicates acceptance of an agreement.\n \nWhether announcements from the listed countries represent a diplomatic agreement and whether such an agreement qualifies will be primarily determined through the announcements themselves. Where an announcement is made by all listed countries but, based on the announcements, it remains ambiguous whether the announcements represent a qualifying diplomatic agreement between the countries, this market will remain open until either i) definitive confirmation that the announcements represent a qualifying diplomatic agreement between the listed entities is achieved through further announcements from the listed countries or a consensus of credible reporting or ii) 14 calendar days (ET) have passed after the date that the last country made their first potentially qualifying announcement. If, at the end of the fourteenth calendar day, no definitive confirmation has been achieved, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the governments of Oman and Iran and a consensus of credible reporting.\n",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/iran-oman-hormuz-agreement-byptptpt-20260804222546205-sBj_3dnyimNp.jpg",
+            "yes_token_id": "100965983639713859582809400397971626344322447462061289453723500562449431448352",
+            "yes_probability": 0.18,
+            "yes_best_bid": 0.15,
+            "yes_best_ask": 0.18,
+            "yes_spread": 0.03,
+            "no_token_id": "63312369668603201796772489901379611145875895412503008672495290705981899271912",
+            "no_probability": 0.85,
+            "no_best_bid": 0.82,
+            "no_best_ask": 0.85,
+            "no_spread": 0.030000000000000027,
+            "volume": 38278.724750490015,
+            "liquidity": 211610.87000000008,
+            "neg_risk": false,
+            "end_date": "2026-08-22T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "The ongoing negotiations imply a high likelihood of reaching an agreement (1 hop).",
+            "event_id": "798490",
+            "event_title": "Iran-Oman Hormuz Management Agreement by...?",
+            "event_slug": "iran-oman-hormuz-management-agreement-byptptpt-20260804222725871",
+            "detected_yes_price": 0.16,
+            "detected_no_price": 0.87,
+            "detected_at": 1786952577573,
+            "highest_price_change": 0.25000000000000006,
+            "highest_yes_price": 0.2,
+            "highest_no_price": 0.88,
+            "first_moved_at": 1786962581600,
+            "moved_side": "yes",
+            "peaked_at": 1786967020181
+          }
+        ],
+        "affected_assets": [
+          {
+            "name": "oil",
+            "score": 9,
+            "price": 81.008
+          }
+        ],
+        "topics": [
+          "iran-regime",
+          "ai-tech"
+        ],
+        "categories": [
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "3348048",
+        "slug": "iran-oman-hormuz-management-agreement-byptptpt-20260804222725871",
+        "condition_id": "0x1c38a64c494e01c9bd81362cfadeadb3b87023d1d9ffae1df5a428c03152fc74",
+        "title": "August 31",
+        "question": "Iran-Oman Hormuz Agreement by August 31?",
+        "description": "This market will resolve to \u201cYes\u201d if a diplomatic agreement between Oman and Iran over traffic in the strait of Hormuz is announced by the specified date, 11:59 PM ET.\n\nA diplomatic agreement refers to an official agreement, treaty, deal, or substantially similar diplomatic instrument that establishes agreed actions, policies, obligations, or commitments between Oman and Iran.\n\nA qualifying diplomatic agreement must establish Iranian or Omani policies, obligations, or commitments aimed at managing, permitting, restoring, or increasing vessel or shipping traffic through the Strait of Hormuz, including agreements defining vessel traffic corridors, fee collection policies, or other management policies.\n\nAll listed countries must announce their acceptance of the same qualifying diplomatic agreement for the Payout Condition to be met. A joint announcement will qualify, as will separate announcements from each entity of its own acceptance of an agreement which, taken together, directly indicate that all the listed countries accepted the same agreement. Separate announcements of individual policies will not qualify if the policies are not announced as part of a diplomatic agreement.\n\nEach announcement must be a declarative statement that clearly and unambiguously communicates acceptance of an agreement. Statements that reference ongoing negotiations or a prospective agreement, or that allude to or express support for an agreement without confirming acceptance of the agreement, do not qualify. A qualifying announcement need not reference the agreement by name or use specific terminology, provided it clearly communicates acceptance of an agreement.\n \nWhether announcements from the listed countries represent a diplomatic agreement and whether such an agreement qualifies will be primarily determined through the announcements themselves. Where an announcement is made by all listed countries but, based on the announcements, it remains ambiguous whether the announcements represent a qualifying diplomatic agreement between the countries, this market will remain open until either i) definitive confirmation that the announcements represent a qualifying diplomatic agreement between the listed entities is achieved through further announcements from the listed countries or a consensus of credible reporting or ii) 14 calendar days (ET) have passed after the date that the last country made their first potentially qualifying announcement. If, at the end of the fourteenth calendar day, no definitive confirmation has been achieved, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the governments of Oman and Iran and a consensus of credible reporting.\n",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/iran-oman-hormuz-agreement-byptptpt-20260804222546205-sBj_3dnyimNp.jpg",
+        "yes_token_id": "71542982741394376771627006689338880117415417908788827680925028639627563224055",
+        "yes_probability": 0.29,
+        "yes_best_bid": 0.26,
+        "yes_best_ask": 0.29,
+        "yes_spread": 0.02999999999999997,
+        "no_token_id": "113290158504719818380155053167741933704470184032323399548222946211117519667687",
+        "no_probability": 0.74,
+        "no_best_bid": 0.71,
+        "no_best_ask": 0.74,
+        "no_spread": 0.030000000000000027,
+        "volume": 180897.02073959,
+        "liquidity": 286688.35,
+        "neg_risk": false,
+        "end_date": "2026-08-31T23:59:00Z",
+        "categories": [
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 9,
+        "impact_level": "critical",
+        "impact_reason": "Negotiations are ongoing, indicating a high likelihood of reaching an agreement (1 hop).",
+        "event_id": "798490",
+        "event_title": "Iran-Oman Hormuz Management Agreement by...?",
+        "event_slug": "iran-oman-hormuz-management-agreement-byptptpt-20260804222725871",
+        "detected_yes_price": 0.21,
+        "detected_no_price": 0.8,
+        "detected_at": 1786952577573,
+        "highest_price_change": 1.5714285714285718,
+        "highest_yes_price": 0.54,
+        "highest_no_price": 0.81,
+        "first_moved_at": 1786953258834,
+        "moved_side": "yes",
+        "peaked_at": 1786962584849
+      },
+      "_scraped_at": "2026-08-17T11:47:55.282699+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 3,
+      "feed_item": {
+        "id": "e340902f-b42d-4bd4-8580-cde37a33f4c7",
+        "timestamp": 1786947648635,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "e340902f-b42d-4bd4-8580-cde37a33f4c7",
+          "text": "\u26a1\ufe0fTwo Majors #Summary as of the morning of August 17, 2026\n\n\u25aa\ufe0fOver the past 24 hours, the Russian Armed Forces have struck port infrastructure and naval vessels in the Odessa region. Targets were hit in Vilkovo, Belgorod-Dnistrovskyi, and the port of Odessa. Warehouses, boat moorings, and ships were hit, and one cargo ship was struck in the Black Sea. Explosions were heard at night in Odessa, Pavlograd, Sumy, Slaviansk, and Zaporozhye.\n\n\u25aa\ufe0fIn the Sumy region, in the Shostkinsky district, the \"North\" group of forces is engaged in fighting in Ulanovo and the area around Volna Sloboda. In the Sumy district, our troops are engaged in infantry fighting in Pisarevka, Maryino, Khrapovshchyna, the village of Khoten, south of Ivolzhansky. The enemy, consisting of units from the 47th and 68th separate motorized rifle brigades, launched two unsuccessful counterattacks on our troops' positions near the village of Sadki.\n\n\u25aa\ufe0fIn the Belgorod region, a man was injured in an FPV drone strike on a truck. On the Rakitnoe-Proletarsky highway, a drone attacked a car, and a man was injured. In Shebekino, a woman was injured. A drone strike hit a bus belonging to an enterprise in the Rakityansky district, injuring 10 people. In the village of Rakitnoe, the driver of another truck was injured. Three people were injured in Proletarsky. On the Rakitnoe-Belgorod highway near Dmitrievka, a drone attacked a car, injuring two people. In the village of Rzhevka in the Shebekinsky district, a man was killed as a result of a drone attack on a car.\n\n\u25aa\ufe0fOn the Kharkov front, assault units of the 11th Army Corps of the \"North\" group of forces pushed back the 58th motorized infantry brigade and the 475th separate helicopter assault unit from the village of Kudiivka.\n\n\u25aa\ufe0fIn the LNR, a driver of a \"Gazelle\" was killed in drone strikes, and several people were injured. Infrastructure in 16 municipalities was damaged, and efforts are underway to eliminate the consequences.\n\n\u25aa\ufe0fIn the DNR, the village of Pershomarivka has been liberated. Yesterday, one person was killed in the republic, and ten more civilians, including a child, were injured in attacks by Ukrainian Armed Forces strike UAVs.\n\n\u25aa\ufe0fIn the eastern part of the Zaporozhye region, soldiers of the \"East\" group of forces destroyed the enemy two days ago and took control of strongholds west of the line Alexandrovka-Kommunarovka. The village of Rybalskoe has been liberated.\n\n\u25aa\ufe0fFrom the Zaporozhye region, it was reported that between the villages of Lunacharskoye and Shevchenko, a civilian car was attacked by a UAV, and a man was injured. In the city of Dneprorudny in the Vasilyevsky district, a car was attacked, injuring three people - a woman and her two children. Meanwhile, the 42nd Guards Motorized Rifle Division showed footage of fighting in Orekhov, confirming the presence of our forward assault groups in the settlement.\n\nThis summary was compiled by: \u26a1\ufe0fTwo Majors",
+          "channel": "The Islander",
+          "timestamp": 1786947648635,
+          "link": "https://t.me/TheIslanderNews"
+        },
+        "osint": false,
+        "country": "UA",
+        "countries": [
+          "UA",
+          "RU",
+          "OM",
+          "LV",
+          "GB"
+        ],
+        "related_markets": [
+          {
+            "id": "3501339",
+            "slug": "will-russia-target-kyiv-onptptpt-20260810162903045",
+            "condition_id": "0x726f8ddc85c1bbc5e8c3bb253430180439175d0a2a26a5967001fb62f7a6fd31",
+            "title": "August 18",
+            "question": "Will Russia target Kyiv on August 18, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if Russia targets Kyiv through a qualifying military action on the specified date, Kyiv time. Otherwise, this market will resolve to \u201cNo.\u201d\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by Russia, directed at Kyiv. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action:\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including short range loitering munitions, FPV drones, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nMilitary action that consists primarily or exclusively of munitions that are intercepted before impact will still qualify if they constitute a qualifying military action during the specified timeframe; whether the munitions were intercepted, where the munitions landed, and whether damage resulted will not be considered.\n\nA military action will be considered directed at Kyiv if it targets any location within the city of Kyiv.\n\nThe occurrence, attribution, timing, and target of a qualifying military action will be primarily determined based on a consensus of information available from the resolution sources. Where multiple sources conflict regarding the occurrence, attribution, timing, or target of a relevant military action, this market will remain open until the earlier of: i) the confirmation of the occurrence, attribution, timing, and target of the action based on a consensus of information available from the resolution sources or ii) 3 full calendar days (Kyiv time) after the specified date. If this period would extend past the end date, this market will remain open to allow for 3 full calendar days to pass. If, at the end of the third calendar day, conflicting reports remain as to the occurrence, attribution, or timing of the action, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the governments and militaries of Ukraine and Russia and a consensus of credible reporting.",
+            "image": "",
+            "yes_token_id": "45355881912288202975748920990054101008186793399320744372121458691307954062557",
+            "yes_probability": 0.42,
+            "yes_best_bid": 0.37,
+            "yes_best_ask": 0.42,
+            "yes_spread": 0.04999999999999999,
+            "no_token_id": "77161025577579035676725053662424836109378503035278320197864571027276485731918",
+            "no_probability": 0.63,
+            "no_best_bid": 0.58,
+            "no_best_ask": 0.63,
+            "no_spread": 0.050000000000000044,
+            "volume": 187.37773399999998,
+            "liquidity": 2091.87,
+            "neg_risk": false,
+            "end_date": "2026-08-18T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Recent strikes suggest an imminent threat to Kyiv.",
+            "event_id": "830106",
+            "event_title": "Will Russia target Kyiv on...?",
+            "event_slug": "will-russia-target-kyiv-onptptpt-20260810162903045",
+            "detected_yes_price": 0.39,
+            "detected_no_price": 0.63,
+            "detected_at": 1786947693798,
+            "highest_price_change": 0.46031746031746035,
+            "highest_yes_price": 0.46,
+            "highest_no_price": 0.92,
+            "first_moved_at": 1786947703814,
+            "moved_side": "no",
+            "peaked_at": 1786949463681
+          },
+          {
+            "id": "3501338",
+            "slug": "will-russia-target-kyiv-onptptpt-20260810162903045",
+            "condition_id": "0x4cb549c39572fea4125c14565e2c6c1b08328d25a9e24a132fe209a1fedf6834",
+            "title": "August 17",
+            "question": "Will Russia target Kyiv on August 17, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if Russia targets Kyiv through a qualifying military action on the specified date, Kyiv time. Otherwise, this market will resolve to \u201cNo.\u201d\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by Russia, directed at Kyiv. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action:\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including short range loitering munitions, FPV drones, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nMilitary action that consists primarily or exclusively of munitions that are intercepted before impact will still qualify if they constitute a qualifying military action during the specified timeframe; whether the munitions were intercepted, where the munitions landed, and whether damage resulted will not be considered.\n\nA military action will be considered directed at Kyiv if it targets any location within the city of Kyiv.\n\nThe occurrence, attribution, timing, and target of a qualifying military action will be primarily determined based on a consensus of information available from the resolution sources. Where multiple sources conflict regarding the occurrence, attribution, timing, or target of a relevant military action, this market will remain open until the earlier of: i) the confirmation of the occurrence, attribution, timing, and target of the action based on a consensus of information available from the resolution sources or ii) 3 full calendar days (Kyiv time) after the specified date. If this period would extend past the end date, this market will remain open to allow for 3 full calendar days to pass. If, at the end of the third calendar day, conflicting reports remain as to the occurrence, attribution, or timing of the action, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the governments and militaries of Ukraine and Russia and a consensus of credible reporting.",
+            "image": "",
+            "yes_token_id": "2937390348106853318189285698875963845831188138136145503842173783910647410008",
+            "yes_probability": 0.48,
+            "yes_best_bid": 0.02,
+            "yes_best_ask": 0.48,
+            "yes_spread": 0.45999999999999996,
+            "no_token_id": "89210681297075384649444539777985624125809752271532218024463224806746905672719",
+            "no_probability": 0.98,
+            "no_best_bid": 0.52,
+            "no_best_ask": 0.98,
+            "no_spread": 0.45999999999999996,
+            "volume": 650.0007220200001,
+            "liquidity": 443.99,
+            "neg_risk": false,
+            "end_date": "2026-08-17T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Ongoing strikes indicate a focus on Kyiv.",
+            "event_id": "830106",
+            "event_title": "Will Russia target Kyiv on...?",
+            "event_slug": "will-russia-target-kyiv-onptptpt-20260810162903045",
+            "detected_yes_price": 0.22,
+            "detected_no_price": 0.8,
+            "detected_at": 1786947693798,
+            "highest_price_change": 3.1363636363636367,
+            "highest_yes_price": 0.91,
+            "highest_no_price": 0.98,
+            "first_moved_at": 1786949912019,
+            "moved_side": "yes",
+            "peaked_at": 1786951089772
+          },
+          {
+            "id": "2107988",
+            "slug": "will-russia-capture-all-of-vovchansk-by",
+            "condition_id": "0xbc43a765b1fb2a7ffabf7d57cc64be3754a07f6dbbb657130b520875f204c772",
+            "title": "September 30",
+            "question": "Will Russia capture all of Vovchansk by September 30?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the entirety of Vovchansk by September 30, 2026, 11:59 PM ET.\n\nVovchansk will be considered captured if the entirety of the municipality is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by September 30, 2026, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nThe territory of the municipality is shaded in light grey and is distinguished from bordering municipalities such as \"Vovchanski Khutory\" with a darker grey line.  If all area within the municipality is shaded in red, however the shading does not precisely match up with the border such that there is a tiny amount of grey along the border of the city, this will still qualify for a \"Yes\" resolution.\n\nOnce Russia captures Vovchansk, any subsequent loss of control will not be considered towards the resolution of this market.\n\nVovchansk Location: https://polymarket-upload.s3.us-east-2.amazonaws.com/Vovchansk.png \nLocation on Google Maps: https://maps.app.goo.gl/pEumzu6kdCPQ2sYt7\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap is rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of if it is shaded red in the ISW map. An announcement of a negotiated settlement that gives Russia de jure control will not qualify. Actual control must be established.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-vovchansk-by-april-30-zZYgOG-rxBt6.jpg",
+            "yes_token_id": "17443762976949623694088004697408060308723388673315163575129823536915593826648",
+            "yes_probability": 0.13,
+            "yes_best_bid": 0.12,
+            "yes_best_ask": 0.13,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "39826415395621606430492809307300208421327633500555526655980994779813231695753",
+            "no_probability": 0.88,
+            "no_best_bid": 0.87,
+            "no_best_ask": 0.88,
+            "no_spread": 0.010000000000000009,
+            "volume": 34941.644845999996,
+            "liquidity": 5346.94,
+            "neg_risk": false,
+            "end_date": "2026-09-30T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 7,
+            "impact_level": "medium",
+            "impact_reason": "Ongoing military engagements indicate a push towards Vovchansk.",
+            "event_id": "73058",
+            "event_title": "Will Russia capture all of Vovchansk by...?",
+            "event_slug": "will-russia-capture-all-of-vovchansk-by",
+            "detected_yes_price": 0.13,
+            "detected_no_price": 0.88,
+            "detected_at": 1786947693798,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.13,
+            "highest_no_price": 0.88
+          },
+          {
+            "id": "2676528",
+            "slug": "will-russia-capture-all-of-stepnohirsk-by",
+            "condition_id": "0xce30a577d01fae8689a05218fde403388d8bce41649f8156c96ccf104d631b59",
+            "title": "December 31",
+            "question": "Will Russia capture all of Stepnohirsk by December 31, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the entirety of Stepnohirsk, Zaporizhzhia Oblast, by December 31, 2026, 11:59 PM ET.\n\nStepnohirsk will be considered captured if the entirety of the municipality is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by December 31, 2026, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nThe territory of the municipality is shaded in light grey and is distinguished from bordering municipalities such as \"Prymorske\" with a darker grey line. If all area within the municipality is shaded in red, however, the shading does not precisely match up with the border such that there is a tiny amount of grey along the border of the city, this will still qualify for a \"Yes\" resolution.\n\nOnce Russia captures the entirety of Stepnohirsk, any subsequent loss of control will not be considered towards the resolution of this market.\n\nLocation on Google maps: https://maps.app.goo.gl/CwF1b64Qo49PvUZw5\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map which will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of if it is shaded red in the ISW map. An announcement of a negotiated settlement which gives Russia de jure control will not qualify. Actual control must be established.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-stepnohirsk-by-april-30-2026-6aZsbyN9lT8G.jpg",
+            "yes_token_id": "73316049507498931433586698093569969731375872043666758023277792674657837743941",
+            "yes_probability": 0.13,
+            "yes_best_bid": 0.12,
+            "yes_best_ask": 0.13,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "30130989914172105520516978270299279759424141523356186172811567538617311468511",
+            "no_probability": 0.88,
+            "no_best_bid": 0.87,
+            "no_best_ask": 0.88,
+            "no_spread": 0.010000000000000009,
+            "volume": 10453.804820000007,
+            "liquidity": 12725,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 7,
+            "impact_level": "medium",
+            "impact_reason": "Ongoing military actions indicate a strategic push towards Stepnohirsk.",
+            "event_id": "131611",
+            "event_title": "Will Russia capture all of Stepnohirsk by...?",
+            "event_slug": "will-russia-capture-all-of-stepnohirsk-by",
+            "detected_yes_price": 0.13,
+            "detected_no_price": 0.88,
+            "detected_at": 1786947693798,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.13,
+            "highest_no_price": 0.88
+          },
+          {
+            "id": "2107989",
+            "slug": "will-russia-capture-all-of-vovchansk-by",
+            "condition_id": "0x25e961b73889e80bb2e8e7e9611aa573cf5f7cae0d7db8a488256cf758f0f1ca",
+            "title": "December 31",
+            "question": "Will Russia capture all of Vovchansk by December 31?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the entirety of Vovchansk by December 31, 2026, 11:59 PM ET.\n\nVovchansk will be considered captured if the entirety of the municipality is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by December 31, 2026, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nThe territory of the municipality is shaded in light grey and is distinguished from bordering municipalities such as \"Vovchanski Khutory\" with a darker grey line.  If all area within the municipality is shaded in red, however the shading does not precisely match up with the border such that there is a tiny amount of grey along the border of the city, this will still qualify for a \"Yes\" resolution.\n\nOnce Russia captures Vovchansk, any subsequent loss of control will not be considered towards the resolution of this market.\n\nVovchansk Location: https://polymarket-upload.s3.us-east-2.amazonaws.com/Vovchansk.png \nLocation on Google Maps: https://maps.app.goo.gl/pEumzu6kdCPQ2sYt7\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap is rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of if it is shaded red in the ISW map. An announcement of a negotiated settlement that gives Russia de jure control will not qualify. Actual control must be established.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-vovchansk-by-april-30-zZYgOG-rxBt6.jpg",
+            "yes_token_id": "86710982358530854138101879929329828770268257114267139427607604466907126052552",
+            "yes_probability": 0.37,
+            "yes_best_bid": 0.36,
+            "yes_best_ask": 0.37,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "113695697886500303472855280909164020785493554255284377719894094377665350821356",
+            "no_probability": 0.64,
+            "no_best_bid": 0.63,
+            "no_best_ask": 0.64,
+            "no_spread": 0.010000000000000009,
+            "volume": 17089.170140999995,
+            "liquidity": 22707.480000000003,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "geopolitics",
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 7,
+            "impact_level": "medium",
+            "impact_reason": "Ongoing strikes and military engagements indicate a strategic push towards Vovchansk.",
+            "event_id": "73058",
+            "event_title": "Will Russia capture all of Vovchansk by...?",
+            "event_slug": "will-russia-capture-all-of-vovchansk-by",
+            "detected_yes_price": 0.37,
+            "detected_no_price": 0.64,
+            "detected_at": 1786947693798,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.37,
+            "highest_no_price": 0.64
+          }
+        ],
+        "topics": [
+          "bitcoin",
+          "ai-tech",
+          "ukraine-war",
+          "elon-musk"
+        ],
+        "categories": [
+          "crypto",
+          "geopolitics",
+          "climate",
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "3501339",
+        "slug": "will-russia-target-kyiv-onptptpt-20260810162903045",
+        "condition_id": "0x726f8ddc85c1bbc5e8c3bb253430180439175d0a2a26a5967001fb62f7a6fd31",
+        "title": "August 18",
+        "question": "Will Russia target Kyiv on August 18, 2026?",
+        "description": "This market will resolve to \u201cYes\u201d if Russia targets Kyiv through a qualifying military action on the specified date, Kyiv time. Otherwise, this market will resolve to \u201cNo.\u201d\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by Russia, directed at Kyiv. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action:\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including short range loitering munitions, FPV drones, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nMilitary action that consists primarily or exclusively of munitions that are intercepted before impact will still qualify if they constitute a qualifying military action during the specified timeframe; whether the munitions were intercepted, where the munitions landed, and whether damage resulted will not be considered.\n\nA military action will be considered directed at Kyiv if it targets any location within the city of Kyiv.\n\nThe occurrence, attribution, timing, and target of a qualifying military action will be primarily determined based on a consensus of information available from the resolution sources. Where multiple sources conflict regarding the occurrence, attribution, timing, or target of a relevant military action, this market will remain open until the earlier of: i) the confirmation of the occurrence, attribution, timing, and target of the action based on a consensus of information available from the resolution sources or ii) 3 full calendar days (Kyiv time) after the specified date. If this period would extend past the end date, this market will remain open to allow for 3 full calendar days to pass. If, at the end of the third calendar day, conflicting reports remain as to the occurrence, attribution, or timing of the action, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the governments and militaries of Ukraine and Russia and a consensus of credible reporting.",
+        "image": "",
+        "yes_token_id": "45355881912288202975748920990054101008186793399320744372121458691307954062557",
+        "yes_probability": 0.42,
+        "yes_best_bid": 0.37,
+        "yes_best_ask": 0.42,
+        "yes_spread": 0.04999999999999999,
+        "no_token_id": "77161025577579035676725053662424836109378503035278320197864571027276485731918",
+        "no_probability": 0.63,
+        "no_best_bid": 0.58,
+        "no_best_ask": 0.63,
+        "no_spread": 0.050000000000000044,
+        "volume": 187.37773399999998,
+        "liquidity": 2091.87,
+        "neg_risk": false,
+        "end_date": "2026-08-18T23:59:00Z",
+        "categories": [
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Recent strikes suggest an imminent threat to Kyiv.",
+        "event_id": "830106",
+        "event_title": "Will Russia target Kyiv on...?",
+        "event_slug": "will-russia-target-kyiv-onptptpt-20260810162903045",
+        "detected_yes_price": 0.39,
+        "detected_no_price": 0.63,
+        "detected_at": 1786947693798,
+        "highest_price_change": 0.46031746031746035,
+        "highest_yes_price": 0.46,
+        "highest_no_price": 0.92,
+        "first_moved_at": 1786947703814,
+        "moved_side": "no",
+        "peaked_at": 1786949463681
+      },
+      "_scraped_at": "2026-08-17T11:47:55.282699+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 4,
+      "feed_item": {
+        "id": "f5d571da-2850-4c7e-9bee-e12fe159cda1",
+        "timestamp": 1786938307296,
+        "tweet": {
+          "feed_item_id": "f5d571da-2850-4c7e-9bee-e12fe159cda1",
+          "post_id": "2089196800502591787",
+          "post_type": "tweet",
+          "created_at": 1786938307296,
+          "user": {
+            "uid": "34713362",
+            "handle": "business",
+            "display_name": "Bloomberg",
+            "pfp": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_400x400.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "Export-Import Bank of Korea will lend $1 billion to commodities giant Glencore in exchange for copper supply to South Korean companies, as the country seeks to secure raw materials needed for the AI boom https://www.bloomberg.com/news/articles/2026-08-17/korea-eximbank-to-lend-1-billion-to-glencore-for-copper-supply?taid=6a8283c36c3e3e0001247091&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+          "link": "https://twitter.com/business/status/2089196800502591787"
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "KR",
+        "countries": [
+          "KR",
+          "IN"
+        ],
+        "related_markets": [
+          {
+            "id": "3083654",
+            "slug": "south-korea-gdp-growth-yoy-in-q3-2026-20260723231127764",
+            "condition_id": "0xf726373992f3e4a57213a8d765b2581a2cbcf2b2a91d7855c7b552b6d7f220b9",
+            "title": "<2.0%",
+            "question": "Will South Korea GDP growth in Q3 2026 be less than 2.0%?",
+            "description": "This market will resolve according to South Korea's real Gross Domestic Product (GDP) growth rate (Year-on-Year, %) in Q3 of 2026, as reported in the Bank of Korea\u2019s Real Gross Domestic Product (Advance Estimate) release for Q3 of 2026, scheduled for release on October 27, 2026.\n\nThe GDP release will be made available here: https://www.bok.or.kr/eng/singl/newsDataEng/list.do?pageIndex=&targetDepth=3&menuNo=400423&syncMenuChekKey=1&searchCnd=1&searchKwd=&depth2=400417&depth3=400423&date=&sdate=&edate=&sort=1&pageUnit=10\n\nThe relevant figure may be found in the table titled \u201cGrowth Rates by Type of Economic Activity and Component of Expenditure (original series, percentage change over previous year)\u201d in the row \u201cGross Domestic Product\u201d and the column for the specified quarter. Changes in South Korea\u2019s GDP reporting format will not disqualify a published figure from counting.\n\nIf no data for the specified quarter is released by the date the next quarter's data is scheduled to be released, this market will resolve based on data from the last available quarter.\n\nNote: the resolution source for this market reports year-on-year GDP growth rates to only one decimal point (e.g. 0.3%). Thus, this is the level of precision that will be used when resolving the market.\n\nNote: data from the initial release of the referenced GDP report is what will be used to resolve this market. Data may be revised during the following quarter or as a part of the next estimate's publication, however any revisions to GDP report data made after the initial release will not be considered for this market's resolution. For the full release schedule, see: https://www.bok.or.kr/eng/stats/statsPublictSchdul/listCldr.do?menuNo=400359&date=2026-01",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/south-korea-gdp-growth-in-q1-2026-HBlO1h6TlE5N.jpg",
+            "yes_token_id": "2492369077397667385158497684782317623774131736429243508308514780969395196016",
+            "yes_probability": 0.036,
+            "yes_best_bid": 0.01,
+            "yes_best_ask": 0.036,
+            "yes_spread": 0.025999999999999995,
+            "no_token_id": "87005434324544848597280418368433993135522026469202708300425607066691621827561",
+            "no_probability": 0.99,
+            "no_best_bid": 0.964,
+            "no_best_ask": 0.99,
+            "no_spread": 0.026000000000000023,
+            "volume": 533.031815,
+            "liquidity": 14320.589999999998,
+            "neg_risk": true,
+            "end_date": "2026-10-27T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 7,
+            "impact_level": "medium",
+            "impact_reason": "Loan for copper supply could positively impact GDP growth (1 hop).",
+            "event_id": "743876",
+            "event_title": "South Korea GDP growth (YoY) in Q3 2026?",
+            "event_slug": "south-korea-gdp-growth-yoy-in-q3-2026-20260723231127764",
+            "detected_yes_price": 0.052,
+            "detected_no_price": 0.99,
+            "detected_at": 1786938350639,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.052,
+            "highest_no_price": 0.99
+          },
+          {
+            "id": "3083658",
+            "slug": "south-korea-gdp-growth-yoy-in-q3-2026-20260723231127764",
+            "condition_id": "0xf3fcafc618a0b738e43b8b600118f2b916ab85d43a5c82884edf44fc41849bb1",
+            "title": "3.5\u20133.9%",
+            "question": "Will South Korea GDP growth in Q3 2026 be between 3.5% and 3.9%?",
+            "description": "This market will resolve according to South Korea's real Gross Domestic Product (GDP) growth rate (Year-on-Year, %) in Q3 of 2026, as reported in the Bank of Korea\u2019s Real Gross Domestic Product (Advance Estimate) release for Q3 of 2026, scheduled for release on October 27, 2026.\n\nThe GDP release will be made available here: https://www.bok.or.kr/eng/singl/newsDataEng/list.do?pageIndex=&targetDepth=3&menuNo=400423&syncMenuChekKey=1&searchCnd=1&searchKwd=&depth2=400417&depth3=400423&date=&sdate=&edate=&sort=1&pageUnit=10\n\nThe relevant figure may be found in the table titled \u201cGrowth Rates by Type of Economic Activity and Component of Expenditure (original series, percentage change over previous year)\u201d in the row \u201cGross Domestic Product\u201d and the column for the specified quarter. Changes in South Korea\u2019s GDP reporting format will not disqualify a published figure from counting.\n\nIf no data for the specified quarter is released by the date the next quarter's data is scheduled to be released, this market will resolve based on data from the last available quarter.\n\nNote: the resolution source for this market reports year-on-year GDP growth rates to only one decimal point (e.g. 0.3%). Thus, this is the level of precision that will be used when resolving the market.\n\nNote: data from the initial release of the referenced GDP report is what will be used to resolve this market. Data may be revised during the following quarter or as a part of the next estimate's publication, however any revisions to GDP report data made after the initial release will not be considered for this market's resolution. For the full release schedule, see: https://www.bok.or.kr/eng/stats/statsPublictSchdul/listCldr.do?menuNo=400359&date=2026-01",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/south-korea-gdp-growth-in-q1-2026-HBlO1h6TlE5N.jpg",
+            "yes_token_id": "106780687477121747499931802234245396332452888848792963590923523085985920433889",
+            "yes_probability": 0.231,
+            "yes_best_bid": 0.198,
+            "yes_best_ask": 0.231,
+            "yes_spread": 0.033,
+            "no_token_id": "27216535637326474720071474273610584623980861934226704362792028669738918048398",
+            "no_probability": 0.802,
+            "no_best_bid": 0.769,
+            "no_best_ask": 0.802,
+            "no_spread": 0.03300000000000003,
+            "volume": 752.4906689999999,
+            "liquidity": 19494.300000000003,
+            "neg_risk": true,
+            "end_date": "2026-10-27T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 7,
+            "impact_level": "medium",
+            "impact_reason": "Loan for copper supply could lead to GDP growth in this range (1 hop).",
+            "event_id": "743876",
+            "event_title": "South Korea GDP growth (YoY) in Q3 2026?",
+            "event_slug": "south-korea-gdp-growth-yoy-in-q3-2026-20260723231127764",
+            "detected_yes_price": 0.238,
+            "detected_no_price": 0.81,
+            "detected_at": 1786938350639,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.238,
+            "highest_no_price": 0.81
+          },
+          {
+            "id": "3083656",
+            "slug": "south-korea-gdp-growth-yoy-in-q3-2026-20260723231127764",
+            "condition_id": "0x62ee1bfa62040d79ef2452bd571adb05b6ef18da12812fff160df04521eba220",
+            "title": "2.5\u20132.9%",
+            "question": "Will South Korea GDP growth in Q3 2026 be between 2.5% and 2.9%?",
+            "description": "This market will resolve according to South Korea's real Gross Domestic Product (GDP) growth rate (Year-on-Year, %) in Q3 of 2026, as reported in the Bank of Korea\u2019s Real Gross Domestic Product (Advance Estimate) release for Q3 of 2026, scheduled for release on October 27, 2026.\n\nThe GDP release will be made available here: https://www.bok.or.kr/eng/singl/newsDataEng/list.do?pageIndex=&targetDepth=3&menuNo=400423&syncMenuChekKey=1&searchCnd=1&searchKwd=&depth2=400417&depth3=400423&date=&sdate=&edate=&sort=1&pageUnit=10\n\nThe relevant figure may be found in the table titled \u201cGrowth Rates by Type of Economic Activity and Component of Expenditure (original series, percentage change over previous year)\u201d in the row \u201cGross Domestic Product\u201d and the column for the specified quarter. Changes in South Korea\u2019s GDP reporting format will not disqualify a published figure from counting.\n\nIf no data for the specified quarter is released by the date the next quarter's data is scheduled to be released, this market will resolve based on data from the last available quarter.\n\nNote: the resolution source for this market reports year-on-year GDP growth rates to only one decimal point (e.g. 0.3%). Thus, this is the level of precision that will be used when resolving the market.\n\nNote: data from the initial release of the referenced GDP report is what will be used to resolve this market. Data may be revised during the following quarter or as a part of the next estimate's publication, however any revisions to GDP report data made after the initial release will not be considered for this market's resolution. For the full release schedule, see: https://www.bok.or.kr/eng/stats/statsPublictSchdul/listCldr.do?menuNo=400359&date=2026-01",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/south-korea-gdp-growth-in-q1-2026-HBlO1h6TlE5N.jpg",
+            "yes_token_id": "74877654726474653610737268866471132500470243770751207537653548012049921139552",
+            "yes_probability": 0.34,
+            "yes_best_bid": 0.28,
+            "yes_best_ask": 0.34,
+            "yes_spread": 0.06,
+            "no_token_id": "54253781166334148040284381664737106982010650641835620305731106307758709048579",
+            "no_probability": 0.72,
+            "no_best_bid": 0.66,
+            "no_best_ask": 0.72,
+            "no_spread": 0.05999999999999994,
+            "volume": 3550.5771510000004,
+            "liquidity": 11592.98,
+            "neg_risk": true,
+            "end_date": "2026-10-27T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 7,
+            "impact_level": "medium",
+            "impact_reason": "Loan for copper supply could lead to GDP growth in this range (1 hop).",
+            "event_id": "743876",
+            "event_title": "South Korea GDP growth (YoY) in Q3 2026?",
+            "event_slug": "south-korea-gdp-growth-yoy-in-q3-2026-20260723231127764",
+            "detected_yes_price": 0.34,
+            "detected_no_price": 0.7,
+            "detected_at": 1786938350639,
+            "highest_price_change": 0.44117647058823517,
+            "highest_yes_price": 0.49,
+            "highest_no_price": 0.72,
+            "first_moved_at": 1786938357134,
+            "moved_side": "yes",
+            "peaked_at": 1786951757897
+          },
+          {
+            "id": "3083657",
+            "slug": "south-korea-gdp-growth-yoy-in-q3-2026-20260723231127764",
+            "condition_id": "0x3c492d389e3298e3f69f4b3d3f31ed842209e9da3a8c2c64ec2a6119b300afc6",
+            "title": "3.0\u20133.4%",
+            "question": "Will South Korea GDP growth in Q3 2026 be between 3.0% and 3.4%?",
+            "description": "This market will resolve according to South Korea's real Gross Domestic Product (GDP) growth rate (Year-on-Year, %) in Q3 of 2026, as reported in the Bank of Korea\u2019s Real Gross Domestic Product (Advance Estimate) release for Q3 of 2026, scheduled for release on October 27, 2026.\n\nThe GDP release will be made available here: https://www.bok.or.kr/eng/singl/newsDataEng/list.do?pageIndex=&targetDepth=3&menuNo=400423&syncMenuChekKey=1&searchCnd=1&searchKwd=&depth2=400417&depth3=400423&date=&sdate=&edate=&sort=1&pageUnit=10\n\nThe relevant figure may be found in the table titled \u201cGrowth Rates by Type of Economic Activity and Component of Expenditure (original series, percentage change over previous year)\u201d in the row \u201cGross Domestic Product\u201d and the column for the specified quarter. Changes in South Korea\u2019s GDP reporting format will not disqualify a published figure from counting.\n\nIf no data for the specified quarter is released by the date the next quarter's data is scheduled to be released, this market will resolve based on data from the last available quarter.\n\nNote: the resolution source for this market reports year-on-year GDP growth rates to only one decimal point (e.g. 0.3%). Thus, this is the level of precision that will be used when resolving the market.\n\nNote: data from the initial release of the referenced GDP report is what will be used to resolve this market. Data may be revised during the following quarter or as a part of the next estimate's publication, however any revisions to GDP report data made after the initial release will not be considered for this market's resolution. For the full release schedule, see: https://www.bok.or.kr/eng/stats/statsPublictSchdul/listCldr.do?menuNo=400359&date=2026-01",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/south-korea-gdp-growth-in-q1-2026-HBlO1h6TlE5N.jpg",
+            "yes_token_id": "115343307895834175810700572194363266346363125155134701513085207181460223347747",
+            "yes_probability": 0.36,
+            "yes_best_bid": 0.35,
+            "yes_best_ask": 0.36,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "51213724429724218261843943895707241579712850141798320122761087888111020410512",
+            "no_probability": 0.65,
+            "no_best_bid": 0.64,
+            "no_best_ask": 0.65,
+            "no_spread": 0.010000000000000009,
+            "volume": 20153.154309,
+            "liquidity": 9952.26,
+            "neg_risk": true,
+            "end_date": "2026-10-27T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 7,
+            "impact_level": "medium",
+            "impact_reason": "Loan for copper supply could support GDP growth in this range (1 hop).",
+            "event_id": "743876",
+            "event_title": "South Korea GDP growth (YoY) in Q3 2026?",
+            "event_slug": "south-korea-gdp-growth-yoy-in-q3-2026-20260723231127764",
+            "detected_yes_price": 0.36,
+            "detected_no_price": 0.65,
+            "detected_at": 1786938350639,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.36,
+            "highest_no_price": 0.65
+          },
+          {
+            "id": "3083655",
+            "slug": "south-korea-gdp-growth-yoy-in-q3-2026-20260723231127764",
+            "condition_id": "0xd15a63edf444d153a3ad92742549bb390d6ba24c7c4f5dd32d9cd8ede6cf3c5b",
+            "title": "2.0\u20132.4%",
+            "question": "Will South Korea GDP growth in Q3 2026 be between 2.0% and 2.4%?",
+            "description": "This market will resolve according to South Korea's real Gross Domestic Product (GDP) growth rate (Year-on-Year, %) in Q3 of 2026, as reported in the Bank of Korea\u2019s Real Gross Domestic Product (Advance Estimate) release for Q3 of 2026, scheduled for release on October 27, 2026.\n\nThe GDP release will be made available here: https://www.bok.or.kr/eng/singl/newsDataEng/list.do?pageIndex=&targetDepth=3&menuNo=400423&syncMenuChekKey=1&searchCnd=1&searchKwd=&depth2=400417&depth3=400423&date=&sdate=&edate=&sort=1&pageUnit=10\n\nThe relevant figure may be found in the table titled \u201cGrowth Rates by Type of Economic Activity and Component of Expenditure (original series, percentage change over previous year)\u201d in the row \u201cGross Domestic Product\u201d and the column for the specified quarter. Changes in South Korea\u2019s GDP reporting format will not disqualify a published figure from counting.\n\nIf no data for the specified quarter is released by the date the next quarter's data is scheduled to be released, this market will resolve based on data from the last available quarter.\n\nNote: the resolution source for this market reports year-on-year GDP growth rates to only one decimal point (e.g. 0.3%). Thus, this is the level of precision that will be used when resolving the market.\n\nNote: data from the initial release of the referenced GDP report is what will be used to resolve this market. Data may be revised during the following quarter or as a part of the next estimate's publication, however any revisions to GDP report data made after the initial release will not be considered for this market's resolution. For the full release schedule, see: https://www.bok.or.kr/eng/stats/statsPublictSchdul/listCldr.do?menuNo=400359&date=2026-01",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/south-korea-gdp-growth-in-q1-2026-HBlO1h6TlE5N.jpg",
+            "yes_token_id": "22054074045053220484061235626843711388593506658794459708245743535658299295038",
+            "yes_probability": 0.11,
+            "yes_best_bid": 0.1,
+            "yes_best_ask": 0.11,
+            "yes_spread": 0.009999999999999995,
+            "no_token_id": "101133719303375547794756060925495715853680907030832851721631072897922874911088",
+            "no_probability": 0.9,
+            "no_best_bid": 0.89,
+            "no_best_ask": 0.9,
+            "no_spread": 0.010000000000000009,
+            "volume": 11846.653424999999,
+            "liquidity": 12251.01,
+            "neg_risk": true,
+            "end_date": "2026-10-27T00:00:00Z",
+            "categories": [
+              "economy"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 7,
+            "impact_level": "medium",
+            "impact_reason": "Loan for copper supply could support GDP growth in this range (1 hop).",
+            "event_id": "743876",
+            "event_title": "South Korea GDP growth (YoY) in Q3 2026?",
+            "event_slug": "south-korea-gdp-growth-yoy-in-q3-2026-20260723231127764",
+            "detected_yes_price": 0.11,
+            "detected_no_price": 0.9,
+            "detected_at": 1786938350639,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.11,
+            "highest_no_price": 0.9
+          }
+        ],
+        "topics": [
+          "elon-musk",
+          "ai-tech"
+        ],
+        "categories": [
+          "elections",
+          "finance",
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "3083656",
+        "slug": "south-korea-gdp-growth-yoy-in-q3-2026-20260723231127764",
+        "condition_id": "0x62ee1bfa62040d79ef2452bd571adb05b6ef18da12812fff160df04521eba220",
+        "title": "2.5\u20132.9%",
+        "question": "Will South Korea GDP growth in Q3 2026 be between 2.5% and 2.9%?",
+        "description": "This market will resolve according to South Korea's real Gross Domestic Product (GDP) growth rate (Year-on-Year, %) in Q3 of 2026, as reported in the Bank of Korea\u2019s Real Gross Domestic Product (Advance Estimate) release for Q3 of 2026, scheduled for release on October 27, 2026.\n\nThe GDP release will be made available here: https://www.bok.or.kr/eng/singl/newsDataEng/list.do?pageIndex=&targetDepth=3&menuNo=400423&syncMenuChekKey=1&searchCnd=1&searchKwd=&depth2=400417&depth3=400423&date=&sdate=&edate=&sort=1&pageUnit=10\n\nThe relevant figure may be found in the table titled \u201cGrowth Rates by Type of Economic Activity and Component of Expenditure (original series, percentage change over previous year)\u201d in the row \u201cGross Domestic Product\u201d and the column for the specified quarter. Changes in South Korea\u2019s GDP reporting format will not disqualify a published figure from counting.\n\nIf no data for the specified quarter is released by the date the next quarter's data is scheduled to be released, this market will resolve based on data from the last available quarter.\n\nNote: the resolution source for this market reports year-on-year GDP growth rates to only one decimal point (e.g. 0.3%). Thus, this is the level of precision that will be used when resolving the market.\n\nNote: data from the initial release of the referenced GDP report is what will be used to resolve this market. Data may be revised during the following quarter or as a part of the next estimate's publication, however any revisions to GDP report data made after the initial release will not be considered for this market's resolution. For the full release schedule, see: https://www.bok.or.kr/eng/stats/statsPublictSchdul/listCldr.do?menuNo=400359&date=2026-01",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/south-korea-gdp-growth-in-q1-2026-HBlO1h6TlE5N.jpg",
+        "yes_token_id": "74877654726474653610737268866471132500470243770751207537653548012049921139552",
+        "yes_probability": 0.34,
+        "yes_best_bid": 0.28,
+        "yes_best_ask": 0.34,
+        "yes_spread": 0.06,
+        "no_token_id": "54253781166334148040284381664737106982010650641835620305731106307758709048579",
+        "no_probability": 0.72,
+        "no_best_bid": 0.66,
+        "no_best_ask": 0.72,
+        "no_spread": 0.05999999999999994,
+        "volume": 3550.5771510000004,
+        "liquidity": 11592.98,
+        "neg_risk": true,
+        "end_date": "2026-10-27T00:00:00Z",
+        "categories": [
+          "economy"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 7,
+        "impact_level": "medium",
+        "impact_reason": "Loan for copper supply could lead to GDP growth in this range (1 hop).",
+        "event_id": "743876",
+        "event_title": "South Korea GDP growth (YoY) in Q3 2026?",
+        "event_slug": "south-korea-gdp-growth-yoy-in-q3-2026-20260723231127764",
+        "detected_yes_price": 0.34,
+        "detected_no_price": 0.7,
+        "detected_at": 1786938350639,
+        "highest_price_change": 0.44117647058823517,
+        "highest_yes_price": 0.49,
+        "highest_no_price": 0.72,
+        "first_moved_at": 1786938357134,
+        "moved_side": "yes",
+        "peaked_at": 1786951757897
+      },
+      "_scraped_at": "2026-08-17T11:47:55.282699+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "rank": 5,
+      "feed_item": {
+        "id": "08905445-6368-4615-866c-a99c3b8fa34d",
+        "timestamp": 1786897969598,
+        "tweet": null,
+        "news": null,
+        "reddit": null,
+        "telegram": {
+          "feed_item_id": "08905445-6368-4615-866c-a99c3b8fa34d",
+          "text": "Another barrage of UMPK guided bombs hit Zaporozhye\n\n@Slavyangrad",
+          "channel": "Slavyangrad",
+          "timestamp": 1786897969598,
+          "link": "https://t.me/Slavyangrad"
+        },
+        "osint": false,
+        "country": "SA",
+        "countries": [
+          "SA"
+        ],
+        "related_markets": [
+          {
+            "id": "2676528",
+            "slug": "will-russia-capture-all-of-stepnohirsk-by",
+            "condition_id": "0xce30a577d01fae8689a05218fde403388d8bce41649f8156c96ccf104d631b59",
+            "title": "December 31",
+            "question": "Will Russia capture all of Stepnohirsk by December 31, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the entirety of Stepnohirsk, Zaporizhzhia Oblast, by December 31, 2026, 11:59 PM ET.\n\nStepnohirsk will be considered captured if the entirety of the municipality is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by December 31, 2026, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Russian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \u201cAssessed Russian Control\u201d, \u201cAssessed Russian Advance In Ukraine\u201d, or \u201cAssessed Russian Gains in the Past 24 Hours\u201d will qualify. \u201cAssessed Russian Infiltration Areas in Ukraine\u201d will not qualify.\n\nThe territory of the municipality is shaded in light grey and is distinguished from bordering municipalities such as \"Prymorske\" with a darker grey line. If all area within the municipality is shaded in red, however, the shading does not precisely match up with the border such that there is a tiny amount of grey along the border of the city, this will still qualify for a \"Yes\" resolution.\n\nOnce Russia captures the entirety of Stepnohirsk, any subsequent loss of control will not be considered towards the resolution of this market.\n\nLocation on Google maps: https://maps.app.goo.gl/CwF1b64Qo49PvUZw5\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map which will not be considered.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of if it is shaded red in the ISW map. An announcement of a negotiated settlement which gives Russia de jure control will not qualify. Actual control must be established.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-stepnohirsk-by-april-30-2026-6aZsbyN9lT8G.jpg",
+            "yes_token_id": "73316049507498931433586698093569969731375872043666758023277792674657837743941",
+            "yes_probability": 0.13,
+            "yes_best_bid": 0.12,
+            "yes_best_ask": 0.13,
+            "yes_spread": 0.010000000000000009,
+            "no_token_id": "30130989914172105520516978270299279759424141523356186172811567538617311468511",
+            "no_probability": 0.88,
+            "no_best_bid": 0.87,
+            "no_best_ask": 0.88,
+            "no_spread": 0.010000000000000009,
+            "volume": 10453.804820000007,
+            "liquidity": 12725,
+            "neg_risk": false,
+            "end_date": "2026-12-31T00:00:00Z",
+            "categories": [
+              "politics",
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Bombing in Zaporozhye indicates heightened military operations (1 hop).",
+            "event_id": "131611",
+            "event_title": "Will Russia capture all of Stepnohirsk by...?",
+            "event_slug": "will-russia-capture-all-of-stepnohirsk-by",
+            "detected_yes_price": 0.13,
+            "detected_no_price": 0.89,
+            "detected_at": 1786897996179,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.13,
+            "highest_no_price": 0.89
+          },
+          {
+            "id": "3501335",
+            "slug": "will-russia-target-kyiv-onptptpt-20260810162903045",
+            "condition_id": "0x4e66addfbf049d7fc67b2f509dff60d00515e414593c8f64ee7c554b65a5d3ef",
+            "title": "August 14",
+            "question": "Will Russia target Kyiv on August 14, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if Russia targets Kyiv through a qualifying military action on the specified date, Kyiv time. Otherwise, this market will resolve to \u201cNo.\u201d\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by Russia, directed at Kyiv. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action:\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including short range loitering munitions, FPV drones, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nMilitary action that consists primarily or exclusively of munitions that are intercepted before impact will still qualify if they constitute a qualifying military action during the specified timeframe; whether the munitions were intercepted, where the munitions landed, and whether damage resulted will not be considered.\n\nA military action will be considered directed at Kyiv if it targets any location within the city of Kyiv.\n\nThe occurrence, attribution, timing, and target of a qualifying military action will be primarily determined based on a consensus of information available from the resolution sources. Where multiple sources conflict regarding the occurrence, attribution, timing, or target of a relevant military action, this market will remain open until the earlier of: i) the confirmation of the occurrence, attribution, timing, and target of the action based on a consensus of information available from the resolution sources or ii) 3 full calendar days (Kyiv time) after the specified date. If this period would extend past the end date, this market will remain open to allow for 3 full calendar days to pass. If, at the end of the third calendar day, conflicting reports remain as to the occurrence, attribution, or timing of the action, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the governments and militaries of Ukraine and Russia and a consensus of credible reporting.",
+            "image": "",
+            "yes_token_id": "32228847986130605583365966884117043616771454493736304476750267234422797369576",
+            "yes_probability": 0.01,
+            "yes_best_bid": 0.001,
+            "yes_best_ask": 0.01,
+            "yes_spread": 0.009000000000000001,
+            "no_token_id": "38630880204907863276646485618065021566427517029841548669621759450802720210344",
+            "no_probability": 0.999,
+            "no_best_bid": 0.99,
+            "no_best_ask": 0.999,
+            "no_spread": 0.009000000000000008,
+            "volume": 774.8344579999999,
+            "liquidity": 1989.9900000000002,
+            "neg_risk": false,
+            "end_date": "2026-08-14T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Bombing in Zaporozhye indicates heightened military operations (1 hop).",
+            "event_id": "830106",
+            "event_title": "Will Russia target Kyiv on...?",
+            "event_slug": "will-russia-target-kyiv-onptptpt-20260810162903045",
+            "detected_yes_price": 0.01,
+            "detected_no_price": 0.999,
+            "detected_at": 1786897996179,
+            "highest_price_change": 0,
+            "highest_yes_price": 0.01,
+            "highest_no_price": 0.999
+          },
+          {
+            "id": "3501336",
+            "slug": "will-russia-target-kyiv-onptptpt-20260810162903045",
+            "condition_id": "0x713e9fc6ee84d6827cd0f04d212012fda5f00200d5246c740f5b52b14cc16a9b",
+            "title": "August 15",
+            "question": "Will Russia target Kyiv on August 15, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if Russia targets Kyiv through a qualifying military action on the specified date, Kyiv time. Otherwise, this market will resolve to \u201cNo.\u201d\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by Russia, directed at Kyiv. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action:\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including short range loitering munitions, FPV drones, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nMilitary action that consists primarily or exclusively of munitions that are intercepted before impact will still qualify if they constitute a qualifying military action during the specified timeframe; whether the munitions were intercepted, where the munitions landed, and whether damage resulted will not be considered.\n\nA military action will be considered directed at Kyiv if it targets any location within the city of Kyiv.\n\nThe occurrence, attribution, timing, and target of a qualifying military action will be primarily determined based on a consensus of information available from the resolution sources. Where multiple sources conflict regarding the occurrence, attribution, timing, or target of a relevant military action, this market will remain open until the earlier of: i) the confirmation of the occurrence, attribution, timing, and target of the action based on a consensus of information available from the resolution sources or ii) 3 full calendar days (Kyiv time) after the specified date. If this period would extend past the end date, this market will remain open to allow for 3 full calendar days to pass. If, at the end of the third calendar day, conflicting reports remain as to the occurrence, attribution, or timing of the action, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the governments and militaries of Ukraine and Russia and a consensus of credible reporting.",
+            "image": "",
+            "yes_token_id": "17773865606061670182833273450727597813525503693305382805740718051276915824517",
+            "yes_probability": 0.01,
+            "yes_best_bid": 0.001,
+            "yes_best_ask": 0.01,
+            "yes_spread": 0.009000000000000001,
+            "no_token_id": "39197796334442010402560965978873086625150564255567064208419137480002644948965",
+            "no_probability": 0.999,
+            "no_best_bid": 0.99,
+            "no_best_ask": 0.999,
+            "no_spread": 0.009000000000000008,
+            "volume": 830.196886,
+            "liquidity": 85996.4,
+            "neg_risk": false,
+            "end_date": "2026-08-15T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Bombing in Zaporozhye indicates heightened military operations (1 hop).",
+            "event_id": "830106",
+            "event_title": "Will Russia target Kyiv on...?",
+            "event_slug": "will-russia-target-kyiv-onptptpt-20260810162903045",
+            "detected_yes_price": 0.009,
+            "detected_no_price": 0.999,
+            "detected_at": 1786897996179,
+            "highest_price_change": 0.11111111111111122,
+            "highest_yes_price": 0.01,
+            "highest_no_price": 0.999,
+            "first_moved_at": 1786957418140,
+            "moved_side": "yes",
+            "peaked_at": 1786957418140
+          },
+          {
+            "id": "3501338",
+            "slug": "will-russia-target-kyiv-onptptpt-20260810162903045",
+            "condition_id": "0x4cb549c39572fea4125c14565e2c6c1b08328d25a9e24a132fe209a1fedf6834",
+            "title": "August 17",
+            "question": "Will Russia target Kyiv on August 17, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if Russia targets Kyiv through a qualifying military action on the specified date, Kyiv time. Otherwise, this market will resolve to \u201cNo.\u201d\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by Russia, directed at Kyiv. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action:\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including short range loitering munitions, FPV drones, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nMilitary action that consists primarily or exclusively of munitions that are intercepted before impact will still qualify if they constitute a qualifying military action during the specified timeframe; whether the munitions were intercepted, where the munitions landed, and whether damage resulted will not be considered.\n\nA military action will be considered directed at Kyiv if it targets any location within the city of Kyiv.\n\nThe occurrence, attribution, timing, and target of a qualifying military action will be primarily determined based on a consensus of information available from the resolution sources. Where multiple sources conflict regarding the occurrence, attribution, timing, or target of a relevant military action, this market will remain open until the earlier of: i) the confirmation of the occurrence, attribution, timing, and target of the action based on a consensus of information available from the resolution sources or ii) 3 full calendar days (Kyiv time) after the specified date. If this period would extend past the end date, this market will remain open to allow for 3 full calendar days to pass. If, at the end of the third calendar day, conflicting reports remain as to the occurrence, attribution, or timing of the action, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the governments and militaries of Ukraine and Russia and a consensus of credible reporting.",
+            "image": "",
+            "yes_token_id": "2937390348106853318189285698875963845831188138136145503842173783910647410008",
+            "yes_probability": 0.48,
+            "yes_best_bid": 0.02,
+            "yes_best_ask": 0.48,
+            "yes_spread": 0.45999999999999996,
+            "no_token_id": "89210681297075384649444539777985624125809752271532218024463224806746905672719",
+            "no_probability": 0.98,
+            "no_best_bid": 0.52,
+            "no_best_ask": 0.98,
+            "no_spread": 0.45999999999999996,
+            "volume": 650.0007220200001,
+            "liquidity": 443.99,
+            "neg_risk": false,
+            "end_date": "2026-08-17T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Bombing in Zaporozhye indicates heightened military operations (1 hop).",
+            "event_id": "830106",
+            "event_title": "Will Russia target Kyiv on...?",
+            "event_slug": "will-russia-target-kyiv-onptptpt-20260810162903045",
+            "detected_yes_price": 0.89,
+            "detected_no_price": 0.77,
+            "detected_at": 1786897996179,
+            "highest_price_change": 0.27272727272727265,
+            "highest_yes_price": 0.91,
+            "highest_no_price": 0.98,
+            "first_moved_at": 1786898033036,
+            "moved_side": "no",
+            "peaked_at": 1786965573116
+          },
+          {
+            "id": "3501339",
+            "slug": "will-russia-target-kyiv-onptptpt-20260810162903045",
+            "condition_id": "0x726f8ddc85c1bbc5e8c3bb253430180439175d0a2a26a5967001fb62f7a6fd31",
+            "title": "August 18",
+            "question": "Will Russia target Kyiv on August 18, 2026?",
+            "description": "This market will resolve to \u201cYes\u201d if Russia targets Kyiv through a qualifying military action on the specified date, Kyiv time. Otherwise, this market will resolve to \u201cNo.\u201d\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by Russia, directed at Kyiv. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action:\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including short range loitering munitions, FPV drones, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nMilitary action that consists primarily or exclusively of munitions that are intercepted before impact will still qualify if they constitute a qualifying military action during the specified timeframe; whether the munitions were intercepted, where the munitions landed, and whether damage resulted will not be considered.\n\nA military action will be considered directed at Kyiv if it targets any location within the city of Kyiv.\n\nThe occurrence, attribution, timing, and target of a qualifying military action will be primarily determined based on a consensus of information available from the resolution sources. Where multiple sources conflict regarding the occurrence, attribution, timing, or target of a relevant military action, this market will remain open until the earlier of: i) the confirmation of the occurrence, attribution, timing, and target of the action based on a consensus of information available from the resolution sources or ii) 3 full calendar days (Kyiv time) after the specified date. If this period would extend past the end date, this market will remain open to allow for 3 full calendar days to pass. If, at the end of the third calendar day, conflicting reports remain as to the occurrence, attribution, or timing of the action, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the governments and militaries of Ukraine and Russia and a consensus of credible reporting.",
+            "image": "",
+            "yes_token_id": "45355881912288202975748920990054101008186793399320744372121458691307954062557",
+            "yes_probability": 0.42,
+            "yes_best_bid": 0.37,
+            "yes_best_ask": 0.42,
+            "yes_spread": 0.04999999999999999,
+            "no_token_id": "77161025577579035676725053662424836109378503035278320197864571027276485731918",
+            "no_probability": 0.63,
+            "no_best_bid": 0.58,
+            "no_best_ask": 0.63,
+            "no_spread": 0.050000000000000044,
+            "volume": 187.37773399999998,
+            "liquidity": 2091.87,
+            "neg_risk": false,
+            "end_date": "2026-08-18T23:59:00Z",
+            "categories": [
+              "geopolitics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 8,
+            "impact_level": "high",
+            "impact_reason": "Bombing in Zaporozhye indicates heightened military operations (1 hop).",
+            "event_id": "830106",
+            "event_title": "Will Russia target Kyiv on...?",
+            "event_slug": "will-russia-target-kyiv-onptptpt-20260810162903045",
+            "detected_yes_price": 0.38,
+            "detected_no_price": 0.63,
+            "detected_at": 1786897996179,
+            "highest_price_change": 1.2368421052631577,
+            "highest_yes_price": 0.85,
+            "highest_no_price": 0.92,
+            "first_moved_at": 1786936318954,
+            "moved_side": "yes",
+            "peaked_at": 1786936318954
+          }
+        ],
+        "topics": null,
+        "categories": null
+      },
+      "related_market": {
+        "id": "3501338",
+        "slug": "will-russia-target-kyiv-onptptpt-20260810162903045",
+        "condition_id": "0x4cb549c39572fea4125c14565e2c6c1b08328d25a9e24a132fe209a1fedf6834",
+        "title": "August 17",
+        "question": "Will Russia target Kyiv on August 17, 2026?",
+        "description": "This market will resolve to \u201cYes\u201d if Russia targets Kyiv through a qualifying military action on the specified date, Kyiv time. Otherwise, this market will resolve to \u201cNo.\u201d\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by Russia, directed at Kyiv. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action:\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including short range loitering munitions, FPV drones, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nMilitary action that consists primarily or exclusively of munitions that are intercepted before impact will still qualify if they constitute a qualifying military action during the specified timeframe; whether the munitions were intercepted, where the munitions landed, and whether damage resulted will not be considered.\n\nA military action will be considered directed at Kyiv if it targets any location within the city of Kyiv.\n\nThe occurrence, attribution, timing, and target of a qualifying military action will be primarily determined based on a consensus of information available from the resolution sources. Where multiple sources conflict regarding the occurrence, attribution, timing, or target of a relevant military action, this market will remain open until the earlier of: i) the confirmation of the occurrence, attribution, timing, and target of the action based on a consensus of information available from the resolution sources or ii) 3 full calendar days (Kyiv time) after the specified date. If this period would extend past the end date, this market will remain open to allow for 3 full calendar days to pass. If, at the end of the third calendar day, conflicting reports remain as to the occurrence, attribution, or timing of the action, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the governments and militaries of Ukraine and Russia and a consensus of credible reporting.",
+        "image": "",
+        "yes_token_id": "2937390348106853318189285698875963845831188138136145503842173783910647410008",
+        "yes_probability": 0.48,
+        "yes_best_bid": 0.02,
+        "yes_best_ask": 0.48,
+        "yes_spread": 0.45999999999999996,
+        "no_token_id": "89210681297075384649444539777985624125809752271532218024463224806746905672719",
+        "no_probability": 0.98,
+        "no_best_bid": 0.52,
+        "no_best_ask": 0.98,
+        "no_spread": 0.45999999999999996,
+        "volume": 650.0007220200001,
+        "liquidity": 443.99,
+        "neg_risk": false,
+        "end_date": "2026-08-17T23:59:00Z",
+        "categories": [
+          "geopolitics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 8,
+        "impact_level": "high",
+        "impact_reason": "Bombing in Zaporozhye indicates heightened military operations (1 hop).",
+        "event_id": "830106",
+        "event_title": "Will Russia target Kyiv on...?",
+        "event_slug": "will-russia-target-kyiv-onptptpt-20260810162903045",
+        "detected_yes_price": 0.89,
+        "detected_no_price": 0.77,
+        "detected_at": 1786897996179,
+        "highest_price_change": 0.27272727272727265,
+        "highest_yes_price": 0.91,
+        "highest_no_price": 0.98,
+        "first_moved_at": 1786898033036,
+        "moved_side": "no",
+        "peaked_at": 1786965573116
+      },
+      "_scraped_at": "2026-08-17T11:47:55.282699+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "valid": false,
+      "_scraped_at": "2026-08-17T11:47:55.282699+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "global_tension_score": 40,
+      "global_tension_level": "ELEVATED",
+      "countries": [
+        {
+          "country": "UA",
+          "count": 11,
+          "recent": [
+            {
+              "id": "b2ff38e2-33bd-435c-888f-5dc78ac673db",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786946714452
+            },
+            {
+              "id": "e202af56-4b24-4b5c-91cd-ef78ea58af51",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1786946988769
+            },
+            {
+              "id": "16b290d5-6c92-422f-8c03-5efca191202b",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1786964166121
+            },
+            {
+              "id": "bec403d8-303b-4540-911a-f45e34f6d8ca",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786947063988
+            },
+            {
+              "id": "5b0fda2c-0184-4598-b216-4b5e7713c232",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1786965470354
+            },
+            {
+              "id": "e340902f-b42d-4bd4-8580-cde37a33f4c7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1786947648635
+            },
+            {
+              "id": "521008fa-14c0-4a82-b470-e098562a50b7",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786946439135
+            },
+            {
+              "id": "967d05d1-59ab-4314-b322-f5b91637e5da",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786947487584
+            },
+            {
+              "id": "7d3d13cf-89e3-4c45-9bb2-4d49ac9533e1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1786962904813
+            },
+            {
+              "id": "81f3a9d5-98eb-4cdf-8c3f-7cde42bcb109",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786962005666
+            },
+            {
+              "id": "1cf3fec2-1b22-4e92-ba09-ca261e765944",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1786964485111
+            }
+          ],
+          "volume": 3921279.3395878454,
+          "critical_signals": 0,
+          "high_signals": 9,
+          "low_signals": 2
+        },
+        {
+          "country": "RU",
+          "count": 11,
+          "recent": [
+            {
+              "id": "b2ff38e2-33bd-435c-888f-5dc78ac673db",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786946714452
+            },
+            {
+              "id": "e202af56-4b24-4b5c-91cd-ef78ea58af51",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1786946988769
+            },
+            {
+              "id": "bec403d8-303b-4540-911a-f45e34f6d8ca",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786947063988
+            },
+            {
+              "id": "5b0fda2c-0184-4598-b216-4b5e7713c232",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1786965470354
+            },
+            {
+              "id": "e340902f-b42d-4bd4-8580-cde37a33f4c7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1786947648635
+            },
+            {
+              "id": "521008fa-14c0-4a82-b470-e098562a50b7",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786946439135
+            },
+            {
+              "id": "16ad9a7e-7b44-427e-b699-3e9799e9766d",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1786946748661
+            },
+            {
+              "id": "967d05d1-59ab-4314-b322-f5b91637e5da",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786947487584
+            },
+            {
+              "id": "b3cadd19-07fc-42f1-ad04-df3d9eaec2b7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1786964284767
+            },
+            {
+              "id": "81f3a9d5-98eb-4cdf-8c3f-7cde42bcb109",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786962005666
+            },
+            {
+              "id": "1cf3fec2-1b22-4e92-ba09-ca261e765944",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1786964485111
+            }
+          ],
+          "volume": 3945923.5225538453,
+          "critical_signals": 0,
+          "high_signals": 10,
+          "low_signals": 1
+        },
+        {
+          "country": "GB",
+          "count": 11,
+          "recent": [
+            {
+              "id": "b2ff38e2-33bd-435c-888f-5dc78ac673db",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786946714452
+            },
+            {
+              "id": "e202af56-4b24-4b5c-91cd-ef78ea58af51",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1786946988769
+            },
+            {
+              "id": "16b290d5-6c92-422f-8c03-5efca191202b",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1786964166121
+            },
+            {
+              "id": "bec403d8-303b-4540-911a-f45e34f6d8ca",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786947063988
+            },
+            {
+              "id": "5b0fda2c-0184-4598-b216-4b5e7713c232",
+              "kind": "news",
+              "impact": "high",
+              "timestamp": 1786965470354
+            },
+            {
+              "id": "e340902f-b42d-4bd4-8580-cde37a33f4c7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1786947648635
+            },
+            {
+              "id": "521008fa-14c0-4a82-b470-e098562a50b7",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786946439135
+            },
+            {
+              "id": "967d05d1-59ab-4314-b322-f5b91637e5da",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786947487584
+            },
+            {
+              "id": "7d3d13cf-89e3-4c45-9bb2-4d49ac9533e1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1786962904813
+            },
+            {
+              "id": "81f3a9d5-98eb-4cdf-8c3f-7cde42bcb109",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786962005666
+            },
+            {
+              "id": "1cf3fec2-1b22-4e92-ba09-ca261e765944",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1786964485111
+            }
+          ],
+          "volume": 3921279.3395878454,
+          "critical_signals": 0,
+          "high_signals": 9,
+          "low_signals": 2
+        },
+        {
+          "country": "IR",
+          "count": 10,
+          "recent": [
+            {
+              "id": "d5e46a43-a2f4-4e7d-8fdd-8dd721d80bb7",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786947354910
+            },
+            {
+              "id": "79d97303-3727-494b-b2c7-76930ee5b867",
+              "kind": "news",
+              "impact": "critical",
+              "timestamp": 1786955690331
+            },
+            {
+              "id": "29b2f369-a2bd-407d-967a-6f5e36f4e489",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1786953678421
+            },
+            {
+              "id": "9edfb477-28a5-4e7a-b8db-6fe16cfb93d7",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786947186754
+            },
+            {
+              "id": "2d112186-bfe3-465c-89d2-391998d012b3",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786955272960
+            },
+            {
+              "id": "96be0a88-5771-4b3c-b8a7-fb9f3e394a12",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1786966933674
+            },
+            {
+              "id": "967d05d1-59ab-4314-b322-f5b91637e5da",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786947487584
+            },
+            {
+              "id": "e27cdff6-0d07-4903-b7a2-3bbbaab4b214",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786954011765
+            },
+            {
+              "id": "a2ce4530-2553-4c48-a35c-20d675625848",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786954805488
+            },
+            {
+              "id": "59687df1-2429-4184-a492-747e2566003e",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1786952565494
+            }
+          ],
+          "volume": 72372389.64744256,
+          "critical_signals": 2,
+          "high_signals": 6,
+          "low_signals": 2
+        },
+        {
+          "country": "US",
+          "count": 7,
+          "recent": [
+            {
+              "id": "5ccf5444-d64d-4614-967e-47c15fb9f8b8",
+              "kind": "news",
+              "impact": "critical",
+              "timestamp": 1786950470612
+            },
+            {
+              "id": "ce4399f2-e756-4d6c-892c-10c8b69e6c1e",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786965934257
+            },
+            {
+              "id": "16b290d5-6c92-422f-8c03-5efca191202b",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1786964166121
+            },
+            {
+              "id": "d5e46a43-a2f4-4e7d-8fdd-8dd721d80bb7",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786947354910
+            },
+            {
+              "id": "9edfb477-28a5-4e7a-b8db-6fe16cfb93d7",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786947186754
+            },
+            {
+              "id": "96be0a88-5771-4b3c-b8a7-fb9f3e394a12",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1786966933674
+            },
+            {
+              "id": "1d64745f-d872-4a95-8121-113b85a72ab9",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1786963429041
+            }
+          ],
+          "volume": 74629209.51586552,
+          "critical_signals": 1,
+          "high_signals": 3,
+          "low_signals": 3
+        },
+        {
+          "country": "IL",
+          "count": 5,
+          "recent": [
+            {
+              "id": "ce4399f2-e756-4d6c-892c-10c8b69e6c1e",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786965934257
+            },
+            {
+              "id": "d5e46a43-a2f4-4e7d-8fdd-8dd721d80bb7",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786947354910
+            },
+            {
+              "id": "2d112186-bfe3-465c-89d2-391998d012b3",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786955272960
+            },
+            {
+              "id": "526393d7-a8b6-4ac9-b1ca-6130450baf9d",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786959792722
+            },
+            {
+              "id": "a2ce4530-2553-4c48-a35c-20d675625848",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786954805488
+            }
+          ],
+          "volume": 58881284.87243699,
+          "critical_signals": 0,
+          "high_signals": 5,
+          "low_signals": 0
+        },
+        {
+          "country": "PS",
+          "count": 4,
+          "recent": [
+            {
+              "id": "328a6320-e0e9-4bcf-929b-04c899904a56",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1786966470953
+            },
+            {
+              "id": "ce4399f2-e756-4d6c-892c-10c8b69e6c1e",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786965934257
+            },
+            {
+              "id": "526393d7-a8b6-4ac9-b1ca-6130450baf9d",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786959792722
+            },
+            {
+              "id": "a2ce4530-2553-4c48-a35c-20d675625848",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786954805488
+            }
+          ],
+          "volume": 1572131.6722644398,
+          "critical_signals": 1,
+          "high_signals": 3,
+          "low_signals": 0
+        },
+        {
+          "country": "OM",
+          "count": 3,
+          "recent": [
+            {
+              "id": "e340902f-b42d-4bd4-8580-cde37a33f4c7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1786947648635
+            },
+            {
+              "id": "96be0a88-5771-4b3c-b8a7-fb9f3e394a12",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1786966933674
+            },
+            {
+              "id": "59687df1-2429-4184-a492-747e2566003e",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1786952565494
+            }
+          ],
+          "volume": 554263.5957364979,
+          "critical_signals": 1,
+          "high_signals": 1,
+          "low_signals": 1
+        },
+        {
+          "country": "BY",
+          "count": 3,
+          "recent": [
+            {
+              "id": "e202af56-4b24-4b5c-91cd-ef78ea58af51",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1786946988769
+            },
+            {
+              "id": "bec403d8-303b-4540-911a-f45e34f6d8ca",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786947063988
+            },
+            {
+              "id": "967d05d1-59ab-4314-b322-f5b91637e5da",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786947487584
+            }
+          ],
+          "volume": 2440684.145558825,
+          "critical_signals": 0,
+          "high_signals": 3,
+          "low_signals": 0
+        },
+        {
+          "country": "LV",
+          "count": 3,
+          "recent": [
+            {
+              "id": "e340902f-b42d-4bd4-8580-cde37a33f4c7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1786947648635
+            },
+            {
+              "id": "7d3d13cf-89e3-4c45-9bb2-4d49ac9533e1",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1786962904813
+            },
+            {
+              "id": "b3cadd19-07fc-42f1-ad04-df3d9eaec2b7",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1786964284767
+            }
+          ],
+          "volume": 1502025.377102021,
+          "critical_signals": 0,
+          "high_signals": 3,
+          "low_signals": 0
+        },
+        {
+          "country": "PL",
+          "count": 3,
+          "recent": [
+            {
+              "id": "e202af56-4b24-4b5c-91cd-ef78ea58af51",
+              "kind": "telegram",
+              "impact": "high",
+              "timestamp": 1786946988769
+            },
+            {
+              "id": "bec403d8-303b-4540-911a-f45e34f6d8ca",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786947063988
+            },
+            {
+              "id": "967d05d1-59ab-4314-b322-f5b91637e5da",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786947487584
+            }
+          ],
+          "volume": 2440684.145558825,
+          "critical_signals": 0,
+          "high_signals": 3,
+          "low_signals": 0
+        },
+        {
+          "country": "AE",
+          "count": 2,
+          "recent": [
+            {
+              "id": "48c3684d-ebf2-4594-95c9-47276246de52",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1786962043092
+            },
+            {
+              "id": "8987f199-a5d1-4f9c-acae-60e0722f7561",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1786960710812
+            }
+          ],
+          "volume": 1763.0818439999998,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 2
+        },
+        {
+          "country": "CN",
+          "count": 2,
+          "recent": [
+            {
+              "id": "48c3684d-ebf2-4594-95c9-47276246de52",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1786962043092
+            },
+            {
+              "id": "8987f199-a5d1-4f9c-acae-60e0722f7561",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1786960710812
+            }
+          ],
+          "volume": 1763.0818439999998,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 2
+        },
+        {
+          "country": "LB",
+          "count": 2,
+          "recent": [
+            {
+              "id": "2d112186-bfe3-465c-89d2-391998d012b3",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786955272960
+            },
+            {
+              "id": "a2ce4530-2553-4c48-a35c-20d675625848",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786954805488
+            }
+          ],
+          "volume": 154021.55745202999,
+          "critical_signals": 0,
+          "high_signals": 2,
+          "low_signals": 0
+        },
+        {
+          "country": "SD",
+          "count": 2,
+          "recent": [
+            {
+              "id": "48c3684d-ebf2-4594-95c9-47276246de52",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1786962043092
+            },
+            {
+              "id": "8987f199-a5d1-4f9c-acae-60e0722f7561",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1786960710812
+            }
+          ],
+          "volume": 1763.0818439999998,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 2
+        },
+        {
+          "country": "EG",
+          "count": 1,
+          "recent": [
+            {
+              "id": "328a6320-e0e9-4bcf-929b-04c899904a56",
+              "kind": "xpost",
+              "impact": "critical",
+              "timestamp": 1786966470953
+            }
+          ],
+          "volume": 1448515.5317247699,
+          "critical_signals": 1,
+          "high_signals": 0,
+          "low_signals": 0
+        },
+        {
+          "country": "SA",
+          "count": 1,
+          "recent": [
+            {
+              "id": "1cf3fec2-1b22-4e92-ba09-ca261e765944",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1786964485111
+            }
+          ],
+          "volume": 2651484.0824849503,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "IN",
+          "count": 1,
+          "recent": [
+            {
+              "id": "de7fad3e-bcf9-4ce3-8b3a-09dbf5e645aa",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1786965912937
+            }
+          ],
+          "volume": 216045.17245600003,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "KR",
+          "count": 1,
+          "recent": [
+            {
+              "id": "1d64745f-d872-4a95-8121-113b85a72ab9",
+              "kind": "xpost",
+              "impact": "low",
+              "timestamp": 1786963429041
+            }
+          ],
+          "volume": 99784.75499901798,
+          "critical_signals": 0,
+          "high_signals": 0,
+          "low_signals": 1
+        },
+        {
+          "country": "BR",
+          "count": 1,
+          "recent": [
+            {
+              "id": "d76a53e3-4f99-40b0-a8b2-4e5aad21fcd0",
+              "kind": "xpost",
+              "impact": "high",
+              "timestamp": 1786957927743
+            }
+          ],
+          "volume": 8699058.645152042,
+          "critical_signals": 0,
+          "high_signals": 1,
+          "low_signals": 0
+        }
+      ],
+      "_scraped_at": "2026-08-17T11:47:55.282699+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
