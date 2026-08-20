@@ -1,0 +1,161 @@
+{
+  "scraped_at": "2026-08-20T23:47:42.075913+00:00",
+  "source_url": "https://glint.trade/feed",
+  "item_count": 3,
+  "items": [
+    {
+      "rank": 1,
+      "feed_item": {
+        "id": "cecf8a7f-912d-4767-8aa2-b863447e8dd5",
+        "timestamp": 1787183404965,
+        "tweet": {
+          "feed_item_id": "cecf8a7f-912d-4767-8aa2-b863447e8dd5",
+          "post_id": "2090224814636101759",
+          "post_type": "tweet",
+          "created_at": 1787183404965,
+          "user": {
+            "uid": "34713362",
+            "handle": "business",
+            "display_name": "Bloomberg",
+            "pfp": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_400x400.jpg"
+          },
+          "tags": [
+            "financials"
+          ],
+          "body": "The Trump administration is poised to reduce tariffs on automobiles imported from Canada to 15% from 25% as part of a broader deal that would see the US neighbor drop retaliatory trade measures, according to people familiar with the matter https://www.bloomberg.com/news/articles/2026-08-19/trump-offers-to-cut-canada-auto-tariffs-to-15-in-trade-deal?taid=6a86412c7e26be0001ad727b&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+          "link": "https://twitter.com/business/status/2090224814636101759",
+          "attachments": [
+            {
+              "kind": "photo",
+              "src": "https://pbs.twimg.com/card_img/2090193398888054784/VvRX69n4?format=jpg&name=orig"
+            }
+          ]
+        },
+        "news": null,
+        "reddit": null,
+        "telegram": null,
+        "osint": false,
+        "country": "CA",
+        "countries": [
+          "CA",
+          "US"
+        ],
+        "related_markets": [
+          {
+            "id": "3709612",
+            "slug": "us-canada-diplomatic-agreement-to-lower-tariffs-by-august-31",
+            "condition_id": "0xe2e9eaf89f4840bf55559286cd5fcc4a12de5feefc2ef70188083bd0d6be9a03",
+            "title": "",
+            "question": "US-Canada diplomatic agreement to lower tariffs by August 31?",
+            "description": "This market will resolve to \u201cYes\u201d if a diplomatic agreement between the United States and Canada to lower US tariffs on Canada is announced by August 31, 2026, 11:59 PM ET.\n\nA diplomatic agreement to lower US tariffs on Canada refers to an official agreement, treaty, deal, or substantially similar diplomatic instrument that commits or obligates the United States to lower any tariffs on Canada, or includes the lowering of US tariffs on Canada as part of its stated terms.\n\nAny reduction, revocation, or suspension of US tariffs on Canada, or the cancelled or suspended implementation of previously announced tariffs not yet effective, mutually announced as part of a diplomatic agreement, will qualify as lowering tariffs.\n\nAll listed countries must announce their acceptance of the same qualifying diplomatic agreement. A joint announcement will qualify, as will separate announcements from each entity of its own acceptance of an agreement which, taken together, directly indicate that all the listed countries accepted the same agreement. Separate announcements of individual policies will not qualify if the policies are not announced as part of a diplomatic agreement.\n\nEach announcement must be a declarative statement that clearly and unambiguously communicates acceptance of an agreement. Statements that reference ongoing negotiations or a prospective agreement, or that allude to or express support for an agreement without confirming acceptance of the agreement, do not qualify. A qualifying announcement need not reference the agreement by name or use specific terminology, provided it clearly communicates acceptance of an agreement.\n\nWhether announcements from the listed countries represent a diplomatic agreement and whether such an agreement qualifies will be primarily determined through the announcements themselves. Where an announcement is made by all listed countries but, based on the announcements, it remains ambiguous whether the announcements represent a qualifying diplomatic agreement between the countries or whether the agreement qualifies, this market will remain open until either i) definitive confirmation that the announcements represent a qualifying diplomatic agreement between the listed entities is achieved through further announcements from the listed countries or a consensus of credible reporting or ii) 14 calendar days (ET) have passed after the date that the last country made their first potentially qualifying announcement. If this period would extend past the end date, this market will remain open to allow for 14 full calendar days to pass. If, at the end of the fourteenth calendar day, no definitive confirmation has been achieved, the announcements will be adjudicated based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the governments of the United States and Canada and a consensus of credible reporting.",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-canada-diplomatic-agreement-to-lower-tariffs-by-august-31-dHLeCIoNnnOg.jpg",
+            "yes_token_id": "47945908176629211070955964388512944900045792986503538917734382046977453685797",
+            "yes_probability": 0.6,
+            "yes_best_bid": 0.57,
+            "yes_best_ask": 0.6,
+            "yes_spread": 0.030000000000000027,
+            "no_token_id": "54102221601953052434039698585629960600080513394468103030824021178248579653812",
+            "no_probability": 0.43,
+            "no_best_bid": 0.4,
+            "no_best_ask": 0.43,
+            "no_spread": 0.02999999999999997,
+            "volume": 5571.88250464,
+            "liquidity": 11418.149999999998,
+            "neg_risk": false,
+            "end_date": "2026-08-31T23:59:00Z",
+            "categories": [
+              "politics"
+            ],
+            "source": "polymarket",
+            "is_five_minute_crypto": false,
+            "relevance_score": 9,
+            "impact_level": "critical",
+            "impact_reason": "Tariff reduction announcement indicates a diplomatic agreement is imminent (1 hop)",
+            "event_id": "872544",
+            "event_title": "US-Canada diplomatic agreement to lower tariffs by August 31?",
+            "event_slug": "us-canada-diplomatic-agreement-to-lower-tariffs-by-august-31",
+            "detected_yes_price": 0.83,
+            "detected_no_price": 0.36,
+            "detected_at": 1787183410722,
+            "highest_price_change": 1.4166666666666667,
+            "highest_yes_price": 0.88,
+            "highest_no_price": 0.87,
+            "first_moved_at": 1787183521842,
+            "moved_side": "no",
+            "peaked_at": 1787235115970
+          }
+        ],
+        "topics": [
+          "trump-tariffs",
+          "elon-musk",
+          "ai-tech"
+        ],
+        "categories": [
+          "economy",
+          "elections",
+          "tech"
+        ]
+      },
+      "related_market": {
+        "id": "3709612",
+        "slug": "us-canada-diplomatic-agreement-to-lower-tariffs-by-august-31",
+        "condition_id": "0xe2e9eaf89f4840bf55559286cd5fcc4a12de5feefc2ef70188083bd0d6be9a03",
+        "title": "",
+        "question": "US-Canada diplomatic agreement to lower tariffs by August 31?",
+        "description": "This market will resolve to \u201cYes\u201d if a diplomatic agreement between the United States and Canada to lower US tariffs on Canada is announced by August 31, 2026, 11:59 PM ET.\n\nA diplomatic agreement to lower US tariffs on Canada refers to an official agreement, treaty, deal, or substantially similar diplomatic instrument that commits or obligates the United States to lower any tariffs on Canada, or includes the lowering of US tariffs on Canada as part of its stated terms.\n\nAny reduction, revocation, or suspension of US tariffs on Canada, or the cancelled or suspended implementation of previously announced tariffs not yet effective, mutually announced as part of a diplomatic agreement, will qualify as lowering tariffs.\n\nAll listed countries must announce their acceptance of the same qualifying diplomatic agreement. A joint announcement will qualify, as will separate announcements from each entity of its own acceptance of an agreement which, taken together, directly indicate that all the listed countries accepted the same agreement. Separate announcements of individual policies will not qualify if the policies are not announced as part of a diplomatic agreement.\n\nEach announcement must be a declarative statement that clearly and unambiguously communicates acceptance of an agreement. Statements that reference ongoing negotiations or a prospective agreement, or that allude to or express support for an agreement without confirming acceptance of the agreement, do not qualify. A qualifying announcement need not reference the agreement by name or use specific terminology, provided it clearly communicates acceptance of an agreement.\n\nWhether announcements from the listed countries represent a diplomatic agreement and whether such an agreement qualifies will be primarily determined through the announcements themselves. Where an announcement is made by all listed countries but, based on the announcements, it remains ambiguous whether the announcements represent a qualifying diplomatic agreement between the countries or whether the agreement qualifies, this market will remain open until either i) definitive confirmation that the announcements represent a qualifying diplomatic agreement between the listed entities is achieved through further announcements from the listed countries or a consensus of credible reporting or ii) 14 calendar days (ET) have passed after the date that the last country made their first potentially qualifying announcement. If this period would extend past the end date, this market will remain open to allow for 14 full calendar days to pass. If, at the end of the fourteenth calendar day, no definitive confirmation has been achieved, the announcements will be adjudicated based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.\n\nThe resolution sources for this market will be official information from the governments of the United States and Canada and a consensus of credible reporting.",
+        "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-canada-diplomatic-agreement-to-lower-tariffs-by-august-31-dHLeCIoNnnOg.jpg",
+        "yes_token_id": "47945908176629211070955964388512944900045792986503538917734382046977453685797",
+        "yes_probability": 0.6,
+        "yes_best_bid": 0.57,
+        "yes_best_ask": 0.6,
+        "yes_spread": 0.030000000000000027,
+        "no_token_id": "54102221601953052434039698585629960600080513394468103030824021178248579653812",
+        "no_probability": 0.43,
+        "no_best_bid": 0.4,
+        "no_best_ask": 0.43,
+        "no_spread": 0.02999999999999997,
+        "volume": 5571.88250464,
+        "liquidity": 11418.149999999998,
+        "neg_risk": false,
+        "end_date": "2026-08-31T23:59:00Z",
+        "categories": [
+          "politics"
+        ],
+        "source": "polymarket",
+        "is_five_minute_crypto": false,
+        "relevance_score": 9,
+        "impact_level": "critical",
+        "impact_reason": "Tariff reduction announcement indicates a diplomatic agreement is imminent (1 hop)",
+        "event_id": "872544",
+        "event_title": "US-Canada diplomatic agreement to lower tariffs by August 31?",
+        "event_slug": "us-canada-diplomatic-agreement-to-lower-tariffs-by-august-31",
+        "detected_yes_price": 0.83,
+        "detected_no_price": 0.36,
+        "detected_at": 1787183410722,
+        "highest_price_change": 1.4166666666666667,
+        "highest_yes_price": 0.88,
+        "highest_no_price": 0.87,
+        "first_moved_at": 1787183521842,
+        "moved_side": "no",
+        "peaked_at": 1787235115970
+      },
+      "_scraped_at": "2026-08-20T23:47:42.075913+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/movers"
+    },
+    {
+      "valid": false,
+      "_scraped_at": "2026-08-20T23:47:42.075913+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/auth/validate-code"
+    },
+    {
+      "global_tension_score": 12,
+      "global_tension_level": "LOW",
+      "countries": null,
+      "_scraped_at": "2026-08-20T23:47:42.075913+00:00",
+      "_source": "api",
+      "_source_api_url": "https://api-v2.glint.trade/api/public/globe/v2"
+    }
+  ]
+}
